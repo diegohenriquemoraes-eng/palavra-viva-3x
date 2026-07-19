@@ -248,7 +248,11 @@ def main() -> None:
                     pacote, idx, idioma, canal_cfg["handle"],
                     SAIDA / idioma / f"{pasta_pacote.name}-short",
                     url_longo=longo_do_dia(ec, pasta_pacote.name),
-                    afiliado=canal_cfg.get("afiliado", ""))
+                    # versão curta no Short: o bloco inteiro repetido em cada
+                    # publicação deixa o canal com cara de anúncio, e descrição
+                    # de Short quase não é aberta — quem converte é o longo
+                    afiliado=(canal_cfg.get("afiliado_short")
+                              or canal_cfg.get("afiliado", "")))
 
             # O longo é a peça frágil (16 min, 30 imagens, centenas de MB).
             # Se ele quebrar, o canal NÃO pode ficar parado o dia inteiro —
