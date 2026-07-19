@@ -1,8 +1,8 @@
 {
   "slug": "protecao-91",
   "data": "2026-07-20",
-  "criado_em": "2026-07-19T02:16:58+00:00",
-  "aprovado_em": "2026-07-19T02:16:58+00:00",
+  "criado_em": "2026-07-19T09:03:14+00:00",
+  "aprovado_em": "2026-07-19T09:03:14+00:00",
   "longo": {
     "refs": [
       "Psalms 91",
@@ -28,70 +28,58 @@
     },
     "imagens": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fortress_Mountain_Formation%2C_Alaska.jpg/1920px-Fortress_Mountain_Formation%2C_Alaska.jpg",
-        "autor": "<p>Dave Houseknecht\nUSGS\n</p>\ndhouse@usgs.gov",
-        "origem": "https://commons.wikimedia.org/wiki/File:Fortress_Mountain_Formation,_Alaska.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/White_tailed_eagle_raftsund_square_crop.jpg/1920px-White_tailed_eagle_raftsund_square_crop.jpg",
+        "autor": "<a href=\"//commons.wikimedia.org/wiki/User:C-M\" title=\"User:C-M\">Christoph Müller (http://www.christophmueller.org)</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:White_tailed_eagle_raftsund_square_crop.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eagle_Nebula_from_ESO.jpg/1920px-Eagle_Nebula_from_ESO.jpg",
+        "autor": "ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Eagle_Nebula_from_ESO.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pyatigorsk%2C_Eagle_sculpture%2C_Russia.jpg/1920px-Pyatigorsk%2C_Eagle_sculpture%2C_Russia.jpg",
+        "autor": "<a href=\"//commons.wikimedia.org/wiki/User:Argenberg\" title=\"User:Argenberg\">Vyacheslav Argenberg</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Pyatigorsk,_Eagle_sculpture,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Eagle_crater_Freedom_crater_009A52_009A54.jpg",
+        "autor": "James Stuby based on NASA images",
+        "origem": "https://commons.wikimedia.org/wiki/File:Eagle_crater_Freedom_crater_009A52_009A54.jpg",
         "licenca": "Public domain"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bald_Eagle_flying.jpg/1920px-Bald_Eagle_flying.jpg",
-        "autor": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Kissmykumbaya&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"",
-        "origem": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_flying.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Eagle_River_in_Eagle_Colorado.JPG/1920px-Eagle_River_in_Eagle_Colorado.JPG",
+        "autor": "<a href=\"//commons.wikimedia.org/wiki/User:Jeffrey_Beall\" title=\"User:Jeffrey Beall\">Jeffrey Beall</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Eagle_River_in_Eagle_Colorado.JPG",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sunlight_through_clouds_%28181090709%29.jpg/1920px-Sunlight_through_clouds_%28181090709%29.jpg",
+        "autor": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/aufgang\">Daniel Aufgang</a></div>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunlight_through_clouds_(181090709).jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sunlight_through_clouds_above_La_Toussuire_from_le_Marolay%2C_2023.jpg/1920px-Sunlight_through_clouds_above_La_Toussuire_from_le_Marolay%2C_2023.jpg",
+        "autor": "<a href=\"//commons.wikimedia.org/wiki/User:DimiTalen\" title=\"User:DimiTalen\">DimiTalen</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunlight_through_clouds_above_La_Toussuire_from_le_Marolay,_2023.jpg",
         "licenca": "CC0"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/USAF_F-15Cs_secure_Iceland%E2%80%99s_sovereign_skies_%284615146%29.jpg/1920px-USAF_F-15Cs_secure_Iceland%E2%80%99s_sovereign_skies_%284615146%29.jpg",
-        "autor": "U.S. Air Force 148FW by Staff Sgt. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dvidshub.net/portfolio/1271",
-        "origem": "https://commons.wikimedia.org/wiki/File:USAF_F-15Cs_secure_Iceland%E2%80%99s_sovereign_skies_(4615146).jpg",
-        "licenca": "Public domain"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%22Sunlight_Peeking_Through_Moody_Clouds%22.jpg/1920px-%22Sunlight_Peeking_Through_Moody_Clouds%22.jpg",
+        "autor": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KaanaveniSaikiran&amp;action=edit&amp;redlink=1\" class=\"new\" tit",
+        "origem": "https://commons.wikimedia.org/wiki/File:%22Sunlight_Peeking_Through_Moody_Clouds%22.jpg",
+        "licenca": "CC0"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Golden_Eagle_Flying_%2854792291340%29.jpg/1920px-Golden_Eagle_Flying_%2854792291340%29.jpg",
-        "autor": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/glaciernps/\">GlacierNPS</a>",
-        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Eagle_Flying_(54792291340).jpg",
-        "licenca": "Public domain"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/48th_Fighter_Wing_strengthens_partnerships_during_Ocean_Sky_%289374194%29.jpg/1920px-48th_Fighter_Wing_strengthens_partnerships_during_Ocean_Sky_%289374194%29.jpg",
-        "autor": "U.S. Air Force photo by Staff Sgt. <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dvidshub.net/portfolio/1726",
-        "origem": "https://commons.wikimedia.org/wiki/File:48th_Fighter_Wing_strengthens_partnerships_during_Ocean_Sky_(9374194).jpg",
-        "licenca": "Public domain"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rocketeers_return_to_the_skies_130717-F-JH807-175.jpg/1920px-Rocketeers_return_to_the_skies_130717-F-JH807-175.jpg",
-        "autor": "Airman 1st Class Brittain Crolley",
-        "origem": "https://commons.wikimedia.org/wiki/File:Rocketeers_return_to_the_skies_130717-F-JH807-175.jpg",
-        "licenca": "Public domain"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thunder_Storm_%288497618033%29.jpg/1920px-Thunder_Storm_%288497618033%29.jpg",
-        "autor": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/40927340@N03\">Marines</a> from Arlington, VA",
-        "origem": "https://commons.wikimedia.org/wiki/File:Thunder_Storm_(8497618033).jpg",
-        "licenca": "Public domain"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Probing_Storm_Systems_on_Jupiter_%28Graphic%29_%282020-21-4660%29.tif/lossy-page1-1920px-Probing_Storm_Systems_on_Jupiter_%28Graphic%29_%282020-21-4660%29.tif.jpg",
-        "autor": ", , M.H. Wong (UC Berkeley), and A. James and M.W. Carruthers ()",
-        "origem": "https://commons.wikimedia.org/wiki/File:Probing_Storm_Systems_on_Jupiter_(Graphic)_(2020-21-4660).tif",
-        "licenca": "Public domain"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Eug%C3%A8ne_Isabey_-_After_the_Storm_-_Walters_3763.jpg",
-        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Eug%C3%A8ne_Isabey\" class=\"extiw\" title=\"w:en:Eugène Isabey\"><span title=",
-        "origem": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Isabey_-_After_the_Storm_-_Walters_3763.jpg",
-        "licenca": "Public domain"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Saturn_Storm_Panoramas.jpg/1920px-Saturn_Storm_Panoramas.jpg",
-        "autor": "NASA/JPL-Caltech/SSI",
-        "origem": "https://commons.wikimedia.org/wiki/File:Saturn_Storm_Panoramas.jpg",
-        "licenca": "Public domain"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Second_Winter_Storm_Dumps_Snow_Across_the_United_States_%28MODIS_2024-01-18%29.jpg/1920px-Second_Winter_Storm_Dumps_Snow_Across_the_United_States_%28MODIS_2024-01-18%29.jpg",
-        "autor": "MODIS Land Rapid Response Team, NASA GSFC",
-        "origem": "https://commons.wikimedia.org/wiki/File:Second_Winter_Storm_Dumps_Snow_Across_the_United_States_(MODIS_2024-01-18).jpg",
-        "licenca": "Public domain"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Unidentified_landscape_with_sunlight_through_clouds_%28188325245%29.jpg/1920px-Unidentified_landscape_with_sunlight_through_clouds_%28188325245%29.jpg",
+        "autor": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/mshort1803\">Mshort1803</a></div>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Unidentified_landscape_with_sunlight_through_clouds_(188325245).jpg",
+        "licenca": "CC BY 3.0"
       }
     ]
   },
@@ -105,10 +93,10 @@
         "pt": "Salmo 91 — Aos seus anjos dará ordens sobre ti ✨ | Bíblia"
       },
       "imagem": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_Crucifixion_%28Hendrick_van_Balen_d.%C3%A4.%29_-_Nationalmuseum_-_18055.tif/lossy-page1-1920px-The_Crucifixion_%28Hendrick_van_Balen_d.%C3%A4.%29_-_Nationalmuseum_-_18055.tif.jpg",
-        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hendrick_van_Balen_the_Elder\" class=\"extiw\" title=\"w:en:Hendrick van Bale",
-        "origem": "https://commons.wikimedia.org/wiki/File:The_Crucifixion_(Hendrick_van_Balen_d.%C3%A4.)_-_Nationalmuseum_-_18055.tif",
-        "licenca": "Public domain"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Unidentified_landscape_with_sunlight_through_clouds_%28188325245%29.jpg/1920px-Unidentified_landscape_with_sunlight_through_clouds_%28188325245%29.jpg",
+        "autor": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://500px.com/mshort1803\">Mshort1803</a></div>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Unidentified_landscape_with_sunlight_through_clouds_(188325245).jpg",
+        "licenca": "CC BY 3.0"
       }
     },
     {
@@ -119,12 +107,7 @@
         "en": "Psalm 27 — The Lord Is My Light and My Salvation ☀️",
         "pt": "Salmo 27 — O Senhor é a minha luz e salvação ☀️ | Bíblia"
       },
-      "imagem": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Wind_Surfer_on_Floras_Lake%2C_New_River_ACEC_%2815517840030%29.jpg",
-        "autor": "Frank Price <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50169152@N06\">Bureau of Land Man",
-        "origem": "https://commons.wikimedia.org/wiki/File:Wind_Surfer_on_Floras_Lake,_New_River_ACEC_(15517840030).jpg",
-        "licenca": "Public domain"
-      }
+      "imagem": null
     },
     {
       "ref": "Psalms 46:1-3",
@@ -135,10 +118,10 @@
         "pt": "Salmo 46 — Deus é o nosso refúgio e força 💪 | Bíblia"
       },
       "imagem": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rocky_Cliff_with_Stormy_Sea_Cornwall-William_Trost_Richards-1902.jpg/1920px-Rocky_Cliff_with_Stormy_Sea_Cornwall-William_Trost_Richards-1902.jpg",
-        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:William_Trost_Richards\" class=\"extiw\" title=\"w:en:William Trost Richards\"",
-        "origem": "https://commons.wikimedia.org/wiki/File:Rocky_Cliff_with_Stormy_Sea_Cornwall-William_Trost_Richards-1902.jpg",
-        "licenca": "Public domain"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ocean_Waves-saam_2021.67.2.jpg",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ocean_Waves-saam_2021.67.2.jpg",
+        "licenca": "CC0"
       }
     },
     {
@@ -150,10 +133,10 @@
         "pt": "Salmo 34 — Busquei o Senhor e ele me livrou 🙏 | Bíblia"
       },
       "imagem": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Morning_Light_Along_a_Forest_Trail.jpg/1920px-Morning_Light_Along_a_Forest_Trail.jpg",
-        "autor": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lieman_Suleimanova&amp;action=edit&amp;redlink=1\" class=\"new\" ti",
-        "origem": "https://commons.wikimedia.org/wiki/File:Morning_Light_Along_a_Forest_Trail.jpg",
-        "licenca": "CC0"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tadeusz_Popiel_-_Forest_landscape_at_sunrise_-_MP_1071_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Tadeusz_Popiel_-_Forest_landscape_at_sunrise_-_MP_1071_MNW_-_National_Museum_in_Warsaw.jpg",
+        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Tadeusz_Popiel\" class=\"extiw\" title=\"w:en:Tadeusz Popiel\"><span title=\"Po",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tadeusz_Popiel_-_Forest_landscape_at_sunrise_-_MP_1071_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
       }
     }
   ]

@@ -35,7 +35,17 @@ COR_BASE = (42, 20, 80)
 
 
 def _licenca_livre(lic: str) -> bool:
-    return lic.startswith("CC0") or lic.lower().startswith("public domain")
+    """CC0, domínio público e CC BY (crédito basta).
+
+    CC BY-SA fica de FORA de propósito: a cláusula share-alike pode arrastar
+    o vídeo inteiro para a mesma licença. CC BY só exige atribuição, que o
+    pipeline põe na descrição (ver fabrica.py::creditos).
+    """
+    l = lic.strip().lower()
+    if l.startswith("cc0") or l.startswith("public domain") or l == "pdm":
+        return True
+    return l.startswith("cc by") and "-sa" not in l and "nd" not in l \
+        and "nc" not in l
 
 
 # O Commons devolve MUITO documento para busca de paisagem: cartas manuscritas,

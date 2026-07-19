@@ -9,6 +9,7 @@ título, descrição e thumbnail.
 from __future__ import annotations
 
 import math
+import re
 import zlib
 from pathlib import Path
 
@@ -33,6 +34,35 @@ def _baixar_imagem(info: dict | None, destino: Path) -> Path | None:
     if imagens.baixar(info["url"], destino):
         return destino
     return None
+
+
+def _limpar_html(txt: str) -> str:
+    """O campo Artist do Commons vem com HTML (<a href=...>Fulano</a>)."""
+    txt = re.sub(r"<[^>]+>", " ", txt or "")
+    txt = re.sub(r"\s+", " ", txt).strip()
+    return txt[:70] or "desconhecido"
+
+
+def creditos(usadas: list[dict]) -> str:
+    """Bloco de atribuição das imagens CC BY (obrigatório) — dedup por autor.
+
+    Imagens CC0/domínio público não exigem crédito, mas creditar todas é mais
+    simples e não custa nada além de algumas linhas na descrição.
+    """
+    linhas, vistos = [], set()
+    for info in usadas:
+        if not info:
+            continue
+        chave = (info.get("autor", ""), info.get("licenca", ""))
+        if chave in vistos:
+            continue
+        vistos.add(chave)
+        linhas.append(f"• {_limpar_html(info.get('autor'))} "
+                      f"({info.get('licenca', 'CC0')}) — "
+                      f"{info.get('origem', '')}")
+    if not linhas:
+        return ""
+    return ("\n\nImagens: Wikimedia Commons\n" + "\n".join(linhas[:12]))
 
 
 def _ts_capitulo(seg: float) -> str:
@@ -83,6 +113,7 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     descricao = (
         f"{ref_disp} — {cfg['fonte_texto']}.\n\n"
         f"{cfg['cta']}\n\n{cfg['hashtags']} #Shorts"
+        + (creditos([short.get("imagem")]) if img else "")
     )
     return {
         "arquivo": video,
@@ -138,10 +169,12 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path) -> dict:
     # 3) imagens (mesmas nos 3 idiomas; fallback = gradiente da casa)
     n_alvo = max(6, min(30, math.ceil(dur / SEG_POR_IMAGEM)))
     baixadas: list[Path] = []
+    usadas_info: list[dict] = []
     for j, info in enumerate(longo.get("imagens", [])):
         p = _baixar_imagem(info, outdir / f"img{j:02d}.jpg")
         if p:
             baixadas.append(p)
+            usadas_info.append(info)
         if len(baixadas) >= n_alvo:
             break
     if not baixadas:
@@ -172,6 +205,7 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path) -> dict:
         f"{longo['titulo'][idioma]}\n\n"
         f"{cfg['rotulo_capitulos']}\n" + "\n".join(caps) + "\n\n"
         f"{cfg['fonte_texto']}.\n\n{cfg['cta']}\n\n{cfg['hashtags']}"
+        + creditos(usadas_info)
     )
     return {
         "arquivo": video,
