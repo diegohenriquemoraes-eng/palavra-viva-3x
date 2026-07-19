@@ -14,3 +14,11 @@
 - Item: short-1 — Psalm 91:1-4
 - Duração: 27.9s
 - Publicado em: 2026-07-19T05:44:03+00:00
+
+## [es] BiQfybuuqDk — Salmo 4:8 — En paz me acostaré y dormiré 🌙 | Biblia
+
+- URL: https://youtu.be/BiQfybuuqDk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 4:8
+- Duração: 8.6s
+- Publicado em: 2026-07-19T08:00:33+00:00
