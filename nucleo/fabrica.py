@@ -22,7 +22,15 @@ CAUDA_LONGO = 3.5
 CAUDA_SHORT = 1.2
 MIN_SHORT_S = 15.0      # abaixo disto o versículo é repetido (ver montar_short)
 PAUSA_REPETICAO = 1.6
-CICLOS_DORMIR = 2       # formato "dormir" repete o ciclo (ver montar_longo)
+CICLOS_DORMIR = 2       # repetições NARRADAS (dão variação de legenda/imagem)
+# Duração-alvo do vídeo longo, por formato, em minutos. Vem do benchmark de
+# 19/07/2026 (252 vídeos, produzir/benchmark.py): mediana dos longos do nicho
+# é 38 min em espanhol, 165 em inglês e 68 em português — os campeões passam
+# de 200 min. Nosso vídeo tinha 17 min, fora da faixa do nicho.
+# O alvo é atingido repetindo o ciclo pronto sem recodificar (render.repetir_video),
+# então custa quase nada de máquina.
+ALVO_MIN = {"dormir": 62, "tema": 32, "historia": 24}
+TETO_REPETICOES = 8
 SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s
 
 
@@ -231,7 +239,16 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     pad = outdir / "pad.wav"
     musica.gerar_pad(dur, _seed(pacote, "pad"), pad)
     video = render.render_longo(outdir, "voz.wav", "pad.wav", "legenda.ass",
-                                lista, dur, _seed(pacote, "longo"))
+                                lista, dur, _seed(pacote, "longo"),
+                                saida="ciclo.mp4")
+
+    # estende até a faixa do nicho repetindo o ciclo pronto (sem recodificar)
+    alvo_s = ALVO_MIN.get(pacote.get("formato", "tema"), 30) * 60
+    vezes = max(1, min(TETO_REPETICOES, round(alvo_s / dur)))
+    if vezes > 1:
+        video = render.repetir_video(outdir, "ciclo.mp4", vezes)
+        dur = dur * vezes
+        (outdir / "ciclo.mp4").unlink(missing_ok=True)
 
     # 5) thumbnail localizada
     thumb = outdir / "thumb.jpg"

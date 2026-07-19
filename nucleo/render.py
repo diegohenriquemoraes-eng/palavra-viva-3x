@@ -128,3 +128,25 @@ def render_longo(pasta: Path, voz_wav: str, pad_wav: str, ass: str,
         (pasta / nome).unlink(missing_ok=True)
     (pasta / "bg.mp4").unlink(missing_ok=True)
     return pasta / saida
+
+
+def repetir_video(pasta: Path, arquivo: str, vezes: int,
+                  saida: str = "longo.mp4") -> Path:
+    """Repete o vídeo pronto N vezes SEM recodificar (concat -c copy).
+
+    É assim que se chega às horas de duração que o nicho exige gastando quase
+    nada de máquina: o ciclo é renderizado uma vez (imagem, narração e legenda
+    juntas) e só o container é repetido. Benchmark de 19/07/2026 sobre 252
+    vídeos: mediana dos longos é 38 min (es), 165 min (en) e 68 min (pt) — o
+    campeão do nicho é literalmente "SALMO 91 91 VEZES", 228 min. Repetir é o
+    formato, não um truque: o público deixa rolando a noite inteira.
+    """
+    if vezes <= 1:
+        return pasta / arquivo
+    lista = pasta / "ciclos.txt"
+    lista.write_text("".join(f"file '{arquivo}'\n" for _ in range(vezes)),
+                     encoding="utf-8")
+    _run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0",
+          "-i", "ciclos.txt", "-c", "copy", "-movflags", "+faststart",
+          saida], pasta)
+    return pasta / saida
