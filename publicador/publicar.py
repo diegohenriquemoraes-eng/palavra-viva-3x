@@ -238,7 +238,8 @@ def main() -> None:
                     return fabrica.montar_longo(pacote, idioma,
                                                 canal_cfg["handle"],
                                                 SAIDA / idioma /
-                                                f"{pasta_pacote.name}-longo")
+                                                f"{pasta_pacote.name}-longo",
+                                                afiliado=canal_cfg.get("afiliado", ""))
                 idx = (ec["shorts_dia"]["n"]
                        if ec["shorts_dia"]["data"] == agora.date().isoformat()
                        else 0)
@@ -246,7 +247,8 @@ def main() -> None:
                 return fabrica.montar_short(
                     pacote, idx, idioma, canal_cfg["handle"],
                     SAIDA / idioma / f"{pasta_pacote.name}-short",
-                    url_longo=longo_do_dia(ec, pasta_pacote.name))
+                    url_longo=longo_do_dia(ec, pasta_pacote.name),
+                    afiliado=canal_cfg.get("afiliado", ""))
 
             # O longo é a peça frágil (16 min, 30 imagens, centenas de MB).
             # Se ele quebrar, o canal NÃO pode ficar parado o dia inteiro —

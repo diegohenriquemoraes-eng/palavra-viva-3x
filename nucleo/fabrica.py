@@ -80,8 +80,19 @@ def _ts_capitulo(seg: float) -> str:
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
+def bloco_afiliado(texto: str) -> str:
+    """Bloco de afiliado da descrição, com a divulgação exigida.
+
+    Fica no config por CANAL, não global: o produto tem idioma. Oferta em
+    espanhol num canal inglês não converte e ainda cheira a spam — o que
+    machuca justamente a satisfação do espectador que o algoritmo mede.
+    """
+    return f"\n\n{texto.strip()}" if texto and texto.strip() else ""
+
+
 def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
-                 outdir: Path, url_longo: str = "") -> dict:
+                 outdir: Path, url_longo: str = "",
+                 afiliado: str = "") -> dict:
     cfg = idiomas.CONFIG[idioma]
     short = pacote["shorts"][idx]
     ref = short["ref"]
@@ -128,8 +139,9 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
              if url_longo else "\n")
     descricao = (
         f"{ref_disp} — {cfg['fonte_texto']}."
-        + ponte +
-        f"\n{cfg['cta']}\n\n{cfg['hashtags']} #Shorts"
+        + ponte
+        + bloco_afiliado(afiliado)
+        + f"\n\n{cfg['cta']}\n\n{cfg['hashtags']} #Shorts"
         + (creditos([info_img]) if img else "")
     )
     return {
@@ -144,7 +156,8 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     }
 
 
-def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path) -> dict:
+def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
+                 afiliado: str = "") -> dict:
     cfg = idiomas.CONFIG[idioma]
     longo = pacote["longo"]
     outdir.mkdir(parents=True, exist_ok=True)
@@ -238,9 +251,14 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path) -> dict:
         vistos.add(biblia.ref_exibicao(idioma, s["ref"]))
         caps.append(f"{_ts_capitulo(s['ini'])} {rot}")
     caps[0] = f"0:00 {biblia.ref_exibicao(idioma, secoes[0]['ref'])}"
+    # Ordem pensada: título, oferta (o YouTube corta a descrição depois de
+    # ~3 linhas — o que converte precisa estar acima do "mostrar mais"),
+    # depois capítulos, fonte, CTA e créditos. Os capítulos continuam válidos
+    # em qualquer posição desde que o primeiro seja 0:00.
     descricao = (
-        f"{longo['titulo'][idioma]}\n\n"
-        f"{cfg['rotulo_capitulos']}\n" + "\n".join(caps) + "\n\n"
+        f"{longo['titulo'][idioma]}"
+        + bloco_afiliado(afiliado)
+        + f"\n\n{cfg['rotulo_capitulos']}\n" + "\n".join(caps) + "\n\n"
         f"{cfg['fonte_texto']}.\n\n{cfg['cta']}\n\n{cfg['hashtags']}"
         + creditos(usadas_info)
     )
