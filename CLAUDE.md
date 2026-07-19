@@ -60,6 +60,22 @@ python publicador\publicar.py --canal pt --render-apenas --forcar-tipo longo
 Saída de teste em `saida/` (gitignorado). Credenciais locais em
 `credenciais/{es,en,pt}/` (gitignorado) — nunca no chat, Git ou print.
 
+## Qualidade do conteúdo — decisões que já custaram um vídeo ruim
+
+- **Short curto demais**: versículo único (Salmo 4:8) rendia 9s, fino para
+  reter. Abaixo de `MIN_SHORT_S` (15s) o texto é narrado **duas vezes** com
+  pausa — formato consagrado do nicho (repetição para meditar), não
+  enchimento. Ver `nucleo/fabrica.py::montar_short`.
+- **Imagem fora do assunto**: o Commons devolve muito documento e foto de
+  arquivo. `nucleo/imagens.py` reprova por título (blocklist `LIXO`) e exige
+  **2 termos da consulta no título** — "green pastures stream" trazia porcos
+  de fazenda; "sun rays" trazia peça de museu. Sem imagem boa, o render usa
+  o gradiente da casa: melhor liso e limpo que errado.
+- Depois de mexer em `conteudo/temas.json`, rodar
+  `python produzir/auditar_consultas.py` e reescrever as consultas VAZIA
+  (usar substantivos que aparecem em título de foto: "lake sunset",
+  "forest path", "eagle soaring").
+
 ## Armadilhas já pagas (herdadas dos canais anteriores)
 
 - Cron horário + janela no state, NUNCA cron esparso: disparo do GitHub atrasa

@@ -18,6 +18,8 @@ PAUSA_VERSO = 2.0       # silêncio contemplativo entre versículos do longo
                         # (2,0s: leva o longo típico acima dos 8 min de mid-roll)
 CAUDA_LONGO = 3.5
 CAUDA_SHORT = 1.2
+MIN_SHORT_S = 15.0      # abaixo disto o versículo é repetido (ver montar_short)
+PAUSA_REPETICAO = 1.6
 SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s
 
 
@@ -55,12 +57,27 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     blocos = legendas.agrupar(palavras)
     dur = max(tts.duracao_audio(mp3), blocos[-1]["fim"]) + CAUDA_SHORT
 
+    # Versículo curto (Salmo 4:8, Josué 1:9...) dava Short de ~9s: fino demais
+    # para reter e para o loop do feed. Nesses casos o texto é narrado DUAS
+    # vezes com pausa — formato consagrado no nicho (repetição para meditar),
+    # não enchimento: o espectador ouve, respira e ouve de novo.
+    if dur < MIN_SHORT_S:
+        segmentos, dur_voz = tts.narrar_versos(
+            [(1, texto), (2, texto)], cfg["voz"], cfg["rate_short"],
+            PAUSA_REPETICAO, outdir / "voz.wav", outdir / "tts")
+        blocos = []
+        for seg in segmentos:
+            legendas.alinhar_display(seg["texto"], seg["palavras"])
+            blocos += legendas.agrupar(seg["palavras"])
+        mp3 = outdir / "voz.wav"
+        dur = dur_voz + CAUDA_SHORT
+
     cab = biblia.cabecalho(idioma, ref)
     legendas.ass_short(outdir / "legenda.ass", blocos, cab, marca, dur)
 
     img = _baixar_imagem(short.get("imagem"), outdir / "fundo.jpg")
     seed = _seed(pacote, f"short{idx}")
-    video = render.render_short(outdir, "voz.mp3", "legenda.ass", img, dur, seed)
+    video = render.render_short(outdir, mp3.name, "legenda.ass", img, dur, seed)
 
     ref_disp = biblia.ref_exibicao(idioma, ref)
     descricao = (

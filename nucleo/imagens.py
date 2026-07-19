@@ -15,6 +15,7 @@ casa (gerar_gradiente) — o vídeo nunca deixa de sair por falta de imagem.
 from __future__ import annotations
 
 import random
+import re
 import time
 from pathlib import Path
 
@@ -35,6 +36,21 @@ COR_BASE = (42, 20, 80)
 
 def _licenca_livre(lic: str) -> bool:
     return lic.startswith("CC0") or lic.lower().startswith("public domain")
+
+
+# O Commons devolve MUITO documento para busca de paisagem: cartas manuscritas,
+# mapas, capas de livro, partituras, selos. Um Short do Salmo 4:8 saiu com uma
+# carta datilografada de 1918 de fundo (19/07/2026) — daí este filtro.
+LIXO = re.compile(
+    r"letter|manuscript|handwrit|document|page\b|map\b|chart|diagram|poster|"
+    r"cover|book|newspaper|magazine|stamp|banknote|coin|logo|coat of arms|"
+    r"seal\b|score|sheet music|plan\b|blueprint|scan|text|title page|"
+    r"certificate|postcard|advertisement|label|screenshot|graph|table\b",
+    re.IGNORECASE,
+)
+# palavras da consulta que não ajudam a checar se a foto é do assunto
+GENERICAS = {"the", "a", "of", "in", "on", "at", "over", "under", "through",
+             "and", "with", "by"}
 
 
 _ultima_busca = 0.0
@@ -78,6 +94,8 @@ def resolver(consulta: str, n: int, seed: int, orientacao: str = "wide"
         print(f"  Commons falhou para '{consulta}': {exc}")
         return []
 
+    termos = [t for t in re.findall(r"[a-z]+", consulta.lower())
+              if t not in GENERICAS and len(t) > 2]
     candidatos = []
     for pg in paginas.values():
         infos = pg.get("imageinfo") or []
@@ -91,6 +109,16 @@ def resolver(consulta: str, n: int, seed: int, orientacao: str = "wide"
         w, h = ii.get("width") or 0, ii.get("height") or 0
         if w < 1280 or h < 720:
             continue
+        titulo = pg.get("title", "")
+        if LIXO.search(titulo):
+            continue
+        # O título precisa falar do assunto. UM termo só não basta: "green
+        # pastures stream" casava com "Bowling Green Farm hogs"; "sun rays"
+        # com uma peça de museu da deusa do Sol. Exigir 2 termos resolve.
+        tl = titulo.lower()
+        acertos = sum(1 for t in termos if t in tl)
+        if termos and acertos == 0:
+            continue
         prefere_wide = orientacao == "wide"
         candidatos.append({
             "url": ii.get("thumburl") or ii.get("url"),
@@ -98,8 +126,9 @@ def resolver(consulta: str, n: int, seed: int, orientacao: str = "wide"
                      or "desconhecido",
             "origem": ii.get("descriptionurl") or ii.get("url"),
             "licenca": lic,
-            # orientação certa primeiro; a errada ainda serve (cover-crop)
-            "_prio": 0 if (w >= h) == prefere_wide else 1,
+            # mais termos batidos primeiro; depois orientação certa
+            # (a errada ainda serve, o render faz cover-crop)
+            "_prio": (-acertos, 0 if (w >= h) == prefere_wide else 1),
         })
     if not candidatos:
         print(f"  Commons: nada CC0/PD utilizável para '{consulta}'")
@@ -107,9 +136,17 @@ def resolver(consulta: str, n: int, seed: int, orientacao: str = "wide"
     rng = random.Random(seed)
     rng.shuffle(candidatos)
     candidatos.sort(key=lambda c: c["_prio"])
-    for c in candidatos:
+    # Exigir 2+ termos batidos. Sem isso entra foto fora do assunto ("green
+    # pastures" trazia porcos de fazenda) — e uma imagem errada num versículo
+    # é pior que o gradiente da casa, que é limpo e da identidade visual.
+    # Nada aqui não quebra nada: o render cai no gradiente.
+    bons = [c for c in candidatos if -c["_prio"][0] >= min(2, len(termos))]
+    if not bons:
+        print(f"  Commons: sem imagem boa para '{consulta}' (usará gradiente)")
+        return []
+    for c in bons:
         c.pop("_prio", None)
-    return candidatos[:n]
+    return bons[:n]
 
 
 def baixar(url: str, destino: Path) -> bool:
