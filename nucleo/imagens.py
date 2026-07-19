@@ -48,9 +48,18 @@ LIXO = re.compile(
     r"certificate|postcard|advertisement|label|screenshot|graph|table\b",
     re.IGNORECASE,
 )
-# palavras da consulta que não ajudam a checar se a foto é do assunto
-GENERICAS = {"the", "a", "of", "in", "on", "at", "over", "under", "through",
-             "and", "with", "by"}
+# Palavras que não ajudam a checar se a foto é do assunto. Além das
+# preposições, os ADJETIVOS: "calm", "quiet", "green" quase nunca estão no
+# título de uma foto do Commons (some resultado bom) e quando estão casam com
+# outra coisa ("green" trouxe "Bowling Green Farm"). O que identifica a foto é
+# o SUBSTANTIVO — lake, eagle, candle, wheat.
+GENERICAS = {
+    "the", "a", "of", "in", "on", "at", "over", "under", "through", "and",
+    "with", "by", "from", "into",
+    "calm", "quiet", "peaceful", "silent", "warm", "wide", "open", "golden",
+    "dark", "bright", "beautiful", "rustic", "ancient", "old", "big", "great",
+    "soft", "gentle", "holy", "sacred",
+}
 
 
 _ultima_busca = 0.0
@@ -119,6 +128,7 @@ def resolver(consulta: str, n: int, seed: int, orientacao: str = "wide"
         acertos = sum(1 for t in termos if t in tl)
         if termos and acertos == 0:
             continue
+        completo = acertos == len(termos)
         prefere_wide = orientacao == "wide"
         candidatos.append({
             "url": ii.get("thumburl") or ii.get("url"),
@@ -136,11 +146,12 @@ def resolver(consulta: str, n: int, seed: int, orientacao: str = "wide"
     rng = random.Random(seed)
     rng.shuffle(candidatos)
     candidatos.sort(key=lambda c: c["_prio"])
-    # Exigir 2+ termos batidos. Sem isso entra foto fora do assunto ("green
-    # pastures" trazia porcos de fazenda) — e uma imagem errada num versículo
-    # é pior que o gradiente da casa, que é limpo e da identidade visual.
-    # Nada aqui não quebra nada: o render cai no gradiente.
-    bons = [c for c in candidatos if -c["_prio"][0] >= min(2, len(termos))]
+    # Exigir TODOS os substantivos da consulta no título. Sem isso entra foto
+    # fora do assunto ("green pastures" trazia porcos de fazenda) — e imagem
+    # errada num versículo é pior que o gradiente da casa, que é limpo e da
+    # identidade visual. Devolver [] não quebra nada: o render usa o gradiente.
+    # Por isso as consultas em temas.json são 2 substantivos, não frases.
+    bons = [c for c in candidatos if -c["_prio"][0] >= len(termos)]
     if not bons:
         print(f"  Commons: sem imagem boa para '{consulta}' (usará gradiente)")
         return []
