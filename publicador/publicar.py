@@ -124,7 +124,15 @@ def publicar_item(idioma: str, canal_cfg: dict, config: dict, item: dict,
               else config["espera_short_s"])
     info = youtube_api.esperar_processamento(youtube, video_id, espera)
     if item["thumb"]:
-        youtube_api.definir_thumbnail(youtube, video_id, item["thumb"])
+        # Thumbnail custom exige canal verificado por telefone. Falhar aqui
+        # NÃO pode impedir a publicação — em 19/07 um longo já renderizado e
+        # enviado ficou preso em privado por causa de um 403 de thumbnail.
+        try:
+            youtube_api.definir_thumbnail(youtube, video_id, item["thumb"])
+        except Exception as exc:
+            log(f"[{idioma}] thumbnail não aplicada ({exc}); seguindo. "
+                f"Canal precisa de verificação por telefone em "
+                f"youtube.com/verify_phone_number")
     youtube_api.tornar_publico(youtube, video_id, info)
     log(f"[{idioma}] PUBLICADO: https://youtu.be/{video_id}")
 
