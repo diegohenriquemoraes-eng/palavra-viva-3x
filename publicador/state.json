@@ -1,3 +1,21 @@
 {
-  "canais": {}
+  "canais": {
+    "es": {
+      "publicados": [
+        {
+          "pacote": "2026-07-19-salmos-dormir-1",
+          "item": "short-1",
+          "video_id": "QLxA8SJj8go",
+          "titulo": "Salmo 91 — Bajo la sombra del Altísimo 🙏 | Biblia en español",
+          "em": "2026-07-19T02:45:12+00:00"
+        }
+      ],
+      "ultimo_short": "2026-07-19T02:45:12+00:00",
+      "shorts_dia": {
+        "data": "2026-07-19",
+        "n": 1
+      },
+      "longo_data": ""
+    }
+  }
 }
