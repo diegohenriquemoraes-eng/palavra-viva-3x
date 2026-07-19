@@ -1,0 +1,71 @@
+name: Vigia
+
+# Avisa quando um canal para de publicar ou o estoque de temas está acabando.
+# Roda 4x por dia. Sem alarme não faz nada (nenhum e-mail, nenhuma issue).
+# Com alarme, abre UMA issue e vai atualizando o mesmo tópico — o GitHub
+# manda e-mail na abertura e em cada comentário novo.
+on:
+  schedule:
+    - cron: "35 */6 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: vigia-3x
+  cancel-in-progress: false
+
+jobs:
+  vigia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Conferir canais e estoque
+        id: check
+        run: |
+          set +e
+          python produzir/vigia.py
+          codigo=$?
+          echo "codigo=$codigo" >> "$GITHUB_OUTPUT"
+          # 7 = há alarme; não é falha do workflow, é o caso de uso
+          if [ "$codigo" -eq 7 ]; then exit 0; fi
+          exit $codigo
+
+      - name: Abrir ou atualizar o alarme
+        if: steps.check.outputs.codigo == '7'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          titulo="ALARME: canal parado ou estoque acabando"
+          corpo="$(cat alarmes.md)
+
+          Ver a execução: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          numero=$(gh issue list --state open --search "ALARME in:title" --json number -q '.[0].number')
+          if [ -z "$numero" ]; then
+            gh issue create --title "$titulo" --body "$corpo"
+            echo "issue aberta"
+          else
+            gh issue comment "$numero" --body "$corpo"
+            echo "comentário adicionado à issue #$numero"
+          fi
+
+      - name: Fechar o alarme quando tudo voltar ao normal
+        if: steps.check.outputs.codigo == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          numero=$(gh issue list --state open --search "ALARME in:title" --json number -q '.[0].number')
+          if [ -n "$numero" ]; then
+            gh issue close "$numero" --comment "Normalizado: canais publicando e estoque acima do limite."
+            echo "issue #$numero fechada"
+          else
+            echo "nada a fechar"
+          fi

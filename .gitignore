@@ -5,3 +5,4 @@ saida/
 .cache-imagens/
 *.lock
 upload-state.json
+alarmes.md
