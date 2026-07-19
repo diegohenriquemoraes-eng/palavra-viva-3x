@@ -6,3 +6,11 @@
 - Item: short-1 — Salmo 91:1-4
 - Duração: 25.4s
 - Publicado em: 2026-07-19T02:45:12+00:00
+
+## [en] 4lrSKpglN8Y — Psalm 91 — Under the Shadow of the Almighty 🙏 | Bible
+
+- URL: https://youtu.be/4lrSKpglN8Y
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — Psalm 91:1-4
+- Duração: 27.9s
+- Publicado em: 2026-07-19T05:44:03+00:00
