@@ -206,6 +206,7 @@ def main() -> None:
         log("Outra execução em andamento (lock). Saindo.")
         return
     LOCK.write_text(str(os.getpid()), encoding="utf-8")
+    falhas_longo: list[str] = []
     try:
         for idioma, canal_cfg in config["canais"].items():
             if args.canal and idioma != args.canal:
@@ -231,17 +232,38 @@ def main() -> None:
                 continue
 
             outdir = SAIDA / idioma / f"{pasta_pacote.name}-{tipo}"
-            if tipo == "longo":
-                item = fabrica.montar_longo(pacote, idioma,
-                                            canal_cfg["handle"], outdir)
-            else:
+
+            def montar(t: str):
+                if t == "longo":
+                    return fabrica.montar_longo(pacote, idioma,
+                                                canal_cfg["handle"],
+                                                SAIDA / idioma /
+                                                f"{pasta_pacote.name}-longo")
                 idx = (ec["shorts_dia"]["n"]
                        if ec["shorts_dia"]["data"] == agora.date().isoformat()
                        else 0)
                 idx = min(idx, len(pacote["shorts"]) - 1)
-                item = fabrica.montar_short(pacote, idx, idioma,
-                                            canal_cfg["handle"], outdir,
-                                            url_longo=longo_do_dia(ec, pasta_pacote.name))
+                return fabrica.montar_short(
+                    pacote, idx, idioma, canal_cfg["handle"],
+                    SAIDA / idioma / f"{pasta_pacote.name}-short",
+                    url_longo=longo_do_dia(ec, pasta_pacote.name))
+
+            # O longo é a peça frágil (16 min, 30 imagens, centenas de MB).
+            # Se ele quebrar, o canal NÃO pode ficar parado o dia inteiro —
+            # foi o que aconteceu com o inglês em 19/07: o render do longo
+            # estourou a memória do runner e travou os Shorts atrás dele.
+            # Agora a falha do longo é registrada e o canal cai para o Short.
+            try:
+                item = montar(tipo)
+            except Exception as exc:
+                if tipo != "longo":
+                    raise
+                log(f"[{idioma}] LONGO FALHOU ({exc}); publicando Short "
+                    f"nesta execução. O longo volta a ser tentado na próxima.")
+                falhas_longo.append(idioma)
+                tipo = "short"
+                item = montar(tipo)
+
             log(f"[{idioma}] render ok: {item['arquivo']} "
                 f"({item['arquivo'].stat().st_size / 1e6:.1f} MB, "
                 f"{item['duracao_s']}s)")
@@ -252,6 +274,13 @@ def main() -> None:
                           tipo, state, pacote.get("formato", "tema"))
     finally:
         LOCK.unlink(missing_ok=True)
+
+    # Sair com erro faz o GitHub avisar por e-mail — mas só DEPOIS de o canal
+    # ter publicado o Short. Falha visível, canal vivo.
+    if falhas_longo:
+        raise SystemExit(
+            f"Render do vídeo longo falhou em: {', '.join(falhas_longo)}. "
+            f"Os Shorts foram publicados normalmente.")
 
 
 if __name__ == "__main__":

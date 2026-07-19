@@ -72,34 +72,59 @@ def render_short(pasta: Path, voz: str, ass: str, imagem: Path | None,
 def render_longo(pasta: Path, voz_wav: str, pad_wav: str, ass: str,
                  imagens: list[Path], dur: float, seed: int,
                  saida: str = "longo.mp4") -> Path:
+    """Render em 3 etapas, uma imagem de cada vez.
+
+    A versão anterior abria as 30 imagens como entradas simultâneas do ffmpeg
+    e montava um filtro com 30 zoompan em paralelo. Funcionou com o vídeo de
+    8 min (17 imagens) e MORREU no de 16 min no runner do Actions (2 núcleos):
+    "Nothing was written into output file" / exit 234 — o zoompan segura frames
+    grandes na memória e 30 deles ao mesmo tempo estouram a máquina.
+
+    Agora cada imagem vira um clipe curto sozinha (memória constante, não
+    importa se são 10 ou 40), os clipes são concatenados por cópia (sem
+    recodificar) e só a última passada junta legenda e áudio.
+    """
     fontsdir = _fontsdir(pasta)
     n = len(imagens)
     if n == 0:
         raise SystemExit("render_longo precisa de pelo menos 1 imagem")
     seg = dur / n
 
-    entradas: list[str] = []
-    cadeias: list[str] = []
+    # 1) um clipe por imagem
+    nomes = []
     for i, img in enumerate(imagens):
-        entradas += ["-loop", "1", "-t", f"{seg + 0.5:.2f}", "-i", img.name]
-        cadeias.append(f"[{i}:v]{_zoompan(seg + 0.5, 1920, 1080, seed + i)},"
-                       f"trim=duration={seg:.3f},setpts=PTS-STARTPTS[v{i}]")
-    concat_v = "".join(f"[v{i}]" for i in range(n))
+        nome = f"bg{i:03d}.mp4"
+        _run(["ffmpeg", "-y", "-loglevel", "error",
+              "-loop", "1", "-t", f"{seg:.3f}", "-i", img.name,
+              "-vf", _zoompan(seg, 1920, 1080, seed + i),
+              "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "23",
+              "-pix_fmt", "yuv420p", nome], pasta)
+        nomes.append(nome)
+
+    # 2) concatenação sem recodificar
+    (pasta / "bg.txt").write_text(
+        "".join(f"file '{nome}'\n" for nome in nomes), encoding="utf-8")
+    _run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0",
+          "-i", "bg.txt", "-c", "copy", "bg.mp4"], pasta)
+
+    # 3) legenda queimada + mixagem narração/pad
     filtro = (
-        ";".join(cadeias) + ";"
-        f"{concat_v}concat=n={n}:v=1:a=0[bg];"
-        f"[bg]ass={ass}:fontsdir='{fontsdir}',"
+        f"[0:v]ass={ass}:fontsdir='{fontsdir}',"
         f"fade=t=in:st=0:d=1.0,fade=t=out:st={dur - 2.0:.2f}:d=2.0,"
         f"format=yuv420p[v];"
-        f"[{n}:a]apad=whole_dur={dur:.2f},volume=1.0[nar];"
-        f"[{n + 1}:a]apad=whole_dur={dur:.2f},volume=0.55[pad];"
+        f"[1:a]apad=whole_dur={dur:.2f},volume=1.0[nar];"
+        f"[2:a]apad=whole_dur={dur:.2f},volume=0.55[pad];"
         f"[nar][pad]amix=inputs=2:duration=first:normalize=0,"
         f"afade=t=out:st={dur - 3.0:.2f}:d=3.0[a]"
     )
-    _run(["ffmpeg", "-y", "-loglevel", "error", *entradas,
-          "-i", voz_wav, "-i", pad_wav,
+    _run(["ffmpeg", "-y", "-loglevel", "error",
+          "-i", "bg.mp4", "-i", voz_wav, "-i", pad_wav,
           "-filter_complex", filtro, "-map", "[v]", "-map", "[a]",
           "-t", f"{dur:.2f}", "-c:v", "libx264", "-preset", "veryfast",
           "-crf", "21", "-c:a", "aac", "-b:a", "160k",
           "-movflags", "+faststart", saida], pasta)
+
+    for nome in nomes:  # os clipes intermediários não servem mais
+        (pasta / nome).unlink(missing_ok=True)
+    (pasta / "bg.mp4").unlink(missing_ok=True)
     return pasta / saida
