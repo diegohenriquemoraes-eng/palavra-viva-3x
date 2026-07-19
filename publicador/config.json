@@ -1,0 +1,33 @@
+{
+  "espera_short_s": 900,
+  "espera_longo_s": 2400,
+  "canais": {
+    "es": {
+      "ativo": true,
+      "channel_id": "UCIh5XGRGc2t4rLmlukHZOgw",
+      "titulo_canal": "Palabra Viva Cortes",
+      "handle": "@PalabraVivaCortes",
+      "hora_longo_utc": 23,
+      "shorts_por_dia": 4,
+      "gap_shorts_min": 270
+    },
+    "en": {
+      "ativo": false,
+      "channel_id": "UCi0VMppJlwroIUcxUP5L7DQ",
+      "titulo_canal": "Living Word Daily",
+      "handle": "@LivingWordDaily",
+      "hora_longo_utc": 22,
+      "shorts_por_dia": 4,
+      "gap_shorts_min": 270
+    },
+    "pt": {
+      "ativo": false,
+      "channel_id": "",
+      "titulo_canal": "Palavra Viva Diária",
+      "handle": "@PalavraVivaDiaria",
+      "hora_longo_utc": 21,
+      "shorts_por_dia": 4,
+      "gap_shorts_min": 270
+    }
+  }
+}

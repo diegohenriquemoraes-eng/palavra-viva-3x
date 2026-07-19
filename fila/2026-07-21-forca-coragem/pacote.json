@@ -1,0 +1,174 @@
+{
+  "slug": "forca-coragem",
+  "data": "2026-07-21",
+  "criado_em": "2026-07-19T02:17:29+00:00",
+  "aprovado_em": "2026-07-19T02:17:29+00:00",
+  "longo": {
+    "refs": [
+      "Joshua 1:1-9",
+      "Isaiah 41:8-13",
+      "Isaiah 40:28-31",
+      "Deuteronomy 31:1-8",
+      "Psalms 18:28-36",
+      "Ephesians 6:10-18"
+    ],
+    "titulo": {
+      "es": "Esfuérzate y Sé Valiente 💪 Josué 1 e Isaías 41 — Biblia hablada",
+      "en": "Be Strong and Courageous 💪 Joshua 1 & Isaiah 41 — Bible",
+      "pt": "Esforça-te e Tem Bom Ânimo 💪 Josué 1 e Isaías 41 — Bíblia"
+    },
+    "thumb_titulo": {
+      "es": "FUERZA Y VALOR",
+      "en": "STRENGTH & COURAGE",
+      "pt": "FORÇA E CORAGEM"
+    },
+    "thumb_sub": {
+      "es": "Josué 1 • Isaías 41 • Efesios 6",
+      "en": "Joshua 1 • Isaiah 41 • Ephesians 6",
+      "pt": "Josué 1 • Isaías 41 • Efésios 6"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Road_into_Conglomerate_Mesa_and_Inyo_Mountain_Wilderness.jpg/1920px-Road_into_Conglomerate_Mesa_and_Inyo_Mountain_Wilderness.jpg",
+        "autor": "Bureau of Land Management California",
+        "origem": "https://commons.wikimedia.org/wiki/File:Road_into_Conglomerate_Mesa_and_Inyo_Mountain_Wilderness.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Karim_akachar%2C_marocain_sur_le_Sommet_du_Tserko_Peak.jpg/1920px-Karim_akachar%2C_marocain_sur_le_Sommet_du_Tserko_Peak.jpg",
+        "autor": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Karim68&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:K",
+        "origem": "https://commons.wikimedia.org/wiki/File:Karim_akachar,_marocain_sur_le_Sommet_du_Tserko_Peak.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Karim_akachar%2C_marocain_sur_le_Sommet_Tserko_Peak.jpg/1920px-Karim_akachar%2C_marocain_sur_le_Sommet_Tserko_Peak.jpg",
+        "autor": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Karim68&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:K",
+        "origem": "https://commons.wikimedia.org/wiki/File:Karim_akachar,_marocain_sur_le_Sommet_Tserko_Peak.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Inyo_Mountain_Wilderness_%2849753052623%29.jpg/1920px-Inyo_Mountain_Wilderness_%2849753052623%29.jpg",
+        "autor": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49753052623).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Inyo_Mountain_Wilderness_%2849753798391%29.jpg/1920px-Inyo_Mountain_Wilderness_%2849753798391%29.jpg",
+        "autor": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmcalifornia/\">blmcalifornia</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Inyo_Mountain_Wilderness_(49753798391).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Francesco_Hayez_-_Self-portrait_with_Tiger_and_Lion_-_Google_Art_Project.jpg/1920px-Francesco_Hayez_-_Self-portrait_with_Tiger_and_Lion_-_Google_Art_Project.jpg",
+        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Francesco_Hayez\" class=\"extiw\" title=\"w:en:Francesco Hayez\"><span title=\"",
+        "origem": "https://commons.wikimedia.org/wiki/File:Francesco_Hayez_-_Self-portrait_with_Tiger_and_Lion_-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Mr._Eugene_Petuiset%2C_the_Lion_Hunter%2C_by_Edouard_Manet%2C_1881%2C_oil_on_canvas_-_Museu_de_Arte_de_S%C3%A3o_Paulo_-_DSC07154.jpg/1920px-Mr._Eugene_Petuiset%2C_the_Lion_Hunter%2C_by_Edouard_Manet%2C_1881%2C_oil_on_canvas_-_Museu_de_Arte_de_S%C3%A3o_Paulo_-_DSC07154.jpg",
+        "autor": "<a href=\"//commons.wikimedia.org/wiki/User:Daderot\" title=\"User:Daderot\">Daderot</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Mr._Eugene_Petuiset,_the_Lion_Hunter,_by_Edouard_Manet,_1881,_oil_on_canvas_-_Museu_de_Arte_de_S%C3%A3o_Paulo_-_DSC07154.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%C3%89douard_Manet_-_Pertuiset%2C_le_chasseur_de_lions.jpg/1920px-%C3%89douard_Manet_-_Pertuiset%2C_le_chasseur_de_lions.jpg",
+        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:%C3%89douard_Manet\" class=\"extiw\" title=\"w:en:Édouard Manet\"><span title=",
+        "origem": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Pertuiset,_le_chasseur_de_lions.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rosa_Bonheur_-_Portrait_of_a_Lion_-_Prado.jpg/1920px-Rosa_Bonheur_-_Portrait_of_a_Lion_-_Prado.jpg",
+        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Rosa_Bonheur\" class=\"extiw\" title=\"w:en:Rosa Bonheur\"><span title=\"French",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rosa_Bonheur_-_Portrait_of_a_Lion_-_Prado.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_lion._portraits_at_the_zoo._1915.jpg/1920px-The_lion._portraits_at_the_zoo._1915.jpg",
+        "autor": "Credited to Henry Irving",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_lion._portraits_at_the_zoo._1915.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/John_Day_River_near_Cottonwood_Canyon_%2832163090647%29.jpg/1920px-John_Day_River_near_Cottonwood_Canyon_%2832163090647%29.jpg",
+        "autor": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/blmoregon/\">BLM Oregon &amp; Washington</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:John_Day_River_near_Cottonwood_Canyon_(32163090647).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/View_south_over_Silent_City_from_Sunrise_Point._-_NARA_-_520240.jpg/1920px-View_south_over_Silent_City_from_Sunrise_Point._-_NARA_-_520240.jpg",
+        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:George_A._Grant\" class=\"extiw\" title=\"w:en:George A. Grant\"><span title=\"",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_south_over_Silent_City_from_Sunrise_Point._-_NARA_-_520240.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Grand_Canyon_National_Park_Winter_Sunrise_from_Historic_District_8045_%2812761715104%29.jpg/1920px-Grand_Canyon_National_Park_Winter_Sunrise_from_Historic_District_8045_%2812761715104%29.jpg",
+        "autor": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/50693818@N08\">Grand Canyon National Park</a>",
+        "origem": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_National_Park_Winter_Sunrise_from_Historic_District_8045_(12761715104).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canyon_from_rim_near_Inspiration_Point%2C_looking_northeast_over_Silent_City%2C_Sunrise_Point%2C_Boat_Mountain%2C_and_beyond._-_NARA_-_520247.jpg/1920px-Canyon_from_rim_near_Inspiration_Point%2C_looking_northeast_over_Silent_City%2C_Sunrise_Point%2C_Boat_Mountain%2C_and_beyond._-_NARA_-_520247.jpg",
+        "autor": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:George_A._Grant\" class=\"extiw\" title=\"w:en:George A. Grant\"><span title=\"",
+        "origem": "https://commons.wikimedia.org/wiki/File:Canyon_from_rim_near_Inspiration_Point,_looking_northeast_over_Silent_City,_Sunrise_Point,_Boat_Mountain,_and_beyond._-_NARA_-_520247.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Joshua 1:9",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Josué 1:9 — Esfuérzate y sé valiente 💪 | Biblia en español",
+        "en": "Joshua 1:9 — Be Strong and of a Good Courage 💪 | Bible",
+        "pt": "Josué 1:9 — Esforça-te e tem bom ânimo 💪 | Bíblia"
+      },
+      "imagem": null
+    },
+    {
+      "ref": "Isaiah 41:10",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Isaías 41:10 — No temas, porque yo estoy contigo 🙏 | Biblia",
+        "en": "Isaiah 41:10 — Fear Not, for I Am With Thee 🙏 | Bible",
+        "pt": "Isaías 41:10 — Não temas, porque eu sou contigo 🙏"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Indianapolis_Light_Infantry_Coat%2C_late_1880s.jpg/1920px-Indianapolis_Light_Infantry_Coat%2C_late_1880s.jpg",
+        "autor": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:KJComstock&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Use",
+        "origem": "https://commons.wikimedia.org/wiki/File:Indianapolis_Light_Infantry_Coat,_late_1880s.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Isaiah 40:28-31",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Isaías 40 — Levantarán alas como águilas 🦅 | Biblia",
+        "en": "Isaiah 40 — They Shall Mount Up with Wings as Eagles 🦅",
+        "pt": "Isaías 40 — Subirão com asas como águias 🦅 | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/US_Air_Force_060412-F-2907c-197_Operation_Mountain_Lion_roars.jpg/1920px-US_Air_Force_060412-F-2907c-197_Operation_Mountain_Lion_roars.jpg",
+        "autor": "Master Sgt. Lance Cheung/U.S. Air Force photo",
+        "origem": "https://commons.wikimedia.org/wiki/File:US_Air_Force_060412-F-2907c-197_Operation_Mountain_Lion_roars.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 18:32-34",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Salmo 18 — Dios es el que me ciñe de fuerza ⚔️ | Biblia",
+        "en": "Psalm 18 — It Is God That Girdeth Me with Strength ⚔️",
+        "pt": "Salmo 18 — Deus é o que me reveste de força ⚔️ | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/U.S._Special_Operations_Command%27s_2017_DOD_Warrior_Games_tryouts_170303-N-QP351-079.jpg/1920px-U.S._Special_Operations_Command%27s_2017_DOD_Warrior_Games_tryouts_170303-N-QP351-079.jpg",
+        "autor": "Petty Officer 2nd Class Jarrod Schwartz",
+        "origem": "https://commons.wikimedia.org/wiki/File:U.S._Special_Operations_Command%27s_2017_DOD_Warrior_Games_tryouts_170303-N-QP351-079.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

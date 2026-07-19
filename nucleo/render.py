@@ -1,0 +1,105 @@
+"""Render dos vídeos com ffmpeg: Short 1080x1920 e longo 1920x1080.
+
+Short: 1 imagem de fundo com Ken Burns lento (ou gradiente da casa como
+fallback) + narração + legenda ASS queimada. Sem música.
+
+Longo: sequência de imagens com Ken Burns, narração versículo a versículo e
+pad ambiente procedural mixado baixinho. Preset mais rápido (veryfast) porque
+o runner do Actions tem 2 núcleos e o vídeo tem 10+ minutos.
+"""
+
+from __future__ import annotations
+
+import os
+import subprocess
+from pathlib import Path
+
+from . import idiomas
+
+FPS = 30
+
+
+def _fontsdir(pasta: Path) -> str:
+    """Caminho RELATIVO à pasta de trabalho: 'C:' dentro de filtro ffmpeg
+    quebra o parser (o dois-pontos vira separador de opção)."""
+    return Path(os.path.relpath(idiomas.FONTES_DIR, pasta)).as_posix()
+
+
+def _run(cmd: list[str], cwd: Path) -> None:
+    subprocess.run(cmd, cwd=cwd, check=True)
+
+
+def _zoompan(dur: float, w: int, h: int, seed: int) -> str:
+    frames = int(dur * FPS)
+    # alterna zoom-in/zoom-out pelo seed para não ficar tudo igual
+    if seed % 2 == 0:
+        z = f"zoom='min(1.10,1+0.10*on/{frames})'"
+    else:
+        z = f"zoom='max(1.0,1.10-0.10*on/{frames})'"
+    return (
+        f"scale={int(w * 1.3)}:{int(h * 1.3)}:force_original_aspect_ratio=increase,"
+        f"crop={int(w * 1.3)}:{int(h * 1.3)},"
+        f"zoompan={z}:x='(iw-iw/zoom)/2':y='(ih-ih/zoom)/2':d=1:"
+        f"s={w}x{h}:fps={FPS},"
+        "eq=brightness=-0.16:saturation=0.88,vignette=PI/4.5"
+    )
+
+
+def render_short(pasta: Path, voz: str, ass: str, imagem: Path | None,
+                 dur: float, seed: int, saida: str = "short.mp4") -> Path:
+    fontsdir = _fontsdir(pasta)
+    if imagem is not None:
+        entrada = ["-loop", "1", "-t", f"{dur:.2f}", "-i", imagem.name]
+        fundo = _zoompan(dur, 1080, 1920, seed)
+    else:
+        entrada = ["-f", "lavfi", "-i",
+                   (f"gradients=s=1080x1920:c0=0x0B1230:c1=0x1B0F3B:c2=0x2A1450:"
+                    f"nb_colors=3:seed={seed}:speed=0.015:r={FPS}:d={dur:.2f}")]
+        fundo = "null"
+    filtro = (
+        f"[0:v]{fundo},ass={ass}:fontsdir='{fontsdir}',"
+        f"fade=t=in:st=0:d=0.4,fade=t=out:st={dur - 0.6:.2f}:d=0.6,"
+        f"format=yuv420p[v];[1:a]apad=whole_dur={dur:.2f}[a]"
+    )
+    _run(["ffmpeg", "-y", "-loglevel", "error", *entrada, "-i", voz,
+          "-filter_complex", filtro, "-map", "[v]", "-map", "[a]",
+          "-t", f"{dur:.2f}", "-c:v", "libx264", "-preset", "medium",
+          "-crf", "20", "-c:a", "aac", "-b:a", "160k",
+          "-movflags", "+faststart", saida], pasta)
+    return pasta / saida
+
+
+def render_longo(pasta: Path, voz_wav: str, pad_wav: str, ass: str,
+                 imagens: list[Path], dur: float, seed: int,
+                 saida: str = "longo.mp4") -> Path:
+    fontsdir = _fontsdir(pasta)
+    n = len(imagens)
+    if n == 0:
+        raise SystemExit("render_longo precisa de pelo menos 1 imagem")
+    seg = dur / n
+
+    entradas: list[str] = []
+    cadeias: list[str] = []
+    for i, img in enumerate(imagens):
+        entradas += ["-loop", "1", "-t", f"{seg + 0.5:.2f}", "-i", img.name]
+        cadeias.append(f"[{i}:v]{_zoompan(seg + 0.5, 1920, 1080, seed + i)},"
+                       f"trim=duration={seg:.3f},setpts=PTS-STARTPTS[v{i}]")
+    concat_v = "".join(f"[v{i}]" for i in range(n))
+    filtro = (
+        ";".join(cadeias) + ";"
+        f"{concat_v}concat=n={n}:v=1:a=0[bg];"
+        f"[bg]ass={ass}:fontsdir='{fontsdir}',"
+        f"fade=t=in:st=0:d=1.0,fade=t=out:st={dur - 2.0:.2f}:d=2.0,"
+        f"format=yuv420p[v];"
+        f"[{n}:a]apad=whole_dur={dur:.2f},volume=1.0[nar];"
+        f"[{n + 1}:a]apad=whole_dur={dur:.2f},volume=0.55[pad];"
+        f"[nar][pad]amix=inputs=2:duration=first:normalize=0,"
+        f"afade=t=out:st={dur - 3.0:.2f}:d=3.0[a]"
+    )
+    _run(["ffmpeg", "-y", "-loglevel", "error", *entradas,
+          "-i", voz_wav, "-i", pad_wav,
+          "-filter_complex", filtro, "-map", "[v]", "-map", "[a]",
+          "-t", f"{dur:.2f}", "-c:v", "libx264", "-preset", "veryfast",
+          "-crf", "21", "-c:a", "aac", "-b:a", "160k",
+          "-movflags", "+faststart", saida], pasta)
+    return pasta / saida

@@ -1,0 +1,522 @@
+[
+  {
+    "slug": "salmos-dormir-1",
+    "formato": "dormir",
+    "longo": {
+      "refs": ["Psalms 23", "Psalms 91", "Psalms 121", "Psalms 4", "Psalms 27"],
+      "titulo": {
+        "es": "Salmos para Dormir en Paz 🌙 Salmo 91, 23 y 121 — Biblia hablada",
+        "en": "Psalms for Sleep 🌙 Psalm 91, 23 & 121 — Peaceful Bible Reading",
+        "pt": "Salmos para Dormir em Paz 🌙 Salmo 91, 23 e 121 — Bíblia narrada"
+      },
+      "thumb_titulo": {
+        "es": "SALMOS PARA DORMIR",
+        "en": "PSALMS FOR SLEEP",
+        "pt": "SALMOS PARA DORMIR"
+      },
+      "thumb_sub": {
+        "es": "Salmo 91 • 23 • 121",
+        "en": "Psalm 91 • 23 • 121",
+        "pt": "Salmo 91 • 23 • 121"
+      },
+      "consultas_imagens": ["starry night sky", "calm lake at night", "moonlight over mountains"]
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 91:1-4",
+        "tipo": "promesa",
+        "consulta_imagem": "storm clouds sun rays",
+        "titulo": {
+          "es": "Salmo 91 — Bajo la sombra del Altísimo 🙏 | Biblia en español",
+          "en": "Psalm 91 — Under the Shadow of the Almighty 🙏 | Bible",
+          "pt": "Salmo 91 — À sombra do Altíssimo 🙏 | Bíblia narrada"
+        }
+      },
+      {
+        "ref": "Psalms 4:8",
+        "tipo": "promesa",
+        "consulta_imagem": "quiet night stars",
+        "titulo": {
+          "es": "Salmo 4:8 — En paz me acostaré y dormiré 🌙 | Biblia",
+          "en": "Psalm 4:8 — I Will Lay Down and Sleep in Peace 🌙 | Bible",
+          "pt": "Salmo 4:8 — Em paz me deito e durmo 🌙 | Bíblia"
+        }
+      },
+      {
+        "ref": "Psalms 121:1-4",
+        "tipo": "promesa",
+        "consulta_imagem": "mountain sunrise mist",
+        "titulo": {
+          "es": "Salmo 121 — Mi socorro viene de Jehová ⛰️ | Biblia en español",
+          "en": "Psalm 121 — My Help Comes from the Lord ⛰️ | Bible",
+          "pt": "Salmo 121 — O meu socorro vem do Senhor ⛰️ | Bíblia"
+        }
+      },
+      {
+        "ref": "Psalms 23:1-4",
+        "tipo": "promesa",
+        "consulta_imagem": "green pastures stream",
+        "titulo": {
+          "es": "Salmo 23 — Jehová es mi pastor, nada me faltará ✝️ | Biblia",
+          "en": "Psalm 23 — The Lord Is My Shepherd ✝️ | Bible Verses",
+          "pt": "Salmo 23 — O Senhor é meu pastor, nada me faltará ✝️ | Bíblia"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "protecao-91",
+    "formato": "tema",
+    "longo": {
+      "refs": ["Psalms 91", "Psalms 27", "Psalms 46", "Psalms 18:1-6", "Psalms 34:1-8"],
+      "titulo": {
+        "es": "Salmo 91 y las Promesas de Protección de Dios 🛡️ Biblia hablada",
+        "en": "Psalm 91 & God's Promises of Protection 🛡️ Bible for Faith",
+        "pt": "Salmo 91 e as Promessas de Proteção de Deus 🛡️ Bíblia narrada"
+      },
+      "thumb_titulo": {
+        "es": "PROTECCIÓN DE DIOS",
+        "en": "GOD'S PROTECTION",
+        "pt": "PROTEÇÃO DE DEUS"
+      },
+      "thumb_sub": {
+        "es": "Salmo 91 • 27 • 46",
+        "en": "Psalm 91 • 27 • 46",
+        "pt": "Salmo 91 • 27 • 46"
+      },
+      "consultas_imagens": ["fortress on mountain", "eagle flying sky", "light through storm clouds"]
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 91:9-11",
+        "tipo": "promesa",
+        "consulta_imagem": "light rays clouds heaven",
+        "titulo": {
+          "es": "Salmo 91 — A sus ángeles mandará cerca de ti ✨ | Biblia",
+          "en": "Psalm 91 — He Shall Give His Angels Charge Over Thee ✨",
+          "pt": "Salmo 91 — Aos seus anjos dará ordens sobre ti ✨ | Bíblia"
+        }
+      },
+      {
+        "ref": "Psalms 27:1-3",
+        "tipo": "conflicto",
+        "consulta_imagem": "sunrise over cliff",
+        "titulo": {
+          "es": "Salmo 27 — Jehová es mi luz y mi salvación ☀️ | Biblia",
+          "en": "Psalm 27 — The Lord Is My Light and My Salvation ☀️",
+          "pt": "Salmo 27 — O Senhor é a minha luz e salvação ☀️ | Bíblia"
+        }
+      },
+      {
+        "ref": "Psalms 46:1-3",
+        "tipo": "conflicto",
+        "consulta_imagem": "stormy sea waves",
+        "titulo": {
+          "es": "Salmo 46 — Dios es nuestro amparo y fortaleza 💪 | Biblia",
+          "en": "Psalm 46 — God Is Our Refuge and Strength 💪 | Bible",
+          "pt": "Salmo 46 — Deus é o nosso refúgio e força 💪 | Bíblia"
+        }
+      },
+      {
+        "ref": "Psalms 34:4-8",
+        "tipo": "promesa",
+        "consulta_imagem": "morning light forest",
+        "titulo": {
+          "es": "Salmo 34 — Busqué a Jehová y me libró de mis temores 🙏",
+          "en": "Psalm 34 — I Sought the Lord and He Delivered Me 🙏",
+          "pt": "Salmo 34 — Busquei o Senhor e ele me livrou 🙏 | Bíblia"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "forca-coragem",
+    "formato": "tema",
+    "longo": {
+      "refs": ["Joshua 1:1-9", "Isaiah 41:8-13", "Isaiah 40:28-31", "Deuteronomy 31:1-8", "Psalms 18:28-36", "Ephesians 6:10-18"],
+      "titulo": {
+        "es": "Esfuérzate y Sé Valiente 💪 Josué 1 e Isaías 41 — Biblia hablada",
+        "en": "Be Strong and Courageous 💪 Joshua 1 & Isaiah 41 — Bible",
+        "pt": "Esforça-te e Tem Bom Ânimo 💪 Josué 1 e Isaías 41 — Bíblia"
+      },
+      "thumb_titulo": {
+        "es": "FUERZA Y VALOR",
+        "en": "STRENGTH & COURAGE",
+        "pt": "FORÇA E CORAGEM"
+      },
+      "thumb_sub": {
+        "es": "Josué 1 • Isaías 41 • Efesios 6",
+        "en": "Joshua 1 • Isaiah 41 • Ephesians 6",
+        "pt": "Josué 1 • Isaías 41 • Efésios 6"
+      },
+      "consultas_imagens": ["mountain climber summit", "lion portrait", "sunrise over canyon"]
+    },
+    "shorts": [
+      {
+        "ref": "Joshua 1:9",
+        "tipo": "conflicto",
+        "consulta_imagem": "man silhouette sunrise mountain",
+        "titulo": {
+          "es": "Josué 1:9 — Esfuérzate y sé valiente 💪 | Biblia en español",
+          "en": "Joshua 1:9 — Be Strong and of a Good Courage 💪 | Bible",
+          "pt": "Josué 1:9 — Esforça-te e tem bom ânimo 💪 | Bíblia"
+        }
+      },
+      {
+        "ref": "Isaiah 41:10",
+        "tipo": "promesa",
+        "consulta_imagem": "hand reaching light",
+        "titulo": {
+          "es": "Isaías 41:10 — No temas, porque yo estoy contigo 🙏 | Biblia",
+          "en": "Isaiah 41:10 — Fear Not, for I Am With Thee 🙏 | Bible",
+          "pt": "Isaías 41:10 — Não temas, porque eu sou contigo 🙏"
+        }
+      },
+      {
+        "ref": "Isaiah 40:28-31",
+        "tipo": "promesa",
+        "consulta_imagem": "eagle soaring mountains",
+        "titulo": {
+          "es": "Isaías 40 — Levantarán alas como águilas 🦅 | Biblia",
+          "en": "Isaiah 40 — They Shall Mount Up with Wings as Eagles 🦅",
+          "pt": "Isaías 40 — Subirão com asas como águias 🦅 | Bíblia"
+        }
+      },
+      {
+        "ref": "Psalms 18:32-34",
+        "tipo": "conflicto",
+        "consulta_imagem": "athlete training dawn",
+        "titulo": {
+          "es": "Salmo 18 — Dios es el que me ciñe de fuerza ⚔️ | Biblia",
+          "en": "Psalm 18 — It Is God That Girdeth Me with Strength ⚔️",
+          "pt": "Salmo 18 — Deus é o que me reveste de força ⚔️ | Bíblia"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "davi-golias",
+    "formato": "historia",
+    "longo": {
+      "refs": ["I Samuel 17:1-11", "I Samuel 17:20-30", "I Samuel 17:31-40", "I Samuel 17:41-51"],
+      "titulo": {
+        "es": "David y Goliat — La Historia Completa 🗿 1 Samuel 17 narrado",
+        "en": "David and Goliath — The Full Bible Story 🗿 1 Samuel 17",
+        "pt": "Davi e Golias — A História Completa 🗿 1 Samuel 17 narrado"
+      },
+      "thumb_titulo": {
+        "es": "DAVID Y GOLIAT",
+        "en": "DAVID & GOLIATH",
+        "pt": "DAVI E GOLIAS"
+      },
+      "thumb_sub": {
+        "es": "1 Samuel 17 — historia completa",
+        "en": "1 Samuel 17 — full story",
+        "pt": "1 Samuel 17 — história completa"
+      },
+      "consultas_imagens": ["desert valley cliffs", "shepherd with sheep sunset", "ancient armor helmet"]
+    },
+    "shorts": [
+      {
+        "ref": "I Samuel 17:45-47",
+        "tipo": "conflicto",
+        "consulta_imagem": "warrior silhouette sunset",
+        "titulo": {
+          "es": "David a Goliat — Yo vengo a ti en el nombre de Jehová ⚔️",
+          "en": "David to Goliath — I Come in the Name of the Lord ⚔️",
+          "pt": "Davi a Golias — Eu venho a ti em nome do Senhor ⚔️"
+        }
+      },
+      {
+        "ref": "I Samuel 17:37",
+        "tipo": "promesa",
+        "consulta_imagem": "lion wilderness",
+        "titulo": {
+          "es": "1 Samuel 17 — Jehová me librará de este filisteo 🙏 | Biblia",
+          "en": "1 Samuel 17 — The Lord Will Deliver Me 🙏 | Bible Story",
+          "pt": "1 Samuel 17 — O Senhor me livrará deste filisteu 🙏"
+        }
+      },
+      {
+        "ref": "Psalms 144:1-2",
+        "tipo": "conflicto",
+        "consulta_imagem": "fortress stone wall",
+        "titulo": {
+          "es": "Salmo 144 — Bendito sea Jehová, mi roca 🗿 | Biblia",
+          "en": "Psalm 144 — Blessed Be the Lord My Strength 🗿 | Bible",
+          "pt": "Salmo 144 — Bendito seja o Senhor, minha rocha 🗿"
+        }
+      },
+      {
+        "ref": "Psalms 118:6-9",
+        "tipo": "promesa",
+        "consulta_imagem": "open road horizon",
+        "titulo": {
+          "es": "Salmo 118 — Jehová está por mí, no temeré 💪 | Biblia",
+          "en": "Psalm 118 — The Lord Is on My Side, I Will Not Fear 💪",
+          "pt": "Salmo 118 — O Senhor está comigo, não temerei 💪"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "amor-de-deus",
+    "formato": "tema",
+    "longo": {
+      "refs": ["John 3:14-21", "Romans 8:31-39", "I Corinthians 13:1-13", "I John 4:7-19", "Psalms 103:1-13"],
+      "titulo": {
+        "es": "El Amor de Dios en la Biblia ❤️ Juan 3, Romanos 8, 1 Corintios 13",
+        "en": "The Love of God in the Bible ❤️ John 3, Romans 8, 1 Cor 13",
+        "pt": "O Amor de Deus na Bíblia ❤️ João 3, Romanos 8, 1 Coríntios 13"
+      },
+      "thumb_titulo": {
+        "es": "EL AMOR DE DIOS",
+        "en": "THE LOVE OF GOD",
+        "pt": "O AMOR DE DEUS"
+      },
+      "thumb_sub": {
+        "es": "Juan 3 • Romanos 8 • 1 Corintios 13",
+        "en": "John 3 • Romans 8 • 1 Corinthians 13",
+        "pt": "João 3 • Romanos 8 • 1 Coríntios 13"
+      },
+      "consultas_imagens": ["sunset heart clouds", "father and child silhouette", "warm light through trees"]
+    },
+    "shorts": [
+      {
+        "ref": "John 3:16-17",
+        "tipo": "promesa",
+        "consulta_imagem": "cross sunset silhouette",
+        "titulo": {
+          "es": "Juan 3:16 — De tal manera amó Dios al mundo ✝️ | Biblia",
+          "en": "John 3:16 — For God So Loved the World ✝️ | Bible",
+          "pt": "João 3:16 — Deus amou o mundo de tal maneira ✝️"
+        }
+      },
+      {
+        "ref": "Romans 8:38-39",
+        "tipo": "promesa",
+        "consulta_imagem": "galaxy stars space",
+        "titulo": {
+          "es": "Romanos 8 — Nada nos separará del amor de Dios 💫 | Biblia",
+          "en": "Romans 8 — Nothing Can Separate Us from God's Love 💫",
+          "pt": "Romanos 8 — Nada nos separará do amor de Deus 💫"
+        }
+      },
+      {
+        "ref": "I Corinthians 13:4-8",
+        "tipo": "descriptivo",
+        "consulta_imagem": "couple holding hands sunset",
+        "titulo": {
+          "es": "1 Corintios 13 — El amor es sufrido, es benigno ❤️",
+          "en": "1 Corinthians 13 — Love Suffereth Long and Is Kind ❤️",
+          "pt": "1 Coríntios 13 — O amor é paciente, é bondoso ❤️"
+        }
+      },
+      {
+        "ref": "Psalms 103:8-12",
+        "tipo": "promesa",
+        "consulta_imagem": "wide open sky field",
+        "titulo": {
+          "es": "Salmo 103 — Misericordioso y clemente es Jehová 🙏",
+          "en": "Psalm 103 — The Lord Is Merciful and Gracious 🙏",
+          "pt": "Salmo 103 — Misericordioso e clemente é o Senhor 🙏"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "ansiedade-descanso",
+    "formato": "tema",
+    "longo": {
+      "refs": ["Matthew 6:25-34", "Matthew 11:25-30", "Philippians 4:4-9", "I Peter 5:6-11", "Psalms 55:16-22", "Psalms 37:1-9"],
+      "titulo": {
+        "es": "No Te Afanes por Nada 🕊️ Mateo 6 y Filipenses 4 — Biblia hablada",
+        "en": "Do Not Be Anxious 🕊️ Matthew 6 & Philippians 4 — Bible",
+        "pt": "Não Andeis Ansiosos 🕊️ Mateus 6 e Filipenses 4 — Bíblia"
+      },
+      "thumb_titulo": {
+        "es": "PAZ PARA EL ALMA",
+        "en": "PEACE FOR YOUR SOUL",
+        "pt": "PAZ PARA A ALMA"
+      },
+      "thumb_sub": {
+        "es": "Mateo 6 • Filipenses 4 • 1 Pedro 5",
+        "en": "Matthew 6 • Philippians 4 • 1 Peter 5",
+        "pt": "Mateus 6 • Filipenses 4 • 1 Pedro 5"
+      },
+      "consultas_imagens": ["birds flying sky", "lilies field flowers", "calm river morning mist"]
+    },
+    "shorts": [
+      {
+        "ref": "Matthew 6:25-27",
+        "tipo": "descriptivo",
+        "consulta_imagem": "birds in sky",
+        "titulo": {
+          "es": "Mateo 6 — Mirad las aves del cielo 🕊️ | Biblia",
+          "en": "Matthew 6 — Behold the Fowls of the Air 🕊️ | Bible",
+          "pt": "Mateus 6 — Olhai para as aves do céu 🕊️ | Bíblia"
+        }
+      },
+      {
+        "ref": "Philippians 4:6-7",
+        "tipo": "promesa",
+        "consulta_imagem": "peaceful lake reflection",
+        "titulo": {
+          "es": "Filipenses 4 — Por nada estéis afanosos 🙏 | Biblia",
+          "en": "Philippians 4 — Be Careful for Nothing 🙏 | Bible",
+          "pt": "Filipenses 4 — Não estejais inquietos por coisa alguma 🙏"
+        }
+      },
+      {
+        "ref": "Matthew 11:28-30",
+        "tipo": "promesa",
+        "consulta_imagem": "quiet meadow sunset",
+        "titulo": {
+          "es": "Mateo 11:28 — Venid a mí todos los que estáis trabajados 💛",
+          "en": "Matthew 11:28 — Come Unto Me, All Ye That Labour 💛",
+          "pt": "Mateus 11:28 — Vinde a mim, todos os que estais cansados 💛"
+        }
+      },
+      {
+        "ref": "I Peter 5:6-7",
+        "tipo": "promesa",
+        "consulta_imagem": "hands open sky",
+        "titulo": {
+          "es": "1 Pedro 5:7 — Echad toda vuestra ansiedad sobre él 🙏",
+          "en": "1 Peter 5:7 — Casting All Your Care Upon Him 🙏 | Bible",
+          "pt": "1 Pedro 5:7 — Lançando sobre ele toda a vossa ansiedade 🙏"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "genesis-criacao",
+    "formato": "historia",
+    "longo": {
+      "refs": ["Genesis 1:1-31", "Genesis 2:1-3", "Psalms 19:1-6"],
+      "titulo": {
+        "es": "La Creación del Mundo — Génesis 1 Narrado Completo 🌍 Biblia",
+        "en": "The Creation of the World — Genesis 1 Fully Narrated 🌍",
+        "pt": "A Criação do Mundo — Gênesis 1 Narrado Completo 🌍 Bíblia"
+      },
+      "thumb_titulo": {
+        "es": "LA CREACIÓN",
+        "en": "THE CREATION",
+        "pt": "A CRIAÇÃO"
+      },
+      "thumb_sub": {
+        "es": "Génesis 1 — narrado completo",
+        "en": "Genesis 1 — fully narrated",
+        "pt": "Gênesis 1 — narrado completo"
+      },
+      "consultas_imagens": ["earth from space", "ocean waves aerial", "forest sunrise aerial", "night sky milky way"]
+    },
+    "shorts": [
+      {
+        "ref": "Genesis 1:1-5",
+        "tipo": "descriptivo",
+        "consulta_imagem": "cosmos nebula",
+        "titulo": {
+          "es": "Génesis 1 — En el principio creó Dios los cielos 🌌",
+          "en": "Genesis 1 — In the Beginning God Created ✨ | Bible",
+          "pt": "Gênesis 1 — No princípio criou Deus os céus 🌌"
+        }
+      },
+      {
+        "ref": "Genesis 1:26-28",
+        "tipo": "descriptivo",
+        "consulta_imagem": "human silhouette sunrise",
+        "titulo": {
+          "es": "Génesis 1 — Hagamos al hombre a nuestra imagen 👤 | Biblia",
+          "en": "Genesis 1 — Let Us Make Man in Our Image 👤 | Bible",
+          "pt": "Gênesis 1 — Façamos o homem à nossa imagem 👤"
+        }
+      },
+      {
+        "ref": "Psalms 19:1-4",
+        "tipo": "descriptivo",
+        "consulta_imagem": "starry sky mountains",
+        "titulo": {
+          "es": "Salmo 19 — Los cielos cuentan la gloria de Dios ✨",
+          "en": "Psalm 19 — The Heavens Declare the Glory of God ✨",
+          "pt": "Salmo 19 — Os céus declaram a glória de Deus ✨"
+        }
+      },
+      {
+        "ref": "Isaiah 40:26",
+        "tipo": "descriptivo",
+        "consulta_imagem": "stars universe",
+        "titulo": {
+          "es": "Isaías 40:26 — Levantad en alto vuestros ojos 🌠 | Biblia",
+          "en": "Isaiah 40:26 — Lift Up Your Eyes on High 🌠 | Bible",
+          "pt": "Isaías 40:26 — Levantai ao alto os vossos olhos 🌠"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-dormir-2",
+    "formato": "dormir",
+    "longo": {
+      "refs": ["Psalms 46", "Psalms 62", "Psalms 63", "Psalms 131", "Psalms 16", "Psalms 3"],
+      "titulo": {
+        "es": "Salmos para Descansar en Dios 🌙 Salmo 46, 62 y 63 — Biblia",
+        "en": "Psalms to Rest in God 🌙 Psalm 46, 62 & 63 — Bible for Sleep",
+        "pt": "Salmos para Descansar em Deus 🌙 Salmo 46, 62 e 63 — Bíblia"
+      },
+      "thumb_titulo": {
+        "es": "DESCANSA EN DIOS",
+        "en": "REST IN GOD",
+        "pt": "DESCANSA EM DEUS"
+      },
+      "thumb_sub": {
+        "es": "Salmo 46 • 62 • 63",
+        "en": "Psalm 46 • 62 • 63",
+        "pt": "Salmo 46 • 62 • 63"
+      },
+      "consultas_imagens": ["night lake moon reflection", "candle dark warm", "aurora night sky"]
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 62:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "silent mountain dawn",
+        "titulo": {
+          "es": "Salmo 62 — En Dios solamente está acallada mi alma 🕊️",
+          "en": "Psalm 62 — Truly My Soul Waiteth Upon God 🕊️ | Bible",
+          "pt": "Salmo 62 — Somente em Deus descansa a minha alma 🕊️"
+        }
+      },
+      {
+        "ref": "Psalms 63:1-4",
+        "tipo": "descriptivo",
+        "consulta_imagem": "desert dawn",
+        "titulo": {
+          "es": "Salmo 63 — Dios, Dios mío eres tú, de madrugada te buscaré ☀️",
+          "en": "Psalm 63 — O God, Early Will I Seek Thee ☀️ | Bible",
+          "pt": "Salmo 63 — Ó Deus, tu és o meu Deus, de madrugada te busco ☀️"
+        }
+      },
+      {
+        "ref": "Psalms 3:3-5",
+        "tipo": "promesa",
+        "consulta_imagem": "shield light",
+        "titulo": {
+          "es": "Salmo 3 — Tú, Jehová, eres escudo alrededor de mí 🛡️",
+          "en": "Psalm 3 — Thou, O Lord, Art a Shield for Me 🛡️ | Bible",
+          "pt": "Salmo 3 — Tu, Senhor, és o escudo ao meu redor 🛡️"
+        }
+      },
+      {
+        "ref": "Psalms 16:7-9",
+        "tipo": "promesa",
+        "consulta_imagem": "night stars calm sea",
+        "titulo": {
+          "es": "Salmo 16 — Mi carne también reposará confiadamente 🌙",
+          "en": "Psalm 16 — My Flesh Also Shall Rest in Hope 🌙 | Bible",
+          "pt": "Salmo 16 — Também a minha carne repousará segura 🌙"
+        }
+      }
+    ]
+  }
+]

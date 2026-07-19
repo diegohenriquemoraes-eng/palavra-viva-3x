@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+credenciais/
+saida/
+.cache-imagens/
+*.lock
+upload-state.json
