@@ -197,6 +197,38 @@ def baixar(url: str, destino: Path) -> bool:
         return False
 
 
+FUNDOS = Path(__file__).resolve().parent.parent / "marca" / "fundos"
+
+
+def biblioteca() -> list[dict]:
+    """Fundos curados e versionados no repo (revisados um a um).
+
+    Existe porque a busca ao vivo erra: um vídeo do Salmo 23 saiu com um navio
+    cargueiro de fundo. Aqui a imagem é previsível, o render não depende de
+    rede na hora de publicar e os 3 idiomas ficam visualmente idênticos —
+    consistência visual é o que dá identidade a um canal sem rosto.
+    """
+    creditos = FUNDOS / "creditos.json"
+    if not creditos.exists():
+        return []
+    import json
+    itens = json.loads(creditos.read_text(encoding="utf-8"))
+    return [i for i in itens if (FUNDOS / i["arquivo"]).exists()]
+
+
+def escolher_da_biblioteca(n: int, seed: int) -> list[dict]:
+    """n fundos da biblioteca, embaralhados pelo seed (mesmo pacote = mesmos
+    fundos nos 3 idiomas) e sem repetir enquanto houver imagem nova."""
+    itens = biblioteca()
+    if not itens:
+        return []
+    rng = random.Random(seed)
+    ordem = itens[:]
+    rng.shuffle(ordem)
+    return [dict(ordem[i % len(ordem)], caminho=str(FUNDOS / ordem[i % len(ordem)]["arquivo"]))
+            for i in range(n)]
+
+
 def gerar_gradiente(destino: Path, w: int, h: int, seed: int) -> Path:
     """Fallback: gradiente vertical da paleta da casa, com vinheta suave."""
     rng = random.Random(seed)

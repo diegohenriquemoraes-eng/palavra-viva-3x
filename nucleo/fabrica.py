@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import math
 import re
+import shutil
 import zlib
 from pathlib import Path
 
@@ -30,7 +31,16 @@ def _seed(pacote: dict, extra: str) -> int:
 
 
 def _baixar_imagem(info: dict | None, destino: Path) -> Path | None:
-    if not info or not info.get("url"):
+    """Resolve a imagem: biblioteca local (já revisada) tem prioridade."""
+    if not info:
+        return None
+    local = info.get("caminho")
+    if local and Path(local).exists():
+        # copiar (não referenciar): o ffmpeg roda com cwd na pasta de saída e
+        # caminho com "C:" quebra o parser de filtro no Windows
+        shutil.copyfile(local, destino)
+        return destino
+    if not info.get("url"):
         return None
     if imagens.baixar(info["url"], destino):
         return destino
@@ -106,7 +116,9 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     cab = biblia.cabecalho(idioma, ref)
     legendas.ass_short(outdir / "legenda.ass", blocos, cab, marca, dur)
 
-    img = _baixar_imagem(short.get("imagem"), outdir / "fundo.jpg")
+    da_casa = imagens.escolher_da_biblioteca(1, _seed(pacote, f"fundo{idx}"))
+    info_img = da_casa[0] if da_casa else short.get("imagem")
+    img = _baixar_imagem(info_img, outdir / "fundo.jpg")
     seed = _seed(pacote, f"short{idx}")
     video = render.render_short(outdir, mp3.name, "legenda.ass", img, dur, seed)
 
@@ -120,7 +132,7 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
         f"{ref_disp} — {cfg['fonte_texto']}."
         + ponte +
         f"\n{cfg['cta']}\n\n{cfg['hashtags']} #Shorts"
-        + (creditos([short.get("imagem")]) if img else "")
+        + (creditos([info_img]) if img else "")
     )
     return {
         "arquivo": video,
@@ -187,7 +199,10 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path) -> dict:
     n_alvo = max(6, min(30, math.ceil(dur / SEG_POR_IMAGEM)))
     baixadas: list[Path] = []
     usadas_info: list[dict] = []
-    for j, info in enumerate(longo.get("imagens", [])):
+    # biblioteca curada primeiro; o que o pacote resolveu na busca é reserva
+    fontes = imagens.escolher_da_biblioteca(n_alvo, _seed(pacote, "fundos")) \
+        or longo.get("imagens", [])
+    for j, info in enumerate(fontes):
         p = _baixar_imagem(info, outdir / f"img{j:02d}.jpg")
         if p:
             baixadas.append(p)
