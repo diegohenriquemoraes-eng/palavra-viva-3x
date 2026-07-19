@@ -51,9 +51,26 @@ def canal_do_token(youtube) -> tuple[str, str]:
     return itens[0]["id"], itens[0]["snippet"]["title"]
 
 
+LIMITE_DESCRICAO = 4900   # o limite do YouTube é 5000; margem de segurança
+
+
+def limpar_texto(txt: str) -> str:
+    """Tira o que o YouTube recusa em título/descrição.
+
+    `< >` derrubam o upload com 'invalid video description' (custou um longo
+    de 16 min já renderizado em 19/07). Caracteres de controle idem.
+    """
+    txt = txt.replace("<", "(").replace(">", ")")
+    return "".join(c for c in txt if c == "\n" or ord(c) >= 32)
+
+
 def upload(youtube, arquivo: Path, titulo: str, descricao: str,
            tags: list[str], idioma_bcp47: str, categoria: str = "22",
            privacidade: str = "private") -> str:
+    titulo = limpar_texto(titulo)
+    descricao = limpar_texto(descricao)
+    if len(descricao) > LIMITE_DESCRICAO:
+        descricao = descricao[:LIMITE_DESCRICAO].rsplit("\n", 1)[0]
     if len(titulo) > 100:
         raise SystemExit(f"Título com {len(titulo)} caracteres (máx. 100)")
     body = {

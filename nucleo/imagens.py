@@ -34,6 +34,22 @@ COR_MEIO = (27, 15, 59)
 COR_BASE = (42, 20, 80)
 
 
+def limpar_autor(bruto: str) -> str:
+    """O campo Artist do Commons vem em HTML: '<a href=...>Fulano</a>'.
+
+    Limpar ANTES de truncar. Truncar primeiro parte a tag no meio, o '>' de
+    fechamento some, o limpador não reconhece mais como tag e o HTML cru vaza
+    para a descrição — foi o que fez o YouTube recusar um vídeo de 16 min já
+    renderizado em 19/07 ("invalid video description").
+    """
+    txt = re.sub(r"<[^>]*>", " ", bruto or "")
+    txt = (txt.replace("&amp;", "&").replace("&quot;", '"')
+              .replace("&#039;", "'").replace("&lt;", "").replace("&gt;", ""))
+    txt = re.sub(r"[<>]", "", txt)
+    txt = re.sub(r"\s+", " ", txt).strip()
+    return txt[:70] or "desconhecido"
+
+
 def _licenca_livre(lic: str) -> bool:
     """CC0, domínio público e CC BY (crédito basta).
 
@@ -142,8 +158,7 @@ def resolver(consulta: str, n: int, seed: int, orientacao: str = "wide"
         prefere_wide = orientacao == "wide"
         candidatos.append({
             "url": ii.get("thumburl") or ii.get("url"),
-            "autor": (meta.get("Artist") or {}).get("value", "")[:120]
-                     or "desconhecido",
+            "autor": limpar_autor((meta.get("Artist") or {}).get("value", "")),
             "origem": ii.get("descriptionurl") or ii.get("url"),
             "licenca": lic,
             # mais termos batidos primeiro; depois orientação certa

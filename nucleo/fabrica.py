@@ -48,10 +48,8 @@ def _baixar_imagem(info: dict | None, destino: Path) -> Path | None:
 
 
 def _limpar_html(txt: str) -> str:
-    """O campo Artist do Commons vem com HTML (<a href=...>Fulano</a>)."""
-    txt = re.sub(r"<[^>]+>", " ", txt or "")
-    txt = re.sub(r"\s+", " ", txt).strip()
-    return txt[:70] or "desconhecido"
+    """Delega para o limpador único (ver imagens.limpar_autor)."""
+    return imagens.limpar_autor(txt)
 
 
 def creditos(usadas: list[dict]) -> str:
