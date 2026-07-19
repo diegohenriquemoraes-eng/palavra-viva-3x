@@ -46,3 +46,11 @@
 - Item: short-2 — Psalm 4:8
 - Duração: 18.5s
 - Publicado em: 2026-07-19T16:46:15+00:00
+
+## [en] Y9dEdkK2XsQ — Psalm 121 — My Help Comes from the Lord | Bible
+
+- URL: https://youtu.be/Y9dEdkK2XsQ
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-3 — Psalm 121:1-4
+- Duração: 20.6s
+- Publicado em: 2026-07-19T23:49:18+00:00

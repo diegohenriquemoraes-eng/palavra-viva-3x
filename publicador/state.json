@@ -60,12 +60,19 @@
           "video_id": "FJlF1OBTxsw",
           "titulo": "Psalm 4:8 — I Will Lay Down and Sleep in Peace | Bible",
           "em": "2026-07-19T16:46:15+00:00"
+        },
+        {
+          "pacote": "2026-07-19-salmos-dormir-1",
+          "item": "short-3",
+          "video_id": "Y9dEdkK2XsQ",
+          "titulo": "Psalm 121 — My Help Comes from the Lord | Bible",
+          "em": "2026-07-19T23:49:18+00:00"
         }
       ],
-      "ultimo_short": "2026-07-19T16:46:15+00:00",
+      "ultimo_short": "2026-07-19T23:49:18+00:00",
       "shorts_dia": {
         "data": "2026-07-19",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-19"
     }
