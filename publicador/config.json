@@ -8,8 +8,8 @@
       "titulo_canal": "Palabra Viva Cortes",
       "handle": "@PalabraVivaCortes",
       "hora_longo_utc": 0,
-      "shorts_por_dia": 4,
-      "gap_shorts_min": 270
+      "shorts_por_dia": 3,
+      "gap_shorts_min": 420
     },
     "en": {
       "ativo": true,
@@ -17,8 +17,8 @@
       "titulo_canal": "Living Word Daily",
       "handle": "@LivingWordDailyKJV",
       "hora_longo_utc": 1,
-      "shorts_por_dia": 4,
-      "gap_shorts_min": 270
+      "shorts_por_dia": 3,
+      "gap_shorts_min": 420
     },
     "pt": {
       "ativo": false,
@@ -26,8 +26,8 @@
       "titulo_canal": "Palavra Viva Diária",
       "handle": "@PalavraVivaDiaria",
       "hora_longo_utc": 2,
-      "shorts_por_dia": 4,
-      "gap_shorts_min": 270
+      "shorts_por_dia": 3,
+      "gap_shorts_min": 420
     }
   }
 }

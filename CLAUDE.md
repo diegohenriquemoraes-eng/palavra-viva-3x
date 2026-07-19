@@ -27,8 +27,31 @@ Diferença-chave vs. o pipeline antigo: a fila NÃO guarda MP4. O repo é públi
 | Reabastecedor (`produzir/reabastecer.py`, cron 6h) | Actions | Cria `fila/AAAA-MM-DD-slug/pacote.json` para hoje+2: valida refs nas 3 Bíblias e resolve URLs de imagem CC0 (Openverse) UMA vez — os 3 idiomas usam as MESMAS imagens |
 | Publicador (`publicador/publicar.py`, cron horário) | Actions | Por canal: decide o que está devido (longo 1x/dia após hora_longo_utc; Shorts até 4/dia com gap de 270 min), renderiza NA HORA e publica. Máx. 1 item por canal por execução |
 
-Quota por canal/dia: 5 uploads x 1600 + thumb 50 ≈ 8.050 de 10.000 — margem
-para 1 retry. NUNCA subir para 6/dia sem aumento de cota aprovado pelo Google.
+## Cota da YouTube API — a conta que define a agenda
+
+10.000 unidades/dia por projeto Cloud, e **cada canal tem projeto próprio**
+(os 3 não dividem). Por canal, com 3 Shorts + 1 longo:
+
+| Item | Unidades |
+|---|---|
+| 4 uploads x 1600 | 6.400 |
+| tornar público (4 x 50) | 200 |
+| thumbnail do longo | 50 |
+| playlist, channels.list, polling de processamento | ~90–230 |
+| **total** | **~6.800 de 10.000** |
+
+Sobra para **dois envios de reserva** — o que cobre um vídeo que falhe depois
+de subir e seja reenviado. Era 4 Shorts + 1 longo (~8.400, folga de um envio
+só); reduzido em 19/07 a pedido do Diego, trocando o Short de menor
+rendimento por margem de segurança.
+
+Render que falha ANTES do upload não gasta cota nenhuma (foi o caso das
+falhas do canal EN em 19/07). Cota só queima no `videos.insert`.
+
+Cada tema tem 4 Shorts e só 3 vão ao ar: o quarto é reserva — se o longo
+falhar, o publicador cai para Short e usa esse (ver `publicar.py::montar`).
+
+NUNCA subir para 6 uploads/dia sem aumento de cota aprovado pelo Google.
 
 ## Diretriz editorial — inegociável
 
