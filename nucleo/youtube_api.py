@@ -27,7 +27,9 @@ def credenciais(pasta: Path) -> Credentials:
     token = pasta / "token.json"
     if not token.exists():
         raise SystemExit(f"token.json ausente em {pasta}")
-    creds = Credentials.from_authorized_user_file(str(token), SCOPES)
+    # utf-8-sig: o caminho PowerShell -> gh secret pode enfiar BOM no JSON
+    info = json.loads(token.read_text(encoding="utf-8-sig"))
+    creds = Credentials.from_authorized_user_info(info, SCOPES)
     if creds.expired and creds.refresh_token:
         creds.refresh(Request())
         token.write_text(creds.to_json(), encoding="utf-8")
