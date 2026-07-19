@@ -16,6 +16,12 @@ on:
         description: "Só decidir, sem renderizar nem publicar"
         type: boolean
         default: false
+      canal:
+        description: "Limitar a um canal (es/en/pt); vazio = todos"
+        default: ""
+      forcar_tipo:
+        description: "Ignorar a agenda e publicar este tipo (short/longo)"
+        default: ""
 
 concurrency:
   group: publicar-3x
@@ -69,11 +75,12 @@ jobs:
 
       - name: Publicar o que está devido nesta hora
         run: |
-          if [ "${{ inputs.dry_run }}" = "true" ]; then
-            python publicador/publicar.py --dry-run
-          else
-            python publicador/publicar.py
-          fi
+          args=""
+          [ "${{ inputs.dry_run }}" = "true" ] && args="$args --dry-run"
+          [ -n "${{ inputs.canal }}" ] && args="$args --canal ${{ inputs.canal }}"
+          [ -n "${{ inputs.forcar_tipo }}" ] && args="$args --forcar-tipo ${{ inputs.forcar_tipo }}"
+          echo "args:$args"
+          python publicador/publicar.py $args
 
       - name: Alarme se não houver pacote para amanhã
         if: always()
