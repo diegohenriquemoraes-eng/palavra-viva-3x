@@ -30,3 +30,11 @@
 - Item: short-3 — Salmo 121:1-4
 - Duração: 20.0s
 - Publicado em: 2026-07-19T12:56:26+00:00
+
+## [en] O-KJQt5ra4s — Psalms for Sleep 🌙 Psalm 91, 23 & 121 — Peaceful Bible Reading
+
+- URL: https://youtu.be/O-KJQt5ra4s
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — Psalm 23, Psalm 91, Psalm 121, Psalm 4, Psalm 27
+- Duração: 1005.8s
+- Publicado em: 2026-07-19T16:00:44+00:00
