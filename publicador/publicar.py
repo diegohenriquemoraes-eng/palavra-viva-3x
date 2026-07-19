@@ -124,6 +124,16 @@ def publicar_item(idioma: str, canal_cfg: dict, config: dict, item: dict,
         raise SystemExit(f"[{idioma}] token é do canal {cid} ({ctitulo}); "
                          f"esperado {canal_cfg['channel_id']}")
 
+    # Guarda contra duplicata: o canal é a fonte de verdade, não o state.json
+    # (ver youtube_api.ja_publicado — custou um vídeo longo duplicado no EN).
+    existente = youtube_api.ja_publicado(youtube, item["titulo"])
+    if existente:
+        log(f"[{idioma}] JÁ EXISTE no canal: https://youtu.be/{existente} "
+            f"— não vou publicar de novo. Registrando no estado.")
+        registrar_no_estado(state, idioma, canal_cfg, item, existente,
+                            pasta_pacote, tipo)
+        return
+
     log(f"[{idioma}] subindo {item['tipo_item']}: {item['titulo']}")
     video_id = youtube_api.upload(
         youtube, item["arquivo"], item["titulo"], item["descricao"],
@@ -159,9 +169,17 @@ def publicar_item(idioma: str, canal_cfg: dict, config: dict, item: dict,
             except Exception as exc:
                 log(f"[{idioma}] playlist falhou ({exc}); seguindo.")
 
+    registrar_no_estado(state, idioma, canal_cfg, item, video_id,
+                        pasta_pacote, tipo)
+
+
+def registrar_no_estado(state: dict, idioma: str, canal_cfg: dict, item: dict,
+                        video_id: str, pasta_pacote: Path, tipo: str) -> None:
     agora = datetime.now(timezone.utc)
     hoje = agora.date().isoformat()
     ec = estado_canal(state, idioma)
+    if any(p["video_id"] == video_id for p in ec["publicados"]):
+        return
     ec["publicados"].append({
         "pacote": pasta_pacote.name, "item": item["tipo_item"],
         "video_id": video_id, "titulo": item["titulo"],

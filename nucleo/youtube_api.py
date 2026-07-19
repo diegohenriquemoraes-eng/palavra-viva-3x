@@ -142,6 +142,33 @@ def tornar_publico(youtube, video_id: str, item: dict) -> None:
                             body={"id": video_id, "status": status}).execute()
 
 
+def ja_publicado(youtube, titulo: str, dias: int = 1) -> str | None:
+    """Devolve o id se o canal JÁ tem um vídeo com este título recente.
+
+    O state.json não basta como verdade: em 19/07 uma execução ficou na fila
+    (trava de concorrência), começou logo depois da anterior publicar e fez
+    checkout do repositório com o estado ANTIGO — para ela o longo do dia não
+    tinha saído, e publicou um segundo idêntico. O canal é a única fonte
+    confiável, então conferimos nele antes de subir. Custo: 2 unidades.
+    """
+    from datetime import datetime, timedelta, timezone
+    corte = datetime.now(timezone.utc) - timedelta(days=dias)
+    canais = youtube.channels().list(part="contentDetails", mine=True).execute()
+    uploads = canais["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    itens = youtube.playlistItems().list(
+        part="snippet,contentDetails", playlistId=uploads, maxResults=15
+    ).execute().get("items", [])
+    alvo = limpar_texto(titulo).strip().casefold()
+    for it in itens:
+        publicado = it["contentDetails"].get("videoPublishedAt")
+        if publicado and datetime.fromisoformat(
+                publicado.replace("Z", "+00:00")) < corte:
+            continue
+        if it["snippet"]["title"].strip().casefold() == alvo:
+            return it["contentDetails"]["videoId"]
+    return None
+
+
 def playlist_por_titulo(youtube, titulo: str, descricao: str) -> str:
     """Acha (ou cria) a playlist do canal com este título e devolve o id.
 

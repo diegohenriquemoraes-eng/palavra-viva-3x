@@ -76,6 +76,12 @@ jobs:
             fi
           done
 
+      - name: Pegar o estado mais recente
+        # Execução que ficou na fila pela trava de concorrência faz checkout
+        # ANTES de a anterior empurrar o estado. Sem este pull, ela trabalha
+        # com dados velhos e republica o que já saiu.
+        run: git pull --rebase --autostash origin main || true
+
       - name: Publicar o que está devido nesta hora
         run: |
           args=""
