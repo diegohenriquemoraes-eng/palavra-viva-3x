@@ -38,3 +38,11 @@
 - Item: longo — Psalm 23, Psalm 91, Psalm 121, Psalm 4, Psalm 27
 - Duração: 1005.8s
 - Publicado em: 2026-07-19T16:00:44+00:00
+
+## [en] FJlF1OBTxsw — Psalm 4:8 — I Will Lay Down and Sleep in Peace | Bible
+
+- URL: https://youtu.be/FJlF1OBTxsw
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-2 — Psalm 4:8
+- Duração: 18.5s
+- Publicado em: 2026-07-19T16:46:15+00:00

@@ -53,12 +53,19 @@
           "video_id": "O-KJQt5ra4s",
           "titulo": "Psalms for Sleep — Psalm 91, 23 & 121 | Audio Bible to Fall Asleep",
           "em": "2026-07-19T16:00:44+00:00"
+        },
+        {
+          "pacote": "2026-07-19-salmos-dormir-1",
+          "item": "short-2",
+          "video_id": "FJlF1OBTxsw",
+          "titulo": "Psalm 4:8 — I Will Lay Down and Sleep in Peace | Bible",
+          "em": "2026-07-19T16:46:15+00:00"
         }
       ],
-      "ultimo_short": "2026-07-19T05:44:03+00:00",
+      "ultimo_short": "2026-07-19T16:46:15+00:00",
       "shorts_dia": {
         "data": "2026-07-19",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-19"
     }
