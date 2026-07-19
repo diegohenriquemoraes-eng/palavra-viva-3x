@@ -22,3 +22,11 @@
 - Item: short-2 — Salmo 4:8
 - Duração: 8.6s
 - Publicado em: 2026-07-19T08:00:33+00:00
+
+## [es] jw1kV2HL-0E — Salmo 121 — Mi socorro viene de Jehová ⛰️ | Biblia en español
+
+- URL: https://youtu.be/jw1kV2HL-0E
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 121:1-4
+- Duração: 20.0s
+- Publicado em: 2026-07-19T12:56:26+00:00
