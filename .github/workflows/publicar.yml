@@ -30,7 +30,10 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    # O longo do formato "dormir" tem ~16-18 min e o runner só tem 2 núcleos:
+    # render + upload + espera de processamento passam folgado dos 55 min que
+    # bastavam para o vídeo de 8 min.
+    timeout-minutes: 110
     permissions:
       contents: write
       issues: write
