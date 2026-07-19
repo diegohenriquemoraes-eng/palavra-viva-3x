@@ -22,7 +22,10 @@ import requests
 from PIL import Image, ImageDraw
 
 API = "https://commons.wikimedia.org/w/api.php"
-UA = {"User-Agent": "PalavraViva3x/1.0 (canal biblico; contato via GitHub)"}
+# UA descritivo com contato: exigência da robot policy do Wikimedia
+UA = {"User-Agent": ("PalavraViva3x/1.0 "
+                     "(https://github.com/diegohenriquemoraes-eng/palavra-viva-3x; "
+                     "diegohenriquemoraes@gmail.com)")}
 
 # paleta da casa (a mesma família do logo: azul profundo + dourado)
 COR_TOPO = (11, 18, 48)
@@ -110,9 +113,21 @@ def resolver(consulta: str, n: int, seed: int, orientacao: str = "wide"
 
 
 def baixar(url: str, destino: Path) -> bool:
+    """Download educado: 2,5s entre pedidos e um retry no 429 — o upload.
+    wikimedia.org corta rajadas (aprendido em 19/07: 10 de 14 caíram)."""
+    global _ultima_busca
     try:
-        r = requests.get(url, headers=UA, timeout=60)
-        r.raise_for_status()
+        for tentativa in (1, 2):
+            espera = 2.5 - (time.monotonic() - _ultima_busca)
+            if espera > 0:
+                time.sleep(espera)
+            _ultima_busca = time.monotonic()
+            r = requests.get(url, headers=UA, timeout=60)
+            if r.status_code == 429 and tentativa == 1:
+                time.sleep(20)
+                continue
+            r.raise_for_status()
+            break
         if len(r.content) < 30_000:
             return False
         destino.write_bytes(r.content)

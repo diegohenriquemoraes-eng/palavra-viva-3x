@@ -14,7 +14,8 @@ from pathlib import Path
 
 from . import biblia, idiomas, imagens, legendas, musica, render, thumbnail, tts
 
-PAUSA_VERSO = 1.4       # silêncio contemplativo entre versículos do longo
+PAUSA_VERSO = 2.0       # silêncio contemplativo entre versículos do longo
+                        # (2,0s: leva o longo típico acima dos 8 min de mid-roll)
 CAUDA_LONGO = 3.5
 CAUDA_SHORT = 1.2
 SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s
