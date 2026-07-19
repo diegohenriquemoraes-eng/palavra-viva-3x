@@ -15,6 +15,26 @@ FONTES_DIR = RAIZ / "marca" / "fontes"
 
 IDIOMAS = ("es", "en", "pt")
 
+# Nome da playlist por formato de conteúdo, em cada idioma. Playlist curta e
+# bem nichada é o que faz o espectador emendar um vídeo no outro em vez de sair.
+PLAYLISTS = {
+    "dormir": {
+        "es": "Salmos para dormir 🌙",
+        "en": "Psalms for sleep 🌙",
+        "pt": "Salmos para dormir 🌙",
+    },
+    "tema": {
+        "es": "Promesas de Dios por tema 🙏",
+        "en": "God's promises by theme 🙏",
+        "pt": "Promessas de Deus por tema 🙏",
+    },
+    "historia": {
+        "es": "Historias de la Biblia narradas 📖",
+        "en": "Bible stories narrated 📖",
+        "pt": "Histórias da Bíblia narradas 📖",
+    },
+}
+
 CONFIG = {
     "es": {
         "arquivo_biblia": BIBLIA_DIR / "rv1909.json",
@@ -30,6 +50,8 @@ CONFIG = {
         "tags": ["biblia", "versículos", "palabra de dios", "fe", "cristiano",
                  "reina valera", "español"],
         "rotulo_capitulos": "Pasajes en este video:",
+        "rotulo_repeticao": "repetición",
+        "rotulo_completo": "Video completo",
     },
     "en": {
         "arquivo_biblia": BIBLIA_DIR / "kjv.json",
@@ -45,6 +67,8 @@ CONFIG = {
         "tags": ["bible", "bible verses", "scripture", "faith", "christian",
                  "king james version", "kjv"],
         "rotulo_capitulos": "Passages in this video:",
+        "rotulo_repeticao": "repeat",
+        "rotulo_completo": "Full video",
     },
     "pt": {
         "arquivo_biblia": BIBLIA_DIR / "blivre.json",
@@ -60,6 +84,8 @@ CONFIG = {
         "tags": ["bíblia", "versículos", "palavra de deus", "fé", "cristão",
                  "bíblia narrada", "salmos"],
         "rotulo_capitulos": "Passagens neste vídeo:",
+        "rotulo_repeticao": "repetição",
+        "rotulo_completo": "Vídeo completo",
     },
 }
 

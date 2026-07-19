@@ -125,6 +125,40 @@ def tornar_publico(youtube, video_id: str, item: dict) -> None:
                             body={"id": video_id, "status": status}).execute()
 
 
+def playlist_por_titulo(youtube, titulo: str, descricao: str) -> str:
+    """Acha (ou cria) a playlist do canal com este título e devolve o id.
+
+    Playlist é o que transforma 1 vídeo assistido em sessão: o YouTube passa a
+    encadear o próximo vídeo do canal em vez de mandar o espectador embora.
+    Custo de quota: list=1, insert=50 (só na primeira vez de cada formato).
+    """
+    pagina = None
+    while True:
+        r = youtube.playlists().list(part="id,snippet", mine=True,
+                                     maxResults=50, pageToken=pagina).execute()
+        for pl in r.get("items", []):
+            if pl["snippet"]["title"] == titulo:
+                return pl["id"]
+        pagina = r.get("nextPageToken")
+        if not pagina:
+            break
+    novo = youtube.playlists().insert(
+        part="snippet,status",
+        body={"snippet": {"title": titulo, "description": descricao},
+              "status": {"privacyStatus": "public"}},
+    ).execute()
+    return novo["id"]
+
+
+def adicionar_na_playlist(youtube, playlist_id: str, video_id: str) -> None:
+    youtube.playlistItems().insert(
+        part="snippet",
+        body={"snippet": {"playlistId": playlist_id,
+                          "resourceId": {"kind": "youtube#video",
+                                         "videoId": video_id}}},
+    ).execute()
+
+
 def definir_thumbnail(youtube, video_id: str, thumb: Path) -> None:
     youtube.thumbnails().set(
         videoId=video_id,

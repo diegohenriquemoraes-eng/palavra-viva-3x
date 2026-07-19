@@ -21,6 +21,7 @@ CAUDA_LONGO = 3.5
 CAUDA_SHORT = 1.2
 MIN_SHORT_S = 15.0      # abaixo disto o versículo é repetido (ver montar_short)
 PAUSA_REPETICAO = 1.6
+CICLOS_DORMIR = 2       # formato "dormir" repete o ciclo (ver montar_longo)
 SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s
 
 
@@ -72,7 +73,7 @@ def _ts_capitulo(seg: float) -> str:
 
 
 def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
-                 outdir: Path) -> dict:
+                 outdir: Path, url_longo: str = "") -> dict:
     cfg = idiomas.CONFIG[idioma]
     short = pacote["shorts"][idx]
     ref = short["ref"]
@@ -110,9 +111,15 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     video = render.render_short(outdir, mp3.name, "legenda.ass", img, dur, seed)
 
     ref_disp = biblia.ref_exibicao(idioma, ref)
+    # Ponte Short -> vídeo longo do MESMO dia. O algoritmo deixou de tratar
+    # Shorts e vídeos longos como mundos separados: quem vê o Short passa a
+    # receber o longo. Dar o link explícito reforça esse caminho.
+    ponte = (f"\n\n▶ {cfg['rotulo_completo']}: {url_longo}\n"
+             if url_longo else "\n")
     descricao = (
-        f"{ref_disp} — {cfg['fonte_texto']}.\n\n"
-        f"{cfg['cta']}\n\n{cfg['hashtags']} #Shorts"
+        f"{ref_disp} — {cfg['fonte_texto']}."
+        + ponte +
+        f"\n{cfg['cta']}\n\n{cfg['hashtags']} #Shorts"
         + (creditos([short.get("imagem")]) if img else "")
     )
     return {
@@ -133,9 +140,19 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path) -> dict:
     outdir.mkdir(parents=True, exist_ok=True)
 
     # 1) narração seção a seção (uma seção por referência)
+    #
+    # Conteúdo para dormir é ouvido de olhos fechados e em repetição — o gênero
+    # trabalha com leituras longas (o público deixa rolando). Além disso vídeo
+    # mais longo rende mais: acima de 8 min o YouTube libera anúncio no meio, e
+    # o consumo em TV (hoje a maior tela da plataforma) premia vídeo longo.
+    # Por isso o formato "dormir" repete o ciclo de passagens até passar de
+    # MIN_LONGO_S. Repetir aqui é fiel ao gênero, não enchimento.
+    refs = list(longo["refs"])
+    if pacote.get("formato") == "dormir":
+        refs = refs * CICLOS_DORMIR
     todos_versos: list[tuple[int, str]] = []
     limites: list[tuple[str, int]] = []  # (ref, nº de versos)
-    for ref in longo["refs"]:
+    for ref in refs:
         vs = biblia.carregar_versos(idioma, ref)
         todos_versos += vs
         limites.append((ref, len(vs)))
@@ -197,9 +214,16 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path) -> dict:
                     longo["thumb_sub"][idioma], marca,
                     _seed(pacote, "thumb"))
 
-    # 6) descrição com capítulos (SEO + navegação)
-    caps = [f"{_ts_capitulo(s['ini'])} {biblia.ref_exibicao(idioma, s['ref'])}"
-            for s in secoes]
+    # 6) descrição com capítulos (SEO + navegação). Capítulo repetido no ciclo
+    # 2 do formato "dormir" ganha marcação, senão a lista fica confusa.
+    caps = []
+    vistos = set()
+    for s in secoes:
+        rot = biblia.ref_exibicao(idioma, s["ref"])
+        if rot in vistos:
+            rot = f"{rot} ({cfg['rotulo_repeticao']})"
+        vistos.add(biblia.ref_exibicao(idioma, s["ref"]))
+        caps.append(f"{_ts_capitulo(s['ini'])} {rot}")
     caps[0] = f"0:00 {biblia.ref_exibicao(idioma, secoes[0]['ref'])}"
     descricao = (
         f"{longo['titulo'][idioma]}\n\n"

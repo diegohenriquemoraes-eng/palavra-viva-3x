@@ -97,6 +97,7 @@ def criar_pacote(tema: dict, data: str, dry: bool) -> None:
     agora = datetime.now(timezone.utc).isoformat(timespec="seconds")
     pacote = {
         "slug": tema["slug"],
+        "formato": tema.get("formato", "tema"),
         "data": data,
         "criado_em": agora,
         # auto-aprovação é segura: conteúdo determinístico de domínio público

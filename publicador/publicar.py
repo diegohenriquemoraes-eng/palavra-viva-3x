@@ -94,6 +94,14 @@ def decidir(canal_cfg: dict, ec: dict, agora: datetime) -> str | None:
     return "short"
 
 
+def longo_do_dia(ec: dict, pacote_nome: str) -> str:
+    """URL do longo já publicado deste pacote (para o Short apontar para ele)."""
+    for p in reversed(ec.get("publicados", [])):
+        if p["pacote"] == pacote_nome and p["item"] == "longo":
+            return f"https://youtu.be/{p['video_id']}"
+    return ""
+
+
 def registrar(idioma: str, canal_cfg: dict, item: dict, video_id: str) -> None:
     with REGISTRO.open("a", encoding="utf-8") as fh:
         fh.write(
@@ -107,7 +115,8 @@ def registrar(idioma: str, canal_cfg: dict, item: dict, video_id: str) -> None:
 
 
 def publicar_item(idioma: str, canal_cfg: dict, config: dict, item: dict,
-                  pasta_pacote: Path, tipo: str, state: dict) -> None:
+                  pasta_pacote: Path, tipo: str, state: dict,
+                  pacote_formato: str = "tema") -> None:
     cred_dir = RAIZ / "credenciais" / idioma
     youtube = youtube_api.servico(cred_dir)
     cid, ctitulo = youtube_api.canal_do_token(youtube)
@@ -135,6 +144,20 @@ def publicar_item(idioma: str, canal_cfg: dict, config: dict, item: dict,
                 f"youtube.com/verify_phone_number")
     youtube_api.tornar_publico(youtube, video_id, info)
     log(f"[{idioma}] PUBLICADO: https://youtu.be/{video_id}")
+
+    # Só o longo entra em playlist: Shorts não aparecem em playlist no feed e
+    # a lista ficaria poluída. Falha aqui não pode derrubar a publicação.
+    if tipo == "longo":
+        nomes = idiomas.PLAYLISTS.get(pacote_formato, {})
+        titulo_pl = nomes.get(idioma)
+        if titulo_pl:
+            try:
+                pl = youtube_api.playlist_por_titulo(
+                    youtube, titulo_pl, idiomas.CONFIG[idioma]["cta"])
+                youtube_api.adicionar_na_playlist(youtube, pl, video_id)
+                log(f"[{idioma}] adicionado à playlist '{titulo_pl}'")
+            except Exception as exc:
+                log(f"[{idioma}] playlist falhou ({exc}); seguindo.")
 
     agora = datetime.now(timezone.utc)
     hoje = agora.date().isoformat()
@@ -217,7 +240,8 @@ def main() -> None:
                        else 0)
                 idx = min(idx, len(pacote["shorts"]) - 1)
                 item = fabrica.montar_short(pacote, idx, idioma,
-                                            canal_cfg["handle"], outdir)
+                                            canal_cfg["handle"], outdir,
+                                            url_longo=longo_do_dia(ec, pasta_pacote.name))
             log(f"[{idioma}] render ok: {item['arquivo']} "
                 f"({item['arquivo'].stat().st_size / 1e6:.1f} MB, "
                 f"{item['duracao_s']}s)")
@@ -225,7 +249,7 @@ def main() -> None:
             if args.render_apenas:
                 continue
             publicar_item(idioma, canal_cfg, config, item, pasta_pacote,
-                          tipo, state)
+                          tipo, state, pacote.get("formato", "tema"))
     finally:
         LOCK.unlink(missing_ok=True)
 
