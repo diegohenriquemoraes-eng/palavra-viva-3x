@@ -51,6 +51,20 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      - name: Conferir arquivos essenciais (Bíblias e fontes)
+        # Nasce de um incidente real (20/07): a Bíblia espanhola sumiu do disco
+        # local e um `git add -A` propagou a exclusão para o repo. O runner
+        # ficou sem o arquivo e nem Short nem longo saíram. Melhor falhar aqui,
+        # em 1 segundo e com mensagem clara, do que no meio do render.
+        run: |
+          faltou=0
+          for f in biblia/rv1909.json biblia/kjv.json biblia/blivre.json \
+                   marca/fontes/BebasNeue-Regular.ttf marca/fontes/Montserrat-Bold.ttf; do
+            if [ ! -s "$f" ]; then echo "FALTANDO: $f"; faltou=1; fi
+          done
+          [ "$faltou" = "0" ] && echo "todos os arquivos essenciais presentes"
+          exit $faltou
+
       - name: Restaurar credenciais dos canais configurados
         env:
           ES_SECRET: ${{ secrets.YT_CLIENT_SECRET_ES }}
