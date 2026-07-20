@@ -88,12 +88,19 @@
           "video_id": "37ED_IKxyIw",
           "titulo": "Psalm 91 — God's Powerful Promises of Protection | Audio Bible",
           "em": "2026-07-20T03:32:28+00:00"
+        },
+        {
+          "pacote": "2026-07-20-protecao-91",
+          "item": "short-1",
+          "video_id": "ZEYg5_18twI",
+          "titulo": "Psalm 91 — He Shall Give His Angels Charge Over Thee",
+          "em": "2026-07-20T09:22:44+00:00"
         }
       ],
-      "ultimo_short": "2026-07-19T23:49:18+00:00",
+      "ultimo_short": "2026-07-20T09:22:44+00:00",
       "shorts_dia": {
-        "data": "2026-07-19",
-        "n": 3
+        "data": "2026-07-20",
+        "n": 1
       },
       "longo_data": "2026-07-20"
     }

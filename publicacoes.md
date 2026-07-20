@@ -78,3 +78,11 @@
 - Item: short-1 — Salmo 91:9-11
 - Duração: 16.6s
 - Publicado em: 2026-07-20T06:01:36+00:00
+
+## [en] ZEYg5_18twI — Psalm 91 — He Shall Give His Angels Charge Over Thee
+
+- URL: https://youtu.be/ZEYg5_18twI
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — Psalm 91:9-11
+- Duração: 18.0s
+- Publicado em: 2026-07-20T09:22:44+00:00
