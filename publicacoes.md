@@ -54,3 +54,19 @@
 - Item: short-3 — Psalm 121:1-4
 - Duração: 20.6s
 - Publicado em: 2026-07-19T23:49:18+00:00
+
+## [es] Xjd-R1LjdnU — Salmo 91 — La Oración Más Poderosa de Protección | Biblia Hablada
+
+- URL: https://youtu.be/Xjd-R1LjdnU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 91, Salmo 27, Salmo 46, Salmo 18:1-6, Salmo 34:1-8
+- Duração: 512.9s
+- Publicado em: 2026-07-20T03:21:54+00:00
+
+## [en] 37ED_IKxyIw — Psalm 91 — God's Powerful Promises of Protection | Audio Bible
+
+- URL: https://youtu.be/37ED_IKxyIw
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — Psalm 91, Psalm 27, Psalm 46, Psalm 18:1-6, Psalm 34:1-8
+- Duração: 524.7s
+- Publicado em: 2026-07-20T03:32:28+00:00

@@ -29,6 +29,13 @@
           "video_id": "jw1kV2HL-0E",
           "titulo": "Salmo 121 — Mi socorro viene de Jehová | Biblia en español",
           "em": "2026-07-19T12:56:26+00:00"
+        },
+        {
+          "pacote": "2026-07-20-protecao-91",
+          "item": "longo",
+          "video_id": "Xjd-R1LjdnU",
+          "titulo": "Salmo 91 — La Oración Más Poderosa de Protección | Biblia Hablada",
+          "em": "2026-07-20T03:21:54+00:00"
         }
       ],
       "ultimo_short": "2026-07-19T12:56:26+00:00",
@@ -36,7 +43,7 @@
         "data": "2026-07-19",
         "n": 3
       },
-      "longo_data": "2026-07-19"
+      "longo_data": "2026-07-20"
     },
     "en": {
       "publicados": [
@@ -67,6 +74,13 @@
           "video_id": "Y9dEdkK2XsQ",
           "titulo": "Psalm 121 — My Help Comes from the Lord | Bible",
           "em": "2026-07-19T23:49:18+00:00"
+        },
+        {
+          "pacote": "2026-07-20-protecao-91",
+          "item": "longo",
+          "video_id": "37ED_IKxyIw",
+          "titulo": "Psalm 91 — God's Powerful Promises of Protection | Audio Bible",
+          "em": "2026-07-20T03:32:28+00:00"
         }
       ],
       "ultimo_short": "2026-07-19T23:49:18+00:00",
@@ -74,7 +88,7 @@
         "data": "2026-07-19",
         "n": 3
       },
-      "longo_data": "2026-07-19"
+      "longo_data": "2026-07-20"
     }
   }
 }
