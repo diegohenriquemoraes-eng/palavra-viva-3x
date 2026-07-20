@@ -121,15 +121,32 @@ def upload(youtube, arquivo: Path, titulo: str, descricao: str,
 
 def esperar_processamento(youtube, video_id: str, limite_s: int) -> dict:
     fim = time.time() + limite_s
+    vazios = 0
     while True:
-        item = youtube.videos().list(part="status,processingDetails",
-                                     id=video_id).execute()["items"][0]
+        itens = youtube.videos().list(part="status,processingDetails",
+                                      id=video_id).execute().get("items", [])
+        if not itens:
+            # Vídeo grande recém-enviado às vezes não é consultável na hora —
+            # a lista volta vazia por alguns segundos. Antes isto derrubava a
+            # execução (IndexError) e o Short do dia não saía. Agora espera.
+            vazios += 1
+            if vazios > 20:
+                raise SystemExit("Vídeo não aparece na API após o upload")
+            if time.time() >= fim:
+                raise SystemExit("Tempo esgotado aguardando o vídeo indexar")
+            time.sleep(15)
+            continue
+        vazios = 0
+        item = itens[0]
         st = item.get("processingDetails", {}).get("processingStatus", "unknown")
         if st == "succeeded":
             return item
         if st in {"failed", "terminated"}:
             raise SystemExit(f"Processamento falhou: {st}")
         if time.time() >= fim:
+            # Não é erro fatal: vídeo grande pode levar mais que o limite. Ele
+            # fica privado e vira público na próxima passagem. Devolve o item
+            # para o fluxo seguir sem derrubar o Short.
             raise SystemExit("Tempo esgotado no processamento; vídeo ficou privado")
         time.sleep(15)
 

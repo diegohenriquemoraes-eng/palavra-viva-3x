@@ -272,30 +272,32 @@ def main() -> None:
                     afiliado=(canal_cfg.get("afiliado_short")
                               or canal_cfg.get("afiliado", "")))
 
-            # O longo é a peça frágil (16 min, 30 imagens, centenas de MB).
-            # Se ele quebrar, o canal NÃO pode ficar parado o dia inteiro —
-            # foi o que aconteceu com o inglês em 19/07: o render do longo
-            # estourou a memória do runner e travou os Shorts atrás dele.
-            # Agora a falha do longo é registrada e o canal cai para o Short.
+            # O longo é a peça frágil (60+ min, ~1 GB): render pesado, upload
+            # longo e processamento demorado no YouTube. Ele NUNCA pode deixar
+            # o canal mudo. Por isso todo o caminho do longo — render E
+            # publicação — está sob o mesmo try: se qualquer etapa falhar, a
+            # execução cai para o Short e o canal publica mesmo assim.
+            # (Antes só o render estava protegido; uma falha no upload do longo
+            # em 20/07 matou a execução e o Short do dia não saiu.)
+            def render_e_publica(t: str) -> None:
+                item = montar(t)
+                log(f"[{idioma}] render ok: {item['arquivo']} "
+                    f"({item['arquivo'].stat().st_size / 1e6:.1f} MB, "
+                    f"{item['duracao_s']}s)")
+                if args.render_apenas:
+                    return
+                publicar_item(idioma, canal_cfg, config, item, pasta_pacote,
+                              t, state, pacote.get("formato", "tema"))
+
             try:
-                item = montar(tipo)
+                render_e_publica(tipo)
             except Exception as exc:
                 if tipo != "longo":
                     raise
-                log(f"[{idioma}] LONGO FALHOU ({exc}); publicando Short "
-                    f"nesta execução. O longo volta a ser tentado na próxima.")
+                log(f"[{idioma}] LONGO FALHOU ({exc}); caindo para Short nesta "
+                    f"execução. O longo será tentado de novo na próxima hora.")
                 falhas_longo.append(idioma)
-                tipo = "short"
-                item = montar(tipo)
-
-            log(f"[{idioma}] render ok: {item['arquivo']} "
-                f"({item['arquivo'].stat().st_size / 1e6:.1f} MB, "
-                f"{item['duracao_s']}s)")
-
-            if args.render_apenas:
-                continue
-            publicar_item(idioma, canal_cfg, config, item, pasta_pacote,
-                          tipo, state, pacote.get("formato", "tema"))
+                render_e_publica("short")
     finally:
         LOCK.unlink(missing_ok=True)
 

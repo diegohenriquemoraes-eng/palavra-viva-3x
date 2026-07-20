@@ -23,14 +23,18 @@ CAUDA_SHORT = 1.2
 MIN_SHORT_S = 15.0      # abaixo disto o versículo é repetido (ver montar_short)
 PAUSA_REPETICAO = 1.6
 CICLOS_DORMIR = 2       # repetições NARRADAS (dão variação de legenda/imagem)
-# Duração-alvo do vídeo longo, por formato, em minutos. Vem do benchmark de
-# 19/07/2026 (252 vídeos, produzir/benchmark.py): mediana dos longos do nicho
-# é 38 min em espanhol, 165 em inglês e 68 em português — os campeões passam
-# de 200 min. Nosso vídeo tinha 17 min, fora da faixa do nicho.
-# O alvo é atingido repetindo o ciclo pronto sem recodificar (render.repetir_video),
-# então custa quase nada de máquina.
-ALVO_MIN = {"dormir": 62, "tema": 32, "historia": 24}
-TETO_REPETICOES = 8
+# Duração-alvo do vídeo longo, por formato, em minutos.
+#
+# O benchmark (produzir/benchmark.py) mostra que o nicho usa vídeos MUITO
+# longos (mediana 38–165 min, campeões +200 min), e o caminho certo é crescer
+# nessa direção. MAS: um vídeo de 62 min vira ~1 GB, e o upload+processamento
+# de 1 GB no runner falhou no primeiro contato real (20/07). Vídeo de ~16 min
+# publicou sem problema. Então a duração fica em terreno PROVADO enquanto o
+# upload grande não for validado ponta a ponta — reabastecer com vídeo de
+# 62 min antes disso é trocar frequência (o que o Diego pediu) por ambição.
+# Crescer daqui só depois de um teste manual de upload grande dar certo.
+ALVO_MIN = {"dormir": 26, "tema": 22, "historia": 20}
+TETO_REPETICOES = 4
 SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s
 
 
