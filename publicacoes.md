@@ -70,3 +70,11 @@
 - Item: longo — Psalm 91, Psalm 27, Psalm 46, Psalm 18:1-6, Psalm 34:1-8
 - Duração: 524.7s
 - Publicado em: 2026-07-20T03:32:28+00:00
+
+## [es] VQGliac_Gic — Salmo 91 — A sus ángeles mandará cerca de ti | Biblia
+
+- URL: https://youtu.be/VQGliac_Gic
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 91:9-11
+- Duração: 16.6s
+- Publicado em: 2026-07-20T06:01:36+00:00
