@@ -102,3 +102,11 @@
 - Item: short-2 — Psalm 27:1-3
 - Duração: 26.8s
 - Publicado em: 2026-07-20T17:26:54+00:00
+
+## [es] ByOxdzd_h-k — Salmo 46 — Dios es nuestro amparo y fortaleza | Biblia
+
+- URL: https://youtu.be/ByOxdzd_h-k
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 46:1-3
+- Duração: 20.2s
+- Publicado em: 2026-07-20T22:47:59+00:00
