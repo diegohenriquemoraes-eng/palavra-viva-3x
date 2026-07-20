@@ -289,13 +289,19 @@ def main() -> None:
                 publicar_item(idioma, canal_cfg, config, item, pasta_pacote,
                               t, state, pacote.get("formato", "tema"))
 
+            # BaseException, não Exception: os erros de publicação levantam
+            # SystemExit (via raise SystemExit), que NÃO é subclasse de
+            # Exception — por isso o fallback não pegava a falha do longo em
+            # 20/07 e o Short não saía. KeyboardInterrupt segue propagando.
             try:
                 render_e_publica(tipo)
-            except Exception as exc:
+            except KeyboardInterrupt:
+                raise
+            except BaseException as exc:
                 if tipo != "longo":
                     raise
-                log(f"[{idioma}] LONGO FALHOU ({exc}); caindo para Short nesta "
-                    f"execução. O longo será tentado de novo na próxima hora.")
+                log(f"[{idioma}] LONGO FALHOU ({exc!r}); caindo para Short "
+                    f"nesta execução. O longo será tentado na próxima hora.")
                 falhas_longo.append(idioma)
                 render_e_publica("short")
     finally:

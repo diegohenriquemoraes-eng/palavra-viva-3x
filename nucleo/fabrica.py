@@ -239,20 +239,19 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
             baixadas.append(g)
     lista = [baixadas[j % len(baixadas)] for j in range(n_alvo)]
 
-    # 4) pad ambiente procedural + render
+    # 4) pad ambiente procedural + render (uma passada única)
+    #
+    # NÃO repetir o ciclo por concat -c copy: em 20/07 os dois longos feitos
+    # assim (62 e 26 min) subiram a 98% e o YouTube FALHOU o processamento —
+    # viraram "Deleted video" e queimaram 1600 de cota cada. Concatenar o mesmo
+    # MP4 por cópia gera tempos (DTS) não monotônicos que o processador rejeita.
+    # Os longos que deram certo (8 e 16 min) eram render único. Duração maior
+    # virá de um método que gere arquivo válido (re-encode ou narração nativa
+    # mais longa), testado à mão antes de virar padrão. Reliabilidade primeiro.
     pad = outdir / "pad.wav"
     musica.gerar_pad(dur, _seed(pacote, "pad"), pad)
     video = render.render_longo(outdir, "voz.wav", "pad.wav", "legenda.ass",
-                                lista, dur, _seed(pacote, "longo"),
-                                saida="ciclo.mp4")
-
-    # estende até a faixa do nicho repetindo o ciclo pronto (sem recodificar)
-    alvo_s = ALVO_MIN.get(pacote.get("formato", "tema"), 30) * 60
-    vezes = max(1, min(TETO_REPETICOES, round(alvo_s / dur)))
-    if vezes > 1:
-        video = render.repetir_video(outdir, "ciclo.mp4", vezes)
-        dur = dur * vezes
-        (outdir / "ciclo.mp4").unlink(missing_ok=True)
+                                lista, dur, _seed(pacote, "longo"))
 
     # 5) thumbnail localizada
     thumb = outdir / "thumb.jpg"
