@@ -94,3 +94,11 @@
 - Item: short-2 — Salmo 27:1-3
 - Duração: 26.8s
 - Publicado em: 2026-07-20T15:04:08+00:00
+
+## [en] gzBhros1Si4 — Psalm 27 — The Lord Is My Light and My Salvation
+
+- URL: https://youtu.be/gzBhros1Si4
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-2 — Psalm 27:1-3
+- Duração: 26.8s
+- Publicado em: 2026-07-20T17:26:54+00:00
