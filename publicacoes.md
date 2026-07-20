@@ -86,3 +86,11 @@
 - Item: short-1 — Psalm 91:9-11
 - Duração: 18.0s
 - Publicado em: 2026-07-20T09:22:44+00:00
+
+## [es] w39AWANKKls — Salmo 27 — Jehová es mi luz y mi salvación | Biblia
+
+- URL: https://youtu.be/w39AWANKKls
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 27:1-3
+- Duração: 26.8s
+- Publicado em: 2026-07-20T15:04:08+00:00

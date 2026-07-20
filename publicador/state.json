@@ -43,12 +43,19 @@
           "video_id": "VQGliac_Gic",
           "titulo": "Salmo 91 — A sus ángeles mandará cerca de ti | Biblia",
           "em": "2026-07-20T06:01:36+00:00"
+        },
+        {
+          "pacote": "2026-07-20-protecao-91",
+          "item": "short-2",
+          "video_id": "w39AWANKKls",
+          "titulo": "Salmo 27 — Jehová es mi luz y mi salvación | Biblia",
+          "em": "2026-07-20T15:04:08+00:00"
         }
       ],
-      "ultimo_short": "2026-07-20T06:01:36+00:00",
+      "ultimo_short": "2026-07-20T15:04:08+00:00",
       "shorts_dia": {
         "data": "2026-07-20",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-20"
     },
