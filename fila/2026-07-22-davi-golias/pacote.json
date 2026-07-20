@@ -1,0 +1,167 @@
+{
+  "slug": "davi-golias",
+  "formato": "historia",
+  "data": "2026-07-22",
+  "criado_em": "2026-07-20T04:06:51+00:00",
+  "aprovado_em": "2026-07-20T04:06:51+00:00",
+  "longo": {
+    "refs": [
+      "I Samuel 17:1-11",
+      "I Samuel 17:20-30",
+      "I Samuel 17:31-40",
+      "I Samuel 17:41-51"
+    ],
+    "titulo": {
+      "es": "David y Goliat — La Historia Completa | 1 Samuel 17 Narrado",
+      "en": "David and Goliath — The Complete Bible Story | 1 Samuel 17",
+      "pt": "Davi e Golias — A História Completa | 1 Samuel 17 Narrado"
+    },
+    "thumb_titulo": {
+      "es": "DAVID Y GOLIAT",
+      "en": "DAVID & GOLIATH",
+      "pt": "DAVI E GOLIAS"
+    },
+    "thumb_sub": {
+      "es": "1 Samuel 17 — historia completa",
+      "en": "1 Samuel 17 — full story",
+      "pt": "1 Samuel 17 — história completa"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Desert_view_Grand_Canyon._%289545744244%29.jpg/1920px-Desert_view_Grand_Canyon._%289545744244%29.jpg",
+        "autor": "Bernard Spragg. NZ from Christchurch, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_view_Grand_Canyon._(9545744244).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Desert_View_Watchtower_-_Episode_5_-_Grand_Canyon_in_Depth_%2821090890744%29.jpg",
+        "autor": "Grand Canyon NPS",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_View_Watchtower_-_Episode_5_-_Grand_Canyon_in_Depth_(21090890744).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Desert_View_Grand_Canyon_%2815520615746%29.jpg/1920px-Desert_View_Grand_Canyon_%2815520615746%29.jpg",
+        "autor": "Tony Hisgett from Birmingham, UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_View_Grand_Canyon_(15520615746).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Grand_Canyon_History_Symposium_Desert_View_Watchtower.jpg/1920px-Grand_Canyon_History_Symposium_Desert_View_Watchtower.jpg",
+        "autor": "Grand Canyon National Park",
+        "origem": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_History_Symposium_Desert_View_Watchtower.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Grand_Canyon_Nat._Park%3B_Desert_View_Point_Refurbishing_1610_%287498731914%29.jpg/1920px-Grand_Canyon_Nat._Park%3B_Desert_View_Point_Refurbishing_1610_%287498731914%29.jpg",
+        "autor": "Grand Canyon National Park",
+        "origem": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Nat._Park;_Desert_View_Point_Refurbishing_1610_(7498731914).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Shepherd_with_horse%2C_dogs_and_sheep.jpg/1920px-Shepherd_with_horse%2C_dogs_and_sheep.jpg",
+        "autor": "Strange Biology",
+        "origem": "https://commons.wikimedia.org/wiki/File:Shepherd_with_horse,_dogs_and_sheep.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shepherd_and_sheep.jpg/1920px-Shepherd_and_sheep.jpg",
+        "autor": "haitham alfalah",
+        "origem": "https://commons.wikimedia.org/wiki/File:Shepherd_and_sheep.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Shepherd_with_a_flock_of_sheep_in_Kyrgyzstan_01.jpg/1920px-Shepherd_with_a_flock_of_sheep_in_Kyrgyzstan_01.jpg",
+        "autor": "Mirzoulugʻbek",
+        "origem": "https://commons.wikimedia.org/wiki/File:Shepherd_with_a_flock_of_sheep_in_Kyrgyzstan_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Shepherd_with_a_flock_of_sheep_in_Kyrgyzstan_02.jpg/1920px-Shepherd_with_a_flock_of_sheep_in_Kyrgyzstan_02.jpg",
+        "autor": "Mirzoulugʻbek",
+        "origem": "https://commons.wikimedia.org/wiki/File:Shepherd_with_a_flock_of_sheep_in_Kyrgyzstan_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shepherd_and_Sheep_at_Paternoster_Square_2009-02-05.jpg/1920px-Shepherd_and_Sheep_at_Paternoster_Square_2009-02-05.jpg",
+        "autor": "Mark Hillary",
+        "origem": "https://commons.wikimedia.org/wiki/File:Shepherd_and_Sheep_at_Paternoster_Square_2009-02-05.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sofia_-_Odrysian_Armour_and_Helmet.jpg/1920px-Sofia_-_Odrysian_Armour_and_Helmet.jpg",
+        "autor": "Ann Wuyts",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sofia_-_Odrysian_Armour_and_Helmet.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ancient_helmet%2C_sword%2C_and_armour_%2828899815453%29.jpg/1920px-Ancient_helmet%2C_sword%2C_and_armour_%2828899815453%29.jpg",
+        "autor": "Thomas Quine",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ancient_helmet,_sword,_and_armour_(28899815453).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Suit_of_armour_with_no_helmet_%2814332015271%29.jpg/1920px-Suit_of_armour_with_no_helmet_%2814332015271%29.jpg",
+        "autor": "Thomas Quine",
+        "origem": "https://commons.wikimedia.org/wiki/File:Suit_of_armour_with_no_helmet_(14332015271).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "I Samuel 17:45-47",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "David a Goliat — Yo vengo a ti en el nombre de Jehová",
+        "en": "David to Goliath — I Come in the Name of the Lord",
+        "pt": "Davi a Golias — Eu venho a ti em nome do Senhor"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Celebrate_82_years_of_Desert_View_Watchtower_at_Grand_Canyon_NP._%2817347966438%29.jpg/1920px-Celebrate_82_years_of_Desert_View_Watchtower_at_Grand_Canyon_NP._%2817347966438%29.jpg",
+        "autor": "Grand Canyon National Park",
+        "origem": "https://commons.wikimedia.org/wiki/File:Celebrate_82_years_of_Desert_View_Watchtower_at_Grand_Canyon_NP._(17347966438).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "I Samuel 17:37",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "1 Samuel 17 — Jehová me librará de este filisteo | Biblia",
+        "en": "1 Samuel 17 — The Lord Will Deliver Me | Bible Story",
+        "pt": "1 Samuel 17 — O Senhor me livrará deste filisteu"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ma_Durga_Lion_%28Kiddish%29.jpg/1920px-Ma_Durga_Lion_%28Kiddish%29.jpg",
+        "autor": "HridoyKundu",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ma_Durga_Lion_(Kiddish).jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 144:1-2",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Salmo 144 — Bendito sea Jehová, mi roca | Biblia",
+        "en": "Psalm 144 — Blessed Be the Lord My Strength | Bible",
+        "pt": "Salmo 144 — Bendito seja o Senhor, minha rocha"
+      },
+      "imagem": null
+    },
+    {
+      "ref": "Psalms 118:6-9",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 118 — Jehová está por mí, no temeré | Biblia",
+        "en": "Psalm 118 — The Lord Is on My Side, I Will Not Fear",
+        "pt": "Salmo 118 — O Senhor está comigo, não temerei"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Road_to_Horizon_%2823866694558%29.jpg/1920px-Road_to_Horizon_%2823866694558%29.jpg",
+        "autor": "Sonse",
+        "origem": "https://commons.wikimedia.org/wiki/File:Road_to_Horizon_(23866694558).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
