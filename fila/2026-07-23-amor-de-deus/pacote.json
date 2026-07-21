@@ -1,0 +1,131 @@
+{
+  "slug": "amor-de-deus",
+  "formato": "tema",
+  "data": "2026-07-23",
+  "criado_em": "2026-07-21T03:47:57+00:00",
+  "aprovado_em": "2026-07-21T03:47:57+00:00",
+  "longo": {
+    "refs": [
+      "John 3:14-21",
+      "Romans 8:31-39",
+      "I Corinthians 13:1-13",
+      "I John 4:7-19",
+      "Psalms 103:1-13"
+    ],
+    "titulo": {
+      "es": "El Amor de Dios — Juan 3, Romanos 8 y 1 Corintios 13 | Biblia Hablada",
+      "en": "The Love of God — John 3, Romans 8 & 1 Corinthians 13 | Audio Bible",
+      "pt": "O Amor de Deus — João 3, Romanos 8 e 1 Coríntios 13 | Bíblia Narrada"
+    },
+    "thumb_titulo": {
+      "es": "EL AMOR DE DIOS",
+      "en": "THE LOVE OF GOD",
+      "pt": "O AMOR DE DEUS"
+    },
+    "thumb_sub": {
+      "es": "Juan 3 • Romanos 8 • 1 Corintios 13",
+      "en": "John 3 • Romans 8 • 1 Corinthians 13",
+      "pt": "João 3 • Romanos 8 • 1 Coríntios 13"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Father%2C_Mother%2C_and_Child_in_a_Park_-_MET_2018.60.jpg",
+        "autor": "John Christian Rauschner",
+        "origem": "https://commons.wikimedia.org/wiki/File:Father,_Mother,_and_Child_in_a_Park_-_MET_2018.60.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Father_and_child_with_horse_-_DPLA_-_563de134e7b6a96976680ae633871349.jpg",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Father_and_child_with_horse_-_DPLA_-_563de134e7b6a96976680ae633871349.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Father_and_child_4.jpg/1920px-Father_and_child_4.jpg",
+        "autor": "Marie-Sophie Mejan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Father_and_child_4.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Father_and_child_1.jpg/1920px-Father_and_child_1.jpg",
+        "autor": "Marie-Sophie Mejan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Father_and_child_1.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Father_and_child_%281407175259%29.jpg",
+        "autor": "Ruth Hartnup from Vancouver, Canada",
+        "origem": "https://commons.wikimedia.org/wiki/File:Father_and_child_(1407175259).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Forest_Sunlight_%287351990094%29.jpg",
+        "autor": "Scott Wylie from UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_Sunlight_(7351990094).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "John 3:16-17",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 3:16 — De tal manera amó Dios al mundo | Biblia",
+        "en": "John 3:16 — For God So Loved the World | Bible",
+        "pt": "João 3:16 — Deus amou o mundo de tal maneira"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cross_and_sunset_%28Unsplash%29.jpg/1920px-Cross_and_sunset_%28Unsplash%29.jpg",
+        "autor": "Aaron Burden aaronburden",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cross_and_sunset_(Unsplash).jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Romans 8:38-39",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Romanos 8 — Nada nos separará del amor de Dios | Biblia",
+        "en": "Romans 8 — Nothing Can Separate Us from God's Love",
+        "pt": "Romanos 8 — Nada nos separará do amor de Deus"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "I Corinthians 13:4-8",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "1 Corintios 13 — El amor es sufrido, es benigno",
+        "en": "1 Corinthians 13 — Love Suffereth Long and Is Kind",
+        "pt": "1 Coríntios 13 — O amor é paciente, é bondoso"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/John_Henry_Twachtman_-_Meadow_Flowers_%28Golden_Rod_and_Wild_Aster%29_-_Google_Art_Project.jpg/1920px-John_Henry_Twachtman_-_Meadow_Flowers_%28Golden_Rod_and_Wild_Aster%29_-_Google_Art_Project.jpg",
+        "autor": "John Henry Twachtman",
+        "origem": "https://commons.wikimedia.org/wiki/File:John_Henry_Twachtman_-_Meadow_Flowers_(Golden_Rod_and_Wild_Aster)_-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 103:8-12",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 103 — Misericordioso y clemente es Jehová",
+        "en": "Psalm 103 — The Lord Is Merciful and Gracious",
+        "pt": "Salmo 103 — Misericordioso e clemente é o Senhor"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Field%2C_corn%2C_Liechtenstein%2C_Mountains%2C_Alps%2C_Vaduz%2C_sky%2C_clouds%2C_landscape.jpg/1920px-Field%2C_corn%2C_Liechtenstein%2C_Mountains%2C_Alps%2C_Vaduz%2C_sky%2C_clouds%2C_landscape.jpg",
+        "autor": "Paranoid",
+        "origem": "https://commons.wikimedia.org/wiki/File:Field,_corn,_Liechtenstein,_Mountains,_Alps,_Vaduz,_sky,_clouds,_landscape.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
