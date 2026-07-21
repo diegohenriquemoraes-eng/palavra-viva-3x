@@ -182,3 +182,11 @@
 - Item: short-2 — Isaías 41:10
 - Duração: 24.8s
 - Publicado em: 2026-07-21T14:57:17+00:00
+
+## [pt] iXQOYURYYkI — Isaías 40 — Subirão com asas como águias | Bíblia
+
+- URL: https://youtu.be/iXQOYURYYkI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Isaías 40:28-31
+- Duração: 34.5s
+- Publicado em: 2026-07-21T18:12:19+00:00

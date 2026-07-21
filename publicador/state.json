@@ -189,12 +189,19 @@
           "video_id": "He_vL9rcYKA",
           "titulo": "Isaías 41:10 — Não temas, porque eu sou contigo",
           "em": "2026-07-21T10:17:01+00:00"
+        },
+        {
+          "pacote": "2026-07-21-forca-coragem",
+          "item": "short-3",
+          "video_id": "iXQOYURYYkI",
+          "titulo": "Isaías 40 — Subirão com asas como águias | Bíblia",
+          "em": "2026-07-21T18:12:19+00:00"
         }
       ],
-      "ultimo_short": "2026-07-21T10:17:01+00:00",
+      "ultimo_short": "2026-07-21T18:12:19+00:00",
       "shorts_dia": {
         "data": "2026-07-21",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-21"
     }
