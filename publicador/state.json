@@ -124,6 +124,23 @@
         "n": 2
       },
       "longo_data": "2026-07-20"
+    },
+    "pt": {
+      "publicados": [
+        {
+          "pacote": "2026-07-21-forca-coragem",
+          "item": "short-1",
+          "video_id": "Itm1zVYKsGg",
+          "titulo": "Josué 1:9 — Esforça-te e tem bom ânimo | Bíblia",
+          "em": "2026-07-21T00:53:28+00:00"
+        }
+      ],
+      "ultimo_short": "2026-07-21T00:53:28+00:00",
+      "shorts_dia": {
+        "data": "2026-07-21",
+        "n": 1
+      },
+      "longo_data": ""
     }
   }
 }

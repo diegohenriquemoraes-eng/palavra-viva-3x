@@ -110,3 +110,11 @@
 - Item: short-3 — Salmo 46:1-3
 - Duração: 20.2s
 - Publicado em: 2026-07-20T22:47:59+00:00
+
+## [pt] Itm1zVYKsGg — Josué 1:9 — Esforça-te e tem bom ânimo | Bíblia
+
+- URL: https://youtu.be/Itm1zVYKsGg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Josué 1:9
+- Duração: 21.3s
+- Publicado em: 2026-07-21T00:53:28+00:00
