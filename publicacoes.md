@@ -118,3 +118,19 @@
 - Item: short-1 — Josué 1:9
 - Duração: 21.3s
 - Publicado em: 2026-07-21T00:53:28+00:00
+
+## [es] gKkiP7IXqDc — Esfuérzate y Sé Valiente — Josué 1 e Isaías 41 | Palabra Poderosa
+
+- URL: https://youtu.be/gKkiP7IXqDc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Josué 1:1-9, Isaías 41:8-13, Isaías 40:28-31, Deuteronomio 31:1-8, Salmo 18:28-36, Efesios 6:10-18
+- Duração: 512.3s
+- Publicado em: 2026-07-21T01:57:23+00:00
+
+## [en] cnDrL6Bl92k — Be Strong and Courageous — Joshua 1 & Isaiah 41 | Audio Bible
+
+- URL: https://youtu.be/cnDrL6Bl92k
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — Joshua 1:1-9, Isaiah 41:8-13, Isaiah 40:28-31, Deuteronomy 31:1-8, Psalm 18:28-36, Ephesians 6:10-18
+- Duração: 529.5s
+- Publicado em: 2026-07-21T02:08:19+00:00
