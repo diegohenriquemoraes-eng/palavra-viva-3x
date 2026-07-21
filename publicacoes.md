@@ -150,3 +150,11 @@
 - Item: longo — Josué 1:1-9, Isaías 41:8-13, Isaías 40:28-31, Deuteronômio 31:1-8, Salmo 18:28-36, Efésios 6:10-18
 - Duração: 513.9s
 - Publicado em: 2026-07-21T05:13:03+00:00
+
+## [es] naFBDYBzLeE — Josué 1:9 — Esfuérzate y sé valiente | Biblia en español
+
+- URL: https://youtu.be/naFBDYBzLeE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Josué 1:9
+- Duração: 21.3s
+- Publicado em: 2026-07-21T07:36:06+00:00
