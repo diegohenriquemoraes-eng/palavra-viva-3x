@@ -158,12 +158,19 @@
           "video_id": "RXwInF4snFY",
           "titulo": "Isaiah 41:10 — Fear Not, for I Am With Thee | Bible",
           "em": "2026-07-21T12:21:31+00:00"
+        },
+        {
+          "pacote": "2026-07-21-forca-coragem",
+          "item": "short-3",
+          "video_id": "wMP09-SR2L8",
+          "titulo": "Isaiah 40 — They Shall Mount Up with Wings as Eagles",
+          "em": "2026-07-21T20:15:52+00:00"
         }
       ],
-      "ultimo_short": "2026-07-21T12:21:31+00:00",
+      "ultimo_short": "2026-07-21T20:15:52+00:00",
       "shorts_dia": {
         "data": "2026-07-21",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-21"
     },

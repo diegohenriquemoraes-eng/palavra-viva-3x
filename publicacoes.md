@@ -190,3 +190,11 @@
 - Item: short-3 — Isaías 40:28-31
 - Duração: 34.5s
 - Publicado em: 2026-07-21T18:12:19+00:00
+
+## [en] wMP09-SR2L8 — Isaiah 40 — They Shall Mount Up with Wings as Eagles
+
+- URL: https://youtu.be/wMP09-SR2L8
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-3 — Isaiah 40:28-31
+- Duração: 37.2s
+- Publicado em: 2026-07-21T20:15:52+00:00
