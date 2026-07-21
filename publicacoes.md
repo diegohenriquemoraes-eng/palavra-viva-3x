@@ -166,3 +166,11 @@
 - Item: short-2 — Isaías 41:10
 - Duração: 27.3s
 - Publicado em: 2026-07-21T10:17:01+00:00
+
+## [en] RXwInF4snFY — Isaiah 41:10 — Fear Not, for I Am With Thee | Bible
+
+- URL: https://youtu.be/RXwInF4snFY
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-2 — Isaiah 41:10
+- Duração: 28.6s
+- Publicado em: 2026-07-21T12:21:31+00:00

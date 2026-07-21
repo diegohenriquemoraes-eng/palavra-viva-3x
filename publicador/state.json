@@ -144,12 +144,19 @@
           "video_id": "duDFzfpuvs8",
           "titulo": "Joshua 1:9 — Be Strong and of a Good Courage | Bible",
           "em": "2026-07-21T05:01:49+00:00"
+        },
+        {
+          "pacote": "2026-07-21-forca-coragem",
+          "item": "short-2",
+          "video_id": "RXwInF4snFY",
+          "titulo": "Isaiah 41:10 — Fear Not, for I Am With Thee | Bible",
+          "em": "2026-07-21T12:21:31+00:00"
         }
       ],
-      "ultimo_short": "2026-07-21T05:01:49+00:00",
+      "ultimo_short": "2026-07-21T12:21:31+00:00",
       "shorts_dia": {
         "data": "2026-07-21",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-21"
     },
