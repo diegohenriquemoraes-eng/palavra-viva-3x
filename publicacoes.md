@@ -134,3 +134,19 @@
 - Item: longo — Joshua 1:1-9, Isaiah 41:8-13, Isaiah 40:28-31, Deuteronomy 31:1-8, Psalm 18:28-36, Ephesians 6:10-18
 - Duração: 529.5s
 - Publicado em: 2026-07-21T02:08:19+00:00
+
+## [en] duDFzfpuvs8 — Joshua 1:9 — Be Strong and of a Good Courage | Bible
+
+- URL: https://youtu.be/duDFzfpuvs8
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — Joshua 1:9
+- Duração: 25.8s
+- Publicado em: 2026-07-21T05:01:49+00:00
+
+## [pt] DjPNVP89TWc — Esforça-te e Tem Bom Ânimo — Josué 1 e Isaías 41 | Palavra Poderosa
+
+- URL: https://youtu.be/DjPNVP89TWc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Josué 1:1-9, Isaías 41:8-13, Isaías 40:28-31, Deuteronômio 31:1-8, Salmo 18:28-36, Efésios 6:10-18
+- Duração: 513.9s
+- Publicado em: 2026-07-21T05:13:03+00:00
