@@ -174,3 +174,11 @@
 - Item: short-2 — Isaiah 41:10
 - Duração: 28.6s
 - Publicado em: 2026-07-21T12:21:31+00:00
+
+## [es] JJMI0ykCR3I — Isaías 41:10 — No temas, porque yo estoy contigo | Biblia
+
+- URL: https://youtu.be/JJMI0ykCR3I
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Isaías 41:10
+- Duração: 24.8s
+- Publicado em: 2026-07-21T14:57:17+00:00
