@@ -168,12 +168,19 @@
           "video_id": "DjPNVP89TWc",
           "titulo": "Esforça-te e Tem Bom Ânimo — Josué 1 e Isaías 41 | Palavra Poderosa",
           "em": "2026-07-21T05:13:03+00:00"
+        },
+        {
+          "pacote": "2026-07-21-forca-coragem",
+          "item": "short-2",
+          "video_id": "He_vL9rcYKA",
+          "titulo": "Isaías 41:10 — Não temas, porque eu sou contigo",
+          "em": "2026-07-21T10:17:01+00:00"
         }
       ],
-      "ultimo_short": "2026-07-21T00:53:28+00:00",
+      "ultimo_short": "2026-07-21T10:17:01+00:00",
       "shorts_dia": {
         "data": "2026-07-21",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-21"
     }

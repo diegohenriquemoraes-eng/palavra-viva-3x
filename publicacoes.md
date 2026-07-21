@@ -158,3 +158,11 @@
 - Item: short-1 — Josué 1:9
 - Duração: 21.3s
 - Publicado em: 2026-07-21T07:36:06+00:00
+
+## [pt] He_vL9rcYKA — Isaías 41:10 — Não temas, porque eu sou contigo
+
+- URL: https://youtu.be/He_vL9rcYKA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Isaías 41:10
+- Duração: 27.3s
+- Publicado em: 2026-07-21T10:17:01+00:00
