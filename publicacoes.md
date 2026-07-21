@@ -198,3 +198,11 @@
 - Item: short-3 — Isaiah 40:28-31
 - Duração: 37.2s
 - Publicado em: 2026-07-21T20:15:52+00:00
+
+## [es] vJGCt-7lUl8 — Isaías 40 — Levantarán alas como águilas | Biblia
+
+- URL: https://youtu.be/vJGCt-7lUl8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Isaías 40:28-31
+- Duração: 35.6s
+- Publicado em: 2026-07-21T22:47:54+00:00

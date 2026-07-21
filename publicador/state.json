@@ -78,12 +78,19 @@
           "video_id": "JJMI0ykCR3I",
           "titulo": "Isaías 41:10 — No temas, porque yo estoy contigo | Biblia",
           "em": "2026-07-21T14:57:17+00:00"
+        },
+        {
+          "pacote": "2026-07-21-forca-coragem",
+          "item": "short-3",
+          "video_id": "vJGCt-7lUl8",
+          "titulo": "Isaías 40 — Levantarán alas como águilas | Biblia",
+          "em": "2026-07-21T22:47:54+00:00"
         }
       ],
-      "ultimo_short": "2026-07-21T14:57:17+00:00",
+      "ultimo_short": "2026-07-21T22:47:54+00:00",
       "shorts_dia": {
         "data": "2026-07-21",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-21"
     },
