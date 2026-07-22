@@ -262,3 +262,11 @@
 - Item: short-2 — 1 Samuel 17:37
 - Duração: 15.2s
 - Publicado em: 2026-07-22T10:17:36+00:00
+
+## [en] diBVT3NuvWQ — 1 Samuel 17 — The Lord Will Deliver Me | Bible Story
+
+- URL: https://youtu.be/diBVT3NuvWQ
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-2 — 1 Samuel 17:37
+- Duração: 16.0s
+- Publicado em: 2026-07-22T12:24:23+00:00

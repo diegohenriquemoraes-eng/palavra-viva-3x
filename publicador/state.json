@@ -200,12 +200,19 @@
           "video_id": "CoWjQx_Wpto",
           "titulo": "David to Goliath — I Come in the Name of the Lord",
           "em": "2026-07-22T05:01:22+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "short-2",
+          "video_id": "diBVT3NuvWQ",
+          "titulo": "1 Samuel 17 — The Lord Will Deliver Me | Bible Story",
+          "em": "2026-07-22T12:24:23+00:00"
         }
       ],
-      "ultimo_short": "2026-07-22T05:01:22+00:00",
+      "ultimo_short": "2026-07-22T12:24:23+00:00",
       "shorts_dia": {
         "data": "2026-07-22",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-22"
     },
