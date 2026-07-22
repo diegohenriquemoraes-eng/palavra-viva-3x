@@ -106,12 +106,19 @@
           "video_id": "aZkkENFn0pQ",
           "titulo": "1 Samuel 17 — Jehová me librará de este filisteo | Biblia",
           "em": "2026-07-22T14:57:51+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "short-3",
+          "video_id": "sqtQdLCJlUw",
+          "titulo": "Salmo 144 — Bendito sea Jehová, mi roca | Biblia",
+          "em": "2026-07-22T21:59:08+00:00"
         }
       ],
-      "ultimo_short": "2026-07-22T14:57:51+00:00",
+      "ultimo_short": "2026-07-22T21:59:08+00:00",
       "shorts_dia": {
         "data": "2026-07-22",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-22"
     },

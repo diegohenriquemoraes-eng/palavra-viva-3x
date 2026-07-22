@@ -294,3 +294,11 @@
 - Item: short-3 — Psalm 144:1-2
 - Duração: 17.4s
 - Publicado em: 2026-07-22T20:13:22+00:00
+
+## [es] sqtQdLCJlUw — Salmo 144 — Bendito sea Jehová, mi roca | Biblia
+
+- URL: https://youtu.be/sqtQdLCJlUw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 144:1-2
+- Duração: 17.3s
+- Publicado em: 2026-07-22T21:59:08+00:00
