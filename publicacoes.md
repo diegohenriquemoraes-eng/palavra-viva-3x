@@ -278,3 +278,11 @@
 - Item: short-2 — 1 Samuel 17:37
 - Duração: 15.0s
 - Publicado em: 2026-07-22T14:57:51+00:00
+
+## [pt] CsALDiICyTw — Salmo 144 — Bendito seja o Senhor, minha rocha
+
+- URL: https://youtu.be/CsALDiICyTw
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 144:1-2
+- Duração: 20.0s
+- Publicado em: 2026-07-22T18:03:55+00:00

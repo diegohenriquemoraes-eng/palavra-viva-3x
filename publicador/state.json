@@ -273,12 +273,19 @@
           "video_id": "xDsWH7xw9fA",
           "titulo": "1 Samuel 17 — O Senhor me livrará deste filisteu",
           "em": "2026-07-22T10:17:36+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "short-3",
+          "video_id": "CsALDiICyTw",
+          "titulo": "Salmo 144 — Bendito seja o Senhor, minha rocha",
+          "em": "2026-07-22T18:03:55+00:00"
         }
       ],
-      "ultimo_short": "2026-07-22T10:17:36+00:00",
+      "ultimo_short": "2026-07-22T18:03:55+00:00",
       "shorts_dia": {
         "data": "2026-07-22",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-22"
     }
