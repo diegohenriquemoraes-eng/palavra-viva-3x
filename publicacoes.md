@@ -230,3 +230,19 @@
 - Item: short-1 — 1 Samuel 17:45-47
 - Duração: 37.5s
 - Publicado em: 2026-07-22T02:11:30+00:00
+
+## [en] CoWjQx_Wpto — David to Goliath — I Come in the Name of the Lord
+
+- URL: https://youtu.be/CoWjQx_Wpto
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — 1 Samuel 17:45-47
+- Duração: 41.0s
+- Publicado em: 2026-07-22T05:01:22+00:00
+
+## [pt] UPtWyywV4OQ — Davi e Golias — A História Completa | 1 Samuel 17 Narrado
+
+- URL: https://youtu.be/UPtWyywV4OQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — 1 Samuel 17:1-11, 1 Samuel 17:20-30, 1 Samuel 17:31-40, 1 Samuel 17:41-51
+- Duração: 588.7s
+- Publicado em: 2026-07-22T05:13:21+00:00

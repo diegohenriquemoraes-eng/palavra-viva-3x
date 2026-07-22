@@ -186,12 +186,19 @@
           "video_id": "XNw0Glha7Y8",
           "titulo": "David and Goliath — The Complete Bible Story | 1 Samuel 17",
           "em": "2026-07-22T02:10:09+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "short-1",
+          "video_id": "CoWjQx_Wpto",
+          "titulo": "David to Goliath — I Come in the Name of the Lord",
+          "em": "2026-07-22T05:01:22+00:00"
         }
       ],
-      "ultimo_short": "2026-07-21T20:15:52+00:00",
+      "ultimo_short": "2026-07-22T05:01:22+00:00",
       "shorts_dia": {
-        "data": "2026-07-21",
-        "n": 3
+        "data": "2026-07-22",
+        "n": 1
       },
       "longo_data": "2026-07-22"
     },
@@ -231,6 +238,13 @@
           "video_id": "t6p3WLkoNkg",
           "titulo": "Davi a Golias — Eu venho a ti em nome do Senhor",
           "em": "2026-07-22T02:11:30+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "longo",
+          "video_id": "UPtWyywV4OQ",
+          "titulo": "Davi e Golias — A História Completa | 1 Samuel 17 Narrado",
+          "em": "2026-07-22T05:13:21+00:00"
         }
       ],
       "ultimo_short": "2026-07-22T02:11:30+00:00",
@@ -238,7 +252,7 @@
         "data": "2026-07-22",
         "n": 1
       },
-      "longo_data": "2026-07-21"
+      "longo_data": "2026-07-22"
     }
   }
 }
