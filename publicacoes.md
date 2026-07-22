@@ -254,3 +254,11 @@
 - Item: short-1 — 1 Samuel 17:45-47
 - Duração: 38.6s
 - Publicado em: 2026-07-22T07:37:41+00:00
+
+## [pt] xDsWH7xw9fA — 1 Samuel 17 — O Senhor me livrará deste filisteu
+
+- URL: https://youtu.be/xDsWH7xw9fA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — 1 Samuel 17:37
+- Duração: 15.2s
+- Publicado em: 2026-07-22T10:17:36+00:00
