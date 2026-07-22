@@ -286,3 +286,11 @@
 - Item: short-3 — Salmo 144:1-2
 - Duração: 20.0s
 - Publicado em: 2026-07-22T18:03:55+00:00
+
+## [en] nTqbi-Bsv9M — Psalm 144 — Blessed Be the Lord My Strength | Bible
+
+- URL: https://youtu.be/nTqbi-Bsv9M
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-3 — Psalm 144:1-2
+- Duração: 17.4s
+- Publicado em: 2026-07-22T20:13:22+00:00
