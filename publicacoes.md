@@ -246,3 +246,11 @@
 - Item: longo — 1 Samuel 17:1-11, 1 Samuel 17:20-30, 1 Samuel 17:31-40, 1 Samuel 17:41-51
 - Duração: 588.7s
 - Publicado em: 2026-07-22T05:13:21+00:00
+
+## [es] fl1KsdStPIo — David a Goliat — Yo vengo a ti en el nombre de Jehová
+
+- URL: https://youtu.be/fl1KsdStPIo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — 1 Samuel 17:45-47
+- Duração: 38.6s
+- Publicado em: 2026-07-22T07:37:41+00:00

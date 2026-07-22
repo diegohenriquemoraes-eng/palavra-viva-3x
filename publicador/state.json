@@ -92,12 +92,19 @@
           "video_id": "TtQ4qMSjje0",
           "titulo": "David y Goliat — La Historia Completa | 1 Samuel 17 Narrado",
           "em": "2026-07-22T01:57:56+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "short-1",
+          "video_id": "fl1KsdStPIo",
+          "titulo": "David a Goliat — Yo vengo a ti en el nombre de Jehová",
+          "em": "2026-07-22T07:37:41+00:00"
         }
       ],
-      "ultimo_short": "2026-07-21T22:47:54+00:00",
+      "ultimo_short": "2026-07-22T07:37:41+00:00",
       "shorts_dia": {
-        "data": "2026-07-21",
-        "n": 3
+        "data": "2026-07-22",
+        "n": 1
       },
       "longo_data": "2026-07-22"
     },
