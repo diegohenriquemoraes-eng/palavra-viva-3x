@@ -270,3 +270,11 @@
 - Item: short-2 — 1 Samuel 17:37
 - Duração: 16.0s
 - Publicado em: 2026-07-22T12:24:23+00:00
+
+## [es] aZkkENFn0pQ — 1 Samuel 17 — Jehová me librará de este filisteo | Biblia
+
+- URL: https://youtu.be/aZkkENFn0pQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — 1 Samuel 17:37
+- Duração: 15.0s
+- Publicado em: 2026-07-22T14:57:51+00:00
