@@ -1,0 +1,180 @@
+{
+  "slug": "ansiedade-descanso",
+  "formato": "tema",
+  "data": "2026-07-24",
+  "criado_em": "2026-07-22T03:49:29+00:00",
+  "aprovado_em": "2026-07-22T03:49:29+00:00",
+  "longo": {
+    "refs": [
+      "Matthew 6:25-34",
+      "Matthew 11:25-30",
+      "Philippians 4:4-9",
+      "I Peter 5:6-11",
+      "Psalms 55:16-22",
+      "Psalms 37:1-9"
+    ],
+    "titulo": {
+      "es": "No Te Afanes por Nada — Mateo 6 y Filipenses 4 | Paz para el Alma",
+      "en": "Do Not Be Anxious — Matthew 6 & Philippians 4 | Bible for Peace",
+      "pt": "Não Andeis Ansiosos — Mateus 6 e Filipenses 4 | Paz para a Alma"
+    },
+    "thumb_titulo": {
+      "es": "PAZ PARA EL ALMA",
+      "en": "PEACE FOR YOUR SOUL",
+      "pt": "PAZ PARA A ALMA"
+    },
+    "thumb_sub": {
+      "es": "Mateo 6 • Filipenses 4 • 1 Pedro 5",
+      "en": "Matthew 6 • Philippians 4 • 1 Peter 5",
+      "pt": "Mateus 6 • Filipenses 4 • 1 Pedro 5"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Flying_birds_in_the_sky.jpg/1920px-Flying_birds_in_the_sky.jpg",
+        "autor": "Ayyuha Sideeq",
+        "origem": "https://commons.wikimedia.org/wiki/File:Flying_birds_in_the_sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Birds_line_in_the_sky.jpg/1920px-Birds_line_in_the_sky.jpg",
+        "autor": "UWIMPUHWE Va",
+        "origem": "https://commons.wikimedia.org/wiki/File:Birds_line_in_the_sky.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Birds_In_The_Sky_%28137499543%29.jpeg/1920px-Birds_In_The_Sky_%28137499543%29.jpeg",
+        "autor": "Emily Serven",
+        "origem": "https://commons.wikimedia.org/wiki/File:Birds_In_The_Sky_(137499543).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Birds_and_Sky.jpg/1920px-Birds_and_Sky.jpg",
+        "autor": "Benjamin Faust",
+        "origem": "https://commons.wikimedia.org/wiki/File:Birds_and_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Birds_of_prey_against_the_sky%2C_Ehrenbach.jpg/1920px-Birds_of_prey_against_the_sky%2C_Ehrenbach.jpg",
+        "autor": "Gerda Arendt",
+        "origem": "https://commons.wikimedia.org/wiki/File:Birds_of_prey_against_the_sky,_Ehrenbach.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meadow_Flowers_%283798373192%29.jpg/1920px-Meadow_Flowers_%283798373192%29.jpg",
+        "autor": "Tony Hisgett from Birmingham, UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Meadow_Flowers_(3798373192).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Alpine_meadow_flowers_%28Gru%29_%2831113937454%29.jpg/1920px-Alpine_meadow_flowers_%28Gru%29_%2831113937454%29.jpg",
+        "autor": "David Short from Windsor, UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Alpine_meadow_flowers_(Gru)_(31113937454).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Meadow_and_flowers_with_forest_background._%2884795e5c49744fb49c46ad8a83daa079%29.JPG/1920px-Meadow_and_flowers_with_forest_background._%2884795e5c49744fb49c46ad8a83daa079%29.JPG",
+        "autor": "Steve Redman ( MORA )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Meadow_and_flowers_with_forest_background._(84795e5c49744fb49c46ad8a83daa079).JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Meadow_with_flowers_and_rocks_with_cloud_%28988d9074edf44c6f90ebfc33342a3c61%29.JPG/1920px-Meadow_with_flowers_and_rocks_with_cloud_%28988d9074edf44c6f90ebfc33342a3c61%29.JPG",
+        "autor": "Steve Redman ( MORA )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Meadow_with_flowers_and_rocks_with_cloud_(988d9074edf44c6f90ebfc33342a3c61).JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Alpine_meadow_flowers_-_Flickr_-_gailhampshire.jpg/1920px-Alpine_meadow_flowers_-_Flickr_-_gailhampshire.jpg",
+        "autor": "gailhampshire from Cradley, Malvern, U.K",
+        "origem": "https://commons.wikimedia.org/wiki/File:Alpine_meadow_flowers_-_Flickr_-_gailhampshire.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Morning_fog_at_some_trees_by_Keravanjoki_river_in_Vantaa%2C_Finland%2C_2021_October.jpg/1920px-Morning_fog_at_some_trees_by_Keravanjoki_river_in_Vantaa%2C_Finland%2C_2021_October.jpg",
+        "autor": "Ximonic (Simo Räsänen)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Morning_fog_at_some_trees_by_Keravanjoki_river_in_Vantaa,_Finland,_2021_October.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Brynica_River_flowing_through_meadows_on_the_border_of_Sosnowiec_and_Katowice_in_the_morning.jpg/1920px-The_Brynica_River_flowing_through_meadows_on_the_border_of_Sosnowiec_and_Katowice_in_the_morning.jpg",
+        "autor": "Krzysztof Popławski",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Brynica_River_flowing_through_meadows_on_the_border_of_Sosnowiec_and_Katowice_in_the_morning.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Nipigon_River_Morning.jpg/1920px-Nipigon_River_Morning.jpg",
+        "autor": "Sharon Mollerus",
+        "origem": "https://commons.wikimedia.org/wiki/File:Nipigon_River_Morning.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Titas_River_Morning_views.jpg/1920px-Titas_River_Morning_views.jpg",
+        "autor": "Sajedur393",
+        "origem": "https://commons.wikimedia.org/wiki/File:Titas_River_Morning_views.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Matthew 6:25-27",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Mateo 6 — Mirad las aves del cielo | Biblia",
+        "en": "Matthew 6 — Behold the Fowls of the Air | Bible",
+        "pt": "Mateus 6 — Olhai para as aves do céu | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tranquil_Sunset_Sky_with_Birds.jpg/1920px-Tranquil_Sunset_Sky_with_Birds.jpg",
+        "autor": "Lerefot78",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tranquil_Sunset_Sky_with_Birds.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Philippians 4:6-7",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Filipenses 4 — Por nada estéis afanosos | Biblia",
+        "en": "Philippians 4 — Be Careful for Nothing | Bible",
+        "pt": "Filipenses 4 — Não estejais inquietos por coisa alguma"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mount_Rainier_-_HCP_-_October_17%2C_2022_-_047_-_Reflection_Lake.jpg/1920px-Mount_Rainier_-_HCP_-_October_17%2C_2022_-_047_-_Reflection_Lake.jpg",
+        "autor": "Vulturesong",
+        "origem": "https://commons.wikimedia.org/wiki/File:Mount_Rainier_-_HCP_-_October_17,_2022_-_047_-_Reflection_Lake.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Matthew 11:28-30",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Mateo 11:28 — Venid a mí todos los que estáis trabajados",
+        "en": "Matthew 11:28 — Come Unto Me, All Ye That Labour",
+        "pt": "Mateus 11:28 — Vinde a mim, todos os que estais cansados"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Girl_In_white_dress_sitting_on_a_meadow_at_the_sunset._%2849938576093%29.jpg/1920px-Girl_In_white_dress_sitting_on_a_meadow_at_the_sunset._%2849938576093%29.jpg",
+        "autor": "Nenad Stojkovic",
+        "origem": "https://commons.wikimedia.org/wiki/File:Girl_In_white_dress_sitting_on_a_meadow_at_the_sunset._(49938576093).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "I Peter 5:6-7",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "1 Pedro 5:7 — Echad toda vuestra ansiedad sobre él",
+        "en": "1 Peter 5:7 — Casting All Your Care Upon Him | Bible",
+        "pt": "1 Pedro 5:7 — Lançando sobre ele toda a vossa ansiedade"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Sky_in_our_Hands_%E2%80%94_an_educational_activity_%28ann1074a%29.tiff/lossy-page1-1920px-The_Sky_in_our_Hands_%E2%80%94_an_educational_activity_%28ann1074a%29.tiff.jpg",
+        "autor": "Southern Cross Observatory/ESO/R.Marin",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Sky_in_our_Hands_%E2%80%94_an_educational_activity_(ann1074a).tiff",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
