@@ -85,6 +85,13 @@
           "video_id": "vJGCt-7lUl8",
           "titulo": "Isaías 40 — Levantarán alas como águilas | Biblia",
           "em": "2026-07-21T22:47:54+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "longo",
+          "video_id": "TtQ4qMSjje0",
+          "titulo": "David y Goliat — La Historia Completa | 1 Samuel 17 Narrado",
+          "em": "2026-07-22T01:57:56+00:00"
         }
       ],
       "ultimo_short": "2026-07-21T22:47:54+00:00",
@@ -92,7 +99,7 @@
         "data": "2026-07-21",
         "n": 3
       },
-      "longo_data": "2026-07-21"
+      "longo_data": "2026-07-22"
     },
     "en": {
       "publicados": [
@@ -172,6 +179,13 @@
           "video_id": "wMP09-SR2L8",
           "titulo": "Isaiah 40 — They Shall Mount Up with Wings as Eagles",
           "em": "2026-07-21T20:15:52+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "longo",
+          "video_id": "XNw0Glha7Y8",
+          "titulo": "David and Goliath — The Complete Bible Story | 1 Samuel 17",
+          "em": "2026-07-22T02:10:09+00:00"
         }
       ],
       "ultimo_short": "2026-07-21T20:15:52+00:00",
@@ -179,7 +193,7 @@
         "data": "2026-07-21",
         "n": 3
       },
-      "longo_data": "2026-07-21"
+      "longo_data": "2026-07-22"
     },
     "pt": {
       "publicados": [
@@ -210,12 +224,19 @@
           "video_id": "iXQOYURYYkI",
           "titulo": "Isaías 40 — Subirão com asas como águias | Bíblia",
           "em": "2026-07-21T18:12:19+00:00"
+        },
+        {
+          "pacote": "2026-07-22-davi-golias",
+          "item": "short-1",
+          "video_id": "t6p3WLkoNkg",
+          "titulo": "Davi a Golias — Eu venho a ti em nome do Senhor",
+          "em": "2026-07-22T02:11:30+00:00"
         }
       ],
-      "ultimo_short": "2026-07-21T18:12:19+00:00",
+      "ultimo_short": "2026-07-22T02:11:30+00:00",
       "shorts_dia": {
-        "data": "2026-07-21",
-        "n": 3
+        "data": "2026-07-22",
+        "n": 1
       },
       "longo_data": "2026-07-21"
     }

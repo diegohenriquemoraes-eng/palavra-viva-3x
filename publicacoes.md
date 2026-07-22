@@ -206,3 +206,27 @@
 - Item: short-3 — Isaías 40:28-31
 - Duração: 35.6s
 - Publicado em: 2026-07-21T22:47:54+00:00
+
+## [es] TtQ4qMSjje0 — David y Goliat — La Historia Completa | 1 Samuel 17 Narrado
+
+- URL: https://youtu.be/TtQ4qMSjje0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — 1 Samuel 17:1-11, 1 Samuel 17:20-30, 1 Samuel 17:31-40, 1 Samuel 17:41-51
+- Duração: 589.7s
+- Publicado em: 2026-07-22T01:57:57+00:00
+
+## [en] XNw0Glha7Y8 — David and Goliath — The Complete Bible Story | 1 Samuel 17
+
+- URL: https://youtu.be/XNw0Glha7Y8
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — 1 Samuel 17:1-11, 1 Samuel 17:20-30, 1 Samuel 17:31-40, 1 Samuel 17:41-51
+- Duração: 582.7s
+- Publicado em: 2026-07-22T02:10:09+00:00
+
+## [pt] t6p3WLkoNkg — Davi a Golias — Eu venho a ti em nome do Senhor
+
+- URL: https://youtu.be/t6p3WLkoNkg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — 1 Samuel 17:45-47
+- Duração: 37.5s
+- Publicado em: 2026-07-22T02:11:30+00:00
