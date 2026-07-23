@@ -374,3 +374,27 @@
 - Item: short-2 — Romanos 8:38-39
 - Duração: 19.8s
 - Publicado em: 2026-07-23T15:08:01+00:00
+
+## [es] 6yGAjFF6dQM — 1 Corintios 13 — El amor es sufrido, es benigno
+
+- URL: https://youtu.be/6yGAjFF6dQM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — 1 Corintios 13:4-8
+- Duração: 31.7s
+- Publicado em: 2026-07-23T22:53:26+00:00
+
+## [en] k_k2oPqdNps — 1 Corinthians 13 — Love Suffereth Long and Is Kind
+
+- URL: https://youtu.be/k_k2oPqdNps
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-3 — 1 Corinthians 13:4-8
+- Duração: 37.7s
+- Publicado em: 2026-07-23T22:54:43+00:00
+
+## [pt] -3vYi3hzhaU — 1 Coríntios 13 — O amor é paciente, é bondoso
+
+- URL: https://youtu.be/-3vYi3hzhaU
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — 1 Coríntios 13:4-8
+- Duração: 35.5s
+- Publicado em: 2026-07-23T22:55:58+00:00
