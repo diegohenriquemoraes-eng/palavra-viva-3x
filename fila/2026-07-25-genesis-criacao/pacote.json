@@ -1,0 +1,177 @@
+{
+  "slug": "genesis-criacao",
+  "formato": "historia",
+  "data": "2026-07-25",
+  "criado_em": "2026-07-23T03:46:58+00:00",
+  "aprovado_em": "2026-07-23T03:46:58+00:00",
+  "longo": {
+    "refs": [
+      "Genesis 1:1-31",
+      "Genesis 2:1-3",
+      "Psalms 19:1-6"
+    ],
+    "titulo": {
+      "es": "La Creación del Mundo — Génesis 1 Completo | Biblia Narrada",
+      "en": "The Creation of the World — Genesis 1 Complete | Audio Bible",
+      "pt": "A Criação do Mundo — Gênesis 1 Completo | Bíblia Narrada"
+    },
+    "thumb_titulo": {
+      "es": "LA CREACIÓN",
+      "en": "THE CREATION",
+      "pt": "A CRIAÇÃO"
+    },
+    "thumb_sub": {
+      "es": "Génesis 1 — narrado completo",
+      "en": "Genesis 1 — fully narrated",
+      "pt": "Gênesis 1 — narrado completo"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Space_sustainability_urgency_in_earth_orbits_black.png/1920px-Space_sustainability_urgency_in_earth_orbits_black.png",
+        "autor": "Pablo Carlos Budassi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Space_sustainability_urgency_in_earth_orbits_black.png",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rose_Center_for_Earth_and_Space_by_Frederick_Phineas_and_Sandra_Priest%2C_New_York%2C_04003a.jpg/1920px-Rose_Center_for_Earth_and_Space_by_Frederick_Phineas_and_Sandra_Priest%2C_New_York%2C_04003a.jpg",
+        "autor": "Carol M. Highsmith",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rose_Center_for_Earth_and_Space_by_Frederick_Phineas_and_Sandra_Priest,_New_York,_04003a.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Space_sustainability_urgency_in_earth_orbits_white.png/1920px-Space_sustainability_urgency_in_earth_orbits_white.png",
+        "autor": "Pablo Carlos Budassi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Space_sustainability_urgency_in_earth_orbits_white.png",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Earth_from_space%2C_hurricane.jpg/1920px-Earth_from_space%2C_hurricane.jpg",
+        "autor": "GSFC team, cropped & up-sampled by Jason Harwell",
+        "origem": "https://commons.wikimedia.org/wiki/File:Earth_from_space,_hurricane.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ocean_waves_and_foam_seascape_--_29_of_33.jpg/1920px-Ocean_waves_and_foam_seascape_--_29_of_33.jpg",
+        "autor": "Maritess Sulcer",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ocean_waves_and_foam_seascape_--_29_of_33.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Waves_Shore_Ocean.jpg/1920px-Waves_Shore_Ocean.jpg",
+        "autor": "Frantzou Fleurine",
+        "origem": "https://commons.wikimedia.org/wiki/File:Waves_Shore_Ocean.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ocean_Waves-saam_2013.67.5.jpg/1920px-Ocean_Waves-saam_2013.67.5.jpg",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ocean_Waves-saam_2013.67.5.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Forest_Sunrise_%28122256965%29.jpeg/1920px-Forest_Sunrise_%28122256965%29.jpeg",
+        "autor": "Vad 7",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_Sunrise_(122256965).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Corney_Lake_Sunrise_-_Kisatchie_National_Forest_-_001_%2851716633919%29.jpg/1920px-Corney_Lake_Sunrise_-_Kisatchie_National_Forest_-_001_%2851716633919%29.jpg",
+        "autor": "US Forest Service - Southern Region",
+        "origem": "https://commons.wikimedia.org/wiki/File:Corney_Lake_Sunrise_-_Kisatchie_National_Forest_-_001_(51716633919).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bank_fishing_from_Tipsaw_Lake_Dam_at_sunrise%2C_Hoosier_National_Forest_%2820201023-FS-JTS-2%29.jpg/1920px-Bank_fishing_from_Tipsaw_Lake_Dam_at_sunrise%2C_Hoosier_National_Forest_%2820201023-FS-JTS-2%29.jpg",
+        "autor": "Forest Service Photography",
+        "origem": "https://commons.wikimedia.org/wiki/File:Bank_fishing_from_Tipsaw_Lake_Dam_at_sunrise,_Hoosier_National_Forest_(20201023-FS-JTS-2).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Corney_Lake_Sunrise_-_Kisatchie_National_Forest_-_004_%2851716244168%29.jpg/1920px-Corney_Lake_Sunrise_-_Kisatchie_National_Forest_-_004_%2851716244168%29.jpg",
+        "autor": "US Forest Service - Southern Region",
+        "origem": "https://commons.wikimedia.org/wiki/File:Corney_Lake_Sunrise_-_Kisatchie_National_Forest_-_004_(51716244168).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/1920px-Milky_Way_IR_Spitzer.jpg",
+        "autor": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/1920px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg",
+        "autor": "Peter Paul Rubens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way,_1636-1637.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Genesis 1:1-5",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Génesis 1 — En el principio creó Dios los cielos",
+        "en": "Genesis 1 — In the Beginning God Created | Bible",
+        "pt": "Gênesis 1 — No princípio criou Deus os céus"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ALMA_and_the_centre_of_the_Milky_Way.jpg/1920px-ALMA_and_the_centre_of_the_Milky_Way.jpg",
+        "autor": "ESO/B. Tafreshi (twanight.org)",
+        "origem": "https://commons.wikimedia.org/wiki/File:ALMA_and_the_centre_of_the_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Genesis 1:26-28",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Génesis 1 — Hagamos al hombre a nuestra imagen | Biblia",
+        "en": "Genesis 1 — Let Us Make Man in Our Image | Bible",
+        "pt": "Gênesis 1 — Façamos o homem à nossa imagem"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sunrise_by_the_mountains_and_the_clouds.jpg/1920px-Sunrise_by_the_mountains_and_the_clouds.jpg",
+        "autor": "Jiafei Slay Queen",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunrise_by_the_mountains_and_the_clouds.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 19:1-4",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 19 — Los cielos cuentan la gloria de Dios",
+        "en": "Psalm 19 — The Heavens Declare the Glory of God",
+        "pt": "Salmo 19 — Os céus declaram a glória de Deus"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Starry_sky_from_Tekapo.jpg/1920px-Starry_sky_from_Tekapo.jpg",
+        "autor": "Butterflyyyyyyyy y y y",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_sky_from_Tekapo.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Isaiah 40:26",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Isaías 40:26 — Levantad en alto vuestros ojos | Biblia",
+        "en": "Isaiah 40:26 — Lift Up Your Eyes on High | Bible",
+        "pt": "Isaías 40:26 — Levantai ao alto os vossos olhos"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
