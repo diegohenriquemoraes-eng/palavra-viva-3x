@@ -127,12 +127,19 @@
           "video_id": "jWd4SqcmZp0",
           "titulo": "Juan 3:16 — De tal manera amó Dios al mundo | Biblia",
           "em": "2026-07-23T07:29:25+00:00"
+        },
+        {
+          "pacote": "2026-07-23-amor-de-deus",
+          "item": "short-2",
+          "video_id": "9X9Uz2lBK2o",
+          "titulo": "Romanos 8 — Nada nos separará del amor de Dios | Biblia",
+          "em": "2026-07-23T15:04:33+00:00"
         }
       ],
-      "ultimo_short": "2026-07-23T07:29:25+00:00",
+      "ultimo_short": "2026-07-23T15:04:33+00:00",
       "shorts_dia": {
         "data": "2026-07-23",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-23"
     },
@@ -256,12 +263,19 @@
           "video_id": "m6CDy4OGz-I",
           "titulo": "John 3:16 — For God So Loved the World | Bible",
           "em": "2026-07-23T07:30:17+00:00"
+        },
+        {
+          "pacote": "2026-07-23-amor-de-deus",
+          "item": "short-2",
+          "video_id": "wRT9N3b9u1o",
+          "titulo": "Romans 8 — Nothing Can Separate Us from God's Love",
+          "em": "2026-07-23T15:06:02+00:00"
         }
       ],
-      "ultimo_short": "2026-07-23T07:30:17+00:00",
+      "ultimo_short": "2026-07-23T15:06:02+00:00",
       "shorts_dia": {
         "data": "2026-07-23",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-23"
     },
@@ -336,12 +350,19 @@
           "video_id": "R70PCQvIA_o",
           "titulo": "João 3:16 — Deus amou o mundo de tal maneira",
           "em": "2026-07-23T07:31:10+00:00"
+        },
+        {
+          "pacote": "2026-07-23-amor-de-deus",
+          "item": "short-2",
+          "video_id": "HPDf2_qkRRY",
+          "titulo": "Romanos 8 — Nada nos separará do amor de Deus",
+          "em": "2026-07-23T15:08:01+00:00"
         }
       ],
-      "ultimo_short": "2026-07-23T07:31:10+00:00",
+      "ultimo_short": "2026-07-23T15:08:01+00:00",
       "shorts_dia": {
         "data": "2026-07-23",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-23"
     }

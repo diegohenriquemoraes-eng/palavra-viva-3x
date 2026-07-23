@@ -350,3 +350,27 @@
 - Item: short-1 — João 3:16-17
 - Duração: 18.3s
 - Publicado em: 2026-07-23T07:31:10+00:00
+
+## [es] 9X9Uz2lBK2o — Romanos 8 — Nada nos separará del amor de Dios | Biblia
+
+- URL: https://youtu.be/9X9Uz2lBK2o
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Romanos 8:38-39
+- Duração: 19.4s
+- Publicado em: 2026-07-23T15:04:33+00:00
+
+## [en] wRT9N3b9u1o — Romans 8 — Nothing Can Separate Us from God's Love
+
+- URL: https://youtu.be/wRT9N3b9u1o
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-2 — Romans 8:38-39
+- Duração: 21.2s
+- Publicado em: 2026-07-23T15:06:02+00:00
+
+## [pt] HPDf2_qkRRY — Romanos 8 — Nada nos separará do amor de Deus
+
+- URL: https://youtu.be/HPDf2_qkRRY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Romanos 8:38-39
+- Duração: 19.8s
+- Publicado em: 2026-07-23T15:08:01+00:00
