@@ -235,6 +235,13 @@
           "video_id": "nTqbi-Bsv9M",
           "titulo": "Psalm 144 — Blessed Be the Lord My Strength | Bible",
           "em": "2026-07-22T20:13:22+00:00"
+        },
+        {
+          "pacote": "2026-07-23-amor-de-deus",
+          "item": "longo",
+          "video_id": "UbSSV2eoE6c",
+          "titulo": "The Love of God — John 3, Romans 8 & 1 Corinthians 13 | Audio Bible",
+          "em": "2026-07-23T04:21:44+00:00"
         }
       ],
       "ultimo_short": "2026-07-22T20:13:22+00:00",
@@ -242,7 +249,7 @@
         "data": "2026-07-22",
         "n": 3
       },
-      "longo_data": "2026-07-22"
+      "longo_data": "2026-07-23"
     },
     "pt": {
       "publicados": [
@@ -301,6 +308,13 @@
           "video_id": "CsALDiICyTw",
           "titulo": "Salmo 144 — Bendito seja o Senhor, minha rocha",
           "em": "2026-07-22T18:03:55+00:00"
+        },
+        {
+          "pacote": "2026-07-23-amor-de-deus",
+          "item": "longo",
+          "video_id": "NdUMX0MS5dY",
+          "titulo": "O Amor de Deus — João 3, Romanos 8 e 1 Coríntios 13 | Bíblia Narrada",
+          "em": "2026-07-23T04:34:02+00:00"
         }
       ],
       "ultimo_short": "2026-07-22T18:03:55+00:00",
@@ -308,7 +322,7 @@
         "data": "2026-07-22",
         "n": 3
       },
-      "longo_data": "2026-07-22"
+      "longo_data": "2026-07-23"
     }
   }
 }

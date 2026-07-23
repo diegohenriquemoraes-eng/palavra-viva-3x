@@ -310,3 +310,19 @@
 - Item: longo — Juan 3:14-21, Romanos 8:31-39, 1 Corintios 13:1-13, 1 Juan 4:7-19, Salmo 103:1-13
 - Duração: 577.4s
 - Publicado em: 2026-07-23T00:13:33+00:00
+
+## [en] UbSSV2eoE6c — The Love of God — John 3, Romans 8 & 1 Corinthians 13 | Audio Bible
+
+- URL: https://youtu.be/UbSSV2eoE6c
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — John 3:14-21, Romans 8:31-39, 1 Corinthians 13:1-13, 1 John 4:7-19, Psalm 103:1-13
+- Duração: 574.1s
+- Publicado em: 2026-07-23T04:21:44+00:00
+
+## [pt] NdUMX0MS5dY — O Amor de Deus — João 3, Romanos 8 e 1 Coríntios 13 | Bíblia Narrada
+
+- URL: https://youtu.be/NdUMX0MS5dY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — João 3:14-21, Romanos 8:31-39, 1 Coríntios 13:1-13, 1 João 4:7-19, Salmo 103:1-13
+- Duração: 583.0s
+- Publicado em: 2026-07-23T04:34:02+00:00
