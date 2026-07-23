@@ -302,3 +302,11 @@
 - Item: short-3 — Salmo 144:1-2
 - Duração: 17.3s
 - Publicado em: 2026-07-22T21:59:08+00:00
+
+## [es] 87OyHXzfN20 — El Amor de Dios — Juan 3, Romanos 8 y 1 Corintios 13 | Biblia Hablada
+
+- URL: https://youtu.be/87OyHXzfN20
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Juan 3:14-21, Romanos 8:31-39, 1 Corintios 13:1-13, 1 Juan 4:7-19, Salmo 103:1-13
+- Duração: 577.4s
+- Publicado em: 2026-07-23T00:13:33+00:00
