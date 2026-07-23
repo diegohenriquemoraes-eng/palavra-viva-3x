@@ -326,3 +326,27 @@
 - Item: longo — João 3:14-21, Romanos 8:31-39, 1 Coríntios 13:1-13, 1 João 4:7-19, Salmo 103:1-13
 - Duração: 583.0s
 - Publicado em: 2026-07-23T04:34:02+00:00
+
+## [es] jWd4SqcmZp0 — Juan 3:16 — De tal manera amó Dios al mundo | Biblia
+
+- URL: https://youtu.be/jWd4SqcmZp0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Juan 3:16-17
+- Duração: 18.6s
+- Publicado em: 2026-07-23T07:29:25+00:00
+
+## [en] m6CDy4OGz-I — John 3:16 — For God So Loved the World | Bible
+
+- URL: https://youtu.be/m6CDy4OGz-I
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — John 3:16-17
+- Duração: 17.8s
+- Publicado em: 2026-07-23T07:30:17+00:00
+
+## [pt] R70PCQvIA_o — João 3:16 — Deus amou o mundo de tal maneira
+
+- URL: https://youtu.be/R70PCQvIA_o
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — João 3:16-17
+- Duração: 18.3s
+- Publicado em: 2026-07-23T07:31:10+00:00
