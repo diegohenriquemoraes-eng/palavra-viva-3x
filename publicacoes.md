@@ -414,3 +414,11 @@
 - Item: longo — Matthew 6:25-34, Matthew 11:25-30, Philippians 4:4-9, 1 Peter 5:6-11, Psalm 55:16-22, Psalm 37:1-9
 - Duração: 472.9s
 - Publicado em: 2026-07-24T02:09:17+00:00
+
+## [pt] _UxJ3g4ocDE — Não Andeis Ansiosos — Mateus 6 e Filipenses 4 | Paz para a Alma
+
+- URL: https://youtu.be/_UxJ3g4ocDE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Mateus 6:25-34, Mateus 11:25-30, Filipenses 4:4-9, 1 Pedro 5:6-11, Salmo 55:16-22, Salmo 37:1-9
+- Duração: 1943.7s
+- Publicado em: 2026-07-24T05:30:05+00:00
