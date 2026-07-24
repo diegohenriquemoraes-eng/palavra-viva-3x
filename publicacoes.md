@@ -438,3 +438,19 @@
 - Item: short-1 — Mateus 6:25-27
 - Duração: 37.2s
 - Publicado em: 2026-07-24T12:16:20+00:00
+
+## [es] W2nWvKlCqek — Filipenses 4 — Por nada estéis afanosos | Biblia
+
+- URL: https://youtu.be/W2nWvKlCqek
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Filipenses 4:6-7
+- Duração: 19.3s
+- Publicado em: 2026-07-24T15:25:45+00:00
+
+## [en] DA5Or9xVTyE — Matthew 6 — Behold the Fowls of the Air | Bible
+
+- URL: https://youtu.be/DA5Or9xVTyE
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — Matthew 6:25-27
+- Duração: 31.9s
+- Publicado em: 2026-07-24T15:26:47+00:00
