@@ -78,22 +78,39 @@ def _baixar_imagem(info: dict | None, destino: Path) -> Path | None:
     return None
 
 
-def montar_reel(ref: str, marca: str, outdir: Path) -> dict:
-    """Renderiza o Reel do versículo `ref` (ex.: 'Psalms 23:1-3').
+def montar_reel(item: dict, marca: str, outdir: Path) -> dict:
+    """Renderiza o Reel de um `item` do banco. Três tipos:
 
-    Devolve {arquivo, ref_disp, texto, duracao_s}. A caption é montada à parte
-    (legenda.py), porque depende do afiliado e das hashtags do config.
+    - versiculo: {tipo, ref}
+    - historia:  {tipo, ref, gancho, capa_titulo, ref_disp}  (texto bíblico +
+                 gancho narrativo nosso)
+    - oracao:    {tipo, slug, texto, gancho, capa_titulo}     (texto original nosso)
+
+    Todos abrem com o GANCHO (1º segundo, falado+escrito) antes do conteúdo — é
+    o que segura os 3 primeiros segundos, onde metade decide continuar ou rolar.
+    Devolve {arquivo, capa, ref_disp, texto, fonte, duracao_s}.
     """
     cfg = idiomas.CONFIG[IDIOMA]
     outdir.mkdir(parents=True, exist_ok=True)
+    tipo = item.get("tipo", "versiculo")
+    chave = item.get("ref") or item.get("slug") or item.get("capa_titulo") or "x"
 
-    versos = biblia.carregar_versos(IDIOMA, ref)
-    texto = " ".join(t for _, t in versos)
-    gancho = GANCHOS_VIDEO[_seed(ref, "hookv") % len(GANCHOS_VIDEO)]
+    if tipo == "oracao":
+        texto = item["texto"]
+        gancho = item.get("gancho", "Faça esta oração. 🙏")
+        capa_titulo = item.get("capa_titulo", "ORAÇÃO")
+        ref_disp = capa_titulo.capitalize()
+        fonte = ""                        # oração é texto NOSSO, não Bíblia
+    else:  # versiculo ou historia (texto bíblico em domínio público)
+        versos = biblia.carregar_versos(IDIOMA, item["ref"])
+        texto = " ".join(t for _, t in versos)
+        gancho = item.get("gancho") or \
+            GANCHOS_VIDEO[_seed(chave, "hookv") % len(GANCHOS_VIDEO)]
+        capa_titulo = item.get("capa_titulo") or biblia.cabecalho(IDIOMA, item["ref"])
+        ref_disp = item.get("ref_disp") or biblia.ref_exibicao(IDIOMA, item["ref"])
+        fonte = "Bíblia Livre"
 
-    # Estrutura: GANCHO (1º) + versículo. Versículo curto entra 2x (loop do
-    # feed / meditação). O gancho é o que segura os 3 primeiros segundos —
-    # onde metade do público decide continuar ou rolar.
+    # GANCHO + conteúdo. Texto curto entra 2x (loop do feed / meditação).
     partes = [(0, gancho), (1, texto)]
     if len(texto.split()) < CURTO_PALAVRAS:
         partes.append((2, texto))
@@ -108,24 +125,25 @@ def montar_reel(ref: str, marca: str, outdir: Path) -> dict:
         legendas.alinhar_display(seg["texto"], seg["palavras"])
         blocos += legendas.agrupar(seg["palavras"])
 
-    cab = biblia.cabecalho(IDIOMA, ref)
-    legendas.ass_short(outdir / "legenda.ass", blocos, cab, marca, dur)
+    # topo do vídeo = capa_titulo (SALMO 23 / DAVI E GOLIAS / ORAÇÃO DA NOITE)
+    legendas.ass_short(outdir / "legenda.ass", blocos, capa_titulo, marca, dur)
 
-    da_casa = imagens.escolher_da_biblioteca(1, _seed(ref, "fundo"))
+    da_casa = imagens.escolher_da_biblioteca(1, _seed(chave, "fundo"))
     info_img = da_casa[0] if da_casa else None
     img = _baixar_imagem(info_img, outdir / "fundo.jpg")
     # fade_in=0: o Reel abre DIRETO no gancho, sem preto no 1º frame
     video = render.render_short(outdir, voz.name, "legenda.ass", img, dur,
-                                _seed(ref, "reel"), saida="reel.mp4", fade_in=0.0)
+                                _seed(chave, "reel"), saida="reel.mp4", fade_in=0.0)
 
     # Capa DESENHADA (cover_url): a capa da grade/feed, à parte do vídeo.
-    capa_img = capa.gerar_capa(biblia.cabecalho(IDIOMA, ref), _gancho(texto),
-                               outdir / "capa.jpg", _seed(ref, "capa"))
+    capa_img = capa.gerar_capa(capa_titulo, _gancho(texto),
+                               outdir / "capa.jpg", _seed(chave, "capa"))
 
     return {
         "arquivo": video,
         "capa": capa_img,
-        "ref_disp": biblia.ref_exibicao(IDIOMA, ref),
+        "ref_disp": ref_disp,
         "texto": texto,
+        "fonte": fonte,
         "duracao_s": round(dur, 1),
     }

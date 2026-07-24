@@ -64,24 +64,28 @@ HASHTAGS = [
 
 
 def montar_caption(ref_disp: str, texto: str, ponte_bio: str,
-                   assinatura: str, idx: int) -> str:
-    """Monta a caption completa do Reel nº `idx` (idx cresce a cada post)."""
+                   assinatura: str, idx: int, fonte: str = "Bíblia Livre") -> str:
+    """Monta a caption completa do Reel nº `idx` (idx cresce a cada post).
+
+    fonte: rótulo da fonte ('Bíblia Livre' para versículo/história; vazio para
+    oração, que é texto original nosso e não leva '(Bíblia Livre)')."""
     gancho = GANCHOS[idx % len(GANCHOS)]
     cta = CTAS[idx % len(CTAS)]
     tags = HASHTAGS[idx % len(HASHTAGS)]
 
-    # Versículo enxuto entre aspas. Reels muito longos na legenda cansam; se o
-    # texto passar de ~220 caracteres, corta no limite de frase.
+    # Texto enxuto entre aspas. Reels muito longos na legenda cansam; se
+    # passar de ~220 caracteres, corta no limite de frase.
     verso = texto.strip()
     if len(verso) > 220:
         corte = verso.rfind(". ", 0, 220)
         verso = (verso[:corte + 1] if corte > 80 else verso[:220].rstrip() + "…")
 
+    credito = f"— {ref_disp} ({fonte})" if fonte else f"— {ref_disp}"
     partes = [
         gancho,
         "",
         f'"{verso}"',
-        f"— {ref_disp} (Bíblia Livre)",
+        credito,
         "",
         cta,
         "",

@@ -1,0 +1,52 @@
+{
+  "itens": [
+    {
+      "slug": "noite",
+      "capa_titulo": "ORAÇÃO DA NOITE",
+      "gancho": "Faça esta oração antes de dormir.",
+      "texto": "Senhor, antes de eu fechar os olhos, entrego a Ti todas as minhas preocupações. Cuida de mim e da minha família esta noite. Em teu nome, amém."
+    },
+    {
+      "slug": "manha",
+      "capa_titulo": "ORAÇÃO DA MANHÃ",
+      "gancho": "Comece o dia com esta oração.",
+      "texto": "Bom dia, Senhor. Que hoje eu ande nos teus caminhos. Dá-me força, paz e sabedoria para este dia. Amém."
+    },
+    {
+      "slug": "ansiedade",
+      "capa_titulo": "ORAÇÃO PELA PAZ",
+      "gancho": "Se a ansiedade apertar, ore assim.",
+      "texto": "Senhor, tira de mim toda a ansiedade e enche o meu coração da tua paz, que excede todo entendimento. Eu confio em Ti. Amém."
+    },
+    {
+      "slug": "protecao",
+      "capa_titulo": "ORAÇÃO DE PROTEÇÃO",
+      "gancho": "Uma oração de proteção pra hoje.",
+      "texto": "Senhor, cobre a mim e a quem eu amo com a tua proteção. Guarda a nossa entrada e a nossa saída, hoje e sempre. Amém."
+    },
+    {
+      "slug": "gratidao",
+      "capa_titulo": "GRATIDÃO",
+      "gancho": "Faça esta oração de gratidão.",
+      "texto": "Obrigado, Senhor, por mais um dia de vida, pelo ar que respiro e pelo teu amor que nunca falha. Amém."
+    },
+    {
+      "slug": "cura",
+      "capa_titulo": "ORAÇÃO DE CURA",
+      "gancho": "Ore por quem você ama.",
+      "texto": "Senhor, toca com a tua mão quem está doente e cansado. Traz cura ao corpo e paz à alma. Eu creio no teu poder. Amém."
+    },
+    {
+      "slug": "vale",
+      "capa_titulo": "ORAÇÃO NA DIFICULDADE",
+      "gancho": "Pra você que está passando por um vale.",
+      "texto": "Senhor, mesmo no vale mais escuro eu não temerei, porque Tu estás comigo. Segura a minha mão e me dá forças. Amém."
+    },
+    {
+      "slug": "familia",
+      "capa_titulo": "ORAÇÃO PELA FAMÍLIA",
+      "gancho": "Ore pela sua família agora.",
+      "texto": "Senhor, abençoa a minha família. Que a tua paz habite no nosso lar e o teu amor nos una todos os dias. Amém."
+    }
+  ]
+}

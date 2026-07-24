@@ -1,0 +1,64 @@
+{
+  "itens": [
+    {
+      "ref": "I Samuel 17:45-47",
+      "gancho": "Davi era pequeno. Golias, um gigante.",
+      "capa_titulo": "DAVI E GOLIAS",
+      "ref_disp": "1 Samuel 17"
+    },
+    {
+      "ref": "Daniel 6:21-22",
+      "gancho": "Jogaram Daniel na cova dos leões. E então…",
+      "capa_titulo": "DANIEL E OS LEÕES",
+      "ref_disp": "Daniel 6"
+    },
+    {
+      "ref": "Joshua 6:20",
+      "gancho": "Eles só marcharam e gritaram. O muro caiu.",
+      "capa_titulo": "AS MURALHAS DE JERICÓ",
+      "ref_disp": "Josué 6"
+    },
+    {
+      "ref": "Exodus 14:21-22",
+      "gancho": "O mar se abriu bem no meio.",
+      "capa_titulo": "O MAR VERMELHO",
+      "ref_disp": "Êxodo 14"
+    },
+    {
+      "ref": "Daniel 3:24-25",
+      "gancho": "Jogaram três homens no fogo. Apareceu um quarto.",
+      "capa_titulo": "NA FORNALHA",
+      "ref_disp": "Daniel 3"
+    },
+    {
+      "ref": "I Kings 18:38-39",
+      "gancho": "Elias orou e o fogo caiu do céu.",
+      "capa_titulo": "O FOGO DE ELIAS",
+      "ref_disp": "1 Reis 18"
+    },
+    {
+      "ref": "Matthew 28:5-6",
+      "gancho": "Foram ao túmulo. Estava vazio.",
+      "capa_titulo": "ELE RESSUSCITOU",
+      "ref_disp": "Mateus 28"
+    },
+    {
+      "ref": "Jonah 2:1-2",
+      "gancho": "Três dias dentro de um peixe. Ele orou assim.",
+      "capa_titulo": "JONAS",
+      "ref_disp": "Jonas 2"
+    },
+    {
+      "ref": "Genesis 9:13-15",
+      "gancho": "Depois do dilúvio, Deus fez uma promessa.",
+      "capa_titulo": "A ALIANÇA DE NOÉ",
+      "ref_disp": "Gênesis 9"
+    },
+    {
+      "ref": "Judges 7:20-21",
+      "gancho": "300 homens contra um exército inteiro.",
+      "capa_titulo": "GIDEÃO",
+      "ref_disp": "Juízes 7"
+    }
+  ]
+}

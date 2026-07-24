@@ -45,7 +45,14 @@ from instagram import legenda, reels  # noqa: E402
 CONFIG = AQUI / "config.json"
 STATE = AQUI / "state.json"
 REGISTRO = AQUI / "publicacoes_ig.md"
-BANCO = AQUI / "versiculos.json"
+BANCO_V = AQUI / "versiculos.json"
+BANCO_H = AQUI / "historias.json"
+BANCO_O = AQUI / "oracoes.json"
+
+# Rotação de FORMATOS (por post, determinística pelo ponteiro). 7 slots:
+# 5 versículos, 1 oração, 1 história — versículo é o esqueleto, história e
+# oração entram para puxar save/share (o que mais faz o perfil crescer).
+TEMPLATE_FORMATOS = ["v", "v", "v", "o", "v", "v", "h"]
 SAIDA = RAIZ / "saida" / "instagram"
 
 
@@ -103,18 +110,36 @@ def decidir(cfg: dict, ec: dict, agora: datetime) -> bool:
     return True
 
 
-def proximo_versiculo(ec: dict) -> str:
-    """Próxima referência do banco, sem repetir enquanto houver nova.
+def _tipo_do_indice(i: int) -> str:
+    return TEMPLATE_FORMATOS[i % len(TEMPLATE_FORMATOS)]
 
-    A ordem é a do banco; ao esgotar, recomeça (versículo popular pode voltar
-    semanas depois, o que é normal no nicho). O ponteiro fica no estado.
+
+def proximo_item(ec: dict) -> dict:
+    """Próximo item do dia, girando FORMATOS (versículo/história/oração) e, dentro
+    de cada formato, girando o banco sem repetir enquanto houver novo. Tudo
+    determinístico pelo ponteiro do estado (sobrevive a re-execução no runner).
     """
-    refs = carregar(BANCO, {}).get("referencias", [])
+    refs = carregar(BANCO_V, {}).get("referencias", [])
+    hist = carregar(BANCO_H, {}).get("itens", [])
+    orac = carregar(BANCO_O, {}).get("itens", [])
     if not refs:
         raise SystemExit("Banco de versículos vazio (instagram/versiculos.json)")
-    i = ec.get("ponteiro", 0) % len(refs)
-    ec["ponteiro"] = (i + 1) % len(refs)
-    return refs[i]
+
+    i = ec.get("ponteiro", 0)
+    L = len(TEMPLATE_FORMATOS)
+    ciclos, rem = divmod(i, L)
+
+    def quantos(t: str) -> int:  # quantos slots do tipo t já passaram antes de i
+        return ciclos * TEMPLATE_FORMATOS.count(t) + TEMPLATE_FORMATOS[:rem].count(t)
+
+    tipo = _tipo_do_indice(i)
+    ec["ponteiro"] = i + 1
+
+    if tipo == "o" and orac:
+        it = dict(orac[quantos("o") % len(orac)]); it["tipo"] = "oracao"; return it
+    if tipo == "h" and hist:
+        it = dict(hist[quantos("h") % len(hist)]); it["tipo"] = "historia"; return it
+    return {"tipo": "versiculo", "ref": refs[quantos("v") % len(refs)]}
 
 
 # ------------------------------------------------------- hospedar o vídeo ----
@@ -275,8 +300,9 @@ def main() -> None:
         return
 
     if args.dry_run:
-        log(f"[dry-run] publicaria o próximo versículo "
-            f"({carregar(BANCO, {}).get('referencias', [])[st['ponteiro']]})")
+        prox = proximo_item(dict(st))  # não avança o estado real
+        log(f"[dry-run] publicaria ({prox.get('tipo')}): "
+            f"{prox.get('ref') or prox.get('capa_titulo')}")
         return
 
     ig_id = os.environ.get("IG_USER_ID", "").strip()
@@ -288,16 +314,17 @@ def main() -> None:
             "Configure os secrets para ativar a conta (ver instagram/README.md).")
         return
 
-    ref = proximo_versiculo(st)
+    item = proximo_item(st)
     outdir = SAIDA / f"{hoje}-{st['ponteiro']:03d}"
-    log(f"renderizando Reel: {ref}")
-    item = reels.montar_reel(ref, cfg["marca_handle"], outdir)
-    log(f"render ok: {item['arquivo']} "
-        f"({item['arquivo'].stat().st_size / 1e6:.1f} MB, {item['duracao_s']}s)")
+    log(f"renderizando Reel ({item['tipo']}): "
+        f"{item.get('ref') or item.get('capa_titulo')}")
+    res = reels.montar_reel(item, cfg["marca_handle"], outdir)
+    log(f"render ok: {res['arquivo']} "
+        f"({res['arquivo'].stat().st_size / 1e6:.1f} MB, {res['duracao_s']}s)")
 
     caption = legenda.montar_caption(
-        item["ref_disp"], item["texto"], cfg["ponte_bio"],
-        cfg["assinatura"], st["dia"]["n"] if st["dia"]["data"] == hoje else 0)
+        res["ref_disp"], res["texto"], cfg["ponte_bio"], cfg["assinatura"],
+        st["dia"]["n"] if st["dia"]["data"] == hoje else 0, fonte=res["fonte"])
 
     if args.render_apenas:
         (outdir / "caption.txt").write_text(caption, encoding="utf-8")
@@ -309,9 +336,9 @@ def main() -> None:
         return
 
     nome_capa = f"capa-{hoje}-{st['ponteiro']:03d}.jpg"
-    capa_url = hospedar_no_release(cfg, item["capa"], nome_capa)
+    capa_url = hospedar_no_release(cfg, res["capa"], nome_capa)
     nome_asset = f"reel-{hoje}-{st['ponteiro']:03d}.mp4"
-    video_url = hospedar_no_release(cfg, item["arquivo"], nome_asset)
+    video_url = hospedar_no_release(cfg, res["arquivo"], nome_asset)
     log(f"vídeo hospedado: {video_url}")
     log(f"capa hospedada: {capa_url}")
 
@@ -323,10 +350,12 @@ def main() -> None:
                  "n": (st["dia"]["n"] if st["dia"]["data"] == hoje else 0) + 1}
     st["ultimo"] = agora.isoformat(timespec="seconds")
     st["publicados"].append({
-        "ref": ref, "media_id": media_id,
+        "tipo": item["tipo"],
+        "ref": item.get("ref") or item.get("slug"),
+        "media_id": media_id,
         "em": agora.isoformat(timespec="seconds")})
     gravar(STATE, st)
-    registrar(item["ref_disp"], media_id, cfg["conta"])
+    registrar(res["ref_disp"], media_id, cfg["conta"])
 
     try:
         limpar_assets_antigos(cfg)

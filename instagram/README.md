@@ -34,10 +34,22 @@ baixo faz o alcance DESPENCAR. Pesquisa (24/07): 3–5 Reels/semana já cresce;
 
 50% decidem em 1,7s; o hold dos 3 primeiros segundos separa Reel que alcança
 5–10× do que morre. Por isso cada Reel abre com um **GANCHO falado+escrito no
-1º segundo** (`GANCHOS_VIDEO` em `reels.py`) ANTES do versículo, e **sem abertura
-no preto** (`fade_in=0` no `render_short`) — o 1º frame já é o gancho, não uma
-tela preta. Próximo passo (a fazer): variar o formato — mini-histórias bíblicas,
-gancho-dor ("Se você está com medo, Deus diz isto") e orações.
+1º segundo** (`GANCHOS_VIDEO` em `reels.py`) ANTES do conteúdo, e **sem abertura
+no preto** (`fade_in=0` no `render_short`) — o 1º frame já é o gancho.
+
+**Formatos giram por post** (história e oração puxam save/share mais que
+versículo solto — o que mais faz o perfil crescer). Rotação determinística
+`TEMPLATE_FORMATOS` no `publicar_ig.py` — 7 slots: 5 versículos, 1 oração,
+1 história:
+
+| Formato | Banco | O quê |
+|---|---|---|
+| versículo | `versiculos.json` | gancho + versículo (Bíblia Livre) |
+| história | `historias.json` | gancho narrativo ("Davi era pequeno, Golias um gigante") + passagem do clímax (Bíblia Livre); capa com o nome da história |
+| oração | `oracoes.json` | oração curta ORIGINAL nossa (texto próprio, sem copyright — leve relaxamento da regra "só texto bíblico", combinado, para crescer) |
+
+Para adicionar história/oração: editar o JSON (histórias precisam de `ref`
+válida na Bíblia Livre — validar como os versículos).
 
 Os posts são espalhados pela **janela 11h–02h UTC** (≈ 08h–23h de Brasília,
 quando o público brasileiro está ativo), com intervalo mínimo entre eles.
