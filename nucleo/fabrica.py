@@ -33,8 +33,13 @@ CICLOS_DORMIR = 2       # repetições NARRADAS (dão variação de legenda/imag
 # upload grande não for validado ponta a ponta — reabastecer com vídeo de
 # 62 min antes disso é trocar frequência (o que o Diego pediu) por ambição.
 # Crescer daqui só depois de um teste manual de upload grande dar certo.
-ALVO_MIN = {"dormir": 26, "tema": 22, "historia": 20}
-TETO_REPETICOES = 4
+# Alvo de minutos por formato. "dormir" mira o padrão do nicho (60 min+; o
+# campeão tem 228). "tema" cresce moderado. "historia" fica na duração natural
+# (alvo 0 = sem repetição): repetir uma narrativa como Davi e Golias soa
+# estranho, ao contrário de repetir salmos para dormir.
+ALVO_MIN = {"dormir": 60, "tema": 30, "historia": 0}
+TETO_REPETICOES = 12    # guarda contra runaway; quem manda é ALVO_MIN
+                        # (nicho chega a 91 repetições — 12 é folga sã)
 SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s (modo antigo)
 # Fundo do vídeo longo: UMA imagem escura e parada, em vez da sequência com
 # Ken Burns. Decisão de 24/07/2026, depois de olhar os dois líderes de "salmos
@@ -175,6 +180,36 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     }
 
 
+_PALAVRAS_POR_S = 2.3   # voz longa a -15% ≈ 2,3 palavras/s (só p/ estimar)
+
+
+def _estimar_min(idioma: str, refs: list[str]) -> float:
+    total = 0.0
+    for ref in refs:
+        for _, texto in biblia.carregar_versos(idioma, ref):
+            total += len(texto.split()) / _PALAVRAS_POR_S + PAUSA_VERSO
+    return (total + CAUDA_LONGO) / 60
+
+
+def _estender_para_alvo(idioma: str, base: list[str], alvo_min: int) -> list[str]:
+    """Repete o ciclo de passagens do tema até bater o alvo de minutos.
+
+    Isto é o oposto do concat -c copy que quebrou em 20/07: lá o MESMO MP4 era
+    colado por cópia (DTS não monotônico, YouTube rejeitava); aqui as passagens
+    são NARRADAS de novo, gerando áudio/legenda contínuos e um arquivo válido.
+    Repetir os salmos do tema a noite toda é o formato do nicho ("Salmo 91 91
+    vezes", 48M views), não enchimento. Teto de TETO_REPETICOES ciclos evita
+    um vídeo fora de escala se o tema já for longo.
+    """
+    if not base:
+        return base
+    por_ciclo = _estimar_min(idioma, base)
+    if por_ciclo <= 0:
+        return base
+    ciclos = max(1, min(TETO_REPETICOES, math.ceil(alvo_min / por_ciclo)))
+    return base * ciclos
+
+
 def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
                  afiliado: str = "") -> dict:
     cfg = idiomas.CONFIG[idioma]
@@ -187,11 +222,12 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     # trabalha com leituras longas (o público deixa rolando). Além disso vídeo
     # mais longo rende mais: acima de 8 min o YouTube libera anúncio no meio, e
     # o consumo em TV (hoje a maior tela da plataforma) premia vídeo longo.
-    # Por isso o formato "dormir" repete o ciclo de passagens até passar de
-    # MIN_LONGO_S. Repetir aqui é fiel ao gênero, não enchimento.
+    # Cada formato tem um alvo de minutos (ALVO_MIN); o ciclo de passagens é
+    # repetido (narrado de novo, não colado) até chegar perto dele.
     refs = list(longo["refs"])
-    if pacote.get("formato") == "dormir":
-        refs = refs * CICLOS_DORMIR
+    alvo = ALVO_MIN.get(pacote.get("formato", ""), 0)
+    if alvo:
+        refs = _estender_para_alvo(idioma, refs, alvo)
     todos_versos: list[tuple[int, str]] = []
     limites: list[tuple[str, int]] = []  # (ref, nº de versos)
     for ref in refs:
