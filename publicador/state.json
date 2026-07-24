@@ -427,12 +427,19 @@
           "video_id": "XEJAqCz-w-4",
           "titulo": "Mateus 6 — Olhai para as aves do céu | Bíblia",
           "em": "2026-07-24T12:16:20+00:00"
+        },
+        {
+          "pacote": "2026-07-24-ansiedade-descanso",
+          "item": "short-2",
+          "video_id": "6jkdsd7Au2w",
+          "titulo": "Filipenses 4 — Não estejais inquietos por coisa alguma",
+          "em": "2026-07-24T20:12:26+00:00"
         }
       ],
-      "ultimo_short": "2026-07-24T12:16:20+00:00",
+      "ultimo_short": "2026-07-24T20:12:26+00:00",
       "shorts_dia": {
         "data": "2026-07-24",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-24"
     }

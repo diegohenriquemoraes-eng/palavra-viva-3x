@@ -454,3 +454,11 @@
 - Item: short-1 — Matthew 6:25-27
 - Duração: 31.9s
 - Publicado em: 2026-07-24T15:26:47+00:00
+
+## [pt] 6jkdsd7Au2w — Filipenses 4 — Não estejais inquietos por coisa alguma
+
+- URL: https://youtu.be/6jkdsd7Au2w
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Filipenses 4:6-7
+- Duração: 19.8s
+- Publicado em: 2026-07-24T20:12:26+00:00
