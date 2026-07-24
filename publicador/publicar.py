@@ -236,6 +236,7 @@ def main() -> None:
         return
     LOCK.write_text(str(os.getpid()), encoding="utf-8")
     falhas_longo: list[str] = []
+    falhas_canal: list[str] = []
     try:
         for idioma, canal_cfg in config["canais"].items():
             if args.canal and idioma != args.canal:
@@ -304,26 +305,47 @@ def main() -> None:
             # SystemExit (via raise SystemExit), que NÃO é subclasse de
             # Exception — por isso o fallback não pegava a falha do longo em
             # 20/07 e o Short não saía. KeyboardInterrupt segue propagando.
+            # Isolamento por canal: a falha de UM canal (ex.: token revogado,
+            # como o EN em 24/07) não pode abortar o loop e calar os canais
+            # seguintes. Antes, um Short que falhava fazia `raise` e derrubava
+            # a execução inteira — como a ordem é es→en→pt, um EN morto deixava
+            # o PT (que vem depois) sem publicar em toda execução. Cada canal é
+            # independente; a falha é registrada e a execução segue.
             try:
-                render_e_publica(tipo)
+                try:
+                    render_e_publica(tipo)
+                except KeyboardInterrupt:
+                    raise
+                except BaseException as exc:
+                    if tipo != "longo":
+                        raise
+                    log(f"[{idioma}] LONGO FALHOU ({exc!r}); caindo para Short "
+                        f"nesta execução. O longo será tentado na próxima hora.")
+                    falhas_longo.append(idioma)
+                    render_e_publica("short")
             except KeyboardInterrupt:
                 raise
             except BaseException as exc:
-                if tipo != "longo":
-                    raise
-                log(f"[{idioma}] LONGO FALHOU ({exc!r}); caindo para Short "
-                    f"nesta execução. O longo será tentado na próxima hora.")
-                falhas_longo.append(idioma)
-                render_e_publica("short")
+                log(f"[{idioma}] CANAL FALHOU nesta execução ({exc!r}); "
+                    f"seguindo para o próximo canal.")
+                falhas_canal.append(idioma)
+                continue
     finally:
         LOCK.unlink(missing_ok=True)
 
-    # Sair com erro faz o GitHub avisar por e-mail — mas só DEPOIS de o canal
-    # ter publicado o Short. Falha visível, canal vivo.
-    if falhas_longo:
-        raise SystemExit(
-            f"Render do vídeo longo falhou em: {', '.join(falhas_longo)}. "
-            f"Os Shorts foram publicados normalmente.")
+    # Sair com erro faz o GitHub avisar por e-mail — mas só DEPOIS de os demais
+    # canais terem publicado. Falha visível, canais vivos.
+    if falhas_longo or falhas_canal:
+        partes: list[str] = []
+        if falhas_longo:
+            partes.append(
+                f"Render do vídeo longo falhou em: {', '.join(falhas_longo)} "
+                f"(os Shorts foram publicados normalmente)")
+        if falhas_canal:
+            partes.append(
+                f"Canal falhou por completo em: {', '.join(falhas_canal)} "
+                f"(os demais canais publicaram normalmente)")
+        raise SystemExit(". ".join(partes) + ".")
 
 
 if __name__ == "__main__":
