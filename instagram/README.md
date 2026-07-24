@@ -38,10 +38,22 @@ oposto de "não flopar". Por isso a conta **aquece**:
 Os posts são espalhados pela **janela 11h–02h UTC** (≈ 08h–23h de Brasília,
 quando o público brasileiro está ativo), com intervalo mínimo entre eles.
 
-## O único passo humano: ligar a API (uma vez)
+## Estado: NO AR desde 24/07/2026
+
+App Meta **Palavra Viva Reels** (id 1717198369563451) com "API com login do
+Instagram", conta @palavravivadiaria.biblia como Testadora do Instagram,
+token de longa duração (60d) com `instagram_business_content_publish`. Secrets
+`IG_USER_ID` (28170980895840901, o id de `graph.instagram.com/me`) e
+`IG_ACCESS_TOKEN` gravados. 1º Reel publicado no teste: Salmo 23:1-4.
+
+> **Endpoint:** como é *login do Instagram*, o pipeline usa **graph.instagram.com**
+> (não graph.facebook.com) e o IG_USER_ID é o id de `/me` (28170...), não o
+> número que o painel mostra (17841...). Cota de publicação medida: 100/24h.
+
+## Como foi ligado (referência, caso precise refazer)
 
 Igual ao token do YouTube, a publicação automática precisa de credenciais que
-só você pode gerar (exigem consentimento e login). Sem elas o pipeline já roda,
+só o dono pode gerar (exigem consentimento e login). Sem elas o pipeline roda
 mas **renderiza e não publica** — some os vídeos, sem tocar na conta.
 
 1. **Conta profissional** (pré-requisito da API): no app do Instagram →
