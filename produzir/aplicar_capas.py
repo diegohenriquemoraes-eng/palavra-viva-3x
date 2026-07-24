@@ -26,10 +26,19 @@ from nucleo import idiomas, thumbnail, youtube_api  # noqa: E402
 
 STATE = RAIZ / "publicador" / "state.json"
 TEMAS = RAIZ / "conteudo" / "temas.json"
-CREDS = {
+# No runner (workflow Aplicar capas) as credenciais vêm dos Secrets para
+# credenciais/<idioma>/; no PC do Diego os canais antigos ainda moram nas
+# pastas dos repos aposentados. Quem existir primeiro vale — sem isto o script
+# simplesmente PULA o canal e imprime "0/0", que parece sucesso e não é.
+LEGADO = {
     "es": Path(r"C:\Users\NOTE\Desktop\Projetos\Palabra-Viva\youtube-api"),
     "en": Path(r"C:\Users\NOTE\Desktop\Projetos\Corte-em-Pauta\youtube-api"),
-    "pt": RAIZ / "credenciais" / "pt",
+}
+CREDS = {
+    idioma: (RAIZ / "credenciais" / idioma
+             if (RAIZ / "credenciais" / idioma / "token.json").exists()
+             else LEGADO.get(idioma, RAIZ / "credenciais" / idioma))
+    for idioma in ("es", "en", "pt")
 }
 
 
