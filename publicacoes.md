@@ -398,3 +398,19 @@
 - Item: short-3 — 1 Coríntios 13:4-8
 - Duração: 35.5s
 - Publicado em: 2026-07-23T22:55:58+00:00
+
+## [es] 0-zLBmDVsA4 — No Te Afanes por Nada — Mateo 6 y Filipenses 4 | Paz para el Alma
+
+- URL: https://youtu.be/0-zLBmDVsA4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Mateo 6:25-34, Mateo 11:25-30, Filipenses 4:4-9, 1 Pedro 5:6-11, Salmo 55:16-22, Salmo 37:1-9
+- Duração: 459.1s
+- Publicado em: 2026-07-24T01:59:09+00:00
+
+## [en] AbEZwX4CzQ4 — Do Not Be Anxious — Matthew 6 & Philippians 4 | Bible for Peace
+
+- URL: https://youtu.be/AbEZwX4CzQ4
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — Matthew 6:25-34, Matthew 11:25-30, Philippians 4:4-9, 1 Peter 5:6-11, Psalm 55:16-22, Psalm 37:1-9
+- Duração: 472.9s
+- Publicado em: 2026-07-24T02:09:17+00:00
