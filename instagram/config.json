@@ -1,0 +1,21 @@
+{
+  "conta": "palavravivadiaria.biblia",
+  "inicio": "2026-07-24",
+  "graph_version": "v21.0",
+  "release_tag": "reels-media",
+
+  "agenda_rampa": [
+    { "ate_dia": 7,     "por_dia": 3 },
+    { "ate_dia": 14,    "por_dia": 5 },
+    { "ate_dia": 21,    "por_dia": 7 },
+    { "ate_dia": 99999, "por_dia": 8 }
+  ],
+
+  "janela_utc": { "ini": 11, "fim": 26 },
+  "gap_min_piso": 90,
+  "cap_diario_absoluto": 10,
+
+  "marca_handle": "@palavravivadiaria.biblia",
+  "ponte_bio": "🔗 Bíblias e presentes de fé no link da bio.",
+  "assinatura": "📖 Palavra Viva Diária — um versículo todo dia."
+}
