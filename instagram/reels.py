@@ -21,6 +21,8 @@ sys.path.insert(0, str(RAIZ))
 
 from nucleo import biblia, idiomas, imagens, legendas, render, tts  # noqa: E402
 
+from instagram import capa  # noqa: E402
+
 CAUDA = 1.2
 MIN_REEL_S = 15.0        # abaixo disto o versículo é narrado 2x (formato do nicho)
 PAUSA_REPETICAO = 1.6
@@ -29,6 +31,19 @@ IDIOMA = "pt"
 
 def _seed(ref: str, extra: str) -> int:
     return zlib.crc32(f"{ref}-{extra}".encode()) % 999_983
+
+
+def _gancho(texto: str) -> str:
+    """1ª frase do versículo, para a capa. Corta na pontuação forte, senão na
+    vírgula, senão em ~70 caracteres — sempre em limite de palavra."""
+    for sep in (". ", "; ", "! ", "? "):
+        i = texto.find(sep)
+        if 0 < i <= 80:
+            return texto[:i]
+    i = texto.find(", ")
+    if 40 <= i <= 80:
+        return texto[:i]
+    return texto[:70].rsplit(" ", 1)[0] if len(texto) > 70 else texto
 
 
 def _baixar_imagem(info: dict | None, destino: Path) -> Path | None:
@@ -85,8 +100,14 @@ def montar_reel(ref: str, marca: str, outdir: Path) -> dict:
     video = render.render_short(outdir, Path(mp3).name, "legenda.ass", img, dur,
                                 _seed(ref, "reel"), saida="reel.mp4")
 
+    # Capa DESENHADA: o vídeo abre no preto (fade-in), então sem uma capa
+    # própria o Instagram pega um frame preto. Enviada como cover_url.
+    capa_img = capa.gerar_capa(biblia.cabecalho(IDIOMA, ref), _gancho(texto),
+                               outdir / "capa.jpg", _seed(ref, "capa"))
+
     return {
         "arquivo": video,
+        "capa": capa_img,
         "ref_disp": biblia.ref_exibicao(IDIOMA, ref),
         "texto": texto,
         "duracao_s": round(dur, 1),

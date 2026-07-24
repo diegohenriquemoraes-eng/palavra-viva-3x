@@ -187,13 +187,18 @@ def dentro_do_limite(cfg: dict, ig_id: str, token: str) -> bool:
 
 
 def publicar_reel(cfg: dict, ig_id: str, token: str, video_url: str,
-                  caption: str) -> str:
-    """Cria o container REELS, espera processar e publica. Devolve o media id."""
+                  caption: str, cover_url: str = "") -> str:
+    """Cria o container REELS, espera processar e publica. Devolve o media id.
+
+    cover_url: imagem pública da capa desenhada (senão o Instagram pega um
+    frame do vídeo — que abre no preto)."""
     g = _graph(cfg)
-    r = requests.post(f"{g}/{ig_id}/media", data={
-        "media_type": "REELS", "video_url": video_url,
-        "caption": caption, "share_to_feed": "true",
-        "access_token": token}, timeout=120)
+    dados = {"media_type": "REELS", "video_url": video_url,
+             "caption": caption, "share_to_feed": "true",
+             "access_token": token}
+    if cover_url:
+        dados["cover_url"] = cover_url
+    r = requests.post(f"{g}/{ig_id}/media", data=dados, timeout=120)
     j = r.json()
     if "id" not in j:
         raise SystemExit(f"Falha ao criar container: {j}")
@@ -303,11 +308,14 @@ def main() -> None:
         log("cota de publicação do Instagram esgotada nas últimas 24h; saindo.")
         return
 
+    nome_capa = f"capa-{hoje}-{st['ponteiro']:03d}.jpg"
+    capa_url = hospedar_no_release(cfg, item["capa"], nome_capa)
     nome_asset = f"reel-{hoje}-{st['ponteiro']:03d}.mp4"
     video_url = hospedar_no_release(cfg, item["arquivo"], nome_asset)
     log(f"vídeo hospedado: {video_url}")
+    log(f"capa hospedada: {capa_url}")
 
-    media_id = publicar_reel(cfg, ig_id, token, video_url, caption)
+    media_id = publicar_reel(cfg, ig_id, token, video_url, caption, capa_url)
     log(f"PUBLICADO: https://www.instagram.com/reel/{media_id}/")
 
     # estado + registro
