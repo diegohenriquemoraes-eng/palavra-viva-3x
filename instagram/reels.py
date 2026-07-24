@@ -24,9 +24,28 @@ from nucleo import biblia, idiomas, imagens, legendas, render, tts  # noqa: E402
 from instagram import capa  # noqa: E402
 
 CAUDA = 1.2
-MIN_REEL_S = 15.0        # abaixo disto o versículo é narrado 2x (formato do nicho)
-PAUSA_REPETICAO = 1.6
+PAUSA = 0.7             # respiro entre gancho→versículo e entre repetições
+CURTO_PALAVRAS = 16    # versículo com menos palavras é narrado 2x (loop do feed)
 IDIOMA = "pt"
+
+# GANCHO falado+escrito no 1º segundo. Em 2026, 50% decidem em 1,7s e o gancho
+# dos 3 primeiros segundos é a maior alavanca de alcance (Reel com hold >60%
+# alcança 5-10x mais). O versículo entrava direto — agora entra um gancho antes.
+# Curtos de propósito (~1,5-2,5s falados). Giram por versículo, sem aleatório.
+GANCHOS_VIDEO = [
+    "Pra você que está cansado.",
+    "Se apareceu pra você, não foi por acaso.",
+    "Ouça isto antes de dormir.",
+    "Deus quer te falar agora.",
+    "Respire e leia devagar.",
+    "Guarde esta promessa no coração.",
+    "Não role sem ler isto.",
+    "A Palavra que você precisava hoje.",
+    "Uma promessa de Deus pra você.",
+    "Deixe Deus acalmar o seu coração.",
+    "Isto aqui é pra você, hoje.",
+    "Quando a ansiedade bater, lembre disto.",
+]
 
 
 def _seed(ref: str, extra: str) -> int:
@@ -70,26 +89,24 @@ def montar_reel(ref: str, marca: str, outdir: Path) -> dict:
 
     versos = biblia.carregar_versos(IDIOMA, ref)
     texto = " ".join(t for _, t in versos)
+    gancho = GANCHOS_VIDEO[_seed(ref, "hookv") % len(GANCHOS_VIDEO)]
 
-    mp3 = outdir / "voz.mp3"
-    palavras = tts.narrar(texto, cfg["voz"], cfg["rate_short"], mp3)
-    legendas.alinhar_display(texto, palavras)
-    blocos = legendas.agrupar(palavras)
-    dur = max(tts.duracao_audio(mp3), blocos[-1]["fim"]) + CAUDA
+    # Estrutura: GANCHO (1º) + versículo. Versículo curto entra 2x (loop do
+    # feed / meditação). O gancho é o que segura os 3 primeiros segundos —
+    # onde metade do público decide continuar ou rolar.
+    partes = [(0, gancho), (1, texto)]
+    if len(texto.split()) < CURTO_PALAVRAS:
+        partes.append((2, texto))
 
-    # Versículo curto rende Reel de ~9s, fino demais para o loop do feed. Nesses
-    # casos o texto é narrado DUAS vezes com pausa — repetição para meditar,
-    # formato consagrado do nicho, não enchimento (igual ao Short do YouTube).
-    if dur < MIN_REEL_S:
-        segmentos, dur_voz = tts.narrar_versos(
-            [(1, texto), (2, texto)], cfg["voz"], cfg["rate_short"],
-            PAUSA_REPETICAO, outdir / "voz.wav", outdir / "tts")
-        blocos = []
-        for seg in segmentos:
-            legendas.alinhar_display(seg["texto"], seg["palavras"])
-            blocos += legendas.agrupar(seg["palavras"])
-        mp3 = outdir / "voz.wav"
-        dur = dur_voz + CAUDA
+    voz = outdir / "voz.wav"
+    segmentos, dur_voz = tts.narrar_versos(partes, cfg["voz"], cfg["rate_short"],
+                                           PAUSA, voz, outdir / "tts")
+    dur = dur_voz + CAUDA
+
+    blocos = []
+    for seg in segmentos:
+        legendas.alinhar_display(seg["texto"], seg["palavras"])
+        blocos += legendas.agrupar(seg["palavras"])
 
     cab = biblia.cabecalho(IDIOMA, ref)
     legendas.ass_short(outdir / "legenda.ass", blocos, cab, marca, dur)
@@ -97,11 +114,11 @@ def montar_reel(ref: str, marca: str, outdir: Path) -> dict:
     da_casa = imagens.escolher_da_biblioteca(1, _seed(ref, "fundo"))
     info_img = da_casa[0] if da_casa else None
     img = _baixar_imagem(info_img, outdir / "fundo.jpg")
-    video = render.render_short(outdir, Path(mp3).name, "legenda.ass", img, dur,
-                                _seed(ref, "reel"), saida="reel.mp4")
+    # fade_in=0: o Reel abre DIRETO no gancho, sem preto no 1º frame
+    video = render.render_short(outdir, voz.name, "legenda.ass", img, dur,
+                                _seed(ref, "reel"), saida="reel.mp4", fade_in=0.0)
 
-    # Capa DESENHADA: o vídeo abre no preto (fade-in), então sem uma capa
-    # própria o Instagram pega um frame preto. Enviada como cover_url.
+    # Capa DESENHADA (cover_url): a capa da grade/feed, à parte do vídeo.
     capa_img = capa.gerar_capa(biblia.cabecalho(IDIOMA, ref), _gancho(texto),
                                outdir / "capa.jpg", _seed(ref, "capa"))
 

@@ -46,7 +46,10 @@ def _zoompan(dur: float, w: int, h: int, seed: int) -> str:
 
 
 def render_short(pasta: Path, voz: str, ass: str, imagem: Path | None,
-                 dur: float, seed: int, saida: str = "short.mp4") -> Path:
+                 dur: float, seed: int, saida: str = "short.mp4",
+                 fade_in: float = 0.4) -> Path:
+    """fade_in: duração do fade a partir do preto. 0 = sem preto (o Reel do
+    Instagram abre direto no gancho — o 1º frame decide 50% do scroll)."""
     fontsdir = _fontsdir(pasta)
     if imagem is not None:
         entrada = ["-loop", "1", "-t", f"{dur:.2f}", "-i", imagem.name]
@@ -56,9 +59,10 @@ def render_short(pasta: Path, voz: str, ass: str, imagem: Path | None,
                    (f"gradients=s=1080x1920:c0=0x0B1230:c1=0x1B0F3B:c2=0x2A1450:"
                     f"nb_colors=3:seed={seed}:speed=0.015:r={FPS}:d={dur:.2f}")]
         fundo = "null"
+    entra = f"fade=t=in:st=0:d={fade_in:.2f}," if fade_in > 0 else ""
     filtro = (
         f"[0:v]{fundo},ass={ass}:fontsdir='{fontsdir}',"
-        f"fade=t=in:st=0:d=0.4,fade=t=out:st={dur - 0.6:.2f}:d=0.6,"
+        f"{entra}fade=t=out:st={dur - 0.6:.2f}:d=0.6,"
         f"format=yuv420p[v];[1:a]apad=whole_dur={dur:.2f}[a]"
     )
     _run(["ffmpeg", "-y", "-loglevel", "error", *entrada, "-i", voz,

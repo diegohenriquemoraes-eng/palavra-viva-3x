@@ -12,28 +12,32 @@ pregação, imagem CC0/PD ou gradiente, sem música de terceiros).
 
 ## Frequência — por que começa em 3/dia e sobe até 8
 
-A conta é **nova** (perfil reaproveitado, ~14 seguidores). Em conta fria, o
-erro clássico é despejar 10 posts/dia logo de cara: o Instagram de 2026 mede
-**qualidade de engajamento** (watch-through, salvamentos, compartilhamentos,
-comentários), e volume alto com engajamento baixo faz o alcance DESPENCAR — o
-oposto de "não flopar". Por isso a conta **aquece**:
+A conta é **nova** (perfil reaproveitado, ~14 seguidores). **Volume não é o
+gargalo — qualidade é.** O Instagram de 2026 mede engajamento (watch-through,
+salvamentos, compartilhamentos), e conta fria postando muito com engajamento
+baixo faz o alcance DESPENCAR. Pesquisa (24/07): 3–5 Reels/semana já cresce;
+3/dia é o teto seguro de conta nova; **melhor 3–4 Reels BONS que 8 medíocres.**
 
 | Fase | Reels/dia |
 |---|---|
-| Dias 1–7   | 3 |
-| Dias 8–14  | 5 |
-| Dias 15–21 | 7 |
-| Dia 22+    | 8 |
+| Dias 1–10 | 3 |
+| Dia 11+   | 4 |
 
-- **Teto real da API**: a Graph API permite ~25 publicações/24h por conta
-  (Reels contam no mesmo balde). Estamos muito abaixo — o limite aqui é a
-  **saúde do algoritmo**, não a cota.
-- **8/dia** é o teto recomendado para conta aquecida e sem rosto. Dá para
-  chegar a 10, mas acima disso o risco de o feed marcar a conta como
-  "produtora de filler" cresce mais que o alcance ganho.
-- Tudo é **trivialmente ajustável** em `config.json` (`agenda_rampa`). Para ir
-  direto a mais, é só editar e dar push — mas o recomendado é deixar a rampa
-  correr.
+- **Teto técnico (bloqueio):** a API oficial permite ~**100/24h** (Reels+Stories
+  no mesmo balde), com afunilamento relatado a partir de ~50. Como publicamos
+  pela API oficial (não por bot de like/follow), risco de *ban* é baixo — o que
+  causa shadowban é automação de ENGAJAMENTO, não volume de posts.
+- **Teto estratégico:** ~4/dia. Dobrar o volume com Reel fraco divide o alcance,
+  não soma seguidores. Ajustável em `config.json` (`agenda_rampa`).
+
+## Qualidade — o gancho é a maior alavanca
+
+50% decidem em 1,7s; o hold dos 3 primeiros segundos separa Reel que alcança
+5–10× do que morre. Por isso cada Reel abre com um **GANCHO falado+escrito no
+1º segundo** (`GANCHOS_VIDEO` em `reels.py`) ANTES do versículo, e **sem abertura
+no preto** (`fade_in=0` no `render_short`) — o 1º frame já é o gancho, não uma
+tela preta. Próximo passo (a fazer): variar o formato — mini-histórias bíblicas,
+gancho-dor ("Se você está com medo, Deus diz isto") e orações.
 
 Os posts são espalhados pela **janela 11h–02h UTC** (≈ 08h–23h de Brasília,
 quando o público brasileiro está ativo), com intervalo mínimo entre eles.
