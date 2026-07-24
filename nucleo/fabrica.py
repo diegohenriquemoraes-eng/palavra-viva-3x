@@ -35,7 +35,14 @@ CICLOS_DORMIR = 2       # repetições NARRADAS (dão variação de legenda/imag
 # Crescer daqui só depois de um teste manual de upload grande dar certo.
 ALVO_MIN = {"dormir": 26, "tema": 22, "historia": 20}
 TETO_REPETICOES = 4
-SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s
+SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s (modo antigo)
+# Fundo do vídeo longo: UMA imagem escura e parada, em vez da sequência com
+# Ken Burns. Decisão de 24/07/2026, depois de olhar os dois líderes de "salmos
+# para dormir" em português — nenhum dos dois anima imagem (um é tela preta
+# pura), e ambos queimam o versículo no rodapé. Além de ser o formato do nicho,
+# é o que cabe no runner: a versão com imagens renderiza um clipe com zoompan
+# por imagem (30 numa hora de vídeo), e é esse custo que prendia a duração.
+FUNDO_ESTATICO_LONGO = True
 
 
 def _seed(pacote: dict, extra: str) -> int:
@@ -217,9 +224,12 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
             "ref": ref,
         })
     legendas.ass_longo(outdir / "legenda.ass", secoes, marca, dur)
+    srt = outdir / "legenda.srt"
+    legendas.srt_longo(srt, secoes)
 
-    # 3) imagens (mesmas nos 3 idiomas; fallback = gradiente da casa)
-    n_alvo = max(6, min(30, math.ceil(dur / SEG_POR_IMAGEM)))
+    # 3) fundo. UMA imagem parada e escura (FUNDO_ESTATICO_LONGO) — é o que os
+    # líderes do nicho fazem e é o que torna a hora de duração viável no runner.
+    n_alvo = 1 if FUNDO_ESTATICO_LONGO else max(6, min(30, math.ceil(dur / SEG_POR_IMAGEM)))
     baixadas: list[Path] = []
     usadas_info: list[dict] = []
     # biblioteca curada primeiro; o que o pacote resolveu na busca é reserva
@@ -250,8 +260,13 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     # mais longa), testado à mão antes de virar padrão. Reliabilidade primeiro.
     pad = outdir / "pad.wav"
     musica.gerar_pad(dur, _seed(pacote, "pad"), pad)
-    video = render.render_longo(outdir, "voz.wav", "pad.wav", "legenda.ass",
-                                lista, dur, _seed(pacote, "longo"))
+    if FUNDO_ESTATICO_LONGO:
+        video = render.render_longo_estatico(
+            outdir, "voz.wav", "pad.wav", "legenda.ass",
+            lista[0] if lista else None, dur, _seed(pacote, "longo"))
+    else:
+        video = render.render_longo(outdir, "voz.wav", "pad.wav", "legenda.ass",
+                                    lista, dur, _seed(pacote, "longo"))
 
     # 5) thumbnail localizada
     thumb = outdir / "thumb.jpg"
@@ -288,6 +303,7 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
         "descricao": descricao,
         "tags": cfg["tags"],
         "thumb": thumb,
+        "legenda_srt": srt,
         "duracao_s": round(dur, 1),
         "referencia": ", ".join(biblia.ref_exibicao(idioma, r)
                                 for r in longo["refs"]),

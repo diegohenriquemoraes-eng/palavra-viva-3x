@@ -225,3 +225,21 @@ def definir_thumbnail(youtube, video_id: str, thumb: Path) -> None:
         videoId=video_id,
         media_body=MediaFileUpload(str(thumb), mimetype="image/jpeg"),
     ).execute()
+
+
+def enviar_legenda(youtube, video_id: str, srt: Path, idioma_bcp47: str,
+                   nome: str = "") -> str:
+    """Sobe o .srt como faixa de legenda do vídeo. Custa 400 de cota.
+
+    A legenda queimada no vídeo é imagem — a busca do YouTube não lê nada dela.
+    Esta faixa é o texto que a plataforma indexa, e é dela que sai a tradução
+    automática para outros idiomas. Como o texto e os tempos já existem para
+    queimar, o único custo é a cota.
+    """
+    resp = youtube.captions().insert(
+        part="snippet",
+        body={"snippet": {"videoId": video_id, "language": idioma_bcp47,
+                          "name": nome, "isDraft": False}},
+        media_body=MediaFileUpload(str(srt), mimetype="application/octet-stream"),
+    ).execute()
+    return resp["id"]

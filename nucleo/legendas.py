@@ -107,6 +107,33 @@ def ass_short(path: Path, blocos: list[dict], cabecalho: str, marca: str,
     path.write_text("".join(linhas), encoding="utf-8-sig")
 
 
+def _ts_srt(seg: float) -> str:
+    h = int(seg // 3600)
+    m = int(seg % 3600 // 60)
+    s = int(seg % 60)
+    ms = int(round((seg - int(seg)) * 1000))
+    return f"{h:02d}:{m:02d}:{s:02d},{ms:03d}"
+
+
+def srt_longo(path: Path, secoes: list[dict]) -> None:
+    """Mesma legenda do vídeo, em .srt, para subir como faixa de legenda.
+
+    A legenda queimada é PIXEL: o YouTube não lê o que está nela. Quem indexa
+    (busca, sugestão, tradução automática) é a faixa de legenda enviada pela
+    API. Como o texto e os tempos já existem para queimar, gerar o .srt sai
+    de graça — o custo é só a cota de captions.insert na publicação.
+    """
+    linhas, n = [], 0
+    for s in secoes:
+        for b in s["blocos"]:
+            if b["fim"] <= b["ini"]:
+                continue
+            n += 1
+            linhas.append(f"{n}\n{_ts_srt(b['ini'])} --> {_ts_srt(b['fim'])}\n"
+                          f"{b['texto']}\n\n")
+    path.write_text("".join(linhas), encoding="utf-8")
+
+
 def ass_longo(path: Path, secoes: list[dict], marca: str, dur: float) -> None:
     """secoes: [{"cabecalho": str, "ini": s, "fim": s, "blocos": [...]}]"""
     linhas = [_ESTILOS_LONGO]

@@ -69,6 +69,56 @@ def render_short(pasta: Path, voz: str, ass: str, imagem: Path | None,
     return pasta / saida
 
 
+FPS_ESTATICO = 15      # tela parada não precisa de 30 fps: metade dos frames,
+                       # metade do tempo de encode, nenhum prejuízo visível
+
+
+def render_longo_estatico(pasta: Path, voz_wav: str, pad_wav: str, ass: str,
+                          imagem: Path | None, dur: float, seed: int,
+                          saida: str = "longo.mp4") -> Path:
+    """Longo com fundo ESCURO e parado + legenda queimada — o formato do nicho.
+
+    Conferido em 24/07/2026 nos dois líderes de "salmos para dormir" em
+    português: "Salmo 91 91 vezes" (48M views, 3h48) é tela preta com o
+    versículo no rodapé, e "Os 6 Salmos mais poderosos" (10,5M, 3h16) é fundo
+    escuro quase imóvel com o versículo no rodapé. Ninguém anima imagem: quem
+    põe para dormir não quer o quarto piscando.
+
+    Para nós, a economia é o que destrava a duração. O caminho com imagens
+    renderiza um clipe com zoompan por imagem (30 deles numa hora de vídeo);
+    aqui é UMA passada, sem zoompan, a 15 fps e com -tune stillimage.
+    """
+    fontsdir = _fontsdir(pasta)
+    if imagem is not None:
+        entrada = ["-loop", "1", "-framerate", str(FPS_ESTATICO),
+                   "-t", f"{dur:.2f}", "-i", imagem.name]
+        # a imagem entra bem escura: é fundo de quarto no escuro, não paisagem
+        fundo = (f"scale=1920:1080:force_original_aspect_ratio=increase,"
+                 f"crop=1920:1080,eq=brightness=-0.34:saturation=0.7,"
+                 f"vignette=PI/4,fps={FPS_ESTATICO}")
+    else:
+        entrada = ["-f", "lavfi", "-i",
+                   f"color=c=0x05070F:s=1920x1080:r={FPS_ESTATICO}:d={dur:.2f}"]
+        fundo = "null"
+    filtro = (
+        f"[0:v]{fundo},ass={ass}:fontsdir='{fontsdir}',"
+        f"fade=t=in:st=0:d=1.0,fade=t=out:st={dur - 2.0:.2f}:d=2.0,"
+        f"format=yuv420p[v];"
+        f"[1:a]apad=whole_dur={dur:.2f},volume=1.0[nar];"
+        f"[2:a]apad=whole_dur={dur:.2f},volume=0.55[pad];"
+        f"[nar][pad]amix=inputs=2:duration=first:normalize=0,"
+        f"afade=t=out:st={dur - 3.0:.2f}:d=3.0[a]"
+    )
+    _run(["ffmpeg", "-y", "-loglevel", "error", *entrada,
+          "-i", voz_wav, "-i", pad_wav,
+          "-filter_complex", filtro, "-map", "[v]", "-map", "[a]",
+          "-t", f"{dur:.2f}", "-c:v", "libx264", "-preset", "veryfast",
+          "-tune", "stillimage", "-crf", "24", "-g", str(FPS_ESTATICO * 10),
+          "-c:a", "aac", "-b:a", "160k",
+          "-movflags", "+faststart", saida], pasta)
+    return pasta / saida
+
+
 def render_longo(pasta: Path, voz_wav: str, pad_wav: str, ass: str,
                  imagens: list[Path], dur: float, seed: int,
                  saida: str = "longo.mp4") -> Path:

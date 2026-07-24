@@ -152,6 +152,17 @@ def publicar_item(idioma: str, canal_cfg: dict, config: dict, item: dict,
             log(f"[{idioma}] thumbnail não aplicada ({exc}); seguindo. "
                 f"Canal precisa de verificação por telefone em "
                 f"youtube.com/verify_phone_number")
+    # Faixa de legenda (.srt): é o texto que a busca do YouTube lê — a legenda
+    # queimada é pixel. Custa 400 de cota e, como tudo que é acessório aqui,
+    # não pode derrubar a publicação se falhar.
+    if item.get("legenda_srt"):
+        try:
+            youtube_api.enviar_legenda(youtube, video_id, item["legenda_srt"],
+                                       idiomas.CONFIG[idioma]["bcp47"])
+            log(f"[{idioma}] legenda enviada")
+        except Exception as exc:
+            log(f"[{idioma}] legenda não enviada ({str(exc)[:120]}); seguindo.")
+
     youtube_api.tornar_publico(youtube, video_id, info)
     log(f"[{idioma}] PUBLICADO: https://youtu.be/{video_id}")
 

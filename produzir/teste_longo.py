@@ -163,6 +163,15 @@ def main() -> None:
         except Exception as exc:
             print(f"capa falhou: {str(exc)[:120]}")
 
+    if item.get("legenda_srt"):
+        try:
+            youtube_api.enviar_legenda(youtube, video_id,
+                                       Path(item["legenda_srt"]),
+                                       idiomas.CONFIG[idioma]["bcp47"])
+            print("legenda .srt enviada")
+        except Exception as exc:
+            print(f"legenda falhou: {str(exc)[:120]}")
+
     print(f"\nRESUMO {args.alvo_min} min: render {t_render/60:.1f} + upload "
           f"{t_upload/60:.1f} + processamento {t_proc/60:.1f} = "
           f"{(t_render+t_upload+t_proc)/60:.1f} min | {mb:.0f} MB | {estado}")

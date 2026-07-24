@@ -37,8 +37,9 @@ Diferença-chave vs. o pipeline antigo: a fila NÃO guarda MP4. O repo é públi
 | 4 uploads x 1600 | 6.400 |
 | tornar público (4 x 50) | 200 |
 | thumbnail do longo | 50 |
+| legenda .srt do longo (captions.insert) | 400 |
 | playlist, channels.list, polling de processamento | ~90–230 |
-| **total** | **~6.800 de 10.000** |
+| **total** | **~7.200 de 10.000** |
 
 Sobra para **dois envios de reserva** — o que cobre um vídeo que falhe depois
 de subir e seja reenviado. Era 4 Shorts + 1 longo (~8.400, folga de um envio
@@ -60,6 +61,13 @@ NUNCA subir para 6 uploads/dia sem aumento de cota aprovado pelo Google.
 2. Shorts sem música. Longos só com o pad ambiente PROCEDURAL
    (`nucleo/musica.py`) — sintetizado por nós, zero risco de claim. Nunca
    biblioteca de música de terceiros.
+2b. **Longo = fundo escuro PARADO + legenda queimada** (`FUNDO_ESTATICO_LONGO`
+   em `fabrica.py`). Conferido em 24/07/2026 nos dois líderes de "salmos para
+   dormir" em pt: nenhum anima imagem — um é tela preta pura — e ambos queimam
+   o versículo no rodapé. Quem põe para dormir não quer o quarto piscando. Além
+   de ser o formato do nicho, é o que libera a duração: a versão com Ken Burns
+   renderiza um clipe por imagem (30 numa hora). O mesmo texto também sobe como
+   faixa `.srt` — a legenda queimada é pixel, e é a faixa que a busca indexa.
 3. Imagens só CC0/domínio público (Openverse), resolvidas no pacote; qualquer
    falha cai no gradiente da casa. Nunca imagem de banco pago/"grátis com
    atribuição obrigatória" sem gravar a atribuição.
