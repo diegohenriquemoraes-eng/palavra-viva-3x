@@ -422,3 +422,11 @@
 - Item: longo — Mateus 6:25-34, Mateus 11:25-30, Filipenses 4:4-9, 1 Pedro 5:6-11, Salmo 55:16-22, Salmo 37:1-9
 - Duração: 1943.7s
 - Publicado em: 2026-07-24T05:30:05+00:00
+
+## [es] nYYTOz-7gcA — Mateo 6 — Mirad las aves del cielo | Biblia
+
+- URL: https://youtu.be/nYYTOz-7gcA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Mateo 6:25-27
+- Duração: 33.0s
+- Publicado em: 2026-07-24T08:09:36+00:00

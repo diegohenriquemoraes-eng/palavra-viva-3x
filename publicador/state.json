@@ -148,12 +148,19 @@
           "video_id": "0-zLBmDVsA4",
           "titulo": "No Te Afanes por Nada — Mateo 6 y Filipenses 4 | Paz para el Alma",
           "em": "2026-07-24T01:59:09+00:00"
+        },
+        {
+          "pacote": "2026-07-24-ansiedade-descanso",
+          "item": "short-1",
+          "video_id": "nYYTOz-7gcA",
+          "titulo": "Mateo 6 — Mirad las aves del cielo | Biblia",
+          "em": "2026-07-24T08:09:36+00:00"
         }
       ],
-      "ultimo_short": "2026-07-23T22:53:26+00:00",
+      "ultimo_short": "2026-07-24T08:09:36+00:00",
       "shorts_dia": {
-        "data": "2026-07-23",
-        "n": 3
+        "data": "2026-07-24",
+        "n": 1
       },
       "longo_data": "2026-07-24"
     },
