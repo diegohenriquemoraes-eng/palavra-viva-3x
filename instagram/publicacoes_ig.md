@@ -10,3 +10,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/17980249677049412/
 - Publicado em: 2026-07-24T17:17:46+00:00
+
+## 18223231291323971 — Salmo 27:1
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/18223231291323971/
+- Publicado em: 2026-07-24T18:28:31+00:00
