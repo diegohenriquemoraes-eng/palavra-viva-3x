@@ -28,9 +28,18 @@ STATE = RAIZ / "publicador" / "state.json"
 CONFIG = RAIZ / "publicador" / "config.json"
 TEMAS = RAIZ / "conteudo" / "temas.json"
 
-CREDS = {
+# Caminho de fallback dos canais antigos, quando se roda no PC do Diego. No
+# runner (workflow Realinhar) as credenciais vêm dos Secrets para
+# credenciais/<idioma>/ — que tem precedência por existir lá.
+LEGADO = {
     "es": Path(r"C:\Users\NOTE\Desktop\Projetos\Palabra-Viva\youtube-api"),
     "en": Path(r"C:\Users\NOTE\Desktop\Projetos\Corte-em-Pauta\youtube-api"),
+}
+CREDS = {
+    idioma: (RAIZ / "credenciais" / idioma
+             if (RAIZ / "credenciais" / idioma / "token.json").exists()
+             else LEGADO.get(idioma, RAIZ / "credenciais" / idioma))
+    for idioma in ("es", "en", "pt")
 }
 
 
@@ -67,6 +76,10 @@ def metadados(tema: dict, item: str, idioma: str, canal_cfg: dict) -> dict:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    # Sem --canal ele varre os três; um realinhamento cego gastaria cota (50
+    # por vídeo) em canal que não mudou. Ao trocar a oferta de UM canal, passe
+    # o idioma dele.
+    ap.add_argument("--canal", choices=sorted(CREDS))
     args = ap.parse_args()
 
     state = json.loads(STATE.read_text(encoding="utf-8"))
@@ -75,6 +88,8 @@ def main() -> None:
 
     for idioma, ec in state.get("canais", {}).items():
         if idioma not in CREDS or not ec.get("publicados"):
+            continue
+        if args.canal and idioma != args.canal:
             continue
         canal_cfg = config["canais"][idioma]
         yt = None if args.dry_run else youtube_api.servico(CREDS[idioma])
