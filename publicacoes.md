@@ -462,3 +462,19 @@
 - Item: short-2 — Filipenses 4:6-7
 - Duração: 19.8s
 - Publicado em: 2026-07-24T20:12:26+00:00
+
+## [es] nKhC2_isGwM — Mateo 11:28 — Venid a mí todos los que estáis trabajados
+
+- URL: https://youtu.be/nKhC2_isGwM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Mateo 11:28-30
+- Duração: 20.1s
+- Publicado em: 2026-07-24T22:57:38+00:00
+
+## [en] yYJmMfkRvmA — Philippians 4 — Be Careful for Nothing | Bible
+
+- URL: https://youtu.be/yYJmMfkRvmA
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-2 — Philippians 4:6-7
+- Duração: 16.9s
+- Publicado em: 2026-07-24T22:58:30+00:00

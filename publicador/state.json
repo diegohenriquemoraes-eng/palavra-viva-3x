@@ -162,12 +162,19 @@
           "video_id": "W2nWvKlCqek",
           "titulo": "Filipenses 4 — Por nada estéis afanosos | Biblia",
           "em": "2026-07-24T15:25:45+00:00"
+        },
+        {
+          "pacote": "2026-07-24-ansiedade-descanso",
+          "item": "short-3",
+          "video_id": "nKhC2_isGwM",
+          "titulo": "Mateo 11:28 — Venid a mí todos los que estáis trabajados",
+          "em": "2026-07-24T22:57:38+00:00"
         }
       ],
-      "ultimo_short": "2026-07-24T15:25:45+00:00",
+      "ultimo_short": "2026-07-24T22:57:38+00:00",
       "shorts_dia": {
         "data": "2026-07-24",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-24"
     },
@@ -319,12 +326,19 @@
           "video_id": "DA5Or9xVTyE",
           "titulo": "Matthew 6 — Behold the Fowls of the Air | Bible",
           "em": "2026-07-24T15:26:47+00:00"
+        },
+        {
+          "pacote": "2026-07-24-ansiedade-descanso",
+          "item": "short-2",
+          "video_id": "yYJmMfkRvmA",
+          "titulo": "Philippians 4 — Be Careful for Nothing | Bible",
+          "em": "2026-07-24T22:58:30+00:00"
         }
       ],
-      "ultimo_short": "2026-07-24T15:26:47+00:00",
+      "ultimo_short": "2026-07-24T22:58:30+00:00",
       "shorts_dia": {
         "data": "2026-07-24",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-24"
     },
