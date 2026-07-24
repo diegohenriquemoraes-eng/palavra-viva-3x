@@ -430,3 +430,11 @@
 - Item: short-1 — Mateo 6:25-27
 - Duração: 33.0s
 - Publicado em: 2026-07-24T08:09:36+00:00
+
+## [pt] XEJAqCz-w-4 — Mateus 6 — Olhai para as aves do céu | Bíblia
+
+- URL: https://youtu.be/XEJAqCz-w-4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Mateus 6:25-27
+- Duração: 37.2s
+- Publicado em: 2026-07-24T12:16:20+00:00
