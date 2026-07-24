@@ -71,7 +71,13 @@ def main() -> None:
         longos = [p for p in ec.get("publicados", []) if p["item"] == "longo"]
         if not longos:
             continue
-        yt = youtube_api.servico(cred)
+        try:
+            yt = youtube_api.servico(cred)
+        except Exception as exc:
+            # Token morto de um canal (ex.: EN em invalid_grant) não pode
+            # impedir de testar/aplicar capa nos canais saudáveis.
+            print(f"[{idioma}] token inválido ({str(exc)[:80]}); pulando.")
+            continue
         cfg = idiomas.CONFIG[idioma]
         for p in longos:
             total += 1
