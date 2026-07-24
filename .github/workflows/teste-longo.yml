@@ -1,0 +1,87 @@
+name: Teste longo
+
+# Renderiza um vídeo longo de ~N minutos e publica NÃO LISTADO, medindo render,
+# upload e processamento. É o teste que falta para subir ALVO_MIN: o nicho usa
+# 60-105 min (benchmark), nós estamos em ~9, e o que trava é a dúvida se um
+# arquivo grande passa pelo processamento do YouTube (em 20/07 falhou, mas
+# aquele vinha de concat -c copy; render único nunca foi testado nesse tamanho).
+#
+# Custo: 1600 de cota por upload. Não roda junto com a publicação do dia —
+# mesma trava de concorrência.
+on:
+  workflow_dispatch:
+    inputs:
+      alvo_min:
+        description: "Duração alvo em minutos"
+        required: true
+        default: "60"
+      canal:
+        description: "Canal (es/en/pt)"
+        required: true
+        default: "pt"
+      privacidade:
+        description: "private / unlisted / public"
+        required: true
+        default: "unlisted"
+      render_apenas:
+        description: "Só renderizar (não gasta cota)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: publicar-3x
+  cancel-in-progress: false
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    # Render de 1 h + upload de centenas de MB + processamento: o limite tem
+    # de ser folgado, senão o teste "falha" por relógio e não por mérito.
+    timeout-minutes: 350
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - run: pip install -r requirements.txt
+
+      - name: Restaurar credenciais do canal
+        if: ${{ inputs.render_apenas != true }}
+        env:
+          ES_SECRET: ${{ secrets.YT_CLIENT_SECRET_ES }}
+          ES_TOKEN: ${{ secrets.YT_TOKEN_ES }}
+          EN_SECRET: ${{ secrets.YT_CLIENT_SECRET_EN }}
+          EN_TOKEN: ${{ secrets.YT_TOKEN_EN }}
+          PT_SECRET: ${{ secrets.YT_CLIENT_SECRET_PT }}
+          PT_TOKEN: ${{ secrets.YT_TOKEN_PT }}
+        run: |
+          lang="${{ inputs.canal }}"
+          secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
+          token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
+          secret="${!secret_var}"
+          token="${!token_var}"
+          if [ -z "$secret" ] || [ -z "$token" ]; then
+            echo "canal $lang sem secrets"; exit 1
+          fi
+          mkdir -p "credenciais/$lang"
+          printf '%s' "$secret" > "credenciais/$lang/client_secret.json"
+          printf '%s' "$token" > "credenciais/$lang/token.json"
+          chmod 600 credenciais/$lang/*
+
+      - name: Renderizar e publicar
+        run: |
+          args="--alvo-min ${{ inputs.alvo_min }} --canal ${{ inputs.canal }} --privacidade ${{ inputs.privacidade }}"
+          [ "${{ inputs.render_apenas }}" = "true" ] && args="$args --render-apenas"
+          echo "args:$args"
+          python produzir/teste_longo.py $args
+
+      - name: Limpar credenciais
+        if: always()
+        run: rm -rf credenciais
