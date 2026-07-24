@@ -101,7 +101,7 @@
         "pt": "Salmo 91 • 27 • 46"
       },
       "consultas_imagens": [
-        "fortress castle",
+        "mountain fortress",
         "eagle",
         "clouds sunlight"
       ]
@@ -120,7 +120,7 @@
       {
         "ref": "Psalms 27:1-3",
         "tipo": "conflicto",
-        "consulta_imagem": "cliff sunrise",
+        "consulta_imagem": "cliff ocean",
         "titulo": {
           "es": "Salmo 27 — Jehová es mi luz y mi salvación | Biblia",
           "en": "Psalm 27 — The Lord Is My Light and My Salvation",
@@ -280,7 +280,7 @@
       {
         "ref": "Psalms 144:1-2",
         "tipo": "conflicto",
-        "consulta_imagem": "stone wall",
+        "consulta_imagem": "brook stones",
         "titulo": {
           "es": "Salmo 144 — Bendito sea Jehová, mi roca | Biblia",
           "en": "Psalm 144 — Blessed Be the Lord My Strength | Bible",
@@ -326,7 +326,7 @@
         "pt": "João 3 • Romanos 8 • 1 Coríntios 13"
       },
       "consultas_imagens": [
-        "sunset clouds",
+        "golden sunset",
         "father child",
         "forest sunlight"
       ]
@@ -703,7 +703,7 @@
         "pt": "Salmo 51 • 32 • Lucas 15"
       },
       "consultas_imagens": [
-        "dove",
+        "white dove",
         "rainbow sky",
         "river morning"
       ]
@@ -712,7 +712,7 @@
       {
         "ref": "Psalms 51:10-12",
         "tipo": "conflicto",
-        "consulta_imagem": "river water",
+        "consulta_imagem": "flowing river",
         "titulo": {
           "es": "Salmo 51 — Crea en mí, oh Dios, un corazón limpio | Biblia",
           "en": "Psalm 51 — Create in Me a Clean Heart, O God | Bible",
@@ -722,7 +722,7 @@
       {
         "ref": "Psalms 103:11-14",
         "tipo": "promesa",
-        "consulta_imagem": "sunrise horizon",
+        "consulta_imagem": "ocean sunrise",
         "titulo": {
           "es": "Salmo 103 — Cuanto está lejos el oriente del occidente",
           "en": "Psalm 103 — As Far as the East Is from the West | Bible",
@@ -854,8 +854,8 @@
       "consultas_imagens": [
         "rainbow sky",
         "storm sea",
-        "wooden ship",
-        "dove"
+        "sailing ship",
+        "white dove"
       ]
     },
     "shorts": [
@@ -882,7 +882,7 @@
       {
         "ref": "Genesis 8:8-12",
         "tipo": "descriptivo",
-        "consulta_imagem": "dove",
+        "consulta_imagem": "white dove",
         "titulo": {
           "es": "Génesis 8 — La paloma volvió con una hoja de oliva",
           "en": "Genesis 8 — The Dove Returned with an Olive Leaf",
@@ -1079,7 +1079,7 @@
       "consultas_imagens": [
         "lion",
         "cave stone",
-        "fire flames"
+        "burning fire"
       ]
     },
     "shorts": [
@@ -1096,7 +1096,7 @@
       {
         "ref": "Daniel 3:16-18",
         "tipo": "conflicto",
-        "consulta_imagem": "fire flames",
+        "consulta_imagem": "campfire flames",
         "titulo": {
           "es": "Daniel 3 — Y si no, sepas que no serviremos a tus dioses",
           "en": "Daniel 3 — But If Not, We Will Not Serve Thy Gods | Bible",
@@ -1106,7 +1106,7 @@
       {
         "ref": "Daniel 3:24-27",
         "tipo": "promesa",
-        "consulta_imagem": "fire flames",
+        "consulta_imagem": "fire embers",
         "titulo": {
           "es": "Daniel 3 — El cuarto es semejante a hijo de los dioses",
           "en": "Daniel 3 — The Fourth Is Like the Son of God | Bible",
@@ -1172,7 +1172,7 @@
       {
         "ref": "Psalms 5:1-3",
         "tipo": "descriptivo",
-        "consulta_imagem": "mountain mist",
+        "consulta_imagem": "misty forest",
         "titulo": {
           "es": "Salmo 5 — De mañana oirás mi voz | Biblia en español",
           "en": "Psalm 5 — My Voice Shalt Thou Hear in the Morning",
