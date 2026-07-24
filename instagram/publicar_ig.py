@@ -163,7 +163,10 @@ def limpar_assets_antigos(cfg: dict, manter: int = 6) -> None:
 # ----------------------------------------------------------- Graph API ------
 
 def _graph(cfg: dict) -> str:
-    return f"https://graph.facebook.com/{cfg['graph_version']}"
+    # Instagram API COM LOGIN DO INSTAGRAM usa graph.instagram.com (não
+    # graph.facebook.com, que é da API com login do Facebook). O IG_USER_ID é
+    # o id devolvido por graph.instagram.com/me, não o número do painel.
+    return "https://graph.instagram.com"
 
 
 def dentro_do_limite(cfg: dict, ig_id: str, token: str) -> bool:
