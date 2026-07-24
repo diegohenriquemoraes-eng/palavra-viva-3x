@@ -1,0 +1,72 @@
+name: Aplicar capas
+
+# Aplica a capa personalizada (thumbnail) nos vídeos longos já publicados de um
+# canal. Só faz sentido depois que o canal tiver "Recursos intermediários"
+# ativados — antes disso a API devolve 403 e o script relata sem quebrar nada.
+#
+# Manual: 50 unidades de cota por vídeo, e não deve concorrer com a publicação
+# do dia (mesma trava de concorrência do publicador).
+on:
+  workflow_dispatch:
+    inputs:
+      canal:
+        description: "Canal (es/en/pt)"
+        required: true
+        default: "pt"
+      teste:
+        description: "Parar no primeiro sucesso, só para saber se liberou"
+        type: boolean
+        default: false
+
+concurrency:
+  group: publicar-3x
+  cancel-in-progress: false
+
+jobs:
+  capas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Restaurar credenciais do canal
+        env:
+          ES_SECRET: ${{ secrets.YT_CLIENT_SECRET_ES }}
+          ES_TOKEN: ${{ secrets.YT_TOKEN_ES }}
+          EN_SECRET: ${{ secrets.YT_CLIENT_SECRET_EN }}
+          EN_TOKEN: ${{ secrets.YT_TOKEN_EN }}
+          PT_SECRET: ${{ secrets.YT_CLIENT_SECRET_PT }}
+          PT_TOKEN: ${{ secrets.YT_TOKEN_PT }}
+        run: |
+          lang="${{ inputs.canal }}"
+          secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
+          token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
+          secret="${!secret_var}"
+          token="${!token_var}"
+          if [ -z "$secret" ] || [ -z "$token" ]; then
+            echo "canal $lang sem secrets"; exit 1
+          fi
+          mkdir -p "credenciais/$lang"
+          printf '%s' "$secret" > "credenciais/$lang/client_secret.json"
+          printf '%s' "$token" > "credenciais/$lang/token.json"
+          chmod 600 credenciais/$lang/*
+
+      - run: git pull --rebase --autostash origin main || true
+
+      - name: Aplicar
+        run: |
+          args=""
+          [ "${{ inputs.teste }}" = "true" ] && args="--teste"
+          python produzir/aplicar_capas.py $args
+
+      - name: Limpar credenciais
+        if: always()
+        run: rm -rf credenciais
