@@ -62,7 +62,14 @@ def main() -> None:
         if not (cred_dir / "token.json").exists():
             print(f"[{idioma}] sem credenciais locais; pulando {len(publicados)} vídeos.")
             continue
-        yt = youtube_api.servico(cred_dir)
+        try:
+            yt = youtube_api.servico(cred_dir)
+        except Exception as exc:
+            # Token morto (ex.: invalid_grant) não pode abortar a medição dos
+            # outros canais saudáveis — mede o que dá e segue.
+            print(f"[{idioma}] token inválido ({str(exc)[:80]}); pulando "
+                  f"{len(publicados)} vídeos.")
+            continue
         ids = [p["video_id"] for p in publicados]
         stats = {}
         for i in range(0, len(ids), 50):
