@@ -534,3 +534,19 @@
 - Item: short-2 — Gênesis 1:26-28
 - Duração: 37.9s
 - Publicado em: 2026-07-25T13:03:43+00:00
+
+## [es] zCB0XdUDY1c — Génesis 1 — Hagamos al hombre a nuestra imagen | Biblia
+
+- URL: https://youtu.be/zCB0XdUDY1c
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Génesis 1:26-28
+- Duração: 38.4s
+- Publicado em: 2026-07-25T14:56:44+00:00
+
+## [en] ih2y43OYLOM — Genesis 1 — Let Us Make Man in Our Image | Bible
+
+- URL: https://youtu.be/ih2y43OYLOM
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-2 — Genesis 1:26-28
+- Duração: 40.9s
+- Publicado em: 2026-07-25T14:57:51+00:00
