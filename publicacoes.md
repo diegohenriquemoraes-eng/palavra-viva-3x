@@ -550,3 +550,11 @@
 - Item: short-2 — Genesis 1:26-28
 - Duração: 40.9s
 - Publicado em: 2026-07-25T14:57:51+00:00
+
+## [pt] i3H96Bb7zLs — Salmo 19 — Os céus declaram a glória de Deus
+
+- URL: https://youtu.be/i3H96Bb7zLs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 19:1-4
+- Duração: 25.5s
+- Publicado em: 2026-07-25T20:07:43+00:00
