@@ -16,3 +16,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/18223231291323971/
 - Publicado em: 2026-07-24T18:28:31+00:00
+
+## 17870947434562837 — Oração da noite
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/17870947434562837/
+- Publicado em: 2026-07-25T19:36:36+00:00
