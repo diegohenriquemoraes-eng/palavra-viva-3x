@@ -22,3 +22,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/17870947434562837/
 - Publicado em: 2026-07-25T19:36:36+00:00
+
+## 17871653547629045 — Salmo 34:18
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/17871653547629045/
+- Publicado em: 2026-07-25T22:12:40+00:00
