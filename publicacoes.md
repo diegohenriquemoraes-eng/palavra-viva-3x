@@ -502,3 +502,11 @@
 - Item: longo — Gênesis 1:1-31, Gênesis 2:1-3, Salmo 19:1-6
 - Duração: 439.2s
 - Publicado em: 2026-07-25T02:36:57+00:00
+
+## [pt] Vw5nvTpg9BI — Gênesis 1 — No princípio criou Deus os céus
+
+- URL: https://youtu.be/Vw5nvTpg9BI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Gênesis 1:1-5
+- Duração: 30.9s
+- Publicado em: 2026-07-25T05:36:38+00:00
