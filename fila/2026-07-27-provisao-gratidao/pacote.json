@@ -1,0 +1,179 @@
+{
+  "slug": "provisao-gratidao",
+  "formato": "tema",
+  "data": "2026-07-27",
+  "criado_em": "2026-07-25T03:40:10+00:00",
+  "aprovado_em": "2026-07-25T03:40:10+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 34",
+      "Psalms 37:16-31",
+      "Philippians 4:10-20",
+      "Matthew 7:7-12",
+      "Psalms 145:8-21"
+    ],
+    "titulo": {
+      "es": "Dios Provee — Salmo 34 y Filipenses 4 | Promesas de Provisión",
+      "en": "God Provides — Psalm 34 & Philippians 4 | Promises of Provision",
+      "pt": "Deus Provê — Salmo 34 e Filipenses 4 | Promessas de Provisão"
+    },
+    "thumb_titulo": {
+      "es": "DIOS PROVEE",
+      "en": "GOD PROVIDES",
+      "pt": "DEUS PROVÊ"
+    },
+    "thumb_sub": {
+      "es": "Salmo 34 • 37 • Filipenses 4",
+      "en": "Psalm 34 • 37 • Philippians 4",
+      "pt": "Salmo 34 • 37 • Filipenses 4"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tree_and_wheat_field_in_R%C3%B6e_1.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_1.jpg",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Khndzoresk%2C_Wheat_field%2C_Armenia.jpg/1920px-Khndzoresk%2C_Wheat_field%2C_Armenia.jpg",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Khndzoresk,_Wheat_field,_Armenia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sunset-over-the-wheat-field-featured.jpg/1920px-Sunset-over-the-wheat-field-featured.jpg",
+        "autor": "Dreamy Pixel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunset-over-the-wheat-field-featured.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg/1920px-Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg",
+        "autor": "Vincent van Gogh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wheat-Field-with-Cypresses-(1889)-Vincent-van-Gogh-Met.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tree_and_wheat_field_in_R%C3%B6e_2.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_2.jpg",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bread_MET_LC-27_3_509_EGDP024862.jpg/1920px-Bread_MET_LC-27_3_509_EGDP024862.jpg",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Bread_MET_LC-27_3_509_EGDP024862.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bread_slices.jpg/1920px-Bread_slices.jpg",
+        "autor": "Saral Shots",
+        "origem": "https://commons.wikimedia.org/wiki/File:Bread_slices.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Home-baked_bread_and_utensils.jpg/1920px-Home-baked_bread_and_utensils.jpg",
+        "autor": "Kmtextor",
+        "origem": "https://commons.wikimedia.org/wiki/File:Home-baked_bread_and_utensils.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bread_in_red_bowl_atop_easter_eggs.jpg/1920px-Bread_in_red_bowl_atop_easter_eggs.jpg",
+        "autor": "Kansattica",
+        "origem": "https://commons.wikimedia.org/wiki/File:Bread_in_red_bowl_atop_easter_eggs.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bread_in_red_felt_hat.jpg/1920px-Bread_in_red_felt_hat.jpg",
+        "autor": "Kansattica",
+        "origem": "https://commons.wikimedia.org/wiki/File:Bread_in_red_felt_hat.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Harvest_field_%2820757406269%29.jpg/1920px-Harvest_field_%2820757406269%29.jpg",
+        "autor": "Holly Victoria Norval",
+        "origem": "https://commons.wikimedia.org/wiki/File:Harvest_field_(20757406269).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Straw_harvest_from_a_field_1960_%28JOKAMT2Hei22-2%29.tif/lossy-page1-1920px-Straw_harvest_from_a_field_1960_%28JOKAMT2Hei22-2%29.tif.jpg",
+        "autor": "Erkki Voutilainen",
+        "origem": "https://commons.wikimedia.org/wiki/File:Straw_harvest_from_a_field_1960_(JOKAMT2Hei22-2).tif",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Straw_harvest_from_a_field_1960_%28JOKAMT2Hei22-1%29.tif/lossy-page1-1920px-Straw_harvest_from_a_field_1960_%28JOKAMT2Hei22-1%29.tif.jpg",
+        "autor": "Erkki Voutilainen",
+        "origem": "https://commons.wikimedia.org/wiki/File:Straw_harvest_from_a_field_1960_(JOKAMT2Hei22-1).tif",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Harvested_field%2C_heavy_clouds%2C_Ehrenbach.jpg/1920px-Harvested_field%2C_heavy_clouds%2C_Ehrenbach.jpg",
+        "autor": "Gerda Arendt",
+        "origem": "https://commons.wikimedia.org/wiki/File:Harvested_field,_heavy_clouds,_Ehrenbach.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Philippians 4:19",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Filipenses 4:19 — Mi Dios suplirá todo lo que os falta | Biblia",
+        "en": "Philippians 4:19 — My God Shall Supply All Your Need | Bible",
+        "pt": "Filipenses 4:19 — Meu Deus suprirá tudo o que vos falta"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tree_and_wheat_field_in_R%C3%B6e_3.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_3.jpg",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_3.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 37:23-25",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 37 — Jehová ordena los pasos del hombre bueno | Biblia",
+        "en": "Psalm 37 — The Steps of a Good Man Are Ordered by the Lord",
+        "pt": "Salmo 37 — O Senhor firma os passos do homem bom | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Forest_path.jpg/1920px-Forest_path.jpg",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_path.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Matthew 7:7-8",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Mateo 7:7 — Pedid, y se os dará | Biblia en español",
+        "en": "Matthew 7:7 — Ask, and It Shall Be Given You | Bible",
+        "pt": "Mateus 7:7 — Pedi, e dar-se-vos-á | Bíblia narrada"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cana_Island_Light_-_Door_County_Wisconsin.jpg/1920px-Cana_Island_Light_-_Door_County_Wisconsin.jpg",
+        "autor": "Carl Wycoff from Nevada, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cana_Island_Light_-_Door_County_Wisconsin.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Psalms 145:15-18",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 145 — Abres tu mano y sacias a todo ser viviente",
+        "en": "Psalm 145 — Thou Openest Thine Hand | Bible Verses",
+        "pt": "Salmo 145 — Abres a tua mão e sacias todo vivente"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Sky_in_our_Hands_%E2%80%94_an_educational_activity_%28ann1074a%29.tiff/lossy-page1-1920px-The_Sky_in_our_Hands_%E2%80%94_an_educational_activity_%28ann1074a%29.tiff.jpg",
+        "autor": "Southern Cross Observatory/ESO/R.Marin",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Sky_in_our_Hands_%E2%80%94_an_educational_activity_(ann1074a).tiff",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
