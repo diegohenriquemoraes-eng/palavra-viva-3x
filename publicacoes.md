@@ -526,3 +526,11 @@
 - Item: short-1 — Genesis 1:1-5
 - Duração: 33.7s
 - Publicado em: 2026-07-25T07:53:26+00:00
+
+## [pt] BBvAYmjx3Lg — Gênesis 1 — Façamos o homem à nossa imagem
+
+- URL: https://youtu.be/BBvAYmjx3Lg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Gênesis 1:26-28
+- Duração: 37.9s
+- Publicado em: 2026-07-25T13:03:43+00:00

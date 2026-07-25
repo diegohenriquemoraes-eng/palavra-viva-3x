@@ -490,12 +490,19 @@
           "video_id": "Vw5nvTpg9BI",
           "titulo": "Gênesis 1 — No princípio criou Deus os céus",
           "em": "2026-07-25T05:36:38+00:00"
+        },
+        {
+          "pacote": "2026-07-25-genesis-criacao",
+          "item": "short-2",
+          "video_id": "BBvAYmjx3Lg",
+          "titulo": "Gênesis 1 — Façamos o homem à nossa imagem",
+          "em": "2026-07-25T13:03:43+00:00"
         }
       ],
-      "ultimo_short": "2026-07-25T05:36:38+00:00",
+      "ultimo_short": "2026-07-25T13:03:43+00:00",
       "shorts_dia": {
         "data": "2026-07-25",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-25"
     }
