@@ -510,3 +510,19 @@
 - Item: short-1 — Gênesis 1:1-5
 - Duração: 30.9s
 - Publicado em: 2026-07-25T05:36:38+00:00
+
+## [es] 8Tyr0031qm4 — Génesis 1 — En el principio creó Dios los cielos
+
+- URL: https://youtu.be/8Tyr0031qm4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Génesis 1:1-5
+- Duração: 31.5s
+- Publicado em: 2026-07-25T07:52:17+00:00
+
+## [en] og3LcDCJwkA — Genesis 1 — In the Beginning God Created | Bible
+
+- URL: https://youtu.be/og3LcDCJwkA
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — Genesis 1:1-5
+- Duração: 33.7s
+- Publicado em: 2026-07-25T07:53:26+00:00

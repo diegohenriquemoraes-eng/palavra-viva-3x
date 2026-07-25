@@ -176,12 +176,19 @@
           "video_id": "CdgPpPwHijc",
           "titulo": "La Creación del Mundo — Génesis 1 Completo | Biblia Narrada",
           "em": "2026-07-25T02:28:58+00:00"
+        },
+        {
+          "pacote": "2026-07-25-genesis-criacao",
+          "item": "short-1",
+          "video_id": "8Tyr0031qm4",
+          "titulo": "Génesis 1 — En el principio creó Dios los cielos",
+          "em": "2026-07-25T07:52:17+00:00"
         }
       ],
-      "ultimo_short": "2026-07-24T22:57:38+00:00",
+      "ultimo_short": "2026-07-25T07:52:17+00:00",
       "shorts_dia": {
-        "data": "2026-07-24",
-        "n": 3
+        "data": "2026-07-25",
+        "n": 1
       },
       "longo_data": "2026-07-25"
     },
@@ -347,12 +354,19 @@
           "video_id": "TOK-vygMoEc",
           "titulo": "The Creation of the World — Genesis 1 Complete | Audio Bible",
           "em": "2026-07-25T02:33:04+00:00"
+        },
+        {
+          "pacote": "2026-07-25-genesis-criacao",
+          "item": "short-1",
+          "video_id": "og3LcDCJwkA",
+          "titulo": "Genesis 1 — In the Beginning God Created | Bible",
+          "em": "2026-07-25T07:53:26+00:00"
         }
       ],
-      "ultimo_short": "2026-07-24T22:58:30+00:00",
+      "ultimo_short": "2026-07-25T07:53:26+00:00",
       "shorts_dia": {
-        "data": "2026-07-24",
-        "n": 2
+        "data": "2026-07-25",
+        "n": 1
       },
       "longo_data": "2026-07-25"
     },
