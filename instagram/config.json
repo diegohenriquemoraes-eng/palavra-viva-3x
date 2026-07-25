@@ -9,7 +9,7 @@
     { "ate_dia": 99999, "por_dia": 4 }
   ],
 
-  "janela_utc": { "ini": 11, "fim": 26 },
+  "janela_utc": { "ini": 19, "fim": 26 },
   "gap_min_piso": 120,
   "cap_diario_absoluto": 6,
 
