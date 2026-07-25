@@ -478,3 +478,27 @@
 - Item: short-2 — Philippians 4:6-7
 - Duração: 16.9s
 - Publicado em: 2026-07-24T22:58:30+00:00
+
+## [es] CdgPpPwHijc — La Creación del Mundo — Génesis 1 Completo | Biblia Narrada
+
+- URL: https://youtu.be/CdgPpPwHijc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Génesis 1:1-31, Génesis 2:1-3, Salmo 19:1-6
+- Duração: 439.1s
+- Publicado em: 2026-07-25T02:28:58+00:00
+
+## [en] TOK-vygMoEc — The Creation of the World — Genesis 1 Complete | Audio Bible
+
+- URL: https://youtu.be/TOK-vygMoEc
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — Genesis 1:1-31, Genesis 2:1-3, Psalm 19:1-6
+- Duração: 449.4s
+- Publicado em: 2026-07-25T02:33:04+00:00
+
+## [pt] q0Ic3f6p31s — A Criação do Mundo — Gênesis 1 Completo | Bíblia Narrada
+
+- URL: https://youtu.be/q0Ic3f6p31s
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Gênesis 1:1-31, Gênesis 2:1-3, Salmo 19:1-6
+- Duração: 439.2s
+- Publicado em: 2026-07-25T02:36:57+00:00

@@ -169,6 +169,13 @@
           "video_id": "nKhC2_isGwM",
           "titulo": "Mateo 11:28 — Venid a mí todos los que estáis trabajados",
           "em": "2026-07-24T22:57:38+00:00"
+        },
+        {
+          "pacote": "2026-07-25-genesis-criacao",
+          "item": "longo",
+          "video_id": "CdgPpPwHijc",
+          "titulo": "La Creación del Mundo — Génesis 1 Completo | Biblia Narrada",
+          "em": "2026-07-25T02:28:58+00:00"
         }
       ],
       "ultimo_short": "2026-07-24T22:57:38+00:00",
@@ -176,7 +183,7 @@
         "data": "2026-07-24",
         "n": 3
       },
-      "longo_data": "2026-07-24"
+      "longo_data": "2026-07-25"
     },
     "en": {
       "publicados": [
@@ -333,6 +340,13 @@
           "video_id": "yYJmMfkRvmA",
           "titulo": "Philippians 4 — Be Careful for Nothing | Bible",
           "em": "2026-07-24T22:58:30+00:00"
+        },
+        {
+          "pacote": "2026-07-25-genesis-criacao",
+          "item": "longo",
+          "video_id": "TOK-vygMoEc",
+          "titulo": "The Creation of the World — Genesis 1 Complete | Audio Bible",
+          "em": "2026-07-25T02:33:04+00:00"
         }
       ],
       "ultimo_short": "2026-07-24T22:58:30+00:00",
@@ -340,7 +354,7 @@
         "data": "2026-07-24",
         "n": 2
       },
-      "longo_data": "2026-07-24"
+      "longo_data": "2026-07-25"
     },
     "pt": {
       "publicados": [
@@ -448,6 +462,13 @@
           "video_id": "6jkdsd7Au2w",
           "titulo": "Filipenses 4 — Não estejais inquietos por coisa alguma",
           "em": "2026-07-24T20:12:26+00:00"
+        },
+        {
+          "pacote": "2026-07-25-genesis-criacao",
+          "item": "longo",
+          "video_id": "q0Ic3f6p31s",
+          "titulo": "A Criação do Mundo — Gênesis 1 Completo | Bíblia Narrada",
+          "em": "2026-07-25T02:36:57+00:00"
         }
       ],
       "ultimo_short": "2026-07-24T20:12:26+00:00",
@@ -455,7 +476,7 @@
         "data": "2026-07-24",
         "n": 2
       },
-      "longo_data": "2026-07-24"
+      "longo_data": "2026-07-25"
     }
   }
 }
