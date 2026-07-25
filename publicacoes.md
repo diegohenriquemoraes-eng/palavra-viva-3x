@@ -558,3 +558,19 @@
 - Item: short-3 — Salmo 19:1-4
 - Duração: 25.5s
 - Publicado em: 2026-07-25T20:07:43+00:00
+
+## [es] YlIl72UMxF0 — Salmo 19 — Los cielos cuentan la gloria de Dios
+
+- URL: https://youtu.be/YlIl72UMxF0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 19:1-4
+- Duração: 26.8s
+- Publicado em: 2026-07-25T22:44:47+00:00
+
+## [en] EWF05tBSk_g — Psalm 19 — The Heavens Declare the Glory of God
+
+- URL: https://youtu.be/EWF05tBSk_g
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-3 — Psalm 19:1-4
+- Duração: 25.7s
+- Publicado em: 2026-07-25T22:45:49+00:00

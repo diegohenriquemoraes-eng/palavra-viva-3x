@@ -190,12 +190,19 @@
           "video_id": "zCB0XdUDY1c",
           "titulo": "Génesis 1 — Hagamos al hombre a nuestra imagen | Biblia",
           "em": "2026-07-25T14:56:44+00:00"
+        },
+        {
+          "pacote": "2026-07-25-genesis-criacao",
+          "item": "short-3",
+          "video_id": "YlIl72UMxF0",
+          "titulo": "Salmo 19 — Los cielos cuentan la gloria de Dios",
+          "em": "2026-07-25T22:44:47+00:00"
         }
       ],
-      "ultimo_short": "2026-07-25T14:56:44+00:00",
+      "ultimo_short": "2026-07-25T22:44:47+00:00",
       "shorts_dia": {
         "data": "2026-07-25",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-25"
     },
@@ -375,12 +382,19 @@
           "video_id": "ih2y43OYLOM",
           "titulo": "Genesis 1 — Let Us Make Man in Our Image | Bible",
           "em": "2026-07-25T14:57:51+00:00"
+        },
+        {
+          "pacote": "2026-07-25-genesis-criacao",
+          "item": "short-3",
+          "video_id": "EWF05tBSk_g",
+          "titulo": "Psalm 19 — The Heavens Declare the Glory of God",
+          "em": "2026-07-25T22:45:49+00:00"
         }
       ],
-      "ultimo_short": "2026-07-25T14:57:51+00:00",
+      "ultimo_short": "2026-07-25T22:45:49+00:00",
       "shorts_dia": {
         "data": "2026-07-25",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-25"
     },
