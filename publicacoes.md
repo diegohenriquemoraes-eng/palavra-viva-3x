@@ -590,3 +590,11 @@
 - Item: longo — Psalm 46, Psalm 62, Psalm 63, Psalm 131, Psalm 16, Psalm 3
 - Duração: 3703.7s
 - Publicado em: 2026-07-26T03:09:33+00:00
+
+## [pt] chOevaKnC1o — Salmos para Descansar em Deus — Salmo 46, 62 e 63 | Bíblia para Dormir
+
+- URL: https://youtu.be/chOevaKnC1o
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 46, Salmo 62, Salmo 63, Salmo 131, Salmo 16, Salmo 3
+- Duração: 4235.2s
+- Publicado em: 2026-07-26T05:58:33+00:00
