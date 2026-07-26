@@ -28,3 +28,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/17871653547629045/
 - Publicado em: 2026-07-25T22:12:40+00:00
+
+## 17872065606629228 — Salmo 46:1
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/17872065606629228/
+- Publicado em: 2026-07-26T19:37:15+00:00
