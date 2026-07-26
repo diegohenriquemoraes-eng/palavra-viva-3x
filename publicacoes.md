@@ -646,3 +646,27 @@
 - Item: short-2 — Salmo 63:1-4
 - Duração: 28.5s
 - Publicado em: 2026-07-26T15:59:50+00:00
+
+## [es] qiGkFdpoyv0 — Salmo 3 — Tú, Jehová, eres escudo alrededor de mí
+
+- URL: https://youtu.be/qiGkFdpoyv0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 3:3-5
+- Duração: 19.3s
+- Publicado em: 2026-07-26T23:53:55+00:00
+
+## [en] -U9MoeiMijk — Psalm 3 — Thou, O Lord, Art a Shield for Me | Bible
+
+- URL: https://youtu.be/-U9MoeiMijk
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-3 — Psalm 3:3-5
+- Duração: 18.6s
+- Publicado em: 2026-07-26T23:54:50+00:00
+
+## [pt] 8QjLZY_gj6w — Salmo 3 — Tu, Senhor, és o escudo ao meu redor
+
+- URL: https://youtu.be/8QjLZY_gj6w
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 3:3-5
+- Duração: 19.5s
+- Publicado em: 2026-07-26T23:55:50+00:00
