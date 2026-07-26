@@ -1,0 +1,180 @@
+{
+  "slug": "perdao-restauracao",
+  "formato": "tema",
+  "data": "2026-07-28",
+  "criado_em": "2026-07-26T03:57:37+00:00",
+  "aprovado_em": "2026-07-26T03:57:37+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 51",
+      "Psalms 32",
+      "Luke 15:11-24",
+      "I John 1:5-10",
+      "Isaiah 1:16-20",
+      "Psalms 130"
+    ],
+    "titulo": {
+      "es": "El Perdón de Dios — Salmo 51, 32 y el Hijo Pródigo | Biblia Hablada",
+      "en": "God's Forgiveness — Psalm 51, 32 & the Prodigal Son | Audio Bible",
+      "pt": "O Perdão de Deus — Salmo 51, 32 e o Filho Pródigo | Bíblia Narrada"
+    },
+    "thumb_titulo": {
+      "es": "EL PERDÓN DE DIOS",
+      "en": "GOD'S FORGIVENESS",
+      "pt": "O PERDÃO DE DEUS"
+    },
+    "thumb_sub": {
+      "es": "Salmo 51 • 32 • Lucas 15",
+      "en": "Psalm 51 • 32 • Luke 15",
+      "pt": "Salmo 51 • 32 • Lucas 15"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/White_Cliffs_of_Dover%2C_Kent.jpg/1920px-White_Cliffs_of_Dover%2C_Kent.jpg",
+        "autor": "Steven Penton",
+        "origem": "https://commons.wikimedia.org/wiki/File:White_Cliffs_of_Dover,_Kent.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/White-winged_Dove_%2853308375599%29.jpg/1920px-White-winged_Dove_%2853308375599%29.jpg",
+        "autor": "Channel City Camera Club from Santa Barbara, US",
+        "origem": "https://commons.wikimedia.org/wiki/File:White-winged_Dove_(53308375599).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/White_Cliffs_of_Dover_from_Ferry.jpg/1920px-White_Cliffs_of_Dover_from_Ferry.jpg",
+        "autor": "GeorgeM2011",
+        "origem": "https://commons.wikimedia.org/wiki/File:White_Cliffs_of_Dover_from_Ferry.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/White-fronted_quail-dove_%28Geotrygon_leucometopia%29.jpg",
+        "autor": "Anthony Batista",
+        "origem": "https://commons.wikimedia.org/wiki/File:White-fronted_quail-dove_(Geotrygon_leucometopia).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dove_Chocolate_%28milk_flavor%2C_white_chocolate%29.jpg/1920px-Dove_Chocolate_%28milk_flavor%2C_white_chocolate%29.jpg",
+        "autor": "Fumikas Sagisavas",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dove_Chocolate_(milk_flavor,_white_chocolate).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sunset_time_and_twilight_sky_over_Siying_Rainbow_Bridge.jpg",
+        "autor": "lwtt93",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunset_time_and_twilight_sky_over_Siying_Rainbow_Bridge.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/A_rainbow_appears_in_the_sky_after_the_rain_shower.jpg/1920px-A_rainbow_appears_in_the_sky_after_the_rain_shower.jpg",
+        "autor": "Paul-shy",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_rainbow_appears_in_the_sky_after_the_rain_shower.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rainbow_falls_with_a_blue_cloudy_sky.jpg/1920px-Rainbow_falls_with_a_blue_cloudy_sky.jpg",
+        "autor": "Maplemoths",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rainbow_falls_with_a_blue_cloudy_sky.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rainbow_in_the_evening_sky_%2847943466842%29.jpg/1920px-Rainbow_in_the_evening_sky_%2847943466842%29.jpg",
+        "autor": "oatsy40",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rainbow_in_the_evening_sky_(47943466842).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rainbow_with_lightening_dark_sky_2010.jpg/1920px-Rainbow_with_lightening_dark_sky_2010.jpg",
+        "autor": "thinboyfatter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rainbow_with_lightening_dark_sky_2010.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Brynica_River_flowing_through_meadows_on_the_border_of_Sosnowiec_and_Katowice_in_the_morning.jpg/1920px-The_Brynica_River_flowing_through_meadows_on_the_border_of_Sosnowiec_and_Katowice_in_the_morning.jpg",
+        "autor": "Krzysztof Popławski",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Brynica_River_flowing_through_meadows_on_the_border_of_Sosnowiec_and_Katowice_in_the_morning.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Nipigon_River_Morning.jpg/1920px-Nipigon_River_Morning.jpg",
+        "autor": "Sharon Mollerus",
+        "origem": "https://commons.wikimedia.org/wiki/File:Nipigon_River_Morning.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Morning_fog_at_some_trees_by_Keravanjoki_river_in_Vantaa%2C_Finland%2C_2021_October.jpg/1920px-Morning_fog_at_some_trees_by_Keravanjoki_river_in_Vantaa%2C_Finland%2C_2021_October.jpg",
+        "autor": "Ximonic (Simo Räsänen)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Morning_fog_at_some_trees_by_Keravanjoki_river_in_Vantaa,_Finland,_2021_October.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Henri_Le_Sidaner_-_St._Paul%E2%80%99s_from_the_River-_Morning_Sun_in_Winter_-_Google_Art_Project.jpg/1920px-Henri_Le_Sidaner_-_St._Paul%E2%80%99s_from_the_River-_Morning_Sun_in_Winter_-_Google_Art_Project.jpg",
+        "autor": "Henri Le Sidaner",
+        "origem": "https://commons.wikimedia.org/wiki/File:Henri_Le_Sidaner_-_St._Paul%E2%80%99s_from_the_River-_Morning_Sun_in_Winter_-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 51:10-12",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Salmo 51 — Crea en mí, oh Dios, un corazón limpio | Biblia",
+        "en": "Psalm 51 — Create in Me a Clean Heart, O God | Bible",
+        "pt": "Salmo 51 — Cria em mim, ó Deus, um coração puro"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/The_River_Lisheen_%28aka_Brittas_River%29_flowing_into_the_River_Liffey%2C_Ballyward%2C_Co_Wicklow_04.jpg/1920px-The_River_Lisheen_%28aka_Brittas_River%29_flowing_into_the_River_Liffey%2C_Ballyward%2C_Co_Wicklow_04.jpg",
+        "autor": "Ridiculopathy",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_River_Lisheen_(aka_Brittas_River)_flowing_into_the_River_Liffey,_Ballyward,_Co_Wicklow_04.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 103:11-14",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 103 — Cuanto está lejos el oriente del occidente",
+        "en": "Psalm 103 — As Far as the East Is from the West | Bible",
+        "pt": "Salmo 103 — Quanto está longe o oriente do ocidente"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atlantic_Ocean_Sunrise_%2853152767328%29.jpg/1920px-Atlantic_Ocean_Sunrise_%2853152767328%29.jpg",
+        "autor": "Andrew Parlette from Elkridge,MD, US",
+        "origem": "https://commons.wikimedia.org/wiki/File:Atlantic_Ocean_Sunrise_(53152767328).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "I John 1:9",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "1 Juan 1:9 — Si confesamos nuestros pecados, él es fiel",
+        "en": "1 John 1:9 — If We Confess Our Sins, He Is Faithful",
+        "pt": "1 João 1:9 — Se confessarmos os nossos pecados, ele é fiel"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Light_through_a_stained_glass_window%2C_cross%2C_wall_of_the_Marmor_%28Frederiks%29_Kirke_Copenhagen_Denmark.jpg/1920px-Light_through_a_stained_glass_window%2C_cross%2C_wall_of_the_Marmor_%28Frederiks%29_Kirke_Copenhagen_Denmark.jpg",
+        "autor": "Jebulon",
+        "origem": "https://commons.wikimedia.org/wiki/File:Light_through_a_stained_glass_window,_cross,_wall_of_the_Marmor_(Frederiks)_Kirke_Copenhagen_Denmark.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Isaiah 1:18",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Isaías 1:18 — Serán blancos como la nieve | Biblia",
+        "en": "Isaiah 1:18 — They Shall Be as White as Snow | Bible",
+        "pt": "Isaías 1:18 — Ficarão brancos como a neve | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Light_snow_on_field%2C_view_to_Gro%C3%9Fer_Feldberg%2C_Ehrenbach.jpg/1920px-Light_snow_on_field%2C_view_to_Gro%C3%9Fer_Feldberg%2C_Ehrenbach.jpg",
+        "autor": "Gerda Arendt",
+        "origem": "https://commons.wikimedia.org/wiki/File:Light_snow_on_field,_view_to_Gro%C3%9Fer_Feldberg,_Ehrenbach.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
