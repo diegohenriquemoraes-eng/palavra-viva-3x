@@ -574,3 +574,19 @@
 - Item: short-3 — Psalm 19:1-4
 - Duração: 25.7s
 - Publicado em: 2026-07-25T22:45:49+00:00
+
+## [es] _qADSFs9yQw — Salmos para Descansar en Dios — Salmo 46, 62 y 63 | Biblia para Dormir
+
+- URL: https://youtu.be/_qADSFs9yQw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 46, Salmo 62, Salmo 63, Salmo 131, Salmo 16, Salmo 3
+- Duração: 4166.1s
+- Publicado em: 2026-07-26T02:31:59+00:00
+
+## [en] B5P9pEjfAJw — Psalms to Rest in God — Psalm 46, 62 & 63 | Bible for Sleep
+
+- URL: https://youtu.be/B5P9pEjfAJw
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — Psalm 46, Psalm 62, Psalm 63, Psalm 131, Psalm 16, Psalm 3
+- Duração: 3703.7s
+- Publicado em: 2026-07-26T03:09:33+00:00
