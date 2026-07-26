@@ -204,12 +204,19 @@
           "video_id": "_qADSFs9yQw",
           "titulo": "Salmos para Descansar en Dios — Salmo 46, 62 y 63 | Biblia para Dormir",
           "em": "2026-07-26T02:31:59+00:00"
+        },
+        {
+          "pacote": "2026-07-26-salmos-dormir-2",
+          "item": "short-1",
+          "video_id": "btydWbb-dZ4",
+          "titulo": "Salmo 62 — En Dios solamente está acallada mi alma",
+          "em": "2026-07-26T08:10:05+00:00"
         }
       ],
-      "ultimo_short": "2026-07-25T22:44:47+00:00",
+      "ultimo_short": "2026-07-26T08:10:05+00:00",
       "shorts_dia": {
-        "data": "2026-07-25",
-        "n": 3
+        "data": "2026-07-26",
+        "n": 1
       },
       "longo_data": "2026-07-26"
     },
@@ -403,12 +410,19 @@
           "video_id": "B5P9pEjfAJw",
           "titulo": "Psalms to Rest in God — Psalm 46, 62 & 63 | Bible for Sleep",
           "em": "2026-07-26T03:09:33+00:00"
+        },
+        {
+          "pacote": "2026-07-26-salmos-dormir-2",
+          "item": "short-1",
+          "video_id": "kHqjbKTvewg",
+          "titulo": "Psalm 62 — Truly My Soul Waiteth Upon God | Bible",
+          "em": "2026-07-26T08:11:09+00:00"
         }
       ],
-      "ultimo_short": "2026-07-25T22:45:49+00:00",
+      "ultimo_short": "2026-07-26T08:11:09+00:00",
       "shorts_dia": {
-        "data": "2026-07-25",
-        "n": 3
+        "data": "2026-07-26",
+        "n": 1
       },
       "longo_data": "2026-07-26"
     },
@@ -553,12 +567,19 @@
           "video_id": "chOevaKnC1o",
           "titulo": "Salmos para Descansar em Deus — Salmo 46, 62 e 63 | Bíblia para Dormir",
           "em": "2026-07-26T05:58:33+00:00"
+        },
+        {
+          "pacote": "2026-07-26-salmos-dormir-2",
+          "item": "short-1",
+          "video_id": "0aOemaHKhv0",
+          "titulo": "Salmo 62 — Somente em Deus descansa a minha alma",
+          "em": "2026-07-26T08:12:14+00:00"
         }
       ],
-      "ultimo_short": "2026-07-25T20:07:43+00:00",
+      "ultimo_short": "2026-07-26T08:12:14+00:00",
       "shorts_dia": {
-        "data": "2026-07-25",
-        "n": 3
+        "data": "2026-07-26",
+        "n": 1
       },
       "longo_data": "2026-07-26"
     }

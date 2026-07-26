@@ -598,3 +598,27 @@
 - Item: longo — Salmo 46, Salmo 62, Salmo 63, Salmo 131, Salmo 16, Salmo 3
 - Duração: 4235.2s
 - Publicado em: 2026-07-26T05:58:33+00:00
+
+## [es] btydWbb-dZ4 — Salmo 62 — En Dios solamente está acallada mi alma
+
+- URL: https://youtu.be/btydWbb-dZ4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 62:1-2
+- Duração: 25.1s
+- Publicado em: 2026-07-26T08:10:05+00:00
+
+## [en] kHqjbKTvewg — Psalm 62 — Truly My Soul Waiteth Upon God | Bible
+
+- URL: https://youtu.be/kHqjbKTvewg
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — Psalm 62:1-2
+- Duração: 26.7s
+- Publicado em: 2026-07-26T08:11:09+00:00
+
+## [pt] 0aOemaHKhv0 — Salmo 62 — Somente em Deus descansa a minha alma
+
+- URL: https://youtu.be/0aOemaHKhv0
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 62:1-2
+- Duração: 27.6s
+- Publicado em: 2026-07-26T08:12:14+00:00
