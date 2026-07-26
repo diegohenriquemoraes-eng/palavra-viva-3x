@@ -34,3 +34,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/17872065606629228/
 - Publicado em: 2026-07-26T19:37:15+00:00
+
+## 18115869398486816 — 1 Samuel 17
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/18115869398486816/
+- Publicado em: 2026-07-26T22:16:08+00:00
