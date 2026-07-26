@@ -622,3 +622,27 @@
 - Item: short-1 — Salmo 62:1-2
 - Duração: 27.6s
 - Publicado em: 2026-07-26T08:12:14+00:00
+
+## [es] fIUr4QC0cY4 — Salmo 63 — Dios, Dios mío eres tú, de madrugada te buscaré
+
+- URL: https://youtu.be/fIUr4QC0cY4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 63:1-4
+- Duração: 26.4s
+- Publicado em: 2026-07-26T15:57:08+00:00
+
+## [en] 3oP1CVWh6w8 — Psalm 63 — O God, Early Will I Seek Thee | Bible
+
+- URL: https://youtu.be/3oP1CVWh6w8
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-2 — Psalm 63:1-4
+- Duração: 27.0s
+- Publicado em: 2026-07-26T15:58:26+00:00
+
+## [pt] IP6v8ejD9oY — Salmo 63 — Ó Deus, tu és o meu Deus, de madrugada te busco
+
+- URL: https://youtu.be/IP6v8ejD9oY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 63:1-4
+- Duração: 28.5s
+- Publicado em: 2026-07-26T15:59:50+00:00

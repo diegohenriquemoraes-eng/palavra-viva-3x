@@ -211,12 +211,19 @@
           "video_id": "btydWbb-dZ4",
           "titulo": "Salmo 62 — En Dios solamente está acallada mi alma",
           "em": "2026-07-26T08:10:05+00:00"
+        },
+        {
+          "pacote": "2026-07-26-salmos-dormir-2",
+          "item": "short-2",
+          "video_id": "fIUr4QC0cY4",
+          "titulo": "Salmo 63 — Dios, Dios mío eres tú, de madrugada te buscaré",
+          "em": "2026-07-26T15:57:08+00:00"
         }
       ],
-      "ultimo_short": "2026-07-26T08:10:05+00:00",
+      "ultimo_short": "2026-07-26T15:57:08+00:00",
       "shorts_dia": {
         "data": "2026-07-26",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-26"
     },
@@ -417,12 +424,19 @@
           "video_id": "kHqjbKTvewg",
           "titulo": "Psalm 62 — Truly My Soul Waiteth Upon God | Bible",
           "em": "2026-07-26T08:11:09+00:00"
+        },
+        {
+          "pacote": "2026-07-26-salmos-dormir-2",
+          "item": "short-2",
+          "video_id": "3oP1CVWh6w8",
+          "titulo": "Psalm 63 — O God, Early Will I Seek Thee | Bible",
+          "em": "2026-07-26T15:58:26+00:00"
         }
       ],
-      "ultimo_short": "2026-07-26T08:11:09+00:00",
+      "ultimo_short": "2026-07-26T15:58:26+00:00",
       "shorts_dia": {
         "data": "2026-07-26",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-26"
     },
@@ -574,12 +588,19 @@
           "video_id": "0aOemaHKhv0",
           "titulo": "Salmo 62 — Somente em Deus descansa a minha alma",
           "em": "2026-07-26T08:12:14+00:00"
+        },
+        {
+          "pacote": "2026-07-26-salmos-dormir-2",
+          "item": "short-2",
+          "video_id": "IP6v8ejD9oY",
+          "titulo": "Salmo 63 — Ó Deus, tu és o meu Deus, de madrugada te busco",
+          "em": "2026-07-26T15:59:50+00:00"
         }
       ],
-      "ultimo_short": "2026-07-26T08:12:14+00:00",
+      "ultimo_short": "2026-07-26T15:59:50+00:00",
       "shorts_dia": {
         "data": "2026-07-26",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-26"
     }
