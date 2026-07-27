@@ -104,6 +104,25 @@ def _ts_capitulo(seg: float) -> str:
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
+def _cta(cfg: dict, seed: int) -> str:
+    """Uma das variantes de fechamento, estável por pacote/item."""
+    variantes = cfg.get("ctas") or [cfg["cta"]]
+    return variantes[seed % len(variantes)]
+
+
+def _encurtar(texto: str, limite: int) -> str:
+    """Corta no fim de frase/palavra para a citação não estourar a descrição."""
+    texto = " ".join(texto.split())
+    if len(texto) <= limite:
+        return texto
+    corte = texto[:limite]
+    for fim in (". ", "; ", ", "):
+        pos = corte.rfind(fim)
+        if pos > limite * 0.6:
+            return corte[:pos + 1].rstrip()
+    return corte.rsplit(" ", 1)[0].rstrip(",;") + "…"
+
+
 def bloco_afiliado(texto: str) -> str:
     """Bloco de afiliado da descrição, com a divulgação exigida.
 
@@ -161,11 +180,17 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     # receber o longo. Dar o link explícito reforça esse caminho.
     ponte = (f"\n\n▶ {cfg['rotulo_completo']}: {url_longo}\n"
              if url_longo else "\n")
+    # O TEXTO narrado abre a descrição (27/07/2026). Antes cada Short tinha a
+    # mesma descrição com só a referência trocada — 25 descrições gêmeas por
+    # canal, exatamente o padrão que a política de conteúdo produzido em massa
+    # procura. O versículo é diferente em todo vídeo, é domínio público e já é
+    # o áudio: torna cada descrição única e ainda entrega à busca as palavras
+    # que a pessoa digita ("no temas, porque yo estoy contigo").
     descricao = (
-        f"{ref_disp} — {cfg['fonte_texto']}."
+        f"“{_encurtar(texto, 300)}”\n{ref_disp} — {cfg['fonte_texto']}."
         + ponte
         + bloco_afiliado(afiliado)
-        + f"\n\n{cfg['cta']}\n\n{cfg['hashtags']} #Shorts"
+        + f"\n\n{_cta(cfg, seed)}\n\n{cfg['hashtags']} #Shorts"
         + (creditos([info_img]) if img else "")
     )
     return {
@@ -330,7 +355,8 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
         f"{longo['titulo'][idioma]}"
         + bloco_afiliado(afiliado)
         + f"\n\n{cfg['rotulo_capitulos']}\n" + "\n".join(caps) + "\n\n"
-        f"{cfg['fonte_texto']}.\n\n{cfg['cta']}\n\n{cfg['hashtags']}"
+        f"{cfg['fonte_texto']}.\n\n{_cta(cfg, _seed(pacote, 'cta'))}\n\n"
+        f"{cfg['hashtags']}"
         + creditos(usadas_info)
     )
     return {

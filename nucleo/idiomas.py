@@ -46,6 +46,19 @@ CONFIG = {
         "palavra_salmo": "Salmo",
         "cta": ("La Palabra de Dios en audio y subtítulos en español. "
                 "Contenido nuevo todos los días. Suscríbete \U0001F64F"),
+        # Variantes de cierre (27/07/2026): el pie idéntico en todos los
+        # videos es una firma de automatización. Se elige una por seed del
+        # paquete — mismo mensaje, redacción distinta.
+        "ctas": [
+            "La Palabra de Dios en audio y subtítulos en español. "
+            "Contenido nuevo todos los días. Suscríbete \U0001F64F",
+            "Escritura narrada, para escuchar y meditar. "
+            "Suscríbete y recibe un pasaje nuevo cada día \U0001F64F",
+            "Aquí la Biblia se lee sola: audio claro y subtítulos. "
+            "Suscríbete para no perder el pasaje de mañana \U0001F64F",
+            "Un pasaje por día, sin prisa y sin comentarios: "
+            "solo la Palabra. Suscríbete \U0001F64F",
+        ],
         "hashtags": "#Biblia #Fe #PalabraDeDios #Versiculos #Cristiano",
         # 16 tags: mediana do nicho medida em produzir/benchmark.py (19/07).
         # Inclui os termos que dominam os títulos campeões: "oración",
@@ -69,6 +82,16 @@ CONFIG = {
         "palavra_salmo": "Psalm",
         "cta": ("God's Word in audio with subtitles. "
                 "New Scripture every day. Subscribe \U0001F64F"),
+        "ctas": [
+            "God's Word in audio with subtitles. "
+            "New Scripture every day. Subscribe \U0001F64F",
+            "Scripture read aloud, to listen to and rest in. "
+            "Subscribe for a new passage each day \U0001F64F",
+            "The Bible, plainly read: clear audio and subtitles. "
+            "Subscribe so tomorrow's passage finds you \U0001F64F",
+            "One passage a day — no commentary, just the Word. "
+            "Subscribe \U0001F64F",
+        ],
         "hashtags": "#Bible #Faith #GodsWord #BibleVerses #Christian",
         "tags": ["bible", "audio bible", "bible verses", "psalms", "psalm 91",
                  "bible for sleep", "scriptures for sleep",
@@ -89,6 +112,16 @@ CONFIG = {
         "palavra_salmo": "Salmo",
         "cta": ("A Palavra de Deus em áudio e legenda em português. "
                 "Conteúdo novo todos os dias. Inscreva-se \U0001F64F"),
+        "ctas": [
+            "A Palavra de Deus em áudio e legenda em português. "
+            "Conteúdo novo todos os dias. Inscreva-se \U0001F64F",
+            "Escritura narrada, para ouvir e meditar. "
+            "Inscreva-se e receba uma passagem nova por dia \U0001F64F",
+            "Aqui a Bíblia é lida em voz alta: áudio limpo e legenda. "
+            "Inscreva-se para não perder a passagem de amanhã \U0001F64F",
+            "Uma passagem por dia, sem pressa e sem comentário: "
+            "só a Palavra. Inscreva-se \U0001F64F",
+        ],
         "hashtags": "#Bíblia #Fé #PalavraDeDeus #Versículos #Cristão",
         "tags": ["bíblia", "bíblia narrada", "salmos", "salmo 91",
                  "salmos para dormir", "oração", "oração poderosa",
