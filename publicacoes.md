@@ -670,3 +670,19 @@
 - Item: short-3 — Salmo 3:3-5
 - Duração: 19.5s
 - Publicado em: 2026-07-26T23:55:50+00:00
+
+## [es] 4GOsWKjFlSo — Dios Provee — Salmo 34 y Filipenses 4 | Promesas de Provisión
+
+- URL: https://youtu.be/4GOsWKjFlSo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 34, Salmo 37:16-31, Filipenses 4:10-20, Mateo 7:7-12, Salmo 145:8-21
+- Duração: 2449.3s
+- Publicado em: 2026-07-27T02:23:37+00:00
+
+## [en] YaBoc-eSvjU — God Provides — Psalm 34 & Philippians 4 | Promises of Provision
+
+- URL: https://youtu.be/YaBoc-eSvjU
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: longo — Psalm 34, Psalm 37:16-31, Philippians 4:10-20, Matthew 7:7-12, Psalm 145:8-21
+- Duração: 1841.9s
+- Publicado em: 2026-07-27T02:41:47+00:00
