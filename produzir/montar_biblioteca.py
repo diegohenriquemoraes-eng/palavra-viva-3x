@@ -51,6 +51,17 @@ CONSULTAS = [
     ("forest path", "campo"), ("green valley", "campo"),
     ("olive trees", "campo"), ("mountain valley", "montanha"),
     ("canyon sunrise", "montanha"), ("snow mountains", "montanha"),
+    # Leva 2 (27/07/2026): 42 fundos para 4 itens/dia repetiam o visual a
+    # cada ~11 dias, e repetição visual é um dos sinais que a política de
+    # conteúdo em massa lê. Mesmo clima — natureza ampla, luz, silêncio.
+    ("night sky mountains", "noite"), ("moonlight sea", "noite"),
+    ("stars desert", "noite"), ("dusk horizon", "noite"),
+    ("sunbeam forest", "luz"), ("golden hour meadow", "luz"),
+    ("sunset clouds", "luz"), ("dawn lake", "luz"),
+    ("calm sea horizon", "agua"), ("mountain stream", "agua"),
+    ("misty river", "agua"), ("vineyard hills", "campo"),
+    ("cedar forest", "campo"), ("grass field wind", "campo"),
+    ("rocky cliff sea", "montanha"), ("valley fog", "montanha"),
 ]
 POR_CONSULTA = 3
 COLS, LINHAS = 5, 4
@@ -106,15 +117,30 @@ def montar_folhas(catalogo: list[dict]) -> None:
 
 
 def aprovar(indices: list[int]) -> None:
+    """Acrescenta os aprovados à biblioteca — nunca substitui.
+
+    Era destrutivo até 27/07/2026: renumerava de 000 e reescrevia
+    creditos.json com só a leva nova. Rodar de novo apagaria os fundos já
+    revisados e, pior, deixaria .jpg órfãos sem crédito — atribuição errada
+    de licença em vídeo publicado. Agora a numeração continua de onde parou.
+    """
     catalogo = json.loads((BRUTO / "catalogo.json").read_text(encoding="utf-8"))
     por_idx = {c["idx"]: c for c in catalogo}
-    aprovados = []
-    for n, i in enumerate(sorted(indices)):
+    aprovados = (json.loads(CREDITOS.read_text(encoding="utf-8"))
+                 if CREDITOS.exists() else [])
+    ja_tem = {a.get("url") for a in aprovados}
+    proximo = 1 + max((int(p.stem) for p in FUNDOS.glob("[0-9]*.jpg")),
+                      default=-1)
+    for i in sorted(indices):
         if i not in por_idx:
             print(f"  ignorado: {i} não está no catálogo")
             continue
+        if por_idx[i].get("url") in ja_tem:
+            print(f"  ignorado: {i} já está na biblioteca")
+            continue
         origem = BRUTO / f"{i:03d}.jpg"
-        destino = FUNDOS / f"{n:03d}.jpg"
+        destino = FUNDOS / f"{proximo:03d}.jpg"
+        proximo += 1
         # padroniza em 1920 de largura: o repo não precisa de 4000px
         im = Image.open(origem).convert("RGB")
         if im.width > 1920:
@@ -123,9 +149,10 @@ def aprovar(indices: list[int]) -> None:
         item = dict(por_idx[i])
         item["arquivo"] = destino.name
         aprovados.append(item)
+        ja_tem.add(item.get("url"))
     CREDITOS.write_text(json.dumps(aprovados, ensure_ascii=False, indent=2),
                         encoding="utf-8")
-    print(f"{len(aprovados)} fundos aprovados em {FUNDOS}")
+    print(f"biblioteca agora com {len(aprovados)} fundos em {FUNDOS}")
 
 
 def main() -> None:
