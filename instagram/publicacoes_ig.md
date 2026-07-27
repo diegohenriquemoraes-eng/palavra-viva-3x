@@ -46,3 +46,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/18106967300023255/
 - Publicado em: 2026-07-27T20:45:26+00:00
+
+## 17901706809499851 — Salmo 91:1-2
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/17901706809499851/
+- Publicado em: 2026-07-27T23:31:12+00:00
