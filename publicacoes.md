@@ -686,3 +686,11 @@
 - Item: longo — Psalm 34, Psalm 37:16-31, Philippians 4:10-20, Matthew 7:7-12, Psalm 145:8-21
 - Duração: 1841.9s
 - Publicado em: 2026-07-27T02:41:47+00:00
+
+## [pt] 5aT0o986DIs — Deus Provê — Salmo 34 e Filipenses 4 | Promessas de Provisão
+
+- URL: https://youtu.be/5aT0o986DIs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 34, Salmo 37:16-31, Filipenses 4:10-20, Mateus 7:7-12, Salmo 145:8-21
+- Duração: 1891.4s
+- Publicado em: 2026-07-27T06:08:24+00:00

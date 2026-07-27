@@ -630,6 +630,13 @@
           "video_id": "8QjLZY_gj6w",
           "titulo": "Salmo 3 — Tu, Senhor, és o escudo ao meu redor",
           "em": "2026-07-26T23:55:50+00:00"
+        },
+        {
+          "pacote": "2026-07-27-provisao-gratidao",
+          "item": "longo",
+          "video_id": "5aT0o986DIs",
+          "titulo": "Deus Provê — Salmo 34 e Filipenses 4 | Promessas de Provisão",
+          "em": "2026-07-27T06:08:24+00:00"
         }
       ],
       "ultimo_short": "2026-07-26T23:55:50+00:00",
@@ -637,7 +644,7 @@
         "data": "2026-07-26",
         "n": 3
       },
-      "longo_data": "2026-07-26"
+      "longo_data": "2026-07-27"
     }
   }
 }
