@@ -40,3 +40,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/18115869398486816/
 - Publicado em: 2026-07-26T22:16:08+00:00
+
+## 18106967300023255 — Salmo 46:10
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/18106967300023255/
+- Publicado em: 2026-07-27T20:45:26+00:00
