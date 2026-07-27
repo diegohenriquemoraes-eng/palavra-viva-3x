@@ -718,3 +718,19 @@
 - Item: short-1 — Filipenses 4:19
 - Duração: 17.0s
 - Publicado em: 2026-07-27T09:36:16+00:00
+
+## [es] RkkaHOSSeV8 — Salmo 37 — Jehová ordena los pasos del hombre bueno | Biblia
+
+- URL: https://youtu.be/RkkaHOSSeV8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 37:23-25
+- Duração: 19.2s
+- Publicado em: 2026-07-27T17:32:14+00:00
+
+## [pt] UdhJrOcXIsc — Salmo 37 — O Senhor firma os passos do homem bom | Bíblia
+
+- URL: https://youtu.be/UdhJrOcXIsc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 37:23-25
+- Duração: 20.4s
+- Publicado em: 2026-07-27T17:33:14+00:00

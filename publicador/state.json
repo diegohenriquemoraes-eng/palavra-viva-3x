@@ -239,12 +239,19 @@
           "video_id": "rr6yAkyjUZ8",
           "titulo": "Filipenses 4:19 — Mi Dios suplirá todo lo que os falta | Biblia",
           "em": "2026-07-27T09:34:19+00:00"
+        },
+        {
+          "pacote": "2026-07-27-provisao-gratidao",
+          "item": "short-2",
+          "video_id": "RkkaHOSSeV8",
+          "titulo": "Salmo 37 — Jehová ordena los pasos del hombre bueno | Biblia",
+          "em": "2026-07-27T17:32:14+00:00"
         }
       ],
-      "ultimo_short": "2026-07-27T09:34:19+00:00",
+      "ultimo_short": "2026-07-27T17:32:14+00:00",
       "shorts_dia": {
         "data": "2026-07-27",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-27"
     },
@@ -658,12 +665,19 @@
           "video_id": "9XkKm3D1tvs",
           "titulo": "Filipenses 4:19 — Meu Deus suprirá tudo o que vos falta",
           "em": "2026-07-27T09:36:16+00:00"
+        },
+        {
+          "pacote": "2026-07-27-provisao-gratidao",
+          "item": "short-2",
+          "video_id": "UdhJrOcXIsc",
+          "titulo": "Salmo 37 — O Senhor firma os passos do homem bom | Bíblia",
+          "em": "2026-07-27T17:33:14+00:00"
         }
       ],
-      "ultimo_short": "2026-07-27T09:36:16+00:00",
+      "ultimo_short": "2026-07-27T17:33:14+00:00",
       "shorts_dia": {
         "data": "2026-07-27",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-27"
     }
