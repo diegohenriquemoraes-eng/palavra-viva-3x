@@ -1,0 +1,179 @@
+{
+  "slug": "salmos-dormir-3",
+  "formato": "dormir",
+  "data": "2026-07-29",
+  "criado_em": "2026-07-27T04:04:03+00:00",
+  "aprovado_em": "2026-07-27T04:04:03+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 61",
+      "Psalms 71:1-16",
+      "Psalms 84",
+      "Psalms 143:1-10",
+      "Psalms 139:1-18"
+    ],
+    "titulo": {
+      "es": "Salmos de Paz para la Noche — Salmo 139, 84 y 61 | Biblia para Dormir",
+      "en": "Psalms of Peace for the Night — Psalm 139, 84 & 61 | Bible for Sleep",
+      "pt": "Salmos de Paz para a Noite — Salmo 139, 84 e 61 | Bíblia para Dormir"
+    },
+    "thumb_titulo": {
+      "es": "PAZ PARA LA NOCHE",
+      "en": "PEACE FOR THE NIGHT",
+      "pt": "PAZ PARA A NOITE"
+    },
+    "thumb_sub": {
+      "es": "Salmo 139 • 84 • 61",
+      "en": "Psalm 139 • 84 • 61",
+      "pt": "Salmo 139 • 84 • 61"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moon_over_Lake_Opuha.jpg/1920px-Moon_over_Lake_Opuha.jpg",
+        "autor": "Paul Stewart",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_over_Lake_Opuha.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg/1920px-Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg",
+        "autor": "John Phelan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Lake_Quannapowitt,_Wakefield_MA.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Moon_Lake_shoreline_-_Riding_Mountain_National_Park.JPG/1920px-Moon_Lake_shoreline_-_Riding_Mountain_National_Park.JPG",
+        "autor": "Norm Andreiw",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Lake_shoreline_-_Riding_Mountain_National_Park.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Moon_Lake_in_Ningbo.jpg/1920px-Moon_Lake_in_Ningbo.jpg",
+        "autor": "Mx. Granger",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Lake_in_Ningbo.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/20190825_Night_forest_02.jpg/1920px-20190825_Night_forest_02.jpg",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190825_Night_forest_02.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20190626_Night_forest_05.jpg/1920px-20190626_Night_forest_05.jpg",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_05.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20190626_Night_forest_04.jpg/1920px-20190626_Night_forest_04.jpg",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_04.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/20190626_Night_forest_06.jpg/1920px-20190626_Night_forest_06.jpg",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_06.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20190626_Night_forest_01.jpg/1920px-20190626_Night_forest_01.jpg",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_01.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Krasnoyarsk_Reservoir%2C_Lake_shore_at_twilight%2C_Forest%2C_trees%2C_Russia.jpg/1920px-Krasnoyarsk_Reservoir%2C_Lake_shore_at_twilight%2C_Forest%2C_trees%2C_Russia.jpg",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Krasnoyarsk_Reservoir,_Lake_shore_at_twilight,_Forest,_trees,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nautical_twilight_over_Isaac_Lake_%28DSCF2518%29.jpg/1920px-Nautical_twilight_over_Isaac_Lake_%28DSCF2518%29.jpg",
+        "autor": "Trougnouf",
+        "origem": "https://commons.wikimedia.org/wiki/File:Nautical_twilight_over_Isaac_Lake_(DSCF2518).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Twilight_at_the_lake_%28458003696%29.jpg/1920px-Twilight_at_the_lake_%28458003696%29.jpg",
+        "autor": "Maltesen",
+        "origem": "https://commons.wikimedia.org/wiki/File:Twilight_at_the_lake_(458003696).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Krasnoyarsk_Reservoir%2C_Lake_shore%2C_Twilight%2C_Forest%2C_trees%2C_Russia.jpg/1920px-Krasnoyarsk_Reservoir%2C_Lake_shore%2C_Twilight%2C_Forest%2C_trees%2C_Russia.jpg",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Krasnoyarsk_Reservoir,_Lake_shore,_Twilight,_Forest,_trees,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lake_Baikal%2C_Late_twilight_2%2C_Russia.jpg/1920px-Lake_Baikal%2C_Late_twilight_2%2C_Russia.jpg",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Baikal,_Late_twilight_2,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 139:1-6",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 139 — Oh Jehová, tú me has examinado y conocido",
+        "en": "Psalm 139 — O Lord, Thou Hast Searched Me and Known Me",
+        "pt": "Salmo 139 — Senhor, tu me sondaste e me conheces"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Starry_sky_from_Tekapo.jpg/1920px-Starry_sky_from_Tekapo.jpg",
+        "autor": "Butterflyyyyyyyy y y y",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_sky_from_Tekapo.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 139:7-10",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 139 — ¿A dónde me iré de tu espíritu? | Biblia",
+        "en": "Psalm 139 — Whither Shall I Go from Thy Spirit? | Bible",
+        "pt": "Salmo 139 — Para onde me irei do teu Espírito?"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Starr-170326-7555-Prunus_persica_var_nucipersica-Desert_Dawn_flowering_habit-Hawea_Pl_Olinda-Maui_%2833297237973%29.jpg/1920px-Starr-170326-7555-Prunus_persica_var_nucipersica-Desert_Dawn_flowering_habit-Hawea_Pl_Olinda-Maui_%2833297237973%29.jpg",
+        "autor": "Forest and Kim Starr",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starr-170326-7555-Prunus_persica_var_nucipersica-Desert_Dawn_flowering_habit-Hawea_Pl_Olinda-Maui_(33297237973).jpg",
+        "licenca": "CC BY 3.0 us"
+      }
+    },
+    {
+      "ref": "Psalms 61:1-4",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Salmo 61 — Llévame a la roca que es más alta que yo",
+        "en": "Psalm 61 — Lead Me to the Rock That Is Higher Than I",
+        "pt": "Salmo 61 — Leva-me à rocha mais alta do que eu"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%22Sunlight_Peeking_Through_Moody_Clouds%22.jpg/1920px-%22Sunlight_Peeking_Through_Moody_Clouds%22.jpg",
+        "autor": "KaanaveniSaikiran",
+        "origem": "https://commons.wikimedia.org/wiki/File:%22Sunlight_Peeking_Through_Moody_Clouds%22.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 84:1-4",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 84 — Cuán amables son tus moradas | Biblia",
+        "en": "Psalm 84 — How Amiable Are Thy Tabernacles | Bible",
+        "pt": "Salmo 84 — Quão amáveis são os teus tabernáculos"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Black_Sea_at_night_-_panoramio_%282%29.jpg/1920px-The_Black_Sea_at_night_-_panoramio_%282%29.jpg",
+        "autor": "Alexey Komarov",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Black_Sea_at_night_-_panoramio_(2).jpg",
+        "licenca": "CC BY 3.0"
+      }
+    }
+  ]
+}
