@@ -694,3 +694,27 @@
 - Item: longo — Salmo 34, Salmo 37:16-31, Filipenses 4:10-20, Mateus 7:7-12, Salmo 145:8-21
 - Duração: 1891.4s
 - Publicado em: 2026-07-27T06:08:24+00:00
+
+## [es] rr6yAkyjUZ8 — Filipenses 4:19 — Mi Dios suplirá todo lo que os falta | Biblia
+
+- URL: https://youtu.be/rr6yAkyjUZ8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Filipenses 4:19
+- Duração: 17.4s
+- Publicado em: 2026-07-27T09:34:19+00:00
+
+## [en] co4ah09kULM — Philippians 4:19 — My God Shall Supply All Your Need | Bible
+
+- URL: https://youtu.be/co4ah09kULM
+- Canal: Living Word Daily (`UCi0VMppJlwroIUcxUP5L7DQ`)
+- Item: short-1 — Philippians 4:19
+- Duração: 15.3s
+- Publicado em: 2026-07-27T09:35:17+00:00
+
+## [pt] 9XkKm3D1tvs — Filipenses 4:19 — Meu Deus suprirá tudo o que vos falta
+
+- URL: https://youtu.be/9XkKm3D1tvs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Filipenses 4:19
+- Duração: 17.0s
+- Publicado em: 2026-07-27T09:36:16+00:00
