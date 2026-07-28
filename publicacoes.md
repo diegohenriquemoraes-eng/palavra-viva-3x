@@ -798,3 +798,11 @@
 - Item: short-2 — Meditations 9:22
 - Duração: 13.0s
 - Publicado em: 2026-07-28T15:49:26+00:00
+
+## [stoic] sDzZXObiIZg — Can a Man Ruled by Worry Truly Live?
+
+- URL: https://youtu.be/sDzZXObiIZg
+- Canal: Stoic by Night (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Moral Letters 55:6
+- Duração: 16.6s
+- Publicado em: 2026-07-28T17:56:19+00:00
