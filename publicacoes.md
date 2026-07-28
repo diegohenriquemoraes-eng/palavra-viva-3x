@@ -766,3 +766,11 @@
 - Item: longo — Salmo 51, Salmo 32, Lucas 15:11-24, 1 João 1:5-10, Isaías 1:16-20, Salmo 130
 - Duração: 1943.3s
 - Publicado em: 2026-07-28T05:23:05+00:00
+
+## [pt] Af6IfnCADcg — Salmo 103 — Quanto está longe o oriente do ocidente
+
+- URL: https://youtu.be/Af6IfnCADcg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 103:11-12
+- Duração: 20.1s
+- Publicado em: 2026-07-28T10:26:56+00:00

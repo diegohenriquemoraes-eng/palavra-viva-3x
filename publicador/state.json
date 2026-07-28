@@ -700,12 +700,19 @@
           "video_id": "nYynmLfORZg",
           "titulo": "O Perdão de Deus — Salmo 51, 32 e o Filho Pródigo | Bíblia Narrada",
           "em": "2026-07-28T05:23:05+00:00"
+        },
+        {
+          "pacote": "2026-07-28-perdao-restauracao",
+          "item": "short-2",
+          "video_id": "Af6IfnCADcg",
+          "titulo": "Salmo 103 — Quanto está longe o oriente do ocidente",
+          "em": "2026-07-28T10:26:56+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T02:21:45+00:00",
+      "ultimo_short": "2026-07-28T10:26:56+00:00",
       "shorts_dia": {
         "data": "2026-07-28",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-28"
     }
