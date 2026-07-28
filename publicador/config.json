@@ -32,6 +32,18 @@
       "hora_longo_utc": 2,
       "shorts_por_dia": 3,
       "gap_shorts_min": 420
+    },
+    "stoic": {
+      "channel_id": "UCA7Jv8o9i9HB2OScOcxUCvg",
+      "ativo": false,
+      "titulo_canal": "Stoic by Night",
+      "handle": "@StoicByNight",
+      "afiliado": "",
+      "afiliado_short": "",
+      "shorts_por_dia": 3,
+      "gap_shorts_min": 420,
+      "hora_longo_utc": 4,
+      "temas": "conteudo/temas_estoico.json"
     }
   }
 }

@@ -11,9 +11,16 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 BIBLIA_DIR = RAIZ / "biblia"
-FONTES_DIR = RAIZ / "marca" / "fontes"
+FONTES_TEXTO_DIR = RAIZ / "fontes"   # corpora não-bíblicos (estoicos etc.)
+FONTES_DIR = RAIZ / "marca" / "fontes"   # fontes tipográficas do render
 
-IDIOMAS = ("es", "en", "pt")
+# "idioma" aqui significa CANAL: cada chave é uma linha de produto com voz,
+# corpus e textos próprios. "stoic" é o primeiro canal não-bíblico (inglês,
+# filosofia estoica em domínio público) — ver `fontes/PROVENIENCIA.md`.
+IDIOMAS = ("es", "en", "pt", "stoic")
+# Os canais que o reabastecedor bíblico atende. O estoico tem poço próprio
+# (conteudo/temas_estoico.json) e NÃO entra aqui.
+IDIOMAS_BIBLIA = ("es", "en", "pt")
 
 # Nome da playlist por formato de conteúdo, em cada idioma. Playlist curta e
 # bem nichada é o que faz o espectador emendar um vídeo no outro em vez de sair.
@@ -22,11 +29,13 @@ PLAYLISTS = {
         "es": "Salmos para dormir 🌙",
         "en": "Psalms for sleep 🌙",
         "pt": "Salmos para dormir 🌙",
+        "stoic": "Stoic philosophy to fall asleep to 🌙",
     },
     "tema": {
         "es": "Promesas de Dios por tema 🙏",
         "en": "God's promises by theme 🙏",
         "pt": "Promessas de Deus por tema 🙏",
+        "stoic": "Stoic wisdom by theme 🏛",
     },
     "historia": {
         "es": "Historias de la Biblia narradas 📖",
@@ -93,6 +102,24 @@ GANCHOS = {
         "Deixe Deus acalmar o seu coração.",
         "Isto aqui é pra você, hoje.",
         "Quando a ansiedade bater, lembre disto.",
+    ],
+    # O canal estoico não chama para a fé, chama para a razão — mesmo trabalho
+    # de gancho, outro registro. Nada de promessa de resultado ("isto vai mudar
+    # sua vida"): o que o texto entrega é uma ideia, e prometer mais do que se
+    # entrega é o que o algoritmo lê como insatisfação.
+    "stoic": [
+        "For you, who cannot switch off tonight.",
+        "Marcus Aurelius wrote this for himself.",
+        "Read this slowly, before you sleep.",
+        "Two thousand years old. Still true.",
+        "Keep this one where you can find it.",
+        "Don't scroll past this one.",
+        "The line that ends the argument.",
+        "Seneca, on the thing you're avoiding.",
+        "Epictetus said it plainer than anyone.",
+        "This is what you actually control.",
+        "One thought, for a restless mind.",
+        "When the worry comes back, remember this.",
     ],
 }
 
@@ -192,6 +219,49 @@ CONFIG = {
         "rotulo_capitulos": "Passagens neste vídeo:",
         "rotulo_repeticao": "repetição",
         "rotulo_completo": "Vídeo completo",
+    },
+    # ---- Stoic by Night (@StoicByNight) — primeiro canal não-bíblico -------
+    # Voz britânica de propósito: a prosa é a tradução vitoriana de Long e de
+    # Gummere, e o registro combina. Também separa o canal das vozes do
+    # Palavra Viva — dois canais da mesma conta com a mesma voz é assinatura
+    # de fábrica.
+    "stoic": {
+        "arquivo_fonte": [FONTES_TEXTO_DIR / "marco_aurelio_long.json",
+                          FONTES_TEXTO_DIR / "seneca_gummere.json",
+                          FONTES_TEXTO_DIR / "epicteto_long.json"],
+        "fonte_texto": ("Marcus Aurelius, trans. George Long (1862); "
+                        "Seneca, trans. R. M. Gummere (1917–25); "
+                        "Epictetus, trans. George Long — all public domain"),
+        "voz": "en-GB-RyanNeural",
+        "rate_short": "-8%",
+        "rate_longo": "-15%",
+        "bcp47": "en",
+        "palavra_salmo": "Psalm",      # não usado: o corpus não tem Salmos
+        "cta": ("Stoic philosophy read aloud, to think with or to sleep to. "
+                "New passage every day. Subscribe \U0001F3DB"),
+        "ctas": [
+            "Stoic philosophy read aloud, to think with or to sleep to. "
+            "New passage every day. Subscribe \U0001F3DB",
+            "Marcus Aurelius, Seneca and Epictetus — unabridged, plainly read. "
+            "Subscribe for a new passage each day \U0001F3DB",
+            "No commentary, no advice: the Stoics in their own words. "
+            "Subscribe so tomorrow's passage finds you \U0001F3DB",
+            "Two thousand years old, read slowly for the end of the day. "
+            "Subscribe \U0001F3DB",
+        ],
+        "hashtags": ("#Stoicism #StoicPhilosophy #MarcusAurelius #Seneca "
+                     "#Epictetus"),
+        # Tags medidas nos 5 canais líderes do nicho (mineração de 28/07):
+        # são praticamente as mesmas entre eles, e é esse conjunto que a busca
+        # do YouTube já associa ao assunto.
+        "tags": ["stoicism", "stoic", "stoic philosophy", "philosophy",
+                 "marcus aurelius", "marcus aurelius meditations",
+                 "stoic quotes", "seneca", "epictetus", "stoic wisdom",
+                 "ancient wisdom", "stoic mindset", "stoicism for sleep",
+                 "philosophy for sleep", "meditations", "discipline"],
+        "rotulo_capitulos": "Passages in this video:",
+        "rotulo_repeticao": "repeat",
+        "rotulo_completo": "Full video",
     },
 }
 

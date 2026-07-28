@@ -55,11 +55,24 @@ ARCAISMOS_ES = [
 ]
 
 
-@lru_cache(maxsize=3)
+@lru_cache(maxsize=6)
 def _carregar(idioma: str) -> dict:
-    arq = idiomas.CONFIG[idioma]["arquivo_fonte"]
-    data = json.loads(arq.read_text(encoding="utf-8"))
-    return {b["name"]: b for b in data["books"]}
+    """Obras do canal, indexadas por nome.
+
+    `arquivo_fonte` aceita UM caminho (as Bíblias, que trazem os 66 livros num
+    arquivo só) ou uma LISTA. O corpus estoico veio em três arquivos, um por
+    tradução, porque a proveniência é por tradução e misturá-los num arquivo
+    só apagaria de quem é cada texto — o que a diretriz de domínio público não
+    permite. Aqui eles voltam a ser um catálogo único de obras.
+    """
+    arqs = idiomas.CONFIG[idioma]["arquivo_fonte"]
+    if not isinstance(arqs, (list, tuple)):
+        arqs = [arqs]
+    livros = {}
+    for arq in arqs:
+        for b in json.loads(arq.read_text(encoding="utf-8"))["books"]:
+            livros[b["name"]] = b
+    return livros
 
 
 def _limpar(texto: str, idioma: str, primeiro_do_salmo: bool,
