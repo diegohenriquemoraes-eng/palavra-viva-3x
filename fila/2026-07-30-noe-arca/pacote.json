@@ -1,0 +1,178 @@
+{
+  "slug": "noe-arca",
+  "formato": "historia",
+  "data": "2026-07-30",
+  "criado_em": "2026-07-28T03:38:33+00:00",
+  "aprovado_em": "2026-07-28T03:38:33+00:00",
+  "longo": {
+    "refs": [
+      "Genesis 6:5-22",
+      "Genesis 7:1-24",
+      "Genesis 8:1-22",
+      "Genesis 9:1-17"
+    ],
+    "titulo": {
+      "es": "Noé y el Arca — La Historia Completa | Génesis 6 al 9 Narrado",
+      "en": "Noah and the Ark — The Complete Bible Story | Genesis 6-9",
+      "pt": "Noé e a Arca — A História Completa | Gênesis 6 a 9 Narrado"
+    },
+    "thumb_titulo": {
+      "es": "NOÉ Y EL ARCA",
+      "en": "NOAH AND THE ARK",
+      "pt": "NOÉ E A ARCA"
+    },
+    "thumb_sub": {
+      "es": "Génesis 6-9 — historia completa",
+      "en": "Genesis 6-9 — full story",
+      "pt": "Gênesis 6-9 — história completa"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Rainbow_with_lightening_dark_sky_2010.jpg/1920px-Rainbow_with_lightening_dark_sky_2010.jpg",
+        "autor": "thinboyfatter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rainbow_with_lightening_dark_sky_2010.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rainbow_in_the_sky_-_Norway_%2854692472197%29.jpg/1920px-Rainbow_in_the_sky_-_Norway_%2854692472197%29.jpg",
+        "autor": "Thomas Heins from Friesenheim, Deutschland",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rainbow_in_the_sky_-_Norway_(54692472197).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/A_rainbow_appears_in_the_sky_after_the_rain_shower.jpg/1920px-A_rainbow_appears_in_the_sky_after_the_rain_shower.jpg",
+        "autor": "Paul-shy",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_rainbow_appears_in_the_sky_after_the_rain_shower.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rainbow_like_a_fountain_in_the_sky.jpg/1920px-Rainbow_like_a_fountain_in_the_sky.jpg",
+        "autor": "লুন",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rainbow_like_a_fountain_in_the_sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Winslow_Homer_-_Early_Morning_After_a_Storm_at_Sea_-_1924.195_-_Cleveland_Museum_of_Art.tiff/lossy-page1-1920px-Winslow_Homer_-_Early_Morning_After_a_Storm_at_Sea_-_1924.195_-_Cleveland_Museum_of_Art.tiff.jpg",
+        "autor": "Winslow Homer",
+        "origem": "https://commons.wikimedia.org/wiki/File:Winslow_Homer_-_Early_Morning_After_a_Storm_at_Sea_-_1924.195_-_Cleveland_Museum_of_Art.tiff",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/T._C._Hart_-_Hart-98135_-_Storm_at_sea.jpg/1920px-T._C._Hart_-_Hart-98135_-_Storm_at_sea.jpg",
+        "autor": "T. C. Hart",
+        "origem": "https://commons.wikimedia.org/wiki/File:T._C._Hart_-_Hart-98135_-_Storm_at_sea.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Storm_Daniel_%282023%29_ober_the_Mediterranean_sea_-_080920231200Z.png/1920px-Storm_Daniel_%282023%29_ober_the_Mediterranean_sea_-_080920231200Z.png",
+        "autor": "Noaa",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_Daniel_(2023)_ober_the_Mediterranean_sea_-_080920231200Z.png",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Storm_in_Black_Sea%2C_Cliffs%2C_Fiolent%2C_Crimea.jpg/1920px-Storm_in_Black_Sea%2C_Cliffs%2C_Fiolent%2C_Crimea.jpg",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_in_Black_Sea,_Cliffs,_Fiolent,_Crimea.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Large_Sailing_Ship.png/1920px-Large_Sailing_Ship.png",
+        "autor": "Willy Tiedjen",
+        "origem": "https://commons.wikimedia.org/wiki/File:Large_Sailing_Ship.png",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Kaisei_Maru_sailing_ship_Sendai_Domain_1858.png",
+        "autor": "Kenya Miura (1821-1889)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Kaisei_Maru_sailing_ship_Sendai_Domain_1858.png",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Replica_of_an_historical_Dutch_sailing_ship_of_17th_century%3B_it_is_part_of_the_Maritime_Ship_Museum%3B_free_photo_Amsterdam_by_Fons_Heijnsbroek%2C_01-2022.jpg/1920px-Replica_of_an_historical_Dutch_sailing_ship_of_17th_century%3B_it_is_part_of_the_Maritime_Ship_Museum%3B_free_photo_Amsterdam_by_Fons_Heijnsbroek%2C_01-2022.jpg",
+        "autor": "Fons Heijnsbroek",
+        "origem": "https://commons.wikimedia.org/wiki/File:Replica_of_an_historical_Dutch_sailing_ship_of_17th_century;_it_is_part_of_the_Maritime_Ship_Museum;_free_photo_Amsterdam_by_Fons_Heijnsbroek,_01-2022.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sailing_ship_Zuiderzee_in_Bremerhaven.jpg/1920px-Sailing_ship_Zuiderzee_in_Bremerhaven.jpg",
+        "autor": "Tvabutzku1234",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sailing_ship_Zuiderzee_in_Bremerhaven.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Dove_Chocolate_%28milk_flavor%2C_white_chocolate%29.jpg/1920px-Dove_Chocolate_%28milk_flavor%2C_white_chocolate%29.jpg",
+        "autor": "Fumikas Sagisavas",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dove_Chocolate_(milk_flavor,_white_chocolate).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/White_Cliffs_of_Dover_from_Ferry.jpg/1920px-White_Cliffs_of_Dover_from_Ferry.jpg",
+        "autor": "GeorgeM2011",
+        "origem": "https://commons.wikimedia.org/wiki/File:White_Cliffs_of_Dover_from_Ferry.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Genesis 9:12-16",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Génesis 9 — Mi arco pondré en las nubes | Biblia",
+        "en": "Genesis 9 — I Do Set My Bow in the Cloud | Bible Story",
+        "pt": "Gênesis 9 — Porei o meu arco nas nuvens | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/IMG_Rainbow_with_a_sky.jpg/1920px-IMG_Rainbow_with_a_sky.jpg",
+        "autor": "Liyan Alsaideh14",
+        "origem": "https://commons.wikimedia.org/wiki/File:IMG_Rainbow_with_a_sky.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Genesis 6:13-16",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Génesis 6 — Hazte un arca de madera de gofer | Biblia",
+        "en": "Genesis 6 — Make Thee an Ark of Gopher Wood | Bible",
+        "pt": "Gênesis 6 — Faze para ti uma arca de madeira | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wooden_boat_7140.jpg/1920px-Wooden_boat_7140.jpg",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_7140.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Genesis 8:8-12",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Génesis 8 — La paloma volvió con una hoja de oliva",
+        "en": "Genesis 8 — The Dove Returned with an Olive Leaf",
+        "pt": "Gênesis 8 — A pomba voltou com uma folha de oliveira"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/How_the_white_dove_escaped_2.jpg/1920px-How_the_white_dove_escaped_2.jpg",
+        "autor": "Henry Justice Ford",
+        "origem": "https://commons.wikimedia.org/wiki/File:How_the_white_dove_escaped_2.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 29:10-11",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 29 — Jehová dará fortaleza a su pueblo | Biblia",
+        "en": "Psalm 29 — The Lord Will Give Strength unto His People",
+        "pt": "Salmo 29 — O Senhor dará força ao seu povo | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Field%2C_corn%2C_Liechtenstein%2C_Mountains%2C_Alps%2C_Vaduz%2C_sky%2C_clouds%2C_landscape.jpg/1920px-Field%2C_corn%2C_Liechtenstein%2C_Mountains%2C_Alps%2C_Vaduz%2C_sky%2C_clouds%2C_landscape.jpg",
+        "autor": "Paranoid",
+        "origem": "https://commons.wikimedia.org/wiki/File:Field,_corn,_Liechtenstein,_Mountains,_Alps,_Vaduz,_sky,_clouds,_landscape.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
