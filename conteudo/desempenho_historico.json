@@ -1,0 +1,41 @@
+[
+  {
+    "data": "2026-07-28",
+    "janela_idade_d": [
+      2,
+      7
+    ],
+    "canais": {
+      "en": {
+        "shorts_na_janela": 14,
+        "views_medianas": 1,
+        "eng_mediano": 0.0,
+        "formatos_na_janela": [
+          "antigo"
+        ],
+        "videos_totais": 32,
+        "views_totais": 1014
+      },
+      "es": {
+        "shorts_na_janela": 15,
+        "views_medianas": 901,
+        "eng_mediano": 7.1,
+        "formatos_na_janela": [
+          "antigo"
+        ],
+        "videos_totais": 35,
+        "views_totais": 21984
+      },
+      "pt": {
+        "shorts_na_janela": 14,
+        "views_medianas": 66,
+        "eng_mediano": 18.63,
+        "formatos_na_janela": [
+          "antigo"
+        ],
+        "videos_totais": 26,
+        "views_totais": 2877
+      }
+    }
+  }
+]
