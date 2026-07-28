@@ -29,10 +29,16 @@ def _run(cmd: list[str], cwd: Path) -> None:
     subprocess.run(cmd, cwd=cwd, check=True)
 
 
-def _zoompan(dur: float, w: int, h: int, seed: int) -> str:
+def _zoompan(dur: float, w: int, h: int, seed: int, loop: bool = False) -> str:
     frames = int(dur * FPS)
-    # alterna zoom-in/zoom-out pelo seed para não ficar tudo igual
-    if seed % 2 == 0:
+    if loop:
+        # Movimento em ciclo FECHADO: o último frame volta ao enquadramento do
+        # primeiro (cosseno de 0 a 2π). Zoom linear termina em 1.10 e o loop do
+        # feed emenda com um solavanco visível — e é o loop que leva a retenção
+        # acima de 100%, que é o que viraliza no Short.
+        z = f"zoom='1+0.07*(1-cos(2*PI*on/{frames}))/2'"
+    elif seed % 2 == 0:
+        # alterna zoom-in/zoom-out pelo seed para não ficar tudo igual
         z = f"zoom='min(1.10,1+0.10*on/{frames})'"
     else:
         z = f"zoom='max(1.0,1.10-0.10*on/{frames})'"
@@ -47,22 +53,45 @@ def _zoompan(dur: float, w: int, h: int, seed: int) -> str:
 
 def render_short(pasta: Path, voz: str, ass: str, imagem: Path | None,
                  dur: float, seed: int, saida: str = "short.mp4",
-                 fade_in: float = 0.4) -> Path:
-    """fade_in: duração do fade a partir do preto. 0 = sem preto (o Reel do
-    Instagram abre direto no gancho — o 1º frame decide 50% do scroll)."""
+                 fade_in: float = 0.0, fade_out: float = 0.0,
+                 loop: bool = True) -> Path:
+    """Short/Reel 9:16 pensado para o LOOP do feed (padrão desde 27/07/2026).
+
+    Os três defaults mudaram juntos, e é o mesmo motivo: no Short a moeda é
+    retenção, e ela só passa de 100% quando o vídeo emenda no próprio começo.
+
+    - `fade_in=0`: sem preto no 1º frame — metade da audiência decide em 1,7 s,
+      e 0,4 s de preto é um quarto dessa janela gasto sem mostrar nada.
+    - `fade_out=0`: corte seco. Escurecer para o preto no fim avisa "acabou" e
+      é onde a pessoa desliza, em vez de dar a segunda passada.
+    - `loop=True`: o movimento de fundo fecha o ciclo (ver `_zoompan`), então a
+      emenda do fim com o começo não tem solavanco.
+
+    Quem quiser o comportamento antigo passa os três explicitamente.
+    """
     fontsdir = _fontsdir(pasta)
     if imagem is not None:
-        entrada = ["-loop", "1", "-t", f"{dur:.2f}", "-i", imagem.name]
-        fundo = _zoompan(dur, 1080, 1920, seed)
+        # -framerate FPS é OBRIGATÓRIO aqui. Sem ele a imagem entra a 25 fps
+        # (default do demuxer de imagem), o zoompan devolve 1 frame por frame de
+        # entrada e o `fps=30` do filtro só CARIMBA a saída como 30 — resultado:
+        # 25*dur frames tocados a 30 fps, ou seja um vídeo 17% mais curto que a
+        # narração. Defeito que saiu em todos os Shorts publicados até 27/07/2026
+        # (um Short de 23,4s de áudio tinha 19,5s de imagem: a narração terminava
+        # sobre o último frame parado, justo onde a retenção é decidida).
+        entrada = ["-loop", "1", "-framerate", str(FPS),
+                   "-t", f"{dur:.2f}", "-i", imagem.name]
+        fundo = _zoompan(dur, 1080, 1920, seed, loop=loop)
     else:
         entrada = ["-f", "lavfi", "-i",
                    (f"gradients=s=1080x1920:c0=0x0B1230:c1=0x1B0F3B:c2=0x2A1450:"
                     f"nb_colors=3:seed={seed}:speed=0.015:r={FPS}:d={dur:.2f}")]
         fundo = "null"
     entra = f"fade=t=in:st=0:d={fade_in:.2f}," if fade_in > 0 else ""
+    sai = (f"fade=t=out:st={dur - fade_out:.2f}:d={fade_out:.2f},"
+           if fade_out > 0 else "")
     filtro = (
         f"[0:v]{fundo},ass={ass}:fontsdir='{fontsdir}',"
-        f"{entra}fade=t=out:st={dur - 0.6:.2f}:d=0.6,"
+        f"{entra}{sai}"
         f"format=yuv420p[v];[1:a]apad=whole_dur={dur:.2f}[a]"
     )
     _run(["ffmpeg", "-y", "-loglevel", "error", *entrada, "-i", voz,
@@ -149,7 +178,8 @@ def render_longo(pasta: Path, voz_wav: str, pad_wav: str, ass: str,
     for i, img in enumerate(imagens):
         nome = f"bg{i:03d}.mp4"
         _run(["ffmpeg", "-y", "-loglevel", "error",
-              "-loop", "1", "-t", f"{seg:.3f}", "-i", img.name,
+              "-loop", "1", "-framerate", str(FPS),   # ver render_short
+              "-t", f"{seg:.3f}", "-i", img.name,
               "-vf", _zoompan(seg, 1920, 1080, seed + i),
               "-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "23",
               "-pix_fmt", "yuv420p", nome], pasta)

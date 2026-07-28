@@ -322,9 +322,13 @@ def main() -> None:
     log(f"render ok: {res['arquivo']} "
         f"({res['arquivo'].stat().st_size / 1e6:.1f} MB, {res['duracao_s']}s)")
 
+    # Índice GLOBAL do post (o ponteiro já foi avançado por proximo_item).
+    # Era o contador do DIA (0..2), e com ele os 12 ganchos, 8 CTAs e 5 blocos
+    # de hashtags viravam 3 combinações se repetindo todo santo dia — o rastro
+    # de automação exato que a caption foi escrita para evitar.
     caption = legenda.montar_caption(
         res["ref_disp"], res["texto"], cfg["ponte_bio"], cfg["assinatura"],
-        st["dia"]["n"] if st["dia"]["data"] == hoje else 0, fonte=res["fonte"])
+        st["ponteiro"] - 1, fonte=res["fonte"])
 
     if args.render_apenas:
         (outdir / "caption.txt").write_text(caption, encoding="utf-8")

@@ -6,3 +6,13 @@ saida/
 *.lock
 upload-state.json
 alarmes.md
+
+# Estrategia: numeros de canal, receita e planos de monetizacao.
+# Este repo e PUBLICO (minutos de Actions) — documento de negocio fica local.
+ESTRATEGIA-FANTASMA.md
+
+# TikTok (local, nunca versionar — sessao logada e videos)
+tiktok/biblioteca/
+tiktok/poster/perfil_chrome/
+tiktok/poster/*.log
+tiktok/_tmp_render/

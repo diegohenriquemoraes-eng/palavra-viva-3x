@@ -35,6 +35,67 @@ PLAYLISTS = {
     },
 }
 
+# GANCHO falado+escrito no 1º segundo de todo Short/Reel. É a peça que decide
+# se o vídeo é distribuído: o YouTube só impulsiona Short com view ratio acima
+# de 70% (80% é o nível que viraliza), e esse número se decide nos 3 primeiros
+# segundos — metade da audiência resolve em 1,7 s. Até 27/07/2026 o Short do
+# YouTube entrava direto no versículo; só o Reel do Instagram tinha gancho.
+#
+# São CHAMADOS curtos (~1,5-2,5 s falados), não pregação: a diretriz editorial
+# nº 4 (só o texto bíblico) continua valendo para o CONTEÚDO — o gancho é
+# embalagem, e não interpreta nem acrescenta doutrina à passagem.
+#
+# As três listas são traduções uma da outra, na MESMA ordem de propósito: o
+# gancho de índice N diz a mesma coisa nos 3 canais. Isso é o que permite
+# comparar desempenho de gancho entre idiomas sem confundir com o conteúdo.
+GANCHOS = {
+    "es": [
+        "Para ti, que estás cansado.",
+        "Si te apareció, no fue casualidad.",
+        "Escucha esto antes de dormir.",
+        "Dios quiere hablarte ahora.",
+        "Respira y lee despacio.",
+        "Guarda esta promesa en tu corazón.",
+        "No sigas sin leer esto.",
+        "La Palabra que necesitabas hoy.",
+        "Una promesa de Dios para ti.",
+        "Deja que Dios calme tu corazón.",
+        "Esto es para ti, hoy.",
+        "Cuando llegue la ansiedad, recuerda esto.",
+    ],
+    "en": [
+        "For you, who are tired.",
+        "If this found you, it wasn't chance.",
+        "Hear this before you sleep.",
+        "God wants to speak to you now.",
+        "Breathe, and read slowly.",
+        "Keep this promise in your heart.",
+        "Don't scroll past this one.",
+        "The Word you needed today.",
+        "A promise from God, for you.",
+        "Let God quiet your heart.",
+        "This one is for you, today.",
+        "When anxiety comes, remember this.",
+    ],
+    # A lista PT nasceu no Reel do Instagram (24/07) e está no ar desde então.
+    # A ORDEM não muda: o gancho é escolhido por seed do item, e reordenar
+    # trocaria o gancho de posts que já existem.
+    "pt": [
+        "Pra você que está cansado.",
+        "Se apareceu pra você, não foi por acaso.",
+        "Ouça isto antes de dormir.",
+        "Deus quer te falar agora.",
+        "Respire e leia devagar.",
+        "Guarde esta promessa no coração.",
+        "Não role sem ler isto.",
+        "A Palavra que você precisava hoje.",
+        "Uma promessa de Deus pra você.",
+        "Deixe Deus acalmar o seu coração.",
+        "Isto aqui é pra você, hoje.",
+        "Quando a ansiedade bater, lembre disto.",
+    ],
+}
+
 CONFIG = {
     "es": {
         "arquivo_biblia": BIBLIA_DIR / "rv1909.json",

@@ -19,9 +19,21 @@ from . import biblia, idiomas, imagens, legendas, musica, render, thumbnail, tts
 PAUSA_VERSO = 2.0       # silêncio contemplativo entre versículos do longo
                         # (2,0s: leva o longo típico acima dos 8 min de mid-roll)
 CAUDA_LONGO = 3.5
-CAUDA_SHORT = 1.2
-MIN_SHORT_S = 15.0      # abaixo disto o versículo é repetido (ver montar_short)
-PAUSA_REPETICAO = 1.6
+# Cauda curta no Short: silêncio no fim é o que quebra a emenda do loop. Era
+# 1,2s — mais de um segundo de nada antes do vídeo recomeçar.
+CAUDA_SHORT = 0.35
+PAUSA_GANCHO = 0.6      # respiro entre o gancho e a passagem
+# Teto de duração do Short (27/07/2026). O feed premia 15-25s, e quanto mais
+# curto o vídeo MAIS retenção percentual ele precisa entregar — passagem de 144
+# palavras vira Short de quase um minuto e morre no meio. Acima do teto a
+# passagem é cortada em VERSOS INTEIROS e a referência exibida acompanha o
+# corte (nunca dizer 91:1-4 narrando 91:1-2).
+MAX_SHORT_S = 25.0
+# Passagem com até 25 palavras é narrada DUAS vezes — formato consagrado do
+# nicho (repetição para meditar), não enchimento. O limite é o que faz o vídeo
+# repetido ainda caber no teto de 25s.
+REPETIR_ATE_PALAVRAS = 25
+PALAVRAS_POR_S_SHORT = 2.30   # medido nas 3 vozes a -8% (2,33-2,43); conservador
 CICLOS_DORMIR = 2       # repetições NARRADAS (dão variação de legenda/imagem)
 # Duração-alvo do vídeo longo, por formato, em minutos.
 #
@@ -133,6 +145,31 @@ def bloco_afiliado(texto: str) -> str:
     return f"\n\n{texto.strip()}" if texto and texto.strip() else ""
 
 
+def _cortar_ao_teto(versos: list[tuple[int, str]], ref: str,
+                    orcamento: int) -> tuple[list[tuple[int, str]], str]:
+    """Corta a passagem em VERSOS INTEIROS até caber no orçamento de palavras.
+
+    Devolve os versos mantidos e a referência correspondente ao que sobrou —
+    dizer "Salmo 91:1-4" narrando só 91:1-2 seria enganar a descrição e a busca.
+    Nunca devolve vazio: um verso longo sozinho passa do teto e vai assim mesmo
+    (cortar no meio de um versículo é pior que um Short de 30s).
+    """
+    mantidos: list[tuple[int, str]] = []
+    total = 0
+    for num, txt in versos:
+        n = len(txt.split())
+        if mantidos and total + n > orcamento:
+            break
+        mantidos.append((num, txt))
+        total += n
+    if len(mantidos) == len(versos):
+        return versos, ref
+    livro, cap, _, _ = biblia.analisar_ref(ref)
+    v1, v2 = mantidos[0][0], mantidos[-1][0]
+    novo = f"{livro} {cap}:{v1}" if v1 == v2 else f"{livro} {cap}:{v1}-{v2}"
+    return mantidos, novo
+
+
 def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
                  outdir: Path, url_longo: str = "",
                  afiliado: str = "") -> dict:
@@ -141,29 +178,31 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     ref = short["ref"]
     outdir.mkdir(parents=True, exist_ok=True)
 
-    versos = biblia.carregar_versos(idioma, ref)
+    # GANCHO nos 3 primeiros segundos — a peça que decide o view ratio, e com
+    # ele a distribuição. Escolhido por seed do pacote+item: estável (rerender
+    # dá o mesmo vídeo) e girando entre os 12 da lista do idioma.
+    ganchos = idiomas.GANCHOS[idioma]
+    gancho = ganchos[_seed(pacote, f"gancho{idx}") % len(ganchos)]
+
+    orcamento = int((MAX_SHORT_S - CAUDA_SHORT - PAUSA_GANCHO)
+                    * PALAVRAS_POR_S_SHORT) - len(gancho.split())
+    versos, ref = _cortar_ao_teto(biblia.carregar_versos(idioma, ref), ref,
+                                  orcamento)
     texto = " ".join(t for _, t in versos)
 
-    mp3 = outdir / "voz.mp3"
-    palavras = tts.narrar(texto, cfg["voz"], cfg["rate_short"], mp3)
-    legendas.alinhar_display(texto, palavras)
-    blocos = legendas.agrupar(palavras)
-    dur = max(tts.duracao_audio(mp3), blocos[-1]["fim"]) + CAUDA_SHORT
+    partes = [(0, gancho), (1, texto)]
+    if len(texto.split()) <= REPETIR_ATE_PALAVRAS:
+        partes.append((2, texto))
 
-    # Versículo curto (Salmo 4:8, Josué 1:9...) dava Short de ~9s: fino demais
-    # para reter e para o loop do feed. Nesses casos o texto é narrado DUAS
-    # vezes com pausa — formato consagrado no nicho (repetição para meditar),
-    # não enchimento: o espectador ouve, respira e ouve de novo.
-    if dur < MIN_SHORT_S:
-        segmentos, dur_voz = tts.narrar_versos(
-            [(1, texto), (2, texto)], cfg["voz"], cfg["rate_short"],
-            PAUSA_REPETICAO, outdir / "voz.wav", outdir / "tts")
-        blocos = []
-        for seg in segmentos:
-            legendas.alinhar_display(seg["texto"], seg["palavras"])
-            blocos += legendas.agrupar(seg["palavras"])
-        mp3 = outdir / "voz.wav"
-        dur = dur_voz + CAUDA_SHORT
+    voz = outdir / "voz.wav"
+    segmentos, dur_voz = tts.narrar_versos(
+        partes, cfg["voz"], cfg["rate_short"], PAUSA_GANCHO, voz,
+        outdir / "tts")
+    blocos = []
+    for seg in segmentos:
+        legendas.alinhar_display(seg["texto"], seg["palavras"])
+        blocos += legendas.agrupar(seg["palavras"])
+    dur = dur_voz + CAUDA_SHORT
 
     cab = biblia.cabecalho(idioma, ref)
     legendas.ass_short(outdir / "legenda.ass", blocos, cab, marca, dur)
@@ -172,7 +211,9 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     info_img = da_casa[0] if da_casa else short.get("imagem")
     img = _baixar_imagem(info_img, outdir / "fundo.jpg")
     seed = _seed(pacote, f"short{idx}")
-    video = render.render_short(outdir, mp3.name, "legenda.ass", img, dur, seed)
+    # sem preto na abertura, sem fade no fim e fundo em ciclo fechado: o Short
+    # existe para dar a segunda passada (ver render.render_short)
+    video = render.render_short(outdir, voz.name, "legenda.ass", img, dur, seed)
 
     ref_disp = biblia.ref_exibicao(idioma, ref)
     # Ponte Short -> vídeo longo do MESMO dia. O algoritmo deixou de tratar

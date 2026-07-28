@@ -91,12 +91,37 @@ python publicador\publicar.py --canal pt --render-apenas --forcar-tipo longo
 Saída de teste em `saida/` (gitignorado). Credenciais locais em
 `credenciais/{es,en,pt}/` (gitignorado) — nunca no chat, Git ou print.
 
-## Qualidade do conteúdo — decisões que já custaram um vídeo ruim
+## Anatomia do Short/Reel — o padrão de 27/07/2026
 
-- **Short curto demais**: versículo único (Salmo 4:8) rendia 9s, fino para
-  reter. Abaixo de `MIN_SHORT_S` (15s) o texto é narrado **duas vezes** com
-  pausa — formato consagrado do nicho (repetição para meditar), não
-  enchimento. Ver `nucleo/fabrica.py::montar_short`.
+Pacote único de mudanças aplicado depois de medir os canais e ler o manual do
+nicho. Tudo em `nucleo/fabrica.py::montar_short` e `nucleo/render.py::render_short`.
+No Short a moeda é **retenção**: o YouTube só impulsiona acima de 70% de view
+ratio (80% viraliza) e a retenção só passa de 100% quando o vídeo dá a segunda
+passada. As cinco peças servem a isso:
+
+1. **Gancho falado+escrito no 1º frame** (`nucleo/idiomas.GANCHOS`, 12 por
+   idioma, os mesmos nos 3 canais na mesma ordem). Até 27/07 só o Reel do
+   Instagram tinha gancho; o Short do YouTube entrava direto no versículo.
+   O gancho é EMBALAGEM: não interpreta nem acrescenta doutrina (diretriz 4).
+2. **Sem preto na abertura** (`fade_in=0`) e **sem fade no fim** (`fade_out=0`).
+   Metade da audiência decide em 1,7s e escurecer no fim avisa "acabou".
+3. **Fundo em ciclo fechado** (`_zoompan(loop=True)`, cosseno de 0 a 2π): o
+   último frame volta ao enquadramento do primeiro, então a emenda do loop não
+   tem solavanco. Conferido: diferença média de 0,89/255 entre 1º e último frame.
+4. **Teto de 25s** (`MAX_SHORT_S`), cortando em VERSOS INTEIROS e ajustando a
+   referência exibida ao que sobrou. Sem teto, o p90 era 41s e o máximo 75s.
+   Com teto: mediana 21s, p90 24s. O resto da passagem vive no vídeo longo.
+5. **Passagem de até 25 palavras é narrada 2x** (`REPETIR_ATE_PALAVRAS`) —
+   formato do nicho (repetição para meditar) e mais loops no mesmo vídeo.
+
+⚠ **Defeito corrigido junto, que saiu em TODOS os Shorts publicados até
+27/07/2026**: sem `-framerate 30` na entrada de imagem, o demuxer entrega 25
+fps, o zoompan devolve 1 frame por frame de entrada e o `fps=30` do filtro só
+carimba a saída — o vídeo saía **17% mais curto que a narração** (23,4s de
+áudio com 19,5s de imagem). A narração terminava sobre o último frame parado,
+exatamente onde a retenção é decidida. Nunca tirar o `-framerate` da entrada.
+
+## Qualidade do conteúdo — decisões que já custaram um vídeo ruim
 - **Imagem fora do assunto**: o Commons devolve muito documento e foto de
   arquivo. `nucleo/imagens.py` reprova por título (blocklist `LIXO`) e exige
   **2 termos da consulta no título** — "green pastures stream" trazia porcos

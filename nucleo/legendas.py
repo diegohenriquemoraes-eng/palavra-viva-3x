@@ -100,7 +100,11 @@ def ass_short(path: Path, blocos: list[dict], cabecalho: str, marca: str,
     fim = _ts(dur)
     linhas.append(f"Dialogue: 0,0:00:00.00,{fim},Ref,,0,0,0,,{cabecalho}\n")
     linhas.append(f"Dialogue: 0,0:00:00.00,{fim},Marca,,0,0,0,,{marca}\n")
-    for b in blocos:
+    for i, b in enumerate(blocos):
+        if i == 0:
+            # o gancho tem que estar ESCRITO no frame zero: o TTS começa a
+            # falar por volta de 0,1s e o vídeo abria com 3 frames sem texto
+            b = {**b, "ini": 0.0}
         linhas.append(
             f"Dialogue: 0,{_ts(b['ini'])},{_ts(b['fim'])},Verso,,0,0,0,,{b['texto']}\n"
         )
