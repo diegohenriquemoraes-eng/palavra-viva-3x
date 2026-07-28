@@ -18,13 +18,13 @@
       },
       "es": {
         "shorts_na_janela": 15,
-        "views_medianas": 901,
-        "eng_mediano": 7.1,
+        "views_medianas": 903,
+        "eng_mediano": 7.09,
         "formatos_na_janela": [
           "antigo"
         ],
         "videos_totais": 35,
-        "views_totais": 21984
+        "views_totais": 21982
       },
       "pt": {
         "shorts_na_janela": 14,
@@ -34,7 +34,7 @@
           "antigo"
         ],
         "videos_totais": 26,
-        "views_totais": 2877
+        "views_totais": 2881
       }
     }
   }
