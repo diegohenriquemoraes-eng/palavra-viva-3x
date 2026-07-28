@@ -260,12 +260,19 @@
           "video_id": "tjg1FQBlOqA",
           "titulo": "Salmo 51 — Crea en mí, oh Dios, un corazón limpio | Biblia",
           "em": "2026-07-28T04:57:17+00:00"
+        },
+        {
+          "pacote": "2026-07-28-perdao-restauracao",
+          "item": "short-2",
+          "video_id": "vSM3cqR4fJ4",
+          "titulo": "Salmo 103 — Cuanto está lejos el oriente del occidente",
+          "em": "2026-07-28T12:49:30+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T04:57:17+00:00",
+      "ultimo_short": "2026-07-28T12:49:30+00:00",
       "shorts_dia": {
         "data": "2026-07-28",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-28"
     },
@@ -715,6 +722,23 @@
         "n": 2
       },
       "longo_data": "2026-07-28"
+    },
+    "stoic": {
+      "publicados": [
+        {
+          "pacote": "2026-07-28-anxious-mind-quiet",
+          "item": "short-1",
+          "video_id": "-gAGZUMmb_4",
+          "titulo": "The One Thought That Ends Anxiety Instantly",
+          "em": "2026-07-28T13:26:35+00:00"
+        }
+      ],
+      "ultimo_short": "2026-07-28T13:26:35+00:00",
+      "shorts_dia": {
+        "data": "2026-07-28",
+        "n": 1
+      },
+      "longo_data": ""
     }
   }
 }

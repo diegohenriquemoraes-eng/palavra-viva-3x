@@ -774,3 +774,19 @@
 - Item: short-2 — Salmo 103:11-12
 - Duração: 20.1s
 - Publicado em: 2026-07-28T10:26:56+00:00
+
+## [es] vSM3cqR4fJ4 — Salmo 103 — Cuanto está lejos el oriente del occidente
+
+- URL: https://youtu.be/vSM3cqR4fJ4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 103:11-13
+- Duração: 22.4s
+- Publicado em: 2026-07-28T12:49:30+00:00
+
+## [stoic] -gAGZUMmb_4 — The One Thought That Ends Anxiety Instantly
+
+- URL: https://youtu.be/-gAGZUMmb_4
+- Canal: Stoic by Night (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditations 5:4
+- Duração: 22.5s
+- Publicado em: 2026-07-28T13:26:35+00:00
