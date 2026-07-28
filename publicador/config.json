@@ -11,7 +11,17 @@
       "_afiliado_short_removido_28_07": "O curso de piano saiu da descrição dos Shorts: no feed de Shorts a descrição fica escondida, então ele não convertia, e curso de piano num canal de salmos para dormir é oferta fora do público — o tipo de CTA descasada que derruba retenção. Continua no LONGO, onde a descrição é visível, até haver um produto em espanhol alinhado (Bíblia/quadro/devocional, como no PT). Precisa de link de afiliado novo, que só o Diego pode gerar.",
       "hora_longo_utc": 0,
       "shorts_por_dia": 3,
-      "gap_shorts_min": 420
+      "gap_shorts_min": 420,
+      "_afiliado_rascunho_28_07": {
+        "produto": "La Biblia en 40 días — Alex Sampedro (Hotmart, id Q78352651S)",
+        "url_marketplace": "https://hotmart.com/es/marketplace/productos/la-biblia-en-40-dias/Q78352651S",
+        "por_que": "Pastor evangelico real em Valencia (Espanha), 6 anos de Hotmart, dirige a Academia de la Biblia. Produto focado (nao e esteira de ebook), garantia de 15 dias, R$239 — comissao por venda muito maior que ebook de R$39. Alinhado ao publico: quem ouve salmos todo dia ja quer a Palavra, e este curso ensina a ler a Biblia inteira.",
+        "instrucao": "Diego: logar na Hotmart, abrir a url_marketplace, 'Quiero divulgar' / afiliar-se, copiar o link de afiliado e me mandar. Eu troco 'afiliado' e 'afiliado_short' e sobe sozinho.",
+        "texto_pronto_longo": "📖 Aprende a leer la Biblia entera en 40 días — curso del pastor Alex Sampedro:\n<<LINK>>\n\nEnlace de afiliado: al usarlo apoyas este canal sin ningún costo adicional para ti. ¡Que Dios te bendiga! 🙏",
+        "texto_pronto_short": "📖 Aprende a leer la Biblia entera en 40 días:\n<<LINK>>\nEnlace de afiliado: apoyas el canal sin costo adicional para ti. 🙏",
+        "reprovados": "'Pack Esencial de Estudio Bíblico' (R$38,97): produtor anonimo, esteira de ebooks, e vende 'CÓDIGO DIVINO: Oraciones para Prosperidad' — teologia da prosperidade num canal que so narra o texto biblico e risco de reputacao. NAO usar. Toda a categoria 'Autoconocimiento y espiritualidad' do marketplace ES e esoterismo (cirurgia astral, pendulo, chakras) — buscar pelo NOME do produto, nunca pela categoria.",
+        "segunda_opcao": "'CURSO DE FORMACIÓN BÍBLICA - Toma tu Biblia', Nicolás López (Colombia), R$85, id H62601867T — mais barato, converte mais facil em pais de renda menor, mas o produtor e generalista (vende de teologia a paginas de colorir)."
+      }
     },
     "en": {
       "ativo": false,
