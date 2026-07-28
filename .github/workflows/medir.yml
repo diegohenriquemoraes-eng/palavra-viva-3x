@@ -41,8 +41,10 @@ jobs:
           EN_TOKEN: ${{ secrets.YT_TOKEN_EN }}
           PT_SECRET: ${{ secrets.YT_CLIENT_SECRET_PT }}
           PT_TOKEN: ${{ secrets.YT_TOKEN_PT }}
+          STOIC_SECRET: ${{ secrets.YT_CLIENT_SECRET_STOIC }}
+          STOIC_TOKEN: ${{ secrets.YT_TOKEN_STOIC }}
         run: |
-          for lang in es en pt; do
+          for lang in es en pt stoic; do
             secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
             token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
             secret="${!secret_var}"

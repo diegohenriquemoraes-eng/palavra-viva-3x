@@ -207,7 +207,12 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     cab = biblia.cabecalho(idioma, ref)
     legendas.ass_short(outdir / "legenda.ass", blocos, cab, marca, dur)
 
-    da_casa = imagens.escolher_da_biblioteca(1, _seed(pacote, f"fundo{idx}"))
+    # A biblioteca da casa (marca/fundos) foi curada para conteúdo BÍBLICO.
+    # Canal de outra linha usa a imagem resolvida no próprio pacote, pelas
+    # consultas do seu poço — senão o Stoic by Night narraria Marco Aurélio
+    # sobre foto de deserto da Terra Santa.
+    da_casa = (imagens.escolher_da_biblioteca(1, _seed(pacote, f"fundo{idx}"))
+               if cfg.get("biblioteca_local", True) else [])
     info_img = da_casa[0] if da_casa else short.get("imagem")
     img = _baixar_imagem(info_img, outdir / "fundo.jpg")
     seed = _seed(pacote, f"short{idx}")
@@ -334,9 +339,11 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     n_alvo = 1 if FUNDO_ESTATICO_LONGO else max(6, min(30, math.ceil(dur / SEG_POR_IMAGEM)))
     baixadas: list[Path] = []
     usadas_info: list[dict] = []
-    # biblioteca curada primeiro; o que o pacote resolveu na busca é reserva
-    fontes = imagens.escolher_da_biblioteca(n_alvo, _seed(pacote, "fundos")) \
-        or longo.get("imagens", [])
+    # biblioteca curada primeiro; o que o pacote resolveu na busca é reserva.
+    # Fora da linha bíblica a biblioteca não serve (ver montar_short).
+    fontes = ((imagens.escolher_da_biblioteca(n_alvo, _seed(pacote, "fundos"))
+               if cfg.get("biblioteca_local", True) else [])
+              or longo.get("imagens", []))
     for j, info in enumerate(fontes):
         p = _baixar_imagem(info, outdir / f"img{j:02d}.jpg")
         if p:

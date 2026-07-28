@@ -25,50 +25,67 @@ sys.stdout.reconfigure(encoding="utf-8")
 from nucleo import biblia, imagens  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parent.parent
-FILA = RAIZ / "fila"
-TEMAS = RAIZ / "conteudo" / "temas.json"
 
 DIAS_ADIANTE = 2
 IMAGENS_LONGO = 14
 
+# Uma LINHA é um poço de temas + a fila que ele abastece + os canais que
+# consomem essa fila. A linha bíblica alimenta os 3 canais de Escritura com o
+# MESMO pacote (as imagens são as mesmas, muda o áudio e a legenda). A estoica
+# alimenta só o Stoic by Night. Filas separadas porque os poços não se
+# misturam: um pacote estoico não tem tradução para os canais bíblicos.
+LINHAS = {
+    "biblia": {
+        "fila": RAIZ / "fila",
+        "temas": RAIZ / "conteudo" / "temas.json",
+        "canais": ("es", "en", "pt"),
+    },
+    "estoico": {
+        "fila": RAIZ / "fila_stoic",
+        "temas": RAIZ / "conteudo" / "temas_estoico.json",
+        "canais": ("stoic",),
+    },
+}
 
-def slugs_usados() -> set[str]:
-    if not FILA.is_dir():
+
+def slugs_usados(fila: Path) -> set[str]:
+    if not fila.is_dir():
         return set()
-    return {p.name[11:] for p in FILA.iterdir()
+    return {p.name[11:] for p in fila.iterdir()
             if p.is_dir() and len(p.name) > 11}
 
 
-def pacote_do_dia(data: str) -> Path | None:
-    if not FILA.is_dir():
+def pacote_do_dia(fila: Path, data: str) -> Path | None:
+    if not fila.is_dir():
         return None
-    for p in sorted(FILA.iterdir()):
+    for p in sorted(fila.iterdir()):
         if p.is_dir() and p.name.startswith(data):
             return p
     return None
 
 
-def validar_tema(tema: dict) -> None:
+def validar_tema(tema: dict, canais: tuple[str, ...]) -> None:
     refs = list(tema["longo"]["refs"]) + [s["ref"] for s in tema["shorts"]]
     for ref in refs:
-        for idioma in ("es", "en", "pt"):
-            biblia.carregar_versos(idioma, ref)
+        for canal in canais:
+            biblia.carregar_versos(canal, ref)
     for campo in ("titulo", "thumb_titulo", "thumb_sub"):
-        for idioma in ("es", "en", "pt"):
-            if not tema["longo"][campo].get(idioma):
-                raise SystemExit(f"{tema['slug']}: longo.{campo}.{idioma} vazio")
-            if campo == "titulo" and len(tema["longo"][campo][idioma]) > 100:
-                raise SystemExit(f"{tema['slug']}: título longo ({idioma}) > 100")
+        for canal in canais:
+            if not tema["longo"][campo].get(canal):
+                raise SystemExit(f"{tema['slug']}: longo.{campo}.{canal} vazio")
+            if campo == "titulo" and len(tema["longo"][campo][canal]) > 100:
+                raise SystemExit(f"{tema['slug']}: título longo ({canal}) > 100")
     for s in tema["shorts"]:
-        for idioma in ("es", "en", "pt"):
-            if not s["titulo"].get(idioma):
-                raise SystemExit(f"{tema['slug']}: short {s['ref']} sem título {idioma}")
-            if len(s["titulo"][idioma]) > 100:
-                raise SystemExit(f"{tema['slug']}: título de short ({idioma}) > 100")
+        for canal in canais:
+            if not s["titulo"].get(canal):
+                raise SystemExit(f"{tema['slug']}: short {s['ref']} sem título {canal}")
+            if len(s["titulo"][canal]) > 100:
+                raise SystemExit(f"{tema['slug']}: título de short ({canal}) > 100")
 
 
-def criar_pacote(tema: dict, data: str, dry: bool) -> None:
-    validar_tema(tema)
+def criar_pacote(tema: dict, data: str, dry: bool, linha: dict) -> None:
+    validar_tema(tema, linha["canais"])
+    FILA = linha["fila"]
     seed = zlib.crc32(f"{data}-{tema['slug']}".encode()) % 999_983
 
     if dry:
@@ -118,36 +135,54 @@ def criar_pacote(tema: dict, data: str, dry: bool) -> None:
           f"shorts sem imagem: {sem_img} — fallback gradiente)")
 
 
-def main() -> None:
-    ap = argparse.ArgumentParser(description="Cria pacotes-do-dia que faltam")
-    ap.add_argument("--dias", type=int, default=DIAS_ADIANTE)
-    ap.add_argument("--dry-run", action="store_true")
-    args = ap.parse_args()
-
-    temas = json.loads(TEMAS.read_text(encoding="utf-8"))
-    usados = slugs_usados()
+def abastecer(nome: str, linha: dict, dias: int, dry: bool) -> int:
+    """Devolve 3 se o poço secou (o workflow abre issue), 0 se está saudável."""
+    temas = json.loads(linha["temas"].read_text(encoding="utf-8"))
+    temas = temas["temas"] if isinstance(temas, dict) else temas
+    usados = slugs_usados(linha["fila"])
     livres = [t for t in temas if t["slug"] not in usados]
 
     hoje = datetime.now(timezone.utc).date()
     faltantes = []
-    for d in range(args.dias + 1):
+    for d in range(dias + 1):
         data = (hoje + timedelta(days=d)).isoformat()
-        if pacote_do_dia(data) is None:
+        if pacote_do_dia(linha["fila"], data) is None:
             faltantes.append(data)
 
     if not faltantes:
-        print("Fila saudável: já existe pacote para hoje e os próximos dias.")
-        return
+        print(f"[{nome}] fila saudável: já existe pacote para hoje e os "
+              f"próximos dias.")
+        return 0
 
-    print(f"Datas sem pacote: {', '.join(faltantes)}; "
+    print(f"[{nome}] datas sem pacote: {', '.join(faltantes)}; "
           f"temas livres no poço: {len(livres)}.")
     if len(livres) < len(faltantes):
-        print("POÇO SECO — temas insuficientes em conteudo/temas.json. "
-              "Adicionar temas novos (refs + títulos nos 3 idiomas).")
-        sys.exit(3)
+        print(f"[{nome}] POÇO SECO — temas insuficientes em "
+              f"{linha['temas'].relative_to(RAIZ).as_posix()}.")
+        return 3
 
     for data, tema in zip(faltantes, livres):
-        criar_pacote(tema, data, args.dry_run)
+        criar_pacote(tema, data, dry, linha)
+    return 0
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser(description="Cria pacotes-do-dia que faltam")
+    ap.add_argument("--dias", type=int, default=DIAS_ADIANTE)
+    ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--linha", choices=sorted(LINHAS),
+                    help="Só esta linha (padrão: todas)")
+    args = ap.parse_args()
+
+    nomes = [args.linha] if args.linha else sorted(LINHAS)
+    # Poço seco de UMA linha não pode impedir as outras de abastecer — o
+    # estoico secar não é motivo para os 3 canais bíblicos ficarem sem pacote.
+    codigo = 0
+    for nome in nomes:
+        codigo = max(codigo, abastecer(nome, LINHAS[nome], args.dias,
+                                       args.dry_run))
+    if codigo:
+        sys.exit(codigo)
 
 
 if __name__ == "__main__":

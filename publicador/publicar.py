@@ -56,11 +56,17 @@ def gravar(path: Path, data) -> None:
                     encoding="utf-8")
 
 
-def pacote_de_hoje() -> tuple[Path, dict] | None:
+def pacote_de_hoje(fila: Path = FILA) -> tuple[Path, dict] | None:
+    """Pacote do dia na fila indicada.
+
+    Cada canal aponta para a SUA fila (`canal_cfg["fila"]`): os canais bíblicos
+    compartilham `fila/`, o estoico tem `fila_stoic/`. Um pacote estoico não
+    tem texto para os canais de Escritura, e vice-versa.
+    """
     data = datetime.now(timezone.utc).date().isoformat()
-    if not FILA.is_dir():
+    if not fila.is_dir():
         return None
-    for p in sorted(FILA.iterdir()):
+    for p in sorted(fila.iterdir()):
         if p.is_dir() and p.name.startswith(data):
             meta = carregar(p / "pacote.json", None)
             if meta and meta.get("aprovado_em"):
@@ -225,11 +231,16 @@ def main() -> None:
     state = carregar(STATE, {})
     agora = datetime.now(timezone.utc)
 
-    achado = pacote_de_hoje()
-    if achado is None:
-        log("SEM PACOTE para hoje — o reabastecedor precisa rodar. Nada a fazer.")
+    # Fila por canal: a falta de pacote numa linha não pode calar a outra.
+    # Antes o pacote era procurado UMA vez, antes do laço de canais, e a
+    # ausência abortava a execução inteira.
+    filas = {idioma: RAIZ / cfg.get("fila", "fila")
+             for idioma, cfg in config["canais"].items()}
+    achados = {idioma: pacote_de_hoje(f) for idioma, f in filas.items()}
+    if not any(achados.values()):
+        log("SEM PACOTE para hoje em nenhuma fila — o reabastecedor precisa "
+            "rodar. Nada a fazer.")
         return
-    pasta_pacote, pacote = achado
 
     if LOCK.exists() and time.time() - LOCK.stat().st_mtime < LOCK_VELHO_S:
         log("Outra execução em andamento (lock). Saindo.")
@@ -244,6 +255,12 @@ def main() -> None:
             if not canal_cfg.get("ativo") and not args.render_apenas:
                 log(f"[{idioma}] inativo; pulando.")
                 continue
+
+            if achados.get(idioma) is None:
+                log(f"[{idioma}] sem pacote para hoje em "
+                    f"{filas[idioma].name}/; pulando.")
+                continue
+            pasta_pacote, pacote = achados[idioma]
 
             cred_dir = RAIZ / "credenciais" / idioma
             if not args.render_apenas and not (cred_dir / "token.json").exists():

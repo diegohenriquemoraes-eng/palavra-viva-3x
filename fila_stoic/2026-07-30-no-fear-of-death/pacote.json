@@ -1,0 +1,97 @@
+{
+  "slug": "no-fear-of-death",
+  "formato": "dormir",
+  "data": "2026-07-30",
+  "criado_em": "2026-07-28T11:10:09+00:00",
+  "aprovado_em": "2026-07-28T11:10:09+00:00",
+  "longo": {
+    "refs": [
+      "Moral Letters 24:1-22"
+    ],
+    "titulo": {
+      "stoic": "1 Hour of Stoic Philosophy on Death (Why Seneca Was Never Afraid) | Stoic by Night"
+    },
+    "thumb_titulo": {
+      "stoic": "STOICISM AND THE FEAR OF DEATH"
+    },
+    "thumb_sub": {
+      "stoic": "Seneca, Moral Letters 24"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nightly_sky_with_stars_%2835524883802%29.jpg/1920px-Nightly_sky_with_stars_%2835524883802%29.jpg",
+        "autor": "LiCheng Shih",
+        "origem": "https://commons.wikimedia.org/wiki/File:Nightly_sky_with_stars_(35524883802).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Night_sky_with_moon_and_stars_over_cotton_field_in_Batesville%2C_Texas.jpg/1920px-Night_sky_with_moon_and_stars_over_cotton_field_in_Batesville%2C_Texas.jpg",
+        "autor": "U.S. Department of Agriculture",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_sky_with_moon_and_stars_over_cotton_field_in_Batesville,_Texas.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stars_in_the_night_sky_%28Unsplash%29.jpg/1920px-Stars_in_the_night_sky_%28Unsplash%29.jpg",
+        "autor": "Shazia Mirza shazia23",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stars_in_the_night_sky_(Unsplash).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Raw_picture_of_stars_in_my_kampung%2C_At_Kepala_Batas%2C_Kedah._Very_clear_night_sky_and_moon_below_horizon.jpg/1920px-Raw_picture_of_stars_in_my_kampung%2C_At_Kepala_Batas%2C_Kedah._Very_clear_night_sky_and_moon_below_horizon.jpg",
+        "autor": "Harukkaaario",
+        "origem": "https://commons.wikimedia.org/wiki/File:Raw_picture_of_stars_in_my_kampung,_At_Kepala_Batas,_Kedah._Very_clear_night_sky_and_moon_below_horizon.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nightly_sky_with_stars_%2835524886712%29.jpg/1920px-Nightly_sky_with_stars_%2835524886712%29.jpg",
+        "autor": "LiCheng Shih",
+        "origem": "https://commons.wikimedia.org/wiki/File:Nightly_sky_with_stars_(35524886712).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Discourses 12:50",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Not Death Is Evil, But This Is"
+      },
+      "imagem": null
+    },
+    {
+      "ref": "Meditations 4:24",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Stop Living Like You Have Ten Thousand Years"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NASA%E2%80%99s_Webb_Catches_Fiery_Hourglass_as_New_Star_Forms_-_Flickr_-_James_Webb_Space_Telescope.png/1920px-NASA%E2%80%99s_Webb_Catches_Fiery_Hourglass_as_New_Star_Forms_-_Flickr_-_James_Webb_Space_Telescope.png",
+        "autor": "NASA's James Webb Space Telescope from Greenbelt, MD, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Webb_Catches_Fiery_Hourglass_as_New_Star_Forms_-_Flickr_-_James_Webb_Space_Telescope.png",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Moral Letters 78:7",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "The Cure for Every Sorrow You Carry"
+      },
+      "imagem": null
+    },
+    {
+      "ref": "Moral Letters 82:17",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "This Is the Only Way Death Becomes Honorable"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Unpaved_forest_path_with_stone_steps_and_dense_vegetation.jpg/1920px-Unpaved_forest_path_with_stone_steps_and_dense_vegetation.jpg",
+        "autor": "Krishna k. sahh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Unpaved_forest_path_with_stone_steps_and_dense_vegetation.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

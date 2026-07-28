@@ -7,13 +7,13 @@
     "Moral Letters 13:1-20"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Wisdom for an Anxious Mind (Seneca's Cure for Worry) | Stoic by Night"
+    "stoic": "1 Hour of Stoic Wisdom for an Anxious Mind (Seneca's Cure for Worry) | Stoic by Night"
    },
    "thumb_titulo": {
-    "en": "STOIC CURE FOR ANXIETY"
+    "stoic": "STOIC CURE FOR ANXIETY"
    },
    "thumb_sub": {
-    "en": "Seneca, Moral Letters 13"
+    "stoic": "Seneca, Moral Letters 13"
    },
    "consultas_imagens": [
     "dark stormy sea",
@@ -27,7 +27,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle flame dark",
     "titulo": {
-     "en": "The One Thought That Ends Anxiety Instantly"
+     "stoic": "The One Thought That Ends Anxiety Instantly"
     }
    },
    {
@@ -35,7 +35,7 @@
     "tipo": "reframe",
     "consulta_imagem": "empty roman road night",
     "titulo": {
-     "en": "Marcus Aurelius Escaped Every Trouble Like This"
+     "stoic": "Marcus Aurelius Escaped Every Trouble Like This"
     }
    },
    {
@@ -43,7 +43,7 @@
     "tipo": "reframe",
     "consulta_imagem": "lantern dark room",
     "titulo": {
-     "en": "Can a Man Ruled by Worry Truly Live?"
+     "stoic": "Can a Man Ruled by Worry Truly Live?"
     }
    },
    {
@@ -51,7 +51,7 @@
     "tipo": "maxim",
     "consulta_imagem": "still lake night",
     "titulo": {
-     "en": "What Cannot Harm You Cannot Disturb You"
+     "stoic": "What Cannot Harm You Cannot Disturb You"
     }
    }
   ]
@@ -68,13 +68,13 @@
     "Discourses 2:1-7"
    ],
    "titulo": {
-    "en": "1 Hour of Epictetus on Letting Go of What You Cannot Control | Stoic Philosophy"
+    "stoic": "1 Hour of Epictetus on Letting Go of What You Cannot Control | Stoic Philosophy"
    },
    "thumb_titulo": {
-    "en": "WHAT IS NOT YOURS TO CONTROL"
+    "stoic": "WHAT IS NOT YOURS TO CONTROL"
    },
    "thumb_sub": {
-    "en": "Epictetus, The Enchiridion"
+    "stoic": "Epictetus, The Enchiridion"
    },
    "consultas_imagens": [
     "marble statue night",
@@ -88,7 +88,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark study candle",
     "titulo": {
-     "en": "The Power No One Can Ever Take From You"
+     "stoic": "The Power No One Can Ever Take From You"
     }
    },
    {
@@ -96,7 +96,7 @@
     "tipo": "reframe",
     "consulta_imagem": "empty stone hall",
     "titulo": {
-     "en": "Stop Blaming the World for This One Reason"
+     "stoic": "Stop Blaming the World for This One Reason"
     }
    },
    {
@@ -104,7 +104,7 @@
     "tipo": "maxim",
     "consulta_imagem": "night road mountains",
     "titulo": {
-     "en": "Real Freedom Starts By Giving This Up"
+     "stoic": "Real Freedom Starts By Giving This Up"
     }
    },
    {
@@ -112,7 +112,7 @@
     "tipo": "reframe",
     "consulta_imagem": "ancient arena night",
     "titulo": {
-     "en": "Why the Blows Never Actually Beat You"
+     "stoic": "Why the Blows Never Actually Beat You"
     }
    }
   ]
@@ -125,13 +125,13 @@
     "Moral Letters 24:1-22"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy on Death (Why Seneca Was Never Afraid) | Stoic by Night"
+    "stoic": "1 Hour of Stoic Philosophy on Death (Why Seneca Was Never Afraid) | Stoic by Night"
    },
    "thumb_titulo": {
-    "en": "STOICISM AND THE FEAR OF DEATH"
+    "stoic": "STOICISM AND THE FEAR OF DEATH"
    },
    "thumb_sub": {
-    "en": "Seneca, Moral Letters 24"
+    "stoic": "Seneca, Moral Letters 24"
    },
    "consultas_imagens": [
     "dark cemetery night",
@@ -145,7 +145,7 @@
     "tipo": "maxim",
     "consulta_imagem": "roman sword dark",
     "titulo": {
-     "en": "Not Death Is Evil, But This Is"
+     "stoic": "Not Death Is Evil, But This Is"
     }
    },
    {
@@ -153,7 +153,7 @@
     "tipo": "reframe",
     "consulta_imagem": "hourglass dark",
     "titulo": {
-     "en": "Stop Living Like You Have Ten Thousand Years"
+     "stoic": "Stop Living Like You Have Ten Thousand Years"
     }
    },
    {
@@ -161,7 +161,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle window night",
     "titulo": {
-     "en": "The Cure for Every Sorrow You Carry"
+     "stoic": "The Cure for Every Sorrow You Carry"
     }
    },
    {
@@ -169,7 +169,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark forest path",
     "titulo": {
-     "en": "This Is the Only Way Death Becomes Honorable"
+     "stoic": "This Is the Only Way Death Becomes Honorable"
     }
    }
   ]
@@ -182,13 +182,13 @@
     "Meditations 2:1-32"
    ],
    "titulo": {
-    "en": "1 Hour of Marcus Aurelius on Life, Death and Impermanence | Stoic Philosophy"
+    "stoic": "1 Hour of Marcus Aurelius on Life, Death and Impermanence | Stoic Philosophy"
    },
    "thumb_titulo": {
-    "en": "THE HOUR YOU WERE LENT"
+    "stoic": "THE HOUR YOU WERE LENT"
    },
    "thumb_sub": {
-    "en": "Marcus Aurelius, Meditations, Book II"
+    "stoic": "Marcus Aurelius, Meditations, Book II"
    },
    "consultas_imagens": [
     "night river flow",
@@ -202,7 +202,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark window rain",
     "titulo": {
-     "en": "This Is All That Death Actually Is"
+     "stoic": "This Is All That Death Actually Is"
     }
    },
    {
@@ -210,7 +210,7 @@
     "tipo": "maxim",
     "consulta_imagem": "smoke dark candle",
     "titulo": {
-     "en": "Three Ways to Think About Your Own Death"
+     "stoic": "Three Ways to Think About Your Own Death"
     }
    },
    {
@@ -218,7 +218,7 @@
     "tipo": "reframe",
     "consulta_imagem": "oil lamp night",
     "titulo": {
-     "en": "A Lamp Answers This Question Before You Die"
+     "stoic": "A Lamp Answers This Question Before You Die"
     }
    },
    {
@@ -226,7 +226,7 @@
     "tipo": "memento",
     "consulta_imagem": "empty throne dark",
     "titulo": {
-     "en": "The Emperor and His Servant Ended the Same"
+     "stoic": "The Emperor and His Servant Ended the Same"
     }
    }
   ]
@@ -241,13 +241,13 @@
     "Meditations 4:58"
    ],
    "titulo": {
-    "en": "30 Minutes of Memento Mori — Stoic Meditations on Death | Marcus Aurelius & Seneca"
+    "stoic": "30 Minutes of Memento Mori — Stoic Meditations on Death | Marcus Aurelius & Seneca"
    },
    "thumb_titulo": {
-    "en": "MEMENTO MORI"
+    "stoic": "MEMENTO MORI"
    },
    "thumb_sub": {
-    "en": "Seneca • Marcus Aurelius"
+    "stoic": "Seneca • Marcus Aurelius"
    },
    "consultas_imagens": [
     "dark hourglass candle",
@@ -261,7 +261,7 @@
     "tipo": "memento",
     "consulta_imagem": "dark road horizon",
     "titulo": {
-     "en": "Keep This Before Your Eyes Every Single Day"
+     "stoic": "Keep This Before Your Eyes Every Single Day"
     }
    },
    {
@@ -269,7 +269,7 @@
     "tipo": "reframe",
     "consulta_imagem": "night sky abyss",
     "titulo": {
-     "en": "Consider This Before Death Ever Overtakes You"
+     "stoic": "Consider This Before Death Ever Overtakes You"
     }
    },
    {
@@ -277,7 +277,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle burning down",
     "titulo": {
-     "en": "Think of Death So You Never Fear It Again"
+     "stoic": "Think of Death So You Never Fear It Again"
     }
    },
    {
@@ -285,7 +285,7 @@
     "tipo": "maxim",
     "consulta_imagem": "chains dark stone",
     "titulo": {
-     "en": "Is Despising Death Really Your Own Act?"
+     "stoic": "Is Despising Death Really Your Own Act?"
     }
    }
   ]
@@ -299,13 +299,13 @@
     "Meditations 11:34-51"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Wisdom on Anger — How Epictetus Kept His Calm | Stoic by Night"
+    "stoic": "1 Hour of Stoic Wisdom on Anger — How Epictetus Kept His Calm | Stoic by Night"
    },
    "thumb_titulo": {
-    "en": "COOLING A STOIC TEMPER"
+    "stoic": "COOLING A STOIC TEMPER"
    },
    "thumb_sub": {
-    "en": "Epictetus • Marcus Aurelius"
+    "stoic": "Epictetus • Marcus Aurelius"
    },
    "consultas_imagens": [
     "dark storm clouds",
@@ -319,7 +319,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark mirror candle",
     "titulo": {
-     "en": "The Best Revenge Is Never Becoming Him"
+     "stoic": "The Best Revenge Is Never Becoming Him"
     }
    },
    {
@@ -327,7 +327,7 @@
     "tipo": "maxim",
     "consulta_imagem": "storm night window",
     "titulo": {
-     "en": "Where Every Great Anger Actually Ends"
+     "stoic": "Where Every Great Anger Actually Ends"
     }
    },
    {
@@ -335,7 +335,7 @@
     "tipo": "reframe",
     "consulta_imagem": "fire dark room",
     "titulo": {
-     "en": "Every Angry Moment Feeds This One Fire"
+     "stoic": "Every Angry Moment Feeds This One Fire"
     }
    },
    {
@@ -343,7 +343,7 @@
     "tipo": "reframe",
     "consulta_imagem": "horse night road",
     "titulo": {
-     "en": "You Can Tame a Horse and Still Lose This"
+     "stoic": "You Can Tame a Horse and Still Lose This"
     }
    }
   ]
@@ -357,13 +357,13 @@
     "Moral Letters 49:1-16"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy on Time — Seneca's Warning to Lucilius | Stoic by Night"
+    "stoic": "1 Hour of Stoic Philosophy on Time — Seneca's Warning to Lucilius | Stoic by Night"
    },
    "thumb_titulo": {
-    "en": "WHO IS STEALING YOUR TIME"
+    "stoic": "WHO IS STEALING YOUR TIME"
    },
    "thumb_sub": {
-    "en": "Seneca, Moral Letters 1 & 49"
+    "stoic": "Seneca, Moral Letters 1 & 49"
    },
    "consultas_imagens": [
     "hourglass candle dark",
@@ -377,7 +377,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark river rapids",
     "titulo": {
-     "en": "Time Is a River and It Never Waits"
+     "stoic": "Time Is a River and It Never Waits"
     }
    },
    {
@@ -385,7 +385,7 @@
     "tipo": "reframe",
     "consulta_imagem": "candle burning night",
     "titulo": {
-     "en": "Live the Rest of Your Life Like This"
+     "stoic": "Live the Rest of Your Life Like This"
     }
    },
    {
@@ -393,7 +393,7 @@
     "tipo": "memento",
     "consulta_imagem": "closing eyes dark",
     "titulo": {
-     "en": "A Little Time, Then You Close Your Eyes"
+     "stoic": "A Little Time, Then You Close Your Eyes"
     }
    },
    {
@@ -401,7 +401,7 @@
     "tipo": "memento",
     "consulta_imagem": "old ruins fog",
     "titulo": {
-     "en": "How Soon Time Covers Everything You Are"
+     "stoic": "How Soon Time Covers Everything You Are"
     }
    }
   ]
@@ -414,13 +414,13 @@
     "Meditations 3:1-17"
    ],
    "titulo": {
-    "en": "30 Minutes of Stoic Philosophy on Living in the Present | Marcus Aurelius Meditations"
+    "stoic": "30 Minutes of Stoic Philosophy on Living in the Present | Marcus Aurelius Meditations"
    },
    "thumb_titulo": {
-    "en": "THE ONLY HOUR YOU HAVE"
+    "stoic": "THE ONLY HOUR YOU HAVE"
    },
    "thumb_sub": {
-    "en": "Marcus Aurelius, Meditations, Book III"
+    "stoic": "Marcus Aurelius, Meditations, Book III"
    },
    "consultas_imagens": [
     "candle desk night",
@@ -434,7 +434,7 @@
     "tipo": "maxim",
     "consulta_imagem": "night fog fields",
     "titulo": {
-     "en": "Everything Now Was Also True Long Ago"
+     "stoic": "Everything Now Was Also True Long Ago"
     }
    },
    {
@@ -442,7 +442,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark spinning wheel",
     "titulo": {
-     "en": "Your Whole Life Is Just This Small"
+     "stoic": "Your Whole Life Is Just This Small"
     }
    },
    {
@@ -450,7 +450,7 @@
     "tipo": "memento",
     "consulta_imagem": "smoke fading candle",
     "titulo": {
-     "en": "How Fast Everything You Know Disappears"
+     "stoic": "How Fast Everything You Know Disappears"
     }
    },
    {
@@ -458,7 +458,7 @@
     "tipo": "maxim",
     "consulta_imagem": "night stars still",
     "titulo": {
-     "en": "See the Present and You Have Seen It All"
+     "stoic": "See the Present and You Have Seen It All"
     }
    }
   ]
@@ -472,13 +472,13 @@
     "Discourses 9:1-9"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy for a Fearless Mind | Epictetus on Facing Tyrants"
+    "stoic": "1 Hour of Stoic Philosophy for a Fearless Mind | Epictetus on Facing Tyrants"
    },
    "thumb_titulo": {
-    "en": "THE STOIC MIND FEARS NOTHING"
+    "stoic": "THE STOIC MIND FEARS NOTHING"
    },
    "thumb_sub": {
-    "en": "Epictetus, Discourses"
+    "stoic": "Epictetus, Discourses"
    },
    "consultas_imagens": [
     "dark castle night",
@@ -492,7 +492,7 @@
     "tipo": "maxim",
     "consulta_imagem": "empty throne room",
     "titulo": {
-     "en": "Whom Exactly Are You So Afraid Of?"
+     "stoic": "Whom Exactly Are You So Afraid Of?"
     }
    },
    {
@@ -500,7 +500,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark courtroom candle",
     "titulo": {
-     "en": "See Inside the Judges You Fear So Much"
+     "stoic": "See Inside the Judges You Fear So Much"
     }
    },
    {
@@ -508,7 +508,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark tunnel light",
     "titulo": {
-     "en": "Fear Never Looks at What Actually Matters"
+     "stoic": "Fear Never Looks at What Actually Matters"
     }
    },
    {
@@ -516,7 +516,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark abyss fog",
     "titulo": {
-     "en": "The Fear Beneath Every Other Fear You Have"
+     "stoic": "The Fear Beneath Every Other Fear You Have"
     }
    }
   ]
@@ -529,13 +529,13 @@
     "Meditations 5:27-48"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy — The Obstacle Is the Way | Marcus Aurelius"
+    "stoic": "1 Hour of Stoic Philosophy — The Obstacle Is the Way | Marcus Aurelius"
    },
    "thumb_titulo": {
-    "en": "THE OBSTACLE IS THE WAY"
+    "stoic": "THE OBSTACLE IS THE WAY"
    },
    "thumb_sub": {
-    "en": "Marcus Aurelius, Meditations, Book V"
+    "stoic": "Marcus Aurelius, Meditations, Book V"
    },
    "consultas_imagens": [
     "dark mountain climb",
@@ -549,7 +549,7 @@
     "tipo": "maxim",
     "consulta_imagem": "storm wind night",
     "titulo": {
-     "en": "Endure the Wind Heaven Actually Sends You"
+     "stoic": "Endure the Wind Heaven Actually Sends You"
     }
    },
    {
@@ -557,7 +557,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark wrestling ring",
     "titulo": {
-     "en": "Why Life Is a Wrestling Match, Not a Dance"
+     "stoic": "Why Life Is a Wrestling Match, Not a Dance"
     }
    },
    {
@@ -565,7 +565,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle steady flame",
     "titulo": {
-     "en": "This Is What Real Bravery Guards Most"
+     "stoic": "This Is What Real Bravery Guards Most"
     }
    },
    {
@@ -573,7 +573,7 @@
     "tipo": "maxim",
     "consulta_imagem": "locked stone gate",
     "titulo": {
-     "en": "No One Can Take What Is Truly Yours"
+     "stoic": "No One Can Take What Is Truly Yours"
     }
    }
   ]
@@ -587,13 +587,13 @@
     "Moral Letters 96:1-5"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy on Enduring Hardship | Seneca, Moral Letters"
+    "stoic": "1 Hour of Stoic Philosophy on Enduring Hardship | Seneca, Moral Letters"
    },
    "thumb_titulo": {
-    "en": "ENDURING WHAT COMES"
+    "stoic": "ENDURING WHAT COMES"
    },
    "thumb_sub": {
-    "en": "Seneca, Moral Letters 67 & 96"
+    "stoic": "Seneca, Moral Letters 67 & 96"
    },
    "consultas_imagens": [
     "storm sea night",
@@ -607,7 +607,7 @@
     "tipo": "maxim",
     "consulta_imagem": "armor dark night",
     "titulo": {
-     "en": "Fortune's Deadliest Blow Still Cannot Wound Him"
+     "stoic": "Fortune's Deadliest Blow Still Cannot Wound Him"
     }
    },
    {
@@ -615,7 +615,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark stormy horizon",
     "titulo": {
-     "en": "The Soul Is Stronger Than Any Fortune"
+     "stoic": "The Soul Is Stronger Than Any Fortune"
     }
    },
    {
@@ -623,7 +623,7 @@
     "tipo": "memento",
     "consulta_imagem": "still candle dark",
     "titulo": {
-     "en": "How Socrates Stayed Calm Through Everything"
+     "stoic": "How Socrates Stayed Calm Through Everything"
     }
    },
    {
@@ -631,7 +631,7 @@
     "tipo": "reframe",
     "consulta_imagem": "ship storm night",
     "titulo": {
-     "en": "The Storm Only Harms One Half of Him"
+     "stoic": "The Storm Only Harms One Half of Him"
     }
    }
   ]
@@ -645,13 +645,13 @@
     "Moral Letters 99:1-3"
    ],
    "titulo": {
-    "en": "30 Minutes of Stoic Philosophy on Grief and Loss | Seneca's Letters of Consolation"
+    "stoic": "30 Minutes of Stoic Philosophy on Grief and Loss | Seneca's Letters of Consolation"
    },
    "thumb_titulo": {
-    "en": "HOW A STOIC GRIEVES"
+    "stoic": "HOW A STOIC GRIEVES"
    },
    "thumb_sub": {
-    "en": "Seneca, Moral Letters 63 & 99"
+    "stoic": "Seneca, Moral Letters 63 & 99"
    },
    "consultas_imagens": [
     "dark candle grief",
@@ -665,7 +665,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark empty room",
     "titulo": {
-     "en": "Why It Happening to You Feels So Different"
+     "stoic": "Why It Happening to You Feels So Different"
     }
    },
    {
@@ -673,7 +673,7 @@
     "tipo": "memento",
     "consulta_imagem": "wheat field night",
     "titulo": {
-     "en": "Life Must Be Reaped Like Ripe Corn"
+     "stoic": "Life Must Be Reaped Like Ripe Corn"
     }
    },
    {
@@ -681,7 +681,7 @@
     "tipo": "memento",
     "consulta_imagem": "fading stars dark",
     "titulo": {
-     "en": "The Old Man and the Boy End the Same"
+     "stoic": "The Old Man and the Boy End the Same"
     }
    },
    {
@@ -689,7 +689,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark dissolving smoke",
     "titulo": {
-     "en": "Nothing That Dies Ever Truly Leaves"
+     "stoic": "Nothing That Dies Ever Truly Leaves"
     }
    }
   ]
@@ -703,13 +703,13 @@
     "Discourses 37:8-13"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy on True Wealth | Seneca and Epictetus on Riches"
+    "stoic": "1 Hour of Stoic Philosophy on True Wealth | Seneca and Epictetus on Riches"
    },
    "thumb_titulo": {
-    "en": "WHAT TRUE WEALTH ACTUALLY IS"
+    "stoic": "WHAT TRUE WEALTH ACTUALLY IS"
    },
    "thumb_sub": {
-    "en": "Seneca • Epictetus"
+    "stoic": "Seneca • Epictetus"
    },
    "consultas_imagens": [
     "gold coins dark",
@@ -723,7 +723,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark crown candle",
     "titulo": {
-     "en": "Hold Wealth Loosely Enough to Let It Go"
+     "stoic": "Hold Wealth Loosely Enough to Let It Go"
     }
    },
    {
@@ -731,7 +731,7 @@
     "tipo": "maxim",
     "consulta_imagem": "empty gold coin",
     "titulo": {
-     "en": "The Greed That Invented Poverty Itself"
+     "stoic": "The Greed That Invented Poverty Itself"
     }
    },
    {
@@ -739,7 +739,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark empty plate",
     "titulo": {
-     "en": "Your Appetite Is Bigger Than Your Belly"
+     "stoic": "Your Appetite Is Bigger Than Your Belly"
     }
    },
    {
@@ -747,7 +747,7 @@
     "tipo": "reframe",
     "consulta_imagem": "gleaming dark gold",
     "titulo": {
-     "en": "How Riches Deceived a Man for Years"
+     "stoic": "How Riches Deceived a Man for Years"
     }
    }
   ]
@@ -761,13 +761,13 @@
     "Moral Letters 119:1-12"
    ],
    "titulo": {
-    "en": "30 Minutes of Stoic Philosophy on the Fear of Poverty | Epictetus and Seneca"
+    "stoic": "30 Minutes of Stoic Philosophy on the Fear of Poverty | Epictetus and Seneca"
    },
    "thumb_titulo": {
-    "en": "THE FEAR OF NOT ENOUGH"
+    "stoic": "THE FEAR OF NOT ENOUGH"
    },
    "thumb_sub": {
-    "en": "Epictetus • Seneca"
+    "stoic": "Epictetus • Seneca"
    },
    "consultas_imagens": [
     "empty bowl candlelight",
@@ -781,7 +781,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle simple desk",
     "titulo": {
-     "en": "This Is All That Was Ever Enough"
+     "stoic": "This Is All That Was Ever Enough"
     }
    },
    {
@@ -789,7 +789,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark still water",
     "titulo": {
-     "en": "The Mind That Wants Nothing Cannot Be Poor"
+     "stoic": "The Mind That Wants Nothing Cannot Be Poor"
     }
    },
    {
@@ -797,7 +797,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark market night",
     "titulo": {
-     "en": "Who Actually Made These Things So Valuable?"
+     "stoic": "Who Actually Made These Things So Valuable?"
     }
    },
    {
@@ -805,7 +805,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle clearing smoke",
     "titulo": {
-     "en": "Cut Away the Thoughts You Do Not Need"
+     "stoic": "Cut Away the Thoughts You Do Not Need"
     }
    }
   ]
@@ -822,13 +822,13 @@
     "Encheiridion 24:1-4"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy on Ignoring What Others Think | Epictetus & Seneca"
+    "stoic": "1 Hour of Stoic Philosophy on Ignoring What Others Think | Epictetus & Seneca"
    },
    "thumb_titulo": {
-    "en": "IGNORING WHAT OTHERS THINK"
+    "stoic": "IGNORING WHAT OTHERS THINK"
    },
    "thumb_sub": {
-    "en": "Epictetus • Seneca"
+    "stoic": "Epictetus • Seneca"
    },
    "consultas_imagens": [
     "dark crowd shadows",
@@ -842,7 +842,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark old mask",
     "titulo": {
-     "en": "Socrates Had a Word for Public Opinion"
+     "stoic": "Socrates Had a Word for Public Opinion"
     }
    },
    {
@@ -850,7 +850,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark stage empty",
     "titulo": {
-     "en": "The Man Who Loves Fame Owns Nothing"
+     "stoic": "The Man Who Loves Fame Owns Nothing"
     }
    },
    {
@@ -858,7 +858,7 @@
     "tipo": "memento",
     "consulta_imagem": "fading candle smoke",
     "titulo": {
-     "en": "How Many Famous Names Are Forgotten Now"
+     "stoic": "How Many Famous Names Are Forgotten Now"
     }
    },
    {
@@ -866,7 +866,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark broken statue",
     "titulo": {
-     "en": "Reputation Has Ruined More Than It Saved"
+     "stoic": "Reputation Has Ruined More Than It Saved"
     }
    }
   ]
@@ -880,13 +880,13 @@
     "Moral Letters 9:1-14"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy on True Friendship | Seneca's Letters to Lucilius"
+    "stoic": "1 Hour of Stoic Philosophy on True Friendship | Seneca's Letters to Lucilius"
    },
    "thumb_titulo": {
-    "en": "WHAT A TRUE FRIEND ACTUALLY IS"
+    "stoic": "WHAT A TRUE FRIEND ACTUALLY IS"
    },
    "thumb_sub": {
-    "en": "Seneca, Moral Letters 3 & 9"
+    "stoic": "Seneca, Moral Letters 3 & 9"
    },
    "consultas_imagens": [
     "two candles dark",
@@ -900,7 +900,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark wolf shadow",
     "titulo": {
-     "en": "Nothing Is More Shameful Than This Friendship"
+     "stoic": "Nothing Is More Shameful Than This Friendship"
     }
    },
    {
@@ -908,7 +908,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle two chairs",
     "titulo": {
-     "en": "Why Men Exist for One Another at All"
+     "stoic": "Why Men Exist for One Another at All"
     }
    },
    {
@@ -916,7 +916,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark empty names",
     "titulo": {
-     "en": "Do Not Call Them Friends Until This Is True"
+     "stoic": "Do Not Call Them Friends Until This Is True"
     }
    },
    {
@@ -924,7 +924,7 @@
     "tipo": "reframe",
     "consulta_imagem": "candlelight letter dark",
     "titulo": {
-     "en": "The Only Friendship Fear Cannot Break"
+     "stoic": "The Only Friendship Fear Cannot Break"
     }
    }
   ]
@@ -938,13 +938,13 @@
     "Moral Letters 83:1-13"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy on Self-Control | Seneca on Ruling Your Own Mind"
+    "stoic": "1 Hour of Stoic Philosophy on Self-Control | Seneca on Ruling Your Own Mind"
    },
    "thumb_titulo": {
-    "en": "RULING YOUR OWN MIND"
+    "stoic": "RULING YOUR OWN MIND"
    },
    "thumb_sub": {
-    "en": "Seneca, Moral Letters 116 & 83"
+    "stoic": "Seneca, Moral Letters 116 & 83"
    },
    "consultas_imagens": [
     "dark helm ship",
@@ -958,7 +958,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark clearing fog",
     "titulo": {
-     "en": "Four Commands That Rule the Stoic Mind"
+     "stoic": "Four Commands That Rule the Stoic Mind"
     }
    },
    {
@@ -966,7 +966,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark stage candle",
     "titulo": {
-     "en": "The Line Medea Spoke Before Her Ruin"
+     "stoic": "The Line Medea Spoke Before Her Ruin"
     }
    },
    {
@@ -974,7 +974,7 @@
     "tipo": "maxim",
     "consulta_imagem": "old dark portrait",
     "titulo": {
-     "en": "What Marcus Aurelius Learned From His Grandfather"
+     "stoic": "What Marcus Aurelius Learned From His Grandfather"
     }
    },
    {
@@ -982,7 +982,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark battlefield night",
     "titulo": {
-     "en": "Virtue Cannot Be Driven From This Field"
+     "stoic": "Virtue Cannot Be Driven From This Field"
     }
    }
   ]
@@ -998,13 +998,13 @@
     "Moral Letters 123:1-8"
    ],
    "titulo": {
-    "en": "30 Minutes of Stoic Rules for Self-Mastery | Epictetus's Daily Discipline"
+    "stoic": "30 Minutes of Stoic Rules for Self-Mastery | Epictetus's Daily Discipline"
    },
    "thumb_titulo": {
-    "en": "RULES FOR SELF-MASTERY"
+    "stoic": "RULES FOR SELF-MASTERY"
    },
    "thumb_sub": {
-    "en": "Epictetus • Seneca"
+    "stoic": "Epictetus • Seneca"
    },
    "consultas_imagens": [
     "dark quiet study",
@@ -1018,7 +1018,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark scale balance",
     "titulo": {
-     "en": "The One Virtue Opposed to Pleasure Itself"
+     "stoic": "The One Virtue Opposed to Pleasure Itself"
     }
    },
    {
@@ -1026,7 +1026,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark fire habit",
     "titulo": {
-     "en": "Break a Habit With Its Own Opposite"
+     "stoic": "Break a Habit With Its Own Opposite"
     }
    },
    {
@@ -1034,7 +1034,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle turning away",
     "titulo": {
-     "en": "Virtue Should Not Even Glance at This"
+     "stoic": "Virtue Should Not Even Glance at This"
     }
    },
    {
@@ -1042,7 +1042,7 @@
     "tipo": "reframe",
     "consulta_imagem": "candle single flame",
     "titulo": {
-     "en": "Rest in Just One Thing at a Time"
+     "stoic": "Rest in Just One Thing at a Time"
     }
    }
   ]
@@ -1055,13 +1055,13 @@
     "Moral Letters 81:1-18"
    ],
    "titulo": {
-    "en": "1 Hour of Stoic Philosophy on Gratitude | Seneca on the Gift of Kindness"
+    "stoic": "1 Hour of Stoic Philosophy on Gratitude | Seneca on the Gift of Kindness"
    },
    "thumb_titulo": {
-    "en": "THE GRATEFUL STOIC HEART"
+    "stoic": "THE GRATEFUL STOIC HEART"
    },
    "thumb_sub": {
-    "en": "Seneca, Moral Letters 81"
+    "stoic": "Seneca, Moral Letters 81"
    },
    "consultas_imagens": [
     "candle open hands",
@@ -1075,7 +1075,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle giving hands",
     "titulo": {
-     "en": "Gratitude Rewards the One Who Gives It"
+     "stoic": "Gratitude Rewards the One Who Gives It"
     }
    },
    {
@@ -1083,7 +1083,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark ledger candle",
     "titulo": {
-     "en": "Why Ingratitude Really Begins With This"
+     "stoic": "Why Ingratitude Really Begins With This"
     }
    },
    {
@@ -1091,7 +1091,7 @@
     "tipo": "maxim",
     "consulta_imagem": "candle simple meal",
     "titulo": {
-     "en": "Nature's Best Gift Needs No Complaint"
+     "stoic": "Nature's Best Gift Needs No Complaint"
     }
    },
    {
@@ -1099,7 +1099,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark prayer candle",
     "titulo": {
-     "en": "We Prayed for This Without Knowing It"
+     "stoic": "We Prayed for This Without Knowing It"
     }
    }
   ]
@@ -1112,13 +1112,13 @@
     "Meditations 10:1-20"
    ],
    "titulo": {
-    "en": "30 Minutes of Stoic Philosophy on Amor Fati | Marcus Aurelius on Loving Your Fate"
+    "stoic": "30 Minutes of Stoic Philosophy on Amor Fati | Marcus Aurelius on Loving Your Fate"
    },
    "thumb_titulo": {
-    "en": "LOVE YOUR OWN FATE"
+    "stoic": "LOVE YOUR OWN FATE"
    },
    "thumb_sub": {
-    "en": "Marcus Aurelius, Meditations, Book X"
+    "stoic": "Marcus Aurelius, Meditations, Book X"
    },
    "consultas_imagens": [
     "night spinning thread",
@@ -1132,7 +1132,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark road destiny",
     "titulo": {
-     "en": "Lead Me, O Zeus, and Thou, O Destiny"
+     "stoic": "Lead Me, O Zeus, and Thou, O Destiny"
     }
    },
    {
@@ -1140,7 +1140,7 @@
     "tipo": "maxim",
     "consulta_imagem": "dark spinning thread",
     "titulo": {
-     "en": "Love Only What Your Own Fate Spins"
+     "stoic": "Love Only What Your Own Fate Spins"
     }
    },
    {
@@ -1148,7 +1148,7 @@
     "tipo": "reframe",
     "consulta_imagem": "candle thread dark",
     "titulo": {
-     "en": "Give Yourself Willingly to the Thread"
+     "stoic": "Give Yourself Willingly to the Thread"
     }
    },
    {
@@ -1156,7 +1156,7 @@
     "tipo": "reframe",
     "consulta_imagem": "dark falling ash",
     "titulo": {
-     "en": "Be Reconciled to the Law That Dissolves All"
+     "stoic": "Be Reconciled to the Law That Dissolves All"
     }
    }
   ]

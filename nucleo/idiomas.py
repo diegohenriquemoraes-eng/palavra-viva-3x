@@ -233,6 +233,9 @@ CONFIG = {
                         "Seneca, trans. R. M. Gummere (1917–25); "
                         "Epictetus, trans. George Long — all public domain"),
         "voz": "en-GB-RyanNeural",
+        # A biblioteca marca/fundos foi curada para conteúdo bíblico; este
+        # canal usa as imagens que o próprio poço resolve (ver fabrica.py).
+        "biblioteca_local": False,
         "rate_short": "-8%",
         "rate_longo": "-15%",
         "bcp47": "en",
