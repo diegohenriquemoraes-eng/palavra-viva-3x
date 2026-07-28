@@ -731,12 +731,19 @@
           "video_id": "-gAGZUMmb_4",
           "titulo": "The One Thought That Ends Anxiety Instantly",
           "em": "2026-07-28T13:26:35+00:00"
+        },
+        {
+          "pacote": "2026-07-28-anxious-mind-quiet",
+          "item": "short-2",
+          "video_id": "Y0g-ooX_vgI",
+          "titulo": "Marcus Aurelius Escaped Every Trouble Like This",
+          "em": "2026-07-28T15:49:26+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T13:26:35+00:00",
+      "ultimo_short": "2026-07-28T15:49:26+00:00",
       "shorts_dia": {
         "data": "2026-07-28",
-        "n": 1
+        "n": 2
       },
       "longo_data": ""
     }

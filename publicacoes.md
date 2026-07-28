@@ -790,3 +790,11 @@
 - Item: short-1 — Meditations 5:4
 - Duração: 22.5s
 - Publicado em: 2026-07-28T13:26:35+00:00
+
+## [stoic] Y0g-ooX_vgI — Marcus Aurelius Escaped Every Trouble Like This
+
+- URL: https://youtu.be/Y0g-ooX_vgI
+- Canal: Stoic by Night (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditations 9:22
+- Duração: 13.0s
+- Publicado em: 2026-07-28T15:49:26+00:00
