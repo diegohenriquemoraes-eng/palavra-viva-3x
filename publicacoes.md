@@ -750,3 +750,19 @@
 - Item: short-1 — Salmo 51:10-12
 - Duração: 21.7s
 - Publicado em: 2026-07-28T02:21:45+00:00
+
+## [es] tjg1FQBlOqA — Salmo 51 — Crea en mí, oh Dios, un corazón limpio | Biblia
+
+- URL: https://youtu.be/tjg1FQBlOqA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 51:10-12
+- Duração: 20.0s
+- Publicado em: 2026-07-28T04:57:17+00:00
+
+## [pt] nYynmLfORZg — O Perdão de Deus — Salmo 51, 32 e o Filho Pródigo | Bíblia Narrada
+
+- URL: https://youtu.be/nYynmLfORZg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 51, Salmo 32, Lucas 15:11-24, 1 João 1:5-10, Isaías 1:16-20, Salmo 130
+- Duração: 1943.3s
+- Publicado em: 2026-07-28T05:23:05+00:00

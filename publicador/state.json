@@ -253,12 +253,19 @@
           "video_id": "Fin19GmSzAE",
           "titulo": "El Perdón de Dios — Salmo 51, 32 y el Hijo Pródigo | Biblia Hablada",
           "em": "2026-07-28T02:20:34+00:00"
+        },
+        {
+          "pacote": "2026-07-28-perdao-restauracao",
+          "item": "short-1",
+          "video_id": "tjg1FQBlOqA",
+          "titulo": "Salmo 51 — Crea en mí, oh Dios, un corazón limpio | Biblia",
+          "em": "2026-07-28T04:57:17+00:00"
         }
       ],
-      "ultimo_short": "2026-07-27T17:32:14+00:00",
+      "ultimo_short": "2026-07-28T04:57:17+00:00",
       "shorts_dia": {
-        "data": "2026-07-27",
-        "n": 2
+        "data": "2026-07-28",
+        "n": 1
       },
       "longo_data": "2026-07-28"
     },
@@ -686,6 +693,13 @@
           "video_id": "ULczREHWxJM",
           "titulo": "Salmo 51 — Cria em mim, ó Deus, um coração puro",
           "em": "2026-07-28T02:21:45+00:00"
+        },
+        {
+          "pacote": "2026-07-28-perdao-restauracao",
+          "item": "longo",
+          "video_id": "nYynmLfORZg",
+          "titulo": "O Perdão de Deus — Salmo 51, 32 e o Filho Pródigo | Bíblia Narrada",
+          "em": "2026-07-28T05:23:05+00:00"
         }
       ],
       "ultimo_short": "2026-07-28T02:21:45+00:00",
@@ -693,7 +707,7 @@
         "data": "2026-07-28",
         "n": 1
       },
-      "longo_data": "2026-07-27"
+      "longo_data": "2026-07-28"
     }
   }
 }
