@@ -98,7 +98,7 @@ GANCHOS = {
 
 CONFIG = {
     "es": {
-        "arquivo_biblia": BIBLIA_DIR / "rv1909.json",
+        "arquivo_fonte": BIBLIA_DIR / "rv1909.json",
         "fonte_texto": "Reina-Valera 1909 (dominio público)",
         "voz": "es-MX-JorgeNeural",
         "rate_short": "-8%",
@@ -134,7 +134,7 @@ CONFIG = {
         "rotulo_completo": "Video completo",
     },
     "en": {
-        "arquivo_biblia": BIBLIA_DIR / "kjv.json",
+        "arquivo_fonte": BIBLIA_DIR / "kjv.json",
         "fonte_texto": "King James Version (public domain)",
         "voz": "en-US-ChristopherNeural",
         "rate_short": "-8%",
@@ -164,7 +164,7 @@ CONFIG = {
         "rotulo_completo": "Full video",
     },
     "pt": {
-        "arquivo_biblia": BIBLIA_DIR / "blivre.json",
+        "arquivo_fonte": BIBLIA_DIR / "blivre.json",
         "fonte_texto": "Bíblia Livre (domínio público)",
         "voz": "pt-BR-AntonioNeural",
         "rate_short": "-8%",
@@ -265,4 +265,12 @@ LIVROS = {
 
 
 def nome_livro(idioma: str, canonico: str) -> str:
-    return LIVROS[idioma][canonico]
+    """Nome exibido do livro. Fora da Bíblia, o próprio nome canônico.
+
+    O motor deixou de ser só bíblico em 28/07/2026: a mesma fábrica narra
+    qualquer corpus em domínio público com a estrutura obra/capítulo/passagem
+    (o primeiro fora da Bíblia é o estoico — Meditations, Letters, Discourses).
+    Esses nomes não têm tradução por idioma nem entram na tabela dos 66 livros,
+    então o fallback é devolvê-los como estão, em vez de estourar KeyError.
+    """
+    return LIVROS.get(idioma, {}).get(canonico, canonico)

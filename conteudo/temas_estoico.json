@@ -1,0 +1,1164 @@
+[
+ {
+  "slug": "anxious-mind-quiet",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 13:1-20"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Wisdom for an Anxious Mind (Seneca's Cure for Worry) | Stoic by Night"
+   },
+   "thumb_titulo": {
+    "en": "STOIC CURE FOR ANXIETY"
+   },
+   "thumb_sub": {
+    "en": "Seneca, Moral Letters 13"
+   },
+   "consultas_imagens": [
+    "dark stormy sea",
+    "candle night desk",
+    "foggy mountain path"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 5:4",
+    "tipo": "maxim",
+    "consulta_imagem": "candle flame dark",
+    "titulo": {
+     "en": "The One Thought That Ends Anxiety Instantly"
+    }
+   },
+   {
+    "ref": "Meditations 9:22",
+    "tipo": "reframe",
+    "consulta_imagem": "empty roman road night",
+    "titulo": {
+     "en": "Marcus Aurelius Escaped Every Trouble Like This"
+    }
+   },
+   {
+    "ref": "Moral Letters 55:6",
+    "tipo": "reframe",
+    "consulta_imagem": "lantern dark room",
+    "titulo": {
+     "en": "Can a Man Ruled by Worry Truly Live?"
+    }
+   },
+   {
+    "ref": "Moral Letters 92:28",
+    "tipo": "maxim",
+    "consulta_imagem": "still lake night",
+    "titulo": {
+     "en": "What Cannot Harm You Cannot Disturb You"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "things-not-our-own",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Encheiridion 1:1-4",
+    "Encheiridion 2:1-2",
+    "Encheiridion 8:1",
+    "Discourses 1:1-6",
+    "Discourses 2:1-7"
+   ],
+   "titulo": {
+    "en": "1 Hour of Epictetus on Letting Go of What You Cannot Control | Stoic Philosophy"
+   },
+   "thumb_titulo": {
+    "en": "WHAT IS NOT YOURS TO CONTROL"
+   },
+   "thumb_sub": {
+    "en": "Epictetus, The Enchiridion"
+   },
+   "consultas_imagens": [
+    "marble statue night",
+    "roman ruins fog",
+    "chains broken stone"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 6:65",
+    "tipo": "maxim",
+    "consulta_imagem": "dark study candle",
+    "titulo": {
+     "en": "The Power No One Can Ever Take From You"
+    }
+   },
+   {
+    "ref": "Meditations 6:50",
+    "tipo": "reframe",
+    "consulta_imagem": "empty stone hall",
+    "titulo": {
+     "en": "Stop Blaming the World for This One Reason"
+    }
+   },
+   {
+    "ref": "Encheiridion 31:2",
+    "tipo": "maxim",
+    "consulta_imagem": "night road mountains",
+    "titulo": {
+     "en": "Real Freedom Starts By Giving This Up"
+    }
+   },
+   {
+    "ref": "Discourses 31:4",
+    "tipo": "reframe",
+    "consulta_imagem": "ancient arena night",
+    "titulo": {
+     "en": "Why the Blows Never Actually Beat You"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "no-fear-of-death",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 24:1-22"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy on Death (Why Seneca Was Never Afraid) | Stoic by Night"
+   },
+   "thumb_titulo": {
+    "en": "STOICISM AND THE FEAR OF DEATH"
+   },
+   "thumb_sub": {
+    "en": "Seneca, Moral Letters 24"
+   },
+   "consultas_imagens": [
+    "dark cemetery night",
+    "candle skull desk",
+    "night sky stars"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Discourses 12:50",
+    "tipo": "maxim",
+    "consulta_imagem": "roman sword dark",
+    "titulo": {
+     "en": "Not Death Is Evil, But This Is"
+    }
+   },
+   {
+    "ref": "Meditations 4:24",
+    "tipo": "reframe",
+    "consulta_imagem": "hourglass dark",
+    "titulo": {
+     "en": "Stop Living Like You Have Ten Thousand Years"
+    }
+   },
+   {
+    "ref": "Moral Letters 78:7",
+    "tipo": "maxim",
+    "consulta_imagem": "candle window night",
+    "titulo": {
+     "en": "The Cure for Every Sorrow You Carry"
+    }
+   },
+   {
+    "ref": "Moral Letters 82:17",
+    "tipo": "maxim",
+    "consulta_imagem": "dark forest path",
+    "titulo": {
+     "en": "This Is the Only Way Death Becomes Honorable"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "the-borrowed-hour",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Meditations 2:1-32"
+   ],
+   "titulo": {
+    "en": "1 Hour of Marcus Aurelius on Life, Death and Impermanence | Stoic Philosophy"
+   },
+   "thumb_titulo": {
+    "en": "THE HOUR YOU WERE LENT"
+   },
+   "thumb_sub": {
+    "en": "Marcus Aurelius, Meditations, Book II"
+   },
+   "consultas_imagens": [
+    "night river flow",
+    "ruins moonlight",
+    "old clock candle"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 6:34",
+    "tipo": "reframe",
+    "consulta_imagem": "dark window rain",
+    "titulo": {
+     "en": "This Is All That Death Actually Is"
+    }
+   },
+   {
+    "ref": "Meditations 7:34",
+    "tipo": "maxim",
+    "consulta_imagem": "smoke dark candle",
+    "titulo": {
+     "en": "Three Ways to Think About Your Own Death"
+    }
+   },
+   {
+    "ref": "Meditations 12:22",
+    "tipo": "reframe",
+    "consulta_imagem": "oil lamp night",
+    "titulo": {
+     "en": "A Lamp Answers This Question Before You Die"
+    }
+   },
+   {
+    "ref": "Meditations 6:30",
+    "tipo": "memento",
+    "consulta_imagem": "empty throne dark",
+    "titulo": {
+     "en": "The Emperor and His Servant Ended the Same"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "memento-mori-short",
+  "formato": "tema",
+  "longo": {
+   "refs": [
+    "Moral Letters 101:1-17",
+    "Meditations 4:48",
+    "Meditations 4:58"
+   ],
+   "titulo": {
+    "en": "30 Minutes of Memento Mori — Stoic Meditations on Death | Marcus Aurelius & Seneca"
+   },
+   "thumb_titulo": {
+    "en": "MEMENTO MORI"
+   },
+   "thumb_sub": {
+    "en": "Seneca • Marcus Aurelius"
+   },
+   "consultas_imagens": [
+    "dark hourglass candle",
+    "night graveyard fog",
+    "old letter candlelight"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Encheiridion 21:1",
+    "tipo": "memento",
+    "consulta_imagem": "dark road horizon",
+    "titulo": {
+     "en": "Keep This Before Your Eyes Every Single Day"
+    }
+   },
+   {
+    "ref": "Meditations 12:14",
+    "tipo": "reframe",
+    "consulta_imagem": "night sky abyss",
+    "titulo": {
+     "en": "Consider This Before Death Ever Overtakes You"
+    }
+   },
+   {
+    "ref": "Moral Letters 30:21",
+    "tipo": "maxim",
+    "consulta_imagem": "candle burning down",
+    "titulo": {
+     "en": "Think of Death So You Never Fear It Again"
+    }
+   },
+   {
+    "ref": "Discourses 39:11",
+    "tipo": "maxim",
+    "consulta_imagem": "chains dark stone",
+    "titulo": {
+     "en": "Is Despising Death Really Your Own Act?"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "cooling-the-temper",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Discourses 8:1-11",
+    "Meditations 11:34-51"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Wisdom on Anger — How Epictetus Kept His Calm | Stoic by Night"
+   },
+   "thumb_titulo": {
+    "en": "COOLING A STOIC TEMPER"
+   },
+   "thumb_sub": {
+    "en": "Epictetus • Marcus Aurelius"
+   },
+   "consultas_imagens": [
+    "dark storm clouds",
+    "candle still water",
+    "night forest calm"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 6:6",
+    "tipo": "maxim",
+    "consulta_imagem": "dark mirror candle",
+    "titulo": {
+     "en": "The Best Revenge Is Never Becoming Him"
+    }
+   },
+   {
+    "ref": "Moral Letters 18:16",
+    "tipo": "maxim",
+    "consulta_imagem": "storm night window",
+    "titulo": {
+     "en": "Where Every Great Anger Actually Ends"
+    }
+   },
+   {
+    "ref": "Discourses 22:3",
+    "tipo": "reframe",
+    "consulta_imagem": "fire dark room",
+    "titulo": {
+     "en": "Every Angry Moment Feeds This One Fire"
+    }
+   },
+   {
+    "ref": "Moral Letters 88:24",
+    "tipo": "reframe",
+    "consulta_imagem": "horse night road",
+    "titulo": {
+     "en": "You Can Tame a Horse and Still Lose This"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "stealing-time",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 1:1-6",
+    "Moral Letters 49:1-16"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy on Time — Seneca's Warning to Lucilius | Stoic by Night"
+   },
+   "thumb_titulo": {
+    "en": "WHO IS STEALING YOUR TIME"
+   },
+   "thumb_sub": {
+    "en": "Seneca, Moral Letters 1 & 49"
+   },
+   "consultas_imagens": [
+    "hourglass candle dark",
+    "night clock tower",
+    "dark river current"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 4:60",
+    "tipo": "maxim",
+    "consulta_imagem": "dark river rapids",
+    "titulo": {
+     "en": "Time Is a River and It Never Waits"
+    }
+   },
+   {
+    "ref": "Meditations 7:62",
+    "tipo": "reframe",
+    "consulta_imagem": "candle burning night",
+    "titulo": {
+     "en": "Live the Rest of Your Life Like This"
+    }
+   },
+   {
+    "ref": "Meditations 10:60",
+    "tipo": "memento",
+    "consulta_imagem": "closing eyes dark",
+    "titulo": {
+     "en": "A Little Time, Then You Close Your Eyes"
+    }
+   },
+   {
+    "ref": "Meditations 6:72",
+    "tipo": "memento",
+    "consulta_imagem": "old ruins fog",
+    "titulo": {
+     "en": "How Soon Time Covers Everything You Are"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "the-present-hour",
+  "formato": "tema",
+  "longo": {
+   "refs": [
+    "Meditations 3:1-17"
+   ],
+   "titulo": {
+    "en": "30 Minutes of Stoic Philosophy on Living in the Present | Marcus Aurelius Meditations"
+   },
+   "thumb_titulo": {
+    "en": "THE ONLY HOUR YOU HAVE"
+   },
+   "thumb_sub": {
+    "en": "Marcus Aurelius, Meditations, Book III"
+   },
+   "consultas_imagens": [
+    "candle desk night",
+    "dark quiet room",
+    "night mountain stillness"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 9:23",
+    "tipo": "maxim",
+    "consulta_imagem": "night fog fields",
+    "titulo": {
+     "en": "Everything Now Was Also True Long Ago"
+    }
+   },
+   {
+    "ref": "Meditations 10:33",
+    "tipo": "reframe",
+    "consulta_imagem": "dark spinning wheel",
+    "titulo": {
+     "en": "Your Whole Life Is Just This Small"
+    }
+   },
+   {
+    "ref": "Meditations 7:11",
+    "tipo": "memento",
+    "consulta_imagem": "smoke fading candle",
+    "titulo": {
+     "en": "How Fast Everything You Know Disappears"
+    }
+   },
+   {
+    "ref": "Meditations 6:45",
+    "tipo": "maxim",
+    "consulta_imagem": "night stars still",
+    "titulo": {
+     "en": "See the Present and You Have Seen It All"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "fearless-mind",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Discourses 45:1-11",
+    "Discourses 9:1-9"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy for a Fearless Mind | Epictetus on Facing Tyrants"
+   },
+   "thumb_titulo": {
+    "en": "THE STOIC MIND FEARS NOTHING"
+   },
+   "thumb_sub": {
+    "en": "Epictetus, Discourses"
+   },
+   "consultas_imagens": [
+    "dark castle night",
+    "storm sea cliff",
+    "candle window fear"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Discourses 12:30",
+    "tipo": "maxim",
+    "consulta_imagem": "empty throne room",
+    "titulo": {
+     "en": "Whom Exactly Are You So Afraid Of?"
+    }
+   },
+   {
+    "ref": "Meditations 9:27",
+    "tipo": "reframe",
+    "consulta_imagem": "dark courtroom candle",
+    "titulo": {
+     "en": "See Inside the Judges You Fear So Much"
+    }
+   },
+   {
+    "ref": "Moral Letters 57:7",
+    "tipo": "maxim",
+    "consulta_imagem": "dark tunnel light",
+    "titulo": {
+     "en": "Fear Never Looks at What Actually Matters"
+    }
+   },
+   {
+    "ref": "Moral Letters 82:21",
+    "tipo": "reframe",
+    "consulta_imagem": "dark abyss fog",
+    "titulo": {
+     "en": "The Fear Beneath Every Other Fear You Have"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "the-obstacle-is-the-way",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Meditations 5:27-48"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy — The Obstacle Is the Way | Marcus Aurelius"
+   },
+   "thumb_titulo": {
+    "en": "THE OBSTACLE IS THE WAY"
+   },
+   "thumb_sub": {
+    "en": "Marcus Aurelius, Meditations, Book V"
+   },
+   "consultas_imagens": [
+    "dark mountain climb",
+    "storm clouds night",
+    "narrow stone path"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 7:55",
+    "tipo": "maxim",
+    "consulta_imagem": "storm wind night",
+    "titulo": {
+     "en": "Endure the Wind Heaven Actually Sends You"
+    }
+   },
+   {
+    "ref": "Meditations 7:68",
+    "tipo": "reframe",
+    "consulta_imagem": "dark wrestling ring",
+    "titulo": {
+     "en": "Why Life Is a Wrestling Match, Not a Dance"
+    }
+   },
+   {
+    "ref": "Moral Letters 85:36",
+    "tipo": "maxim",
+    "consulta_imagem": "candle steady flame",
+    "titulo": {
+     "en": "This Is What Real Bravery Guards Most"
+    }
+   },
+   {
+    "ref": "Discourses 39:13",
+    "tipo": "maxim",
+    "consulta_imagem": "locked stone gate",
+    "titulo": {
+     "en": "No One Can Take What Is Truly Yours"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "enduring-what-comes",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 67:1-19",
+    "Moral Letters 96:1-5"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy on Enduring Hardship | Seneca, Moral Letters"
+   },
+   "thumb_titulo": {
+    "en": "ENDURING WHAT COMES"
+   },
+   "thumb_sub": {
+    "en": "Seneca, Moral Letters 67 & 96"
+   },
+   "consultas_imagens": [
+    "storm sea night",
+    "dark road rain",
+    "candle in storm"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Moral Letters 45:11",
+    "tipo": "maxim",
+    "consulta_imagem": "armor dark night",
+    "titulo": {
+     "en": "Fortune's Deadliest Blow Still Cannot Wound Him"
+    }
+   },
+   {
+    "ref": "Moral Letters 98:3",
+    "tipo": "maxim",
+    "consulta_imagem": "dark stormy horizon",
+    "titulo": {
+     "en": "The Soul Is Stronger Than Any Fortune"
+    }
+   },
+   {
+    "ref": "Moral Letters 104:34",
+    "tipo": "memento",
+    "consulta_imagem": "still candle dark",
+    "titulo": {
+     "en": "How Socrates Stayed Calm Through Everything"
+    }
+   },
+   {
+    "ref": "Moral Letters 85:44",
+    "tipo": "reframe",
+    "consulta_imagem": "ship storm night",
+    "titulo": {
+     "en": "The Storm Only Harms One Half of Him"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "grief-and-the-stoic",
+  "formato": "tema",
+  "longo": {
+   "refs": [
+    "Moral Letters 63:1-19",
+    "Moral Letters 99:1-3"
+   ],
+   "titulo": {
+    "en": "30 Minutes of Stoic Philosophy on Grief and Loss | Seneca's Letters of Consolation"
+   },
+   "thumb_titulo": {
+    "en": "HOW A STOIC GRIEVES"
+   },
+   "thumb_sub": {
+    "en": "Seneca, Moral Letters 63 & 99"
+   },
+   "consultas_imagens": [
+    "dark candle grief",
+    "night rain window",
+    "empty chair candlelight"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Encheiridion 26:2",
+    "tipo": "reframe",
+    "consulta_imagem": "dark empty room",
+    "titulo": {
+     "en": "Why It Happening to You Feels So Different"
+    }
+   },
+   {
+    "ref": "Meditations 7:42",
+    "tipo": "memento",
+    "consulta_imagem": "wheat field night",
+    "titulo": {
+     "en": "Life Must Be Reaped Like Ripe Corn"
+    }
+   },
+   {
+    "ref": "Meditations 9:44",
+    "tipo": "memento",
+    "consulta_imagem": "fading stars dark",
+    "titulo": {
+     "en": "The Old Man and the Boy End the Same"
+    }
+   },
+   {
+    "ref": "Meditations 8:22",
+    "tipo": "maxim",
+    "consulta_imagem": "dark dissolving smoke",
+    "titulo": {
+     "en": "Nothing That Dies Ever Truly Leaves"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "true-wealth",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 17:1-14",
+    "Discourses 37:8-13"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy on True Wealth | Seneca and Epictetus on Riches"
+   },
+   "thumb_titulo": {
+    "en": "WHAT TRUE WEALTH ACTUALLY IS"
+   },
+   "thumb_sub": {
+    "en": "Seneca • Epictetus"
+   },
+   "consultas_imagens": [
+    "gold coins dark",
+    "candle simple room",
+    "dark empty treasury"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 8:41",
+    "tipo": "maxim",
+    "consulta_imagem": "dark crown candle",
+    "titulo": {
+     "en": "Hold Wealth Loosely Enough to Let It Go"
+    }
+   },
+   {
+    "ref": "Moral Letters 90:57",
+    "tipo": "maxim",
+    "consulta_imagem": "empty gold coin",
+    "titulo": {
+     "en": "The Greed That Invented Poverty Itself"
+    }
+   },
+   {
+    "ref": "Moral Letters 89:29",
+    "tipo": "reframe",
+    "consulta_imagem": "dark empty plate",
+    "titulo": {
+     "en": "Your Appetite Is Bigger Than Your Belly"
+    }
+   },
+   {
+    "ref": "Moral Letters 110:16",
+    "tipo": "reframe",
+    "consulta_imagem": "gleaming dark gold",
+    "titulo": {
+     "en": "How Riches Deceived a Man for Years"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "fear-of-want",
+  "formato": "tema",
+  "longo": {
+   "refs": [
+    "Discourses 38:1-9",
+    "Moral Letters 119:1-12"
+   ],
+   "titulo": {
+    "en": "30 Minutes of Stoic Philosophy on the Fear of Poverty | Epictetus and Seneca"
+   },
+   "thumb_titulo": {
+    "en": "THE FEAR OF NOT ENOUGH"
+   },
+   "thumb_sub": {
+    "en": "Epictetus • Seneca"
+   },
+   "consultas_imagens": [
+    "empty bowl candlelight",
+    "dark road traveler",
+    "night window poor"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 9:12",
+    "tipo": "maxim",
+    "consulta_imagem": "candle simple desk",
+    "titulo": {
+     "en": "This Is All That Was Ever Enough"
+    }
+   },
+   {
+    "ref": "Meditations 7:18",
+    "tipo": "reframe",
+    "consulta_imagem": "dark still water",
+    "titulo": {
+     "en": "The Mind That Wants Nothing Cannot Be Poor"
+    }
+   },
+   {
+    "ref": "Moral Letters 90:27",
+    "tipo": "reframe",
+    "consulta_imagem": "dark market night",
+    "titulo": {
+     "en": "Who Actually Made These Things So Valuable?"
+    }
+   },
+   {
+    "ref": "Meditations 4:37",
+    "tipo": "maxim",
+    "consulta_imagem": "candle clearing smoke",
+    "titulo": {
+     "en": "Cut Away the Thoughts You Do Not Need"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "the-opinion-of-others",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 43:1-5",
+    "Discourses 44:1-7",
+    "Encheiridion 22:1",
+    "Encheiridion 23:1",
+    "Encheiridion 24:1-4"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy on Ignoring What Others Think | Epictetus & Seneca"
+   },
+   "thumb_titulo": {
+    "en": "IGNORING WHAT OTHERS THINK"
+   },
+   "thumb_sub": {
+    "en": "Epictetus • Seneca"
+   },
+   "consultas_imagens": [
+    "dark crowd shadows",
+    "candle alone room",
+    "night mirror dark"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 11:56",
+    "tipo": "maxim",
+    "consulta_imagem": "dark old mask",
+    "titulo": {
+     "en": "Socrates Had a Word for Public Opinion"
+    }
+   },
+   {
+    "ref": "Meditations 6:64",
+    "tipo": "reframe",
+    "consulta_imagem": "dark stage empty",
+    "titulo": {
+     "en": "The Man Who Loves Fame Owns Nothing"
+    }
+   },
+   {
+    "ref": "Meditations 7:7",
+    "tipo": "memento",
+    "consulta_imagem": "fading candle smoke",
+    "titulo": {
+     "en": "How Many Famous Names Are Forgotten Now"
+    }
+   },
+   {
+    "ref": "Moral Letters 79:17",
+    "tipo": "maxim",
+    "consulta_imagem": "dark broken statue",
+    "titulo": {
+     "en": "Reputation Has Ruined More Than It Saved"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "the-faithful-friend",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 3:1-7",
+    "Moral Letters 9:1-14"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy on True Friendship | Seneca's Letters to Lucilius"
+   },
+   "thumb_titulo": {
+    "en": "WHAT A TRUE FRIEND ACTUALLY IS"
+   },
+   "thumb_sub": {
+    "en": "Seneca, Moral Letters 3 & 9"
+   },
+   "consultas_imagens": [
+    "two candles dark",
+    "night table letters",
+    "dark warm hearth"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 11:28",
+    "tipo": "maxim",
+    "consulta_imagem": "dark wolf shadow",
+    "titulo": {
+     "en": "Nothing Is More Shameful Than This Friendship"
+    }
+   },
+   {
+    "ref": "Meditations 8:73",
+    "tipo": "maxim",
+    "consulta_imagem": "candle two chairs",
+    "titulo": {
+     "en": "Why Men Exist for One Another at All"
+    }
+   },
+   {
+    "ref": "Discourses 24:7",
+    "tipo": "reframe",
+    "consulta_imagem": "dark empty names",
+    "titulo": {
+     "en": "Do Not Call Them Friends Until This Is True"
+    }
+   },
+   {
+    "ref": "Moral Letters 6:2",
+    "tipo": "reframe",
+    "consulta_imagem": "candlelight letter dark",
+    "titulo": {
+     "en": "The Only Friendship Fear Cannot Break"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "the-ruling-self",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 116:1-11",
+    "Moral Letters 83:1-13"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy on Self-Control | Seneca on Ruling Your Own Mind"
+   },
+   "thumb_titulo": {
+    "en": "RULING YOUR OWN MIND"
+   },
+   "thumb_sub": {
+    "en": "Seneca, Moral Letters 116 & 83"
+   },
+   "consultas_imagens": [
+    "dark helm ship",
+    "candle mirror night",
+    "still dark water"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 9:13",
+    "tipo": "maxim",
+    "consulta_imagem": "dark clearing fog",
+    "titulo": {
+     "en": "Four Commands That Rule the Stoic Mind"
+    }
+   },
+   {
+    "ref": "Discourses 12:18",
+    "tipo": "reframe",
+    "consulta_imagem": "dark stage candle",
+    "titulo": {
+     "en": "The Line Medea Spoke Before Her Ruin"
+    }
+   },
+   {
+    "ref": "Meditations 1:1",
+    "tipo": "maxim",
+    "consulta_imagem": "old dark portrait",
+    "titulo": {
+     "en": "What Marcus Aurelius Learned From His Grandfather"
+    }
+   },
+   {
+    "ref": "Moral Letters 92:37",
+    "tipo": "maxim",
+    "consulta_imagem": "dark battlefield night",
+    "titulo": {
+     "en": "Virtue Cannot Be Driven From This Field"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "self-mastery-short",
+  "formato": "tema",
+  "longo": {
+   "refs": [
+    "Encheiridion 33:1-15",
+    "Encheiridion 34:1-2",
+    "Encheiridion 41:1",
+    "Moral Letters 123:1-8"
+   ],
+   "titulo": {
+    "en": "30 Minutes of Stoic Rules for Self-Mastery | Epictetus's Daily Discipline"
+   },
+   "thumb_titulo": {
+    "en": "RULES FOR SELF-MASTERY"
+   },
+   "thumb_sub": {
+    "en": "Epictetus • Seneca"
+   },
+   "consultas_imagens": [
+    "dark quiet study",
+    "candle discipline desk",
+    "night empty road"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Meditations 8:48",
+    "tipo": "maxim",
+    "consulta_imagem": "dark scale balance",
+    "titulo": {
+     "en": "The One Virtue Opposed to Pleasure Itself"
+    }
+   },
+   {
+    "ref": "Discourses 12:10",
+    "tipo": "reframe",
+    "consulta_imagem": "dark fire habit",
+    "titulo": {
+     "en": "Break a Habit With Its Own Opposite"
+    }
+   },
+   {
+    "ref": "Moral Letters 92:33",
+    "tipo": "maxim",
+    "consulta_imagem": "candle turning away",
+    "titulo": {
+     "en": "Virtue Should Not Even Glance at This"
+    }
+   },
+   {
+    "ref": "Meditations 6:7",
+    "tipo": "reframe",
+    "consulta_imagem": "candle single flame",
+    "titulo": {
+     "en": "Rest in Just One Thing at a Time"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "the-grateful-heart",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Moral Letters 81:1-18"
+   ],
+   "titulo": {
+    "en": "1 Hour of Stoic Philosophy on Gratitude | Seneca on the Gift of Kindness"
+   },
+   "thumb_titulo": {
+    "en": "THE GRATEFUL STOIC HEART"
+   },
+   "thumb_sub": {
+    "en": "Seneca, Moral Letters 81"
+   },
+   "consultas_imagens": [
+    "candle open hands",
+    "dark warm firelight",
+    "night garden gift"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Moral Letters 81:23",
+    "tipo": "maxim",
+    "consulta_imagem": "candle giving hands",
+    "titulo": {
+     "en": "Gratitude Rewards the One Who Gives It"
+    }
+   },
+   {
+    "ref": "Moral Letters 81:41",
+    "tipo": "reframe",
+    "consulta_imagem": "dark ledger candle",
+    "titulo": {
+     "en": "Why Ingratitude Really Begins With This"
+    }
+   },
+   {
+    "ref": "Moral Letters 119:19",
+    "tipo": "maxim",
+    "consulta_imagem": "candle simple meal",
+    "titulo": {
+     "en": "Nature's Best Gift Needs No Complaint"
+    }
+   },
+   {
+    "ref": "Moral Letters 121:5",
+    "tipo": "reframe",
+    "consulta_imagem": "dark prayer candle",
+    "titulo": {
+     "en": "We Prayed for This Without Knowing It"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "the-willing-fate",
+  "formato": "tema",
+  "longo": {
+   "refs": [
+    "Meditations 10:1-20"
+   ],
+   "titulo": {
+    "en": "30 Minutes of Stoic Philosophy on Amor Fati | Marcus Aurelius on Loving Your Fate"
+   },
+   "thumb_titulo": {
+    "en": "LOVE YOUR OWN FATE"
+   },
+   "thumb_sub": {
+    "en": "Marcus Aurelius, Meditations, Book X"
+   },
+   "consultas_imagens": [
+    "night spinning thread",
+    "dark starry fate",
+    "candle open road"
+   ]
+  },
+  "shorts": [
+   {
+    "ref": "Encheiridion 52:2",
+    "tipo": "maxim",
+    "consulta_imagem": "dark road destiny",
+    "titulo": {
+     "en": "Lead Me, O Zeus, and Thou, O Destiny"
+    }
+   },
+   {
+    "ref": "Meditations 7:63",
+    "tipo": "maxim",
+    "consulta_imagem": "dark spinning thread",
+    "titulo": {
+     "en": "Love Only What Your Own Fate Spins"
+    }
+   },
+   {
+    "ref": "Meditations 4:50",
+    "tipo": "reframe",
+    "consulta_imagem": "candle thread dark",
+    "titulo": {
+     "en": "Give Yourself Willingly to the Thread"
+    }
+   },
+   {
+    "ref": "Moral Letters 91:20",
+    "tipo": "reframe",
+    "consulta_imagem": "dark falling ash",
+    "titulo": {
+     "en": "Be Reconciled to the Law That Dissolves All"
+    }
+   }
+  ]
+ }
+]

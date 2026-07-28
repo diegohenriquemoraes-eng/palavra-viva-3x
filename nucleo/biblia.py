@@ -57,7 +57,7 @@ ARCAISMOS_ES = [
 
 @lru_cache(maxsize=3)
 def _carregar(idioma: str) -> dict:
-    arq = idiomas.CONFIG[idioma]["arquivo_biblia"]
+    arq = idiomas.CONFIG[idioma]["arquivo_fonte"]
     data = json.loads(arq.read_text(encoding="utf-8"))
     return {b["name"]: b for b in data["books"]}
 
