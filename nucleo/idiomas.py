@@ -275,8 +275,13 @@ CONFIG = {
             "Two thousand years old, read slowly for the end of the day. "
             "Subscribe \U0001F3DB",
         ],
-        "hashtags": ("#Stoicism #StoicPhilosophy #MarcusAurelius #Seneca "
-                     "#Epictetus"),
+        # 28/07: de 5 hashtags para 3, e descrição enxuta. O método de canal
+        # novo põe a dose em 2-3 do nicho — é metadado para o YouTube entender
+        # a quem entregar, não campo de SEO. Teto de Short em 20s pelo mesmo
+        # manual (10-20s segura melhor do início ao fim).
+        "hashtags": "#Stoicism #StoicPhilosophy #MarcusAurelius",
+        "descricao_curta": True,
+        "max_short_s": 20.0,
         # Tags medidas nos 5 canais líderes do nicho (mineração de 28/07):
         # são praticamente as mesmas entre eles, e é esse conjunto que a busca
         # do YouTube já associa ao assunto.

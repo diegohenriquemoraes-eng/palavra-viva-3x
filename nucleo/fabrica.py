@@ -184,7 +184,11 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     ganchos = idiomas.GANCHOS[idioma]
     gancho = ganchos[_seed(pacote, f"gancho{idx}") % len(ganchos)]
 
-    orcamento = int((MAX_SHORT_S - CAUDA_SHORT - PAUSA_GANCHO)
+    # Teto de duração por canal: o método de canal novo pede Short de 10-20s
+    # (quanto mais curto, mais fácil segurar do início ao fim). O padrão da
+    # casa é 25s — o Stoic by Night roda em 20 durante o teste.
+    teto = cfg.get("max_short_s", MAX_SHORT_S)
+    orcamento = int((teto - CAUDA_SHORT - PAUSA_GANCHO)
                     * PALAVRAS_POR_S_SHORT) - len(gancho.split())
     versos, ref = _cortar_ao_teto(biblia.carregar_versos(idioma, ref), ref,
                                   orcamento)
@@ -233,13 +237,27 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     # procura. O versículo é diferente em todo vídeo, é domínio público e já é
     # o áudio: torna cada descrição única e ainda entrega à busca as palavras
     # que a pessoa digita ("no temas, porque yo estoy contigo").
-    descricao = (
-        f"“{_encurtar(texto, 300)}”\n{ref_disp} — {cfg['fonte_texto']}."
-        + ponte
-        + bloco_afiliado(afiliado)
-        + f"\n\n{_cta(cfg, seed)}\n\n{cfg['hashtags']} #Shorts"
-        + (creditos([info_img]) if img else "")
-    )
+    if cfg.get("descricao_curta"):
+        # Descrição enxuta: uma frase e as palavras-chave do nicho, nada mais.
+        # No feed de Shorts a descrição quase não é aberta, e o método de canal
+        # novo trata texto longo ali como peso morto. Só o Stoic by Night usa
+        # isto — nos canais bíblicos o texto citado é o que faz cada descrição
+        # ser diferente da outra, que é uma defesa que eles precisam ter.
+        descricao = (
+            f"{ref_disp} — {cfg['fonte_texto']}."
+            + ponte
+            + bloco_afiliado(afiliado)
+            + f"\n\n{cfg['hashtags']} #Shorts"
+            + (creditos([info_img]) if img else "")
+        )
+    else:
+        descricao = (
+            f"“{_encurtar(texto, 300)}”\n{ref_disp} — {cfg['fonte_texto']}."
+            + ponte
+            + bloco_afiliado(afiliado)
+            + f"\n\n{_cta(cfg, seed)}\n\n{cfg['hashtags']} #Shorts"
+            + (creditos([info_img]) if img else "")
+        )
     return {
         "arquivo": video,
         "titulo": short["titulo"][idioma],

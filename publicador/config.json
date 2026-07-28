@@ -40,10 +40,12 @@
       "handle": "@StoicByNight",
       "afiliado": "",
       "afiliado_short": "",
-      "shorts_por_dia": 3,
+      "shorts_por_dia": 1,
       "gap_shorts_min": 420,
-      "hora_longo_utc": 4,
-      "fila": "fila_stoic"
+      "hora_longo_utc": null,
+      "fila": "fila_stoic",
+      "hora_short_utc": 23,
+      "_metodo_canal_novo": "28/07-27/08: canal em regime do metodo de canal novo — 1 Short/dia, mesmo horario (23 UTC, ~1h antes do pico noturno nos EUA), sem video longo. A monetizacao mirada e a de Shorts (1.000 inscritos + 10 mi de views), nao as 4.000 horas — por isso abrir mao do longo e coerente, nao descuido. Revisar em 27/08: se pegou view, subir para 2/dia; se nao, segurar em 1."
     }
   }
 }

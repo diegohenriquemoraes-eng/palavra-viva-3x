@@ -151,3 +151,36 @@ Workflow abre issue quando `temas.json` esgota. Adicionar temas novos (mesmo
 formato: refs canônicas em inglês scrollmapper, títulos ≤100 chars nos 3
 idiomas, consultas de imagem em inglês) e dar push. Validar com
 `python produzir\reabastecer.py --dry-run` antes.
+
+## Stoic by Night — canal em regime de "método de canal novo" (28/07 a 27/08)
+
+O 4º canal (`stoic`, @StoicByNight, inglês, Marco Aurélio/Sêneca/Epicteto em
+tradução de domínio público) roda **100% pelo método do PROTOCOLO FANTASMA**
+(PDF em `Desktop\Venda na Obra`), por decisão do Diego em 28/07. É um teste
+deliberado: os canais bíblicos nasceram em 4 uploads/dia e o manual diz que
+canal novo tem de fazer 1/dia por 20-30 dias, senão o YouTube lê como spam e
+estrangula a entrega. Nenhum canal nosso testou isso — o ES já existia antes,
+e o EN (rebrand) morreu com mediana de 1 view.
+
+O que muda SÓ neste canal (os bíblicos seguem como estavam):
+
+| Regra do método | Como está implementado |
+|---|---|
+| 1 vídeo/dia, mesmo horário | `shorts_por_dia: 1` + `hora_short_utc: 23` |
+| Sem vídeo longo | `hora_longo_utc: null` (suportado em `decidir`) |
+| Short de 10-20s | `max_short_s: 20.0` no CONFIG do idioma |
+| 2-3 hashtags, não 5 | `hashtags` com 3 |
+| Descrição enxuta | `descricao_curta: True` (pula o texto citado e o CTA escrito) |
+
+**O teste é confundido de propósito** — o Stoic é de outro nicho e outro
+idioma que os bíblicos, então se ele crescer melhor não dá para saber se foi a
+cadência ou o mercado. O Diego aceitou isso explicitamente: quer o método puro.
+Não "consertar" essa limitação misturando as duas estratégias.
+
+Consequência aceita: abre mão das 4.000 horas de exibição neste canal durante
+o teste. O método monetiza pela via de Shorts (1.000 inscritos + 10 mi de
+views em 90 dias), que não depende de vídeo longo.
+
+**Revisar em 27/08/2026**: se pegou view, subir para 2/dia; se não, segurar em
+1. E comparar com o PT no mesmo tempo de vida — é a única comparação que
+temos entre nascer devagar e nascer em 4/dia.

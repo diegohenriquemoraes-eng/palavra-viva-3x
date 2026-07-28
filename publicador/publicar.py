@@ -85,12 +85,22 @@ def decidir(canal_cfg: dict, ec: dict, agora: datetime) -> str | None:
     """'longo', 'short' ou None — o que está devido nesta hora."""
     hoje = agora.date().isoformat()
 
-    if ec["longo_data"] != hoje and agora.hour >= canal_cfg["hora_longo_utc"]:
+    # hora_longo_utc = null desliga o vídeo longo no canal (o Stoic by Night
+    # roda só Shorts durante o teste dos 30 dias — ver CLAUDE.md).
+    hora_longo = canal_cfg.get("hora_longo_utc")
+    if (hora_longo is not None and ec["longo_data"] != hoje
+            and agora.hour >= hora_longo):
         return "longo"
 
     sd = ec["shorts_dia"]
     n_hoje = sd["n"] if sd["data"] == hoje else 0
     if n_hoje >= canal_cfg["shorts_por_dia"]:
+        return None
+    # hora_short_utc fixa a hora da publicação diária. "Mesmo horário todo dia"
+    # é regra do método de canal novo: sem isso o Short sai na primeira
+    # execução do cron depois da virada do dia UTC, que é madrugada nos EUA.
+    hora_short = canal_cfg.get("hora_short_utc")
+    if hora_short is not None and agora.hour < hora_short:
         return None
     if ec["ultimo_short"]:
         decorrido = (agora - datetime.fromisoformat(ec["ultimo_short"])
