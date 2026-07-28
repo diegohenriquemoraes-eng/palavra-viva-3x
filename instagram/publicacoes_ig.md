@@ -58,3 +58,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/18196421641386739/
 - Publicado em: 2026-07-28T20:37:32+00:00
+
+## 17975594492904325 — Oração da manhã
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/17975594492904325/
+- Publicado em: 2026-07-28T23:18:59+00:00
