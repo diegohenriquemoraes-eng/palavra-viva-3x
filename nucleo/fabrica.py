@@ -205,7 +205,8 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     dur = dur_voz + CAUDA_SHORT
 
     cab = biblia.cabecalho(idioma, ref)
-    legendas.ass_short(outdir / "legenda.ass", blocos, cab, marca, dur)
+    legendas.ass_short(outdir / "legenda.ass", blocos, cab, marca, dur,
+                       idiomas.CTA_VIDEO.get(idioma, ""))
 
     # A biblioteca da casa (marca/fundos) foi curada para conteúdo BÍBLICO.
     # Canal de outra linha usa a imagem resolvida no próprio pacote, pelas
@@ -330,7 +331,13 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
             "blocos": blocos,
             "ref": ref,
         })
-    legendas.ass_longo(outdir / "legenda.ass", secoes, marca, dur)
+    # CTA no fim — MENOS no formato "dormir". Pedir "escreva amém" no fim de
+    # uma hora de salmos para dormir é acordar quem o vídeo acabou de fazer
+    # dormir: destrói exatamente o que o espectador veio buscar. Nesses o
+    # pedido fica só na descrição.
+    cta_longo = ("" if pacote.get("formato") == "dormir"
+                 else idiomas.CTA_VIDEO.get(idioma, ""))
+    legendas.ass_longo(outdir / "legenda.ass", secoes, marca, dur, cta_longo)
     srt = outdir / "legenda.srt"
     legendas.srt_longo(srt, secoes)
 

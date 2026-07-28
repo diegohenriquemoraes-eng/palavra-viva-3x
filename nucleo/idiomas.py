@@ -57,6 +57,29 @@ PLAYLISTS = {
 # As três listas são traduções uma da outra, na MESMA ordem de propósito: o
 # gancho de índice N diz a mesma coisa nos 3 canais. Isso é o que permite
 # comparar desempenho de gancho entre idiomas sem confundir com o conteúdo.
+# CTA queimada no FIM do Short (28/07/2026). O gancho resolve a entrada; isto
+# resolve a saída — pedir uma ação barata converte quem ficou até o fim em
+# sinal de engajamento, que é o que o algoritmo usa depois da retenção.
+#
+# Três regras que vieram do que já se sabe do formato:
+#  - SOBREPOSTA, não acrescentada: aparece por cima dos últimos segundos e NÃO
+#    estende o vídeo. O Short é um ciclo fechado de propósito (render_short) e
+#    a retenção só passa de 100% na segunda passada — cauda extra quebraria a
+#    emenda que custou o trabalho de ontem.
+#  - Curta e no fim, nunca no começo: quem acabou de chegar não tem motivo
+#    para atender a um pedido, e CTA longa vira spam.
+#  - Combina com o público: chamado de fé no canal bíblico, chamado de
+#    reflexão no estoico. CTA fora do assunto derruba a retenção.
+#
+# Chamado de fé acelera canal novo mas cansa se repetido para sempre — é
+# alavanca de largada, não motor de cruzeiro. Revisar quando o canal crescer.
+CTA_VIDEO = {
+    "es": "Escribe AMÉN si crees",
+    "en": "Type AMEN if you believe",
+    "pt": "Escreva AMÉM se você crê",
+    "stoic": "Which line will you keep?",
+}
+
 GANCHOS = {
     "es": [
         "Para ti, que estás cansado.",

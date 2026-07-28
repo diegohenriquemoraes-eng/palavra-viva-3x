@@ -72,6 +72,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Verso,Montserrat,86,&H00FFFFFF,&H00FFFFFF,&H00251505,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,5,60,60,0,1
 Style: Ref,Bebas Neue,64,&H007AC9E8,&H007AC9E8,&H00251505,&H80000000,0,0,0,0,100,100,7,0,1,3,1,8,40,40,170,1
 Style: Marca,Montserrat,38,&H00C8C0B0,&H00C8C0B0,&H00251505,&H80000000,0,0,0,0,100,100,3,0,1,2,0,2,40,40,120,1
+Style: Cta,Bebas Neue,62,&H007AC9E8,&H007AC9E8,&H00251505,&H80000000,0,0,0,0,100,100,5,0,1,3,1,2,40,40,215,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -88,18 +89,30 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Verso,Montserrat,58,&H00FFFFFF,&H00FFFFFF,&H00251505,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,220,220,80,1
 Style: Ref,Bebas Neue,72,&H007AC9E8,&H007AC9E8,&H00251505,&H80000000,0,0,0,0,100,100,6,0,1,3,1,8,40,40,50,1
 Style: Marca,Montserrat,32,&H00C8C0B0,&H00C8C0B0,&H00251505,&H80000000,0,0,0,0,100,100,2,0,1,2,0,3,40,40,40,1
+Style: Cta,Bebas Neue,54,&H007AC9E8,&H007AC9E8,&H00251505,&H80000000,0,0,0,0,100,100,5,0,1,3,1,2,40,40,260,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
 
 
+CTA_SHORT_S = 3.2       # quanto tempo a CTA fica na tela, no fim do Short
+
+
 def ass_short(path: Path, blocos: list[dict], cabecalho: str, marca: str,
-              dur: float) -> None:
+              dur: float, cta: str = "") -> None:
     linhas = [_ESTILOS_SHORT]
     fim = _ts(dur)
     linhas.append(f"Dialogue: 0,0:00:00.00,{fim},Ref,,0,0,0,,{cabecalho}\n")
     linhas.append(f"Dialogue: 0,0:00:00.00,{fim},Marca,,0,0,0,,{marca}\n")
+    # CTA SOBREPOSTA aos últimos segundos: não estende o vídeo, para não meter
+    # silêncio no fim e quebrar a emenda do loop (ver render.render_short).
+    # Em Short muito curto ela pega o vídeo quase inteiro — é o que se quer,
+    # porque aí não existe "fim" separado da segunda passada.
+    if cta:
+        linhas.append(
+            f"Dialogue: 0,{_ts(max(0.0, dur - CTA_SHORT_S))},{fim},"
+            f"Cta,,0,0,0,,{cta}\n")
     for i, b in enumerate(blocos):
         if i == 0:
             # o gancho tem que estar ESCRITO no frame zero: o TTS começa a
@@ -138,10 +151,20 @@ def srt_longo(path: Path, secoes: list[dict]) -> None:
     path.write_text("".join(linhas), encoding="utf-8")
 
 
-def ass_longo(path: Path, secoes: list[dict], marca: str, dur: float) -> None:
+CTA_LONGO_S = 12.0      # a CTA do longo fica mais tempo: quem chegou ao fim
+                        # de 30 min não está deslizando, está sentado
+
+
+def ass_longo(path: Path, secoes: list[dict], marca: str, dur: float,
+              cta: str = "") -> None:
     """secoes: [{"cabecalho": str, "ini": s, "fim": s, "blocos": [...]}]"""
     linhas = [_ESTILOS_LONGO]
     linhas.append(f"Dialogue: 0,0:00:00.00,{_ts(dur)},Marca,,0,0,0,,{marca}\n")
+    # Só chega aqui quem NÃO é conteúdo para dormir (ver fabrica.montar_longo).
+    if cta:
+        linhas.append(
+            f"Dialogue: 0,{_ts(max(0.0, dur - CTA_LONGO_S))},{_ts(dur)},"
+            f"Cta,,0,0,0,,{cta}\n")
     for s in secoes:
         linhas.append(
             f"Dialogue: 0,{_ts(s['ini'])},{_ts(s['fim'])},Ref,,0,0,0,,{s['cabecalho']}\n"
