@@ -822,3 +822,11 @@
 - Item: short-4 — Moral Letters 92:28
 - Duração: 12.9s
 - Publicado em: 2026-07-28T19:54:32+00:00
+
+## [es] T3qlIYQRsvE — 1 Juan 1:9 — Si confesamos nuestros pecados, él es fiel
+
+- URL: https://youtu.be/T3qlIYQRsvE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — 1 Juan 1:9
+- Duração: 22.2s
+- Publicado em: 2026-07-28T21:00:42+00:00

@@ -267,12 +267,19 @@
           "video_id": "vSM3cqR4fJ4",
           "titulo": "Salmo 103 — Cuanto está lejos el oriente del occidente",
           "em": "2026-07-28T12:49:30+00:00"
+        },
+        {
+          "pacote": "2026-07-28-perdao-restauracao",
+          "item": "short-3",
+          "video_id": "T3qlIYQRsvE",
+          "titulo": "1 Juan 1:9 — Si confesamos nuestros pecados, él es fiel",
+          "em": "2026-07-28T21:00:42+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T12:49:30+00:00",
+      "ultimo_short": "2026-07-28T21:00:42+00:00",
       "shorts_dia": {
         "data": "2026-07-28",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-28"
     },
