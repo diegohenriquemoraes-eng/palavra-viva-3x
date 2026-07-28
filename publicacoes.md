@@ -734,3 +734,19 @@
 - Item: short-2 — Salmo 37:23-25
 - Duração: 20.4s
 - Publicado em: 2026-07-27T17:33:14+00:00
+
+## [es] Fin19GmSzAE — El Perdón de Dios — Salmo 51, 32 y el Hijo Pródigo | Biblia Hablada
+
+- URL: https://youtu.be/Fin19GmSzAE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 51, Salmo 32, Lucas 15:11-24, 1 Juan 1:5-10, Isaías 1:16-20, Salmo 130
+- Duração: 2455.7s
+- Publicado em: 2026-07-28T02:20:34+00:00
+
+## [pt] ULczREHWxJM — Salmo 51 — Cria em mim, ó Deus, um coração puro
+
+- URL: https://youtu.be/ULczREHWxJM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 51:10-12
+- Duração: 21.7s
+- Publicado em: 2026-07-28T02:21:45+00:00
