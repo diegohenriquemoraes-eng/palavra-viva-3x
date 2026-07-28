@@ -714,12 +714,19 @@
           "video_id": "Af6IfnCADcg",
           "titulo": "Salmo 103 — Quanto está longe o oriente do ocidente",
           "em": "2026-07-28T10:26:56+00:00"
+        },
+        {
+          "pacote": "2026-07-28-perdao-restauracao",
+          "item": "short-3",
+          "video_id": "GXnTI6Z0L7g",
+          "titulo": "1 João 1:9 — Se confessarmos os nossos pecados, ele é fiel",
+          "em": "2026-07-28T19:09:29+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T10:26:56+00:00",
+      "ultimo_short": "2026-07-28T19:09:29+00:00",
       "shorts_dia": {
         "data": "2026-07-28",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-28"
     },
@@ -745,12 +752,19 @@
           "video_id": "sDzZXObiIZg",
           "titulo": "Can a Man Ruled by Worry Truly Live?",
           "em": "2026-07-28T17:56:19+00:00"
+        },
+        {
+          "pacote": "2026-07-28-anxious-mind-quiet",
+          "item": "short-4",
+          "video_id": "xfr_aCCqNb8",
+          "titulo": "What Cannot Harm You Cannot Disturb You",
+          "em": "2026-07-28T19:54:32+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T17:56:19+00:00",
+      "ultimo_short": "2026-07-28T19:54:32+00:00",
       "shorts_dia": {
         "data": "2026-07-28",
-        "n": 3
+        "n": 4
       },
       "longo_data": ""
     }

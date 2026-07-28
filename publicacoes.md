@@ -806,3 +806,19 @@
 - Item: short-3 — Moral Letters 55:6
 - Duração: 16.6s
 - Publicado em: 2026-07-28T17:56:19+00:00
+
+## [pt] GXnTI6Z0L7g — 1 João 1:9 — Se confessarmos os nossos pecados, ele é fiel
+
+- URL: https://youtu.be/GXnTI6Z0L7g
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — 1 João 1:9
+- Duração: 21.7s
+- Publicado em: 2026-07-28T19:09:29+00:00
+
+## [stoic] xfr_aCCqNb8 — What Cannot Harm You Cannot Disturb You
+
+- URL: https://youtu.be/xfr_aCCqNb8
+- Canal: Stoic by Night (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Moral Letters 92:28
+- Duração: 12.9s
+- Publicado em: 2026-07-28T19:54:32+00:00
