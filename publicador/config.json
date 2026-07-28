@@ -12,15 +12,13 @@
       "hora_longo_utc": 0,
       "shorts_por_dia": 3,
       "gap_shorts_min": 420,
-      "_afiliado_rascunho_28_07": {
-        "produto": "La Biblia en 40 días — Alex Sampedro (Hotmart, id Q78352651S)",
-        "url_marketplace": "https://hotmart.com/es/marketplace/productos/la-biblia-en-40-dias/Q78352651S",
-        "por_que": "Pastor evangelico real em Valencia (Espanha), 6 anos de Hotmart, dirige a Academia de la Biblia. Produto focado (nao e esteira de ebook), garantia de 15 dias, R$239 — comissao por venda muito maior que ebook de R$39. Alinhado ao publico: quem ouve salmos todo dia ja quer a Palavra, e este curso ensina a ler a Biblia inteira.",
-        "instrucao": "Diego: logar na Hotmart, abrir a url_marketplace, 'Quiero divulgar' / afiliar-se, copiar o link de afiliado e me mandar. Eu troco 'afiliado' e 'afiliado_short' e sobe sozinho.",
-        "texto_pronto_longo": "📖 Aprende a leer la Biblia entera en 40 días — curso del pastor Alex Sampedro:\n<<LINK>>\n\nEnlace de afiliado: al usarlo apoyas este canal sin ningún costo adicional para ti. ¡Que Dios te bendiga! 🙏",
-        "texto_pronto_short": "📖 Aprende a leer la Biblia entera en 40 días:\n<<LINK>>\nEnlace de afiliado: apoyas el canal sin costo adicional para ti. 🙏",
-        "reprovados": "'Pack Esencial de Estudio Bíblico' (R$38,97): produtor anonimo, esteira de ebooks, e vende 'CÓDIGO DIVINO: Oraciones para Prosperidad' — teologia da prosperidade num canal que so narra o texto biblico e risco de reputacao. NAO usar. Toda a categoria 'Autoconocimiento y espiritualidad' do marketplace ES e esoterismo (cirurgia astral, pendulo, chakras) — buscar pelo NOME do produto, nunca pela categoria.",
-        "segunda_opcao": "'CURSO DE FORMACIÓN BÍBLICA - Toma tu Biblia', Nicolás López (Colombia), R$85, id H62601867T — mais barato, converte mais facil em pais de renda menor, mas o produtor e generalista (vende de teologia a paginas de colorir)."
+      "_pesquisa_afiliado_28_07": {
+        "conclusao": "MANTER o curso de piano. Varri o Mercado de Afiliacao da Hotmart em espanhol (filtro Idioma=Espanhol) e o proprio 'Aprende Piano Desde Cero Con Musica Cristiana' e o 3o produto MAIS QUENTE do nicho cristao inteiro: 31 graus, 4,2 estrelas com 42 avaliacoes, comissao US$40,64 de US$65. Nenhum produto biblico chega perto.",
+        "o_que_existe": "'biblia' em espanhol: 1.062 resultados, quase todos 'biblia de X' (Excel, trading, Instagram, velas, cristais). Os realmente biblicos custam US$5-20 e pagam US$1-13. 'cristiano': 2.415 resultados, TODOS a 21 graus (o piso da plataforma = zero venda) e 0 avaliacoes. 'devocional salmos oracion': 4 resultados, todos 21 graus e 0 avaliacoes.",
+        "o_que_ficou_de_pe": "A critica ao piano continua valendo em teoria — oferta descasada do publico — mas nao ha alternativa melhor no catalogo. O erro real era o piano estar no SHORT, onde a descricao nem e aberta; isso ja foi corrigido em 28/07. No longo ele fica.",
+        "armadilha_da_busca": "O toggle 'Exibir produtos do meu idioma' vem LIGADO e anula o filtro de idioma: com ele ligado, 'Espanhol' devolve 0 resultados e parece que o nicho nao existe. Desligar sempre antes de concluir qualquer coisa.",
+        "nao_afiliavel": "'La Biblia en 40 dias' (Alex Sampedro) e os outros cursos biblicos serios que aparecem no marketplace PUBLICO nao estao no Mercado de Afiliacao — nao tem programa aberto. Marketplace publico != catalogo afiliavel; so o segundo vale para esta decisao.",
+        "segunda_opcao_real": "'Guitarra para Principiantes con Musica Cristiana', 30 graus, 3,5 estrelas (6 aval.), comissao US$24,87 — mesmo veio do piano, serve para alternar a oferta."
       }
     },
     "en": {
