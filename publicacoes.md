@@ -870,3 +870,11 @@
 - Item: short-2 — Salmo 139:7-9
 - Duração: 21.6s
 - Publicado em: 2026-07-29T12:57:33+00:00
+
+## [pt] VfajonT1Sss — Salmo 139 — Para onde me irei do teu Espírito?
+
+- URL: https://youtu.be/VfajonT1Sss
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 139:7-8
+- Duração: 18.9s
+- Publicado em: 2026-07-29T15:09:18+00:00

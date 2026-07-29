@@ -763,12 +763,19 @@
           "video_id": "y-GLOC5s1sI",
           "titulo": "Salmo 139 — Senhor, tu me sondaste e me conheces",
           "em": "2026-07-29T07:47:07+00:00"
+        },
+        {
+          "pacote": "2026-07-29-salmos-dormir-3",
+          "item": "short-2",
+          "video_id": "VfajonT1Sss",
+          "titulo": "Salmo 139 — Para onde me irei do teu Espírito?",
+          "em": "2026-07-29T15:09:18+00:00"
         }
       ],
-      "ultimo_short": "2026-07-29T07:47:07+00:00",
+      "ultimo_short": "2026-07-29T15:09:18+00:00",
       "shorts_dia": {
         "data": "2026-07-29",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-29"
     },
