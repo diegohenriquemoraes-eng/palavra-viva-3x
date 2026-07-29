@@ -886,3 +886,11 @@
 - Item: short-3 — Salmo 61:1-3
 - Duração: 22.5s
 - Publicado em: 2026-07-29T20:12:58+00:00
+
+## [pt] l34sZEkiNFI — Salmo 61 — Leva-me à rocha mais alta do que eu
+
+- URL: https://youtu.be/l34sZEkiNFI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 61:1-3
+- Duração: 22.3s
+- Publicado em: 2026-07-29T22:52:38+00:00

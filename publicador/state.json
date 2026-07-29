@@ -777,12 +777,19 @@
           "video_id": "VfajonT1Sss",
           "titulo": "Salmo 139 — Para onde me irei do teu Espírito?",
           "em": "2026-07-29T15:09:18+00:00"
+        },
+        {
+          "pacote": "2026-07-29-salmos-dormir-3",
+          "item": "short-3",
+          "video_id": "l34sZEkiNFI",
+          "titulo": "Salmo 61 — Leva-me à rocha mais alta do que eu",
+          "em": "2026-07-29T22:52:38+00:00"
         }
       ],
-      "ultimo_short": "2026-07-29T15:09:18+00:00",
+      "ultimo_short": "2026-07-29T22:52:38+00:00",
       "shorts_dia": {
         "data": "2026-07-29",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-29"
     },
