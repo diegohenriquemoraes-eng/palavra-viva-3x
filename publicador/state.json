@@ -822,12 +822,19 @@
           "video_id": "xfr_aCCqNb8",
           "titulo": "What Cannot Harm You Cannot Disturb You",
           "em": "2026-07-28T19:54:32+00:00"
+        },
+        {
+          "pacote": "2026-07-29-things-not-our-own",
+          "item": "short-1",
+          "video_id": "uTAHPU9Hf3s",
+          "titulo": "The Power No One Can Ever Take From You",
+          "em": "2026-07-29T23:55:00+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T19:54:32+00:00",
+      "ultimo_short": "2026-07-29T23:55:00+00:00",
       "shorts_dia": {
-        "data": "2026-07-28",
-        "n": 4
+        "data": "2026-07-29",
+        "n": 1
       },
       "longo_data": ""
     }

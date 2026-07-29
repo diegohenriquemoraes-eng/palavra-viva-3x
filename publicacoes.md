@@ -894,3 +894,11 @@
 - Item: short-3 — Salmo 61:1-3
 - Duração: 22.3s
 - Publicado em: 2026-07-29T22:52:38+00:00
+
+## [stoic] uTAHPU9Hf3s — The Power No One Can Ever Take From You
+
+- URL: https://youtu.be/uTAHPU9Hf3s
+- Canal: Stoic by Night (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditations 6:65
+- Duração: 13.5s
+- Publicado em: 2026-07-29T23:55:00+00:00
