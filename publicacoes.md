@@ -862,3 +862,11 @@
 - Item: short-1 — Salmo 139:1-3
 - Duração: 19.7s
 - Publicado em: 2026-07-29T07:47:07+00:00
+
+## [es] K_vrrgHtw3w — Salmo 139 — ¿A dónde me iré de tu espíritu? | Biblia
+
+- URL: https://youtu.be/K_vrrgHtw3w
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 139:7-9
+- Duração: 21.6s
+- Publicado em: 2026-07-29T12:57:33+00:00
