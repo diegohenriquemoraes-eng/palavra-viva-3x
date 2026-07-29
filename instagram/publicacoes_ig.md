@@ -70,3 +70,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/18102772937242010/
 - Publicado em: 2026-07-29T19:46:18+00:00
+
+## 17915730435222900 — Salmo 121:7-8
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/17915730435222900/
+- Publicado em: 2026-07-29T22:15:48+00:00
