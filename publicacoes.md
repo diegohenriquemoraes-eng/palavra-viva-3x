@@ -854,3 +854,11 @@
 - Item: longo — Salmo 61, Salmo 71:1-16, Salmo 84, Salmo 143:1-10, Salmo 139:1-18
 - Duração: 3674.0s
 - Publicado em: 2026-07-29T05:42:32+00:00
+
+## [pt] y-GLOC5s1sI — Salmo 139 — Senhor, tu me sondaste e me conheces
+
+- URL: https://youtu.be/y-GLOC5s1sI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 139:1-3
+- Duração: 19.7s
+- Publicado em: 2026-07-29T07:47:07+00:00

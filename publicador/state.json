@@ -749,12 +749,19 @@
           "video_id": "KGW8XfQYN_4",
           "titulo": "Salmos de Paz para a Noite — Salmo 139, 84 e 61 | Bíblia para Dormir",
           "em": "2026-07-29T05:42:32+00:00"
+        },
+        {
+          "pacote": "2026-07-29-salmos-dormir-3",
+          "item": "short-1",
+          "video_id": "y-GLOC5s1sI",
+          "titulo": "Salmo 139 — Senhor, tu me sondaste e me conheces",
+          "em": "2026-07-29T07:47:07+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T19:09:29+00:00",
+      "ultimo_short": "2026-07-29T07:47:07+00:00",
       "shorts_dia": {
-        "data": "2026-07-28",
-        "n": 3
+        "data": "2026-07-29",
+        "n": 1
       },
       "longo_data": "2026-07-29"
     },
