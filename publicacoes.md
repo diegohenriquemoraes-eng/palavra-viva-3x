@@ -838,3 +838,19 @@
 - Item: longo — Salmo 61, Salmo 71:1-16, Salmo 84, Salmo 143:1-10, Salmo 139:1-18
 - Duração: 4088.3s
 - Publicado em: 2026-07-29T02:31:26+00:00
+
+## [es] GC0YfJFJYHM — Salmo 139 — Oh Jehová, tú me has examinado y conocido
+
+- URL: https://youtu.be/GC0YfJFJYHM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 139:1-3
+- Duração: 20.5s
+- Publicado em: 2026-07-29T05:01:48+00:00
+
+## [pt] KGW8XfQYN_4 — Salmos de Paz para a Noite — Salmo 139, 84 e 61 | Bíblia para Dormir
+
+- URL: https://youtu.be/KGW8XfQYN_4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 61, Salmo 71:1-16, Salmo 84, Salmo 143:1-10, Salmo 139:1-18
+- Duração: 3674.0s
+- Publicado em: 2026-07-29T05:42:32+00:00

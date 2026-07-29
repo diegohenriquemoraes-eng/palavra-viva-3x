@@ -281,12 +281,19 @@
           "video_id": "DKV7TTgQ4AQ",
           "titulo": "Salmos de Paz para la Noche — Salmo 139, 84 y 61 | Biblia para Dormir",
           "em": "2026-07-29T02:31:26+00:00"
+        },
+        {
+          "pacote": "2026-07-29-salmos-dormir-3",
+          "item": "short-1",
+          "video_id": "GC0YfJFJYHM",
+          "titulo": "Salmo 139 — Oh Jehová, tú me has examinado y conocido",
+          "em": "2026-07-29T05:01:48+00:00"
         }
       ],
-      "ultimo_short": "2026-07-28T21:00:42+00:00",
+      "ultimo_short": "2026-07-29T05:01:48+00:00",
       "shorts_dia": {
-        "data": "2026-07-28",
-        "n": 3
+        "data": "2026-07-29",
+        "n": 1
       },
       "longo_data": "2026-07-29"
     },
@@ -735,6 +742,13 @@
           "video_id": "GXnTI6Z0L7g",
           "titulo": "1 João 1:9 — Se confessarmos os nossos pecados, ele é fiel",
           "em": "2026-07-28T19:09:29+00:00"
+        },
+        {
+          "pacote": "2026-07-29-salmos-dormir-3",
+          "item": "longo",
+          "video_id": "KGW8XfQYN_4",
+          "titulo": "Salmos de Paz para a Noite — Salmo 139, 84 e 61 | Bíblia para Dormir",
+          "em": "2026-07-29T05:42:32+00:00"
         }
       ],
       "ultimo_short": "2026-07-28T19:09:29+00:00",
@@ -742,7 +756,7 @@
         "data": "2026-07-28",
         "n": 3
       },
-      "longo_data": "2026-07-28"
+      "longo_data": "2026-07-29"
     },
     "stoic": {
       "publicados": [
