@@ -295,12 +295,19 @@
           "video_id": "K_vrrgHtw3w",
           "titulo": "Salmo 139 — ¿A dónde me iré de tu espíritu? | Biblia",
           "em": "2026-07-29T12:57:33+00:00"
+        },
+        {
+          "pacote": "2026-07-29-salmos-dormir-3",
+          "item": "short-3",
+          "video_id": "NEmmp3K1KYI",
+          "titulo": "Salmo 61 — Llévame a la roca que es más alta que yo",
+          "em": "2026-07-29T20:12:58+00:00"
         }
       ],
-      "ultimo_short": "2026-07-29T12:57:33+00:00",
+      "ultimo_short": "2026-07-29T20:12:58+00:00",
       "shorts_dia": {
         "data": "2026-07-29",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-29"
     },

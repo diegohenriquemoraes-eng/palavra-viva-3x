@@ -878,3 +878,11 @@
 - Item: short-2 — Salmo 139:7-8
 - Duração: 18.9s
 - Publicado em: 2026-07-29T15:09:18+00:00
+
+## [es] NEmmp3K1KYI — Salmo 61 — Llévame a la roca que es más alta que yo
+
+- URL: https://youtu.be/NEmmp3K1KYI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 61:1-3
+- Duração: 22.5s
+- Publicado em: 2026-07-29T20:12:58+00:00
