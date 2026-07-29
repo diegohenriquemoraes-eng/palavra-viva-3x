@@ -64,3 +64,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/17975594492904325/
 - Publicado em: 2026-07-28T23:18:59+00:00
+
+## 18102772937242010 — Salmo 121:1-2
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/18102772937242010/
+- Publicado em: 2026-07-29T19:46:18+00:00
