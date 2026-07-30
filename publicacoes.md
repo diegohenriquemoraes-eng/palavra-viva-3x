@@ -910,3 +910,19 @@
 - Item: longo — Génesis 6:5-22, Génesis 7:1-24, Génesis 8:1-22, Génesis 9:1-17
 - Duração: 934.9s
 - Publicado em: 2026-07-30T01:37:06+00:00
+
+## [es] lIUUZcZrZwo — Génesis 9 — Mi arco pondré en las nubes | Biblia
+
+- URL: https://youtu.be/lIUUZcZrZwo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Génesis 9:12-13
+- Duração: 19.8s
+- Publicado em: 2026-07-30T04:50:40+00:00
+
+## [pt] SCzvCcuvH-k — Noé e a Arca — A História Completa | Gênesis 6 a 9 Narrado
+
+- URL: https://youtu.be/SCzvCcuvH-k
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Gênesis 6:5-22, Gênesis 7:1-24, Gênesis 8:1-22, Gênesis 9:1-17
+- Duração: 922.7s
+- Publicado em: 2026-07-30T05:01:00+00:00

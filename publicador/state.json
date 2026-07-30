@@ -309,12 +309,19 @@
           "video_id": "rTmXqeE4awg",
           "titulo": "Noé y el Arca — La Historia Completa | Génesis 6 al 9 Narrado",
           "em": "2026-07-30T01:37:06+00:00"
+        },
+        {
+          "pacote": "2026-07-30-noe-arca",
+          "item": "short-1",
+          "video_id": "lIUUZcZrZwo",
+          "titulo": "Génesis 9 — Mi arco pondré en las nubes | Biblia",
+          "em": "2026-07-30T04:50:40+00:00"
         }
       ],
-      "ultimo_short": "2026-07-29T20:12:58+00:00",
+      "ultimo_short": "2026-07-30T04:50:40+00:00",
       "shorts_dia": {
-        "data": "2026-07-29",
-        "n": 3
+        "data": "2026-07-30",
+        "n": 1
       },
       "longo_data": "2026-07-30"
     },
@@ -791,6 +798,13 @@
           "video_id": "l34sZEkiNFI",
           "titulo": "Salmo 61 — Leva-me à rocha mais alta do que eu",
           "em": "2026-07-29T22:52:38+00:00"
+        },
+        {
+          "pacote": "2026-07-30-noe-arca",
+          "item": "longo",
+          "video_id": "SCzvCcuvH-k",
+          "titulo": "Noé e a Arca — A História Completa | Gênesis 6 a 9 Narrado",
+          "em": "2026-07-30T05:01:00+00:00"
         }
       ],
       "ultimo_short": "2026-07-29T22:52:38+00:00",
@@ -798,7 +812,7 @@
         "data": "2026-07-29",
         "n": 3
       },
-      "longo_data": "2026-07-29"
+      "longo_data": "2026-07-30"
     },
     "stoic": {
       "publicados": [
