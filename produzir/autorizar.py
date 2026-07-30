@@ -39,11 +39,19 @@ from googleapiclient.discovery import build             # noqa: E402
 
 from nucleo import youtube_api                          # noqa: E402
 
+# Só LEITURA de relatórios. Não permite publicar, editar nem apagar nada —
+# é o escopo mínimo para ter retenção e fonte de tráfego.
+ESCOPO_ANALYTICS = "https://www.googleapis.com/auth/yt-analytics.readonly"
+
 
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--canal", required=True)
     ap.add_argument("--porta", type=int, default=8765)
+    ap.add_argument("--analytics", action="store_true",
+                    help="Token SEPARADO só de leitura do YouTube Analytics "
+                         "(retenção, fonte de tráfego). Grava em "
+                         "token_analytics.json e NÃO toca no token de publicar.")
     args = ap.parse_args()
 
     pasta = RAIZ / "credenciais" / args.canal
@@ -56,8 +64,14 @@ def main() -> None:
         encoding="utf-8"))
     esperado = cfg.get("canais", {}).get(args.canal, {}).get("channel_id", "")
 
-    flow = InstalledAppFlow.from_client_secrets_file(
-        str(segredo), youtube_api.SCOPES)
+    # O token de Analytics é um grant SEPARADO, de propósito: pedir o escopo
+    # novo por cima do token que está publicando seria mexer em credencial em
+    # produção — se algo desse errado no consentimento, os 3 canais emudeciam.
+    # Escopos distintos geram tokens distintos e o de publicar segue intacto.
+    escopos = ([ESCOPO_ANALYTICS] if args.analytics else youtube_api.SCOPES)
+    destino = pasta / ("token_analytics.json" if args.analytics
+                       else "token.json")
+    flow = InstalledAppFlow.from_client_secrets_file(str(segredo), escopos)
     print(f"\nAbrindo a tela de consentimento para o canal '{args.canal}'.")
     print("Na tela do Google, ESCOLHA A CONTA/CANAL CERTO e clique em "
           "Permitir.\n")
@@ -67,15 +81,22 @@ def main() -> None:
                                   success_message="Pronto, pode fechar esta "
                                                   "aba e voltar ao Claude.")
 
-    yt = build("youtube", "v3", credentials=creds, cache_discovery=False)
-    cid, titulo = youtube_api.canal_do_token(yt)
-    print(f"\nToken autorizado para: {titulo}  ({cid})")
-
-    if esperado and cid != esperado:
-        raise SystemExit(
-            f"CANAL ERRADO. O config espera {esperado} e o token veio de "
-            f"{cid} ({titulo}). Nada foi gravado — rode de novo e escolha o "
-            f"canal certo na tela do Google.")
+    if args.analytics:
+        # Este token não tem escopo da Data API, então canal_do_token não roda.
+        # A conferência de canal é feita na primeira consulta de relatório
+        # (medir_retencao.py pergunta por channel==<id> e o Google recusa se o
+        # token não for dono daquele canal) — e aqui não há risco de publicar
+        # no canal errado, porque este token não publica nada.
+        print("\nToken de Analytics (somente leitura) autorizado.")
+    else:
+        yt = build("youtube", "v3", credentials=creds, cache_discovery=False)
+        cid, titulo = youtube_api.canal_do_token(yt)
+        print(f"\nToken autorizado para: {titulo}  ({cid})")
+        if esperado and cid != esperado:
+            raise SystemExit(
+                f"CANAL ERRADO. O config espera {esperado} e o token veio de "
+                f"{cid} ({titulo}). Nada foi gravado — rode de novo e escolha "
+                f"o canal certo na tela do Google.")
     if not creds.refresh_token:
         raise SystemExit(
             "Vieram credenciais SEM refresh token: elas expiram em uma hora e "
@@ -83,9 +104,9 @@ def main() -> None:
             "novo (o consent precisa vir com prompt=consent).")
 
     pasta.mkdir(parents=True, exist_ok=True)
-    (pasta / "token.json").write_text(creds.to_json(), encoding="utf-8")
-    print(f"Gravado em {pasta / 'token.json'}")
-    if not esperado:
+    destino.write_text(creds.to_json(), encoding="utf-8")
+    print(f"Gravado em {destino}")
+    if not args.analytics and not esperado:
         print(f"\nPonha este channel_id no publicador/config.json: {cid}")
 
 
