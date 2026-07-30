@@ -833,12 +833,19 @@
           "video_id": "fqrNAaij7HQ",
           "titulo": "Gênesis 6 — Faze para ti uma arca de madeira | Bíblia",
           "em": "2026-07-30T15:04:18+00:00"
+        },
+        {
+          "pacote": "2026-07-30-noe-arca",
+          "item": "short-3",
+          "video_id": "-1_frwjzvdA",
+          "titulo": "Gênesis 8 — A pomba voltou com uma folha de oliveira",
+          "em": "2026-07-30T23:55:08+00:00"
         }
       ],
-      "ultimo_short": "2026-07-30T15:04:18+00:00",
+      "ultimo_short": "2026-07-30T23:55:08+00:00",
       "shorts_dia": {
         "data": "2026-07-30",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-30"
     },
@@ -878,11 +885,18 @@
           "video_id": "uTAHPU9Hf3s",
           "titulo": "The Power No One Can Ever Take From You",
           "em": "2026-07-29T23:55:00+00:00"
+        },
+        {
+          "pacote": "2026-07-30-no-fear-of-death",
+          "item": "short-1",
+          "video_id": "450wnCzT1Cw",
+          "titulo": "Not Death Is Evil, But This Is",
+          "em": "2026-07-30T23:56:05+00:00"
         }
       ],
-      "ultimo_short": "2026-07-29T23:55:00+00:00",
+      "ultimo_short": "2026-07-30T23:56:05+00:00",
       "shorts_dia": {
-        "data": "2026-07-29",
+        "data": "2026-07-30",
         "n": 1
       },
       "longo_data": ""

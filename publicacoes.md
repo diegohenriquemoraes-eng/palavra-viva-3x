@@ -958,3 +958,19 @@
 - Item: short-3 — Génesis 8:8
 - Duração: 18.1s
 - Publicado em: 2026-07-30T20:57:50+00:00
+
+## [pt] -1_frwjzvdA — Gênesis 8 — A pomba voltou com uma folha de oliveira
+
+- URL: https://youtu.be/-1_frwjzvdA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Gênesis 8:8
+- Duração: 18.3s
+- Publicado em: 2026-07-30T23:55:08+00:00
+
+## [stoic] 450wnCzT1Cw — Not Death Is Evil, But This Is
+
+- URL: https://youtu.be/450wnCzT1Cw
+- Canal: Stoic by Night (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Discourses 12:50
+- Duração: 12.5s
+- Publicado em: 2026-07-30T23:56:05+00:00
