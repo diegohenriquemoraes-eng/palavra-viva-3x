@@ -1,0 +1,180 @@
+{
+  "slug": "esperanca-luto",
+  "formato": "tema",
+  "data": "2026-08-01",
+  "criado_em": "2026-07-30T03:31:14+00:00",
+  "aprovado_em": "2026-07-30T03:31:14+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 42",
+      "Psalms 43",
+      "Lamentations 3:19-33",
+      "II Corinthians 4:7-18",
+      "Revelation of John 21:1-7",
+      "Psalms 147:1-11"
+    ],
+    "titulo": {
+      "es": "Consuelo en el Dolor — Salmo 42 y Lamentaciones 3 | Palabra de Paz",
+      "en": "Comfort in Sorrow — Psalm 42 & Lamentations 3 | Audio Bible",
+      "pt": "Consolo na Dor — Salmo 42 e Lamentações 3 | Palavra de Paz"
+    },
+    "thumb_titulo": {
+      "es": "CONSUELO EN EL DOLOR",
+      "en": "COMFORT IN SORROW",
+      "pt": "CONSOLO NA DOR"
+    },
+    "thumb_sub": {
+      "es": "Salmo 42 • Lamentaciones 3",
+      "en": "Psalm 42 • Lamentations 3",
+      "pt": "Salmo 42 • Lamentações 3"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Candle_flame_%281%29.jpg",
+        "autor": "Jon Sullivan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_flame_(1).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Candle_Flames.jpg/1920px-Candle_Flames.jpg",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_Flames.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Fire-candle-flame-hearts_%2824029345460%29.jpg/1920px-Fire-candle-flame-hearts_%2824029345460%29.jpg",
+        "autor": "www.Pixel.la Free Stock Photos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire-candle-flame-hearts_(24029345460).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Candle_flame_closeup.jpg/1920px-Candle_flame_closeup.jpg",
+        "autor": "domdomegg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_flame_closeup.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Candle_flame_by_Shan_Sheehan.jpg/1920px-Candle_flame_by_Shan_Sheehan.jpg",
+        "autor": "Shan Sheehan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_flame_by_Shan_Sheehan.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dawn_Clouds_-_Lake_Wendouree.jpg/1920px-Dawn_Clouds_-_Lake_Wendouree.jpg",
+        "autor": "Ed Dunens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn_Clouds_-_Lake_Wendouree.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dawn-sunset-flying-clouds_%2824300469076%29.jpg/1920px-Dawn-sunset-flying-clouds_%2824300469076%29.jpg",
+        "autor": "www.Pixel.la Free Stock Photos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn-sunset-flying-clouds_(24300469076).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/James_Hamilton_Shegogue%2C_Clouds_at_Dawn%2C_NGA_62308.jpg/1920px-James_Hamilton_Shegogue%2C_Clouds_at_Dawn%2C_NGA_62308.jpg",
+        "autor": "James Hamilton Shegogue",
+        "origem": "https://commons.wikimedia.org/wiki/File:James_Hamilton_Shegogue,_Clouds_at_Dawn,_NGA_62308.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Clouds_at_Dawn_%289678631045%29.jpg/1920px-Clouds_at_Dawn_%289678631045%29.jpg",
+        "autor": "oatsy40",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clouds_at_Dawn_(9678631045).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dawn_Clouds_%2836846435404%29.jpg/1920px-Dawn_Clouds_%2836846435404%29.jpg",
+        "autor": "Ed Dunens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn_Clouds_(36846435404).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Strange_Clouds_of_Fog_Over_Lake_Altaussee.jpg/1920px-Strange_Clouds_of_Fog_Over_Lake_Altaussee.jpg",
+        "autor": "Bernd Thaller",
+        "origem": "https://commons.wikimedia.org/wiki/File:Strange_Clouds_of_Fog_Over_Lake_Altaussee.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Last_fog%2C_Lake_Henshaw_%2854249258978%29.jpg/1920px-Last_fog%2C_Lake_Henshaw_%2854249258978%29.jpg",
+        "autor": "John D. from Pasadena, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Last_fog,_Lake_Henshaw_(54249258978).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bison_in_the_fog%2C_Swan_Lake_Flat_%2828c6f11c-0a18-4e46-876a-d6c203789956%29.jpg/1920px-Bison_in_the_fog%2C_Swan_Lake_Flat_%2828c6f11c-0a18-4e46-876a-d6c203789956%29.jpg",
+        "autor": "Neal Herbert",
+        "origem": "https://commons.wikimedia.org/wiki/File:Bison_in_the_fog,_Swan_Lake_Flat_(28c6f11c-0a18-4e46-876a-d6c203789956).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Receding_Fog_over_Lake_Altaussee.jpg/1920px-Receding_Fog_over_Lake_Altaussee.jpg",
+        "autor": "Bernd Thaller",
+        "origem": "https://commons.wikimedia.org/wiki/File:Receding_Fog_over_Lake_Altaussee.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 34:17-19",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 34 — Cercano está Jehová a los quebrantados",
+        "en": "Psalm 34 — The Lord Is Nigh unto Them of a Broken Heart",
+        "pt": "Salmo 34 — Perto está o Senhor dos que têm o coração quebrantado"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Many_Hands_Make_Light_Work_%2853213259041%29.jpg/1920px-Many_Hands_Make_Light_Work_%2853213259041%29.jpg",
+        "autor": "BLM Alaska",
+        "origem": "https://commons.wikimedia.org/wiki/File:Many_Hands_Make_Light_Work_(53213259041).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Lamentations 3:22-26",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Lamentaciones 3 — Nuevas son cada mañana | Biblia",
+        "en": "Lamentations 3 — They Are New Every Morning | Bible",
+        "pt": "Lamentações 3 — Novas são a cada manhã | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Orange_sunrise_in_a_field.jpg/1920px-Orange_sunrise_in_a_field.jpg",
+        "autor": "NinjaRobotPirate",
+        "origem": "https://commons.wikimedia.org/wiki/File:Orange_sunrise_in_a_field.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Revelation of John 21:3-4",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Apocalipsis 21 — Enjugará Dios toda lágrima | Biblia",
+        "en": "Revelation 21 — God Shall Wipe Away All Tears | Bible",
+        "pt": "Apocalipse 21 — Deus enxugará toda lágrima | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Field%2C_corn%2C_Liechtenstein%2C_Mountains%2C_Alps%2C_Vaduz%2C_sky%2C_clouds%2C_landscape.jpg/1920px-Field%2C_corn%2C_Liechtenstein%2C_Mountains%2C_Alps%2C_Vaduz%2C_sky%2C_clouds%2C_landscape.jpg",
+        "autor": "Paranoid",
+        "origem": "https://commons.wikimedia.org/wiki/File:Field,_corn,_Liechtenstein,_Mountains,_Alps,_Vaduz,_sky,_clouds,_landscape.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 42:5-8",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Salmo 42 — ¿Por qué te abates, oh alma mía? | Biblia",
+        "en": "Psalm 42 — Why Art Thou Cast Down, O My Soul? | Bible",
+        "pt": "Salmo 42 — Por que estás abatida, ó minha alma?"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Deer_Valley_-_Stream.jpg/1920px-Deer_Valley_-_Stream.jpg",
+        "autor": "Jarek Tuszyński",
+        "origem": "https://commons.wikimedia.org/wiki/File:Deer_Valley_-_Stream.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
