@@ -950,3 +950,11 @@
 - Item: short-2 — Gênesis 6:13
 - Duração: 14.2s
 - Publicado em: 2026-07-30T15:04:18+00:00
+
+## [es] -hdlOjKr08o — Génesis 8 — La paloma volvió con una hoja de oliva
+
+- URL: https://youtu.be/-hdlOjKr08o
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Génesis 8:8
+- Duração: 18.1s
+- Publicado em: 2026-07-30T20:57:50+00:00
