@@ -76,3 +76,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/17915730435222900/
 - Publicado em: 2026-07-29T22:15:48+00:00
+
+## 18125985301684947 — Daniel 6
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/18125985301684947/
+- Publicado em: 2026-07-30T20:37:34+00:00
