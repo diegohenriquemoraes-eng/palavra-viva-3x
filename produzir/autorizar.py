@@ -44,6 +44,31 @@ from nucleo import youtube_api                          # noqa: E402
 ESCOPO_ANALYTICS = "https://www.googleapis.com/auth/yt-analytics.readonly"
 
 
+def confere_analytics(creds, channel_id: str) -> bool:
+    """O token consegue ler relatórios DESTE canal?
+
+    Devolve True também quando a YouTube Analytics API ainda não está
+    habilitada no projeto Cloud: aí o 403 é do projeto, não do canal, e
+    reprovar o token seria culpar o inocente — o medir_retencao.py já explica
+    esse caso e imprime o link de ativação.
+    """
+    from datetime import date, timedelta
+    hoje = date.today()
+    try:
+        build("youtubeAnalytics", "v2", credentials=creds,
+              cache_discovery=False).reports().query(
+            ids=f"channel=={channel_id}",
+            startDate=(hoje - timedelta(days=7)).isoformat(),
+            endDate=hoje.isoformat(), metrics="views").execute()
+        return True
+    except Exception as exc:
+        if "SERVICE_DISABLED" in str(exc) or "has not been used in project" in str(exc):
+            print("\n(A YouTube Analytics API ainda não está habilitada neste "
+                  "projeto Cloud — não dá para conferir o canal agora.)")
+            return True
+        return False
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--canal", required=True)
@@ -83,10 +108,16 @@ def main() -> None:
 
     if args.analytics:
         # Este token não tem escopo da Data API, então canal_do_token não roda.
-        # A conferência de canal é feita na primeira consulta de relatório
-        # (medir_retencao.py pergunta por channel==<id> e o Google recusa se o
-        # token não for dono daquele canal) — e aqui não há risco de publicar
-        # no canal errado, porque este token não publica nada.
+        # A conferência é feita PEDINDO um relatório do canal esperado: se o
+        # token não for dono dele, o Google responde 403 forbidden. Sem isto o
+        # script gravava calado um token do canal errado e o erro só aparecia
+        # depois, na medição — foi o que aconteceu com o PT em 30/07/2026
+        # (a tela de consentimento veio com a conta do ES pré-selecionada).
+        if esperado and not confere_analytics(creds, esperado):
+            raise SystemExit(
+                f"CANAL ERRADO. Este token não tem acesso aos relatórios de "
+                f"{esperado} ('{args.canal}'). Nada foi gravado — rode de novo "
+                f"e escolha o canal certo na tela do Google.")
         print("\nToken de Analytics (somente leitura) autorizado.")
     else:
         yt = build("youtube", "v3", credentials=creds, cache_discovery=False)
