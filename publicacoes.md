@@ -934,3 +934,11 @@
 - Item: short-1 — Gênesis 9:12-13
 - Duração: 18.8s
 - Publicado em: 2026-07-30T07:29:23+00:00
+
+## [es] cP4HbVFuDXs — Génesis 6 — Hazte un arca de madera de gofer | Biblia
+
+- URL: https://youtu.be/cP4HbVFuDXs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Génesis 6:13
+- Duração: 14.8s
+- Publicado em: 2026-07-30T12:24:51+00:00
