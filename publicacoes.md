@@ -926,3 +926,11 @@
 - Item: longo — Gênesis 6:5-22, Gênesis 7:1-24, Gênesis 8:1-22, Gênesis 9:1-17
 - Duração: 922.7s
 - Publicado em: 2026-07-30T05:01:00+00:00
+
+## [pt] zgHqfKU0w4s — Gênesis 9 — Porei o meu arco nas nuvens | Bíblia
+
+- URL: https://youtu.be/zgHqfKU0w4s
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Gênesis 9:12-13
+- Duração: 18.8s
+- Publicado em: 2026-07-30T07:29:23+00:00

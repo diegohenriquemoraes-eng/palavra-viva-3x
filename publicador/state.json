@@ -805,12 +805,19 @@
           "video_id": "SCzvCcuvH-k",
           "titulo": "Noé e a Arca — A História Completa | Gênesis 6 a 9 Narrado",
           "em": "2026-07-30T05:01:00+00:00"
+        },
+        {
+          "pacote": "2026-07-30-noe-arca",
+          "item": "short-1",
+          "video_id": "zgHqfKU0w4s",
+          "titulo": "Gênesis 9 — Porei o meu arco nas nuvens | Bíblia",
+          "em": "2026-07-30T07:29:23+00:00"
         }
       ],
-      "ultimo_short": "2026-07-29T22:52:38+00:00",
+      "ultimo_short": "2026-07-30T07:29:23+00:00",
       "shorts_dia": {
-        "data": "2026-07-29",
-        "n": 3
+        "data": "2026-07-30",
+        "n": 1
       },
       "longo_data": "2026-07-30"
     },
