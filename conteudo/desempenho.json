@@ -1,5 +1,19 @@
 [
   {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "conflicto",
+    "titulo": "Génesis 6 — Hazte un arca de madera de gofer | Biblia",
+    "views": 5,
+    "likes": 2,
+    "comentarios": 0,
+    "engajamento": 40.0,
+    "video_id": "cP4HbVFuDXs",
+    "em": "2026-07-30T12:24:51+00:00",
+    "idade_d": 0.01,
+    "formato": "novo"
+  },
+  {
     "canal": "pt",
     "item": "short-1",
     "tipo": "conflicto",
@@ -10,7 +24,7 @@
     "engajamento": 38.89,
     "video_id": "Itm1zVYKsGg",
     "em": "2026-07-21T00:53:28+00:00",
-    "idade_d": 6.97,
+    "idade_d": 9.49,
     "formato": "antigo"
   },
   {
@@ -24,7 +38,7 @@
     "engajamento": 38.46,
     "video_id": "BBvAYmjx3Lg",
     "em": "2026-07-25T13:03:43+00:00",
-    "idade_d": 2.47,
+    "idade_d": 4.98,
     "formato": "antigo"
   },
   {
@@ -32,27 +46,13 @@
     "item": "short-2",
     "tipo": "descriptivo",
     "titulo": "Salmo 63 — Ó Deus, tu és o meu Deus, de madrugada te busco",
-    "views": 76,
-    "likes": 27,
+    "views": 84,
+    "likes": 29,
     "comentarios": 0,
-    "engajamento": 35.53,
+    "engajamento": 34.52,
     "video_id": "IP6v8ejD9oY",
     "em": "2026-07-26T15:59:50+00:00",
-    "idade_d": 1.34,
-    "formato": "antigo"
-  },
-  {
-    "canal": "pt",
-    "item": "short-2",
-    "tipo": "promesa",
-    "titulo": "Salmo 37 — O Senhor firma os passos do homem bom | Bíblia",
-    "views": 32,
-    "likes": 11,
-    "comentarios": 0,
-    "engajamento": 34.38,
-    "video_id": "UdhJrOcXIsc",
-    "em": "2026-07-27T17:33:14+00:00",
-    "idade_d": 0.28,
+    "idade_d": 3.86,
     "formato": "antigo"
   },
   {
@@ -60,13 +60,27 @@
     "item": "short-1",
     "tipo": "promesa",
     "titulo": "Filipenses 4:19 — Meu Deus suprirá tudo o que vos falta",
-    "views": 86,
-    "likes": 25,
+    "views": 104,
+    "likes": 34,
     "comentarios": 0,
-    "engajamento": 29.07,
+    "engajamento": 32.69,
     "video_id": "9XkKm3D1tvs",
     "em": "2026-07-27T09:36:16+00:00",
-    "idade_d": 0.61,
+    "idade_d": 3.13,
+    "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Salmo 37 — O Senhor firma os passos do homem bom | Bíblia",
+    "views": 84,
+    "likes": 24,
+    "comentarios": 0,
+    "engajamento": 28.57,
+    "video_id": "UdhJrOcXIsc",
+    "em": "2026-07-27T17:33:14+00:00",
+    "idade_d": 2.8,
     "formato": "antigo"
   },
   {
@@ -74,13 +88,13 @@
     "item": "short-3",
     "tipo": "promesa",
     "titulo": "Salmo 3 — Tu, Senhor, és o escudo ao meu redor",
-    "views": 42,
-    "likes": 11,
+    "views": 59,
+    "likes": 14,
     "comentarios": 0,
-    "engajamento": 26.19,
+    "engajamento": 23.73,
     "video_id": "8QjLZY_gj6w",
     "em": "2026-07-26T23:55:50+00:00",
-    "idade_d": 1.01,
+    "idade_d": 3.53,
     "formato": "antigo"
   },
   {
@@ -88,13 +102,13 @@
     "item": "short-3",
     "tipo": "descriptivo",
     "titulo": "Salmo 19 — Os céus declaram a glória de Deus",
-    "views": 71,
+    "views": 72,
     "likes": 17,
     "comentarios": 0,
-    "engajamento": 23.94,
+    "engajamento": 23.61,
     "video_id": "i3H96Bb7zLs",
     "em": "2026-07-25T20:07:43+00:00",
-    "idade_d": 2.17,
+    "idade_d": 4.69,
     "formato": "antigo"
   },
   {
@@ -102,13 +116,13 @@
     "item": "short-1",
     "tipo": "promesa",
     "titulo": "Salmo 62 — Somente em Deus descansa a minha alma",
-    "views": 98,
-    "likes": 21,
+    "views": 102,
+    "likes": 22,
     "comentarios": 0,
-    "engajamento": 21.43,
+    "engajamento": 21.57,
     "video_id": "0aOemaHKhv0",
     "em": "2026-07-26T08:12:14+00:00",
-    "idade_d": 1.67,
+    "idade_d": 4.19,
     "formato": "antigo"
   },
   {
@@ -122,8 +136,22 @@
     "engajamento": 21.31,
     "video_id": "R70PCQvIA_o",
     "em": "2026-07-23T07:31:10+00:00",
-    "idade_d": 4.7,
+    "idade_d": 7.21,
     "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Salmo 139 — Para onde me irei do teu Espírito?",
+    "views": 76,
+    "likes": 16,
+    "comentarios": 0,
+    "engajamento": 21.05,
+    "video_id": "VfajonT1Sss",
+    "em": "2026-07-29T15:09:18+00:00",
+    "idade_d": 0.9,
+    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -136,7 +164,7 @@
     "engajamento": 20.95,
     "video_id": "6jkdsd7Au2w",
     "em": "2026-07-24T20:12:26+00:00",
-    "idade_d": 3.17,
+    "idade_d": 5.69,
     "formato": "antigo"
   },
   {
@@ -150,22 +178,36 @@
     "engajamento": 20.44,
     "video_id": "iXQOYURYYkI",
     "em": "2026-07-21T18:12:19+00:00",
-    "idade_d": 6.25,
+    "idade_d": 8.77,
     "formato": "antigo"
   },
   {
-    "canal": "es",
+    "canal": "pt",
     "item": "short-1",
-    "tipo": "promesa",
-    "titulo": "Salmo 62 — En Dios solamente está acallada mi alma",
-    "views": 372,
-    "likes": 73,
-    "comentarios": 2,
-    "engajamento": 20.16,
-    "video_id": "btydWbb-dZ4",
-    "em": "2026-07-26T08:10:05+00:00",
-    "idade_d": 1.67,
-    "formato": "antigo"
+    "tipo": "conflicto",
+    "titulo": "Salmo 51 — Cria em mim, ó Deus, um coração puro",
+    "views": 59,
+    "likes": 12,
+    "comentarios": 0,
+    "engajamento": 20.34,
+    "video_id": "ULczREHWxJM",
+    "em": "2026-07-28T02:21:45+00:00",
+    "idade_d": 2.43,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-3",
+    "tipo": "conflicto",
+    "titulo": "Salmo 61 — Llévame a la roca que es más alta que yo",
+    "views": 5,
+    "likes": 1,
+    "comentarios": 0,
+    "engajamento": 20.0,
+    "video_id": "NEmmp3K1KYI",
+    "em": "2026-07-29T20:12:58+00:00",
+    "idade_d": 0.68,
+    "formato": "novo"
   },
   {
     "canal": "en",
@@ -178,8 +220,22 @@
     "engajamento": 20.0,
     "video_id": "ih2y43OYLOM",
     "em": "2026-07-25T14:57:51+00:00",
-    "idade_d": 2.39,
+    "idade_d": 4.9,
     "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "short-1",
+    "tipo": "promesa",
+    "titulo": "Gênesis 9 — Porei o meu arco nas nuvens | Bíblia",
+    "views": 66,
+    "likes": 13,
+    "comentarios": 0,
+    "engajamento": 19.7,
+    "video_id": "zgHqfKU0w4s",
+    "em": "2026-07-30T07:29:23+00:00",
+    "idade_d": 0.22,
+    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -192,7 +248,7 @@
     "engajamento": 18.75,
     "video_id": "XEJAqCz-w-4",
     "em": "2026-07-24T12:16:20+00:00",
-    "idade_d": 3.5,
+    "idade_d": 6.02,
     "formato": "antigo"
   },
   {
@@ -206,7 +262,21 @@
     "engajamento": 18.52,
     "video_id": "xDsWH7xw9fA",
     "em": "2026-07-22T10:17:36+00:00",
-    "idade_d": 5.58,
+    "idade_d": 8.1,
+    "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-1",
+    "tipo": "promesa",
+    "titulo": "Salmo 62 — En Dios solamente está acallada mi alma",
+    "views": 472,
+    "likes": 84,
+    "comentarios": 2,
+    "engajamento": 18.22,
+    "video_id": "btydWbb-dZ4",
+    "em": "2026-07-26T08:10:05+00:00",
+    "idade_d": 4.19,
     "formato": "antigo"
   },
   {
@@ -220,7 +290,7 @@
     "engajamento": 17.24,
     "video_id": "t6p3WLkoNkg",
     "em": "2026-07-22T02:11:30+00:00",
-    "idade_d": 5.92,
+    "idade_d": 8.44,
     "formato": "antigo"
   },
   {
@@ -234,8 +304,22 @@
     "engajamento": 16.75,
     "video_id": "JJMI0ykCR3I",
     "em": "2026-07-21T14:57:17+00:00",
-    "idade_d": 6.39,
+    "idade_d": 8.9,
     "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "short-3",
+    "tipo": "promesa",
+    "titulo": "1 João 1:9 — Se confessarmos os nossos pecados, ele é fiel",
+    "views": 137,
+    "likes": 21,
+    "comentarios": 0,
+    "engajamento": 15.33,
+    "video_id": "GXnTI6Z0L7g",
+    "em": "2026-07-28T19:09:29+00:00",
+    "idade_d": 1.73,
+    "formato": "novo"
   },
   {
     "canal": "en",
@@ -248,21 +332,35 @@
     "engajamento": 15.22,
     "video_id": "FJlF1OBTxsw",
     "em": "2026-07-19T16:46:15+00:00",
-    "idade_d": 8.31,
+    "idade_d": 10.83,
     "formato": "antigo"
   },
   {
-    "canal": "es",
+    "canal": "pt",
     "item": "short-3",
-    "tipo": "promesa",
-    "titulo": "Salmo 3 — Tú, Jehová, eres escudo alrededor de mí",
-    "views": 647,
-    "likes": 89,
+    "tipo": "conflicto",
+    "titulo": "Salmo 61 — Leva-me à rocha mais alta do que eu",
+    "views": 64,
+    "likes": 9,
+    "comentarios": 0,
+    "engajamento": 14.06,
+    "video_id": "l34sZEkiNFI",
+    "em": "2026-07-29T22:52:38+00:00",
+    "idade_d": 0.57,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "descriptivo",
+    "titulo": "Génesis 1 — Hagamos al hombre a nuestra imagen | Biblia",
+    "views": 368,
+    "likes": 50,
     "comentarios": 1,
-    "engajamento": 13.91,
-    "video_id": "qiGkFdpoyv0",
-    "em": "2026-07-26T23:53:55+00:00",
-    "idade_d": 1.02,
+    "engajamento": 13.86,
+    "video_id": "zCB0XdUDY1c",
+    "em": "2026-07-25T14:56:44+00:00",
+    "idade_d": 4.9,
     "formato": "antigo"
   },
   {
@@ -276,21 +374,21 @@
     "engajamento": 13.7,
     "video_id": "HPDf2_qkRRY",
     "em": "2026-07-23T15:08:01+00:00",
-    "idade_d": 4.38,
+    "idade_d": 6.9,
     "formato": "antigo"
   },
   {
     "canal": "es",
-    "item": "short-2",
-    "tipo": "descriptivo",
-    "titulo": "Génesis 1 — Hagamos al hombre a nuestra imagen | Biblia",
-    "views": 356,
-    "likes": 45,
+    "item": "short-3",
+    "tipo": "promesa",
+    "titulo": "Salmo 3 — Tú, Jehová, eres escudo alrededor de mí",
+    "views": 926,
+    "likes": 109,
     "comentarios": 1,
-    "engajamento": 12.92,
-    "video_id": "zCB0XdUDY1c",
-    "em": "2026-07-25T14:56:44+00:00",
-    "idade_d": 2.39,
+    "engajamento": 11.88,
+    "video_id": "qiGkFdpoyv0",
+    "em": "2026-07-26T23:53:55+00:00",
+    "idade_d": 3.53,
     "formato": "antigo"
   },
   {
@@ -298,14 +396,28 @@
     "item": "short-2",
     "tipo": "descriptivo",
     "titulo": "Salmo 63 — Dios, Dios mío eres tú, de madrugada te buscaré",
-    "views": 1002,
-    "likes": 114,
+    "views": 1043,
+    "likes": 121,
     "comentarios": 1,
-    "engajamento": 11.48,
+    "engajamento": 11.7,
     "video_id": "fIUr4QC0cY4",
     "em": "2026-07-26T15:57:08+00:00",
-    "idade_d": 1.35,
+    "idade_d": 3.86,
     "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Salmo 103 — Quanto está longe o oriente do ocidente",
+    "views": 123,
+    "likes": 14,
+    "comentarios": 0,
+    "engajamento": 11.38,
+    "video_id": "Af6IfnCADcg",
+    "em": "2026-07-28T10:26:56+00:00",
+    "idade_d": 2.09,
+    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -318,8 +430,22 @@
     "engajamento": 11.03,
     "video_id": "-3vYi3hzhaU",
     "em": "2026-07-23T22:55:58+00:00",
-    "idade_d": 4.06,
+    "idade_d": 6.57,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-1",
+    "tipo": "promesa",
+    "titulo": "Génesis 9 — Mi arco pondré en las nubes | Biblia",
+    "views": 483,
+    "likes": 51,
+    "comentarios": 0,
+    "engajamento": 10.56,
+    "video_id": "lIUUZcZrZwo",
+    "em": "2026-07-30T04:50:40+00:00",
+    "idade_d": 0.33,
+    "formato": "novo"
   },
   {
     "canal": "en",
@@ -332,7 +458,7 @@
     "engajamento": 10.32,
     "video_id": "Y9dEdkK2XsQ",
     "em": "2026-07-19T23:49:18+00:00",
-    "idade_d": 8.02,
+    "idade_d": 10.53,
     "formato": "antigo"
   },
   {
@@ -346,35 +472,7 @@
     "engajamento": 10.01,
     "video_id": "aZkkENFn0pQ",
     "em": "2026-07-22T14:57:51+00:00",
-    "idade_d": 5.39,
-    "formato": "antigo"
-  },
-  {
-    "canal": "es",
-    "item": "short-2",
-    "tipo": "promesa",
-    "titulo": "Salmo 37 — Jehová ordena los pasos del hombre bueno | Biblia",
-    "views": 872,
-    "likes": 83,
-    "comentarios": 2,
-    "engajamento": 9.75,
-    "video_id": "RkkaHOSSeV8",
-    "em": "2026-07-27T17:32:14+00:00",
-    "idade_d": 0.28,
-    "formato": "antigo"
-  },
-  {
-    "canal": "es",
-    "item": "short-1",
-    "tipo": "descriptivo",
-    "titulo": "Génesis 1 — En el principio creó Dios los cielos",
-    "views": 283,
-    "likes": 27,
-    "comentarios": 0,
-    "engajamento": 9.54,
-    "video_id": "8Tyr0031qm4",
-    "em": "2026-07-25T07:52:17+00:00",
-    "idade_d": 2.68,
+    "idade_d": 7.9,
     "formato": "antigo"
   },
   {
@@ -388,22 +486,78 @@
     "engajamento": 9.53,
     "video_id": "4lrSKpglN8Y",
     "em": "2026-07-19T05:44:03+00:00",
-    "idade_d": 8.77,
+    "idade_d": 11.29,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-1",
+    "tipo": "descriptivo",
+    "titulo": "Génesis 1 — En el principio creó Dios los cielos",
+    "views": 284,
+    "likes": 27,
+    "comentarios": 0,
+    "engajamento": 9.51,
+    "video_id": "8Tyr0031qm4",
+    "em": "2026-07-25T07:52:17+00:00",
+    "idade_d": 5.2,
+    "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Salmo 37 — Jehová ordena los pasos del hombre bueno | Biblia",
+    "views": 1035,
+    "likes": 95,
+    "comentarios": 2,
+    "engajamento": 9.37,
+    "video_id": "RkkaHOSSeV8",
+    "em": "2026-07-27T17:32:14+00:00",
+    "idade_d": 2.8,
+    "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-1",
+    "tipo": "conflicto",
+    "titulo": "Salmo 51 — Crea en mí, oh Dios, un corazón limpio | Biblia",
+    "views": 904,
+    "likes": 83,
+    "comentarios": 1,
+    "engajamento": 9.29,
+    "video_id": "tjg1FQBlOqA",
+    "em": "2026-07-28T04:57:17+00:00",
+    "idade_d": 2.32,
+    "formato": "novo"
   },
   {
     "canal": "es",
     "item": "short-3",
     "tipo": "descriptivo",
     "titulo": "Salmo 19 — Los cielos cuentan la gloria de Dios",
-    "views": 766,
-    "likes": 65,
+    "views": 782,
+    "likes": 71,
     "comentarios": 0,
-    "engajamento": 8.49,
+    "engajamento": 9.08,
     "video_id": "YlIl72UMxF0",
     "em": "2026-07-25T22:44:47+00:00",
-    "idade_d": 2.06,
+    "idade_d": 4.58,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Salmo 139 — ¿A dónde me iré de tu espíritu? | Biblia",
+    "views": 1068,
+    "likes": 85,
+    "comentarios": 3,
+    "engajamento": 8.24,
+    "video_id": "K_vrrgHtw3w",
+    "em": "2026-07-29T12:57:33+00:00",
+    "idade_d": 0.99,
+    "formato": "novo"
   },
   {
     "canal": "es",
@@ -416,21 +570,35 @@
     "engajamento": 8.04,
     "video_id": "jWd4SqcmZp0",
     "em": "2026-07-23T07:29:25+00:00",
-    "idade_d": 4.7,
+    "idade_d": 7.21,
     "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "short-1",
+    "tipo": "descriptivo",
+    "titulo": "Salmo 139 — Senhor, tu me sondaste e me conheces",
+    "views": 101,
+    "likes": 8,
+    "comentarios": 0,
+    "engajamento": 7.92,
+    "video_id": "y-GLOC5s1sI",
+    "em": "2026-07-29T07:47:07+00:00",
+    "idade_d": 1.2,
+    "formato": "novo"
   },
   {
     "canal": "es",
     "item": "short-2",
     "tipo": "promesa",
     "titulo": "Filipenses 4 — Por nada estéis afanosos | Biblia",
-    "views": 550,
-    "likes": 43,
+    "views": 556,
+    "likes": 44,
     "comentarios": 0,
-    "engajamento": 7.82,
+    "engajamento": 7.91,
     "video_id": "W2nWvKlCqek",
     "em": "2026-07-24T15:25:45+00:00",
-    "idade_d": 3.37,
+    "idade_d": 5.88,
     "formato": "antigo"
   },
   {
@@ -444,7 +612,7 @@
     "engajamento": 7.72,
     "video_id": "He_vL9rcYKA",
     "em": "2026-07-21T10:17:01+00:00",
-    "idade_d": 6.58,
+    "idade_d": 9.1,
     "formato": "antigo"
   },
   {
@@ -452,27 +620,41 @@
     "item": "short-1",
     "tipo": "promesa",
     "titulo": "Salmo 91 — Bajo la sombra del Altísimo | Biblia en español",
-    "views": 873,
+    "views": 875,
     "likes": 60,
     "comentarios": 4,
-    "engajamento": 7.33,
+    "engajamento": 7.31,
     "video_id": "QLxA8SJj8go",
     "em": "2026-07-19T02:45:12+00:00",
-    "idade_d": 8.9,
+    "idade_d": 11.41,
     "formato": "antigo"
   },
   {
     "canal": "es",
-    "item": "short-3",
+    "item": "short-2",
     "tipo": "promesa",
-    "titulo": "Mateo 11:28 — Venid a mí todos los que estáis trabajados",
-    "views": 903,
-    "likes": 61,
-    "comentarios": 3,
-    "engajamento": 7.09,
-    "video_id": "nKhC2_isGwM",
-    "em": "2026-07-24T22:57:38+00:00",
-    "idade_d": 3.05,
+    "titulo": "Salmo 103 — Cuanto está lejos el oriente del occidente",
+    "views": 933,
+    "likes": 67,
+    "comentarios": 0,
+    "engajamento": 7.18,
+    "video_id": "vSM3cqR4fJ4",
+    "em": "2026-07-28T12:49:30+00:00",
+    "idade_d": 1.99,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Dios Provee — Salmo 34 y Filipenses 4 | Promesas de Provisión",
+    "views": 28,
+    "likes": 2,
+    "comentarios": 0,
+    "engajamento": 7.14,
+    "video_id": "4GOsWKjFlSo",
+    "em": "2026-07-27T02:23:37+00:00",
+    "idade_d": 3.43,
     "formato": "antigo"
   },
   {
@@ -480,13 +662,27 @@
     "item": "short-1",
     "tipo": "promesa",
     "titulo": "Filipenses 4:19 — Mi Dios suplirá todo lo que os falta | Biblia",
-    "views": 868,
-    "likes": 61,
+    "views": 944,
+    "likes": 67,
     "comentarios": 0,
-    "engajamento": 7.03,
+    "engajamento": 7.1,
     "video_id": "rr6yAkyjUZ8",
     "em": "2026-07-27T09:34:19+00:00",
-    "idade_d": 0.61,
+    "idade_d": 3.13,
+    "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-3",
+    "tipo": "promesa",
+    "titulo": "Mateo 11:28 — Venid a mí todos los que estáis trabajados",
+    "views": 920,
+    "likes": 62,
+    "comentarios": 3,
+    "engajamento": 7.07,
+    "video_id": "nKhC2_isGwM",
+    "em": "2026-07-24T22:57:38+00:00",
+    "idade_d": 5.57,
     "formato": "antigo"
   },
   {
@@ -494,14 +690,28 @@
     "item": "short-2",
     "tipo": "conflicto",
     "titulo": "Salmo 27 — Jehová es mi luz y mi salvación | Biblia",
-    "views": 713,
+    "views": 714,
     "likes": 47,
     "comentarios": 3,
-    "engajamento": 7.01,
+    "engajamento": 7.0,
     "video_id": "w39AWANKKls",
     "em": "2026-07-20T15:04:08+00:00",
-    "idade_d": 7.38,
+    "idade_d": 9.9,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-1",
+    "tipo": "descriptivo",
+    "titulo": "Salmo 139 — Oh Jehová, tú me has examinado y conocido",
+    "views": 825,
+    "likes": 57,
+    "comentarios": 0,
+    "engajamento": 6.91,
+    "video_id": "GC0YfJFJYHM",
+    "em": "2026-07-29T05:01:48+00:00",
+    "idade_d": 1.32,
+    "formato": "novo"
   },
   {
     "canal": "es",
@@ -514,22 +724,22 @@
     "engajamento": 6.84,
     "video_id": "9X9Uz2lBK2o",
     "em": "2026-07-23T15:04:33+00:00",
-    "idade_d": 4.38,
+    "idade_d": 6.9,
     "formato": "antigo"
   },
   {
     "canal": "es",
-    "item": "longo",
-    "tipo": "longo",
-    "titulo": "Dios Provee — Salmo 34 y Filipenses 4 | Promesas de Provisión",
-    "views": 15,
-    "likes": 1,
+    "item": "short-3",
+    "tipo": "promesa",
+    "titulo": "1 Juan 1:9 — Si confesamos nuestros pecados, él es fiel",
+    "views": 925,
+    "likes": 61,
     "comentarios": 0,
-    "engajamento": 6.67,
-    "video_id": "4GOsWKjFlSo",
-    "em": "2026-07-27T02:23:37+00:00",
-    "idade_d": 0.91,
-    "formato": "antigo"
+    "engajamento": 6.59,
+    "video_id": "T3qlIYQRsvE",
+    "em": "2026-07-28T21:00:42+00:00",
+    "idade_d": 1.65,
+    "formato": "novo"
   },
   {
     "canal": "es",
@@ -542,7 +752,7 @@
     "engajamento": 6.31,
     "video_id": "vJGCt-7lUl8",
     "em": "2026-07-21T22:47:54+00:00",
-    "idade_d": 6.06,
+    "idade_d": 8.58,
     "formato": "antigo"
   },
   {
@@ -556,7 +766,7 @@
     "engajamento": 6.23,
     "video_id": "sqtQdLCJlUw",
     "em": "2026-07-22T21:59:08+00:00",
-    "idade_d": 5.09,
+    "idade_d": 7.61,
     "formato": "antigo"
   },
   {
@@ -570,7 +780,7 @@
     "engajamento": 5.78,
     "video_id": "ByOxdzd_h-k",
     "em": "2026-07-20T22:47:59+00:00",
-    "idade_d": 7.06,
+    "idade_d": 9.58,
     "formato": "antigo"
   },
   {
@@ -584,7 +794,7 @@
     "engajamento": 5.76,
     "video_id": "VQGliac_Gic",
     "em": "2026-07-20T06:01:36+00:00",
-    "idade_d": 7.76,
+    "idade_d": 10.28,
     "formato": "antigo"
   },
   {
@@ -598,7 +808,7 @@
     "engajamento": 5.35,
     "video_id": "6yGAjFF6dQM",
     "em": "2026-07-23T22:53:26+00:00",
-    "idade_d": 4.06,
+    "idade_d": 6.57,
     "formato": "antigo"
   },
   {
@@ -612,8 +822,22 @@
     "engajamento": 5.17,
     "video_id": "jw1kV2HL-0E",
     "em": "2026-07-19T12:56:26+00:00",
-    "idade_d": 8.47,
+    "idade_d": 10.99,
     "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "O Perdão de Deus — Salmo 51, 32 e o Filho Pródigo | Bíblia Narrada",
+    "views": 60,
+    "likes": 3,
+    "comentarios": 0,
+    "engajamento": 5.0,
+    "video_id": "nYynmLfORZg",
+    "em": "2026-07-28T05:23:05+00:00",
+    "idade_d": 2.3,
+    "formato": "novo"
   },
   {
     "canal": "es",
@@ -626,7 +850,7 @@
     "engajamento": 4.88,
     "video_id": "TtQ4qMSjje0",
     "em": "2026-07-22T01:57:56+00:00",
-    "idade_d": 5.93,
+    "idade_d": 8.45,
     "formato": "antigo"
   },
   {
@@ -634,13 +858,13 @@
     "item": "short-2",
     "tipo": "promesa",
     "titulo": "Salmo 4:8 — En paz me acostaré y dormiré | Biblia",
-    "views": 946,
+    "views": 947,
     "likes": 46,
     "comentarios": 0,
     "engajamento": 4.86,
     "video_id": "BiQfybuuqDk",
     "em": "2026-07-19T08:00:33+00:00",
-    "idade_d": 8.68,
+    "idade_d": 11.19,
     "formato": "antigo"
   },
   {
@@ -648,13 +872,13 @@
     "item": "short-1",
     "tipo": "conflicto",
     "titulo": "David a Goliat — Yo vengo a ti en el nombre de Jehová",
-    "views": 1496,
+    "views": 1498,
     "likes": 62,
     "comentarios": 4,
     "engajamento": 4.41,
     "video_id": "fl1KsdStPIo",
     "em": "2026-07-22T07:37:41+00:00",
-    "idade_d": 5.69,
+    "idade_d": 8.21,
     "formato": "antigo"
   },
   {
@@ -662,14 +886,42 @@
     "item": "short-1",
     "tipo": "descriptivo",
     "titulo": "Mateo 6 — Mirad las aves del cielo | Biblia",
-    "views": 1050,
+    "views": 1060,
     "likes": 43,
     "comentarios": 0,
-    "engajamento": 4.1,
+    "engajamento": 4.06,
     "video_id": "nYYTOz-7gcA",
     "em": "2026-07-24T08:09:36+00:00",
-    "idade_d": 3.67,
+    "idade_d": 6.19,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Salmos de Paz para la Noche — Salmo 139, 84 y 61 | Biblia para Dormir",
+    "views": 55,
+    "likes": 2,
+    "comentarios": 0,
+    "engajamento": 3.64,
+    "video_id": "DKV7TTgQ4AQ",
+    "em": "2026-07-29T02:31:26+00:00",
+    "idade_d": 1.42,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-1",
+    "tipo": "?",
+    "titulo": "The One Thought That Ends Anxiety Instantly",
+    "views": 425,
+    "likes": 3,
+    "comentarios": 0,
+    "engajamento": 0.71,
+    "video_id": "-gAGZUMmb_4",
+    "em": "2026-07-28T13:26:35+00:00",
+    "idade_d": 1.97,
+    "formato": "novo"
   },
   {
     "canal": "es",
@@ -682,7 +934,7 @@
     "engajamento": 0.0,
     "video_id": "rUHem5ZYpIM",
     "em": "2026-07-19T08:41:38+00:00",
-    "idade_d": 8.65,
+    "idade_d": 11.16,
     "formato": "antigo"
   },
   {
@@ -696,7 +948,7 @@
     "engajamento": 0.0,
     "video_id": "Xjd-R1LjdnU",
     "em": "2026-07-20T03:21:54+00:00",
-    "idade_d": 7.87,
+    "idade_d": 10.39,
     "formato": "antigo"
   },
   {
@@ -710,7 +962,7 @@
     "engajamento": 0.0,
     "video_id": "gKkiP7IXqDc",
     "em": "2026-07-21T01:57:23+00:00",
-    "idade_d": 6.93,
+    "idade_d": 9.45,
     "formato": "antigo"
   },
   {
@@ -718,13 +970,13 @@
     "item": "short-1",
     "tipo": "conflicto",
     "titulo": "Josué 1:9 — Esfuérzate y sé valiente | Biblia en español",
-    "views": 32,
+    "views": 35,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "naFBDYBzLeE",
     "em": "2026-07-21T07:36:06+00:00",
-    "idade_d": 6.69,
+    "idade_d": 9.21,
     "formato": "antigo"
   },
   {
@@ -732,13 +984,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "El Amor de Dios — Juan 3, Romanos 8 y 1 Corintios 13 | Biblia Hablada",
-    "views": 19,
+    "views": 20,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "87OyHXzfN20",
     "em": "2026-07-23T00:13:33+00:00",
-    "idade_d": 5.0,
+    "idade_d": 7.52,
     "formato": "antigo"
   },
   {
@@ -752,7 +1004,7 @@
     "engajamento": 0.0,
     "video_id": "0-zLBmDVsA4",
     "em": "2026-07-24T01:59:09+00:00",
-    "idade_d": 3.93,
+    "idade_d": 6.44,
     "formato": "antigo"
   },
   {
@@ -760,13 +1012,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "La Creación del Mundo — Génesis 1 Completo | Biblia Narrada",
-    "views": 21,
+    "views": 24,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "CdgPpPwHijc",
     "em": "2026-07-25T02:28:58+00:00",
-    "idade_d": 2.91,
+    "idade_d": 5.42,
     "formato": "antigo"
   },
   {
@@ -780,8 +1032,36 @@
     "engajamento": 0.0,
     "video_id": "_qADSFs9yQw",
     "em": "2026-07-26T02:31:59+00:00",
-    "idade_d": 1.91,
+    "idade_d": 4.42,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "El Perdón de Dios — Salmo 51, 32 y el Hijo Pródigo | Biblia Hablada",
+    "views": 29,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "Fin19GmSzAE",
+    "em": "2026-07-28T02:20:34+00:00",
+    "idade_d": 2.43,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Noé y el Arca — La Historia Completa | Génesis 6 al 9 Narrado",
+    "views": 10,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "rTmXqeE4awg",
+    "em": "2026-07-30T01:37:06+00:00",
+    "idade_d": 0.46,
+    "formato": "novo"
   },
   {
     "canal": "en",
@@ -794,7 +1074,7 @@
     "engajamento": 0.0,
     "video_id": "O-KJQt5ra4s",
     "em": "2026-07-19T16:00:44+00:00",
-    "idade_d": 8.34,
+    "idade_d": 10.86,
     "formato": "antigo"
   },
   {
@@ -808,7 +1088,7 @@
     "engajamento": 0.0,
     "video_id": "37ED_IKxyIw",
     "em": "2026-07-20T03:32:28+00:00",
-    "idade_d": 7.86,
+    "idade_d": 10.38,
     "formato": "antigo"
   },
   {
@@ -822,7 +1102,7 @@
     "engajamento": 0.0,
     "video_id": "ZEYg5_18twI",
     "em": "2026-07-20T09:22:44+00:00",
-    "idade_d": 7.62,
+    "idade_d": 10.14,
     "formato": "antigo"
   },
   {
@@ -836,7 +1116,7 @@
     "engajamento": 0.0,
     "video_id": "gzBhros1Si4",
     "em": "2026-07-20T17:26:54+00:00",
-    "idade_d": 7.28,
+    "idade_d": 9.8,
     "formato": "antigo"
   },
   {
@@ -850,7 +1130,7 @@
     "engajamento": 0.0,
     "video_id": "cnDrL6Bl92k",
     "em": "2026-07-21T02:08:19+00:00",
-    "idade_d": 6.92,
+    "idade_d": 9.44,
     "formato": "antigo"
   },
   {
@@ -864,7 +1144,7 @@
     "engajamento": 0.0,
     "video_id": "duDFzfpuvs8",
     "em": "2026-07-21T05:01:49+00:00",
-    "idade_d": 6.8,
+    "idade_d": 9.32,
     "formato": "antigo"
   },
   {
@@ -878,7 +1158,7 @@
     "engajamento": 0.0,
     "video_id": "RXwInF4snFY",
     "em": "2026-07-21T12:21:31+00:00",
-    "idade_d": 6.5,
+    "idade_d": 9.01,
     "formato": "antigo"
   },
   {
@@ -892,7 +1172,7 @@
     "engajamento": 0.0,
     "video_id": "wMP09-SR2L8",
     "em": "2026-07-21T20:15:52+00:00",
-    "idade_d": 6.17,
+    "idade_d": 8.68,
     "formato": "antigo"
   },
   {
@@ -906,7 +1186,7 @@
     "engajamento": 0.0,
     "video_id": "XNw0Glha7Y8",
     "em": "2026-07-22T02:10:09+00:00",
-    "idade_d": 5.92,
+    "idade_d": 8.44,
     "formato": "antigo"
   },
   {
@@ -920,7 +1200,7 @@
     "engajamento": 0.0,
     "video_id": "CoWjQx_Wpto",
     "em": "2026-07-22T05:01:22+00:00",
-    "idade_d": 5.8,
+    "idade_d": 8.32,
     "formato": "antigo"
   },
   {
@@ -934,7 +1214,7 @@
     "engajamento": 0.0,
     "video_id": "diBVT3NuvWQ",
     "em": "2026-07-22T12:24:23+00:00",
-    "idade_d": 5.49,
+    "idade_d": 8.01,
     "formato": "antigo"
   },
   {
@@ -948,7 +1228,7 @@
     "engajamento": 0.0,
     "video_id": "nTqbi-Bsv9M",
     "em": "2026-07-22T20:13:22+00:00",
-    "idade_d": 5.17,
+    "idade_d": 7.68,
     "formato": "antigo"
   },
   {
@@ -962,7 +1242,7 @@
     "engajamento": 0.0,
     "video_id": "UbSSV2eoE6c",
     "em": "2026-07-23T04:21:44+00:00",
-    "idade_d": 4.83,
+    "idade_d": 7.35,
     "formato": "antigo"
   },
   {
@@ -976,7 +1256,7 @@
     "engajamento": 0.0,
     "video_id": "m6CDy4OGz-I",
     "em": "2026-07-23T07:30:17+00:00",
-    "idade_d": 4.7,
+    "idade_d": 7.21,
     "formato": "antigo"
   },
   {
@@ -990,7 +1270,7 @@
     "engajamento": 0.0,
     "video_id": "wRT9N3b9u1o",
     "em": "2026-07-23T15:06:02+00:00",
-    "idade_d": 4.38,
+    "idade_d": 6.9,
     "formato": "antigo"
   },
   {
@@ -1004,7 +1284,7 @@
     "engajamento": 0.0,
     "video_id": "k_k2oPqdNps",
     "em": "2026-07-23T22:54:43+00:00",
-    "idade_d": 4.06,
+    "idade_d": 6.57,
     "formato": "antigo"
   },
   {
@@ -1018,7 +1298,7 @@
     "engajamento": 0.0,
     "video_id": "AbEZwX4CzQ4",
     "em": "2026-07-24T02:09:17+00:00",
-    "idade_d": 3.92,
+    "idade_d": 6.44,
     "formato": "antigo"
   },
   {
@@ -1032,7 +1312,7 @@
     "engajamento": 0.0,
     "video_id": "DA5Or9xVTyE",
     "em": "2026-07-24T15:26:47+00:00",
-    "idade_d": 3.37,
+    "idade_d": 5.88,
     "formato": "antigo"
   },
   {
@@ -1046,7 +1326,7 @@
     "engajamento": 0.0,
     "video_id": "yYJmMfkRvmA",
     "em": "2026-07-24T22:58:30+00:00",
-    "idade_d": 3.05,
+    "idade_d": 5.57,
     "formato": "antigo"
   },
   {
@@ -1060,7 +1340,7 @@
     "engajamento": 0.0,
     "video_id": "TOK-vygMoEc",
     "em": "2026-07-25T02:33:04+00:00",
-    "idade_d": 2.9,
+    "idade_d": 5.42,
     "formato": "antigo"
   },
   {
@@ -1074,7 +1354,7 @@
     "engajamento": 0.0,
     "video_id": "og3LcDCJwkA",
     "em": "2026-07-25T07:53:26+00:00",
-    "idade_d": 2.68,
+    "idade_d": 5.2,
     "formato": "antigo"
   },
   {
@@ -1088,7 +1368,7 @@
     "engajamento": 0.0,
     "video_id": "EWF05tBSk_g",
     "em": "2026-07-25T22:45:49+00:00",
-    "idade_d": 2.06,
+    "idade_d": 4.58,
     "formato": "antigo"
   },
   {
@@ -1102,7 +1382,7 @@
     "engajamento": 0.0,
     "video_id": "B5P9pEjfAJw",
     "em": "2026-07-26T03:09:33+00:00",
-    "idade_d": 1.88,
+    "idade_d": 4.4,
     "formato": "antigo"
   },
   {
@@ -1116,7 +1396,7 @@
     "engajamento": 0.0,
     "video_id": "kHqjbKTvewg",
     "em": "2026-07-26T08:11:09+00:00",
-    "idade_d": 1.67,
+    "idade_d": 4.19,
     "formato": "antigo"
   },
   {
@@ -1130,7 +1410,7 @@
     "engajamento": 0.0,
     "video_id": "3oP1CVWh6w8",
     "em": "2026-07-26T15:58:26+00:00",
-    "idade_d": 1.35,
+    "idade_d": 3.86,
     "formato": "antigo"
   },
   {
@@ -1144,7 +1424,7 @@
     "engajamento": 0.0,
     "video_id": "-U9MoeiMijk",
     "em": "2026-07-26T23:54:50+00:00",
-    "idade_d": 1.01,
+    "idade_d": 3.53,
     "formato": "antigo"
   },
   {
@@ -1158,7 +1438,7 @@
     "engajamento": 0.0,
     "video_id": "YaBoc-eSvjU",
     "em": "2026-07-27T02:41:47+00:00",
-    "idade_d": 0.9,
+    "idade_d": 3.41,
     "formato": "antigo"
   },
   {
@@ -1172,7 +1452,7 @@
     "engajamento": 0.0,
     "video_id": "co4ah09kULM",
     "em": "2026-07-27T09:35:17+00:00",
-    "idade_d": 0.61,
+    "idade_d": 3.13,
     "formato": "antigo"
   },
   {
@@ -1180,13 +1460,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "Esforça-te e Tem Bom Ânimo — Josué 1 e Isaías 41 | Palavra Poderosa",
-    "views": 15,
+    "views": 16,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "DjPNVP89TWc",
     "em": "2026-07-21T05:13:03+00:00",
-    "idade_d": 6.79,
+    "idade_d": 9.31,
     "formato": "antigo"
   },
   {
@@ -1200,7 +1480,7 @@
     "engajamento": 0.0,
     "video_id": "UPtWyywV4OQ",
     "em": "2026-07-22T05:13:21+00:00",
-    "idade_d": 5.79,
+    "idade_d": 8.31,
     "formato": "antigo"
   },
   {
@@ -1214,7 +1494,7 @@
     "engajamento": 0.0,
     "video_id": "CsALDiICyTw",
     "em": "2026-07-22T18:03:55+00:00",
-    "idade_d": 5.26,
+    "idade_d": 7.77,
     "formato": "antigo"
   },
   {
@@ -1228,7 +1508,7 @@
     "engajamento": 0.0,
     "video_id": "NdUMX0MS5dY",
     "em": "2026-07-23T04:34:02+00:00",
-    "idade_d": 4.82,
+    "idade_d": 7.34,
     "formato": "antigo"
   },
   {
@@ -1242,7 +1522,7 @@
     "engajamento": 0.0,
     "video_id": "_UxJ3g4ocDE",
     "em": "2026-07-24T05:30:05+00:00",
-    "idade_d": 3.78,
+    "idade_d": 6.3,
     "formato": "antigo"
   },
   {
@@ -1256,7 +1536,7 @@
     "engajamento": 0.0,
     "video_id": "q0Ic3f6p31s",
     "em": "2026-07-25T02:36:57+00:00",
-    "idade_d": 2.9,
+    "idade_d": 5.42,
     "formato": "antigo"
   },
   {
@@ -1270,7 +1550,7 @@
     "engajamento": 0.0,
     "video_id": "Vw5nvTpg9BI",
     "em": "2026-07-25T05:36:38+00:00",
-    "idade_d": 2.78,
+    "idade_d": 5.29,
     "formato": "antigo"
   },
   {
@@ -1284,7 +1564,7 @@
     "engajamento": 0.0,
     "video_id": "chOevaKnC1o",
     "em": "2026-07-26T05:58:33+00:00",
-    "idade_d": 1.76,
+    "idade_d": 4.28,
     "formato": "antigo"
   },
   {
@@ -1292,13 +1572,97 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "Deus Provê — Salmo 34 e Filipenses 4 | Promessas de Provisão",
-    "views": 8,
+    "views": 14,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "5aT0o986DIs",
     "em": "2026-07-27T06:08:24+00:00",
-    "idade_d": 0.75,
+    "idade_d": 3.27,
     "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Salmos de Paz para a Noite — Salmo 139, 84 e 61 | Bíblia para Dormir",
+    "views": 8,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "KGW8XfQYN_4",
+    "em": "2026-07-29T05:42:32+00:00",
+    "idade_d": 1.29,
+    "formato": "novo"
+  },
+  {
+    "canal": "pt",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Noé e a Arca — A História Completa | Gênesis 6 a 9 Narrado",
+    "views": 2,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "SCzvCcuvH-k",
+    "em": "2026-07-30T05:01:00+00:00",
+    "idade_d": 0.32,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-2",
+    "tipo": "?",
+    "titulo": "Marcus Aurelius Escaped Every Trouble Like This",
+    "views": 8,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "Y0g-ooX_vgI",
+    "em": "2026-07-28T15:49:26+00:00",
+    "idade_d": 1.87,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-3",
+    "tipo": "?",
+    "titulo": "Can a Man Ruled by Worry Truly Live?",
+    "views": 479,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "sDzZXObiIZg",
+    "em": "2026-07-28T17:56:19+00:00",
+    "idade_d": 1.78,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-4",
+    "tipo": "?",
+    "titulo": "What Cannot Harm You Cannot Disturb You",
+    "views": 0,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "xfr_aCCqNb8",
+    "em": "2026-07-28T19:54:32+00:00",
+    "idade_d": 1.7,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-1",
+    "tipo": "?",
+    "titulo": "The Power No One Can Ever Take From You",
+    "views": 119,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "uTAHPU9Hf3s",
+    "em": "2026-07-29T23:55:00+00:00",
+    "idade_d": 0.53,
+    "formato": "novo"
   }
 ]
