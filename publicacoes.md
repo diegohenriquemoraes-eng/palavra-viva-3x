@@ -942,3 +942,11 @@
 - Item: short-2 — Génesis 6:13
 - Duração: 14.8s
 - Publicado em: 2026-07-30T12:24:51+00:00
+
+## [pt] fqrNAaij7HQ — Gênesis 6 — Faze para ti uma arca de madeira | Bíblia
+
+- URL: https://youtu.be/fqrNAaij7HQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Gênesis 6:13
+- Duração: 14.2s
+- Publicado em: 2026-07-30T15:04:18+00:00
