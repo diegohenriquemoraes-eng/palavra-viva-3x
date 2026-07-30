@@ -902,3 +902,11 @@
 - Item: short-1 — Meditations 6:65
 - Duração: 13.5s
 - Publicado em: 2026-07-29T23:55:00+00:00
+
+## [es] rTmXqeE4awg — Noé y el Arca — La Historia Completa | Génesis 6 al 9 Narrado
+
+- URL: https://youtu.be/rTmXqeE4awg
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Génesis 6:5-22, Génesis 7:1-24, Génesis 8:1-22, Génesis 9:1-17
+- Duração: 934.9s
+- Publicado em: 2026-07-30T01:37:06+00:00

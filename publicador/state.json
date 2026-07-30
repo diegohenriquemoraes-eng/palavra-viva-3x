@@ -302,6 +302,13 @@
           "video_id": "NEmmp3K1KYI",
           "titulo": "Salmo 61 — Llévame a la roca que es más alta que yo",
           "em": "2026-07-29T20:12:58+00:00"
+        },
+        {
+          "pacote": "2026-07-30-noe-arca",
+          "item": "longo",
+          "video_id": "rTmXqeE4awg",
+          "titulo": "Noé y el Arca — La Historia Completa | Génesis 6 al 9 Narrado",
+          "em": "2026-07-30T01:37:06+00:00"
         }
       ],
       "ultimo_short": "2026-07-29T20:12:58+00:00",
@@ -309,7 +316,7 @@
         "data": "2026-07-29",
         "n": 3
       },
-      "longo_data": "2026-07-29"
+      "longo_data": "2026-07-30"
     },
     "en": {
       "publicados": [
