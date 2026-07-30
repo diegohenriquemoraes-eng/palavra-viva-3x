@@ -62,17 +62,39 @@ CONSULTAS = [
     ("misty river", "agua"), ("vineyard hills", "campo"),
     ("cedar forest", "campo"), ("grass field wind", "campo"),
     ("rocky cliff sea", "montanha"), ("valley fog", "montanha"),
+    # Leva 3 (30/07/2026): 61 fundos com 4 itens/dia por canal repetiam a cada
+    # ~15 dias, e a partir de hoje cada canal sorteia por conta própria (o seed
+    # passou a incluir o idioma em fabrica.py), então a biblioteca atende 3
+    # canais em paralelo em vez de 1. Medida junto: das 31 capas regeradas hoje,
+    # só 24 fotos eram distintas — colisão dentro do mesmo canal. Mais fundo é
+    # o remédio direto. Consultas de 2 palavras de propósito: o filtro exige 2
+    # termos da consulta no título da foto, e frase comprida volta vazia.
+    ("moon lake", "noite"), ("twilight desert", "noite"),
+    ("dark forest", "noite"), ("night clouds", "noite"),
+    ("morning haze", "luz"), ("sunlight valley", "luz"),
+    ("dawn mountains", "luz"), ("sunset dunes", "luz"),
+    ("still lake", "agua"), ("sea rocks", "agua"),
+    ("river forest", "agua"), ("water reflection", "agua"),
+    ("pasture morning", "campo"), ("barley field", "campo"),
+    ("lavender field", "campo"), ("grass path", "campo"),
+    ("alpine ridge", "montanha"), ("distant peaks", "montanha"),
+    ("highland moor", "montanha"), ("cliff clouds", "montanha"),
+    ("desert dunes", "deserto"), ("desert valley", "deserto"),
+    ("olive grove", "deserto"), ("dry riverbed", "deserto"),
 ]
 POR_CONSULTA = 3
 COLS, LINHAS = 5, 4
 
 
-def baixar() -> None:
+def baixar(desde: int = 0) -> None:
+    """`desde` pula as N primeiras consultas: numa leva nova só as consultas
+    novas interessam — rebaixar as antigas gasta rede e enche a folha de contato
+    de fotos que já estão na biblioteca (aprovar já as ignora por URL)."""
     BRUTO.mkdir(parents=True, exist_ok=True)
     FOLHAS.mkdir(parents=True, exist_ok=True)
     catalogo = []
     idx = 0
-    for consulta, grupo in CONSULTAS:
+    for consulta, grupo in CONSULTAS[desde:]:
         achadas = imagens.resolver(consulta, POR_CONSULTA, 11, "wide")
         for info in achadas:
             destino = BRUTO / f"{idx:03d}.jpg"
@@ -158,13 +180,15 @@ def aprovar(indices: list[int]) -> None:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--baixar", action="store_true")
+    ap.add_argument("--desde", type=int, default=0,
+                    help="Pula as N primeiras consultas (leva nova)")
     ap.add_argument("--folhas", action="store_true")
     ap.add_argument("--aprovar", help="Índices separados por vírgula")
     ap.add_argument("--limpar", action="store_true",
                     help="Apaga os candidatos brutos depois de aprovar")
     args = ap.parse_args()
     if args.baixar:
-        baixar()
+        baixar(args.desde)
     elif args.folhas:
         montar_folhas(json.loads((BRUTO / "catalogo.json").read_text(encoding="utf-8")))
     elif args.aprovar:
