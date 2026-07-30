@@ -151,12 +151,14 @@ exatamente onde a retenção é decidida. Nunca tirar o `-framerate` da entrada.
 - edge-tts 7.x: `boundary="WordBoundary"` obrigatório no Communicate.
 - Fontes do render são as do repo (`marca/fontes` via fontsdir) — nunca
   depender de Arial do sistema (o runner não tem).
-- **Capa personalizada: LIBERADA em 30/07/2026.** A verificação de identidade da
-  conta saiu, `produzir/aplicar_capas.py` passou e as capas foram aplicadas nos
-  31 longos já publicados dos 3 canais. Antes disso a API devolvia 403 e todo
-  longo ficava com o frame automático do YouTube — que, num longo de fundo
-  escuro parado, é um retângulo preto. Se voltar a dar 403, é a conta, não o
-  código.
+- **Capa personalizada: LIBERADA desde 27/07/2026** (a verificação de identidade
+  da conta saiu; antes a API devolvia 403 e o longo ficava com o frame automático
+  do YouTube, que num fundo escuro parado é um retângulo preto). Se voltar a dar
+  403, é a conta, não o código. Em 30/07 a rodada foi REFEITA nos 31 longos, por
+  um defeito de arte e não de permissão: `aplicar_capas.py` passava
+  `imagem=None` + `seed=7`, então as capas aplicadas em 27/07 eram todas o MESMO
+  gradiente roxo, com só o texto mudando entre 25 vídeos e 3 canais. Agora usa a
+  foto da biblioteca, a mesma que o render do longo usaria.
 
 ## Poço seco
 
