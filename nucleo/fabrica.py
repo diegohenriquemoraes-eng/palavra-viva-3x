@@ -216,8 +216,17 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     # Canal de outra linha usa a imagem resolvida no próprio pacote, pelas
     # consultas do seu poço — senão o Stoic by Night narraria Marco Aurélio
     # sobre foto de deserto da Terra Santa.
-    da_casa = (imagens.escolher_da_biblioteca(1, _seed(pacote, f"fundo{idx}"))
-               if cfg.get("biblioteca_local", True) else [])
+    #
+    # O IDIOMA entra no seed (30/07/2026): até aqui o seed era só do pacote, e
+    # os 3 canais da MESMA conta publicavam no mesmo dia a mesma foto com áudio
+    # em idioma diferente — a impressão digital exata que a política de conteúdo
+    # em massa procura. Sortear da biblioteca local não custa rede nenhuma, logo
+    # variar por canal é de graça. Isto NÃO contradiz "os 3 idiomas usam as
+    # mesmas imagens" do pacote: aquilo vale para as URLs resolvidas no
+    # Openverse, que continuam resolvidas uma vez só.
+    da_casa = (imagens.escolher_da_biblioteca(
+        1, _seed(pacote, f"fundo{idx}-{idioma}"))
+        if cfg.get("biblioteca_local", True) else [])
     info_img = da_casa[0] if da_casa else short.get("imagem")
     img = _baixar_imagem(info_img, outdir / "fundo.jpg")
     seed = _seed(pacote, f"short{idx}")
@@ -366,9 +375,13 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     usadas_info: list[dict] = []
     # biblioteca curada primeiro; o que o pacote resolveu na busca é reserva.
     # Fora da linha bíblica a biblioteca não serve (ver montar_short).
-    fontes = ((imagens.escolher_da_biblioteca(n_alvo, _seed(pacote, "fundos"))
-               if cfg.get("biblioteca_local", True) else [])
-              or longo.get("imagens", []))
+    # Seed com o idioma pelo mesmo motivo do Short: um canal não usa a foto do
+    # outro no mesmo dia — e no longo o fundo É a capa (thumbnail.gerar recebe
+    # baixadas[0]), então é aqui que a diferença aparece na vitrine.
+    fontes = ((imagens.escolher_da_biblioteca(
+        n_alvo, _seed(pacote, f"fundos-{idioma}"))
+        if cfg.get("biblioteca_local", True) else [])
+        or longo.get("imagens", []))
     for j, info in enumerate(fontes):
         p = _baixar_imagem(info, outdir / f"img{j:02d}.jpg")
         if p:
@@ -407,7 +420,7 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     thumbnail.gerar(thumb, baixadas[0] if baixadas else None,
                     longo["thumb_titulo"][idioma],
                     longo["thumb_sub"][idioma], marca,
-                    _seed(pacote, "thumb"))
+                    _seed(pacote, f"thumb-{idioma}"))
 
     # 6) descrição com capítulos (SEO + navegação). Capítulo repetido no ciclo
     # 2 do formato "dormir" ganha marcação, senão a lista fica confusa.

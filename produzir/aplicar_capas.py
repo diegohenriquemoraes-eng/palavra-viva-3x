@@ -22,7 +22,9 @@ RAIZ = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(RAIZ))
 sys.stdout.reconfigure(encoding="utf-8")
 
-from nucleo import idiomas, thumbnail, youtube_api  # noqa: E402
+from nucleo import fabrica, idiomas, imagens, thumbnail, youtube_api  # noqa: E402
+
+FUNDOS = RAIZ / "marca" / "fundos"
 
 STATE = RAIZ / "publicador" / "state.json"
 TEMAS = RAIZ / "conteudo" / "temas.json"
@@ -44,6 +46,24 @@ CREDS = {
 
 def tema_do(slug: str, temas: list[dict]) -> dict | None:
     return next((t for t in temas if t["slug"] == slug), None)
+
+
+def fundo_do(slug: str, idioma: str) -> Path | None:
+    """A MESMA foto que o render do longo usaria — não o gradiente.
+
+    Corrigido em 30/07/2026: este script passava `imagem=None` e seed fixa 7,
+    então as 31 capas dos 3 canais saíam com o MESMO gradiente roxo e só o texto
+    mudando. Isso perde duas coisas de uma vez: a fotografia real (que é a
+    receita de CTR do nicho) e a variedade entre vídeos — capa idêntica em série
+    é justamente o sinal de conteúdo produzido em massa. A escolha aqui repete
+    a de fabrica.montar_longo, seed com idioma incluído.
+    """
+    escolha = imagens.escolher_da_biblioteca(
+        1, fabrica._seed({"slug": slug}, f"fundos-{idioma}"))
+    if not escolha:
+        return None
+    p = FUNDOS / escolha[0]["arquivo"]
+    return p if p.exists() else None
 
 
 def bloqueado(exc: Exception) -> bool:
@@ -81,12 +101,16 @@ def main() -> None:
         cfg = idiomas.CONFIG[idioma]
         for p in longos:
             total += 1
-            tema = tema_do(p["pacote"][11:], temas)
+            slug = p["pacote"][11:]
+            tema = tema_do(slug, temas)
             if not tema:
                 continue
-            thumbnail.gerar(tmp, None, tema["longo"]["thumb_titulo"][idioma],
+            thumbnail.gerar(tmp, fundo_do(slug, idioma),
+                            tema["longo"]["thumb_titulo"][idioma],
                             tema["longo"]["thumb_sub"][idioma],
-                            f"@{cfg['tags'][0]}", seed=7)
+                            f"@{cfg['tags'][0]}",
+                            seed=fabrica._seed({"slug": slug},
+                                               f"thumb-{idioma}"))
             try:
                 youtube_api.definir_thumbnail(yt, p["video_id"], tmp)
                 aplicadas += 1

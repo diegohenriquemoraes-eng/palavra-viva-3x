@@ -71,6 +71,13 @@ NUNCA subir para 6 uploads/dia sem aumento de cota aprovado pelo Google.
 3. Imagens só CC0/domínio público (Openverse), resolvidas no pacote; qualquer
    falha cai no gradiente da casa. Nunca imagem de banco pago/"grátis com
    atribuição obrigatória" sem gravar a atribuição.
+3b. **O fundo da biblioteca é sorteado POR CANAL** (o seed inclui o idioma —
+   `fabrica.py`, 30/07/2026). Até então os 3 canais da mesma conta publicavam
+   no mesmo dia a mesma foto com áudio em idioma diferente, e no longo essa foto
+   É a capa: a impressão digital exata de conteúdo produzido em massa. Não voltar
+   a compartilhar. Isto não contradiz a regra "os 3 idiomas usam as MESMAS
+   imagens" do reabastecedor: aquela vale para as URLs resolvidas no Openverse
+   (resolver 3x custaria 3x rede); sortear da biblioteca local não custa nada.
 4. Sem pregação/interpretação: só o texto bíblico e a referência.
 5. Nada de cortes/vídeos de terceiros (pesquisa de 17/07/2026: zero canais
    bíblicos autorizam cortes; strike derrubaria os 3 canais da mesma conta).
@@ -144,6 +151,12 @@ exatamente onde a retenção é decidida. Nunca tirar o `-framerate` da entrada.
 - edge-tts 7.x: `boundary="WordBoundary"` obrigatório no Communicate.
 - Fontes do render são as do repo (`marca/fontes` via fontsdir) — nunca
   depender de Arial do sistema (o runner não tem).
+- **Capa personalizada: LIBERADA em 30/07/2026.** A verificação de identidade da
+  conta saiu, `produzir/aplicar_capas.py` passou e as capas foram aplicadas nos
+  31 longos já publicados dos 3 canais. Antes disso a API devolvia 403 e todo
+  longo ficava com o frame automático do YouTube — que, num longo de fundo
+  escuro parado, é um retângulo preto. Se voltar a dar 403, é a conta, não o
+  código.
 
 ## Poço seco
 
