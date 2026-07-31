@@ -974,3 +974,11 @@
 - Item: short-1 — Discourses 12:50
 - Duração: 12.5s
 - Publicado em: 2026-07-30T23:56:05+00:00
+
+## [es] -n287acpKt8 — Mateo 5 — Bienaventurados los de limpio corazón | Biblia
+
+- URL: https://youtu.be/-n287acpKt8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Mateo 5:3-6
+- Duração: 26.6s
+- Publicado em: 2026-07-31T01:56:49+00:00

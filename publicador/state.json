@@ -330,12 +330,19 @@
           "video_id": "-hdlOjKr08o",
           "titulo": "Génesis 8 — La paloma volvió con una hoja de oliva",
           "em": "2026-07-30T20:57:50+00:00"
+        },
+        {
+          "pacote": "2026-07-31-sermao-montanha",
+          "item": "short-1",
+          "video_id": "-n287acpKt8",
+          "titulo": "Mateo 5 — Bienaventurados los de limpio corazón | Biblia",
+          "em": "2026-07-31T01:56:49+00:00"
         }
       ],
-      "ultimo_short": "2026-07-30T20:57:50+00:00",
+      "ultimo_short": "2026-07-31T01:56:49+00:00",
       "shorts_dia": {
-        "data": "2026-07-30",
-        "n": 3
+        "data": "2026-07-31",
+        "n": 1
       },
       "longo_data": "2026-07-30"
     },
