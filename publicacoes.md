@@ -1030,3 +1030,11 @@
 - Item: short-3 — Mateo 6:9-12
 - Duração: 27.3s
 - Publicado em: 2026-07-31T19:10:20+00:00
+
+## [pt] W2syt4yDs0o — O Pai Nosso — Mateus 6:9-13 | Bíblia narrada
+
+- URL: https://youtu.be/W2syt4yDs0o
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Mateus 6:9-11
+- Duração: 22.3s
+- Publicado em: 2026-07-31T23:56:42+00:00

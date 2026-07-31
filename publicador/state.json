@@ -889,12 +889,19 @@
           "video_id": "tNst-B7YBzQ",
           "titulo": "Mateus 5 — Vós sois a luz do mundo | Bíblia narrada",
           "em": "2026-07-31T15:56:43+00:00"
+        },
+        {
+          "pacote": "2026-07-31-sermao-montanha",
+          "item": "short-3",
+          "video_id": "W2syt4yDs0o",
+          "titulo": "O Pai Nosso — Mateus 6:9-13 | Bíblia narrada",
+          "em": "2026-07-31T23:56:42+00:00"
         }
       ],
-      "ultimo_short": "2026-07-31T15:56:43+00:00",
+      "ultimo_short": "2026-07-31T23:56:42+00:00",
       "shorts_dia": {
         "data": "2026-07-31",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-31"
     },
