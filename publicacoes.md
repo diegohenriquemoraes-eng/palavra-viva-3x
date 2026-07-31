@@ -982,3 +982,19 @@
 - Item: short-1 — Mateo 5:3-6
 - Duração: 26.6s
 - Publicado em: 2026-07-31T01:56:49+00:00
+
+## [es] aj29-FFALgY — El Sermón del Monte — Mateo 5, 6 y 7 | Las Palabras de Jesús
+
+- URL: https://youtu.be/aj29-FFALgY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Mateo 5:1-16, Mateo 5:38-48, Mateo 6:1-15, Mateo 7:1-14, Mateo 7:24-29
+- Duração: 1919.6s
+- Publicado em: 2026-07-31T05:42:40+00:00
+
+## [pt] ICt5RIaX8Sk — O Sermão da Montanha — Mateus 5, 6 e 7 | As Palavras de Jesus
+
+- URL: https://youtu.be/ICt5RIaX8Sk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Mateus 5:1-16, Mateus 5:38-48, Mateus 6:1-15, Mateus 7:1-14, Mateus 7:24-29
+- Duração: 1892.6s
+- Publicado em: 2026-07-31T05:57:38+00:00

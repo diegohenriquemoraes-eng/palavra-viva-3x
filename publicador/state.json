@@ -337,6 +337,13 @@
           "video_id": "-n287acpKt8",
           "titulo": "Mateo 5 — Bienaventurados los de limpio corazón | Biblia",
           "em": "2026-07-31T01:56:49+00:00"
+        },
+        {
+          "pacote": "2026-07-31-sermao-montanha",
+          "item": "longo",
+          "video_id": "aj29-FFALgY",
+          "titulo": "El Sermón del Monte — Mateo 5, 6 y 7 | Las Palabras de Jesús",
+          "em": "2026-07-31T05:42:40+00:00"
         }
       ],
       "ultimo_short": "2026-07-31T01:56:49+00:00",
@@ -344,7 +351,7 @@
         "data": "2026-07-31",
         "n": 1
       },
-      "longo_data": "2026-07-30"
+      "longo_data": "2026-07-31"
     },
     "en": {
       "publicados": [
@@ -847,6 +854,13 @@
           "video_id": "-1_frwjzvdA",
           "titulo": "Gênesis 8 — A pomba voltou com uma folha de oliveira",
           "em": "2026-07-30T23:55:08+00:00"
+        },
+        {
+          "pacote": "2026-07-31-sermao-montanha",
+          "item": "longo",
+          "video_id": "ICt5RIaX8Sk",
+          "titulo": "O Sermão da Montanha — Mateus 5, 6 e 7 | As Palavras de Jesus",
+          "em": "2026-07-31T05:57:38+00:00"
         }
       ],
       "ultimo_short": "2026-07-30T23:55:08+00:00",
@@ -854,7 +868,7 @@
         "data": "2026-07-30",
         "n": 3
       },
-      "longo_data": "2026-07-30"
+      "longo_data": "2026-07-31"
     },
     "stoic": {
       "publicados": [
