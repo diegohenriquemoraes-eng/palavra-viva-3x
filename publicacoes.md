@@ -998,3 +998,11 @@
 - Item: longo — Mateus 5:1-16, Mateus 5:38-48, Mateus 6:1-15, Mateus 7:1-14, Mateus 7:24-29
 - Duração: 1892.6s
 - Publicado em: 2026-07-31T05:57:38+00:00
+
+## [pt] 7ZOj4py_0Ss — Mateus 5 — Bem-aventurados os limpos de coração
+
+- URL: https://youtu.be/7ZOj4py_0Ss
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Mateus 5:3-6
+- Duração: 24.9s
+- Publicado em: 2026-07-31T08:36:17+00:00
