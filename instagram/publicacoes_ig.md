@@ -94,3 +94,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/17859527052675450/
 - Publicado em: 2026-07-31T20:38:53+00:00
+
+## 18324943000273291 — Salmo 55:22
+
+- Conta: @palavravivadiaria.biblia
+- Link: https://www.instagram.com/reel/18324943000273291/
+- Publicado em: 2026-07-31T23:18:36+00:00
