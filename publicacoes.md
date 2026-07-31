@@ -1014,3 +1014,11 @@
 - Item: short-2 — Mateo 5:14-15
 - Duração: 19.0s
 - Publicado em: 2026-07-31T11:22:03+00:00
+
+## [pt] tNst-B7YBzQ — Mateus 5 — Vós sois a luz do mundo | Bíblia narrada
+
+- URL: https://youtu.be/tNst-B7YBzQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Mateus 5:14-15
+- Duração: 17.8s
+- Publicado em: 2026-07-31T15:56:43+00:00
