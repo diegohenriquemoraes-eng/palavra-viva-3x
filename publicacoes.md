@@ -1006,3 +1006,11 @@
 - Item: short-1 — Mateus 5:3-6
 - Duração: 24.9s
 - Publicado em: 2026-07-31T08:36:17+00:00
+
+## [es] 4msE3hcZue4 — Mateo 5 — Vosotros sois la luz del mundo | Biblia
+
+- URL: https://youtu.be/4msE3hcZue4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Mateo 5:14-15
+- Duração: 19.0s
+- Publicado em: 2026-07-31T11:22:03+00:00

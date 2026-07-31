@@ -344,12 +344,19 @@
           "video_id": "aj29-FFALgY",
           "titulo": "El Sermón del Monte — Mateo 5, 6 y 7 | Las Palabras de Jesús",
           "em": "2026-07-31T05:42:40+00:00"
+        },
+        {
+          "pacote": "2026-07-31-sermao-montanha",
+          "item": "short-2",
+          "video_id": "4msE3hcZue4",
+          "titulo": "Mateo 5 — Vosotros sois la luz del mundo | Biblia",
+          "em": "2026-07-31T11:22:03+00:00"
         }
       ],
-      "ultimo_short": "2026-07-31T01:56:49+00:00",
+      "ultimo_short": "2026-07-31T11:22:03+00:00",
       "shorts_dia": {
         "data": "2026-07-31",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-07-31"
     },
