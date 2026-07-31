@@ -1,0 +1,171 @@
+{
+  "slug": "daniel-leoes",
+  "formato": "historia",
+  "data": "2026-08-02",
+  "criado_em": "2026-07-31T03:52:24+00:00",
+  "aprovado_em": "2026-07-31T03:52:24+00:00",
+  "longo": {
+    "refs": [
+      "Daniel 6:1-28",
+      "Daniel 3:8-30",
+      "Psalms 91:9-16"
+    ],
+    "titulo": {
+      "es": "Daniel en el Foso de los Leones — Daniel 6 y el Horno de Fuego",
+      "en": "Daniel in the Lions' Den — Daniel 6 & the Fiery Furnace | Bible Story",
+      "pt": "Daniel na Cova dos Leões — Daniel 6 e a Fornalha de Fogo"
+    },
+    "thumb_titulo": {
+      "es": "DANIEL Y LOS LEONES",
+      "en": "DANIEL & THE LIONS",
+      "pt": "DANIEL E OS LEÕES"
+    },
+    "thumb_sub": {
+      "es": "Daniel 6 y 3 — narrado",
+      "en": "Daniel 6 & 3 — narrated",
+      "pt": "Daniel 6 e 3 — narrado"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+        "autor": "Kevin Pluck",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lion_waiting_in_Namibia.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Lion_in_masai_mara.jpg/1920px-Lion_in_masai_mara.jpg",
+        "autor": "Sumit.pamnani at English Wikipedia",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lion_in_masai_mara.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ma_Durga_Lion_%28Kiddish%29.jpg/1920px-Ma_Durga_Lion_%28Kiddish%29.jpg",
+        "autor": "HridoyKundu",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ma_Durga_Lion_(Kiddish).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cave_hermitage_with_bell_tower_and_stone_cross%2C_Butuceni_%281%29.jpg/1920px-Cave_hermitage_with_bell_tower_and_stone_cross%2C_Butuceni_%281%29.jpg",
+        "autor": "MOs810",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cave_hermitage_with_bell_tower_and_stone_cross,_Butuceni_(1).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stone_Vessels_cave.jpg/1920px-Stone_Vessels_cave.jpg",
+        "autor": "Owenglyndur",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stone_Vessels_cave.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Stone_Age_Animal_Carving%2C_Hayonim_Cave%2C_28000_BP_%28detail%29.jpg/1920px-Stone_Age_Animal_Carving%2C_Hayonim_Cave%2C_28000_BP_%28detail%29.jpg",
+        "autor": "Gary Todd",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stone_Age_Animal_Carving,_Hayonim_Cave,_28000_BP_(detail).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Inside_the_stone_Vessels_cave.jpg/1920px-Inside_the_stone_Vessels_cave.jpg",
+        "autor": "Owenglyndur",
+        "origem": "https://commons.wikimedia.org/wiki/File:Inside_the_stone_Vessels_cave.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cave_hermitage_with_bell_tower_and_stone_cross%2C_Butuceni.jpg/1920px-Cave_hermitage_with_bell_tower_and_stone_cross%2C_Butuceni.jpg",
+        "autor": "MOs810",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cave_hermitage_with_bell_tower_and_stone_cross,_Butuceni.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Burning_Man_2016_Fire_Nights_275_%2830308296136%29.jpg/1920px-Burning_Man_2016_Fire_Nights_275_%2830308296136%29.jpg",
+        "autor": "Carnaval.com Studios from The Inner Mission San Francisco, Earth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_Man_2016_Fire_Nights_275_(30308296136).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Burning_Man_2016_Fire_Nights_274_%2830257305881%29.jpg/1920px-Burning_Man_2016_Fire_Nights_274_%2830257305881%29.jpg",
+        "autor": "Carnaval.com Studios from The Inner Mission San Francisco, Earth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_Man_2016_Fire_Nights_274_(30257305881).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Burning_Man_2016_Fire_Nights_282_%2830308290546%29.jpg/1920px-Burning_Man_2016_Fire_Nights_282_%2830308290546%29.jpg",
+        "autor": "Carnaval.com Studios from The Inner Mission San Francisco, Earth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_Man_2016_Fire_Nights_282_(30308290546).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Burning_Man_2016_Fire_Nights_241_%2830227036042%29.jpg/1920px-Burning_Man_2016_Fire_Nights_241_%2830227036042%29.jpg",
+        "autor": "Carnaval.com Studios from The Inner Mission San Francisco, Earth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_Man_2016_Fire_Nights_241_(30227036042).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tulipa_Burning_Fire_pic3.jpg/1920px-Tulipa_Burning_Fire_pic3.jpg",
+        "autor": "Alfvanbeem",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tulipa_Burning_Fire_pic3.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Daniel 6:19-23",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Daniel 6 — Mi Dios envió su ángel y cerró la boca de los leones",
+        "en": "Daniel 6 — My God Hath Shut the Lions' Mouths | Bible",
+        "pt": "Daniel 6 — Meu Deus fechou a boca dos leões | Bíblia"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ma_Durga_Lion_%28Kiddish%29.jpg/1920px-Ma_Durga_Lion_%28Kiddish%29.jpg",
+        "autor": "HridoyKundu",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ma_Durga_Lion_(Kiddish).jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Daniel 3:16-18",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Daniel 3 — Y si no, sepas que no serviremos a tus dioses",
+        "en": "Daniel 3 — But If Not, We Will Not Serve Thy Gods | Bible",
+        "pt": "Daniel 3 — E, se não, não serviremos a teus deuses"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/DANCING_FLAMES%2C_OUR_SMALL_CAMPFIRE_IN_THE_DESERT_-_panoramio.jpg",
+        "autor": "BOB PERRY",
+        "origem": "https://commons.wikimedia.org/wiki/File:DANCING_FLAMES,_OUR_SMALL_CAMPFIRE_IN_THE_DESERT_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Daniel 3:24-27",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Daniel 3 — El cuarto es semejante a hijo de los dioses",
+        "en": "Daniel 3 — The Fourth Is Like the Son of God | Bible",
+        "pt": "Daniel 3 — O quarto é semelhante ao Filho de Deus"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A_young_girl_sits_by_the_dying_embers_of_a_fire_on_the_floor_Wellcome_V0040788.jpg/1920px-A_young_girl_sits_by_the_dying_embers_of_a_fire_on_the_floor_Wellcome_V0040788.jpg",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_young_girl_sits_by_the_dying_embers_of_a_fire_on_the_floor_Wellcome_V0040788.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Isaiah 43:1-3",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Isaías 43 — Cuando pases por el fuego, no te quemarás",
+        "en": "Isaiah 43 — When Thou Walkest Through the Fire | Bible",
+        "pt": "Isaías 43 — Quando passares pelo fogo, não te queimarás"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Light_River_Railway_Bridge%28GN12736%29.jpg/1920px-Light_River_Railway_Bridge%28GN12736%29.jpg",
+        "autor": "State Government Photographer",
+        "origem": "https://commons.wikimedia.org/wiki/File:Light_River_Railway_Bridge(GN12736).jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
