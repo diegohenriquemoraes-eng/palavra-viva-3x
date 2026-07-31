@@ -1022,3 +1022,11 @@
 - Item: short-2 — Mateus 5:14-15
 - Duração: 17.8s
 - Publicado em: 2026-07-31T15:56:43+00:00
+
+## [es] TyHxlO4tJ8A — El Padre Nuestro — Mateo 6:9-13 | Biblia en español
+
+- URL: https://youtu.be/TyHxlO4tJ8A
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Mateo 6:9-12
+- Duração: 27.3s
+- Publicado em: 2026-07-31T19:10:20+00:00

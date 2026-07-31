@@ -351,12 +351,19 @@
           "video_id": "4msE3hcZue4",
           "titulo": "Mateo 5 — Vosotros sois la luz del mundo | Biblia",
           "em": "2026-07-31T11:22:03+00:00"
+        },
+        {
+          "pacote": "2026-07-31-sermao-montanha",
+          "item": "short-3",
+          "video_id": "TyHxlO4tJ8A",
+          "titulo": "El Padre Nuestro — Mateo 6:9-13 | Biblia en español",
+          "em": "2026-07-31T19:10:20+00:00"
         }
       ],
-      "ultimo_short": "2026-07-31T11:22:03+00:00",
+      "ultimo_short": "2026-07-31T19:10:20+00:00",
       "shorts_dia": {
         "data": "2026-07-31",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-07-31"
     },
