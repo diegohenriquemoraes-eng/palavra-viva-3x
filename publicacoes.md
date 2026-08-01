@@ -1094,3 +1094,11 @@
 - Item: short-3 — Apocalipsis 21:3
 - Duração: 15.5s
 - Publicado em: 2026-08-01T20:06:43+00:00
+
+## [pt] KRna0PyzdtI — Apocalipse 21 — Deus enxugará toda lágrima | Bíblia
+
+- URL: https://youtu.be/KRna0PyzdtI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Apocalipse 21:3
+- Duração: 17.3s
+- Publicado em: 2026-08-01T23:49:41+00:00

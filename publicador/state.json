@@ -945,12 +945,19 @@
           "video_id": "rrzQ9ynH3VM",
           "titulo": "Lamentações 3 — Novas são a cada manhã | Bíblia",
           "em": "2026-08-01T15:54:24+00:00"
+        },
+        {
+          "pacote": "2026-08-01-esperanca-luto",
+          "item": "short-3",
+          "video_id": "KRna0PyzdtI",
+          "titulo": "Apocalipse 21 — Deus enxugará toda lágrima | Bíblia",
+          "em": "2026-08-01T23:49:41+00:00"
         }
       ],
-      "ultimo_short": "2026-08-01T15:54:24+00:00",
+      "ultimo_short": "2026-08-01T23:49:41+00:00",
       "shorts_dia": {
         "data": "2026-08-01",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-01"
     },
