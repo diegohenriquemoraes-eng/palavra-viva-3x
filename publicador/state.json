@@ -365,12 +365,19 @@
           "video_id": "JgrfdmS6xps",
           "titulo": "Consuelo en el Dolor — Salmo 42 y Lamentaciones 3 | Palabra de Paz",
           "em": "2026-08-01T02:13:11+00:00"
+        },
+        {
+          "pacote": "2026-08-01-esperanca-luto",
+          "item": "short-1",
+          "video_id": "1yERkKWlR88",
+          "titulo": "Salmo 34 — Cercano está Jehová a los quebrantados",
+          "em": "2026-08-01T05:20:17+00:00"
         }
       ],
-      "ultimo_short": "2026-07-31T19:10:20+00:00",
+      "ultimo_short": "2026-08-01T05:20:17+00:00",
       "shorts_dia": {
-        "data": "2026-07-31",
-        "n": 3
+        "data": "2026-08-01",
+        "n": 1
       },
       "longo_data": "2026-08-01"
     },
@@ -903,6 +910,13 @@
           "video_id": "W2syt4yDs0o",
           "titulo": "O Pai Nosso — Mateus 6:9-13 | Bíblia narrada",
           "em": "2026-07-31T23:56:42+00:00"
+        },
+        {
+          "pacote": "2026-08-01-esperanca-luto",
+          "item": "longo",
+          "video_id": "HBEGm2dDK30",
+          "titulo": "Consolo na Dor — Salmo 42 e Lamentações 3 | Palavra de Paz",
+          "em": "2026-08-01T05:35:26+00:00"
         }
       ],
       "ultimo_short": "2026-07-31T23:56:42+00:00",
@@ -910,7 +924,7 @@
         "data": "2026-07-31",
         "n": 3
       },
-      "longo_data": "2026-07-31"
+      "longo_data": "2026-08-01"
     },
     "stoic": {
       "publicados": [

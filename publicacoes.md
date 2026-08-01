@@ -1046,3 +1046,19 @@
 - Item: longo — Salmo 42, Salmo 43, Lamentaciones 3:19-33, 2 Corintios 4:7-18, Apocalipsis 21:1-7, Salmo 147:1-11
 - Duração: 1843.4s
 - Publicado em: 2026-08-01T02:13:11+00:00
+
+## [es] 1yERkKWlR88 — Salmo 34 — Cercano está Jehová a los quebrantados
+
+- URL: https://youtu.be/1yERkKWlR88
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 34:17-19
+- Duração: 21.1s
+- Publicado em: 2026-08-01T05:20:17+00:00
+
+## [pt] HBEGm2dDK30 — Consolo na Dor — Salmo 42 e Lamentações 3 | Palavra de Paz
+
+- URL: https://youtu.be/HBEGm2dDK30
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 42, Salmo 43, Lamentações 3:19-33, 2 Coríntios 4:7-18, Apocalipse 21:1-7, Salmo 147:1-11
+- Duração: 1859.1s
+- Publicado em: 2026-08-01T05:35:26+00:00
