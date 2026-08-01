@@ -1078,3 +1078,11 @@
 - Item: short-2 — Lamentaciones 3:22-25
 - Duração: 24.5s
 - Publicado em: 2026-08-01T13:03:21+00:00
+
+## [pt] rrzQ9ynH3VM — Lamentações 3 — Novas são a cada manhã | Bíblia
+
+- URL: https://youtu.be/rrzQ9ynH3VM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Lamentações 3:22-24
+- Duração: 20.4s
+- Publicado em: 2026-08-01T15:54:24+00:00
