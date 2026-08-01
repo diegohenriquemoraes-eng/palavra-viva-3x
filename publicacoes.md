@@ -1062,3 +1062,11 @@
 - Item: longo — Salmo 42, Salmo 43, Lamentações 3:19-33, 2 Coríntios 4:7-18, Apocalipse 21:1-7, Salmo 147:1-11
 - Duração: 1859.1s
 - Publicado em: 2026-08-01T05:35:26+00:00
+
+## [pt] 09axa24h2-g — Salmo 34 — Perto está o Senhor dos que têm o coração quebrantado
+
+- URL: https://youtu.be/09axa24h2-g
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 34:17-19
+- Duração: 22.8s
+- Publicado em: 2026-08-01T08:05:32+00:00

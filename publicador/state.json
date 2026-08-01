@@ -917,12 +917,19 @@
           "video_id": "HBEGm2dDK30",
           "titulo": "Consolo na Dor — Salmo 42 e Lamentações 3 | Palavra de Paz",
           "em": "2026-08-01T05:35:26+00:00"
+        },
+        {
+          "pacote": "2026-08-01-esperanca-luto",
+          "item": "short-1",
+          "video_id": "09axa24h2-g",
+          "titulo": "Salmo 34 — Perto está o Senhor dos que têm o coração quebrantado",
+          "em": "2026-08-01T08:05:32+00:00"
         }
       ],
-      "ultimo_short": "2026-07-31T23:56:42+00:00",
+      "ultimo_short": "2026-08-01T08:05:32+00:00",
       "shorts_dia": {
-        "data": "2026-07-31",
-        "n": 3
+        "data": "2026-08-01",
+        "n": 1
       },
       "longo_data": "2026-08-01"
     },
