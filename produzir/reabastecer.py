@@ -177,8 +177,13 @@ def main() -> None:
     nomes = [args.linha] if args.linha else sorted(LINHAS)
     # Poço seco de UMA linha não pode impedir as outras de abastecer — o
     # estoico secar não é motivo para os 3 canais bíblicos ficarem sem pacote.
+    cfg = json.loads((RAIZ / "publicador" / "config.json")
+                     .read_text(encoding="utf-8"))["canais"]
     codigo = 0
     for nome in nomes:
+        if not any(cfg.get(c, {}).get("ativo") for c in LINHAS[nome]["canais"]):
+            print(f"[{nome}] todos os canais da linha estão inativos — pulando.")
+            continue
         codigo = max(codigo, abastecer(nome, LINHAS[nome], args.dias,
                                        args.dry_run))
     if codigo:

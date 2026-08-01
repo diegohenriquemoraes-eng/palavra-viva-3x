@@ -44,7 +44,8 @@
     },
     "stoic": {
       "channel_id": "UCA7Jv8o9i9HB2OScOcxUCvg",
-      "ativo": true,
+      "ativo": false,
+      "_desligado_31_07": "Desligado pelo Diego em 31/07/2026: sem engajamento, poupar energia. Canal e vídeos ficam no ar; nada é excluído.",
       "titulo_canal": "Stoic by Night",
       "handle": "@StoicByNight",
       "afiliado": "",
