@@ -1038,3 +1038,11 @@
 - Item: short-3 — Mateus 6:9-11
 - Duração: 22.3s
 - Publicado em: 2026-07-31T23:56:42+00:00
+
+## [es] JgrfdmS6xps — Consuelo en el Dolor — Salmo 42 y Lamentaciones 3 | Palabra de Paz
+
+- URL: https://youtu.be/JgrfdmS6xps
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 42, Salmo 43, Lamentaciones 3:19-33, 2 Corintios 4:7-18, Apocalipsis 21:1-7, Salmo 147:1-11
+- Duração: 1843.4s
+- Publicado em: 2026-08-01T02:13:11+00:00
