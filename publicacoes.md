@@ -1158,3 +1158,11 @@
 - Item: short-3 — Daniel 3:24
 - Duração: 19.5s
 - Publicado em: 2026-08-02T20:07:48+00:00
+
+## [pt] wi_Ef_z_UoU — Daniel 3 — O quarto é semelhante ao Filho de Deus
+
+- URL: https://youtu.be/wi_Ef_z_UoU
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Daniel 3:24
+- Duração: 18.8s
+- Publicado em: 2026-08-02T23:52:14+00:00
