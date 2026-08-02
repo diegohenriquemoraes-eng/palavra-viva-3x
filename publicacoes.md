@@ -1102,3 +1102,11 @@
 - Item: short-3 — Apocalipse 21:3
 - Duração: 17.3s
 - Publicado em: 2026-08-01T23:49:41+00:00
+
+## [es] 1Ru2fOLPfs4 — Daniel en el Foso de los Leones — Daniel 6 y el Horno de Fuego
+
+- URL: https://youtu.be/1Ru2fOLPfs4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Daniel 6:1-28, Daniel 3:8-30, Salmo 91:9-16
+- Duração: 842.1s
+- Publicado em: 2026-08-02T01:56:41+00:00
