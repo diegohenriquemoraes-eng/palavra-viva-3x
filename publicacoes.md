@@ -1134,3 +1134,11 @@
 - Item: short-1 — Daniel 6:19
 - Duração: 17.1s
 - Publicado em: 2026-08-02T08:07:14+00:00
+
+## [es] zmgwB-UqGHQ — Daniel 3 — Y si no, sepas que no serviremos a tus dioses
+
+- URL: https://youtu.be/zmgwB-UqGHQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Daniel 3:16-17
+- Duração: 21.3s
+- Publicado em: 2026-08-02T13:00:49+00:00
