@@ -407,12 +407,19 @@
           "video_id": "zmgwB-UqGHQ",
           "titulo": "Daniel 3 — Y si no, sepas que no serviremos a tus dioses",
           "em": "2026-08-02T13:00:49+00:00"
+        },
+        {
+          "pacote": "2026-08-02-daniel-leoes",
+          "item": "short-3",
+          "video_id": "xPCvOcTDni0",
+          "titulo": "Daniel 3 — El cuarto es semejante a hijo de los dioses",
+          "em": "2026-08-02T20:07:48+00:00"
         }
       ],
-      "ultimo_short": "2026-08-02T13:00:49+00:00",
+      "ultimo_short": "2026-08-02T20:07:48+00:00",
       "shorts_dia": {
         "data": "2026-08-02",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-02"
     },

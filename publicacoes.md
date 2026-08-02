@@ -1150,3 +1150,11 @@
 - Item: short-2 — Daniel 3:16-17
 - Duração: 20.4s
 - Publicado em: 2026-08-02T15:55:13+00:00
+
+## [es] xPCvOcTDni0 — Daniel 3 — El cuarto es semejante a hijo de los dioses
+
+- URL: https://youtu.be/xPCvOcTDni0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Daniel 3:24
+- Duração: 19.5s
+- Publicado em: 2026-08-02T20:07:48+00:00
