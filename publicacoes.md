@@ -1126,3 +1126,11 @@
 - Item: longo — Daniel 6:1-28, Daniel 3:8-30, Salmo 91:9-16
 - Duração: 844.6s
 - Publicado em: 2026-08-02T05:27:05+00:00
+
+## [pt] 7g-moe376pA — Daniel 6 — Meu Deus fechou a boca dos leões | Bíblia
+
+- URL: https://youtu.be/7g-moe376pA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Daniel 6:19
+- Duração: 17.1s
+- Publicado em: 2026-08-02T08:07:14+00:00
