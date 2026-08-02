@@ -1110,3 +1110,19 @@
 - Item: longo — Daniel 6:1-28, Daniel 3:8-30, Salmo 91:9-16
 - Duração: 842.1s
 - Publicado em: 2026-08-02T01:56:41+00:00
+
+## [es] k1CbiR4wYkU — Daniel 6 — Mi Dios envió su ángel y cerró la boca de los leones
+
+- URL: https://youtu.be/k1CbiR4wYkU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Daniel 6:19
+- Duração: 18.9s
+- Publicado em: 2026-08-02T05:19:31+00:00
+
+## [pt] qx--V3FMrhI — Daniel na Cova dos Leões — Daniel 6 e a Fornalha de Fogo
+
+- URL: https://youtu.be/qx--V3FMrhI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Daniel 6:1-28, Daniel 3:8-30, Salmo 91:9-16
+- Duração: 844.6s
+- Publicado em: 2026-08-02T05:27:05+00:00

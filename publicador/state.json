@@ -393,12 +393,19 @@
           "video_id": "1Ru2fOLPfs4",
           "titulo": "Daniel en el Foso de los Leones — Daniel 6 y el Horno de Fuego",
           "em": "2026-08-02T01:56:41+00:00"
+        },
+        {
+          "pacote": "2026-08-02-daniel-leoes",
+          "item": "short-1",
+          "video_id": "k1CbiR4wYkU",
+          "titulo": "Daniel 6 — Mi Dios envió su ángel y cerró la boca de los leones",
+          "em": "2026-08-02T05:19:31+00:00"
         }
       ],
-      "ultimo_short": "2026-08-01T20:06:43+00:00",
+      "ultimo_short": "2026-08-02T05:19:31+00:00",
       "shorts_dia": {
-        "data": "2026-08-01",
-        "n": 3
+        "data": "2026-08-02",
+        "n": 1
       },
       "longo_data": "2026-08-02"
     },
@@ -959,6 +966,13 @@
           "video_id": "KRna0PyzdtI",
           "titulo": "Apocalipse 21 — Deus enxugará toda lágrima | Bíblia",
           "em": "2026-08-01T23:49:41+00:00"
+        },
+        {
+          "pacote": "2026-08-02-daniel-leoes",
+          "item": "longo",
+          "video_id": "qx--V3FMrhI",
+          "titulo": "Daniel na Cova dos Leões — Daniel 6 e a Fornalha de Fogo",
+          "em": "2026-08-02T05:27:05+00:00"
         }
       ],
       "ultimo_short": "2026-08-01T23:49:41+00:00",
@@ -966,7 +980,7 @@
         "data": "2026-08-01",
         "n": 3
       },
-      "longo_data": "2026-08-01"
+      "longo_data": "2026-08-02"
     },
     "stoic": {
       "publicados": [
