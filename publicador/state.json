@@ -987,12 +987,19 @@
           "video_id": "7g-moe376pA",
           "titulo": "Daniel 6 — Meu Deus fechou a boca dos leões | Bíblia",
           "em": "2026-08-02T08:07:14+00:00"
+        },
+        {
+          "pacote": "2026-08-02-daniel-leoes",
+          "item": "short-2",
+          "video_id": "TZ24zeLCGjA",
+          "titulo": "Daniel 3 — E, se não, não serviremos a teus deuses",
+          "em": "2026-08-02T15:55:13+00:00"
         }
       ],
-      "ultimo_short": "2026-08-02T08:07:14+00:00",
+      "ultimo_short": "2026-08-02T15:55:13+00:00",
       "shorts_dia": {
         "data": "2026-08-02",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-02"
     },

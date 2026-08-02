@@ -1142,3 +1142,11 @@
 - Item: short-2 — Daniel 3:16-17
 - Duração: 21.3s
 - Publicado em: 2026-08-02T13:00:49+00:00
+
+## [pt] TZ24zeLCGjA — Daniel 3 — E, se não, não serviremos a teus deuses
+
+- URL: https://youtu.be/TZ24zeLCGjA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Daniel 3:16-17
+- Duração: 20.4s
+- Publicado em: 2026-08-02T15:55:13+00:00
