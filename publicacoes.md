@@ -1206,3 +1206,19 @@
 - Item: longo — Salmo 5:1-12, Salmo 90:12-17, Salmo 118:14-29, Salmo 143:8-12, Salmo 100, Salmo 92:1-8
 - Duração: 1939.8s
 - Publicado em: 2026-08-03T09:40:29+00:00
+
+## [es] BmUNwl-MgRU — Salmo 5 — De mañana oirás mi voz | Biblia en español
+
+- URL: https://youtu.be/BmUNwl-MgRU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 5:1-3
+- Duração: 21.5s
+- Publicado em: 2026-08-03T12:51:24+00:00
+
+## [pt] 2FLJugBlUI0 — Salmo 5 — De manhã ouvirás a minha voz | Bíblia
+
+- URL: https://youtu.be/2FLJugBlUI0
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 5:1-3
+- Duração: 21.5s
+- Publicado em: 2026-08-03T12:52:36+00:00

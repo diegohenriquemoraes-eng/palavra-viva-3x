@@ -428,12 +428,19 @@
           "video_id": "FSiTIWToY3U",
           "titulo": "Salmo 118:24 — Este es el día que hizo Jehová | Biblia",
           "em": "2026-08-03T05:34:17+00:00"
+        },
+        {
+          "pacote": "2026-08-03-salmos-manha",
+          "item": "short-2",
+          "video_id": "BmUNwl-MgRU",
+          "titulo": "Salmo 5 — De mañana oirás mi voz | Biblia en español",
+          "em": "2026-08-03T12:51:24+00:00"
         }
       ],
-      "ultimo_short": "2026-08-03T05:34:17+00:00",
+      "ultimo_short": "2026-08-03T12:51:24+00:00",
       "shorts_dia": {
         "data": "2026-08-03",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-03"
     },
@@ -1036,12 +1043,19 @@
           "video_id": "0HHmCC42QWM",
           "titulo": "Salmos para Começar o Dia — Salmo 5, 100 e 118 | Oração da Manhã",
           "em": "2026-08-03T09:40:29+00:00"
+        },
+        {
+          "pacote": "2026-08-03-salmos-manha",
+          "item": "short-2",
+          "video_id": "2FLJugBlUI0",
+          "titulo": "Salmo 5 — De manhã ouvirás a minha voz | Bíblia",
+          "em": "2026-08-03T12:52:36+00:00"
         }
       ],
-      "ultimo_short": "2026-08-03T05:35:39+00:00",
+      "ultimo_short": "2026-08-03T12:52:36+00:00",
       "shorts_dia": {
         "data": "2026-08-03",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-03"
     },
