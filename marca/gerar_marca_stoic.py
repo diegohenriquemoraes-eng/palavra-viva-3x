@@ -1,4 +1,9 @@
-"""Identidade do canal Stoic by Night — coluna sob a lua.
+"""Identidade do canal La Noche Estoica (ex-Stoic by Night) — coluna sob a lua.
+
+02/08/2026: o canal virou espanhol; o símbolo e a paleta ficam, o wordmark
+muda para LA NOCHE ESTOICA e o subtítulo para espanhol. O artigo "LA" não é
+enfeite: o YouTube recusou o nome "Noche Estoica" e o handle @NocheEstoica
+já estava tomado.
 
 Deliberadamente LONGE do Palavra Viva (livro+chama, azul-marinho e dourado):
 outro público, outra prateleira. Se os dois parecerem a mesma fábrica com
@@ -148,8 +153,8 @@ def banner(caminho: Path, w: int = 2560, h: int = 1440) -> None:
 
     f_nome = fonte("BebasNeue-Regular.ttf", 190)
     f_sub = fonte("Montserrat-Bold.ttf", 50)
-    nome, esp = "STOIC BY NIGHT", 14
-    sub = "Marcus Aurelius · Seneca · Epictetus — read aloud for sleep"
+    nome, esp = "LA NOCHE ESTOICA", 14
+    sub = "Marco Aurelio y Epicteto — leídos en voz alta para dormir"
 
     # área segura central: 1546x423 é o que TODO dispositivo mostra
     cx, cy = w // 2, h // 2
@@ -157,10 +162,14 @@ def banner(caminho: Path, w: int = 2560, h: int = 1440) -> None:
     if ln > 1400:                      # nunca deixar o wordmark cortar
         f_nome = fonte("BebasNeue-Regular.ttf", int(190 * 1400 / ln))
         ln = largura(d, nome, f_nome, esp)
-    texto_espacado(d, (cx - ln // 2, cy - 150), nome, f_nome, MARMORE, esp)
+    # o fio fica ABAIXO da caixa real do wordmark (com "NOCHE ESTOICA", mais
+    # curto que o nome EN, a fonte não reduz e desce mais)
+    texto_espacado(d, (cx - ln // 2, cy - 165), nome, f_nome, MARMORE, esp)
+    alt_nome = d.textbbox((0, 0), nome, font=f_nome)[3]
+    linha_y = cy - 165 + alt_nome + 18
+    d.line((cx - 250, linha_y, cx + 250, linha_y), fill=BRONZE, width=3)
     ls = d.textbbox((0, 0), sub, font=f_sub)[2]
-    d.text((cx - ls // 2, cy + 76), sub, font=f_sub, fill=CINZA)
-    d.line((cx - 250, cy + 46, cx + 250, cy + 46), fill=BRONZE, width=3)
+    d.text((cx - ls // 2, linha_y + 26), sub, font=f_sub, fill=CINZA)
     img.save(caminho)
     print(f"banner: {caminho.name} ({w}x{h})")
 

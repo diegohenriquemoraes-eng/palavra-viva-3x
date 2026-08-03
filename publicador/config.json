@@ -44,18 +44,19 @@
     },
     "stoic": {
       "channel_id": "UCA7Jv8o9i9HB2OScOcxUCvg",
-      "ativo": false,
-      "_desligado_31_07": "Desligado pelo Diego em 31/07/2026: sem engajamento, poupar energia. Canal e vídeos ficam no ar; nada é excluído.",
-      "titulo_canal": "Stoic by Night",
-      "handle": "@StoicByNight",
+      "ativo": true,
+      "_transformado_02_08": "02/08/2026: Diego decidiu transformar o canal (pausado em 31/07) para o publico hispanohablante — Noche Estoica. Mesmo canal, token e projeto Cloud; corpus/config/poço viraram espanhol. Plano em ESTRATEGIA-STOIC-ES.md.",
+      "titulo_canal": "La Noche Estoica",
+      "handle": "@LaNocheEstoica",
+      "_nome_02_08": "O YouTube RECUSOU o nome exato 'Noche Estoica' ('Esse nome nao pode ser usado no seu canal') e o handle @NocheEstoica ja estava tomado. Ficou 'La Noche Estoica' / @LaNocheEstoica, que casa nome e handle.",
       "afiliado": "",
       "afiliado_short": "",
       "shorts_por_dia": 1,
       "gap_shorts_min": 420,
       "hora_longo_utc": null,
       "fila": "fila_stoic",
-      "hora_short_utc": 23,
-      "_metodo_canal_novo": "28/07-27/08: canal em regime do metodo de canal novo — 1 Short/dia, mesmo horario (23 UTC, ~1h antes do pico noturno nos EUA), sem video longo. A monetizacao mirada e a de Shorts (1.000 inscritos + 10 mi de views), nao as 4.000 horas — por isso abrir mao do longo e coerente, nao descuido. Revisar em 27/08: se pegou view, subir para 2/dia; se nao, segurar em 1."
+      "hora_short_utc": 1,
+      "_metodo_canal_novo": "A partir da reativacao: PROTOCOLO FANTASMA puro de novo — 1 Short/dia, mesmo horario (01 UTC = 19h CDMX / 20h Bogota / 22h Buenos Aires, horario nobre LATAM), sem video longo, teto 20s, 3 hashtags, descricao enxuta. 20-30 dias sem mexer. Regua: mediana >=300 views/Short em 30 dias mantem e escala (2/dia + longo de dormir); mediana ~1 view como o EN mata de vez."
     }
   }
 }

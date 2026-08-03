@@ -1,0 +1,168 @@
+{
+  "slug": "lo-que-controlas",
+  "formato": "dormir",
+  "data": "2026-08-04",
+  "criado_em": "2026-08-03T00:37:01+00:00",
+  "aprovado_em": "2026-08-03T00:37:01+00:00",
+  "longo": {
+    "refs": [
+      "Enquiridión 1:1",
+      "Enquiridión 2:1",
+      "Enquiridión 3:1-2",
+      "Enquiridión 4:1",
+      "Enquiridión 5:1",
+      "Enquiridión 6:1",
+      "Enquiridión 7:1",
+      "Enquiridión 8:1"
+    ],
+    "titulo": {
+      "stoic": "1 Hora de Epicteto: Lo Que Depende de Ti | Filosofía Estoica para Dormir"
+    },
+    "thumb_titulo": {
+      "stoic": "LO QUE DEPENDE DE TI"
+    },
+    "thumb_sub": {
+      "stoic": "Epicteto, Enquiridión"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Moon_and_clouds_over_Brofjorden_3.jpg/1920px-Moon_and_clouds_over_Brofjorden_3.jpg",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Moon_and_clouds%2C_2021-11-18%2C_02.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_02.jpg",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Full_moon_with_clouds_%2819791001528%29.jpg/1920px-Full_moon_with_clouds_%2819791001528%29.jpg",
+        "autor": "BLM Nevada",
+        "origem": "https://commons.wikimedia.org/wiki/File:Full_moon_with_clouds_(19791001528).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Moon_and_clouds_over_Brofjorden_2.jpg/1920px-Moon_and_clouds_over_Brofjorden_2.jpg",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg/1920px-5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "autor": "Brainandforce",
+        "origem": "https://commons.wikimedia.org/wiki/File:5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/1920px-Milky_Way_IR_Spitzer.jpg",
+        "autor": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Yeehaw_Junction_Florida_-_Desert_Inn_at_Night.jpg",
+        "autor": "Orthoboric",
+        "origem": "https://commons.wikimedia.org/wiki/File:Yeehaw_Junction_Florida_-_Desert_Inn_at_Night.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Starry_night_at_the_Atacama_Desert_coast_%28gerd_huedepohl_9%29.jpg/1920px-Starry_night_at_the_Atacama_Desert_coast_%28gerd_huedepohl_9%29.jpg",
+        "autor": "G. Hüdepohl ( atacamaphoto.com )/ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_night_at_the_Atacama_Desert_coast_(gerd_huedepohl_9).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Desert_Flag_Night_Flights_%288384156%29.jpg/1920px-Desert_Flag_Night_Flights_%288384156%29.jpg",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384156).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Desert_Flag_Night_Flights_%288384161%29.jpg/1920px-Desert_Flag_Night_Flights_%288384161%29.jpg",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384161).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 2:1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Esto es lo único que de verdad es libre"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Moon_and_clouds_over_Brofjorden_2.jpg/1920px-Moon_and_clouds_over_Brofjorden_2.jpg",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_2.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 14:1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La regla estoica que arregla casi todo"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Desert_uniform%2C_night%2C_3-4_front%2C_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_%2816_February_1978%29_004042a_image_primary.png/1920px-Desert_uniform%2C_night%2C_3-4_front%2C_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_%2816_February_1978%29_004042a_image_primary.png",
+        "autor": "A. J. M.",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_uniform,_night,_3-4_front,_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_(16_February_1978)_004042a_image_primary.png",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 11:65",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Lo único que ningún ladrón puede robarte"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p02.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p02.jpg",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2122_p02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 26:1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Cómo ser invencible, según Epicteto"
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ALMA_and_the_centre_of_the_Milky_Way.jpg/1920px-ALMA_and_the_centre_of_the_Milky_Way.jpg",
+        "autor": "ESO/B. Tafreshi (twanight.org)",
+        "origem": "https://commons.wikimedia.org/wiki/File:ALMA_and_the_centre_of_the_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}

@@ -250,6 +250,67 @@ próprio.
   própria edição Loeb (quebrada por sentença quando passa de 120 palavras).
 - **Saída**: `seneca_gummere.json` — 1 book, 124 chapters, 2.587 verses.
 
+## 6. Marco Aurélio — *Meditaciones* em ESPANHOL, trad. Díaz de Miranda
+
+Preparado em 02/08/2026 para o canal estoico em espanhol (ex-Stoic by Night).
+
+- **Tradutor**: Jacinto Díaz de Miranda, 1785 ("Los doce libros del emperador
+  Marco Aurelio"), revisão de 1888 na Biblioteca Clásica ("Obras de los
+  moralistas griegos: Marco Aurelio-Teofrasto-Epicteto-Cebes"). Tradução do
+  séc. XVIII, tradutor morto há mais de dois séculos — DOMÍNIO PÚBLICO.
+- **Fonte do texto**: `textos.info/marco-aurelio/meditaciones-2` (biblioteca
+  digital de obras livres), que credita explicitamente a tradução a Díaz de
+  Miranda e declara: "Actualmente esta edición se encuentra en dominio
+  público". A MESMA tradução existe no es.wikisource ("Soliloquios", da
+  edição de 1888, template PD 100 anos p.m.a.), o que confirma tradutor e
+  status — mas a transcrição do Wikisource é OCR não revisado (notas do
+  tradutor coladas no corpo, cabeçalhos de página "M. AURELIO.-SOLILOQUIOS"
+  no meio do texto, palavras partidas), imprestável para narração. O
+  incipit do Libro I é idêntico nas duas fontes ("Aprendí de mi abuelo Vero
+  el ser de honestas costumbres y no enojarme con facilidad."), provando que
+  é o mesmo texto; usei a cópia limpa do textos.info.
+- **Limpeza aplicada**: removido o rodapé editorial do site (parágrafo
+  "Traducción realizada por..."); grafia pré-reforma normalizada (mesma
+  política da RV1909 em `nucleo/biblia.py`: "á"→"a", "fué"→"fue" etc. —
+  GRAFIA, não tradução); parágrafos >120 palavras quebrados em ponto final
+  (fallback ";" e ","), como no seneca_gummere.
+- **Estrutura**: 1 book (`Meditaciones`) com 12 chapters (Libros I–XII) e
+  numeração sequencial de verse por livro.
+- **Saída**: `marco_aurelio_diaz.json` — 1 book, 12 chapters, 746 verses.
+
+## 7. Epicteto — *Enquiridión* em ESPANHOL, trad. Antonio Brum
+
+- **Tradutor**: Antonio Brum (tradução seiscentista, 1ª ed. Bruxelas 1669),
+  reimpressa no mesmo volume de 1888 da Biblioteca Clásica. DOMÍNIO PÚBLICO
+  (tradução com mais de 350 anos; a página do Wikisource carrega o template
+  de PD na Espanha).
+- **Fonte do texto**: `es.wikisource.org/wiki/Enquiridión/Máximas` (API
+  MediaWiki `action=parse`, HTML renderizado), com IPv4 forçado pelo
+  monkeypatch de `socket.getaddrinfo` (blackhole de IPv6 desta máquina).
+- **Limpeza aplicada** — a transcrição é OCR não revisado; foi lida NA
+  ÍNTEGRA (130 passagens) e cada defeito corrigido um a um
+  (`finalize_enquiridion.py`, no scratchpad da sessão de 02/08/2026):
+  - Cabeçalhos/nº de página vazados no corpo: "52 MORALISTAS GRIEGOS.",
+    "BPICTETO.-MÁXIMAS. 387", "23"/"24"/"25" soltos no meio da frase.
+  - **As "máximas perdidas"**: a transcrição traz 70 parágrafos numerados,
+    mas 8 numerais de máxima (VII, XI, XIII, XXVIII, XXXVII, LIV, LXIX,
+    LXXV) ficaram no MEIO do texto em vez de abrir parágrafo. As fronteiras
+    foram restauradas → **78 máximas**, batendo com o índice do Wikisource.
+  - ~35 erros de OCR corrigidos por lista explícita ("yoluntad"→"voluntad",
+    "comola"→"como la", "Eea"→"Sea", "fir.ne"→"firme", "euerpo"→"cuerpo",
+    "compañfa"→"compañía" etc.) e uma transposição de linhas na máxima do
+    banho (61 na numeração antiga) reordenada para o texto fazer sentido.
+    Política: restauração de erro de impressão/OCR, nunca reescrita.
+  - Grafia: "tí"→"ti", "asi"→"así", "espiritu"→"espíritu" + lista padrão.
+- **Estrutura**: 1 book (`Enquiridión`) com 78 chapters (uma máxima por
+  chapter) e verses = quebra de 120 palavras.
+- **Saída**: `epicteto_brum.json` — 1 book, 78 chapters, 115 verses.
+- **Nota**: as "Cartas a Lucilio" avulsas do es.wikisource NÃO podem ser
+  usadas — são tradução comunitária moderna (Antonius Djacnov, 2009), não
+  domínio público. A tradução PD de Navarro y Calvo (1884) existe só como
+  scan não transcrito; Sêneca em espanhol fica de fora até haver OCR próprio
+  verificado.
+
 ## Resumo dos arquivos gerados
 
 | Arquivo | Obra(s) | Tradutor | Fonte | Books | Chapters | Verses |
@@ -257,5 +318,7 @@ próprio.
 | `marco_aurelio_long.json` | Meditations | George Long | Project Gutenberg #15877 | 1 | 12 | 718 |
 | `epicteto_long.json` | Discourses (seleção) + Encheiridion | George Long | Project Gutenberg #10661 | 2 | 101 | 709 |
 | `seneca_gummere.json` | Moral Letters to Lucilius | Richard Mott Gummere | Wikisource (`en.wikisource.org`) | 1 | 124 | 2.587 |
+| `marco_aurelio_diaz.json` | Meditaciones (ES) | Jacinto Díaz de Miranda | textos.info (verif. es.wikisource) | 1 | 12 | 746 |
+| `epicteto_brum.json` | Enquiridión (ES) | Antonio Brum | Wikisource (`es.wikisource.org`) | 1 | 78 | 115 |
 
 Nenhum arquivo do repo fora de `fontes/` foi alterado.
