@@ -1029,6 +1029,13 @@
           "video_id": "z6dMWGRdDkc",
           "titulo": "Salmo 118:24 — Este é o dia que o Senhor fez | Bíblia",
           "em": "2026-08-03T05:35:39+00:00"
+        },
+        {
+          "pacote": "2026-08-03-salmos-manha",
+          "item": "longo",
+          "video_id": "0HHmCC42QWM",
+          "titulo": "Salmos para Começar o Dia — Salmo 5, 100 e 118 | Oração da Manhã",
+          "em": "2026-08-03T09:40:29+00:00"
         }
       ],
       "ultimo_short": "2026-08-03T05:35:39+00:00",
@@ -1036,7 +1043,7 @@
         "data": "2026-08-03",
         "n": 1
       },
-      "longo_data": "2026-08-02"
+      "longo_data": "2026-08-03"
     },
     "stoic": {
       "publicados": [

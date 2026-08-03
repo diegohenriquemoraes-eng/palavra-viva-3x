@@ -1198,3 +1198,11 @@
 - Item: short-1 — Salmo 118:24
 - Duração: 14.8s
 - Publicado em: 2026-08-03T05:35:39+00:00
+
+## [pt] 0HHmCC42QWM — Salmos para Começar o Dia — Salmo 5, 100 e 118 | Oração da Manhã
+
+- URL: https://youtu.be/0HHmCC42QWM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 5:1-12, Salmo 90:12-17, Salmo 118:14-29, Salmo 143:8-12, Salmo 100, Salmo 92:1-8
+- Duração: 1939.8s
+- Publicado em: 2026-08-03T09:40:29+00:00
