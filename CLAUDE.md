@@ -167,35 +167,61 @@ formato: refs canônicas em inglês scrollmapper, títulos ≤100 chars nos 3
 idiomas, consultas de imagem em inglês) e dar push. Validar com
 `python produzir\reabastecer.py --dry-run` antes.
 
-## Stoic by Night — canal em regime de "método de canal novo" (28/07 a 27/08)
+## La Noche Estoica (@LaNocheEstoica) — o canal estoico agora é ESPANHOL
 
-O 4º canal (`stoic`, @StoicByNight, inglês, Marco Aurélio/Sêneca/Epicteto em
-tradução de domínio público) roda **100% pelo método do PROTOCOLO FANTASMA**
-(PDF em `Desktop\Venda na Obra`), por decisão do Diego em 28/07. É um teste
+02/08/2026, decisão do Diego: o 4º canal (parado desde 31/07) foi
+transformado para o público hispanohablante. **Mesmo canal, mesmo token,
+mesmo projeto Cloud** — renomear não invalida o OAuth; a chave no código
+continua sendo `stoic`. Estudo do nicho e plano em `ESTRATEGIA-STOIC-ES.md`.
+
+- **Nome**: o YouTube RECUSOU "Noche Estoica" ("Esse nome não pode ser usado
+  no seu canal") e o handle @NocheEstoica já estava tomado. Ficou
+  **La Noche Estoica / @LaNocheEstoica**.
+- **Corpus** (`fontes/PROVENIENCIA.md` §6 e §7): Meditaciones na tradução
+  Díaz de Miranda (1785/1888) e Enquiridión na de Antonio Brum (1669/1888),
+  ambas em domínio público. **Sêneca ficou de fora**: a tradução PD
+  (Navarro y Calvo, 1884) não está transcrita e as Cartas do es.wikisource
+  são tradução comunitária moderna, protegida. Não usar.
+- **Voz** `es-US-AlonsoNeural` — diferente do es-MX-Jorge do Palabra Viva de
+  propósito: dois canais da mesma conta com a mesma voz é assinatura de
+  fábrica.
+- **CTA pede SAVE**, não inscrição ("Guárdalo para cuando lo necesites"):
+  em 2026 o "guardar" é o sinal nº 1 do algoritmo de Reels/Shorts.
+- **Imagens só NOTURNAS**. O filtro do Commons exige 2 termos da consulta no
+  título, então consulta de 3+ palavras ("candle night desk") reprova e cai
+  no gradiente — o poço inteiro foi reescrito com pares concretos validados
+  ("moon clouds", "milky way", "bonfire night", "clay lamp"...). E o canal se
+  chama "La Noche": foto diurna verde destoa da marca.
+
+## Regime do "método de canal novo" no canal estoico (retomado em 02/08)
+
+O canal `stoic` roda **100% pelo método do PROTOCOLO FANTASMA** (PDF em
+`Desktop\Venda na Obra`). Estreou assim em 28/07 (em inglês), foi abortado em
+31/07 e **retomado em 02/08 já em espanhol** — o Diego pediu explicitamente
+"seguir rigorosamente a estratégia do protocolo fantasma". É um teste
 deliberado: os canais bíblicos nasceram em 4 uploads/dia e o manual diz que
 canal novo tem de fazer 1/dia por 20-30 dias, senão o YouTube lê como spam e
-estrangula a entrega. Nenhum canal nosso testou isso — o ES já existia antes,
-e o EN (rebrand) morreu com mediana de 1 view.
+estrangula a entrega.
 
 O que muda SÓ neste canal (os bíblicos seguem como estavam):
 
 | Regra do método | Como está implementado |
 |---|---|
-| 1 vídeo/dia, mesmo horário | `shorts_por_dia: 1` + `hora_short_utc: 23` |
+| 1 vídeo/dia, mesmo horário | `shorts_por_dia: 1` + `hora_short_utc: 1` (01 UTC = 19h CDMX / 20h Bogotá / 22h Buenos Aires) |
 | Sem vídeo longo | `hora_longo_utc: null` (suportado em `decidir`) |
 | Short de 10-20s | `max_short_s: 20.0` no CONFIG do idioma |
 | 2-3 hashtags, não 5 | `hashtags` com 3 |
 | Descrição enxuta | `descricao_curta: True` (pula o texto citado e o CTA escrito) |
 
-**O teste é confundido de propósito** — o Stoic é de outro nicho e outro
-idioma que os bíblicos, então se ele crescer melhor não dá para saber se foi a
-cadência ou o mercado. O Diego aceitou isso explicitamente: quer o método puro.
-Não "consertar" essa limitação misturando as duas estratégias.
+O horário mira a LATAM, não a Espanha: México + Colômbia + Argentina somam
+umas 4x a população espanhola, e 01 UTC é noite lá e madrugada em Madri.
 
 Consequência aceita: abre mão das 4.000 horas de exibição neste canal durante
 o teste. O método monetiza pela via de Shorts (1.000 inscritos + 10 mi de
 views em 90 dias), que não depende de vídeo longo.
 
-**Revisar em 27/08/2026**: se pegou view, subir para 2/dia; se não, segurar em
-1. E comparar com o PT no mesmo tempo de vida — é a única comparação que
-temos entre nascer devagar e nascer em 4/dia.
+**Revisar 30 dias depois da retomada (≈01/09/2026)**: mediana ≥300 views por
+Short mantém e escala (2/dia + longo de dormir, que é o motor de horas);
+repetir a mediana de 1 view do EN mata de vez. Comparar sempre com o ES
+bíblico no MESMO tempo de vida. Não mexer em nada durante a janela — foi
+mudar duas variáveis ao mesmo tempo que derrubou o pipeline em 20/07.
