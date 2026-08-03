@@ -45,6 +45,18 @@ LINHAS = {
         "temas": RAIZ / "conteudo" / "temas_estoico.json",
         "canais": ("stoic",),
     },
+    # 03/08/2026 — os dois canais novos em espanhol. Poço e fila próprios pelo
+    # mesmo motivo dos outros: os corpora não se traduzem entre linhas.
+    "poder": {
+        "fila": RAIZ / "fila_poder",
+        "temas": RAIZ / "conteudo" / "temas_poder.json",
+        "canais": ("poder",),
+    },
+    "astucia": {
+        "fila": RAIZ / "fila_astucia",
+        "temas": RAIZ / "conteudo" / "temas_astucia.json",
+        "canais": ("astucia",),
+    },
 }
 
 
@@ -106,6 +118,14 @@ def criar_pacote(tema: dict, data: str, dry: bool, linha: dict) -> None:
             "ref": s["ref"],
             "tipo": s.get("tipo", ""),
             "titulo": s["titulo"],
+            # Camada AUTORAL (03/08/2026, só nos canais poder/astucia): uma
+            # frase nossa aplicando o trecho ao presente. Não é enfeite — a
+            # política oficial do YouTube lista "readings of other materials
+            # you did not originally create" como inelegível para monetização,
+            # e o critério de aprovação é haver "meaningful difference" entre
+            # a fonte e o vídeo. Domínio público resolve copyright, não
+            # monetização. Vazio nos canais bíblicos (diretriz editorial nº 4).
+            "aplicacao": s.get("aplicacao", ""),
             "imagem": achadas[0] if achadas else None,
         })
 

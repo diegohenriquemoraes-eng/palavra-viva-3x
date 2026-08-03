@@ -57,6 +57,38 @@
       "fila": "fila_stoic",
       "hora_short_utc": 1,
       "_metodo_canal_novo": "A partir da reativacao: PROTOCOLO FANTASMA puro de novo — 1 Short/dia, mesmo horario (01 UTC = 19h CDMX / 20h Bogota / 22h Buenos Aires, horario nobre LATAM), sem video longo, teto 20s, 3 hashtags, descricao enxuta. 20-30 dias sem mexer. Regua: mediana >=300 views/Short em 30 dias mantem e escala (2/dia + longo de dormir); mediana ~1 view como o EN mata de vez."
+    },
+    "poder": {
+      "channel_id": "UC9m5fvEqQZ_J34oQzczgFoQ",
+      "ativo": true,
+      "titulo_canal": "El Poder Crudo",
+      "handle": "@ElPoderCrudo",
+      "afiliado": "",
+      "afiliado_short": "",
+      "shorts_por_dia": 1,
+      "gap_shorts_min": 420,
+      "hora_longo_utc": null,
+      "hora_short_utc": 2,
+      "fila": "fila_poder",
+      "_criado_03_08": "Canal novo (03/08/2026), decisao do Diego apos o teste de mercado de 26 salas em espanhol. Nicho: poder/estrategia (9 furadores medidos). Corpus: El Principe trad. anonima 1854. Estudo em ESTRATEGIA-2-CANALES-ES.md.",
+      "_metodo_canal_novo": "PROTOCOLO FANTASMA puro: 1 Short/dia as 02 UTC (20h CDMX / 21h Bogota / 23h Buenos Aires), sem longo, teto 20s, 3 hashtags, descricao enxuta. 30 dias sem mexer. Regua ~03/09: mediana >=300 views/Short mantem e escala.",
+      "_camada_autoral": "DIFERENTE dos biblicos: o Short leva aplicacao propria depois do trecho citado. A politica oficial do YouTube lista 'readings of other materials you did not originally create' como INELEGIVEL para monetizacao — dominio publico resolve copyright, nao monetizacao."
+    },
+    "astucia": {
+      "channel_id": "UCNyr1A0MN3rQT1Oa5LBjLUA",
+      "ativo": true,
+      "titulo_canal": "Astucia Fría",
+      "handle": "@AstuciaFria",
+      "afiliado": "",
+      "afiliado_short": "",
+      "shorts_por_dia": 1,
+      "gap_shorts_min": 420,
+      "hora_longo_utc": null,
+      "hora_short_utc": 3,
+      "fila": "fila_astucia",
+      "_criado_03_08": "Canal novo (03/08/2026). Nicho: ler pessoas / nao ser manipulado (11 furadores medidos, e a UNICA sala em que canal pequeno fura em SHORT, que e o que o metodo publica nos 30 primeiros dias). Corpus: Oraculo manual de Gracian, 300 aforismos em espanhol ORIGINAL.",
+      "_metodo_canal_novo": "PROTOCOLO FANTASMA puro: 1 Short/dia as 03 UTC (21h CDMX / 22h Bogota / 00h Buenos Aires), sem longo, teto 20s, 3 hashtags, descricao enxuta. 30 dias sem mexer.",
+      "_camada_autoral": "Mesma regra do canal poder: trecho citado + aplicacao propria."
     }
   }
 }

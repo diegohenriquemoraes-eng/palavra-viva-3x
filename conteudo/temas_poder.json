@@ -1,0 +1,862 @@
+[
+  {
+    "slug": "amado-o-temido",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 17"
+      ],
+      "titulo": {
+        "poder": "¿Ser Amado o Temido? | Maquiavelo, El Príncipe XVII"
+      },
+      "thumb_titulo": {
+        "poder": "AMADO O TEMIDO"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XVII"
+      },
+      "consultas_imagens": [
+        "castle night",
+        "gate night",
+        "corridor dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 17:8",
+        "tipo": "regla",
+        "consulta_imagem": "castle night",
+        "titulo": {
+          "poder": "¿Ser amado o ser temido?"
+        },
+        "aplicacao": "Traducido a hoy: la simpatía se retira cuando conviene, el respeto no."
+      },
+      {
+        "ref": "El Príncipe 17:1",
+        "tipo": "regla",
+        "consulta_imagem": "gate night",
+        "titulo": {
+          "poder": "La clemencia también tiene precio"
+        },
+        "aplicacao": "Ser blando con el que rompe las reglas es ser duro con todos los demás."
+      }
+    ]
+  },
+  {
+    "slug": "el-leon-y-la-zorra",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 18"
+      ],
+      "titulo": {
+        "poder": "El León y la Zorra | Maquiavelo, El Príncipe XVIII"
+      },
+      "thumb_titulo": {
+        "poder": "LEÓN Y ZORRA"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XVIII"
+      },
+      "consultas_imagens": [
+        "forest night",
+        "lion statue",
+        "smoke dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 18:5",
+        "tipo": "regla",
+        "consulta_imagem": "forest night",
+        "titulo": {
+          "poder": "Fuerza sin astucia es un blanco fácil"
+        },
+        "aplicacao": "Solo fuerza y te tienden trampas. Solo astucia y te pasan por encima. Hacen falta las dos."
+      },
+      {
+        "ref": "El Príncipe 18:12",
+        "tipo": "regla",
+        "consulta_imagem": "smoke dark",
+        "titulo": {
+          "poder": "Por qué el engaño funcionó tanto tiempo"
+        },
+        "aplicacao": "Maquiavelo no lo recomienda: lo describe. Saber que existe es lo que te defiende."
+      }
+    ]
+  },
+  {
+    "slug": "la-crueldad-bien-usada",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 8"
+      ],
+      "titulo": {
+        "poder": "Las Medidas Duras y su Momento | Maquiavelo VIII"
+      },
+      "thumb_titulo": {
+        "poder": "DE UNA VEZ"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo VIII"
+      },
+      "consultas_imagens": [
+        "stairs night",
+        "gate night",
+        "storm clouds"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 8:27",
+        "tipo": "regla",
+        "consulta_imagem": "stairs night",
+        "titulo": {
+          "poder": "Lo duro, de una vez; lo bueno, a plazos"
+        },
+        "aplicacao": "El recorte que se hace en tres tandas duele el triple y se recuerda el triple."
+      },
+      {
+        "ref": "El Príncipe 8:25",
+        "tipo": "regla",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "poder": "No es la dureza, es el uso"
+        },
+        "aplicacao": "La misma decisión salva o hunde según cuándo se toma y qué se explica."
+      }
+    ]
+  },
+  {
+    "slug": "armas-propias",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 13"
+      ],
+      "titulo": {
+        "poder": "Nunca Dependas de Fuerzas Ajenas | Maquiavelo XIII"
+      },
+      "thumb_titulo": {
+        "poder": "ARMAS PROPIAS"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XIII"
+      },
+      "consultas_imagens": [
+        "sword dark",
+        "castle night",
+        "gate night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 13:27",
+        "tipo": "regla",
+        "consulta_imagem": "sword dark",
+        "titulo": {
+          "poder": "Quien depende de otros no manda"
+        },
+        "aplicacao": "Un negocio con un solo cliente no tiene clientes: tiene un dueño."
+      },
+      {
+        "ref": "El Príncipe 7:21",
+        "tipo": "regla",
+        "consulta_imagem": "castle night",
+        "titulo": {
+          "poder": "El día que dejó de depender de la suerte"
+        },
+        "aplicacao": "Todo el que llega lejos tiene un momento así: deja de pedir permiso y monta lo suyo."
+      }
+    ]
+  },
+  {
+    "slug": "la-generosidad-arruina",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 16"
+      ],
+      "titulo": {
+        "poder": "La Generosidad que Arruina | Maquiavelo, El Príncipe XVI"
+      },
+      "thumb_titulo": {
+        "poder": "DAR DE MÁS"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XVI"
+      },
+      "consultas_imagens": [
+        "coins dark",
+        "gate night",
+        "corridor dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 16:16",
+        "tipo": "regla",
+        "consulta_imagem": "coins dark",
+        "titulo": {
+          "poder": "Ninguna virtud se gasta tan rápido"
+        },
+        "aplicacao": "El que siempre da termina sin nada que dar. Y entonces deja de ser querido."
+      },
+      {
+        "ref": "El Príncipe 16:18",
+        "tipo": "regla",
+        "consulta_imagem": "corridor dark",
+        "titulo": {
+          "poder": "Lo peor no es ser odiado"
+        },
+        "aplicacao": "Es ser despreciado. Del odio te defiendes; del desprecio no vuelves."
+      }
+    ]
+  },
+  {
+    "slug": "el-arte-de-la-guerra-del-principe",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 14"
+      ],
+      "titulo": {
+        "poder": "Lo Único que un Líder No Puede Delegar | Maquiavelo XIV"
+      },
+      "thumb_titulo": {
+        "poder": "NO SE DELEGA"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XIV"
+      },
+      "consultas_imagens": [
+        "sword dark",
+        "map old",
+        "castle night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 14:10",
+        "tipo": "regla",
+        "consulta_imagem": "sword dark",
+        "titulo": {
+          "poder": "Lo único que no puedes delegar"
+        },
+        "aplicacao": "Si dejas de entender tu propio oficio, mandas sobre gente que ya no te necesita."
+      },
+      {
+        "ref": "El Príncipe 14:22",
+        "tipo": "regla",
+        "consulta_imagem": "map old",
+        "titulo": {
+          "poder": "Qué hacer cuando todo va bien"
+        },
+        "aplicacao": "La paz es para prepararse. El que solo trabaja en la crisis ya llegó tarde."
+      }
+    ]
+  },
+  {
+    "slug": "fortuna-y-virtud",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 25"
+      ],
+      "titulo": {
+        "poder": "La Suerte Decide la Mitad | Maquiavelo, El Príncipe XXV"
+      },
+      "thumb_titulo": {
+        "poder": "LA MITAD ES TUYA"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XXV"
+      },
+      "consultas_imagens": [
+        "storm night",
+        "storm clouds",
+        "map old"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 25:2",
+        "tipo": "regla",
+        "consulta_imagem": "storm night",
+        "titulo": {
+          "poder": "La suerte manda en la mitad"
+        },
+        "aplicacao": "La otra mitad es tuya. Quien culpa a la suerte de todo, regala su parte."
+      },
+      {
+        "ref": "El Príncipe 25:5",
+        "tipo": "regla",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "poder": "Los diques se construyen antes"
+        },
+        "aplicacao": "La crisis no se resuelve en la crisis. Se resuelve en el año tranquilo anterior."
+      }
+    ]
+  },
+  {
+    "slug": "consejeros",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 23"
+      ],
+      "titulo": {
+        "poder": "Cómo Evitar a los Aduladores | Maquiavelo XXIII"
+      },
+      "thumb_titulo": {
+        "poder": "LOS ADULADORES"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XXIII"
+      },
+      "consultas_imagens": [
+        "library night",
+        "corridor dark",
+        "statue night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 23:2",
+        "tipo": "regla",
+        "consulta_imagem": "library night",
+        "titulo": {
+          "poder": "La corte está llena de aduladores"
+        },
+        "aplicacao": "Si nadie de tu equipo te lleva la contraria, no tienes equipo: tienes público."
+      },
+      {
+        "ref": "El Príncipe 23:8",
+        "tipo": "regla",
+        "consulta_imagem": "statue night",
+        "titulo": {
+          "poder": "Pide la verdad, pero solo cuando tú preguntas"
+        },
+        "aplicacao": "Abrir la opinión a todos, siempre, no es escuchar: es perder el mando."
+      }
+    ]
+  },
+  {
+    "slug": "el-odio-y-el-desprecio",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 19"
+      ],
+      "titulo": {
+        "poder": "Cómo se Pierde el Respeto | Maquiavelo, El Príncipe XIX"
+      },
+      "thumb_titulo": {
+        "poder": "EVITAR EL DESPRECIO"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XIX"
+      },
+      "consultas_imagens": [
+        "gate night",
+        "stairs night",
+        "city night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 19:6",
+        "tipo": "regla",
+        "consulta_imagem": "gate night",
+        "titulo": {
+          "poder": "Una decisión que se revoca te cuesta el mando"
+        },
+        "aplicacao": "Cambiar de opinión bajo presión enseña exactamente cómo presionarte la próxima vez."
+      },
+      {
+        "ref": "El Príncipe 19:56",
+        "tipo": "regla",
+        "consulta_imagem": "city night",
+        "titulo": {
+          "poder": "Lo que provoca las conspiraciones"
+        },
+        "aplicacao": "Nadie conspira contra quien respeta. Se conspira contra quien ya perdió autoridad."
+      }
+    ]
+  },
+  {
+    "slug": "estados-nuevos",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 6"
+      ],
+      "titulo": {
+        "poder": "Por Qué es Tan Difícil Cambiar las Cosas | Maquiavelo VI"
+      },
+      "thumb_titulo": {
+        "poder": "CAMBIAR EL ORDEN"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo VI"
+      },
+      "consultas_imagens": [
+        "stairs night",
+        "map old",
+        "sword dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 6:26",
+        "tipo": "regla",
+        "consulta_imagem": "stairs night",
+        "titulo": {
+          "poder": "De particular a príncipe: supo usar la ocasión"
+        },
+        "aplicacao": "La ocasión llega para muchos. Solo la aprovecha el que ya estaba preparado."
+      },
+      {
+        "ref": "El Príncipe 6:1",
+        "tipo": "regla",
+        "consulta_imagem": "map old",
+        "titulo": {
+          "poder": "Lo que se conquista con lo propio se sostiene"
+        },
+        "aplicacao": "Lo que te regalan, te lo pueden quitar. Lo que construyes, no."
+      }
+    ]
+  },
+  {
+    "slug": "las-ofensas-y-los-beneficios",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 3"
+      ],
+      "titulo": {
+        "poder": "Los Males se Curan al Principio | Maquiavelo III"
+      },
+      "thumb_titulo": {
+        "poder": "A TIEMPO"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo III"
+      },
+      "consultas_imagens": [
+        "clock dark",
+        "map old",
+        "corridor dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 3:20",
+        "tipo": "regla",
+        "consulta_imagem": "clock dark",
+        "titulo": {
+          "poder": "El problema pequeño que no atendiste"
+        },
+        "aplicacao": "Al principio es fácil de resolver y difícil de ver. Después, al revés."
+      },
+      {
+        "ref": "El Príncipe 3:30",
+        "tipo": "regla",
+        "consulta_imagem": "map old",
+        "titulo": {
+          "poder": "Nunca dejes que otro crezca a tu lado"
+        },
+        "aplicacao": "El que ayuda a otro a hacerse fuerte se debilita a sí mismo. Vale para socios."
+      }
+    ]
+  },
+  {
+    "slug": "fortalezas",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 20"
+      ],
+      "titulo": {
+        "poder": "La Mejor Fortaleza | Maquiavelo, El Príncipe XX"
+      },
+      "thumb_titulo": {
+        "poder": "TU MEJOR MURO"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XX"
+      },
+      "consultas_imagens": [
+        "castle night",
+        "gate night",
+        "wall night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 20:30",
+        "tipo": "regla",
+        "consulta_imagem": "castle night",
+        "titulo": {
+          "poder": "La mejor fortaleza no es un muro"
+        },
+        "aplicacao": "Ninguna estructura te protege si la gente que la sostiene quiere que caiga."
+      },
+      {
+        "ref": "El Príncipe 20:5",
+        "tipo": "regla",
+        "consulta_imagem": "wall night",
+        "titulo": {
+          "poder": "Los que dudaban al principio"
+        },
+        "aplicacao": "Los que empezaron en contra y se convencieron suelen ser los más leales después."
+      }
+    ]
+  },
+  {
+    "slug": "neutralidad",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 21"
+      ],
+      "titulo": {
+        "poder": "El Precio de No Tomar Partido | Maquiavelo XXI"
+      },
+      "thumb_titulo": {
+        "poder": "LA NEUTRALIDAD"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XXI"
+      },
+      "consultas_imagens": [
+        "chess dark",
+        "map old",
+        "storm clouds"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 21:8",
+        "tipo": "regla",
+        "consulta_imagem": "chess dark",
+        "titulo": {
+          "poder": "No tomar partido no te salva"
+        },
+        "aplicacao": "El que gana no te debe nada y el que pierde no te perdona. Neutral se pierde dos veces."
+      },
+      {
+        "ref": "El Príncipe 21:2",
+        "tipo": "regla",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "poder": "Las grandes obras dan reputación"
+        },
+        "aplicacao": "La reputación no se construye con mil cosas pequeñas, sino con una difícil y visible."
+      }
+    ]
+  },
+  {
+    "slug": "los-ministros",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 22"
+      ],
+      "titulo": {
+        "poder": "Se te Juzga por Quien Tienes al Lado | Maquiavelo XXII"
+      },
+      "thumb_titulo": {
+        "poder": "TU GENTE TE DELATA"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XXII"
+      },
+      "consultas_imagens": [
+        "statue night",
+        "library night",
+        "stairs night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 22:2",
+        "tipo": "regla",
+        "consulta_imagem": "statue night",
+        "titulo": {
+          "poder": "Se te juzga por la gente que eliges"
+        },
+        "aplicacao": "Tu equipo es la primera declaración pública de tu criterio. Antes que cualquier discurso."
+      },
+      {
+        "ref": "El Príncipe 22:5",
+        "tipo": "regla",
+        "consulta_imagem": "library night",
+        "titulo": {
+          "poder": "Cómo saber si alguien piensa en ti o en él"
+        },
+        "aplicacao": "Mira de qué habla cuando no lo estás evaluando. Ahí aparece quién es."
+      }
+    ]
+  },
+  {
+    "slug": "cambiar-con-los-tiempos",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 25"
+      ],
+      "titulo": {
+        "poder": "Por Qué Cae el que Antes Triunfaba | Maquiavelo XXV"
+      },
+      "thumb_titulo": {
+        "poder": "CAMBIAR A TIEMPO"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XXV"
+      },
+      "consultas_imagens": [
+        "clock dark",
+        "storm night",
+        "city night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 25:9",
+        "tipo": "regla",
+        "consulta_imagem": "clock dark",
+        "titulo": {
+          "poder": "Por qué cae el que antes triunfaba"
+        },
+        "aplicacao": "No cambió nada. Eso es exactamente lo que lo hunde cuando el tiempo cambia."
+      },
+      {
+        "ref": "El Príncipe 25:10",
+        "tipo": "regla",
+        "consulta_imagem": "city night",
+        "titulo": {
+          "poder": "El mismo método no sirve dos veces"
+        },
+        "aplicacao": "Lo que te trajo hasta aquí casi nunca es lo que te lleva al siguiente nivel."
+      }
+    ]
+  },
+  {
+    "slug": "las-tropas-mercenarias",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 12"
+      ],
+      "titulo": {
+        "poder": "Los que Solo Trabajan por Dinero | Maquiavelo XII"
+      },
+      "thumb_titulo": {
+        "poder": "MERCENARIOS"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XII"
+      },
+      "consultas_imagens": [
+        "sword dark",
+        "coins dark",
+        "gate night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 12:5",
+        "tipo": "regla",
+        "consulta_imagem": "coins dark",
+        "titulo": {
+          "poder": "Los que solo están por la paga"
+        },
+        "aplicacao": "Aguantan mientras es cómodo. En el primer problema serio, ya no están."
+      },
+      {
+        "ref": "El Príncipe 12:9",
+        "tipo": "regla",
+        "consulta_imagem": "sword dark",
+        "titulo": {
+          "poder": "Sin motivo propio no hay lealtad"
+        },
+        "aplicacao": "Paga bien, sí. Pero nadie se queda en la tormenta solo por el sueldo."
+      }
+    ]
+  },
+  {
+    "slug": "conservar-lo-conquistado",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 5"
+      ],
+      "titulo": {
+        "poder": "Lo Difícil No es Ganar, es Mantener | Maquiavelo V"
+      },
+      "thumb_titulo": {
+        "poder": "MANTENER"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo V"
+      },
+      "consultas_imagens": [
+        "wall night",
+        "castle night",
+        "map old"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 5:6",
+        "tipo": "regla",
+        "consulta_imagem": "wall night",
+        "titulo": {
+          "poder": "Lo difícil no es ganar, es mantener"
+        },
+        "aplicacao": "La gente recuerda cómo eran las cosas antes. Esa memoria trabaja contra ti."
+      },
+      {
+        "ref": "El Príncipe 4:8",
+        "tipo": "regla",
+        "consulta_imagem": "map old",
+        "titulo": {
+          "poder": "Difícil de tomar, fácil de conservar"
+        },
+        "aplicacao": "Lo que cuesta entrar cuesta que te saquen. Lo fácil de ganar es fácil de perder."
+      }
+    ]
+  },
+  {
+    "slug": "la-verdad-efectiva",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 15"
+      ],
+      "titulo": {
+        "poder": "Cómo Son las Cosas, No Cómo Deberían Ser | Maquiavelo XV"
+      },
+      "thumb_titulo": {
+        "poder": "LA VERDAD EFECTIVA"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XV"
+      },
+      "consultas_imagens": [
+        "mirror dark",
+        "statue night",
+        "corridor dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 15:5",
+        "tipo": "regla",
+        "consulta_imagem": "mirror dark",
+        "titulo": {
+          "poder": "Cómo son las cosas, no cómo deberían ser"
+        },
+        "aplicacao": "Planificar con el mundo que te gustaría es la forma más cara de equivocarse."
+      },
+      {
+        "ref": "El Príncipe 15:8",
+        "tipo": "regla",
+        "consulta_imagem": "corridor dark",
+        "titulo": {
+          "poder": "Nadie tiene todas las virtudes"
+        },
+        "aplicacao": "Elige qué defecto puedes permitirte. Fingir que no tienes ninguno se nota."
+      }
+    ]
+  },
+  {
+    "slug": "el-pueblo-y-los-grandes",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 9"
+      ],
+      "titulo": {
+        "poder": "Con Quién Conviene Estar | Maquiavelo, El Príncipe IX"
+      },
+      "thumb_titulo": {
+        "poder": "ARRIBA O ABAJO"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo IX"
+      },
+      "consultas_imagens": [
+        "stairs night",
+        "city night",
+        "crown dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 9:6",
+        "tipo": "regla",
+        "consulta_imagem": "stairs night",
+        "titulo": {
+          "poder": "Los de arriba te quieren mientras les sirves"
+        },
+        "aplicacao": "Los de abajo solo piden que no los pisen. Es una lealtad mucho más barata de mantener."
+      },
+      {
+        "ref": "El Príncipe 9:14",
+        "tipo": "regla",
+        "consulta_imagem": "crown dark",
+        "titulo": {
+          "poder": "Quien llega por favores, debe favores"
+        },
+        "aplicacao": "Todo el que te subió va a pasar la cuenta. Calcula el precio antes de aceptar."
+      }
+    ]
+  },
+  {
+    "slug": "las-leyes-y-la-fuerza",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "El Príncipe 18"
+      ],
+      "titulo": {
+        "poder": "Cuando las Reglas No Alcanzan | Maquiavelo XVIII"
+      },
+      "thumb_titulo": {
+        "poder": "REGLAS Y FUERZA"
+      },
+      "thumb_sub": {
+        "poder": "Maquiavelo, capítulo XVIII"
+      },
+      "consultas_imagens": [
+        "wall night",
+        "lion statue",
+        "gate night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "El Príncipe 18:3",
+        "tipo": "regla",
+        "consulta_imagem": "wall night",
+        "titulo": {
+          "poder": "Dos maneras de resolver un conflicto"
+        },
+        "aplicacao": "Cuando el acuerdo ya no funciona, hace falta otra cosa. Fingir que no, es perder."
+      },
+      {
+        "ref": "El Príncipe 18:8",
+        "tipo": "regla",
+        "consulta_imagem": "lion statue",
+        "titulo": {
+          "poder": "Las promesas y las circunstancias"
+        },
+        "aplicacao": "Prometer lo que no controlas es prometer que otro cumpla por ti."
+      }
+    ]
+  }
+]

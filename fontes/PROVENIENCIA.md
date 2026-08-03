@@ -311,6 +311,55 @@ Preparado em 02/08/2026 para o canal estoico em espanhol (ex-Stoic by Night).
   scan não transcrito; Sêneca em espanhol fica de fora até haver OCR próprio
   verificado.
 
+## 8. Baltasar Gracián — *Oráculo manual y arte de prudencia* (1647)
+
+Corpus do canal **Astucia Fría** (`@AstuciaFria`), baixado em 03/08/2026 por
+`produzir/baixar_corpus_es.py --obra oraculo`.
+
+- **Por que é o corpus mais seguro que temos**: Gracián escreveu EM ESPANHOL.
+  Não existe camada de tradução, então não existe a dúvida jurídica que
+  eliminou o Tao Te Ching, o Dhammapada e o Sun Tzu do nosso escopo (nenhum
+  tem tradução espanhola em domínio público). Autor † 1658.
+- **Fonte**: `es.wikisource.org`, 12 subpáginas `Aforismos (1-25)` …
+  `(276-300)`. Transcrição revisada com ortografia modernizada — não é OCR cru.
+- **Estrutura**: 1 book (`Oráculo manual`), **300 chapters** (um aforismo por
+  chapter), verses = quebra de 120 palavras.
+- **Os títulos dos aforismos** (a parte em itálico: "Hombre de plausibles
+  noticias", "Hacer depender") foram salvos à parte em
+  `gracian_oraculo_titulos.json` — são o material de título de vídeo e de
+  gancho, e não entram na narração do corpo.
+- ⚠ **Armadilha do parser**: os aforismos são separados pelo ornamento
+  `{{c|🙝🙟}}` — **menos entre o 21 e o 22**, onde ele simplesmente não existe
+  na fonte. Cortar por ornamento engolia o aforismo 22 (299/300, e o erro
+  passava despercebido). O corte confiável é a numeração em início de linha.
+- **Saída**: `gracian_oraculo.json` — 1 book, 300 chapters, 372 verses.
+
+## 9. Nicolás Maquiavelo — *El Príncipe*, trad. anônima de 1854
+
+Corpus do canal **El Poder Crudo** (`@ElPoderCrudo`), mesmo script,
+`--obra principe`.
+
+- **Domínio público por data**: ed. Madrid, **Imprenta de D. José Trujillo,
+  1854**, tradução anônima. Não confundir com as traduções modernas que
+  circulam soltas em PDF.
+- **Fonte**: `es.wikisource.org`, 26 subpáginas `Capítulo I` … `Capítulo XXVI`.
+  A página é transclusão `<pages index=...>` do fac-símile, então o wikitext
+  da subpágina NÃO traz o texto — é preciso pedir o HTML renderizado
+  (`prop=text`) e limpar.
+- **Limpeza**: o HTML vem embrulhado em navegação da Wikisource ("otras
+  versiones", "metadatos", aviso de ortografia) e termina no colofão da
+  Imprenta Trujillo. O corte é do último cabeçalho `CAPITULO …` até o primeiro
+  marcador de rodapé.
+- **Grafia de 1854 normalizada** (é GRAFIA, não troca de tradução, mesmo
+  critério da RV1909): "jéneros"→"géneros", "estranjeros"→"extranjeros",
+  "esperiencia"→"experiencia", "muger"→"mujer" etc. Também cai o `¿` órfão que
+  a transcrição solta em frase afirmativa (cap. XVII abre "¿No hay duda en que
+  un príncipe debe ser clemente.") — faria o TTS subir a entonação numa
+  afirmação. `¿` de pergunta real fica.
+- **Fora do escopo de propósito**: o "Anti-Maquiavelo" que acompanha a edição
+  é texto de Frederico II rebatendo Maquiavel — outro autor, outro produto.
+- **Saída**: `maquiavelo_principe_1854.json` — 1 book, 26 chapters, 284 verses.
+
 ## Resumo dos arquivos gerados
 
 | Arquivo | Obra(s) | Tradutor | Fonte | Books | Chapters | Verses |
@@ -320,5 +369,7 @@ Preparado em 02/08/2026 para o canal estoico em espanhol (ex-Stoic by Night).
 | `seneca_gummere.json` | Moral Letters to Lucilius | Richard Mott Gummere | Wikisource (`en.wikisource.org`) | 1 | 124 | 2.587 |
 | `marco_aurelio_diaz.json` | Meditaciones (ES) | Jacinto Díaz de Miranda | textos.info (verif. es.wikisource) | 1 | 12 | 746 |
 | `epicteto_brum.json` | Enquiridión (ES) | Antonio Brum | Wikisource (`es.wikisource.org`) | 1 | 78 | 115 |
+| `gracian_oraculo.json` | Oráculo manual (ES) | — (original em espanhol) | Wikisource (`es.wikisource.org`) | 1 | 300 | 372 |
+| `maquiavelo_principe_1854.json` | El Príncipe (ES) | anônimo, ed. Trujillo 1854 | Wikisource (`es.wikisource.org`) | 1 | 26 | 284 |
 
 Nenhum arquivo do repo fora de `fontes/` foi alterado.

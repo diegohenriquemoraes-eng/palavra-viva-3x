@@ -187,15 +187,31 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     # Teto de duração por canal: o método de canal novo pede Short de 10-20s
     # (quanto mais curto, mais fácil segurar do início ao fim). O padrão da
     # casa é 25s — o Stoic by Night roda em 20 durante o teste.
+    # CAMADA AUTORAL (03/08/2026, canais poder/astucia). Uma frase nossa
+    # aplicando o trecho, narrada depois da fonte. Motivo não é estético: a
+    # política de monetização do YouTube lista "content that exclusively
+    # features readings of other materials you did not originally create" como
+    # INELEGÍVEL, e o revisor pergunta se há "meaningful difference" entre a
+    # fonte e o nosso vídeo. Domínio público resolve copyright, não
+    # monetização — são dois trilhos. É também o que os canais pequenos que
+    # furam nessa sala de fato publicam (leitura crua ali é produto de canal
+    # gigante). Vazio nos bíblicos: lá a diretriz nº 4 proíbe interpretar.
+    aplicacao = (short.get("aplicacao") or "").strip()
+
     teto = cfg.get("max_short_s", MAX_SHORT_S)
-    orcamento = int((teto - CAUDA_SHORT - PAUSA_GANCHO)
-                    * PALAVRAS_POR_S_SHORT) - len(gancho.split())
+    # a aplicação também consome o teto: sem descontá-la aqui, o Short do canal
+    # com camada autoral estouraria os 20s do método de canal novo.
+    orcamento = (int((teto - CAUDA_SHORT - PAUSA_GANCHO)
+                     * PALAVRAS_POR_S_SHORT)
+                 - len(gancho.split()) - len(aplicacao.split()))
     versos, ref = _cortar_ao_teto(biblia.carregar_versos(idioma, ref), ref,
                                   orcamento)
     texto = " ".join(t for _, t in versos)
 
     partes = [(0, gancho), (1, texto)]
-    if len(texto.split()) <= REPETIR_ATE_PALAVRAS:
+    if aplicacao:
+        partes.append((2, aplicacao))
+    elif len(texto.split()) <= REPETIR_ATE_PALAVRAS:
         partes.append((2, texto))
 
     voz = outdir / "voz.wav"

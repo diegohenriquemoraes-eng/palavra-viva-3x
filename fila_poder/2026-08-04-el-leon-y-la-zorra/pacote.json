@@ -1,0 +1,137 @@
+{
+  "slug": "el-leon-y-la-zorra",
+  "formato": "tema",
+  "data": "2026-08-04",
+  "criado_em": "2026-08-03T23:32:07+00:00",
+  "aprovado_em": "2026-08-03T23:32:07+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 18"
+    ],
+    "titulo": {
+      "poder": "El León y la Zorra | Maquiavelo, El Príncipe XVIII"
+    },
+    "thumb_titulo": {
+      "poder": "LEÓN Y ZORRA"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XVIII"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Night_Forest_%28116326223%29.jpeg/1920px-Night_Forest_%28116326223%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Евгений Летавин",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Forest_(116326223).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/20190626_Night_forest_02.jpg/1920px-20190626_Night_forest_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_02.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20190626_Night_forest_03.jpg/1920px-20190626_Night_forest_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_03.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20190626_Night_forest_07.jpg/1920px-20190626_Night_forest_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_07.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20190626_Night_forest_04.jpg/1920px-20190626_Night_forest_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_04.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Elizabeth_Street_Garden_lion_statue_with_ivy.jpg/1920px-Elizabeth_Street_Garden_lion_statue_with_ivy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Amaury Laporte",
+        "origem": "https://commons.wikimedia.org/wiki/File:Elizabeth_Street_Garden_lion_statue_with_ivy.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/P1280506_Paris_XI_place_Republique_statue_lion_rwk.jpg/1920px-P1280506_Paris_XI_place_Republique_statue_lion_rwk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Léopold Morice",
+        "origem": "https://commons.wikimedia.org/wiki/File:P1280506_Paris_XI_place_Republique_statue_lion_rwk.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hittite_Lion_statue%2C_National_Museum_of_Damascus.jpg/1920px-Hittite_Lion_statue%2C_National_Museum_of_Damascus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "High Contrast",
+        "origem": "https://commons.wikimedia.org/wiki/File:Hittite_Lion_statue,_National_Museum_of_Damascus.jpg",
+        "licenca": "CC BY 3.0 de"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lion_statue_at_unknown_monument_of_Colombo.jpg/1920px-Lion_statue_at_unknown_monument_of_Colombo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FaysaLBinDaruL",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lion_statue_at_unknown_monument_of_Colombo.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Leuven_-_Universiteitsbibliotheek_-_Main_stairs_-_Lion_statue_02.jpg/1920px-Leuven_-_Universiteitsbibliotheek_-_Main_stairs_-_Lion_statue_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Romainbehar",
+        "origem": "https://commons.wikimedia.org/wiki/File:Leuven_-_Universiteitsbibliotheek_-_Main_stairs_-_Lion_statue_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Smoke_Across_North_America_%28MODIS_2025-09-07%29.jpg/1920px-Smoke_Across_North_America_%28MODIS_2025-09-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MODIS Land Rapid Response Team, NASA GSFC",
+        "origem": "https://commons.wikimedia.org/wiki/File:Smoke_Across_North_America_(MODIS_2025-09-07).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Incense_smoke_against_a_black_sky_-_Flickr_-_Vanessa_Pike-Russell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Vanessa Pike-Russell from Cleveland, QLD, Australia",
+        "origem": "https://commons.wikimedia.org/wiki/File:Incense_smoke_against_a_black_sky_-_Flickr_-_Vanessa_Pike-Russell.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Smoke_2018_Warehouse_fire_in_West_Footscray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Environment Protection Authority Victoria",
+        "origem": "https://commons.wikimedia.org/wiki/File:Smoke_2018_Warehouse_fire_in_West_Footscray.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Optical_beam_smoke_detector.jpg/1920px-Optical_beam_smoke_detector.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Fire Fighting Enterprises",
+        "origem": "https://commons.wikimedia.org/wiki/File:Optical_beam_smoke_detector.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 18:5",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Fuerza sin astucia es un blanco fácil"
+      },
+      "aplicacao": "Solo fuerza y te tienden trampas. Solo astucia y te pasan por encima. Hacen falta las dos.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fireworks_Waltham_Forest_Town_Hall_Bonfire_Night_2010.jpg/1920px-Fireworks_Waltham_Forest_Town_Hall_Bonfire_Night_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "William Warby",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireworks_Waltham_Forest_Town_Hall_Bonfire_Night_2010.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "El Príncipe 18:12",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Por qué el engaño funcionó tanto tiempo"
+      },
+      "aplicacao": "Maquiavelo no lo recomienda: lo describe. Saber que existe es lo que te defiende.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/DARK_CLOUDS_OF_FACTORY_SMOKE_OBSCURE_CLARK_AVENUE_BRIDGE_-_NARA_-_550179.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Frank John Aleksandrowicz",
+        "origem": "https://commons.wikimedia.org/wiki/File:DARK_CLOUDS_OF_FACTORY_SMOKE_OBSCURE_CLARK_AVENUE_BRIDGE_-_NARA_-_550179.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

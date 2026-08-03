@@ -1,0 +1,862 @@
+[
+  {
+    "slug": "no-enganarse-en-las-personas",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 157"
+      ],
+      "titulo": {
+        "astucia": "No Engañarte con la Gente | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "NO TE ENGAÑES"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 157"
+      },
+      "consultas_imagens": [
+        "statue night",
+        "library night",
+        "corridor dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 157",
+        "tipo": "aforismo",
+        "consulta_imagem": "statue night",
+        "titulo": {
+          "astucia": "El engaño más fácil de todos"
+        },
+        "aplicacao": "Traducido a hoy: revisa a la persona, no al currículum."
+      },
+      {
+        "ref": "Oráculo manual 273",
+        "tipo": "aforismo",
+        "consulta_imagem": "library night",
+        "titulo": {
+          "astucia": "Comprender el genio del que tratas"
+        },
+        "aplicacao": "Antes de negociar, averigua qué teme el otro. Ahí está la palanca."
+      }
+    ]
+  },
+  {
+    "slug": "cifrar-la-voluntad",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 98"
+      ],
+      "titulo": {
+        "astucia": "Guarda lo que Quieres | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "NO ENSEÑES TU JUEGO"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 98"
+      },
+      "consultas_imagens": [
+        "chess dark",
+        "candle night",
+        "stairs night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 98",
+        "tipo": "aforismo",
+        "consulta_imagem": "chess dark",
+        "titulo": {
+          "astucia": "Quien juega a cartas vistas, pierde"
+        },
+        "aplicacao": "Hoy es igual: quien anuncia lo que quiere, le pone precio a su propio deseo."
+      },
+      {
+        "ref": "Oráculo manual 3",
+        "tipo": "aforismo",
+        "consulta_imagem": "candle night",
+        "titulo": {
+          "astucia": "Llevar tus cosas con suspensión"
+        },
+        "aplicacao": "No expliques cada paso. Lo que no se ve, no se puede copiar ni bloquear."
+      }
+    ]
+  },
+  {
+    "slug": "hacer-y-hacer-parecer",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 130"
+      ],
+      "titulo": {
+        "astucia": "Hacer, y Hacer Parecer | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "NO BASTA CON VALER"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 130"
+      },
+      "consultas_imagens": [
+        "mirror dark",
+        "statue night",
+        "crown dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 130",
+        "tipo": "aforismo",
+        "consulta_imagem": "mirror dark",
+        "titulo": {
+          "astucia": "Lo que no se ve es como si no fuera"
+        },
+        "aplicacao": "Trabajar bien y en silencio no es humildad: es dejar que otro cuente tu historia."
+      },
+      {
+        "ref": "Oráculo manual 99",
+        "tipo": "aforismo",
+        "consulta_imagem": "crown dark",
+        "titulo": {
+          "astucia": "Realidad y apariencia"
+        },
+        "aplicacao": "La gente juzga por lo que percibe. Cuidar la forma no es vanidad, es defensa."
+      }
+    ]
+  },
+  {
+    "slug": "lo-odioso-por-terceros",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 187"
+      ],
+      "titulo": {
+        "astucia": "Lo Bueno Tú, lo Odioso Otro | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "QUIÉN DA LA MALA NOTICIA"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 187"
+      },
+      "consultas_imagens": [
+        "gate night",
+        "corridor dark",
+        "stairs night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 187",
+        "tipo": "aforismo",
+        "consulta_imagem": "gate night",
+        "titulo": {
+          "astucia": "Quién debe dar la mala noticia"
+        },
+        "aplicacao": "Todo jefe que sobrevive lo sabe: da tú el premio, que el sistema dé el castigo."
+      },
+      {
+        "ref": "Oráculo manual 144",
+        "tipo": "aforismo",
+        "consulta_imagem": "corridor dark",
+        "titulo": {
+          "astucia": "Entrar con la ajena para salir con la tuya"
+        },
+        "aplicacao": "Empieza hablando de lo que al otro le importa. Nadie se abre por tu agenda."
+      }
+    ]
+  },
+  {
+    "slug": "sin-mentir-no-decir-todo",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 181"
+      ],
+      "titulo": {
+        "astucia": "Sin Mentir, No Decir Todo | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "CALLAR NO ES MENTIR"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 181"
+      },
+      "consultas_imagens": [
+        "door night",
+        "candle night",
+        "rain night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 181",
+        "tipo": "aforismo",
+        "consulta_imagem": "door night",
+        "titulo": {
+          "astucia": "Callar no es mentir"
+        },
+        "aplicacao": "Nadie tiene derecho a toda tu verdad. Decirla entera casi nunca te protege."
+      },
+      {
+        "ref": "Oráculo manual 160",
+        "tipo": "aforismo",
+        "consulta_imagem": "rain night",
+        "titulo": {
+          "astucia": "Hablar con cuidado"
+        },
+        "aplicacao": "Con enemigos, por precaución; con los demás, por decencia. Lo dicho ya no vuelve."
+      }
+    ]
+  },
+  {
+    "slug": "saber-contradecir",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 213"
+      ],
+      "titulo": {
+        "astucia": "Saber Contradecir para que Hablen | Gracián"
+      },
+      "thumb_titulo": {
+        "astucia": "LA TRETA DEL TANTEO"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 213"
+      },
+      "consultas_imagens": [
+        "chess dark",
+        "library night",
+        "smoke dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 213",
+        "tipo": "aforismo",
+        "consulta_imagem": "chess dark",
+        "titulo": {
+          "astucia": "La treta para que el otro se abra"
+        },
+        "aplicacao": "Contradice un poco y mira la reacción: la molestia dice más que la respuesta."
+      },
+      {
+        "ref": "Oráculo manual 165",
+        "tipo": "aforismo",
+        "consulta_imagem": "smoke dark",
+        "titulo": {
+          "astucia": "Hacer buena guerra"
+        },
+        "aplicacao": "Se puede ganar sin destruir. El que humilla se gana un enemigo permanente."
+      }
+    ]
+  },
+  {
+    "slug": "excusar-llanezas",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 177"
+      ],
+      "titulo": {
+        "astucia": "La Confianza que Te Cuesta el Respeto | Gracián"
+      },
+      "thumb_titulo": {
+        "astucia": "DEMASIADA CONFIANZA"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 177"
+      },
+      "consultas_imagens": [
+        "stairs night",
+        "gate night",
+        "statue night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 177",
+        "tipo": "aforismo",
+        "consulta_imagem": "stairs night",
+        "titulo": {
+          "astucia": "La confianza que te cuesta el respeto"
+        },
+        "aplicacao": "En el trabajo pasa cada día: el que se allana con todos deja de ser tomado en serio."
+      },
+      {
+        "ref": "Oráculo manual 275",
+        "tipo": "aforismo",
+        "consulta_imagem": "statue night",
+        "titulo": {
+          "astucia": "Corriente, pero no indecente"
+        },
+        "aplicacao": "Cede en la forma, nunca en el fondo. Ser rígido en todo también te aísla."
+      }
+    ]
+  },
+  {
+    "slug": "no-tener-dias-de-descuido",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 264"
+      ],
+      "titulo": {
+        "astucia": "El Día que Bajas la Guardia | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "SIN DÍAS DE DESCUIDO"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 264"
+      },
+      "consultas_imagens": [
+        "corridor dark",
+        "clock dark",
+        "city night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 264",
+        "tipo": "aforismo",
+        "consulta_imagem": "clock dark",
+        "titulo": {
+          "astucia": "El día que bajas la guardia"
+        },
+        "aplicacao": "La suerte no avisa. Casi todo lo que sale mal, sale mal en el día que descuidaste."
+      },
+      {
+        "ref": "Oráculo manual 55",
+        "tipo": "aforismo",
+        "consulta_imagem": "city night",
+        "titulo": {
+          "astucia": "Hombre de espera"
+        },
+        "aplicacao": "Responder tarde y en frío gana más discusiones que responder rápido y con razón."
+      }
+    ]
+  },
+  {
+    "slug": "sentir-con-los-menos",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 43"
+      ],
+      "titulo": {
+        "astucia": "Piensa como Pocos, Habla como Todos | Gracián"
+      },
+      "thumb_titulo": {
+        "astucia": "PIENSA APARTE"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 43"
+      },
+      "consultas_imagens": [
+        "library night",
+        "door night",
+        "candle night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 43",
+        "tipo": "aforismo",
+        "consulta_imagem": "library night",
+        "titulo": {
+          "astucia": "Piensa como pocos, habla como todos"
+        },
+        "aplicacao": "No hace falta anunciar cada desacuerdo. Discrepar en voz alta cuesta caro y cambia poco."
+      },
+      {
+        "ref": "Oráculo manual 133",
+        "tipo": "aforismo",
+        "consulta_imagem": "candle night",
+        "titulo": {
+          "astucia": "Antes loco con todos que cuerdo a solas"
+        },
+        "aplicacao": "Tener razón solo, y decirlo siempre, no es integridad: es quedarse sin aliados."
+      }
+    ]
+  },
+  {
+    "slug": "conocer-los-afortunados",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 31"
+      ],
+      "titulo": {
+        "astucia": "Con Quién Te Juntas Decide tu Suerte | Gracián"
+      },
+      "thumb_titulo": {
+        "astucia": "ELIGE COMPAÑÍA"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 31"
+      },
+      "consultas_imagens": [
+        "stairs night",
+        "gate night",
+        "mirror dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 31",
+        "tipo": "aforismo",
+        "consulta_imagem": "stairs night",
+        "titulo": {
+          "astucia": "Con quién te juntas decide tu suerte"
+        },
+        "aplicacao": "No es superstición: la gente a la que le va mal repite decisiones, y se pegan."
+      },
+      {
+        "ref": "Oráculo manual 158",
+        "tipo": "aforismo",
+        "consulta_imagem": "mirror dark",
+        "titulo": {
+          "astucia": "Saber usar a los amigos"
+        },
+        "aplicacao": "Un favor pedido a tiempo vale más que diez amistades que nunca se usan."
+      }
+    ]
+  },
+  {
+    "slug": "renovar-el-lucimiento",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 269"
+      ],
+      "titulo": {
+        "astucia": "Lo Nuevo Siempre Gusta Más | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "LO NUEVO GUSTA"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 269"
+      },
+      "consultas_imagens": [
+        "city night",
+        "smoke dark",
+        "mirror dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 269",
+        "tipo": "aforismo",
+        "consulta_imagem": "city night",
+        "titulo": {
+          "astucia": "Por qué lo nuevo siempre gusta más"
+        },
+        "aplicacao": "La novedad compra atención prestada. Si no renuevas algo, te vuelves parte del mueble."
+      },
+      {
+        "ref": "Oráculo manual 282",
+        "tipo": "aforismo",
+        "consulta_imagem": "smoke dark",
+        "titulo": {
+          "astucia": "Usar la ausencia"
+        },
+        "aplicacao": "Estar siempre disponible abarata. La distancia corta se paga en respeto."
+      }
+    ]
+  },
+  {
+    "slug": "no-empenarse-con-quien-nada-pierde",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 172"
+      ],
+      "titulo": {
+        "astucia": "Nunca Pelees con Quien Nada Tiene que Perder | Gracián"
+      },
+      "thumb_titulo": {
+        "astucia": "NO PELEES CON ESE"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 172"
+      },
+      "consultas_imagens": [
+        "gate night",
+        "corridor dark",
+        "storm night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 172",
+        "tipo": "aforismo",
+        "consulta_imagem": "gate night",
+        "titulo": {
+          "astucia": "Nunca pelees con quien nada puede perder"
+        },
+        "aplicacao": "Es pelea desigual: tú arriesgas reputación, el otro no arriesga nada."
+      },
+      {
+        "ref": "Oráculo manual 189",
+        "tipo": "aforismo",
+        "consulta_imagem": "storm night",
+        "titulo": {
+          "astucia": "Valerse de la necesidad ajena"
+        },
+        "aplicacao": "Quien depende de ti no discute. Y quien no necesita nada, tampoco te escucha."
+      }
+    ]
+  },
+  {
+    "slug": "obrar-de-intencion",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 13"
+      ],
+      "titulo": {
+        "astucia": "La Segunda Intención | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "SEGUNDA INTENCIÓN"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 13"
+      },
+      "consultas_imagens": [
+        "chess dark",
+        "smoke dark",
+        "corridor dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 13",
+        "tipo": "aforismo",
+        "consulta_imagem": "chess dark",
+        "titulo": {
+          "astucia": "La vida es una guerra de intenciones"
+        },
+        "aplicacao": "Casi nadie pide lo que de verdad quiere. Escucha la petición y busca la de atrás."
+      },
+      {
+        "ref": "Oráculo manual 179",
+        "tipo": "aforismo",
+        "consulta_imagem": "door night",
+        "titulo": {
+          "astucia": "La reserva es el sello de la capacidad"
+        },
+        "aplicacao": "El que no aguanta un secreto tampoco aguantará tu confianza."
+      }
+    ]
+  },
+  {
+    "slug": "conocerse-a-si-mismo",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 225"
+      ],
+      "titulo": {
+        "astucia": "Conoce tu Defecto Principal | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "TU DEFECTO REY"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 225"
+      },
+      "consultas_imagens": [
+        "mirror dark",
+        "candle night",
+        "statue night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 225",
+        "tipo": "aforismo",
+        "consulta_imagem": "mirror dark",
+        "titulo": {
+          "astucia": "Tu defecto principal, el que manda"
+        },
+        "aplicacao": "Todos tenemos uno que gobierna a los demás. Quien lo nombra, deja de ser previsible."
+      },
+      {
+        "ref": "Oráculo manual 8",
+        "tipo": "aforismo",
+        "consulta_imagem": "statue night",
+        "titulo": {
+          "astucia": "Hombre sin dejarse llevar por la pasión"
+        },
+        "aplicacao": "El enfado hace por ti la peor versión de tu decisión. Siempre."
+      }
+    ]
+  },
+  {
+    "slug": "no-hacerse-de-rogar",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 5"
+      ],
+      "titulo": {
+        "astucia": "Haz que te Necesiten | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "HACER DEPENDER"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 5"
+      },
+      "consultas_imagens": [
+        "crown dark",
+        "gate night",
+        "stairs night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 5",
+        "tipo": "aforismo",
+        "consulta_imagem": "crown dark",
+        "titulo": {
+          "astucia": "La naranja exprimida se tira"
+        },
+        "aplicacao": "Resolverlo todo de una vez te deja fuera. La gratitud dura menos que la necesidad."
+      },
+      {
+        "ref": "Oráculo manual 226",
+        "tipo": "aforismo",
+        "consulta_imagem": "stairs night",
+        "titulo": {
+          "astucia": "Atender a obligar"
+        },
+        "aplicacao": "Un favor pequeño hecho a tiempo compra más que un favor grande hecho tarde."
+      }
+    ]
+  },
+  {
+    "slug": "saber-retirarse",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 110"
+      ],
+      "titulo": {
+        "astucia": "Retírate Antes de que te Retiren | Gracián"
+      },
+      "thumb_titulo": {
+        "astucia": "SALIR A TIEMPO"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 110"
+      },
+      "consultas_imagens": [
+        "door night",
+        "city night",
+        "rain night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 110",
+        "tipo": "aforismo",
+        "consulta_imagem": "door night",
+        "titulo": {
+          "astucia": "Retírate antes de que te retiren"
+        },
+        "aplicacao": "Casi nadie sale a tiempo. Se quedan hasta que la salida ya la decide otro."
+      },
+      {
+        "ref": "Oráculo manual 59",
+        "tipo": "aforismo",
+        "consulta_imagem": "rain night",
+        "titulo": {
+          "astucia": "Acabar bien importa más que empezar"
+        },
+        "aplicacao": "De todo lo que hiciste, la gente recordará cómo terminó. Solo eso."
+      }
+    ]
+  },
+  {
+    "slug": "conocer-el-humor-del-otro",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 138"
+      ],
+      "titulo": {
+        "astucia": "Dejar Pasar la Tormenta | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "DEJA PASAR"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 138"
+      },
+      "consultas_imagens": [
+        "storm night",
+        "rain night",
+        "smoke dark"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 138",
+        "tipo": "aforismo",
+        "consulta_imagem": "storm night",
+        "titulo": {
+          "astucia": "El arte de dejar pasar la tormenta"
+        },
+        "aplicacao": "No discutas con alguien alterado. Espera: el tiempo hace el trabajo que tú no harías bien."
+      },
+      {
+        "ref": "Oráculo manual 288",
+        "tipo": "aforismo",
+        "consulta_imagem": "smoke dark",
+        "titulo": {
+          "astucia": "Vivir a la ocasión"
+        },
+        "aplicacao": "La razón sin momento no convence. Lo mismo dicho hoy o mañana cambia de resultado."
+      }
+    ]
+  },
+  {
+    "slug": "el-arte-de-preguntar",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 179"
+      ],
+      "titulo": {
+        "astucia": "El Que No Guarda un Secreto | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "LA RESERVA"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 179"
+      },
+      "consultas_imagens": [
+        "candle night",
+        "door night",
+        "library night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 237",
+        "tipo": "aforismo",
+        "consulta_imagem": "candle night",
+        "titulo": {
+          "astucia": "Nunca compartas secretos con el poderoso"
+        },
+        "aplicacao": "El que te debe un secreto no te lo agradece: te evita."
+      },
+      {
+        "ref": "Oráculo manual 3",
+        "tipo": "aforismo",
+        "consulta_imagem": "library night",
+        "titulo": {
+          "astucia": "El misterio provoca veneración"
+        },
+        "aplicacao": "Explicarlo todo te vuelve barato. Guardar algo mantiene la atención puesta en ti."
+      }
+    ]
+  },
+  {
+    "slug": "no-mostrar-el-dedo-malo",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 145"
+      ],
+      "titulo": {
+        "astucia": "No Enseñes Dónde te Duele | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "NO ENSEÑES LA HERIDA"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 145"
+      },
+      "consultas_imagens": [
+        "corridor dark",
+        "mirror dark",
+        "gate night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 145",
+        "tipo": "aforismo",
+        "consulta_imagem": "corridor dark",
+        "titulo": {
+          "astucia": "No enseñes dónde te duele"
+        },
+        "aplicacao": "Lo que confiesas que te afecta se convierte en el botón que usarán contigo."
+      },
+      {
+        "ref": "Oráculo manual 126",
+        "tipo": "aforismo",
+        "consulta_imagem": "mirror dark",
+        "titulo": {
+          "astucia": "No es necio el que hace la necedad"
+        },
+        "aplicacao": "Todos fallamos. El error caro no es fallar: es dejar que se sepa mal contado."
+      }
+    ]
+  },
+  {
+    "slug": "guardar-un-as",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Oráculo manual 170"
+      ],
+      "titulo": {
+        "astucia": "Guarda Siempre una Reserva | Gracián, Oráculo Manual"
+      },
+      "thumb_titulo": {
+        "astucia": "GUARDA RESERVA"
+      },
+      "thumb_sub": {
+        "astucia": "Gracián, aforismo 170"
+      },
+      "consultas_imagens": [
+        "chess dark",
+        "crown dark",
+        "city night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Oráculo manual 170",
+        "tipo": "aforismo",
+        "consulta_imagem": "chess dark",
+        "titulo": {
+          "astucia": "Guarda siempre algo en reserva"
+        },
+        "aplicacao": "Dar todo de una vez te deja sin segunda jugada. Y siempre hace falta una segunda."
+      },
+      {
+        "ref": "Oráculo manual 94",
+        "tipo": "aforismo",
+        "consulta_imagem": "crown dark",
+        "titulo": {
+          "astucia": "Que no midan tu fondo"
+        },
+        "aplicacao": "Si saben exactamente hasta dónde llegas, ya saben cómo negociar contigo."
+      }
+    ]
+  }
+]

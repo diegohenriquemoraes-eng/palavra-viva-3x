@@ -19,7 +19,7 @@ FONTES_DIR = RAIZ / "marca" / "fontes"   # fontes tipográficas do render
 # estoica em domínio público) — ver `fontes/PROVENIENCIA.md`. Nasceu em inglês
 # (Stoic by Night); em 02/08/2026 virou ESPANHOL (Noche Estoica), decisão do
 # Diego — a chave segue "stoic" porque canal, token e fila são os mesmos.
-IDIOMAS = ("es", "en", "pt", "stoic")
+IDIOMAS = ("es", "en", "pt", "stoic", "poder", "astucia")
 # Os canais que o reabastecedor bíblico atende. O estoico tem poço próprio
 # (conteudo/temas_estoico.json) e NÃO entra aqui.
 IDIOMAS_BIBLIA = ("es", "en", "pt")
@@ -38,6 +38,8 @@ PLAYLISTS = {
         "en": "God's promises by theme 🙏",
         "pt": "Promessas de Deus por tema 🙏",
         "stoic": "Sabiduría estoica por tema 🏛",
+        "poder": "Reglas de poder ♚",
+        "astucia": "Aforismos para leer a la gente ❄",
     },
     "historia": {
         "es": "Historias de la Biblia narradas 📖",
@@ -82,6 +84,10 @@ CTA_VIDEO = {
     # Pedir SAVE, não inscrição: em 2026 o "guardar" é o sinal nº 1 do
     # algoritmo de Reels/Shorts (pesquisa de 02/08, ESTRATEGIA-STOIC-ES.md).
     "stoic": "Guárdalo para cuando lo necesites.",
+    # Canais de 03/08/2026. Mesmo raciocínio do estoico: pedir SAVE, não
+    # inscrição. Formulado na dor de cada canal, não genérico.
+    "poder": "Guárdalo antes de que lo necesites.",
+    "astucia": "Guárdalo para cuando te lo hagan.",
 }
 
 GANCHOS = {
@@ -151,6 +157,42 @@ GANCHOS = {
         "Esto es lo único que de verdad controlas.",
         "Un solo pensamiento para una mente inquieta.",
         "Cuando vuelva la preocupación, recuerda esto.",
+    ],
+    # ---- El Poder Crudo (03/08/2026) ----
+    # Registro: frio, sem promessa de resultado. O nicho medido responde a
+    # "regra dura dita sem rodeio", não a motivação. Nada de "isto vai mudar
+    # sua vida": prometer mais do que o texto entrega é o que o algoritmo lê
+    # como insatisfação (mesma regra do estoico).
+    "poder": [
+        "Para ti, al que siempre subestiman.",
+        "Maquiavelo escribió esto para un príncipe.",
+        "Léelo antes de tu próxima reunión.",
+        "Tiene quinientos años. Sigue funcionando.",
+        "Guárdalo para el día que lo necesites.",
+        "No sigas bajando: esto incomoda.",
+        "La regla que nadie dice en voz alta.",
+        "Esto se escribió para gobernar hombres.",
+        "El error que cuesta el poder.",
+        "Lo que hace un líder cuando todo se cae.",
+        "Un solo consejo, y sin adornos.",
+        "Cuando te toque decidir, recuerda esto.",
+    ],
+    # ---- Astucia Fría (03/08/2026) ----
+    # A dor do nicho medido é ser lido e usado pelos outros. O gancho aponta
+    # para essa dor, não para "seja mais inteligente".
+    "astucia": [
+        "Para ti, al que siempre terminan usando.",
+        "Esto se escribió en 1647 y aún te describe.",
+        "Léelo antes de tu próxima conversación.",
+        "Así te leen a ti, sin que lo notes.",
+        "Guárdalo para cuando te lo hagan.",
+        "No sigas bajando: esto va a doler.",
+        "La regla que separa al listo del usado.",
+        "Esto se escribió para sobrevivir en la corte.",
+        "El error que te deja sin defensa.",
+        "Lo que hace alguien astuto cuando lo atacan.",
+        "Un solo consejo, y es incómodo.",
+        "Cuando quieran manipularte, recuerda esto.",
     ],
 }
 
@@ -299,6 +341,83 @@ CONFIG = {
                  "estoicismo para dormir", "filosofía para dormir",
                  "meditaciones", "disciplina"],
         "rotulo_capitulos": "Pasajes en este video:",
+        "rotulo_repeticao": "repetición",
+        "rotulo_completo": "Video completo",
+    },
+    # ---- El Poder Crudo (@ElPoderCrudo) — criado em 03/08/2026 ----
+    # Nicho escolhido pelo teste de mercado de 26 salas em espanhol
+    # (ESTRATEGIA-2-CANALES-ES.md): "Maquiavelo / estrategia del poder" mede
+    # 9 furadores (canais <60k inscritos com +300k views). Voz es-CO-Gonzalo:
+    # diferente das duas já em uso na conta (es-MX-Jorge no Palabra Viva,
+    # es-US-Alonso na Noche Estoica) — mesma voz em canais da mesma conta é
+    # assinatura de fábrica.
+    "poder": {
+        "arquivo_fonte": [FONTES_TEXTO_DIR / "maquiavelo_principe_1854.json"],
+        "fonte_texto": ("Nicolás Maquiavelo, 'El Príncipe', traducción anónima "
+                        "de 1854 (Imprenta de D. José Trujillo) — "
+                        "dominio público"),
+        "voz": "es-CO-GonzaloNeural",
+        "biblioteca_local": False,
+        "rate_short": "-6%",
+        "rate_longo": "-15%",
+        "bcp47": "es",
+        "palavra_salmo": "Salmo",      # não usado: corpus sem Salmos
+        "cta": ("El Príncipe, leído y aplicado. Un pasaje nuevo cada día. "
+                "Suscríbete ♚"),
+        "ctas": [
+            "El Príncipe, leído y aplicado. Un pasaje nuevo cada día. "
+            "Suscríbete ♚",
+            "Maquiavelo en sus propias palabras, y qué significa hoy. "
+            "Suscríbete ♚",
+            "Reglas de poder que tienen quinientos años y siguen de pie. "
+            "Suscríbete ♚",
+            "Un pasaje, una lección, sin rodeos. Suscríbete ♚",
+        ],
+        "hashtags": "#Maquiavelo #Poder #Estrategia",
+        "descricao_curta": True,
+        "max_short_s": 20.0,
+        "tags": ["maquiavelo", "el príncipe", "el principe maquiavelo",
+                 "poder", "estrategia", "liderazgo", "psicología oscura",
+                 "frases de maquiavelo", "lecciones de maquiavelo",
+                 "mentalidad", "filosofía política", "sabiduría antigua",
+                 "estrategia de poder", "manipulación", "influencia"],
+        "rotulo_capitulos": "Pasajes en este video:",
+        "rotulo_repeticao": "repetición",
+        "rotulo_completo": "Video completo",
+    },
+    # ---- Astucia Fría (@AstuciaFria) — criado em 03/08/2026 ----
+    # Sala medida: "ler pessoas / não ser manipulado", 11 furadores, e a ÚNICA
+    # em que canal pequeno fura EM SHORT — que é o que o método publica nos 30
+    # primeiros dias. Corpus: Oráculo manual de Gracián, 300 aforismos escritos
+    # em espanhol (sem camada de tradução, sem dúvida jurídica).
+    "astucia": {
+        "arquivo_fonte": [FONTES_TEXTO_DIR / "gracian_oraculo.json"],
+        "fonte_texto": ("Baltasar Gracián, 'Oráculo manual y arte de "
+                        "prudencia' (1647) — dominio público"),
+        "voz": "es-AR-TomasNeural",
+        "biblioteca_local": False,
+        "rate_short": "-6%",
+        "rate_longo": "-15%",
+        "bcp47": "es",
+        "palavra_salmo": "Salmo",
+        "cta": ("Un aforismo al día para leer a la gente. Suscríbete ❄"),
+        "ctas": [
+            "Un aforismo al día para leer a la gente. Suscríbete ❄",
+            "Gracián escribió 300 reglas para no ser usado. Aquí va una "
+            "cada día. Suscríbete ❄",
+            "Astucia sin crueldad: leer, entender, decidir. Suscríbete ❄",
+            "Lo que la gente hace y no dice. Un aforismo al día. "
+            "Suscríbete ❄",
+        ],
+        "hashtags": "#PsicologíaOscura #Astucia #LeerPersonas",
+        "descricao_curta": True,
+        "max_short_s": 20.0,
+        "tags": ["psicología oscura", "astucia", "leer a las personas",
+                 "manipulación", "lenguaje corporal", "gracián",
+                 "oráculo manual", "arte de la prudencia", "sabiduría",
+                 "inteligencia social", "no ser manipulado", "narcisista",
+                 "mentalidad", "estrategia", "aforismos"],
+        "rotulo_capitulos": "Aforismos en este video:",
         "rotulo_repeticao": "repetición",
         "rotulo_completo": "Video completo",
     },

@@ -1,0 +1,101 @@
+{
+  "slug": "amado-o-temido",
+  "formato": "tema",
+  "data": "2026-08-03",
+  "criado_em": "2026-08-03T23:31:50+00:00",
+  "aprovado_em": "2026-08-03T23:31:50+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 17"
+    ],
+    "titulo": {
+      "poder": "¿Ser Amado o Temido? | Maquiavelo, El Príncipe XVII"
+    },
+    "thumb_titulo": {
+      "poder": "AMADO O TEMIDO"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XVII"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Budapest_castle_night_1.jpg/1920px-Budapest_castle_night_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Karelj",
+        "origem": "https://commons.wikimedia.org/wiki/File:Budapest_castle_night_1.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night%2C_1768_-_Google_Art_Project.jpg/1920px-Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night%2C_1768_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Paul Sandby",
+        "origem": "https://commons.wikimedia.org/wiki/File:Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night,_1768_-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golden_Gate_At_Night_%2855806538%29.jpeg/1920px-Golden_Gate_At_Night_%2855806538%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Hugh Nelson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_At_Night_(55806538).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Gate_Bridge_at_night_2013.jpg/1920px-Golden_Gate_Bridge_at_night_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Andrew Crookston",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_at_night_2013.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Brandenburg_Gate_at_Night_%288010249947%29.jpg/1920px-Brandenburg_Gate_at_Night_%288010249947%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel from Glasgow, United Kingdom",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_at_Night_(8010249947).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg/1920px-Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leonhard Lenz",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Golden_Gate_Bridge_At_Night_%2839354936%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Stanley Rost",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_At_Night_(39354936).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg/1920px-Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jarek Tuszyński",
+        "origem": "https://commons.wikimedia.org/wiki/File:Entrance_to_Dark_Corridor_at_Calico_Hills,_Red_Rock_Canyon,_Nevada_-_1.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 17:8",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "¿Ser amado o ser temido?"
+      },
+      "aplicacao": "Traducido a hoy: la simpatía se retira cuando conviene, el respeto no.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night%2C_1768_-_Google_Art_Project.jpg/1920px-Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night%2C_1768_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Paul Sandby",
+        "origem": "https://commons.wikimedia.org/wiki/File:Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night,_1768_-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "El Príncipe 17:1",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "La clemencia también tiene precio"
+      },
+      "aplicacao": "Ser blando con el que rompe las reglas es ser duro con todos los demás.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/INDIA_GATE_2025_night_view.jpg/1920px-INDIA_GATE_2025_night_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Biswas321",
+        "origem": "https://commons.wikimedia.org/wiki/File:INDIA_GATE_2025_night_view.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
