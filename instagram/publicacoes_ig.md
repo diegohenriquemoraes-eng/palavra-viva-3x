@@ -106,3 +106,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/17891980299394228/
 - Publicado em: 2026-08-03T00:53:43+00:00
+
+## 18012747389941302 — A RAIVA
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18012747389941302/
+- Publicado em: 2026-08-03T20:01:33+00:00

@@ -1,16 +1,22 @@
 {
-  "ponteiro": 1,
+  "ponteiro": 2,
   "dia": {
     "data": "2026-08-03",
-    "n": 1
+    "n": 2
   },
-  "ultimo": "2026-08-03T00:52:19+00:00",
+  "ultimo": "2026-08-03T20:00:02+00:00",
   "publicados": [
     {
       "tipo": "lei",
       "ref": "silencio-poder",
       "media_id": "17891980299394228",
       "em": "2026-08-03T00:52:19+00:00"
+    },
+    {
+      "tipo": "estoico",
+      "ref": "raiva-fraqueza",
+      "media_id": "18012747389941302",
+      "em": "2026-08-03T20:00:02+00:00"
     }
   ]
 }
