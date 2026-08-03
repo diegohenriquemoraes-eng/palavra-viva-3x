@@ -100,3 +100,9 @@
 - Conta: @palavravivadiaria.biblia
 - Link: https://www.instagram.com/reel/18324943000273291/
 - Publicado em: 2026-07-31T23:18:36+00:00
+
+## 17891980299394228 — O SILÊNCIO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/17891980299394228/
+- Publicado em: 2026-08-03T00:53:43+00:00
