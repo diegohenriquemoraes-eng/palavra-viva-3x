@@ -193,6 +193,58 @@ continua sendo `stoic`. Estudo do nicho e plano em `ESTRATEGIA-STOIC-ES.md`.
   ("moon clouds", "milky way", "bonfire night", "clay lamp"...). E o canal se
   chama "La Noche": foto diurna verde destoa da marca.
 
+## El Poder Crudo e Astucia Fría — 2 canais ES novos (03/08/2026)
+
+Decisão do Diego depois do teste de mercado de **26 salas em espanhol** medidas
+pela YouTube Data API (critério do manual: canais <60k inscritos com +300k
+views). Estudo completo em `ESTRATEGIA-2-CANALES-ES.md`.
+
+| chave | canal | channel_id | hora | voz | corpus |
+|---|---|---|---|---|---|
+| `poder` | El Poder Crudo `@ElPoderCrudo` | `UC9m5fvEqQZ_J34oQzczgFoQ` | 02 UTC | es-CO-Gonzalo | El Príncipe, trad. anônima 1854 |
+| `astucia` | Astucia Fría `@AstuciaFria` | `UCNyr1A0MN3rQT1Oa5LBjLUA` | 03 UTC | es-AR-Tomas | Oráculo manual de Gracián (1647) |
+
+Ambos rodam **Protocolo Fantasma puro** (1 Short/dia, sem longo, teto 20s,
+3 hashtags, descrição enxuta, 30 dias sem mexer). Régua ≈03/09: mediana ≥300
+views/Short mantém e escala.
+
+### A diferença que NÃO se copia dos canais bíblicos: camada autoral
+
+O Short destes dois é **gancho → trecho citado → aplicação própria**, narrada.
+Motivo não é estético. A política oficial de monetização do YouTube
+(`support.google.com/youtube/answer/1311392`, conferida na fonte em 03/08)
+lista como **inelegível**:
+
+> "Content that exclusively features readings of other materials you did not
+> originally create" · "Image slideshows, templated storylines, or scrolling
+> text with minimal or no narrative, commentary, or educational value"
+
+E o critério de aprovação é haver *"meaningful difference"* entre a fonte e o
+vídeo. **Domínio público resolve COPYRIGHT, não MONETIZAÇÃO — são dois
+trilhos.** A aplicação vive no poço (`aplicacao` por short) e é narrada por
+`fabrica.montar_short`; ela também desconta do orçamento de duração, senão o
+Short estoura os 20s.
+
+⚠ Isso **não** vale para os bíblicos: lá a diretriz nº 4 (sem interpretação) é
+decisão do Diego. Mas os 3 canais bíblicos estão hoje exatamente no formato
+que a política descreve como inelegível, e nenhum foi submetido ao YPP —
+assunto para depois de 01/09.
+
+### Armadilhas pagas nestes dois (03/08)
+
+- **Corpus fatiado por FRASE, não por 120 palavras.** `_cortar_ao_teto` corta
+  em versos inteiros; verso de 120 palavras estoura sozinho o teto de 20s.
+- **Consulta de imagem tem de ser NOTURNA.** A primeira rodada trouxe muro de
+  castelo japonês ao meio-dia, com grama verde e céu azul, num canal chamado
+  "El Poder Crudo" — o mesmo erro que a Noche Estoica já tinha pago. Pares
+  concretos com `night`/`dark`; falhar e cair no gradiente da casa é melhor
+  que acertar uma foto diurna.
+- **O workflow Reabastecer só commitava `fila/`** — as filas próprias
+  (`fila_stoic`, e agora `fila_poder`/`fila_astucia`) nunca subiam da nuvem.
+  A Noche Estoica ia secar sem aviso. Corrigido em 03/08.
+- **Studio de canal novo responde "Ops" por horas** — avatar e banner ficaram
+  gerados (`marca/gerar_marca_es2.py`) e commitados, mas não aplicados.
+
 ## Regime do "método de canal novo" no canal estoico (retomado em 02/08)
 
 O canal `stoic` roda **100% pelo método do PROTOCOLO FANTASMA** (PDF em
