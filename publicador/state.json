@@ -435,12 +435,19 @@
           "video_id": "BmUNwl-MgRU",
           "titulo": "Salmo 5 — De mañana oirás mi voz | Biblia en español",
           "em": "2026-08-03T12:51:24+00:00"
+        },
+        {
+          "pacote": "2026-08-03-salmos-manha",
+          "item": "short-3",
+          "video_id": "7EOMTXN2xbY",
+          "titulo": "Salmo 100 — Servid a Jehová con alegría | Biblia",
+          "em": "2026-08-03T20:56:41+00:00"
         }
       ],
-      "ultimo_short": "2026-08-03T12:51:24+00:00",
+      "ultimo_short": "2026-08-03T20:56:41+00:00",
       "shorts_dia": {
         "data": "2026-08-03",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-03"
     },
@@ -1050,12 +1057,19 @@
           "video_id": "2FLJugBlUI0",
           "titulo": "Salmo 5 — De manhã ouvirás a minha voz | Bíblia",
           "em": "2026-08-03T12:52:36+00:00"
+        },
+        {
+          "pacote": "2026-08-03-salmos-manha",
+          "item": "short-3",
+          "video_id": "INdYgmAyBSg",
+          "titulo": "Salmo 100 — Servi ao Senhor com alegria | Bíblia",
+          "em": "2026-08-03T20:57:59+00:00"
         }
       ],
-      "ultimo_short": "2026-08-03T12:52:36+00:00",
+      "ultimo_short": "2026-08-03T20:57:59+00:00",
       "shorts_dia": {
         "data": "2026-08-03",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-03"
     },

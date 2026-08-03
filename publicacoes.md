@@ -1222,3 +1222,19 @@
 - Item: short-2 — Salmo 5:1-3
 - Duração: 21.5s
 - Publicado em: 2026-08-03T12:52:36+00:00
+
+## [es] 7EOMTXN2xbY — Salmo 100 — Servid a Jehová con alegría | Biblia
+
+- URL: https://youtu.be/7EOMTXN2xbY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 100:1-3
+- Duração: 23.2s
+- Publicado em: 2026-08-03T20:56:41+00:00
+
+## [pt] INdYgmAyBSg — Salmo 100 — Servi ao Senhor com alegria | Bíblia
+
+- URL: https://youtu.be/INdYgmAyBSg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 100:1-3
+- Duração: 21.4s
+- Publicado em: 2026-08-03T20:57:59+00:00
