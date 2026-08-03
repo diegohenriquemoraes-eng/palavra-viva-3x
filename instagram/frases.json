@@ -1,0 +1,425 @@
+{
+  "comentario": "Banco de micro-roteiros ORIGINAIS do perfil Psicologia Fria (@psicologiafria.br). Nada aqui é citação: todo texto foi escrito para o canal (exigência de originalidade do Instagram 2026 + zero risco de direitos). Tipos: lei (comportamento/poder, sempre em chave DEFENSIVA — ler o jogo, não aplicar golpe), verdade (verdade fria sobre pessoas), estoico (estoicismo prático). O publicador gira pelo ponteiro do state.json.",
+  "itens": [
+    {
+      "slug": "silencio-poder",
+      "tipo": "lei",
+      "titulo": "O SILÊNCIO",
+      "gancho": "Quem fala demais entrega o jogo.",
+      "texto": "O silêncio incomoda porque não dá informação. Quem fala demais revela o que quer, o que teme e o que pretende fazer. Quem escuta mais do que fala decide com mais dados do que entrega. Na próxima conversa difícil, experimente: responda menos, observe mais. O desconforto do outro vai falar por ele."
+    },
+    {
+      "slug": "raiva-fraqueza",
+      "tipo": "estoico",
+      "titulo": "A RAIVA",
+      "gancho": "Sua raiva é o controle remoto que você entrega de graça.",
+      "texto": "Quando alguém te tira do sério, essa pessoa passa a decidir como você se sente. Os estoicos chamavam isso de escravidão voluntária. Ninguém te ofende sem a sua cooperação: a ofensa é a fala do outro mais a sua reação. Corte a segunda parte e metade dos seus problemas perde o efeito."
+    },
+    {
+      "slug": "aprovacao-preco",
+      "tipo": "verdade",
+      "titulo": "APROVAÇÃO",
+      "gancho": "Precisar de aprovação é a coleira mais discreta que existe.",
+      "texto": "Quem precisa ser aprovado por todos pode ser controlado por qualquer um. Basta ameaçar retirar o carinho, e a pessoa cede. É assim que adultos inteligentes aceitam o que não querem. A cura é fria: aceite que alguém sempre vai te desaprovar. A partir daí, ninguém tem mais essa alavanca sobre você."
+    },
+    {
+      "slug": "teste-favor",
+      "tipo": "lei",
+      "titulo": "O TESTE DO NÃO",
+      "gancho": "Você descobre quem alguém é na primeira vez que diz não.",
+      "texto": "Enquanto você diz sim, todo mundo é gentil. O caráter das pessoas aparece na primeira recusa. Quem respeita seu não, respeita você. Quem pune seu não com frieza, chantagem ou drama estava usando a sua obediência, não a sua amizade. Diga não cedo. É o teste mais barato que existe."
+    },
+    {
+      "slug": "controle-estoico",
+      "tipo": "estoico",
+      "titulo": "O QUE DEPENDE DE VOCÊ",
+      "gancho": "Você sofre pelo que nunca esteve nas suas mãos.",
+      "texto": "Divida tudo em duas listas: o que depende de você e o que não depende. Sua opinião, sua reação, seu esforço estão na primeira. A opinião dos outros, o passado e o resultado final estão na segunda. Toda energia gasta na segunda lista é desperdício com sofrimento embutido. Trabalhe só a primeira. É pouca coisa — e é tudo."
+    },
+    {
+      "slug": "vitima-cronica",
+      "tipo": "verdade",
+      "titulo": "A VÍTIMA ETERNA",
+      "gancho": "Cuidado com quem é sempre a vítima de todas as histórias.",
+      "texto": "Todo mundo tem fases difíceis. Mas repare em quem, em toda história que conta, nunca tem culpa de nada: o mundo sempre conspirou, todos sempre traíram. Estatisticamente, ninguém tem tanto azar. Quem não assume erro nenhum no passado está avisando como vai reescrever a história com você no futuro."
+    },
+    {
+      "slug": "elogio-excessivo",
+      "tipo": "lei",
+      "titulo": "ELOGIO DEMAIS",
+      "gancho": "Elogio em excesso, no início, é adiantamento de cobrança.",
+      "texto": "Existe uma diferença entre admiração e bombardeio. Quem te cobre de elogios antes de te conhecer não está enxergando você: está construindo uma dívida emocional. Mais tarde, quando vier o pedido difícil, recusar vai parecer ingratidão. Aceite elogios. Só não pague por eles."
+    },
+    {
+      "slug": "obstaculo-caminho",
+      "tipo": "estoico",
+      "titulo": "O OBSTÁCULO",
+      "gancho": "O problema que você está evitando é o exercício que faltava.",
+      "texto": "O estoicismo trata cada dificuldade como treino: a fila testa a paciência, a crítica testa o ego, a perda testa o desapego. Não é conformismo — é aproveitamento. Você não escolhe o obstáculo, mas escolhe o que ele fortalece. A pergunta fria não é por que isso comigo, e sim o que isso treina em mim."
+    },
+    {
+      "slug": "pressa-decisao",
+      "tipo": "lei",
+      "titulo": "A URGÊNCIA",
+      "gancho": "Quem te apressa numa decisão está escondendo alguma coisa.",
+      "texto": "Urgência artificial é a ferramenta favorita de quem não sobrevive à sua reflexão. É agora ou nunca, é só hoje. Pense friamente: por que a pressa beneficia o outro lado? Toda proposta honesta aguenta uma noite de sono. Quando alguém tenta remover o seu tempo de pensar, está confessando que pensar te faria dizer não."
+    },
+    {
+      "slug": "energia-drenada",
+      "tipo": "verdade",
+      "titulo": "GENTE QUE DRENA",
+      "gancho": "Repare em como você se sente DEPOIS de encontrar cada pessoa.",
+      "texto": "Tem gente que te deixa mais leve e gente que te deixa exausto, e a conversa foi a mesma. Seu corpo faz essa contabilidade antes da sua mente. Preste atenção no depois: quem sempre te devolve pior do que te encontrou está cobrando um preço que você ainda não nomeou. Distância também é higiene."
+    },
+    {
+      "slug": "memento-mori",
+      "tipo": "estoico",
+      "titulo": "MEMENTO MORI",
+      "gancho": "Você age como se tivesse tempo infinito. Não tem.",
+      "texto": "Os romanos guardavam um lembrete: lembre-se de que você morre. Não era mórbido, era um filtro. A discussão que você alimenta há semanas, a mágoa que você rega todo dia — coloque tudo diante do calendário finito. Quase nada sobrevive a essa pergunta: se me restam vinte anos, isso merece um deles?"
+    },
+    {
+      "slug": "espelho-provocacao",
+      "tipo": "lei",
+      "titulo": "A PROVOCAÇÃO",
+      "gancho": "Quem te provoca quer a sua reação, não a sua opinião.",
+      "texto": "Provocação é pesca: o anzol só funciona se você morder. A resposta alterada vira prova contra você, e quem provocou assiste de camarote. A jogada fria é responder devagar, curto e sem emoção — ou não responder. Nada frustra mais um provocador do que descobrir que a isca não pegou peixe."
+    },
+    {
+      "slug": "amor-proprio-mercado",
+      "tipo": "verdade",
+      "titulo": "O SEU PREÇO",
+      "gancho": "As pessoas te tratam pelo preço que você mesmo anuncia.",
+      "texto": "Quem aceita desculpa esfarrapada ensina que desculpa esfarrapada funciona. Quem responde às três da manhã ensina que não tem hora. O tratamento que você recebe é, em grande parte, o resultado do que você tolerou sorrindo. Suba o padrão sem discurso: apenas pare de aceitar. O mercado se ajusta rápido."
+    },
+    {
+      "slug": "opiniao-alheia",
+      "tipo": "estoico",
+      "titulo": "A OPINIÃO DOS OUTROS",
+      "gancho": "Você sofre mais na imaginação dos outros do que na sua vida.",
+      "texto": "Pense em quanto da sua energia vai para um tribunal que não existe: o que vão pensar, o que vão dizer. A verdade fria é que as pessoas pensam em você bem menos do que você imagina — estão ocupadas com o próprio tribunal. Viver para uma plateia distraída é o pior negócio da vida."
+    },
+    {
+      "slug": "generosidade-estrategica",
+      "tipo": "lei",
+      "titulo": "FAVOR COM JUROS",
+      "gancho": "Existe generosidade que é investimento — e você é o ativo.",
+      "texto": "Alguns favores chegam antes de qualquer pedido e não foram solicitados. Tempo depois, vem a cobrança: depois de tudo o que eu fiz por você. Aprenda a distinção fria: presente de verdade não tem fatura. Quando a ajuda vier com contabilidade, devolva o saldo cedo e saia da dívida que você nunca contratou."
+    },
+    {
+      "slug": "consistencia-palavra",
+      "tipo": "verdade",
+      "titulo": "PALAVRA X PADRÃO",
+      "gancho": "Ignore o que a pessoa promete. Anote o que ela repete.",
+      "texto": "Palavras custam zero, e quem quer algo de você paga esse preço com gosto. O padrão de comportamento é o único documento que não mente: como a pessoa trata quem não pode retribuir, o que faz quando ninguém aplaude, quantas vezes o combinado virou desculpa. Acredite em padrões. Promessas são marketing."
+    },
+    {
+      "slug": "banho-frio-conforto",
+      "tipo": "estoico",
+      "titulo": "DESCONFORTO VOLUNTÁRIO",
+      "gancho": "Quem nunca treina o desconforto vira refém do conforto.",
+      "texto": "Os estoicos praticavam a pobreza de propósito: dias simples, frio, fome leve — para descobrir que aquilo que temiam era suportável. O medo encolhe quando você visita o pior cenário por escolha. Treine pequeno: um dia sem o supérfluo. Quem já visitou o fundo caminha sem pânico na superfície."
+    },
+    {
+      "slug": "triangulacao",
+      "tipo": "lei",
+      "titulo": "O TRIÂNGULO",
+      "gancho": "Fulano falou de você — quem entrega o recado também joga.",
+      "texto": "Quando alguém te traz a crítica de um terceiro, olhe para o mensageiro. Colocar duas pessoas uma contra a outra, por baixo dos panos, é a forma mais antiga de controlar as duas. A resposta fria: vou falar direto com ele, obrigado. O triângulo desmonta na hora — e o arquiteto fica exposto."
+    },
+    {
+      "slug": "solidao-escolhida",
+      "tipo": "verdade",
+      "titulo": "FICAR SÓ",
+      "gancho": "Quem não aguenta ficar sozinho aceita qualquer companhia.",
+      "texto": "O medo da solidão é a porta de entrada dos piores relacionamentos. Quem entra em pânico no silêncio da própria casa negocia qualquer coisa para ter barulho. Aprender a ficar bem sozinho não é isolamento: é a única posição de onde se escolhe companhia em vez de aceitar qualquer resgate."
+    },
+    {
+      "slug": "amor-fati",
+      "tipo": "estoico",
+      "titulo": "AMOR FATI",
+      "gancho": "Aceitar não é desistir. É parar de brigar com o que já aconteceu.",
+      "texto": "O que aconteceu, aconteceu. Você pode gastar anos processando o passado no tribunal da cabeça, e o veredito não muda um fato sequer. Os estoicos propunham algo mais frio e mais útil: usar o que aconteceu como matéria-prima. A pergunta não é como desfazer, é o que eu construo com isso agora."
+    },
+    {
+      "slug": "gaslighting-registro",
+      "tipo": "lei",
+      "titulo": "VOCÊ NÃO É LOUCO",
+      "gancho": "Se você vive duvidando da própria memória perto de alguém, repare.",
+      "texto": "Existe um padrão em que a pessoa nega o que disse, refaz a história e te chama de exagerado — até você desconfiar de si mesmo. A defesa é fria e simples: registro. Anote datas, guarde mensagens, confie no que está escrito. Quem distorce o passado perde a força diante de quem documenta o presente."
+    },
+    {
+      "slug": "inveja-disfarce",
+      "tipo": "verdade",
+      "titulo": "INVEJA EDUCADA",
+      "gancho": "Inveja raramente xinga. Normalmente ela aconselha.",
+      "texto": "A inveja moderna é educada: aparece como conselho prudente. Será que é pra você? Cuidado, muita gente se deu mal. Repare quem só aparece para reduzir seus planos e nunca para somar. A pergunta fria: essa pessoa construiu o que eu quero construir? Se não, o conselho dela é autobiografia, não mapa."
+    },
+    {
+      "slug": "manha-vencida",
+      "tipo": "estoico",
+      "titulo": "A PRIMEIRA HORA",
+      "gancho": "A batalha do dia inteiro se decide na primeira hora dele.",
+      "texto": "Marco Aurélio escrevia para si mesmo de madrugada, antes que Roma acordasse para consumi-lo. A primeira hora é a única em que o dia ainda é seu: depois, ele pertence às urgências dos outros. Acorde e execute uma coisa importante antes de abrir qualquer tela. Um dia que começa em defesa termina em derrota."
+    },
+    {
+      "slug": "chantagem-emocional",
+      "tipo": "lei",
+      "titulo": "SE VOCÊ ME AMASSE",
+      "gancho": "Toda frase que começa com 'se você me amasse' é uma fatura.",
+      "texto": "O amor virou moeda de pressão: se você gostasse de mim, faria isso. Friamente, a frase confessa o método — transformar afeto em obrigação. Quem te ama de verdade pede, aceita o não e continua. Quem cobra amor em atos específicos está usando o sentimento como contrato que só um lado assinou."
+    },
+    {
+      "slug": "reputacao-tempo",
+      "tipo": "verdade",
+      "titulo": "MÁSCARAS CANSAM",
+      "gancho": "Ninguém sustenta um personagem por mais de seis meses.",
+      "texto": "Todo mundo consegue parecer incrível por algumas semanas. Personagem cansa, e a pessoa real sempre escapa nos detalhes: como trata o garçom, como reage a um imprevisto, o que fala dos outros na ausência deles. Não decida nada importante sobre alguém no primeiro trimestre. O tempo é o único detector de mentiras gratuito."
+    },
+    {
+      "slug": "premeditatio",
+      "tipo": "estoico",
+      "titulo": "ENSAIE O PIOR",
+      "gancho": "Imaginar o pior cenário não atrai o pior. Prepara você.",
+      "texto": "Os estoicos ensaiavam desgraças de manhã: e se der errado, e se atrasarem, e se cancelarem. Não era pessimismo — era vacina. Quem já visitou o problema na imaginação não entra em pânico quando ele bate na porta: já sabe o primeiro passo. O otimista despreparado quebra. O realista treinado responde."
+    },
+    {
+      "slug": "amizade-conveniencia",
+      "tipo": "verdade",
+      "titulo": "AMIGO DE COLHEITA",
+      "gancho": "Tem gente que só aparece na sua colheita, nunca na sua semeadura.",
+      "texto": "Faça o inventário frio: quem estava por perto quando você não tinha nada a oferecer? Quem some na dificuldade e reaparece no sucesso não é amigo, é investidor de resultado alheio. Não precisa brigar com ninguém. Só recalibre o acesso: quem não plantou nada não precisa de chave do celeiro."
+    },
+    {
+      "slug": "critica-fonte",
+      "tipo": "estoico",
+      "titulo": "O PESO DA CRÍTICA",
+      "gancho": "Antes de sofrer pela crítica, pese quem criticou.",
+      "texto": "Você não aceitaria conselho financeiro de quem está quebrado. Por que aceita veredito sobre a sua vida de quem não construiu a própria? A regra fria dos estoicos: a crítica vale o peso de quem a emite. Ouça quem já percorreu o caminho. O resto é ruído de arquibancada — e arquibancada não joga."
+    },
+    {
+      "slug": "porta-giratoria",
+      "tipo": "lei",
+      "titulo": "IDA E VOLTA",
+      "gancho": "Quem sai e volta toda semana não está em dúvida. Está no controle.",
+      "texto": "O ciclo de terminar e voltar parece indecisão, mas repare no resultado: a cada volta, você aceita um pouco menos e agradece um pouco mais. A instabilidade não é acidente — é ferramenta. Quem te quer, fica. Quem administra a sua insegurança com idas e vindas está treinando você para negociar de joelhos."
+    },
+    {
+      "slug": "tempo-resposta",
+      "tipo": "verdade",
+      "titulo": "PRIORIDADE",
+      "gancho": "Ninguém está ocupado demais por três dias para quem importa.",
+      "texto": "As pessoas encontram tempo para o que é prioridade — sempre encontraram. O sumiço prolongado seguido de desculpa vaga não é agenda, é ranking. E você já sabe a sua posição nele. A resposta fria não é cobrar: é reposicionar a pessoa no seu próprio ranking com a mesma naturalidade."
+    },
+    {
+      "slug": "ego-inflado",
+      "tipo": "estoico",
+      "titulo": "O EGO",
+      "gancho": "O ego é o único inimigo que dorme na sua cama.",
+      "texto": "Todo golpe que você toma dói duas vezes: uma no fato, outra no ego. O fato costuma ser pequeno; o ego é que transforma um comentário em guerra. Os estoicos tratavam a vaidade como febre — algo a baixar, não a alimentar. Pergunte diante de cada irritação: o que foi ferido aqui, meu interesse ou minha imagem?"
+    },
+    {
+      "slug": "isolamento-progressivo",
+      "tipo": "lei",
+      "titulo": "O CERCO",
+      "gancho": "Primeiro reclamam dos seus amigos. Depois, da sua família. Repare.",
+      "texto": "Ninguém saudável exige que você encolha o seu mundo. O padrão começa sutil: implicância com um amigo, má vontade com a sua família, ciúme do seu tempo. Um dia você olha e só resta a pessoa. Isolamento não é amor intenso — é gestão de plateia. Quem te quer inteiro soma gente à sua vida, não subtrai."
+    },
+    {
+      "slug": "dinheiro-caráter",
+      "tipo": "verdade",
+      "titulo": "DINHEIRO REVELA",
+      "gancho": "O dinheiro não muda ninguém. Ele revela quem já estava lá.",
+      "texto": "Dê poder a alguém e você conhece o caráter que a falta de poder escondia. O mesquinho com pouco será mesquinho com muito, só que com plateia. Por isso a observação fria: veja como a pessoa divide o pouco antes de sonhar em dividir o muito com ela. Quem não reparte o troco não reparte a fortuna."
+    },
+    {
+      "slug": "presente-unico",
+      "tipo": "estoico",
+      "titulo": "AGORA",
+      "gancho": "Você só perde aquilo que possui — e você só possui o agora.",
+      "texto": "A ansiedade mora no futuro e o remorso mora no passado, e nenhum dos dois endereços existe. Tudo o que você tem, na prática, é a próxima hora. A disciplina fria é trazer a mente de volta toda vez que ela fugir do único lugar onde a vida acontece. Quem domina o agora não tem do que se arrepender depois."
+    },
+    {
+      "slug": "comparacao-veneno",
+      "tipo": "verdade",
+      "titulo": "A VITRINE",
+      "gancho": "Você compara os seus bastidores com a vitrine dos outros.",
+      "texto": "O jogo é viciado: você conhece o seu caos interno e só vê o recorte editado da vida alheia. Comparar bastidor com vitrine sempre termina em derrota — a sua. A saída fria é trocar o adversário: compare-se com quem você era há um ano. É a única competição em que os dois lados jogam com dados reais."
+    },
+    {
+      "slug": "promessa-vaga",
+      "tipo": "lei",
+      "titulo": "PROMESSA SEM DATA",
+      "gancho": "Promessa sem data é uma forma educada de dizer nunca.",
+      "texto": "Vamos marcar, depois a gente vê, mês que vem eu resolvo. A vagueza não é esquecimento: é uma técnica para manter você disponível sem custo nenhum. A resposta fria é encurtar: quando, exatamente? Quem quer, cria data. Quem enrola, cria névoa. E névoa repetida é resposta — só que covarde."
+    },
+    {
+      "slug": "disciplina-motivacao",
+      "tipo": "estoico",
+      "titulo": "MOTIVAÇÃO",
+      "gancho": "Motivação é clima. Disciplina é estrutura. Não construa no clima.",
+      "texto": "Esperar vontade para agir é entregar a vida à loteria do humor. Os dias em que você não quer são exatamente os que separam quem constrói de quem planeja. A regra fria: reduza a decisão a zero — mesma hora, mesmo lugar, todo dia. O corpo obedece ao calendário muito antes de a mente concordar."
+    },
+    {
+      "slug": "publico-privado",
+      "tipo": "lei",
+      "titulo": "SANTO DE VITRINE",
+      "gancho": "Desconfie de quem é encantador em público e frio a portas fechadas.",
+      "texto": "A ordem certa é a inversa: educado fora, melhor ainda dentro. Quando o charme é todo para a plateia e a rispidez fica para quem convive, o encanto não é personalidade — é fachada de loja. A vida real acontece a portas fechadas. É lá que você descobre com quem assinou contrato."
+    },
+    {
+      "slug": "perdao-proprio",
+      "tipo": "estoico",
+      "titulo": "O ERRO DE ONTEM",
+      "gancho": "Você não é o seu pior dia. A menos que more nele.",
+      "texto": "Reveja o erro uma vez para extrair a lição. Na segunda revisão, você já não está aprendendo: está se punindo. O estoico trata o próprio passado como trata o clima de ontem — registro, não residência. A pergunta fria: essa culpa está me tornando melhor ou apenas mais lento? Lição extraída, caso encerrado."
+    },
+    {
+      "slug": "atencao-moeda",
+      "tipo": "verdade",
+      "titulo": "SUA ATENÇÃO",
+      "gancho": "Todo mundo quer a sua atenção. Ninguém quer o seu bem.",
+      "texto": "A sua atenção virou a matéria-prima mais disputada do planeta — cada tela, cada notificação, cada polêmica foi desenhada para colhê-la. E o que você olha por horas molda o que você sente e teme. A defesa fria: trate a atenção como dinheiro. Antes de rolar, pergunte o que está comprando com ela."
+    },
+    {
+      "slug": "culpa-transferida",
+      "tipo": "lei",
+      "titulo": "OLHA O QUE VOCÊ ME FEZ FAZER",
+      "gancho": "Quem erra e te culpa pelo próprio erro está te treinando.",
+      "texto": "Explodiu, e a culpa é sua que provocou. Falhou, e a culpa é sua que pressionou. Repare no mecanismo: a responsabilidade sempre atravessa a mesa e senta no seu colo. Aceite essa transferência algumas vezes e você passará a pedir desculpas pelos erros dos outros. A linha fria: eu respondo pelo que EU faço."
+    },
+    {
+      "slug": "vinganca-gelo",
+      "tipo": "estoico",
+      "titulo": "A MELHOR VINGANÇA",
+      "gancho": "A melhor resposta a quem te feriu é uma vida que não precisa dele.",
+      "texto": "Marco Aurélio anotou a fórmula: a melhor vingança é não se tornar igual a quem te feriu. Ódio é aluguel pago a quem já te desocupou. A resposta fria não é o troco — é a irrelevância: você seguir tão bem que a ofensa vire nota de rodapé. Ninguém suporta descobrir que não deixou cicatriz."
+    },
+    {
+      "slug": "meias-verdades",
+      "tipo": "lei",
+      "titulo": "MEIA VERDADE",
+      "gancho": "A mentira mais eficiente é feita de noventa por cento de verdade.",
+      "texto": "Quem quer te enganar não inventa tudo — edita. Conta o que aconteceu, mas corta a parte em que ele participou. A história fecha, os fatos conferem, e a conclusão é falsa. Por isso a regra fria: quando a versão de alguém sempre o absolve por completo, falta um pedaço. Procure o que foi cortado da edição."
+    },
+    {
+      "slug": "rotina-imperio",
+      "tipo": "estoico",
+      "titulo": "O BÁSICO BEM FEITO",
+      "gancho": "Sua vida daqui a cinco anos está sendo decidida hoje, no básico.",
+      "texto": "Dormir direito, treinar o corpo, guardar dinheiro, terminar o que começa. Nada disso impressiona em um dia — tudo isso decide uma década. As pessoas caçam o truque secreto porque o básico é chato, e é justamente por ser chato que quase ninguém sustenta. Faça o simples por tempo suficiente e vire exceção."
+    },
+    {
+      "slug": "acesso-niveis",
+      "tipo": "verdade",
+      "titulo": "NÍVEIS DE ACESSO",
+      "gancho": "Nem todo mundo merece a versão completa de você.",
+      "texto": "Sua vida íntima não é rede pública. Existe o círculo de quem provou lealdade, o dos que ainda estão em teste e o da plateia distante — e cada um deve receber uma dose diferente de informação. Quem conta tudo para todos entrega munição de graça. Discrição não é frieza: é gestão de acesso."
+    },
+    {
+      "slug": "medo-projetado",
+      "tipo": "verdade",
+      "titulo": "MEDO EMPRESTADO",
+      "gancho": "Metade dos seus medos nem é sua. Você herdou sem conferir.",
+      "texto": "Muita gente desiste de mudar de vida citando riscos que nunca analisou — apenas repetiu o medo da família, do colega, do noticiário. Medo emprestado tem juros: você paga com anos de vida pequena. O exercício frio é perguntar diante de cada receio: quem me passou isso? E essa pessoa vive como eu quero viver?"
+    },
+    {
+      "slug": "escassez-fabricada",
+      "tipo": "lei",
+      "titulo": "FRIO E QUENTE",
+      "gancho": "Atenção que vem e some em ciclos não é distração. É método.",
+      "texto": "Hoje intensidade máxima, amanhã silêncio total. O ciclo parece aleatório, mas funciona como caça-níquel: a recompensa imprevisível vicia mais do que a constante. Você fica esperando a próxima fase boa em vez de avaliar o conjunto. A régua fria: some as semanas boas e as ruins. Padrão intermitente é resposta, não mistério."
+    },
+    {
+      "slug": "sorte-preparo",
+      "tipo": "estoico",
+      "titulo": "A SORTE",
+      "gancho": "A sorte existe. Ela só não trabalha para quem está despreparado.",
+      "texto": "A oportunidade bate em muitas portas — mas só entra onde encontra estrutura pronta. O contato certo aparece para quem já tem competência para ser indicado. O negócio surge para quem tem caixa para aproveitar. Prepare-se no escuro, sem plateia. A sorte é pontual com quem está pronto e invisível para quem não está."
+    },
+    {
+      "slug": "conversa-terceiros",
+      "tipo": "verdade",
+      "titulo": "QUEM FALA DOS OUTROS",
+      "gancho": "Quem fofoca COM você, fofoca DE você. Sem exceção.",
+      "texto": "A pessoa que te entrega os segredos dos outros não está te dando intimidade — está te mostrando o processo de produção. Você é plateia hoje e pauta amanhã, na mesma mesa, com a mesma naturalidade. A postura fria: ouça sem alimentar e não deposite nada. Cofre furado não guarda o seu dinheiro."
+    },
+    {
+      "slug": "autossuficiencia",
+      "tipo": "estoico",
+      "titulo": "PRECISAR DE POUCO",
+      "gancho": "Liberdade não é ter muito. É precisar de pouco.",
+      "texto": "Cada necessidade que você cria é uma coleira que você mesmo veste: o carro da moda, a validação diária, o luxo que virou obrigação. Quem precisa de muito negocia tudo — tempo, valores, dignidade — para manter o pacote. Os estoicos mediam riqueza ao contrário: rico é quem já tem o suficiente. Reduza a lista e a liberdade sobra."
+    },
+    {
+      "slug": "conflito-seletivo",
+      "tipo": "lei",
+      "titulo": "ESCOLHA AS GUERRAS",
+      "gancho": "Vencer toda discussão é o jeito mais caro de perder a vida.",
+      "texto": "Cada guerra que você aceita cobra ingresso em energia e dias de ruminação — mesmo quando você vence. A pergunta fria antes de entrar: o que eu ganho se ganhar? Na maioria das discussões, o prêmio é nada. Deixe o outro com a última palavra e fique com a tarde livre. É a troca mais lucrativa que existe."
+    },
+    {
+      "slug": "mudanca-anuncio",
+      "tipo": "verdade",
+      "titulo": "MUDANÇA SILENCIOSA",
+      "gancho": "Quem está mudando de verdade não tem tempo de anunciar.",
+      "texto": "O anúncio de mudança dá uma recompensa imediata: aplausos antecipados pelo esforço que ainda nem começou. E é aí que mora a armadilha — o cérebro aceita o aplauso como se fosse o resultado. Quem muda de verdade some, executa e deixa que percebam. Resultado dispensa porta-voz."
+    },
+    {
+      "slug": "limite-sem-raiva",
+      "tipo": "estoico",
+      "titulo": "LIMITE SEM DRAMA",
+      "gancho": "Limite gritado vira briga. Limite frio vira lei.",
+      "texto": "Quem grita um limite transforma a regra em disputa emocional — e disputa emocional se contesta. Quem comunica com calma e cumpre com constância transforma o limite em fato da natureza: não se negocia com a maré. Diga uma vez, sem raiva. Cumpra todas as vezes, sem exceção. As pessoas se adaptam ao que é sólido."
+    },
+    {
+      "slug": "curiosidade-alheia",
+      "tipo": "lei",
+      "titulo": "PERGUNTA DEMAIS",
+      "gancho": "Curiosidade excessiva sobre a sua vida raramente é carinho.",
+      "texto": "Quanto você ganha, com quem anda, o que pretende fazer — repare em quem pergunta muito e conta pouco. Informação é a moeda invisível das relações, e tem gente que só acumula. O equilíbrio frio: revele na mesma medida em que o outro revela. Conversa saudável é troca. Interrogatório com sorriso é coleta."
+    },
+    {
+      "slug": "tedio-necessario",
+      "tipo": "estoico",
+      "titulo": "O TÉDIO",
+      "gancho": "Quem não suporta o tédio não consegue pensar. Só reagir.",
+      "texto": "Toda ideia importante da sua vida vai aparecer num momento vazio — no banho, na caminhada, no silêncio que você anda evitando com a tela. O tédio é a sala de espera do pensamento próprio. Quem o preenche no primeiro segundo vive de pensamento alheio. Fique entediado de propósito, um pouco, todo dia."
+    },
+    {
+      "slug": "padrao-ex",
+      "tipo": "verdade",
+      "titulo": "A LISTA DE CULPADOS",
+      "gancho": "Pergunte sobre os ex. Não pelos nomes — pelo padrão do relato.",
+      "texto": "Se todos os antigos sócios eram desonestos, todos os ex eram loucos e todos os antigos amigos eram invejosos, o elemento comum da lista está na sua frente. Uma história ruim é azar; cinco com o mesmo enredo é autoria. O passado narrado pela pessoa é o trailer de como ela vai narrar você."
+    },
+    {
+      "slug": "corpo-mente",
+      "tipo": "estoico",
+      "titulo": "O CORPO VOTA",
+      "gancho": "Sua mente negocia. Seu corpo executa. Cuide do executor.",
+      "texto": "Noite mal dormida vira pavio curto, sedentarismo vira ansiedade, açúcar em excesso vira nevoeiro mental — e você acha que o problema é psicológico. Os estoicos tratavam o corpo como ferramenta da razão: sem a ferramenta afiada, nenhuma filosofia funciona. Antes de reformar a mente, arrume o sono, o treino e o prato."
+    },
+    {
+      "slug": "vazamento-planos",
+      "tipo": "lei",
+      "titulo": "PLANOS EM SILÊNCIO",
+      "gancho": "Conte seus planos e você contrata sabotadores de graça.",
+      "texto": "Plano anunciado atrai três pragas: o palpite de quem nunca fez, o medo emprestado de quem não faria e a torcida silenciosa contra, de quem se sente ameaçado. Nenhuma delas aparece quando você anuncia o resultado pronto. Trabalhe em silêncio. O mundo respeita fato consumado e devora intenção."
+    },
+    {
+      "slug": "pertencimento-preco",
+      "tipo": "verdade",
+      "titulo": "O PREÇO DA TURMA",
+      "gancho": "Toda turma cobra mensalidade. Algumas cobram a sua identidade.",
+      "texto": "Pertencer é uma necessidade humana — e por isso é a alavanca mais usada contra você. Repare no que o grupo exige para te manter: concordância total, os mesmos vícios, as mesmas reclamações. Se o ingresso é deixar de ser quem você é, o clube é caro demais. Melhor andar só do que pagar identidade de mensalidade."
+    },
+    {
+      "slug": "final-de-ciclo",
+      "tipo": "estoico",
+      "titulo": "SAIR A TEMPO",
+      "gancho": "Saber sair é uma habilidade. Insistir também tem custo.",
+      "texto": "O emprego que já deu o que tinha, a sociedade que virou peso, o convívio que só drena. A mente insiste por causa do que já foi investido — mas o investimento passado não volta, fique você ou saia. A conta fria olha só para a frente: o que os próximos dois anos rendem aqui contra o que rendem fora. Decida pelo futuro."
+    }
+  ]
+}

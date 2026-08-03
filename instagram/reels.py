@@ -1,13 +1,13 @@
-"""Monta um Reel vertical (1080x1920) de um versículo em português.
+"""Monta um Reel vertical (1080x1920) do perfil Psicologia Fria.
 
-Reaproveita o núcleo do pipeline do YouTube: mesma Bíblia (Bíblia Livre,
-domínio público), mesma voz TTS (pt-BR-Antonio), mesma legenda ASS queimada,
-mesmos fundos curados da casa e o MESMO render de Short (que já sai em 9:16).
-O que muda é a LEGENDA DO POST (caption), pensada para o Instagram — ver
-`instagram/legenda.py`.
+Reaproveita o núcleo do pipeline do YouTube: mesma voz TTS pt-BR, mesma
+legenda ASS queimada, mesmos fundos da biblioteca da casa e o MESMO render de
+Short (que já sai em 9:16). O CONTEÚDO agora é 100% original do canal
+(instagram/frases.json): micro-roteiros de psicologia/estoicismo escritos por
+nós — exigência de originalidade do Instagram (2026) e zero risco de direitos.
 
-Regra editorial idêntica à do canal (inegociável): só texto bíblico em
-domínio público, sem pregação, imagem CC0/PD ou gradiente da casa, sem música.
+O que muda vs. a era bíblica: não há mais Bíblia nem tipos versículo/história/
+oração — todo item é uma "frase" {slug, tipo, titulo, gancho, texto}.
 """
 
 from __future__ import annotations
@@ -19,39 +19,41 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(RAIZ))
 
-from nucleo import biblia, idiomas, imagens, legendas, render, tts  # noqa: E402
+from nucleo import idiomas, imagens, legendas, render, tts  # noqa: E402
 
 from instagram import capa  # noqa: E402
 
-CAUDA = 0.35            # silêncio no fim quebra a emenda do loop (era 1,2s)
-PAUSA = 0.7             # respiro entre gancho→versículo e entre repetições
-CURTO_PALAVRAS = 16    # versículo com menos palavras é narrado 2x (loop do feed)
+CAUDA = 0.35            # silêncio no fim quebra a emenda do loop
+PAUSA = 0.7             # respiro entre gancho→texto
+CURTO_PALAVRAS = 16     # texto com menos palavras é narrado 2x (loop do feed)
 IDIOMA = "pt"
 
-# GANCHO falado+escrito no 1º segundo. Em 2026, 50% decidem em 1,7s e o gancho
-# dos 3 primeiros segundos é a maior alavanca de alcance (Reel com hold >60%
-# alcança 5-10x mais). O versículo entrava direto — agora entra um gancho antes.
-# A lista nasceu aqui e em 27/07/2026 mudou para `nucleo/idiomas.GANCHOS`, que
-# é a mesma coisa nos 3 idiomas e agora também alimenta o Short do YouTube.
-# Ordem preservada: o gancho é escolhido por seed do item.
-GANCHOS_VIDEO = idiomas.GANCHOS[IDIOMA]
+
+def _seed(chave: str, extra: str) -> int:
+    return zlib.crc32(f"{chave}-{extra}".encode()) % 999_983
 
 
-def _seed(ref: str, extra: str) -> int:
-    return zlib.crc32(f"{ref}-{extra}".encode()) % 999_983
-
-
-def _gancho(texto: str) -> str:
-    """1ª frase do versículo, para a capa. Corta na pontuação forte, senão na
+def _frase_capa(texto: str) -> str:
+    """1ª frase do texto, para a capa. Corta na pontuação forte, senão na
     vírgula, senão em ~70 caracteres — sempre em limite de palavra."""
     for sep in (". ", "; ", "! ", "? "):
         i = texto.find(sep)
         if 0 < i <= 80:
-            return texto[:i]
+            return texto[:i] + "."
     i = texto.find(", ")
     if 40 <= i <= 80:
         return texto[:i]
     return texto[:70].rsplit(" ", 1)[0] if len(texto) > 70 else texto
+
+
+def _esfriar_cores(ass: Path) -> None:
+    """Troca o dourado da era bíblica (estilo do núcleo, compartilhado com o
+    YouTube) pelo azul-gelo da identidade Psicologia Fria — só neste pipeline.
+    Cores ASS são &HAABBGGRR (BGR)."""
+    t = ass.read_text(encoding="utf-8-sig")
+    t = t.replace("&H007AC9E8", "&H00EBC38C")   # dourado -> azul-gelo
+    t = t.replace("&H00C8C0B0", "&H00BEAA96")   # cinza-quente -> cinza-frio
+    ass.write_text(t, encoding="utf-8-sig")
 
 
 def _baixar_imagem(info: dict | None, destino: Path) -> Path | None:
@@ -68,38 +70,23 @@ def _baixar_imagem(info: dict | None, destino: Path) -> Path | None:
 
 
 def montar_reel(item: dict, marca: str, outdir: Path) -> dict:
-    """Renderiza o Reel de um `item` do banco. Três tipos:
+    """Renderiza o Reel de um item de instagram/frases.json:
 
-    - versiculo: {tipo, ref}
-    - historia:  {tipo, ref, gancho, capa_titulo, ref_disp}  (texto bíblico +
-                 gancho narrativo nosso)
-    - oracao:    {tipo, slug, texto, gancho, capa_titulo}     (texto original nosso)
+        {slug, tipo, titulo, gancho, texto}
 
-    Todos abrem com o GANCHO (1º segundo, falado+escrito) antes do conteúdo — é
-    o que segura os 3 primeiros segundos, onde metade decide continuar ou rolar.
+    Abre com o GANCHO (1º segundo, falado+escrito) antes do texto — é o que
+    segura os 3 primeiros segundos, onde metade decide continuar ou rolar.
     Devolve {arquivo, capa, ref_disp, texto, fonte, duracao_s}.
     """
     cfg = idiomas.CONFIG[IDIOMA]
     outdir.mkdir(parents=True, exist_ok=True)
-    tipo = item.get("tipo", "versiculo")
-    chave = item.get("ref") or item.get("slug") or item.get("capa_titulo") or "x"
+    chave = item.get("slug") or item.get("titulo") or "x"
 
-    if tipo == "oracao":
-        texto = item["texto"]
-        gancho = item.get("gancho", "Faça esta oração. 🙏")
-        capa_titulo = item.get("capa_titulo", "ORAÇÃO")
-        ref_disp = capa_titulo.capitalize()
-        fonte = ""                        # oração é texto NOSSO, não Bíblia
-    else:  # versiculo ou historia (texto bíblico em domínio público)
-        versos = biblia.carregar_versos(IDIOMA, item["ref"])
-        texto = " ".join(t for _, t in versos)
-        gancho = item.get("gancho") or \
-            GANCHOS_VIDEO[_seed(chave, "hookv") % len(GANCHOS_VIDEO)]
-        capa_titulo = item.get("capa_titulo") or biblia.cabecalho(IDIOMA, item["ref"])
-        ref_disp = item.get("ref_disp") or biblia.ref_exibicao(IDIOMA, item["ref"])
-        fonte = "Bíblia Livre"
+    texto = item["texto"]
+    gancho = item["gancho"]
+    capa_titulo = item.get("titulo", "PSICOLOGIA FRIA").upper()
 
-    # GANCHO + conteúdo. Texto curto entra 2x (loop do feed / meditação).
+    # GANCHO + texto. Texto curto entra 2x (loop do feed).
     partes = [(0, gancho), (1, texto)]
     if len(texto.split()) < CURTO_PALAVRAS:
         partes.append((2, texto))
@@ -114,8 +101,9 @@ def montar_reel(item: dict, marca: str, outdir: Path) -> dict:
         legendas.alinhar_display(seg["texto"], seg["palavras"])
         blocos += legendas.agrupar(seg["palavras"])
 
-    # topo do vídeo = capa_titulo (SALMO 23 / DAVI E GOLIAS / ORAÇÃO DA NOITE)
+    # topo do vídeo = titulo do item (O SILÊNCIO / MEMENTO MORI / ...)
     legendas.ass_short(outdir / "legenda.ass", blocos, capa_titulo, marca, dur)
+    _esfriar_cores(outdir / "legenda.ass")
 
     da_casa = imagens.escolher_da_biblioteca(1, _seed(chave, "fundo"))
     info_img = da_casa[0] if da_casa else None
@@ -126,14 +114,14 @@ def montar_reel(item: dict, marca: str, outdir: Path) -> dict:
                                 _seed(chave, "reel"), saida="reel.mp4")
 
     # Capa DESENHADA (cover_url): a capa da grade/feed, à parte do vídeo.
-    capa_img = capa.gerar_capa(capa_titulo, _gancho(texto),
+    capa_img = capa.gerar_capa(capa_titulo, gancho,
                                outdir / "capa.jpg", _seed(chave, "capa"))
 
     return {
         "arquivo": video,
         "capa": capa_img,
-        "ref_disp": ref_disp,
+        "ref_disp": capa_titulo,
         "texto": texto,
-        "fonte": fonte,
+        "fonte": "",
         "duracao_s": round(dur, 1),
     }

@@ -52,7 +52,7 @@ jobs:
       - name: Conferir arquivos essenciais (Bíblia e fontes)
         run: |
           faltou=0
-          for f in biblia/blivre.json instagram/versiculos.json instagram/config.json \
+          for f in instagram/frases.json instagram/config.json \
                    marca/fontes/BebasNeue-Regular.ttf marca/fontes/Montserrat-Bold.ttf; do
             if [ ! -s "$f" ]; then echo "FALTANDO: $f"; faltou=1; fi
           done

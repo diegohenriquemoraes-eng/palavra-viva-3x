@@ -1,11 +1,12 @@
 {
-  "conta": "palavravivadiaria.biblia",
-  "inicio": "2026-07-24",
+  "conta": "psicologiafria.br",
+  "inicio": "2026-08-02",
   "graph_version": "v21.0",
   "release_tag": "reels-media",
 
   "agenda_rampa": [
-    { "ate_dia": 10,    "por_dia": 3 },
+    { "ate_dia": 7,     "por_dia": 2 },
+    { "ate_dia": 14,    "por_dia": 3 },
     { "ate_dia": 99999, "por_dia": 4 }
   ],
 
@@ -13,7 +14,7 @@
   "gap_min_piso": 120,
   "cap_diario_absoluto": 6,
 
-  "marca_handle": "@palavravivadiaria.biblia",
-  "ponte_bio": "🔗 Bíblias e presentes de fé no link da bio.",
-  "assinatura": "📖 Palavra Viva Diária — um versículo todo dia."
+  "marca_handle": "@psicologiafria.br",
+  "ponte_bio": "🧠 Siga @psicologiafria.br — 1 verdade fria por dia.",
+  "assinatura": "🧊 Psicologia Fria — o lado da mente que ninguém te mostra."
 }

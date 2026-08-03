@@ -1,91 +1,92 @@
-"""Caption do Reel — no estilo de um canal 'dark' (sem rosto) de versículos.
+"""Caption do Reel — perfil dark de psicologia/estoicismo (Psicologia Fria).
 
-Princípios (o que faz um post de nicho bíblico performar no Instagram):
+Princípios (o que faz o post performar no Instagram de 2026):
 
 1. GANCHO na 1ª linha. O feed corta a legenda em ~125 caracteres; a primeira
-   linha tem que parar o dedo sozinha. Nada de "Bom dia!" — é emoção/promessa.
-2. O VERSÍCULO curto, entre aspas, com a referência. É o conteúdo.
-3. MICRO-CTA de engajamento. Comentário, salvamento e compartilhamento são os
-   sinais que o algoritmo de 2026 mais premia (mais que like). Pedimos UM só
-   por post, girando entre eles — pedir tudo de uma vez lê como spam.
-4. PONTE PARA A BIO. Link em legenda do Instagram NÃO clica: a oferta de
-   afiliado mora na bio, e a legenda só aponta para lá.
-5. HASHTAGS ao final: um punhado de tags grandes + médias + de nicho. Muitas
-   tags idênticas em todo post é rastro de bot; giramos o conjunto pelo índice.
+   linha tem que parar o dedo sozinha.
+2. A FRASE-NÚCLEO do vídeo, curta. É o conteúdo que se salva.
+3. MICRO-CTA de engajamento. Salvamento e compartilhamento são os sinais que
+   o algoritmo mais premia — pedimos UM por post, girando (pedir tudo de uma
+   vez lê como spam).
+4. PONTE PARA O PERFIL. Link em legenda não clica; o convite é seguir.
+5. HASHTAGS ao final: grandes + médias + de nicho, girando por post (o mesmo
+   bloco em todo post é rastro de bot).
 
-Tudo é determinístico pelo índice do post (girar sem aleatoriedade real, que
-não sobrevive a resume no runner) — mesmo post, mesma caption.
+Tudo determinístico pelo índice do post (mesmo post, mesma caption).
 """
 
 from __future__ import annotations
 
 # Ganchos: primeira linha, o que segura o scroll. Giram por post.
 GANCHOS = [
-    "Leia isso antes de dormir hoje. 🙏",
-    "Deus quer te falar algo agora. 👇",
-    "Se este vídeo apareceu pra você, não foi por acaso.",
-    "Guarde esta promessa no coração. ❤️",
-    "A Palavra que você precisava ouvir hoje.",
-    "Respire fundo e leia devagar. 🕊️",
-    "Deixe Deus acalmar o seu coração agora.",
-    "Uma promessa pra você que está cansado. 🙌",
-    "Não role o feed sem ler isto.",
-    "Comece o dia com esta Palavra. ☀️",
-    "Quando a ansiedade bater, lembre disto.",
-    "Fé é confiar mesmo sem ver. Creia. 🙏",
+    "Leia até o fim. Vai doer um pouco. 🧊",
+    "Ninguém te ensinou isso — de propósito.",
+    "Salve antes que você precise e não lembre onde viu.",
+    "Isso explica muita coisa da sua vida.",
+    "Frio, mas verdadeiro. 🥶",
+    "Você já viveu isso e não tinha nome.",
+    "Quanto antes você aceitar, menos vai sofrer.",
+    "A maioria descobre tarde demais.",
+    "Releia quantas vezes precisar.",
+    "Guarde isso para o próximo teste da vida.",
+    "Não é pessimismo. É lucidez.",
+    "Depois que você vê, não consegue desver.",
 ]
 
 # Micro-CTA de engajamento — UM por post, girando.
 CTAS = [
-    'Comente "AMÉM" se você crê nesta Palavra. 🙏',
-    "Salve este versículo para lembrar depois. 📌",
-    "Marque alguém que precisa ler isto hoje. 💬",
-    "Compartilhe para abençoar mais alguém. ↗️",
-    'Escreva "AMÉM" e receba esta promessa. ✨',
-    "Salve e volte aqui quando precisar de paz. 🕊️",
-    "Comente 🙏 se você recebe esta Palavra.",
-    "Marque um irmão na fé aqui embaixo. 👇",
+    "Salve para reler no dia em que precisar. 📌",
+    "Envie para alguém que precisa ouvir isso. ↗️",
+    'Comente "FRIO" se você já passou por isso. 🧊',
+    "Marque quem vive isso e ainda não percebeu. 💬",
+    "Salve. Você vai precisar antes do que imagina.",
+    'Comente "🥶" se concorda.',
+    "Compartilhe com quem está aprendendo do jeito difícil.",
+    "Siga para a próxima verdade fria. 🧠",
 ]
 
-# Conjuntos de hashtags: grandes + médias + nicho. Giram por post para não
-# repetir o mesmo bloco em todos (rastro de automação). Sem tags banidas.
+# Conjuntos de hashtags: grandes + médias + nicho. Giram por post.
 HASHTAGS = [
-    "#Deus #fé #versículododia #palavradedeus #Jesus #bíblia #oração #salmos "
-    "#gratidão #devocional #cristão #evangelho",
-    "#versículododia #Deusnocontrole #fé #Jesus #palavradedeus #esperança "
-    "#biblia #oração #paz #cristãos #reelscristãos #amémm",
-    "#Deus #Jesus #fé #promessasdedeus #versículo #palavradedeus #salmos "
-    "#confiaremDeus #devocionaldiário #cristão #bíbliasagrada #graça",
-    "#fé #Deuséfiel #versículododia #oração #Jesuscristo #palavradedeus "
-    "#bíblia #esperança #gratidão #reelsdefé #cristãos #amém",
-    "#Deus #versículododia #fé #palavradedeus #salmos #Jesus #devocional "
-    "#oração #paz #bíblia #confiaremDeus #jovenscristãos",
+    "#psicologia #estoicismo #mentalidade #desenvolvimentopessoal "
+    "#autoconhecimento #disciplina #sabedoria #reflexao #mindset "
+    "#inteligenciaemocional #frases #crescimentopessoal",
+    "#estoicismo #psicologiafria #mentalidadeforte #foco #autocontrole "
+    "#filosofia #marcoaurelio #disciplina #frasesdodia #maturidade "
+    "#comportamento #vidareal",
+    "#psicologia #comportamentohumano #inteligenciaemocional #limites "
+    "#autoestima #mentalidade #sabedoriadevida #estoico #reflexaododia "
+    "#disciplinamental #frasesfortes #evolucaopessoal",
+    "#mindset #estoicismo #psicologia #autoconhecimento #resiliencia "
+    "#mentefria #filosofiadevida #disciplina #frasesmotivacionais "
+    "#comportamento #maturidadeemocional #forcamental",
+    "#desenvolvimentopessoal #psicologia #estoicismo #autocontrole "
+    "#mentalidade #sabedoria #frasesparastatus #reflexoes #foco "
+    "#inteligencia #vidaadulta #verdades",
 ]
 
 
-def montar_caption(ref_disp: str, texto: str, ponte_bio: str,
-                   assinatura: str, idx: int, fonte: str = "Bíblia Livre") -> str:
+def montar_caption(titulo: str, texto: str, ponte_bio: str,
+                   assinatura: str, idx: int, fonte: str = "") -> str:
     """Monta a caption completa do Reel nº `idx` (idx cresce a cada post).
 
-    fonte: rótulo da fonte ('Bíblia Livre' para versículo/história; vazio para
-    oração, que é texto original nosso e não leva '(Bíblia Livre)')."""
+    titulo: o título do item (vira a linha-âncora depois do gancho).
+    fonte: mantido por compatibilidade de assinatura; não é usado (todo texto
+    é original do canal)."""
     gancho = GANCHOS[idx % len(GANCHOS)]
     cta = CTAS[idx % len(CTAS)]
     tags = HASHTAGS[idx % len(HASHTAGS)]
 
-    # Texto enxuto entre aspas. Reels muito longos na legenda cansam; se
-    # passar de ~220 caracteres, corta no limite de frase.
-    verso = texto.strip()
-    if len(verso) > 220:
-        corte = verso.rfind(". ", 0, 220)
-        verso = (verso[:corte + 1] if corte > 80 else verso[:220].rstrip() + "…")
+    # Frase-núcleo enxuta. Se passar de ~220 caracteres, corta no limite de
+    # frase — o resto está no vídeo.
+    nucleo = texto.strip()
+    if len(nucleo) > 220:
+        corte = nucleo.rfind(". ", 0, 220)
+        nucleo = (nucleo[:corte + 1] if corte > 80 else nucleo[:220].rstrip() + "…")
 
-    credito = f"— {ref_disp} ({fonte})" if fonte else f"— {ref_disp}"
     partes = [
         gancho,
         "",
-        f'"{verso}"',
-        credito,
+        f"{titulo.upper()} — {nucleo}",
         "",
         cta,
         "",
