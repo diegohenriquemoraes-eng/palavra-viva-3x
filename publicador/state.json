@@ -421,12 +421,19 @@
           "video_id": "YKCDFobMSCw",
           "titulo": "Salmos para Empezar el Día — Salmo 5, 100 y 118 | Oración de la Mañana",
           "em": "2026-08-03T02:12:57+00:00"
+        },
+        {
+          "pacote": "2026-08-03-salmos-manha",
+          "item": "short-1",
+          "video_id": "FSiTIWToY3U",
+          "titulo": "Salmo 118:24 — Este es el día que hizo Jehová | Biblia",
+          "em": "2026-08-03T05:34:17+00:00"
         }
       ],
-      "ultimo_short": "2026-08-02T20:07:48+00:00",
+      "ultimo_short": "2026-08-03T05:34:17+00:00",
       "shorts_dia": {
-        "data": "2026-08-02",
-        "n": 3
+        "data": "2026-08-03",
+        "n": 1
       },
       "longo_data": "2026-08-03"
     },
@@ -1015,12 +1022,19 @@
           "video_id": "wi_Ef_z_UoU",
           "titulo": "Daniel 3 — O quarto é semelhante ao Filho de Deus",
           "em": "2026-08-02T23:52:14+00:00"
+        },
+        {
+          "pacote": "2026-08-03-salmos-manha",
+          "item": "short-1",
+          "video_id": "z6dMWGRdDkc",
+          "titulo": "Salmo 118:24 — Este é o dia que o Senhor fez | Bíblia",
+          "em": "2026-08-03T05:35:39+00:00"
         }
       ],
-      "ultimo_short": "2026-08-02T23:52:14+00:00",
+      "ultimo_short": "2026-08-03T05:35:39+00:00",
       "shorts_dia": {
-        "data": "2026-08-02",
-        "n": 3
+        "data": "2026-08-03",
+        "n": 1
       },
       "longo_data": "2026-08-02"
     },

@@ -1182,3 +1182,19 @@
 - Item: short-1 — Meditaciones 5:6
 - Duração: 15.6s
 - Publicado em: 2026-08-03T02:13:38+00:00
+
+## [es] FSiTIWToY3U — Salmo 118:24 — Este es el día que hizo Jehová | Biblia
+
+- URL: https://youtu.be/FSiTIWToY3U
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 118:24
+- Duração: 15.2s
+- Publicado em: 2026-08-03T05:34:17+00:00
+
+## [pt] z6dMWGRdDkc — Salmo 118:24 — Este é o dia que o Senhor fez | Bíblia
+
+- URL: https://youtu.be/z6dMWGRdDkc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 118:24
+- Duração: 14.8s
+- Publicado em: 2026-08-03T05:35:39+00:00
