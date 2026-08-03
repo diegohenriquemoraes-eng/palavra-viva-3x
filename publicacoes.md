@@ -1166,3 +1166,19 @@
 - Item: short-3 — Daniel 3:24
 - Duração: 18.8s
 - Publicado em: 2026-08-02T23:52:14+00:00
+
+## [es] YKCDFobMSCw — Salmos para Empezar el Día — Salmo 5, 100 y 118 | Oración de la Mañana
+
+- URL: https://youtu.be/YKCDFobMSCw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 5:1-12, Salmo 90:12-17, Salmo 118:14-29, Salmo 143:8-12, Salmo 100, Salmo 92:1-8
+- Duração: 2304.3s
+- Publicado em: 2026-08-03T02:12:57+00:00
+
+## [stoic] XmfxiVPX3u8 — El truco estoico para calmar la mente
+
+- URL: https://youtu.be/XmfxiVPX3u8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 5:6
+- Duração: 15.6s
+- Publicado em: 2026-08-03T02:13:38+00:00

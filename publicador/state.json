@@ -414,6 +414,13 @@
           "video_id": "xPCvOcTDni0",
           "titulo": "Daniel 3 — El cuarto es semejante a hijo de los dioses",
           "em": "2026-08-02T20:07:48+00:00"
+        },
+        {
+          "pacote": "2026-08-03-salmos-manha",
+          "item": "longo",
+          "video_id": "YKCDFobMSCw",
+          "titulo": "Salmos para Empezar el Día — Salmo 5, 100 y 118 | Oración de la Mañana",
+          "em": "2026-08-03T02:12:57+00:00"
         }
       ],
       "ultimo_short": "2026-08-02T20:07:48+00:00",
@@ -421,7 +428,7 @@
         "data": "2026-08-02",
         "n": 3
       },
-      "longo_data": "2026-08-02"
+      "longo_data": "2026-08-03"
     },
     "en": {
       "publicados": [
@@ -1060,11 +1067,18 @@
           "video_id": "450wnCzT1Cw",
           "titulo": "Not Death Is Evil, But This Is",
           "em": "2026-07-30T23:56:05+00:00"
+        },
+        {
+          "pacote": "2026-08-03-mente-inquieta",
+          "item": "short-1",
+          "video_id": "XmfxiVPX3u8",
+          "titulo": "El truco estoico para calmar la mente",
+          "em": "2026-08-03T02:13:38+00:00"
         }
       ],
-      "ultimo_short": "2026-07-30T23:56:05+00:00",
+      "ultimo_short": "2026-08-03T02:13:38+00:00",
       "shorts_dia": {
-        "data": "2026-07-30",
+        "data": "2026-08-03",
         "n": 1
       },
       "longo_data": ""
