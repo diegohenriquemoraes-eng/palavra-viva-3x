@@ -2,8 +2,8 @@
   "slug": "salmos-dormir-6",
   "formato": "dormir",
   "data": "2026-08-06",
-  "criado_em": "2026-08-04T21:51:59+00:00",
-  "aprovado_em": "2026-08-04T21:51:59+00:00",
+  "criado_em": "2026-08-04T21:59:58+00:00",
+  "aprovado_em": "2026-08-04T21:59:58+00:00",
   "longo": {
     "refs": [
       "Psalms 46",
@@ -67,7 +67,8 @@
         "en": "Psalm 62 — My Soul Waits in Silence for God | Bible"
       },
       "aplicacao": {
-        "es": "El salmo insiste en una sola palabra: 'solamente'."
+        "es": "El salmo insiste en una sola palabra: 'solamente'.",
+        "pt": "O salmo insiste numa palavra só: 'somente'."
       },
       "imagem": null
     },
@@ -80,7 +81,8 @@
         "en": "Psalm 63 — I Remember You Upon My Bed | Bible"
       },
       "aplicacao": {
-        "es": "Menciona las vigilias, los turnos en que se dividía la noche."
+        "es": "Menciona las vigilias, los turnos en que se dividía la noche.",
+        "pt": "Menciona as vigílias, os turnos em que a noite era dividida."
       },
       "imagem": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Moon_Lake_Dam_1930s_-_Social_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -98,7 +100,8 @@
         "en": "Psalm 61 — Lead Me to the Rock Higher Than I | Bible"
       },
       "aplicacao": {
-        "es": "'La roca más alta que yo' es una imagen de refugio inalcanzable por uno mismo."
+        "es": "'La roca más alta que yo' es una imagen de refugio inalcanzable por uno mismo.",
+        "pt": "'A rocha mais alta do que eu' é imagem de refúgio inalcançável por conta própria."
       },
       "imagem": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg/1920px-Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
