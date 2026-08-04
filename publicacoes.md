@@ -1254,3 +1254,35 @@
 - Item: short-1 — Enquiridión 2:1
 - Duração: 18.9s
 - Publicado em: 2026-08-04T02:17:27+00:00
+
+## [es] Z8kKJMnS3DE — Salmo 4:8 — En paz me acostaré y dormiré | Biblia
+
+- URL: https://youtu.be/Z8kKJMnS3DE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 4:8
+- Duração: 19.4s
+- Publicado em: 2026-08-04T04:57:03+00:00
+
+## [pt] CqEXKlvpuOA — Salmos para Dormir — Descanso e Paz | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/CqEXKlvpuOA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 23, Salmo 4, Salmo 3, Salmo 5, Salmo 16, Salmo 62, Salmo 116, Salmo 127
+- Duração: 3881.5s
+- Publicado em: 2026-08-04T05:27:55+00:00
+
+## [poder] zE7CHGK1-c4 — Fuerza sin astucia es un blanco fácil
+
+- URL: https://youtu.be/zE7CHGK1-c4
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 18:5
+- Duração: 19.8s
+- Publicado em: 2026-08-04T05:29:00+00:00
+
+## [astucia] mbX-AgLjOQ4 — Quien juega a cartas vistas, pierde
+
+- URL: https://youtu.be/mbX-AgLjOQ4
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 98:1
+- Duração: 20.2s
+- Publicado em: 2026-08-04T05:29:55+00:00

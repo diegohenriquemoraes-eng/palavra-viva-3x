@@ -449,12 +449,19 @@
           "video_id": "Ua6T3uKNSQ0",
           "titulo": "Salmos para Dormir — Descanso y Paz | Biblia Hablada con Voz Calmada",
           "em": "2026-08-04T02:15:23+00:00"
+        },
+        {
+          "pacote": "2026-08-04-salmos-dormir-4",
+          "item": "short-1",
+          "video_id": "Z8kKJMnS3DE",
+          "titulo": "Salmo 4:8 — En paz me acostaré y dormiré | Biblia",
+          "em": "2026-08-04T04:57:03+00:00"
         }
       ],
-      "ultimo_short": "2026-08-03T20:56:41+00:00",
+      "ultimo_short": "2026-08-04T04:57:03+00:00",
       "shorts_dia": {
-        "data": "2026-08-03",
-        "n": 3
+        "data": "2026-08-04",
+        "n": 1
       },
       "longo_data": "2026-08-04"
     },
@@ -1071,6 +1078,13 @@
           "video_id": "INdYgmAyBSg",
           "titulo": "Salmo 100 — Servi ao Senhor com alegria | Bíblia",
           "em": "2026-08-03T20:57:59+00:00"
+        },
+        {
+          "pacote": "2026-08-04-salmos-dormir-4",
+          "item": "longo",
+          "video_id": "CqEXKlvpuOA",
+          "titulo": "Salmos para Dormir — Descanso e Paz | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-04T05:27:55+00:00"
         }
       ],
       "ultimo_short": "2026-08-03T20:57:59+00:00",
@@ -1078,7 +1092,7 @@
         "data": "2026-08-03",
         "n": 3
       },
-      "longo_data": "2026-08-03"
+      "longo_data": "2026-08-04"
     },
     "stoic": {
       "publicados": [
@@ -1140,6 +1154,40 @@
         }
       ],
       "ultimo_short": "2026-08-04T02:17:27+00:00",
+      "shorts_dia": {
+        "data": "2026-08-04",
+        "n": 1
+      },
+      "longo_data": ""
+    },
+    "poder": {
+      "publicados": [
+        {
+          "pacote": "2026-08-04-el-leon-y-la-zorra",
+          "item": "short-1",
+          "video_id": "zE7CHGK1-c4",
+          "titulo": "Fuerza sin astucia es un blanco fácil",
+          "em": "2026-08-04T05:29:00+00:00"
+        }
+      ],
+      "ultimo_short": "2026-08-04T05:29:00+00:00",
+      "shorts_dia": {
+        "data": "2026-08-04",
+        "n": 1
+      },
+      "longo_data": ""
+    },
+    "astucia": {
+      "publicados": [
+        {
+          "pacote": "2026-08-04-cifrar-la-voluntad",
+          "item": "short-1",
+          "video_id": "mbX-AgLjOQ4",
+          "titulo": "Quien juega a cartas vistas, pierde",
+          "em": "2026-08-04T05:29:55+00:00"
+        }
+      ],
+      "ultimo_short": "2026-08-04T05:29:55+00:00",
       "shorts_dia": {
         "data": "2026-08-04",
         "n": 1
