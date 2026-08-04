@@ -442,6 +442,13 @@
           "video_id": "7EOMTXN2xbY",
           "titulo": "Salmo 100 — Servid a Jehová con alegría | Biblia",
           "em": "2026-08-03T20:56:41+00:00"
+        },
+        {
+          "pacote": "2026-08-04-salmos-dormir-4",
+          "item": "longo",
+          "video_id": "Ua6T3uKNSQ0",
+          "titulo": "Salmos para Dormir — Descanso y Paz | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-04T02:15:23+00:00"
         }
       ],
       "ultimo_short": "2026-08-03T20:56:41+00:00",
@@ -449,7 +456,7 @@
         "data": "2026-08-03",
         "n": 3
       },
-      "longo_data": "2026-08-03"
+      "longo_data": "2026-08-04"
     },
     "en": {
       "publicados": [
@@ -1123,11 +1130,18 @@
           "video_id": "XmfxiVPX3u8",
           "titulo": "El truco estoico para calmar la mente",
           "em": "2026-08-03T02:13:38+00:00"
+        },
+        {
+          "pacote": "2026-08-04-lo-que-controlas",
+          "item": "short-1",
+          "video_id": "_YkmTKgBJhU",
+          "titulo": "Esto es lo único que de verdad es libre",
+          "em": "2026-08-04T02:17:27+00:00"
         }
       ],
-      "ultimo_short": "2026-08-03T02:13:38+00:00",
+      "ultimo_short": "2026-08-04T02:17:27+00:00",
       "shorts_dia": {
-        "data": "2026-08-03",
+        "data": "2026-08-04",
         "n": 1
       },
       "longo_data": ""

@@ -1238,3 +1238,19 @@
 - Item: short-3 — Salmo 100:1-3
 - Duração: 21.4s
 - Publicado em: 2026-08-03T20:57:59+00:00
+
+## [es] Ua6T3uKNSQ0 — Salmos para Dormir — Descanso y Paz | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/Ua6T3uKNSQ0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 23, Salmo 4, Salmo 3, Salmo 5, Salmo 16, Salmo 62, Salmo 116, Salmo 127
+- Duração: 4486.2s
+- Publicado em: 2026-08-04T02:15:23+00:00
+
+## [stoic] _YkmTKgBJhU — Esto es lo único que de verdad es libre
+
+- URL: https://youtu.be/_YkmTKgBJhU
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 2:1
+- Duração: 18.9s
+- Publicado em: 2026-08-04T02:17:27+00:00
