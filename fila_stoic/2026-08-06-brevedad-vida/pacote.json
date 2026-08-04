@@ -2,8 +2,8 @@
   "slug": "brevedad-vida",
   "formato": "dormir",
   "data": "2026-08-06",
-  "criado_em": "2026-08-04T03:40:04+00:00",
-  "aprovado_em": "2026-08-04T03:40:04+00:00",
+  "criado_em": "2026-08-04T21:39:20+00:00",
+  "aprovado_em": "2026-08-04T21:39:20+00:00",
   "longo": {
     "refs": [
       "Meditaciones 4:23-26",
@@ -52,21 +52,27 @@
         "licenca": "Public domain"
       },
       {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Candle_Burning.JPG/1920px-Candle_Burning.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Nanda93",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_Burning.JPG",
+        "licenca": "Public domain"
+      },
+      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burning_candle_creation.jpg/1920px-Burning_candle_creation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "autor": "Klare Mat",
         "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_creation.jpg",
         "licenca": "CC BY 4.0"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Burning_candle_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "autor": "Paolo Neo",
-        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_(1).jpg",
-        "licenca": "Public domain"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Burning_candle_marco.jpg/1920px-Burning_candle_marco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Donald Olszewski",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_marco.jpg",
+        "licenca": "CC BY 4.0"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Candle_Burning.JPG/1920px-Candle_Burning.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "autor": "Nanda93",
-        "origem": "https://commons.wikimedia.org/wiki/File:Candle_Burning.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burning_candle.jpg/1920px-Burning_candle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Photos public domain.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle.jpg",
         "licenca": "Public domain"
       },
       {
@@ -74,12 +80,6 @@
         "autor": "USER-62114",
         "origem": "https://commons.wikimedia.org/wiki/File:Burning-candle.jpg",
         "licenca": "CC0"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burning_candle.jpg/1920px-Burning_candle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "autor": "Photos public domain.com",
-        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle.jpg",
-        "licenca": "Public domain"
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Moon_and_clouds%2C_2021-11-18%2C_02.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -114,7 +114,7 @@
       "titulo": {
         "stoic": "El tiempo que te queda, según el emperador"
       },
-      "aplicacao": "",
+      "aplicacao": "No es motivación: es aritmética. Lo que aplazas, lo aplazas contra un plazo real.",
       "imagem": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Maid_with_burning_candle_%281839%29%2C_PA06579.jpg/1920px-Maid_with_burning_candle_%281839%29%2C_PA06579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "autor": "Pierre Louis Dubourcq",
@@ -128,7 +128,7 @@
       "titulo": {
         "stoic": "El tiempo es un río que te arrastra"
       },
-      "aplicacao": "",
+      "aplicacao": "El tiempo no te espera para que decidas. Ya te está llevando mientras dudas.",
       "imagem": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "autor": "oliwok",
@@ -144,9 +144,9 @@
       },
       "aplicacao": "",
       "imagem": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Desert_Flag_Night_Flights_%288384163%29.jpg/1920px-Desert_Flag_Night_Flights_%288384163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
-        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384163).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AKVIS_HC-N%2C_PDN_Background_Crop%2C_Framecrop_-_Desert_uniform%2C_night%2C_3-4_front%2C_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_%2816_February_1978%29_004042a_image_primary.png/1920px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "A. J. M.",
+        "origem": "https://commons.wikimedia.org/wiki/File:AKVIS_HC-N,_PDN_Background_Crop,_Framecrop_-_Desert_uniform,_night,_3-4_front,_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_(16_February_1978)_004042a_image_primary.png",
         "licenca": "Public domain"
       }
     },
