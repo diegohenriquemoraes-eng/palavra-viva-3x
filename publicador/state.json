@@ -463,12 +463,19 @@
           "video_id": "lfepHtXpu6Y",
           "titulo": "Salmo 3:5 — Yo me acosté y dormí, y desperté | Biblia",
           "em": "2026-08-04T12:59:29+00:00"
+        },
+        {
+          "pacote": "2026-08-04-salmos-dormir-4",
+          "item": "short-3",
+          "video_id": "Wg3nqw3jM6A",
+          "titulo": "Salmo 62 — En Dios solamente reposa mi alma | Biblia",
+          "em": "2026-08-04T21:03:21+00:00"
         }
       ],
-      "ultimo_short": "2026-08-04T12:59:29+00:00",
+      "ultimo_short": "2026-08-04T21:03:21+00:00",
       "shorts_dia": {
         "data": "2026-08-04",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-04"
     },

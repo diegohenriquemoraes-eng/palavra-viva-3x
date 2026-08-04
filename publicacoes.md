@@ -1310,3 +1310,11 @@
 - Item: short-2 — Salmo 3:5
 - Duração: 15.6s
 - Publicado em: 2026-08-04T15:19:18+00:00
+
+## [es] Wg3nqw3jM6A — Salmo 62 — En Dios solamente reposa mi alma | Biblia
+
+- URL: https://youtu.be/Wg3nqw3jM6A
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 62:1-2
+- Duração: 14.8s
+- Publicado em: 2026-08-04T21:03:21+00:00
