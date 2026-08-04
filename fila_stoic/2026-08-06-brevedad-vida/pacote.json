@@ -1,0 +1,168 @@
+{
+  "slug": "brevedad-vida",
+  "formato": "dormir",
+  "data": "2026-08-06",
+  "criado_em": "2026-08-04T03:40:04+00:00",
+  "aprovado_em": "2026-08-04T03:40:04+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 4:23-26",
+      "Meditaciones 4:48-52",
+      "Meditaciones 4:59-61",
+      "Meditaciones 4:74-75"
+    ],
+    "titulo": {
+      "stoic": "1 Hora Sobre la Brevedad de la Vida | Marco Aurelio para Dormir"
+    },
+    "thumb_titulo": {
+      "stoic": "LA VIDA ES BREVE"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones IV"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg/1920px-5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Brainandforce",
+        "origem": "https://commons.wikimedia.org/wiki/File:5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ESO_-_Milky_Way.jpg/1920px-ESO_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ S. Brunier",
+        "origem": "https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/1920px-Milky_Way_IR_Spitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burning_candle_creation.jpg/1920px-Burning_candle_creation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Klare Mat",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_creation.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Burning_candle_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Paolo Neo",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_(1).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Candle_Burning.JPG/1920px-Candle_Burning.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Nanda93",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_Burning.JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burning-candle.jpg/1920px-Burning-candle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "USER-62114",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning-candle.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burning_candle.jpg/1920px-Burning_candle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Photos public domain.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Moon_and_clouds%2C_2021-11-18%2C_02.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Moon_and_clouds_over_Brofjorden_2.jpg/1920px-Moon_and_clouds_over_Brofjorden_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Moon_and_clouds_over_Brofjorden_7.jpg/1920px-Moon_and_clouds_over_Brofjorden_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_7.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 4:26",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El tiempo que te queda, según el emperador"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Maid_with_burning_candle_%281839%29%2C_PA06579.jpg/1920px-Maid_with_burning_candle_%281839%29%2C_PA06579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pierre Louis Dubourcq",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maid_with_burning_candle_(1839),_PA06579.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:61",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El tiempo es un río que te arrastra"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:47",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "El pensamiento que quita el miedo a la muerte"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Desert_Flag_Night_Flights_%288384163%29.jpg/1920px-Desert_Flag_Night_Flights_%288384163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384163).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 7:22",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Pronto todos te olvidarán, y está bien"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Crescent_Moon_Clouds_%28201245183%29.jpeg/1920px-Crescent_Moon_Clouds_%28201245183%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Todd Williams",
+        "origem": "https://commons.wikimedia.org/wiki/File:Crescent_Moon_Clouds_(201245183).jpeg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

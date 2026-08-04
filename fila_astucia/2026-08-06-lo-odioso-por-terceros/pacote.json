@@ -1,0 +1,119 @@
+{
+  "slug": "lo-odioso-por-terceros",
+  "formato": "tema",
+  "data": "2026-08-06",
+  "criado_em": "2026-08-04T03:39:22+00:00",
+  "aprovado_em": "2026-08-04T03:39:22+00:00",
+  "longo": {
+    "refs": [
+      "Oráculo manual 187"
+    ],
+    "titulo": {
+      "astucia": "Lo Bueno Tú, lo Odioso Otro | Gracián, Oráculo Manual"
+    },
+    "thumb_titulo": {
+      "astucia": "QUIÉN DA LA MALA NOTICIA"
+    },
+    "thumb_sub": {
+      "astucia": "Gracián, aforismo 187"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Gate_Bridge_at_night_2013.jpg/1920px-Golden_Gate_Bridge_at_night_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Andrew Crookston",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_at_night_2013.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg/1920px-Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leonhard Lenz",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Golden_Gate_Bridge_At_Night_%2839354936%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Stanley Rost",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_At_Night_(39354936).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Brandenburg_Gate_at_night_2.JPG/1920px-Brandenburg_Gate_at_night_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Echtner",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_at_night_2.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg/1920px-Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leonhard Lenz",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg/1920px-Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jarek Tuszyński",
+        "origem": "https://commons.wikimedia.org/wiki/File:Entrance_to_Dark_Corridor_at_Calico_Hills,_Red_Rock_Canyon,_Nevada_-_1.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg/1920px-SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Hoai Chonag Fornai",
+        "origem": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_01.jpg/1920px-HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FWOSH katm 4502",
+        "origem": "https://commons.wikimedia.org/wiki/File:HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg/1920px-HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FWOSH katm 4502",
+        "origem": "https://commons.wikimedia.org/wiki/File:HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wat_Chedi_Luang%2C_Stupa_stairs_at_night%2C_Chiang_Mai%2C_Thailand.jpg/1920px-Wat_Chedi_Luang%2C_Stupa_stairs_at_night%2C_Chiang_Mai%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wat_Chedi_Luang,_Stupa_stairs_at_night,_Chiang_Mai,_Thailand.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg/1920px-V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "mikrimas",
+        "origem": "https://commons.wikimedia.org/wiki/File:V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Oráculo manual 187",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "Quién debe dar la mala noticia"
+      },
+      "aplicacao": "Todo jefe que sobrevive lo sabe: da tú el premio, que el sistema dé el castigo.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/INDIA_GATE_2025_night_view.jpg/1920px-INDIA_GATE_2025_night_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Biswas321",
+        "origem": "https://commons.wikimedia.org/wiki/File:INDIA_GATE_2025_night_view.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Oráculo manual 144",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "Entrar con la ajena para salir con la tuya"
+      },
+      "aplicacao": "Empieza hablando de lo que al otro le importa. Nadie se abre por tu agenda.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg/1920px-Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jarek Tuszyński",
+        "origem": "https://commons.wikimedia.org/wiki/File:Entrance_to_Dark_Corridor_at_Calico_Hills,_Red_Rock_Canyon,_Nevada_-_1.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}

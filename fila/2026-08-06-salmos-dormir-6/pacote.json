@@ -1,0 +1,116 @@
+{
+  "slug": "salmos-dormir-6",
+  "formato": "dormir",
+  "data": "2026-08-06",
+  "criado_em": "2026-08-04T03:39:42+00:00",
+  "aprovado_em": "2026-08-04T03:39:42+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 46",
+      "Psalms 61",
+      "Psalms 62",
+      "Psalms 63",
+      "Psalms 71",
+      "Psalms 84",
+      "Psalms 90",
+      "Psalms 142"
+    ],
+    "titulo": {
+      "pt": "Salmos para Dormir — Refúgio e Confiança | Bíblia Narrada com Voz Calma",
+      "es": "Salmos para Dormir — Refugio y Confianza | Biblia Hablada con Voz Calmada",
+      "en": "Psalms for Sleep — Refuge and Trust | Audio Bible with a Calm Voice"
+    },
+    "thumb_titulo": {
+      "pt": "SALMOS PARA DORMIR",
+      "es": "SALMOS PARA DORMIR",
+      "en": "PSALMS FOR SLEEP"
+    },
+    "thumb_sub": {
+      "pt": "Salmo 46 • 62 • 63",
+      "es": "Salmo 46 • 62 • 63",
+      "en": "Psalm 46 • 62 • 63"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Local_rock_band_performs_live_at_outdoor_festival_under_night_sky_with_vibrant_lights_and_energetic_crowd.jpg/1920px-Local_rock_band_performs_live_at_outdoor_festival_under_night_sky_with_vibrant_lights_and_energetic_crowd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Shixart1985",
+        "origem": "https://commons.wikimedia.org/wiki/File:Local_rock_band_performs_live_at_outdoor_festival_under_night_sky_with_vibrant_lights_and_energetic_crowd.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock_Art_under_night_sky.jpg/1920px-Rock_Art_under_night_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Tashi Ldawa",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rock_Art_under_night_sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Skull_rock_night_sky_%2849623125453%29.jpg/1920px-Skull_rock_night_sky_%2849623125453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joshua Tree National Park",
+        "origem": "https://commons.wikimedia.org/wiki/File:Skull_rock_night_sky_(49623125453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg/1920px-Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Steve Jurvetson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 62:1-2",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 62 — A minha alma descansa em Deus | Bíblia",
+        "es": "Salmo 62 — En Dios solamente reposa mi alma | Biblia",
+        "en": "Psalm 62 — My Soul Waits in Silence for God | Bible"
+      },
+      "aplicacao": "",
+      "imagem": null
+    },
+    {
+      "ref": "Psalms 63:6-8",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 63 — De noite me lembro de ti | Bíblia narrada",
+        "es": "Salmo 63 — Me acuerdo de ti en mi lecho | Biblia",
+        "en": "Psalm 63 — I Remember You Upon My Bed | Bible"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Moon_Lake_Dam_1930s_-_Social_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "U.S. Forest Service - Ashley National Forest",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Lake_Dam_1930s_-_Social_1.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 61:1-4",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 61 — Leva-me à rocha mais alta do que eu | Bíblia",
+        "es": "Salmo 61 — Llévame a la roca que es más alta que yo | Biblia",
+        "en": "Psalm 61 — Lead Me to the Rock Higher Than I | Bible"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg/1920px-Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Steve Jurvetson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Psalms 46:1-3",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 46 — Deus é o nosso refúgio e fortaleza | Bíblia",
+        "es": "Salmo 46 — Dios es nuestro amparo y fortaleza | Biblia",
+        "en": "Psalm 46 — God Is Our Refuge and Strength | Bible"
+      },
+      "aplicacao": "",
+      "imagem": null
+    }
+  ]
+}
