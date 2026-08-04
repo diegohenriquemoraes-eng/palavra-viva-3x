@@ -196,7 +196,15 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     # monetização — são dois trilhos. É também o que os canais pequenos que
     # furam nessa sala de fato publicam (leitura crua ali é produto de canal
     # gigante). Vazio nos bíblicos: lá a diretriz nº 4 proíbe interpretar.
-    aplicacao = (short.get("aplicacao") or "").strip()
+    # Aceita string (linhas de canal único: poder, astucia, stoic) OU dicionário
+    # por canal, como o `titulo`. A linha bíblica tem UMA fila para es/en/pt:
+    # o mesmo pacote vira três vídeos em três idiomas, então a camada tem de
+    # ser escrita uma vez por idioma. Canal sem entrada fica sem camada e cai
+    # no comportamento antigo — é o que permite ligar um idioma de cada vez.
+    aplicacao = short.get("aplicacao") or ""
+    if isinstance(aplicacao, dict):
+        aplicacao = aplicacao.get(idioma, "") or ""
+    aplicacao = aplicacao.strip()
 
     teto = cfg.get("max_short_s", MAX_SHORT_S)
     # a aplicação também consome o teto: sem descontá-la aqui, o Short do canal
