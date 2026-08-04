@@ -1302,3 +1302,11 @@
 - Item: short-2 — Salmo 3:5
 - Duração: 15.1s
 - Publicado em: 2026-08-04T12:59:29+00:00
+
+## [pt] vgW5ltwD0iE — Salmo 3:5 — Eu me deitei e dormi; despertei | Bíblia
+
+- URL: https://youtu.be/vgW5ltwD0iE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 3:5
+- Duração: 15.6s
+- Publicado em: 2026-08-04T15:19:18+00:00

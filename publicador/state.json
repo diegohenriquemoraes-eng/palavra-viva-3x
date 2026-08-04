@@ -1099,12 +1099,19 @@
           "video_id": "fvEMI0XQgKM",
           "titulo": "Salmo 4:8 — Em paz me deito e durmo | Bíblia",
           "em": "2026-08-04T07:32:08+00:00"
+        },
+        {
+          "pacote": "2026-08-04-salmos-dormir-4",
+          "item": "short-2",
+          "video_id": "vgW5ltwD0iE",
+          "titulo": "Salmo 3:5 — Eu me deitei e dormi; despertei | Bíblia",
+          "em": "2026-08-04T15:19:18+00:00"
         }
       ],
-      "ultimo_short": "2026-08-04T07:32:08+00:00",
+      "ultimo_short": "2026-08-04T15:19:18+00:00",
       "shorts_dia": {
         "data": "2026-08-04",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-04"
     },
