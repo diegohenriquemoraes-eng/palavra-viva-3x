@@ -1113,12 +1113,19 @@
           "video_id": "vgW5ltwD0iE",
           "titulo": "Salmo 3:5 — Eu me deitei e dormi; despertei | Bíblia",
           "em": "2026-08-04T15:19:18+00:00"
+        },
+        {
+          "pacote": "2026-08-04-salmos-dormir-4",
+          "item": "short-3",
+          "video_id": "PXCdbfQa2TA",
+          "titulo": "Salmo 62 — A minha alma descansa em Deus | Bíblia",
+          "em": "2026-08-04T22:53:59+00:00"
         }
       ],
-      "ultimo_short": "2026-08-04T15:19:18+00:00",
+      "ultimo_short": "2026-08-04T22:53:59+00:00",
       "shorts_dia": {
         "data": "2026-08-04",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-04"
     },

@@ -1318,3 +1318,11 @@
 - Item: short-3 — Salmo 62:1-2
 - Duração: 14.8s
 - Publicado em: 2026-08-04T21:03:21+00:00
+
+## [pt] PXCdbfQa2TA — Salmo 62 — A minha alma descansa em Deus | Bíblia
+
+- URL: https://youtu.be/PXCdbfQa2TA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 62:1-2
+- Duração: 15.9s
+- Publicado em: 2026-08-04T22:53:59+00:00
