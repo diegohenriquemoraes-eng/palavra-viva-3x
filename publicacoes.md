@@ -1294,3 +1294,11 @@
 - Item: short-1 — Salmo 4:8
 - Duração: 19.0s
 - Publicado em: 2026-08-04T07:32:08+00:00
+
+## [es] lfepHtXpu6Y — Salmo 3:5 — Yo me acosté y dormí, y desperté | Biblia
+
+- URL: https://youtu.be/lfepHtXpu6Y
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 3:5
+- Duração: 15.1s
+- Publicado em: 2026-08-04T12:59:29+00:00

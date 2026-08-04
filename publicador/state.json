@@ -456,12 +456,19 @@
           "video_id": "Z8kKJMnS3DE",
           "titulo": "Salmo 4:8 — En paz me acostaré y dormiré | Biblia",
           "em": "2026-08-04T04:57:03+00:00"
+        },
+        {
+          "pacote": "2026-08-04-salmos-dormir-4",
+          "item": "short-2",
+          "video_id": "lfepHtXpu6Y",
+          "titulo": "Salmo 3:5 — Yo me acosté y dormí, y desperté | Biblia",
+          "em": "2026-08-04T12:59:29+00:00"
         }
       ],
-      "ultimo_short": "2026-08-04T04:57:03+00:00",
+      "ultimo_short": "2026-08-04T12:59:29+00:00",
       "shorts_dia": {
         "data": "2026-08-04",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-04"
     },
