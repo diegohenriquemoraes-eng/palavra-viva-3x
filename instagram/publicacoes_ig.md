@@ -112,3 +112,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18012747389941302/
 - Publicado em: 2026-08-03T20:01:33+00:00
+
+## 17971965596922057 — APROVAÇÃO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/17971965596922057/
+- Publicado em: 2026-08-04T00:19:38+00:00
