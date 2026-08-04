@@ -118,3 +118,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/17971965596922057/
 - Publicado em: 2026-08-04T00:19:38+00:00
+
+## 18104365196130833 — O TESTE DO NÃO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18104365196130833/
+- Publicado em: 2026-08-04T20:46:44+00:00
