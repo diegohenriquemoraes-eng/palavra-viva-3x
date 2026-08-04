@@ -1085,12 +1085,19 @@
           "video_id": "CqEXKlvpuOA",
           "titulo": "Salmos para Dormir — Descanso e Paz | Bíblia Narrada com Voz Calma",
           "em": "2026-08-04T05:27:55+00:00"
+        },
+        {
+          "pacote": "2026-08-04-salmos-dormir-4",
+          "item": "short-1",
+          "video_id": "fvEMI0XQgKM",
+          "titulo": "Salmo 4:8 — Em paz me deito e durmo | Bíblia",
+          "em": "2026-08-04T07:32:08+00:00"
         }
       ],
-      "ultimo_short": "2026-08-03T20:57:59+00:00",
+      "ultimo_short": "2026-08-04T07:32:08+00:00",
       "shorts_dia": {
-        "data": "2026-08-03",
-        "n": 3
+        "data": "2026-08-04",
+        "n": 1
       },
       "longo_data": "2026-08-04"
     },

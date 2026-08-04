@@ -1286,3 +1286,11 @@
 - Item: short-1 — Oráculo manual 98:1
 - Duração: 20.2s
 - Publicado em: 2026-08-04T05:29:55+00:00
+
+## [pt] fvEMI0XQgKM — Salmo 4:8 — Em paz me deito e durmo | Bíblia
+
+- URL: https://youtu.be/fvEMI0XQgKM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 4:8
+- Duração: 19.0s
+- Publicado em: 2026-08-04T07:32:08+00:00
