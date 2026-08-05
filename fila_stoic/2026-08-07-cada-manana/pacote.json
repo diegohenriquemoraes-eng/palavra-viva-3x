@@ -1,0 +1,166 @@
+{
+  "slug": "cada-manana",
+  "formato": "tema",
+  "data": "2026-08-07",
+  "criado_em": "2026-08-05T03:35:27+00:00",
+  "aprovado_em": "2026-08-05T03:35:27+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 2:1-10",
+      "Meditaciones 5:1-6"
+    ],
+    "titulo": {
+      "stoic": "Marco Aurelio: Cómo Empezar el Día | Meditaciones Narradas"
+    },
+    "thumb_titulo": {
+      "stoic": "CADA MAÑANA"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones II y V"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dusk_Sky.jpg/1920px-Dusk_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dusk_Sky_%289825349336%29.jpg/1920px-Dusk_Sky_%289825349336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky_(9825349336).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dark-forest-combo-3.jpg/1920px-Dark-forest-combo-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Dark-forest-combo-12.jpg/1920px-Dark-forest-combo-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-12.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dark-forest-combo-5.jpg/1920px-Dark-forest-combo-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-5.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dark-forest-combo-1.JPG/1920px-Dark-forest-combo-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-1.JPG",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Dark_Forest_%2855574920%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Vad 7",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_Forest_(55574920).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 2:1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Di esto cada mañana antes de salir"
+      },
+      "aplicacao": "Espera hoy al menos un idiota. Esperarlo es lo que te impide reaccionar como uno.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 5:2",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Para cuando no quieras levantarte"
+      },
+      "aplicacao": "El día que menos quieres levantarte es el día que más te define.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p02.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2122_p02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 7:76",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Cómo se vive un día que podría ser el último"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "John Bauer",
+        "origem": "https://commons.wikimedia.org/wiki/File:John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:25",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Deja de aplazar ser quien quieres ser"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Clock_-_Old_South_Meeting_House_-_Boston%2C_MA_-_DSC05856.jpg/1920px-Clock_-_Old_South_Meeting_House_-_Boston%2C_MA_-_DSC05856.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daderot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clock_-_Old_South_Meeting_House_-_Boston,_MA_-_DSC05856.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

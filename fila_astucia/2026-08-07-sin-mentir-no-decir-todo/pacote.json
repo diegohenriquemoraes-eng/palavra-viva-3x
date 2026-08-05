@@ -1,0 +1,137 @@
+{
+  "slug": "sin-mentir-no-decir-todo",
+  "formato": "tema",
+  "data": "2026-08-07",
+  "criado_em": "2026-08-05T03:34:44+00:00",
+  "aprovado_em": "2026-08-05T03:34:44+00:00",
+  "longo": {
+    "refs": [
+      "Oráculo manual 181"
+    ],
+    "titulo": {
+      "astucia": "Sin Mentir, No Decir Todo | Gracián, Oráculo Manual"
+    },
+    "thumb_titulo": {
+      "astucia": "CALLAR NO ES MENTIR"
+    },
+    "thumb_sub": {
+      "astucia": "Gracián, aforismo 181"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Night-open-door-english-matsunaga-2017-1629_%2833040917072%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1629_(33040917072).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Night-open-door-english-matsunaga-2017-1701_%2832353006634%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1701_(32353006634).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Night-open-door-english-matsunaga-2017-1637_%2833040917002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1637_(33040917002).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Night-open-door-english-matsunaga-2017-1435_%2832353004094%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1435_(32353004094).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Night-open-door-english-matsunaga-2017-1549_%2833069851231%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1549_(33069851231).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG/1920px-Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dirk Ingo Franke",
+        "origem": "https://commons.wikimedia.org/wiki/File:Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG/1920px-Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ootahara",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Shaheed_Island%2C_Andamans%2C_Night%2C_Candle_light_in_the_dark.jpg/1920px-Shaheed_Island%2C_Andamans%2C_Night%2C_Candle_light_in_the_dark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Shaheed_Island,_Andamans,_Night,_Candle_light_in_the_dark.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Tokyo_midtown.JPG/1920px-Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Tokyo_midtown.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ootahara",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Tokyo_midtown.JPG",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Candles_in_the_night1.jpg/1920px-Candles_in_the_night1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Donald Olszewski",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candles_in_the_night1.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Night_Rain_%28155902863%29.jpeg/1920px-Night_Rain_%28155902863%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jürgen Luger",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Rain_(155902863).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mighty_gasholder_in_the_rain_at_night_%28128149453%29.jpg/1920px-Mighty_gasholder_in_the_rain_at_night_%28128149453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Till Krech from Berlin, Germany",
+        "origem": "https://commons.wikimedia.org/wiki/File:Mighty_gasholder_in_the_rain_at_night_(128149453).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Gillette_Stadium_at_night_in_the_rain_November_2025.jpg/1920px-Gillette_Stadium_at_night_in_the_rain_November_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "4300streetcar",
+        "origem": "https://commons.wikimedia.org/wiki/File:Gillette_Stadium_at_night_in_the_rain_November_2025.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rain_and_Night_in_Yanghwa-ro.jpg/1920px-Rain_and_Night_in_Yanghwa-ro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Tony",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rain_and_Night_in_Yanghwa-ro.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Oráculo manual 181",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "Callar no es mentir"
+      },
+      "aplicacao": "Nadie tiene derecho a toda tu verdad. Decirla entera casi nunca te protege.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Night-open-door-english-matsunaga-2017-1667_%2833040916642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1667_(33040916642).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Oráculo manual 160",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "Hablar con cuidado"
+      },
+      "aplicacao": "Con enemigos, por precaución; con los demás, por decencia. Lo dicho ya no vuelve.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Night_rain_at_Narumi.jpg/1920px-Night_rain_at_Narumi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_rain_at_Narumi.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

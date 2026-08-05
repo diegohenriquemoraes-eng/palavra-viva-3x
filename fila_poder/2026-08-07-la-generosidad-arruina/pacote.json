@@ -1,0 +1,84 @@
+{
+  "slug": "la-generosidad-arruina",
+  "formato": "tema",
+  "data": "2026-08-07",
+  "criado_em": "2026-08-05T03:35:41+00:00",
+  "aprovado_em": "2026-08-05T03:35:41+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 16"
+    ],
+    "titulo": {
+      "poder": "La Generosidad que Arruina | Maquiavelo, El Príncipe XVI"
+    },
+    "thumb_titulo": {
+      "poder": "DAR DE MÁS"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XVI"
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg/1920px-Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leonhard Lenz",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_gate_Berlin_at_night_2022-12-09_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Brandenburg_Gate_at_night_2.JPG/1920px-Brandenburg_Gate_at_night_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Echtner",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_at_night_2.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg/1920px-Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leonhard Lenz",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Golden_Gate_Bridge_At_Night_%2839354936%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Stanley Rost",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_At_Night_(39354936).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Golden_Gate_Bridge_at_night_2010.jpg/1920px-Golden_Gate_Bridge_at_night_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FairbanksMike",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_at_night_2010.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg/1920px-Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jarek Tuszyński",
+        "origem": "https://commons.wikimedia.org/wiki/File:Entrance_to_Dark_Corridor_at_Calico_Hills,_Red_Rock_Canyon,_Nevada_-_1.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 16:16",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Ninguna virtud se gasta tan rápido"
+      },
+      "aplicacao": "El que siempre da termina sin nada que dar. Y entonces deja de ser querido.",
+      "imagem": null
+    },
+    {
+      "ref": "El Príncipe 16:18",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Lo peor no es ser odiado"
+      },
+      "aplicacao": "Es ser despreciado. Del odio te defiendes; del desprecio no vuelves.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg/1920px-Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jarek Tuszyński",
+        "origem": "https://commons.wikimedia.org/wiki/File:Entrance_to_Dark_Corridor_at_Calico_Hills,_Red_Rock_Canyon,_Nevada_-_1.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
