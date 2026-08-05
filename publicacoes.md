@@ -1382,3 +1382,19 @@
 - Item: short-1 — Salmo 91:1-2
 - Duração: 23.9s
 - Publicado em: 2026-08-05T07:35:22+00:00
+
+## [es] ca1Uyab0Vzo — Salmo 121 — Mi socorro viene de Jehová | Biblia
+
+- URL: https://youtu.be/ca1Uyab0Vzo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 121:1-3
+- Duração: 22.8s
+- Publicado em: 2026-08-05T15:09:44+00:00
+
+## [pt] vsqKJjIRjDo — Salmo 121 — O meu socorro vem do Senhor | Bíblia
+
+- URL: https://youtu.be/vsqKJjIRjDo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 121:1-3
+- Duração: 23.6s
+- Publicado em: 2026-08-05T15:10:56+00:00

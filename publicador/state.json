@@ -484,12 +484,19 @@
           "video_id": "e27xwiRUzu0",
           "titulo": "Salmo 91 — Bajo la sombra del Altísimo | Biblia",
           "em": "2026-08-05T04:57:38+00:00"
+        },
+        {
+          "pacote": "2026-08-05-salmos-dormir-5",
+          "item": "short-2",
+          "video_id": "ca1Uyab0Vzo",
+          "titulo": "Salmo 121 — Mi socorro viene de Jehová | Biblia",
+          "em": "2026-08-05T15:09:44+00:00"
         }
       ],
-      "ultimo_short": "2026-08-05T04:57:38+00:00",
+      "ultimo_short": "2026-08-05T15:09:44+00:00",
       "shorts_dia": {
         "data": "2026-08-05",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-05"
     },
@@ -1148,12 +1155,19 @@
           "video_id": "doT34kO7eGk",
           "titulo": "Salmo 91 — À sombra do Altíssimo | Bíblia narrada",
           "em": "2026-08-05T07:35:22+00:00"
+        },
+        {
+          "pacote": "2026-08-05-salmos-dormir-5",
+          "item": "short-2",
+          "video_id": "vsqKJjIRjDo",
+          "titulo": "Salmo 121 — O meu socorro vem do Senhor | Bíblia",
+          "em": "2026-08-05T15:10:56+00:00"
         }
       ],
-      "ultimo_short": "2026-08-05T07:35:22+00:00",
+      "ultimo_short": "2026-08-05T15:10:56+00:00",
       "shorts_dia": {
         "data": "2026-08-05",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-05"
     },
