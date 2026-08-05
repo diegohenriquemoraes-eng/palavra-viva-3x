@@ -1754,6 +1754,89 @@
     ]
   },
   {
+    "slug": "paciencia-espera",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Isaiah 40:25-31"
+      ],
+      "titulo": {
+        "es": "Los que Esperan en Jehova - Isaias 40 | Biblia en espanol",
+        "en": "They That Wait Upon the Lord - Isaiah 40 | Bible",
+        "pt": "Os que Esperam no Senhor - Isaias 40 | Biblia narrada"
+      },
+      "thumb_titulo": {
+        "es": "LOS QUE ESPERAN",
+        "en": "THEY THAT WAIT",
+        "pt": "OS QUE ESPERAM"
+      },
+      "thumb_sub": {
+        "es": "Isaias 40",
+        "en": "Isaiah 40",
+        "pt": "Isaias 40"
+      },
+      "consultas_imagens": [
+        "eagle soaring",
+        "desert sunrise",
+        "mountain dawn"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Isaiah 40:31",
+        "tipo": "promesa",
+        "consulta_imagem": "eagle soaring",
+        "titulo": {
+          "es": "Isaias 40:31 - Levantaran alas como aguilas | Biblia",
+          "en": "Isaiah 40:31 - Mount Up With Wings as Eagles | Bible",
+          "pt": "Isaias 40:31 - Subirao com asas como aguias | Biblia"
+        },
+        "aplicacao": {
+          "es": "Cierra un capitulo que empieza preguntando a quien compararas a Dios.",
+          "pt": "Fecha um capitulo que comeca perguntando a quem comparareis Deus."
+        }
+      },
+      {
+        "ref": "Psalms 27:14",
+        "tipo": "promesa",
+        "consulta_imagem": "mountain dawn",
+        "titulo": {
+          "es": "Salmo 27:14 - Espera a Jehova, esfuerzate | Biblia",
+          "en": "Psalm 27:14 - Wait on the Lord, Be of Good Courage | Bible",
+          "pt": "Salmo 27:14 - Espera no Senhor, anima-te | Biblia"
+        },
+        "aplicacao": {
+          "es": "Es el ultimo verso del salmo, y repite dos veces la misma orden.",
+          "pt": "E o ultimo verso do salmo, e repete duas vezes a mesma ordem."
+        }
+      },
+      {
+        "ref": "Romans 12:12",
+        "tipo": "promesa",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "es": "Romanos 12:12 - Gozosos en la esperanza | Biblia en espanol",
+          "en": "Romans 12:12 - Rejoicing in Hope | Bible",
+          "pt": "Romanos 12:12 - Alegres na esperanca | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Un verso de tres partes, dentro de una lista de frases cortas encadenadas.",
+          "pt": "Um verso de tres partes, dentro de uma lista de frases curtas encadeadas."
+        }
+      },
+      {
+        "ref": "James 1:2-4",
+        "tipo": "descriptivo",
+        "consulta_imagem": "stone well",
+        "titulo": {
+          "es": "Santiago 1 - Tened por sumo gozo | Biblia en espanol",
+          "en": "James 1 - Count It All Joy | Bible",
+          "pt": "Tiago 1 - Tende por motivo de alegria | Biblia narrada"
+        }
+      }
+    ]
+  },
+  {
     "slug": "salmos-dormir-8",
     "formato": "dormir",
     "longo": {
@@ -1839,6 +1922,89 @@
           "pt": "Salmo 130 — A minha alma espera no Senhor | Bíblia",
           "es": "Salmo 130 — Mi alma espera a Jehová | Biblia",
           "en": "Psalm 130 — My Soul Waits for the Lord | Bible"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "sabedoria-proverbios",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 3:1-12"
+      ],
+      "titulo": {
+        "es": "Fiate de Jehova de Todo tu Corazon - Proverbios 3 | Biblia",
+        "en": "Trust in the Lord With All Thine Heart - Proverbs 3 | Bible",
+        "pt": "Confia no Senhor de Todo o teu Coracao - Proverbios 3 | Biblia"
+      },
+      "thumb_titulo": {
+        "es": "FIATE DE JEHOVA",
+        "en": "TRUST IN THE LORD",
+        "pt": "CONFIA NO SENHOR"
+      },
+      "thumb_sub": {
+        "es": "Proverbios 3",
+        "en": "Proverbs 3",
+        "pt": "Proverbios 3"
+      },
+      "consultas_imagens": [
+        "forest path",
+        "open book",
+        "wheat field"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 3:5-6",
+        "tipo": "promesa",
+        "consulta_imagem": "forest path",
+        "titulo": {
+          "es": "Proverbios 3:5 - No te apoyes en tu propia prudencia | Biblia",
+          "en": "Proverbs 3:5 - Lean Not on Thine Own Understanding | Bible",
+          "pt": "Proverbios 3:5 - Nao te estribes no teu proprio entendimento | Biblia"
+        },
+        "aplicacao": {
+          "es": "Los dos versos forman una sola frase: la orden y su consecuencia.",
+          "pt": "Os dois versos formam uma frase so: a ordem e a consequencia dela."
+        }
+      },
+      {
+        "ref": "Proverbs 4:23",
+        "tipo": "descriptivo",
+        "consulta_imagem": "stone well",
+        "titulo": {
+          "es": "Proverbios 4:23 - Sobre toda cosa guardada, guarda tu corazon",
+          "en": "Proverbs 4:23 - Keep Thy Heart With All Diligence | Bible",
+          "pt": "Proverbios 4:23 - Sobre tudo o que se deve guardar, guarda o coracao"
+        },
+        "aplicacao": {
+          "es": "La imagen es la de una plaza fortificada: se guarda lo que se puede perder.",
+          "pt": "A imagem e a de uma praca fortificada: guarda-se o que se pode perder."
+        }
+      },
+      {
+        "ref": "Proverbs 15:1",
+        "tipo": "descriptivo",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "es": "Proverbios 15:1 - La blanda respuesta quita la ira | Biblia",
+          "en": "Proverbs 15:1 - A Soft Answer Turneth Away Wrath | Bible",
+          "pt": "Proverbios 15:1 - A resposta branda desvia o furor | Biblia"
+        },
+        "aplicacao": {
+          "es": "Proverbio de dos mitades opuestas, que es la forma mas comun del libro.",
+          "pt": "Proverbio de duas metades opostas, que e a forma mais comum do livro."
+        }
+      },
+      {
+        "ref": "Proverbs 16:3",
+        "tipo": "promesa",
+        "consulta_imagem": "wheat field",
+        "titulo": {
+          "es": "Proverbios 16:3 - Encomienda a Jehova tus obras | Biblia",
+          "en": "Proverbs 16:3 - Commit Thy Works Unto the Lord | Bible",
+          "pt": "Proverbios 16:3 - Confia ao Senhor as tuas obras | Biblia"
         }
       }
     ]
@@ -1934,6 +2100,89 @@
     ]
   },
   {
+    "slug": "oracao-perseveranca",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Luke 11:1-13"
+      ],
+      "titulo": {
+        "es": "Ensenanos a Orar - Lucas 11 | Biblia en espanol",
+        "en": "Teach Us to Pray - Luke 11 | Bible",
+        "pt": "Ensina-nos a Orar - Lucas 11 | Biblia narrada"
+      },
+      "thumb_titulo": {
+        "es": "ENSENANOS A ORAR",
+        "en": "TEACH US TO PRAY",
+        "pt": "ENSINA-NOS A ORAR"
+      },
+      "thumb_sub": {
+        "es": "Lucas 11",
+        "en": "Luke 11",
+        "pt": "Lucas 11"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "night sky",
+        "olive tree"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Luke 11:9-10",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "es": "Lucas 11:9 - Pedid, y se os dara | Biblia en espanol",
+          "en": "Luke 11:9 - Ask, and It Shall Be Given You | Bible",
+          "pt": "Lucas 11:9 - Pedi, e dar-se-vos-a | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Viene despues de una parabola sobre alguien que insiste a medianoche.",
+          "pt": "Vem depois de uma parabola sobre alguem que insiste a meia-noite."
+        }
+      },
+      {
+        "ref": "I Thessalonians 5:16-18",
+        "tipo": "descriptivo",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "es": "1 Tesalonicenses 5 - Orad sin cesar | Biblia en espanol",
+          "en": "1 Thessalonians 5 - Pray Without Ceasing | Bible",
+          "pt": "1 Tessalonicenses 5 - Orai sem cessar | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Tres ordenes seguidas, en tres versos de una sola linea cada uno.",
+          "pt": "Tres ordens seguidas, em tres versos de uma linha cada um."
+        }
+      },
+      {
+        "ref": "Matthew 26:41",
+        "tipo": "conflicto",
+        "consulta_imagem": "night sky",
+        "titulo": {
+          "es": "Mateo 26:41 - Velad y orad | Biblia en espanol",
+          "en": "Matthew 26:41 - Watch and Pray | Bible",
+          "pt": "Mateus 26:41 - Vigiai e orai | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Dicho de madrugada, en el huerto, segun el propio relato.",
+          "pt": "Dito de madrugada, no jardim, segundo o proprio relato."
+        }
+      },
+      {
+        "ref": "James 5:16",
+        "tipo": "promesa",
+        "consulta_imagem": "stone well",
+        "titulo": {
+          "es": "Santiago 5:16 - La oracion eficaz del justo | Biblia",
+          "en": "James 5:16 - The Effectual Fervent Prayer | Bible",
+          "pt": "Tiago 5:16 - A oracao feita por um justo | Biblia"
+        }
+      }
+    ]
+  },
+  {
     "slug": "salmos-dormir-10",
     "formato": "dormir",
     "longo": {
@@ -2019,6 +2268,89 @@
           "pt": "Salmo 51:10 — Cria em mim um coração puro | Bíblia",
           "es": "Salmo 51:10 — Crea en mí un corazón limpio | Biblia",
           "en": "Psalm 51:10 — Create in Me a Clean Heart | Bible"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "identidade-filhos",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Romans 8:1-17"
+      ],
+      "titulo": {
+        "es": "Hijos de Dios - Romanos 8 | Biblia en espanol",
+        "en": "Children of God - Romans 8 | Bible",
+        "pt": "Filhos de Deus - Romanos 8 | Biblia narrada"
+      },
+      "thumb_titulo": {
+        "es": "HIJOS DE DIOS",
+        "en": "CHILDREN OF GOD",
+        "pt": "FILHOS DE DEUS"
+      },
+      "thumb_sub": {
+        "es": "Romanos 8",
+        "en": "Romans 8",
+        "pt": "Romanos 8"
+      },
+      "consultas_imagens": [
+        "olive tree",
+        "mountain dawn",
+        "open book"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "I John 3:1",
+        "tipo": "promesa",
+        "consulta_imagem": "mountain dawn",
+        "titulo": {
+          "es": "1 Juan 3:1 - Mirad cual amor nos ha dado el Padre | Biblia",
+          "en": "1 John 3:1 - Behold What Manner of Love | Bible",
+          "pt": "1 Joao 3:1 - Vede quao grande amor nos tem concedido | Biblia"
+        },
+        "aplicacao": {
+          "es": "La carta usa hijos y no siervos, y el texto marca la diferencia.",
+          "pt": "A carta usa filhos e nao servos, e o texto marca a diferenca."
+        }
+      },
+      {
+        "ref": "Romans 8:14-16",
+        "tipo": "promesa",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "es": "Romanos 8 - No habeis recibido espiritu de esclavitud | Biblia",
+          "en": "Romans 8 - Ye Have Not Received the Spirit of Bondage | Bible",
+          "pt": "Romanos 8 - Nao recebestes o espirito de escravidao | Biblia"
+        },
+        "aplicacao": {
+          "es": "El capitulo contrapone dos palabras: esclavitud y adopcion.",
+          "pt": "O capitulo contrapoe duas palavras: escravidao e adocao."
+        }
+      },
+      {
+        "ref": "Ephesians 2:8-10",
+        "tipo": "promesa",
+        "consulta_imagem": "open book",
+        "titulo": {
+          "es": "Efesios 2:8 - Por gracia sois salvos | Biblia en espanol",
+          "en": "Ephesians 2:8 - By Grace Are Ye Saved | Bible",
+          "pt": "Efesios 2:8 - Pela graca sois salvos | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Los tres versos van juntos: don, no obras, y despues obras.",
+          "pt": "Os tres versos vao juntos: dom, nao obras, e depois obras."
+        }
+      },
+      {
+        "ref": "Galatians 4:6-7",
+        "tipo": "promesa",
+        "consulta_imagem": "wheat field",
+        "titulo": {
+          "es": "Galatas 4 - Ya no eres siervo, sino hijo | Biblia en espanol",
+          "en": "Galatians 4 - No More a Servant, But a Son | Bible",
+          "pt": "Galatas 4 - Ja nao es servo, mas filho | Biblia narrada"
         }
       }
     ]
@@ -2114,6 +2446,172 @@
     ]
   },
   {
+    "slug": "salmo-23-pastor",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Psalms 23:1-6"
+      ],
+      "titulo": {
+        "es": "Salmo 23 Completo - Jehova es mi Pastor | Biblia en espanol",
+        "en": "Psalm 23 Complete - The Lord Is My Shepherd | Bible",
+        "pt": "Salmo 23 Completo - O Senhor e o meu Pastor | Biblia narrada"
+      },
+      "thumb_titulo": {
+        "es": "JEHOVA ES MI PASTOR",
+        "en": "THE LORD IS MY SHEPHERD",
+        "pt": "O SENHOR E MEU PASTOR"
+      },
+      "thumb_sub": {
+        "es": "Salmo 23",
+        "en": "Psalm 23",
+        "pt": "Salmo 23"
+      },
+      "consultas_imagens": [
+        "sheep pasture",
+        "green pastures",
+        "river stones"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 23:1-3",
+        "tipo": "promesa",
+        "consulta_imagem": "green pastures",
+        "titulo": {
+          "es": "Salmo 23 - En lugares de delicados pastos | Biblia en espanol",
+          "en": "Psalm 23 - He Maketh Me to Lie Down | Bible",
+          "pt": "Salmo 23 - Em verdes pastos me faz repousar | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "El salmo empieza hablando de Dios en tercera persona y luego le habla de tu.",
+          "pt": "O salmo comeca falando de Deus em terceira pessoa e depois passa a falar com ele."
+        }
+      },
+      {
+        "ref": "Psalms 23:4-6",
+        "tipo": "promesa",
+        "consulta_imagem": "river stones",
+        "titulo": {
+          "es": "Salmo 23 - Aunque ande en valle de sombra de muerte | Biblia",
+          "en": "Psalm 23 - Though I Walk Through the Valley | Bible",
+          "pt": "Salmo 23 - Ainda que eu ande pelo vale da sombra da morte | Biblia"
+        },
+        "aplicacao": {
+          "es": "A partir de aqui las imagenes dejan el campo y pasan a la mesa y la casa.",
+          "pt": "A partir daqui as imagens deixam o campo e passam a mesa e a casa."
+        }
+      },
+      {
+        "ref": "John 10:11-14",
+        "tipo": "descriptivo",
+        "consulta_imagem": "sheep pasture",
+        "titulo": {
+          "es": "Juan 10 - Yo soy el buen pastor | Biblia en espanol",
+          "en": "John 10 - I Am the Good Shepherd | Bible",
+          "pt": "Joao 10 - Eu sou o bom pastor | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "El pasaje contrasta al pastor con el asalariado, que huye.",
+          "pt": "A passagem contrasta o pastor com o assalariado, que foge."
+        }
+      },
+      {
+        "ref": "Isaiah 40:11",
+        "tipo": "promesa",
+        "consulta_imagem": "green pastures",
+        "titulo": {
+          "es": "Isaias 40:11 - Como pastor apacentara su rebano | Biblia",
+          "en": "Isaiah 40:11 - He Shall Feed His Flock | Bible",
+          "pt": "Isaias 40:11 - Como pastor apascentara o seu rebanho | Biblia"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "moises-mar-vermelho",
+    "formato": "historia",
+    "longo": {
+      "refs": [
+        "Exodus 14:10-31"
+      ],
+      "titulo": {
+        "es": "Moises y el Mar Rojo - Exodo 14 | Historia biblica narrada",
+        "en": "Moses and the Red Sea - Exodus 14 | Bible Story Narrated",
+        "pt": "Moises e o Mar Vermelho - Exodo 14 | Historia biblica narrada"
+      },
+      "thumb_titulo": {
+        "es": "EL MAR SE ABRIO",
+        "en": "THE SEA PARTED",
+        "pt": "O MAR SE ABRIU"
+      },
+      "thumb_sub": {
+        "es": "Exodo 14",
+        "en": "Exodus 14",
+        "pt": "Exodo 14"
+      },
+      "consultas_imagens": [
+        "sea waves",
+        "desert sunrise",
+        "storm clouds"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Exodus 14:13-14",
+        "tipo": "conflicto",
+        "consulta_imagem": "sea waves",
+        "titulo": {
+          "es": "Exodo 14 - Jehova peleara por vosotros | Biblia en espanol",
+          "en": "Exodus 14 - The Lord Shall Fight for You | Bible",
+          "pt": "Exodo 14 - O Senhor pelejara por vos | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Moises lo dice con el ejercito detras y el mar delante, segun el relato.",
+          "pt": "Moises diz isso com o exercito atras e o mar a frente, segundo o relato."
+        }
+      },
+      {
+        "ref": "Exodus 14:21-22",
+        "tipo": "descriptivo",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "es": "Exodo 14 - El mar se dividio | Historia biblica",
+          "en": "Exodus 14 - The Waters Were Divided | Bible Story",
+          "pt": "Exodo 14 - As aguas se dividiram | Historia biblica"
+        },
+        "aplicacao": {
+          "es": "El texto menciona un viento oriental que soplo toda la noche.",
+          "pt": "O texto menciona um vento oriental que soprou a noite toda."
+        }
+      },
+      {
+        "ref": "Exodus 3:13-14",
+        "tipo": "descriptivo",
+        "consulta_imagem": "desert sunrise",
+        "titulo": {
+          "es": "Exodo 3 - YO SOY EL QUE SOY | Biblia en espanol",
+          "en": "Exodus 3 - I AM THAT I AM | Bible",
+          "pt": "Exodo 3 - EU SOU O QUE SOU | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Moises pregunta que nombre debe dar, y la respuesta es un verbo.",
+          "pt": "Moises pergunta que nome deve dar, e a resposta e um verbo."
+        }
+      },
+      {
+        "ref": "Exodus 15:1-2",
+        "tipo": "descriptivo",
+        "consulta_imagem": "sea waves",
+        "titulo": {
+          "es": "Exodo 15 - Cantare yo a Jehova | Biblia en espanol",
+          "en": "Exodus 15 - I Will Sing Unto the Lord | Bible",
+          "pt": "Exodo 15 - Cantarei ao Senhor | Biblia narrada"
+        }
+      }
+    ]
+  },
+  {
     "slug": "salmos-dormir-12",
     "formato": "dormir",
     "longo": {
@@ -2204,6 +2702,172 @@
     ]
   },
   {
+    "slug": "luz-nas-trevas",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "John 1:1-14"
+      ],
+      "titulo": {
+        "es": "La Luz en las Tinieblas - Juan 1 | Biblia en espanol",
+        "en": "The Light in Darkness - John 1 | Bible",
+        "pt": "A Luz nas Trevas - Joao 1 | Biblia narrada"
+      },
+      "thumb_titulo": {
+        "es": "LA LUZ RESPLANDECE",
+        "en": "THE LIGHT SHINETH",
+        "pt": "A LUZ RESPLANDECE"
+      },
+      "thumb_sub": {
+        "es": "Juan 1",
+        "en": "John 1",
+        "pt": "Joao 1"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "night sky",
+        "mountain dawn"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "John 1:1-5",
+        "tipo": "descriptivo",
+        "consulta_imagem": "night sky",
+        "titulo": {
+          "es": "Juan 1 - La luz en las tinieblas resplandece | Biblia",
+          "en": "John 1 - The Light Shineth in Darkness | Bible",
+          "pt": "Joao 1 - A luz resplandece nas trevas | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "El texto empieza con las mismas tres palabras que abren el Genesis.",
+          "pt": "O texto comeca com as mesmas tres palavras que abrem o Genesis."
+        }
+      },
+      {
+        "ref": "John 8:12",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "es": "Juan 8:12 - Yo soy la luz del mundo | Biblia en espanol",
+          "en": "John 8:12 - I Am the Light of the World | Bible",
+          "pt": "Joao 8:12 - Eu sou a luz do mundo | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Dicho en el templo, durante una fiesta en que se encendian lamparas.",
+          "pt": "Dito no templo, durante uma festa em que se acendiam lampadas."
+        }
+      },
+      {
+        "ref": "Psalms 119:105",
+        "tipo": "descriptivo",
+        "consulta_imagem": "forest path",
+        "titulo": {
+          "es": "Salmo 119:105 - Lampara es a mis pies tu palabra | Biblia",
+          "en": "Psalm 119:105 - Thy Word Is a Lamp Unto My Feet | Bible",
+          "pt": "Salmo 119:105 - Lampada para os meus pes e a tua palavra | Biblia"
+        },
+        "aplicacao": {
+          "es": "Pertenece al salmo mas largo del libro, dividido por letras del alfabeto.",
+          "pt": "Pertence ao salmo mais longo do livro, dividido por letras do alfabeto."
+        }
+      },
+      {
+        "ref": "I John 1:5-7",
+        "tipo": "descriptivo",
+        "consulta_imagem": "mountain dawn",
+        "titulo": {
+          "es": "1 Juan 1 - Dios es luz, y no hay ningunas tinieblas en el",
+          "en": "1 John 1 - God Is Light, and in Him Is No Darkness | Bible",
+          "pt": "1 Joao 1 - Deus e luz, e nao ha nele treva nenhuma"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "jose-egito",
+    "formato": "historia",
+    "longo": {
+      "refs": [
+        "Genesis 45:1-15"
+      ],
+      "titulo": {
+        "es": "Jose y sus Hermanos - Genesis 45 | Historia biblica narrada",
+        "en": "Joseph and His Brothers - Genesis 45 | Bible Story Narrated",
+        "pt": "Jose e seus Irmaos - Genesis 45 | Historia biblica narrada"
+      },
+      "thumb_titulo": {
+        "es": "YO SOY JOSE",
+        "en": "I AM JOSEPH",
+        "pt": "EU SOU JOSE"
+      },
+      "thumb_sub": {
+        "es": "Genesis 45",
+        "en": "Genesis 45",
+        "pt": "Genesis 45"
+      },
+      "consultas_imagens": [
+        "wheat field",
+        "desert sunrise",
+        "stone well"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Genesis 50:19-21",
+        "tipo": "promesa",
+        "consulta_imagem": "wheat field",
+        "titulo": {
+          "es": "Genesis 50 - Vosotros pensasteis mal, Dios lo encamino a bien",
+          "en": "Genesis 50 - Ye Thought Evil, God Meant It Unto Good | Bible",
+          "pt": "Genesis 50 - Vos pensastes mal, Deus o tornou em bem | Biblia"
+        },
+        "aplicacao": {
+          "es": "Jose lo dice despues de la muerte del padre, cuando los hermanos temen represalia.",
+          "pt": "Jose diz isso depois da morte do pai, quando os irmaos temem represalia."
+        }
+      },
+      {
+        "ref": "Genesis 45:4-8",
+        "tipo": "descriptivo",
+        "consulta_imagem": "stone well",
+        "titulo": {
+          "es": "Genesis 45 - Yo soy Jose vuestro hermano | Historia biblica",
+          "en": "Genesis 45 - I Am Joseph Your Brother | Bible Story",
+          "pt": "Genesis 45 - Eu sou Jose, vosso irmao | Historia biblica"
+        },
+        "aplicacao": {
+          "es": "El texto marca que aun faltaban cinco anos de hambre cuando el habla.",
+          "pt": "O texto marca que ainda faltavam cinco anos de fome quando ele fala."
+        }
+      },
+      {
+        "ref": "Genesis 37:5-8",
+        "tipo": "conflicto",
+        "consulta_imagem": "desert sunrise",
+        "titulo": {
+          "es": "Genesis 37 - El sueno de Jose | Historia biblica narrada",
+          "en": "Genesis 37 - Josephs Dream | Bible Story Narrated",
+          "pt": "Genesis 37 - O sonho de Jose | Historia biblica narrada"
+        },
+        "aplicacao": {
+          "es": "Es el primero de dos suenos; el relato dice que contarlos aumento el odio.",
+          "pt": "E o primeiro de dois sonhos; o relato diz que conta-los aumentou o odio."
+        }
+      },
+      {
+        "ref": "Genesis 41:39-41",
+        "tipo": "descriptivo",
+        "consulta_imagem": "wheat field",
+        "titulo": {
+          "es": "Genesis 41 - Te he puesto sobre toda la tierra de Egipto",
+          "en": "Genesis 41 - I Have Set Thee Over All Egypt | Bible",
+          "pt": "Genesis 41 - Te tenho posto sobre toda a terra do Egito"
+        }
+      }
+    ]
+  },
+  {
     "slug": "salmos-dormir-13",
     "formato": "dormir",
     "longo": {
@@ -2289,6 +2953,172 @@
           "pt": "Salmo 63 — De noite me lembro de ti | Bíblia narrada",
           "es": "Salmo 63 — Me acuerdo de ti en mi lecho | Biblia",
           "en": "Psalm 63 — I Remember You Upon My Bed | Bible"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "vida-nova",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "II Corinthians 5:14-21"
+      ],
+      "titulo": {
+        "es": "Nuevas Son Todas las Cosas - 2 Corintios 5 | Biblia en espanol",
+        "en": "All Things Are Become New - 2 Corinthians 5 | Bible",
+        "pt": "Todas as Coisas se Fizeram Novas - 2 Corintios 5 | Biblia narrada"
+      },
+      "thumb_titulo": {
+        "es": "NUEVA CRIATURA",
+        "en": "A NEW CREATURE",
+        "pt": "NOVA CRIATURA"
+      },
+      "thumb_sub": {
+        "es": "2 Corintios 5",
+        "en": "2 Corinthians 5",
+        "pt": "2 Corintios 5"
+      },
+      "consultas_imagens": [
+        "desert sunrise",
+        "river stones",
+        "wheat field"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "II Corinthians 5:17",
+        "tipo": "promesa",
+        "consulta_imagem": "desert sunrise",
+        "titulo": {
+          "es": "2 Corintios 5:17 - Si alguno esta en Cristo, nueva criatura es",
+          "en": "2 Corinthians 5:17 - If Any Man Be in Christ | Bible",
+          "pt": "2 Corintios 5:17 - Se alguem esta em Cristo, nova criatura e"
+        },
+        "aplicacao": {
+          "es": "La frase las cosas viejas pasaron esta en pasado, no en promesa.",
+          "pt": "A frase as coisas velhas ja passaram esta no passado, nao em promessa."
+        }
+      },
+      {
+        "ref": "Ezekiel 36:26",
+        "tipo": "promesa",
+        "consulta_imagem": "river stones",
+        "titulo": {
+          "es": "Ezequiel 36:26 - Os dare corazon nuevo | Biblia en espanol",
+          "en": "Ezekiel 36:26 - A New Heart Also Will I Give You | Bible",
+          "pt": "Ezequiel 36:26 - Dar-vos-ei um coracao novo | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "El contraste es material: corazon de piedra y corazon de carne.",
+          "pt": "O contraste e material: coracao de pedra e coracao de carne."
+        }
+      },
+      {
+        "ref": "Isaiah 43:18-19",
+        "tipo": "promesa",
+        "consulta_imagem": "desert sunrise",
+        "titulo": {
+          "es": "Isaias 43 - He aqui que yo hago cosa nueva | Biblia en espanol",
+          "en": "Isaiah 43 - Behold, I Will Do a New Thing | Bible",
+          "pt": "Isaias 43 - Eis que faco uma coisa nova | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "Las imagenes son de camino en el desierto y rios en la soledad.",
+          "pt": "As imagens sao de caminho no deserto e rios no ermo."
+        }
+      },
+      {
+        "ref": "Romans 12:2",
+        "tipo": "descriptivo",
+        "consulta_imagem": "open book",
+        "titulo": {
+          "es": "Romanos 12:2 - Transformaos por la renovacion de vuestro entendimiento",
+          "en": "Romans 12:2 - Be Ye Transformed | Bible",
+          "pt": "Romanos 12:2 - Transformai-vos pela renovacao da vossa mente"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "elias-carmelo",
+    "formato": "historia",
+    "longo": {
+      "refs": [
+        "I Kings 18:30-46"
+      ],
+      "titulo": {
+        "es": "Elias en el Monte Carmelo - 1 Reyes 18 | Historia biblica",
+        "en": "Elijah on Mount Carmel - 1 Kings 18 | Bible Story",
+        "pt": "Elias no Monte Carmelo - 1 Reis 18 | Historia biblica"
+      },
+      "thumb_titulo": {
+        "es": "CAYO FUEGO",
+        "en": "THE FIRE FELL",
+        "pt": "CAIU FOGO"
+      },
+      "thumb_sub": {
+        "es": "1 Reyes 18",
+        "en": "1 Kings 18",
+        "pt": "1 Reis 18"
+      },
+      "consultas_imagens": [
+        "mountain dawn",
+        "storm clouds",
+        "bonfire night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "I Kings 18:21",
+        "tipo": "conflicto",
+        "consulta_imagem": "mountain dawn",
+        "titulo": {
+          "es": "1 Reyes 18 - Hasta cuando claudicareis | Historia biblica",
+          "en": "1 Kings 18 - How Long Halt Ye Between Two Opinions | Bible",
+          "pt": "1 Reis 18 - Ate quando coxeareis | Historia biblica"
+        },
+        "aplicacao": {
+          "es": "El relato anota la reaccion del pueblo: no respondio palabra.",
+          "pt": "O relato anota a reacao do povo: nao respondeu palavra."
+        }
+      },
+      {
+        "ref": "I Kings 18:36-39",
+        "tipo": "descriptivo",
+        "consulta_imagem": "bonfire night",
+        "titulo": {
+          "es": "1 Reyes 18 - Respondeme, Jehova | Historia biblica narrada",
+          "en": "1 Kings 18 - Hear Me, O Lord | Bible Story Narrated",
+          "pt": "1 Reis 18 - Responde-me, Senhor | Historia biblica narrada"
+        },
+        "aplicacao": {
+          "es": "Antes de esto, el texto dice que el altar fue empapado con agua tres veces.",
+          "pt": "Antes disso, o texto diz que o altar foi encharcado de agua tres vezes."
+        }
+      },
+      {
+        "ref": "I Kings 19:11-12",
+        "tipo": "descriptivo",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "es": "1 Reyes 19 - Un silbo apacible y delicado | Biblia en espanol",
+          "en": "1 Kings 19 - A Still Small Voice | Bible",
+          "pt": "1 Reis 19 - Uma voz mansa e delicada | Biblia narrada"
+        },
+        "aplicacao": {
+          "es": "La escena enumera viento, terremoto y fuego, y descarta los tres.",
+          "pt": "A cena enumera vento, terremoto e fogo, e descarta os tres."
+        }
+      },
+      {
+        "ref": "I Kings 17:14-16",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "es": "1 Reyes 17 - La harina no escaseara | Historia biblica",
+          "en": "1 Kings 17 - The Barrel of Meal Shall Not Waste | Bible",
+          "pt": "1 Reis 17 - A farinha nao se acabara | Historia biblica"
         }
       }
     ]
