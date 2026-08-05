@@ -130,3 +130,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/17871527820630226/
 - Publicado em: 2026-08-05T00:17:50+00:00
+
+## 18094789835619915 — A VÍTIMA ETERNA
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18094789835619915/
+- Publicado em: 2026-08-05T20:42:21+00:00
