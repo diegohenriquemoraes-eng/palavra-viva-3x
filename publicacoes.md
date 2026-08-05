@@ -1374,3 +1374,11 @@
 - Item: short-1 — Oráculo manual 130:1
 - Duração: 21.1s
 - Publicado em: 2026-08-05T05:34:06+00:00
+
+## [pt] doT34kO7eGk — Salmo 91 — À sombra do Altíssimo | Bíblia narrada
+
+- URL: https://youtu.be/doT34kO7eGk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 91:1-2
+- Duração: 23.9s
+- Publicado em: 2026-08-05T07:35:22+00:00
