@@ -491,12 +491,19 @@
           "video_id": "ca1Uyab0Vzo",
           "titulo": "Salmo 121 — Mi socorro viene de Jehová | Biblia",
           "em": "2026-08-05T15:09:44+00:00"
+        },
+        {
+          "pacote": "2026-08-05-salmos-dormir-5",
+          "item": "short-3",
+          "video_id": "wRrCwrS2o74",
+          "titulo": "Salmo 27:1 — Jehová es mi luz y mi salvación | Biblia",
+          "em": "2026-08-05T22:11:28+00:00"
         }
       ],
-      "ultimo_short": "2026-08-05T15:09:44+00:00",
+      "ultimo_short": "2026-08-05T22:11:28+00:00",
       "shorts_dia": {
         "data": "2026-08-05",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-05"
     },

@@ -1398,3 +1398,11 @@
 - Item: short-2 — Salmo 121:1-3
 - Duração: 23.6s
 - Publicado em: 2026-08-05T15:10:56+00:00
+
+## [es] wRrCwrS2o74 — Salmo 27:1 — Jehová es mi luz y mi salvación | Biblia
+
+- URL: https://youtu.be/wRrCwrS2o74
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 27:1
+- Duração: 18.9s
+- Publicado em: 2026-08-05T22:11:28+00:00
