@@ -124,3 +124,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18104365196130833/
 - Publicado em: 2026-08-04T20:46:44+00:00
+
+## 17871527820630226 — O QUE DEPENDE DE VOCÊ
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/17871527820630226/
+- Publicado em: 2026-08-05T00:17:50+00:00
