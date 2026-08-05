@@ -1326,3 +1326,19 @@
 - Item: short-3 — Salmo 62:1-2
 - Duração: 15.9s
 - Publicado em: 2026-08-04T22:53:59+00:00
+
+## [es] AwAtQLA8AAU — Salmos para Dormir — Protección de Noche | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/AwAtQLA8AAU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 91, Salmo 121, Salmo 27, Salmo 46, Salmo 34, Salmo 118, Salmo 125, Salmo 61
+- Duração: 3884.6s
+- Publicado em: 2026-08-05T02:09:07+00:00
+
+## [stoic] R1lcUUBnt_M — La mejor venganza, según Marco Aurelio
+
+- URL: https://youtu.be/R1lcUUBnt_M
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:6
+- Duração: 17.6s
+- Publicado em: 2026-08-05T02:10:49+00:00
