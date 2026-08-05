@@ -2,8 +2,8 @@
   "slug": "salmos-dormir-5",
   "formato": "dormir",
   "data": "2026-08-05",
-  "criado_em": "2026-08-04T21:59:37+00:00",
-  "aprovado_em": "2026-08-04T21:59:37+00:00",
+  "criado_em": "2026-08-05T15:00:22+00:00",
+  "aprovado_em": "2026-08-05T15:00:22+00:00",
   "longo": {
     "refs": [
       "Psalms 91",
@@ -62,16 +62,10 @@
         "licenca": "CC0"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Karachay-Cherkessia%2C_Caucasus_Mountains%2C_Abishira-Akhuba%2C_Lazurnoe_Lake_at_night.jpg/1920px-Karachay-Cherkessia%2C_Caucasus_Mountains%2C_Abishira-Akhuba%2C_Lazurnoe_Lake_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "autor": "Vyacheslav Argenberg",
-        "origem": "https://commons.wikimedia.org/wiki/File:Karachay-Cherkessia,_Caucasus_Mountains,_Abishira-Akhuba,_Lazurnoe_Lake_at_night.jpg",
-        "licenca": "CC BY 4.0"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Night_In_The_White_Mountains_%2852568172%29.jpeg/1920px-Night_In_The_White_Mountains_%2852568172%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "autor": "Robbie Shade",
-        "origem": "https://commons.wikimedia.org/wiki/File:Night_In_The_White_Mountains_(52568172).jpeg",
-        "licenca": "CC BY 3.0"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mountains_at_Night_%284539481695%29.jpg/1920px-Mountains_at_Night_%284539481695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jennifer C.",
+        "origem": "https://commons.wikimedia.org/wiki/File:Mountains_at_Night_(4539481695).jpg",
+        "licenca": "CC BY 2.0"
       },
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/San_Diego_mountains_at_night_%28Unsplash%29.jpg/1920px-San_Diego_mountains_at_night_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -83,6 +77,12 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Winter_Night_in_the_Mountains._Study_%28Harald_Sohlberg%29_-_Nationalmuseum_-_25961.tif/lossy-page1-1920px-Winter_Night_in_the_Mountains._Study_%28Harald_Sohlberg%29_-_Nationalmuseum_-_25961.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "autor": "Harald Sohlberg",
         "origem": "https://commons.wikimedia.org/wiki/File:Winter_Night_in_the_Mountains._Study_(Harald_Sohlberg)_-_Nationalmuseum_-_25961.tif",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Harald_Sohlberg_-_Winter_Night_in_the_Mountains_-_Vinternatt_i_Rondane_-_1914_-_737ehedjd2.jpg/1920px-Harald_Sohlberg_-_Winter_Night_in_the_Mountains_-_Vinternatt_i_Rondane_-_1914_-_737ehedjd2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Øyvind Holmstad",
+        "origem": "https://commons.wikimedia.org/wiki/File:Harald_Sohlberg_-_Winter_Night_in_the_Mountains_-_Vinternatt_i_Rondane_-_1914_-_737ehedjd2.jpg",
         "licenca": "Public domain"
       },
       {
@@ -184,7 +184,12 @@
         "en": "Psalm 46 — God Is Our Refuge and Strength | Bible"
       },
       "aplicacao": "",
-      "imagem": null
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      }
     }
   ]
 }

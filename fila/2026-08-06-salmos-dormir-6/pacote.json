@@ -2,8 +2,8 @@
   "slug": "salmos-dormir-6",
   "formato": "dormir",
   "data": "2026-08-06",
-  "criado_em": "2026-08-04T21:59:58+00:00",
-  "aprovado_em": "2026-08-04T21:59:58+00:00",
+  "criado_em": "2026-08-05T15:00:43+00:00",
+  "aprovado_em": "2026-08-05T15:00:43+00:00",
   "longo": {
     "refs": [
       "Psalms 46",
@@ -32,6 +32,12 @@
     },
     "imagens": [
       {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Local_rock_band_performs_live_at_outdoor_festival_under_night_sky_with_vibrant_lights_and_energetic_crowd.jpg/1920px-Local_rock_band_performs_live_at_outdoor_festival_under_night_sky_with_vibrant_lights_and_energetic_crowd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "autor": "Shixart1985",
         "origem": "https://commons.wikimedia.org/wiki/File:Local_rock_band_performs_live_at_outdoor_festival_under_night_sky_with_vibrant_lights_and_energetic_crowd.jpg",
@@ -54,6 +60,36 @@
         "autor": "Steve Jurvetson",
         "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg",
         "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Moon_and_clouds_over_Brofjorden_7.jpg/1920px-Moon_and_clouds_over_Brofjorden_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_7.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Moon_Clouds_Treetops.jpg/1920px-Moon_Clouds_Treetops.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Night_moon_with_clouds.jpg/1920px-Night_moon_with_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MD Rohan Sheikh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_moon_with_clouds.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Moon_Clouds_Treetops_Abstract_2.jpg/1920px-Moon_Clouds_Treetops_Abstract_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract_2.jpg",
+        "licenca": "Public domain"
       }
     ]
   },
@@ -70,7 +106,12 @@
         "es": "El salmo insiste en una sola palabra: 'solamente'.",
         "pt": "O salmo insiste numa palavra só: 'somente'."
       },
-      "imagem": null
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Moon_and_clouds_over_Brofjorden_5.jpg/1920px-Moon_and_clouds_over_Brofjorden_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_5.jpg",
+        "licenca": "CC0"
+      }
     },
     {
       "ref": "Psalms 63:6-8",
@@ -119,7 +160,12 @@
         "en": "Psalm 46 — God Is Our Refuge and Strength | Bible"
       },
       "aplicacao": "",
-      "imagem": null
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      }
     }
   ]
 }
