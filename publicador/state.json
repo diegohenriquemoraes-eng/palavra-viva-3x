@@ -477,12 +477,19 @@
           "video_id": "AwAtQLA8AAU",
           "titulo": "Salmos para Dormir — Protección de Noche | Biblia Hablada con Voz Calmada",
           "em": "2026-08-05T02:09:07+00:00"
+        },
+        {
+          "pacote": "2026-08-05-salmos-dormir-5",
+          "item": "short-1",
+          "video_id": "e27xwiRUzu0",
+          "titulo": "Salmo 91 — Bajo la sombra del Altísimo | Biblia",
+          "em": "2026-08-05T04:57:38+00:00"
         }
       ],
-      "ultimo_short": "2026-08-04T21:03:21+00:00",
+      "ultimo_short": "2026-08-05T04:57:38+00:00",
       "shorts_dia": {
-        "data": "2026-08-04",
-        "n": 3
+        "data": "2026-08-05",
+        "n": 1
       },
       "longo_data": "2026-08-05"
     },
@@ -1127,6 +1134,13 @@
           "video_id": "PXCdbfQa2TA",
           "titulo": "Salmo 62 — A minha alma descansa em Deus | Bíblia",
           "em": "2026-08-04T22:53:59+00:00"
+        },
+        {
+          "pacote": "2026-08-05-salmos-dormir-5",
+          "item": "longo",
+          "video_id": "zTAwGoA8uEA",
+          "titulo": "Salmos para Dormir — Proteção à Noite | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-05T05:31:36+00:00"
         }
       ],
       "ultimo_short": "2026-08-04T22:53:59+00:00",
@@ -1134,7 +1148,7 @@
         "data": "2026-08-04",
         "n": 3
       },
-      "longo_data": "2026-08-04"
+      "longo_data": "2026-08-05"
     },
     "stoic": {
       "publicados": [
@@ -1217,11 +1231,18 @@
           "video_id": "zE7CHGK1-c4",
           "titulo": "Fuerza sin astucia es un blanco fácil",
           "em": "2026-08-04T05:29:00+00:00"
+        },
+        {
+          "pacote": "2026-08-05-la-crueldad-bien-usada",
+          "item": "short-1",
+          "video_id": "PGZQJVt11r4",
+          "titulo": "Lo duro, de una vez; lo bueno, a plazos",
+          "em": "2026-08-05T05:32:46+00:00"
         }
       ],
-      "ultimo_short": "2026-08-04T05:29:00+00:00",
+      "ultimo_short": "2026-08-05T05:32:46+00:00",
       "shorts_dia": {
-        "data": "2026-08-04",
+        "data": "2026-08-05",
         "n": 1
       },
       "longo_data": ""
@@ -1234,11 +1255,18 @@
           "video_id": "mbX-AgLjOQ4",
           "titulo": "Quien juega a cartas vistas, pierde",
           "em": "2026-08-04T05:29:55+00:00"
+        },
+        {
+          "pacote": "2026-08-05-hacer-y-hacer-parecer",
+          "item": "short-1",
+          "video_id": "I4zMqyRaSkw",
+          "titulo": "Lo que no se ve es como si no fuera",
+          "em": "2026-08-05T05:34:06+00:00"
         }
       ],
-      "ultimo_short": "2026-08-04T05:29:55+00:00",
+      "ultimo_short": "2026-08-05T05:34:06+00:00",
       "shorts_dia": {
-        "data": "2026-08-04",
+        "data": "2026-08-05",
         "n": 1
       },
       "longo_data": ""

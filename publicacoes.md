@@ -1342,3 +1342,35 @@
 - Item: short-1 — Meditaciones 6:6
 - Duração: 17.6s
 - Publicado em: 2026-08-05T02:10:49+00:00
+
+## [es] e27xwiRUzu0 — Salmo 91 — Bajo la sombra del Altísimo | Biblia
+
+- URL: https://youtu.be/e27xwiRUzu0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 91:1-2
+- Duração: 23.6s
+- Publicado em: 2026-08-05T04:57:38+00:00
+
+## [pt] zTAwGoA8uEA — Salmos para Dormir — Proteção à Noite | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/zTAwGoA8uEA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 91, Salmo 121, Salmo 27, Salmo 46, Salmo 34, Salmo 118, Salmo 125, Salmo 61
+- Duração: 4013.6s
+- Publicado em: 2026-08-05T05:31:36+00:00
+
+## [poder] PGZQJVt11r4 — Lo duro, de una vez; lo bueno, a plazos
+
+- URL: https://youtu.be/PGZQJVt11r4
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 8:27
+- Duração: 16.8s
+- Publicado em: 2026-08-05T05:32:46+00:00
+
+## [astucia] I4zMqyRaSkw — Lo que no se ve es como si no fuera
+
+- URL: https://youtu.be/I4zMqyRaSkw
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 130:1
+- Duração: 21.1s
+- Publicado em: 2026-08-05T05:34:06+00:00
