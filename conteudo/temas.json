@@ -1695,7 +1695,7 @@
       "consultas_imagens": [
         "stars desert",
         "moonlight sea",
-        "starlight calm"
+        "night sky"
       ]
     },
     "shorts": [
@@ -1813,7 +1813,7 @@
       {
         "ref": "Romans 12:12",
         "tipo": "promesa",
-        "consulta_imagem": "olive tree",
+        "consulta_imagem": "lake sunset",
         "titulo": {
           "es": "Romanos 12:12 - Gozosos en la esperanza | Biblia en espanol",
           "en": "Romans 12:12 - Rejoicing in Hope | Bible",
@@ -1866,7 +1866,7 @@
         "en": "Psalm 42 • 116 • 131"
       },
       "consultas_imagens": [
-        "night stream forest",
+        "river stones",
         "starry sky",
         "calm water moon"
       ]
@@ -1875,7 +1875,7 @@
       {
         "ref": "Psalms 42:1-2",
         "tipo": "promesa",
-        "consulta_imagem": "night stream forest",
+        "consulta_imagem": "river stones",
         "titulo": {
           "pt": "Salmo 42 — Como a corça anseia pelas águas | Bíblia",
           "es": "Salmo 42 — Como el ciervo brama por las aguas | Biblia",
@@ -1950,7 +1950,7 @@
       },
       "consultas_imagens": [
         "forest path",
-        "open book",
+        "clay lamp",
         "wheat field"
       ]
     },
@@ -2124,7 +2124,7 @@
       "consultas_imagens": [
         "clay lamp",
         "night sky",
-        "olive tree"
+        "lake sunset"
       ]
     },
     "shorts": [
@@ -2145,7 +2145,7 @@
       {
         "ref": "I Thessalonians 5:16-18",
         "tipo": "descriptivo",
-        "consulta_imagem": "olive tree",
+        "consulta_imagem": "lake sunset",
         "titulo": {
           "es": "1 Tesalonicenses 5 - Orad sin cesar | Biblia en espanol",
           "en": "1 Thessalonians 5 - Pray Without Ceasing | Bible",
@@ -2295,9 +2295,9 @@
         "pt": "Romanos 8"
       },
       "consultas_imagens": [
-        "olive tree",
+        "lake sunset",
         "mountain dawn",
-        "open book"
+        "clay lamp"
       ]
     },
     "shorts": [
@@ -2318,7 +2318,7 @@
       {
         "ref": "Romans 8:14-16",
         "tipo": "promesa",
-        "consulta_imagem": "olive tree",
+        "consulta_imagem": "lake sunset",
         "titulo": {
           "es": "Romanos 8 - No habeis recibido espiritu de esclavitud | Biblia",
           "en": "Romans 8 - Ye Have Not Received the Spirit of Bondage | Bible",
@@ -2332,7 +2332,7 @@
       {
         "ref": "Ephesians 2:8-10",
         "tipo": "promesa",
-        "consulta_imagem": "open book",
+        "consulta_imagem": "clay lamp",
         "titulo": {
           "es": "Efesios 2:8 - Por gracia sois salvos | Biblia en espanol",
           "en": "Ephesians 2:8 - By Grace Are Ye Saved | Bible",
@@ -3031,7 +3031,7 @@
       {
         "ref": "Romans 12:2",
         "tipo": "descriptivo",
-        "consulta_imagem": "open book",
+        "consulta_imagem": "clay lamp",
         "titulo": {
           "es": "Romanos 12:2 - Transformaos por la renovacion de vuestro entendimiento",
           "en": "Romans 12:2 - Be Ye Transformed | Bible",
