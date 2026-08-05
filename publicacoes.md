@@ -1406,3 +1406,11 @@
 - Item: short-3 — Salmo 27:1
 - Duração: 18.9s
 - Publicado em: 2026-08-05T22:11:28+00:00
+
+## [pt] m1E05k2XedE — Salmo 27:1 — O Senhor é a minha luz | Bíblia
+
+- URL: https://youtu.be/m1E05k2XedE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 27:1
+- Duração: 18.6s
+- Publicado em: 2026-08-05T23:51:55+00:00
