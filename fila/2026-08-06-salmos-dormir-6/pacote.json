@@ -2,8 +2,8 @@
   "slug": "salmos-dormir-6",
   "formato": "dormir",
   "data": "2026-08-06",
-  "criado_em": "2026-08-05T15:00:43+00:00",
-  "aprovado_em": "2026-08-05T15:00:43+00:00",
+  "criado_em": "2026-08-05T15:54:16+00:00",
+  "aprovado_em": "2026-08-05T15:54:16+00:00",
   "longo": {
     "refs": [
       "Psalms 46",
@@ -29,6 +29,35 @@
       "pt": "Salmo 46 • 62 • 63",
       "es": "Salmo 46 • 62 • 63",
       "en": "Psalm 46 • 62 • 63"
+    },
+    "abertura": {
+      "es": "Ocho salmos de refugio y confianza. En ellos vuelve una palabra: solamente. En Dios solamente está acallada mi alma, dice el 62. El 90 es el único salmo atribuido a Moisés en su encabezado. Escúchalos despacio, sin prisa por llegar al final.",
+      "pt": "Oito salmos de refúgio e confiança. Neles volta uma palavra: somente. Somente em Deus a minha alma descansa, diz o 62. O 90 é o único salmo atribuído a Moisés no cabeçalho. Ouça devagar, sem pressa de chegar ao fim."
+    },
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 62",
+        "salmo 63",
+        "salmo 90",
+        "biblia hablada",
+        "salmos de confianza",
+        "descanso en dios",
+        "musica no, palabra si"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 62",
+        "salmo 63",
+        "salmo 90",
+        "biblia narrada",
+        "salmos de confianca",
+        "descanso em deus"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos de refugio y confianza para dormir: Salmo 46, 61, 62, 63, 71, 84, 90 y 142, en lectura lenta y continua, Reina-Valera 1909. Sin música fuerte, sin cortes.",
+      "pt": "Salmos de refúgio e confiança para dormir: Salmo 46, 61, 62, 63, 71, 84, 90 e 142, em leitura lenta e contínua, na Bíblia Livre. Sem música alta, sem cortes."
     },
     "imagens": [
       {
@@ -62,18 +91,6 @@
         "licenca": "CC BY 2.0"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "autor": "W.carter",
-        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg",
-        "licenca": "CC0"
-      },
-      {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Moon_and_clouds_over_Brofjorden_7.jpg/1920px-Moon_and_clouds_over_Brofjorden_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "autor": "W.carter",
-        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_7.jpg",
-        "licenca": "CC0"
-      },
-      {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Moon_Clouds_Treetops.jpg/1920px-Moon_Clouds_Treetops.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
         "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops.jpg",
@@ -90,6 +107,18 @@
         "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
         "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract_2.jpg",
         "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Moon_and_clouds_over_Brofjorden_4.jpg/1920px-Moon_and_clouds_over_Brofjorden_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg",
+        "licenca": "CC0"
       }
     ]
   },

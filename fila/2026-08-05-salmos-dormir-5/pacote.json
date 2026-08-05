@@ -2,8 +2,8 @@
   "slug": "salmos-dormir-5",
   "formato": "dormir",
   "data": "2026-08-05",
-  "criado_em": "2026-08-05T15:00:22+00:00",
-  "aprovado_em": "2026-08-05T15:00:22+00:00",
+  "criado_em": "2026-08-05T15:53:55+00:00",
+  "aprovado_em": "2026-08-05T15:53:55+00:00",
   "longo": {
     "refs": [
       "Psalms 91",
@@ -29,6 +29,34 @@
       "pt": "Salmo 91 • 121 • 46",
       "es": "Salmo 91 • 121 • 46",
       "en": "Psalm 91 • 121 • 46"
+    },
+    "abertura": {
+      "es": "Estos son ocho salmos de protección, leídos despacio para el final del día. Sus imágenes son de refugio: la sombra del Altísimo, el guarda que no duerme, la roca más alta. Varios se cantaban subiendo a Jerusalén. Deja que la lectura te acompañe hasta quedarte dormido.",
+      "pt": "Estes são oito salmos de proteção, lidos devagar para o fim do dia. As imagens deles são de refúgio: a sombra do Altíssimo, o guarda que não dorme, a rocha mais alta. Vários eram cantados na subida a Jerusalém. Deixe a leitura te acompanhar até o sono chegar."
+    },
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 91 hablado",
+        "salmo 121",
+        "biblia hablada para dormir",
+        "salmos de proteccion",
+        "oracion de la noche",
+        "palabra de dios para dormir"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 91 narrado",
+        "salmo 121",
+        "biblia narrada para dormir",
+        "salmos de protecao",
+        "oracao da noite",
+        "palavra de deus para dormir"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos de protección para dormir: Salmo 91, 121, 27, 46, 34, 118, 125 y 61, leídos con voz pausada y fondo tranquilo, en la versión Reina-Valera 1909. Para escuchar de noche, en oración o para conciliar el sueño.",
+      "pt": "Salmos de proteção para dormir: Salmo 91, 121, 27, 46, 34, 118, 125 e 61, lidos com voz pausada e fundo tranquilo, na Bíblia Livre. Para ouvir à noite, em oração ou para pegar no sono."
     },
     "imagens": [
       {
