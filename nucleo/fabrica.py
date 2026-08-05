@@ -61,6 +61,11 @@ SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s (modo antigo)
 # por imagem (30 numa hora de vídeo), e é esse custo que prendia a duração.
 FUNDO_ESTATICO_LONGO = True
 
+# Abertura falada do longo (04/08/2026). REF_INTRO é a marca interna da seção;
+# nunca chega ao YouTube — vira o rótulo abaixo no capítulo 0:00 e na legenda.
+REF_INTRO = "__intro__"
+ROTULO_INTRO = {"es": "Introducción", "en": "Introduction", "pt": "Introdução"}
+
 
 def _seed(pacote: dict, extra: str) -> int:
     return zlib.crc32(f"{pacote['slug']}-{extra}".encode()) % 999_983
@@ -358,6 +363,21 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
         todos_versos += vs
         limites.append((ref, len(vs)))
 
+    # ABERTURA FALADA (aprovada pelo Diego em 04/08/2026): 20-40s de contexto
+    # ANTES do trecho de dormir — mesma voz, mesmo ritmo, sem música própria.
+    # É o que tira o longo de "leitura crua de texto alheio", que a política de
+    # monetização lista como inelegível; comentário DENTRO do vídeo acordaria
+    # quem ele acabou de fazer dormir, então a camada autoral vive só aqui.
+    # Vem do poço (longo.abertura, dict por idioma). Sem entrada -> comporta-se
+    # como antes, o que liga um idioma/canal de cada vez.
+    abertura = longo.get("abertura") or {}
+    if isinstance(abertura, dict):
+        abertura = abertura.get(idioma, "") or ""
+    abertura = abertura.strip()
+    if abertura:
+        todos_versos = [(0, abertura)] + todos_versos
+        limites = [(REF_INTRO, 1)] + limites
+
     voz = outdir / "voz.wav"
     segmentos, dur_voz = tts.narrar_versos(
         todos_versos, cfg["voz"], cfg["rate_longo"], PAUSA_VERSO,
@@ -376,7 +396,9 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
             blocos += legendas.agrupar(seg["palavras"], largura=34,
                                        max_palavras=7)
         secoes.append({
-            "cabecalho": biblia.cabecalho(idioma, ref),
+            "cabecalho": (ROTULO_INTRO.get(idioma, ROTULO_INTRO["es"])
+                          if ref == REF_INTRO
+                          else biblia.cabecalho(idioma, ref)),
             "ini": parte[0]["ini"],
             "fim": parte[-1]["fim"] + PAUSA_VERSO,
             "blocos": blocos,
@@ -450,19 +472,35 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     # 2 do formato "dormir" ganha marcação, senão a lista fica confusa.
     caps = []
     vistos = set()
+
+    def _rotulo(ref: str) -> str:
+        return (ROTULO_INTRO.get(idioma, ROTULO_INTRO["es"])
+                if ref == REF_INTRO else biblia.ref_exibicao(idioma, ref))
+
     for s in secoes:
-        rot = biblia.ref_exibicao(idioma, s["ref"])
+        rot = _rotulo(s["ref"])
         if rot in vistos:
             rot = f"{rot} ({cfg['rotulo_repeticao']})"
-        vistos.add(biblia.ref_exibicao(idioma, s["ref"]))
+        vistos.add(_rotulo(s["ref"]))
         caps.append(f"{_ts_capitulo(s['ini'])} {rot}")
-    caps[0] = f"0:00 {biblia.ref_exibicao(idioma, secoes[0]['ref'])}"
+    caps[0] = f"0:00 {_rotulo(secoes[0]['ref'])}"
     # Ordem pensada: título, oferta (o YouTube corta a descrição depois de
     # ~3 linhas — o que converte precisa estar acima do "mostrar mais"),
     # depois capítulos, fonte, CTA e créditos. Os capítulos continuam válidos
     # em qualquer posição desde que o primeiro seja 0:00.
+    # SEO POR TEMA (04/08/2026). Longo é achado na BUSCA, e as tags eram 16
+    # fixas por idioma para todos os temas — a única alavanca do longo jogada
+    # fora (diagnóstico de ESTRATEGIA-FANTASMA.md §1.6). O poço agora traz
+    # `tags_extra` e `descricao_busca` por idioma; canal fixo continua como
+    # base. Teto de ~470 chars no total de tags (o YouTube corta em 500).
+    tags = list(cfg["tags"])
+    for t in (longo.get("tags_extra") or {}).get(idioma, []):
+        if t not in tags and sum(len(x) + 1 for x in tags) + len(t) < 470:
+            tags.append(t)
+    busca = ((longo.get("descricao_busca") or {}).get(idioma, "") or "").strip()
     descricao = (
         f"{longo['titulo'][idioma]}"
+        + (f"\n\n{busca}" if busca else "")
         + bloco_afiliado(afiliado)
         + f"\n\n{cfg['rotulo_capitulos']}\n" + "\n".join(caps) + "\n\n"
         f"{cfg['fonte_texto']}.\n\n{_cta(cfg, _seed(pacote, 'cta'))}\n\n"
@@ -473,7 +511,7 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
         "arquivo": video,
         "titulo": longo["titulo"][idioma],
         "descricao": descricao,
-        "tags": cfg["tags"],
+        "tags": tags,
         "thumb": thumb,
         "legenda_srt": srt,
         "duracao_s": round(dur, 1),

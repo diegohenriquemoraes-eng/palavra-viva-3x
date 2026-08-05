@@ -144,6 +144,12 @@ def criar_pacote(tema: dict, data: str, dry: bool, linha: dict) -> None:
             "titulo": tema["longo"]["titulo"],
             "thumb_titulo": tema["longo"]["thumb_titulo"],
             "thumb_sub": tema["longo"]["thumb_sub"],
+            # Camadas do longo (04/08/2026): abertura falada de 20-40s (o que
+            # tira o vídeo de "leitura crua") e SEO por tema (tags/descrição
+            # de busca), tudo por idioma. Vazio = comportamento antigo.
+            "abertura": tema["longo"].get("abertura", {}),
+            "tags_extra": tema["longo"].get("tags_extra", {}),
+            "descricao_busca": tema["longo"].get("descricao_busca", {}),
             "imagens": imgs_longo,
         },
         "shorts": shorts,

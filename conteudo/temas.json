@@ -1516,7 +1516,35 @@
         "night sky stars",
         "mountains night",
         "dark forest light"
-      ]
+      ],
+      "abertura": {
+        "es": "Estos son ocho salmos de protección, leídos despacio para el final del día. Sus imágenes son de refugio: la sombra del Altísimo, el guarda que no duerme, la roca más alta. Varios se cantaban subiendo a Jerusalén. Deja que la lectura te acompañe hasta quedarte dormido.",
+        "pt": "Estes são oito salmos de proteção, lidos devagar para o fim do dia. As imagens deles são de refúgio: a sombra do Altíssimo, o guarda que não dorme, a rocha mais alta. Vários eram cantados na subida a Jerusalém. Deixe a leitura te acompanhar até o sono chegar."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 91 hablado",
+          "salmo 121",
+          "biblia hablada para dormir",
+          "salmos de proteccion",
+          "oracion de la noche",
+          "palabra de dios para dormir"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 91 narrado",
+          "salmo 121",
+          "biblia narrada para dormir",
+          "salmos de protecao",
+          "oracao da noite",
+          "palavra de deus para dormir"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos de protección para dormir: Salmo 91, 121, 27, 46, 34, 118, 125 y 61, leídos con voz pausada y fondo tranquilo, en la versión Reina-Valera 1909. Para escuchar de noche, en oración o para conciliar el sueño.",
+        "pt": "Salmos de proteção para dormir: Salmo 91, 121, 27, 46, 34, 118, 125 e 61, lidos com voz pausada e fundo tranquilo, na Bíblia Livre. Para ouvir à noite, em oração ou para pegar no sono."
+      }
     },
     "shorts": [
       {
@@ -1606,7 +1634,36 @@
         "night sky",
         "rock night sky",
         "moon clouds"
-      ]
+      ],
+      "abertura": {
+        "es": "Ocho salmos de refugio y confianza. En ellos vuelve una palabra: solamente. En Dios solamente está acallada mi alma, dice el 62. El 90 es el único salmo atribuido a Moisés en su encabezado. Escúchalos despacio, sin prisa por llegar al final.",
+        "pt": "Oito salmos de refúgio e confiança. Neles volta uma palavra: somente. Somente em Deus a minha alma descansa, diz o 62. O 90 é o único salmo atribuído a Moisés no cabeçalho. Ouça devagar, sem pressa de chegar ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 62",
+          "salmo 63",
+          "salmo 90",
+          "biblia hablada",
+          "salmos de confianza",
+          "descanso en dios",
+          "musica no, palabra si"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 62",
+          "salmo 63",
+          "salmo 90",
+          "biblia narrada",
+          "salmos de confianca",
+          "descanso em deus"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos de refugio y confianza para dormir: Salmo 46, 61, 62, 63, 71, 84, 90 y 142, en lectura lenta y continua, Reina-Valera 1909. Sin música fuerte, sin cortes.",
+        "pt": "Salmos de refúgio e confiança para dormir: Salmo 46, 61, 62, 63, 71, 84, 90 e 142, em leitura lenta e contínua, na Bíblia Livre. Sem música alta, sem cortes."
+      }
     },
     "shorts": [
       {
@@ -1696,7 +1753,33 @@
         "stars desert",
         "moonlight sea",
         "night sky"
-      ]
+      ],
+      "abertura": {
+        "es": "Ocho salmos para la noche. Entre ellos, el 4 termina con el verso que da nombre a esta serie: en paz me acostaré y asimismo dormiré. El 8 mira los cielos, obra de tus dedos, la luna y las estrellas. Deja la lectura encendida y descansa.",
+        "pt": "Oito salmos para a noite. Entre eles, o 4 termina com o verso que dá nome a esta série: em paz me deitarei e dormirei. O 8 olha os céus, obra dos teus dedos, a lua e as estrelas. Deixe a leitura ligada e descanse."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 4",
+          "en paz me acostare",
+          "biblia para dormir",
+          "salmos de la noche",
+          "biblia hablada"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 4",
+          "em paz me deitarei",
+          "biblia para dormir",
+          "salmos da noite",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos para dormir en paz, con lectura lenta y fondo oscuro. Reina-Valera 1909.",
+        "pt": "Salmos para dormir em paz, com leitura lenta e fundo escuro. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -1779,7 +1862,33 @@
         "eagle soaring",
         "desert sunrise",
         "mountain dawn"
-      ]
+      ],
+      "abertura": {
+        "es": "Isaías cuarenta cierra con la imagen del águila. El capítulo empieza con la palabra consolad, y termina prometiendo fuerzas al cansado. Entre una cosa y otra, una pregunta se repite: a quién compararéis a Dios. Escucha el pasaje completo.",
+        "pt": "Isaías quarenta fecha com a imagem da águia. O capítulo começa com a palavra consolai, e termina prometendo forças ao cansado. Entre uma coisa e outra, uma pergunta se repete: a quem comparareis Deus. Ouça a passagem completa."
+      },
+      "tags_extra": {
+        "es": [
+          "isaias 40",
+          "los que esperan en jehova",
+          "alas como aguilas",
+          "fuerzas al cansado",
+          "biblia hablada",
+          "esperar en dios"
+        ],
+        "pt": [
+          "isaias 40",
+          "os que esperam no senhor",
+          "asas como aguias",
+          "forcas ao cansado",
+          "biblia narrada",
+          "esperar em deus"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Isaías 40:25-31 completo: los que esperan en Jehová tendrán nuevas fuerzas, levantarán alas como águilas. Lectura pausada, Reina-Valera 1909.",
+        "pt": "Isaías 40:25-31 completo: os que esperam no Senhor renovarão as forças, subirão com asas como águias. Leitura pausada, Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -1869,7 +1978,35 @@
         "river stones",
         "starry sky",
         "calm water moon"
-      ]
+      ],
+      "abertura": {
+        "es": "Estos salmos hablan de la mente inquieta. El 42 pregunta dos veces por qué te abates, alma mía. El 131 responde con la imagen más pequeña del libro: un niño en paz. El 130 espera como el centinela espera la mañana. Deja que las palabras bajen el ritmo contigo.",
+        "pt": "Estes salmos falam da mente inquieta. O 42 pergunta duas vezes por que te abates, minha alma. O 131 responde com a menor imagem do livro: uma criança em paz. O 130 espera como o vigia espera a manhã. Deixe as palavras baixarem o ritmo com você."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para la ansiedad",
+          "salmos para dormir",
+          "salmo 42",
+          "salmo 130",
+          "paz mental biblia",
+          "biblia hablada para dormir",
+          "ansiedad y fe"
+        ],
+        "pt": [
+          "salmos para ansiedade",
+          "salmos para dormir",
+          "salmo 42",
+          "salmo 130",
+          "paz na biblia",
+          "biblia narrada para dormir",
+          "ansiedade e fe"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos para la ansiedad y el descanso: Salmo 42, 43, 55, 77, 94, 116, 130 y 131, leídos despacio para calmar la mente antes de dormir. Reina-Valera 1909.",
+        "pt": "Salmos para a ansiedade e o descanso: Salmo 42, 43, 55, 77, 94, 116, 130 e 131, lidos devagar para acalmar a mente antes de dormir. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -1952,7 +2089,33 @@
         "forest path",
         "clay lamp",
         "wheat field"
-      ]
+      ],
+      "abertura": {
+        "es": "Proverbios tres es un padre hablando a un hijo. Cada consejo viene en dos líneas: la orden y lo que sigue de ella. La más citada está en el verso cinco: fíate de Jehová de todo tu corazón. Escucha el pasaje entero, consejo por consejo.",
+        "pt": "Provérbios três é um pai falando a um filho. Cada conselho vem em duas linhas: a ordem e o que decorre dela. O mais citado está no verso cinco: confia no Senhor de todo o teu coração. Ouça a passagem inteira, conselho por conselho."
+      },
+      "tags_extra": {
+        "es": [
+          "proverbios 3",
+          "fiate de jehova",
+          "sabiduria biblica",
+          "proverbios hablados",
+          "confia en dios",
+          "biblia hablada"
+        ],
+        "pt": [
+          "proverbios 3",
+          "confia no senhor",
+          "sabedoria biblica",
+          "proverbios narrados",
+          "confianca em deus",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Proverbios 3:1-12: fíate de Jehová de todo tu corazón y no te apoyes en tu propia prudencia. Lectura completa y pausada, Reina-Valera 1909.",
+        "pt": "Provérbios 3:1-12: confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Leitura completa e pausada, Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2042,7 +2205,33 @@
         "dark forest light",
         "milky way",
         "mountains night"
-      ]
+      ],
+      "abertura": {
+        "es": "Salmos sobre la luz. El 27 abre diciendo: el Señor es mi luz y mi salvación, a quién temeré. El 139 recuerda que ni la noche esconde de sus ojos: las tinieblas no encubren de ti. Ocho lecturas para terminar el día sin miedo a la oscuridad.",
+        "pt": "Salmos sobre a luz. O 27 abre dizendo: o Senhor é a minha luz e a minha salvação, a quem temerei. O 139 lembra que nem a noite esconde dos olhos dele: as trevas não encobrem de ti. Oito leituras para terminar o dia sem medo do escuro."
+      },
+      "tags_extra": {
+        "es": [
+          "salmo 27",
+          "el señor es mi luz",
+          "salmos para dormir",
+          "salmo 139",
+          "biblia hablada",
+          "salmos de la noche"
+        ],
+        "pt": [
+          "salmo 27",
+          "o senhor e minha luz",
+          "salmos para dormir",
+          "salmo 139",
+          "biblia narrada",
+          "salmos da noite"
+        ]
+      },
+      "descricao_busca": {
+        "es": "El Señor es mi luz: Salmo 27, 36, 43, 97, 104, 113, 139 y 121 leídos para dormir, con voz pausada. Reina-Valera 1909.",
+        "pt": "O Senhor é minha luz: Salmo 27, 36, 43, 97, 104, 113, 139 e 121 lidos para dormir, com voz pausada. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2125,7 +2314,33 @@
         "clay lamp",
         "night sky",
         "lake sunset"
-      ]
+      ],
+      "abertura": {
+        "es": "Lucas once empieza con un pedido de los discípulos: enséñanos a orar. La respuesta trae el Padre Nuestro, una parábola sobre insistir a medianoche, y tres verbos que suben de intensidad: pedid, buscad, llamad. Escucha el pasaje completo.",
+        "pt": "Lucas onze começa com um pedido dos discípulos: ensina-nos a orar. A resposta traz o Pai Nosso, uma parábola sobre insistir à meia-noite, e três verbos que sobem de intensidade: pedi, buscai, batei. Ouça a passagem completa."
+      },
+      "tags_extra": {
+        "es": [
+          "lucas 11",
+          "ensenanos a orar",
+          "pedid y se os dara",
+          "padre nuestro",
+          "como orar",
+          "biblia hablada"
+        ],
+        "pt": [
+          "lucas 11",
+          "ensina-nos a orar",
+          "pedi e dar-se-vos-a",
+          "pai nosso",
+          "como orar",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Lucas 11:1-13: enséñanos a orar. El Padre Nuestro, la parábola del amigo a medianoche y la promesa pedid y se os dará. Reina-Valera 1909.",
+        "pt": "Lucas 11:1-13: ensina-nos a orar. O Pai Nosso, a parábola do amigo à meia-noite e a promessa pedi e dar-se-vos-á. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2215,7 +2430,33 @@
         "mountain moonlight",
         "sunrise dark",
         "moon clouds"
-      ]
+      ],
+      "abertura": {
+        "es": "Salmos de misericordia y perdón. El 51 nace, según su encabezado, de la peor noche de David. El 103 mide el perdón con distancias: cuanto está lejos el oriente del occidente. El 130 lo dice en una línea: si mirases a los pecados, quién podría mantenerse. Escucha sin cargar nada.",
+        "pt": "Salmos de misericórdia e perdão. O 51 nasce, segundo o cabeçalho, da pior noite de Davi. O 103 mede o perdão com distâncias: quanto o oriente está longe do ocidente. O 130 diz numa linha: se observares as iniquidades, quem subsistirá. Ouça sem carregar nada."
+      },
+      "tags_extra": {
+        "es": [
+          "salmo 51",
+          "salmo 103",
+          "salmos de perdon",
+          "misericordia de dios",
+          "salmos para dormir",
+          "biblia hablada de noche"
+        ],
+        "pt": [
+          "salmo 51",
+          "salmo 103",
+          "salmos de perdao",
+          "misericordia de deus",
+          "salmos para dormir",
+          "biblia narrada a noite"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Misericordia y perdón: Salmo 32, 51, 103, 130, 143, 25, 40 y 86, lectura lenta para la noche. Reina-Valera 1909.",
+        "pt": "Misericórdia e perdão: Salmo 32, 51, 103, 130, 143, 25, 40 e 86, leitura lenta para a noite. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2298,7 +2539,33 @@
         "lake sunset",
         "mountain dawn",
         "clay lamp"
-      ]
+      ],
+      "abertura": {
+        "es": "Romanos ocho contrapone dos palabras: esclavitud y adopción. No habéis recibido espíritu de servidumbre, dice el texto, sino espíritu de adopción, por el cual clamamos Abba, Padre. Escucha el pasaje que va del temor a la casa.",
+        "pt": "Romanos oito contrapõe duas palavras: escravidão e adoção. Não recebestes espírito de servidão, diz o texto, mas espírito de adoção, pelo qual clamamos Aba, Pai. Ouça a passagem que vai do temor à casa."
+      },
+      "tags_extra": {
+        "es": [
+          "romanos 8",
+          "hijos de dios",
+          "abba padre",
+          "identidad en cristo",
+          "no hay condenacion",
+          "biblia hablada"
+        ],
+        "pt": [
+          "romanos 8",
+          "filhos de deus",
+          "aba pai",
+          "identidade em cristo",
+          "nenhuma condenacao",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Romanos 8:1-17: ninguna condenación hay para los que están en Cristo; espíritu de adopción, no de esclavitud. Lectura pausada, Reina-Valera 1909.",
+        "pt": "Romanos 8:1-17: nenhuma condenação há para os que estão em Cristo; espírito de adoção, não de escravidão. Leitura pausada, Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2388,7 +2655,33 @@
         "moonlight sea",
         "stars desert",
         "starry sky"
-      ]
+      ],
+      "abertura": {
+        "es": "Salmos de gratitud para cerrar el día. El 92 se presenta como cántico para el sábado: bueno es alabar de mañana tu misericordia, y tu verdad en las noches. El 100 cabe en cinco versos. El 145 recorre el alfabeto entero. Termina el día dando gracias, verso a verso.",
+        "pt": "Salmos de gratidão para fechar o dia. O 92 se apresenta como cântico para o sábado: bom é anunciar de manhã a tua misericórdia, e a tua fidelidade nas noites. O 100 cabe em cinco versos. O 145 percorre o alfabeto inteiro. Termine o dia agradecendo, verso a verso."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos de gratitud",
+          "salmo 100",
+          "salmo 145",
+          "accion de gracias",
+          "salmos para dormir",
+          "alabanza de noche"
+        ],
+        "pt": [
+          "salmos de gratidao",
+          "salmo 100",
+          "salmo 145",
+          "acao de gracas",
+          "salmos para dormir",
+          "louvor a noite"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Gratitud y descanso: Salmo 92, 95, 96, 98, 100, 111, 138 y 145 para terminar el día. Lectura pausada, Reina-Valera 1909.",
+        "pt": "Gratidão e descanso: Salmo 92, 95, 96, 98, 100, 111, 138 e 145 para terminar o dia. Leitura pausada, Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2471,7 +2764,33 @@
         "sheep pasture",
         "green pastures",
         "river stones"
-      ]
+      ],
+      "abertura": {
+        "es": "El salmo veintitrés tiene seis versos y dos escenarios. Empieza en el campo, con pastos y aguas de reposo, y termina en una casa, con mesa servida y copa que rebosa. A mitad de camino, el valle. Escúchalo completo, sin prisa, más de una vez.",
+        "pt": "O salmo vinte e três tem seis versos e dois cenários. Começa no campo, com pastos e águas tranquilas, e termina numa casa, com mesa posta e cálice que transborda. No meio do caminho, o vale. Ouça completo, sem pressa, mais de uma vez."
+      },
+      "tags_extra": {
+        "es": [
+          "salmo 23",
+          "jehova es mi pastor",
+          "salmo 23 hablado",
+          "nada me faltara",
+          "el buen pastor",
+          "salmo 23 completo"
+        ],
+        "pt": [
+          "salmo 23",
+          "o senhor e meu pastor",
+          "salmo 23 narrado",
+          "nada me faltara",
+          "o bom pastor",
+          "salmo 23 completo"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmo 23 completo: Jehová es mi pastor, nada me faltará. Con Juan 10, el buen pastor, e Isaías 40:11. Lectura lenta para orar o dormir. Reina-Valera 1909.",
+        "pt": "Salmo 23 completo: o Senhor é o meu pastor, nada me faltará. Com João 10, o bom pastor, e Isaías 40:11. Leitura lenta para orar ou dormir. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2554,7 +2873,33 @@
         "sea waves",
         "desert sunrise",
         "storm clouds"
-      ]
+      ],
+      "abertura": {
+        "es": "Éxodo catorce cuenta la noche del mar. El pueblo, entre el ejército y el agua; Moisés responde con una orden extraña: estad quietos. El texto anota un viento oriental que sopló toda la noche antes de que el mar se abriera. Escucha el relato completo.",
+        "pt": "Êxodo catorze conta a noite do mar. O povo, entre o exército e a água; Moisés responde com uma ordem estranha: aquietai-vos. O texto anota um vento oriental que soprou a noite inteira antes de o mar se abrir. Ouça o relato completo."
+      },
+      "tags_extra": {
+        "es": [
+          "moises mar rojo",
+          "exodo 14",
+          "historia biblica",
+          "el mar se abrio",
+          "jehova peleara por vosotros",
+          "historias de la biblia narradas"
+        ],
+        "pt": [
+          "moises mar vermelho",
+          "exodo 14",
+          "historia biblica",
+          "o mar se abriu",
+          "o senhor pelejara por vos",
+          "historias da biblia narradas"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Éxodo 14:10-31, la historia completa del Mar Rojo: Jehová peleará por vosotros, y el mar se dividió. Narración pausada, Reina-Valera 1909.",
+        "pt": "Êxodo 14:10-31, a história completa do Mar Vermelho: o Senhor pelejará por vós, e as águas se dividiram. Narração pausada, Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2644,7 +2989,33 @@
         "forest night",
         "temple night light",
         "night clouds"
-      ]
+      ],
+      "abertura": {
+        "es": "Salmos de paz interior. El libro entero abre con dos caminos, en el Salmo 1. El 133 compara la paz con el rocío que baja del monte. El 122 saluda a la ciudad con la palabra shalom. Ocho lecturas cortas para aquietar la casa por dentro.",
+        "pt": "Salmos de paz interior. O livro inteiro abre com dois caminhos, no Salmo 1. O 133 compara a paz com o orvalho que desce do monte. O 122 saúda a cidade com a palavra shalom. Oito leituras curtas para aquietar a casa por dentro."
+      },
+      "tags_extra": {
+        "es": [
+          "paz interior biblia",
+          "salmo 1",
+          "salmo 133",
+          "salmos para dormir",
+          "tranquilidad",
+          "biblia hablada"
+        ],
+        "pt": [
+          "paz interior biblia",
+          "salmo 1",
+          "salmo 133",
+          "salmos para dormir",
+          "tranquilidade",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Paz interior: Salmo 1, 15, 19, 24, 84, 122, 128 y 133 en lectura lenta para la noche. Reina-Valera 1909.",
+        "pt": "Paz interior: Salmo 1, 15, 19, 24, 84, 122, 128 e 133 em leitura lenta para a noite. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2727,7 +3098,33 @@
         "clay lamp",
         "night sky",
         "mountain dawn"
-      ]
+      ],
+      "abertura": {
+        "es": "Juan uno empieza con las mismas tres palabras que abren el Génesis: en el principio. Habla del Verbo, de la vida y de una luz que las tinieblas no vencieron. Escucha el prólogo entero, verso a verso.",
+        "pt": "João um começa com as mesmas três palavras que abrem o Gênesis: no princípio. Fala do Verbo, da vida e de uma luz que as trevas não venceram. Ouça o prólogo inteiro, verso a verso."
+      },
+      "tags_extra": {
+        "es": [
+          "juan 1",
+          "en el principio era el verbo",
+          "la luz en las tinieblas",
+          "evangelio de juan",
+          "biblia hablada",
+          "yo soy la luz del mundo"
+        ],
+        "pt": [
+          "joao 1",
+          "no principio era o verbo",
+          "a luz nas trevas",
+          "evangelho de joao",
+          "biblia narrada",
+          "eu sou a luz do mundo"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Juan 1:1-14: en el principio era el Verbo, y la luz en las tinieblas resplandece. Con Juan 8:12 y Salmo 119:105. Lectura pausada, Reina-Valera 1909.",
+        "pt": "João 1:1-14: no princípio era o Verbo, e a luz resplandece nas trevas. Com João 8:12 e Salmo 119:105. Leitura pausada, Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2810,7 +3207,33 @@
         "wheat field",
         "desert sunrise",
         "stone well"
-      ]
+      ],
+      "abertura": {
+        "es": "Génesis cuarenta y cinco es el momento en que José se da a conocer. Habían pasado más de veinte años desde el pozo. El texto dice que lloró tan fuerte que lo oyeron los egipcios, y que sus hermanos no podían responderle. Escucha la escena completa.",
+        "pt": "Gênesis quarenta e cinco é o momento em que José se dá a conhecer. Tinham passado mais de vinte anos desde o poço. O texto diz que ele chorou tão alto que os egípcios ouviram, e que os irmãos não conseguiam responder. Ouça a cena completa."
+      },
+      "tags_extra": {
+        "es": [
+          "jose y sus hermanos",
+          "genesis 45",
+          "historia de jose",
+          "historia biblica",
+          "vosotros pensasteis mal",
+          "historias de la biblia"
+        ],
+        "pt": [
+          "jose e seus irmaos",
+          "genesis 45",
+          "historia de jose",
+          "historia biblica",
+          "vos pensastes mal",
+          "historias da biblia"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Génesis 45:1-15: yo soy José, vuestro hermano. El reencuentro completo, narrado despacio. Reina-Valera 1909.",
+        "pt": "Gênesis 45:1-15: eu sou José, vosso irmão. O reencontro completo, narrado devagar. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2900,7 +3323,33 @@
         "night sky mountains",
         "night sky stars",
         "moon clouds"
-      ]
+      ],
+      "abertura": {
+        "es": "Estos salmos giran alrededor de una frase del 121: he aquí, no se adormecerá ni dormirá el que guarda a Israel. Tú duermes; alguien vela. El 56 lo dice de otro modo: en el día que temo, yo en ti confío. Cierra los ojos y escucha.",
+        "pt": "Estes salmos giram em torno de uma frase do 121: eis que não tosquejará nem dormirá o guarda de Israel. Você dorme; alguém vigia. O 56 diz de outro jeito: no dia em que eu temer, confiarei em ti. Feche os olhos e ouça."
+      },
+      "tags_extra": {
+        "es": [
+          "dios nunca duerme",
+          "salmo 121",
+          "salmo 91",
+          "salmos para dormir",
+          "proteccion de noche",
+          "biblia hablada para dormir"
+        ],
+        "pt": [
+          "deus nunca dorme",
+          "salmo 121",
+          "salmo 91",
+          "salmos para dormir",
+          "protecao a noite",
+          "biblia narrada para dormir"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Dios nunca duerme: Salmo 121, 91, 34, 37, 40, 56, 57 y 63 leídos para la noche. Reina-Valera 1909.",
+        "pt": "Deus nunca dorme: Salmo 121, 91, 34, 37, 40, 56, 57 e 63 lidos para a noite. Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -2983,7 +3432,33 @@
         "desert sunrise",
         "river stones",
         "wheat field"
-      ]
+      ],
+      "abertura": {
+        "es": "Segunda de Corintios cinco contiene la frase de la nueva criatura: las cosas viejas pasaron. Está en pasado, no en promesa. Ezequiel la acompaña con un contraste material: corazón de piedra, corazón de carne. Escucha los pasajes completos.",
+        "pt": "Segunda aos Coríntios cinco contém a frase da nova criatura: as coisas velhas já passaram. Está no passado, não em promessa. Ezequiel a acompanha com um contraste material: coração de pedra, coração de carne. Ouça as passagens completas."
+      },
+      "tags_extra": {
+        "es": [
+          "2 corintios 5 17",
+          "nueva criatura",
+          "corazon nuevo",
+          "ezequiel 36 26",
+          "vida nueva en cristo",
+          "biblia hablada"
+        ],
+        "pt": [
+          "2 corintios 5 17",
+          "nova criatura",
+          "coracao novo",
+          "ezequiel 36 26",
+          "vida nova em cristo",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "2 Corintios 5:14-21: si alguno está en Cristo, nueva criatura es. Con Ezequiel 36:26 e Isaías 43:18-19. Lectura pausada, Reina-Valera 1909.",
+        "pt": "2 Coríntios 5:14-21: se alguém está em Cristo, nova criatura é. Com Ezequiel 36:26 e Isaías 43:18-19. Leitura pausada, Bíblia Livre."
+      }
     },
     "shorts": [
       {
@@ -3066,7 +3541,33 @@
         "mountain dawn",
         "storm clouds",
         "bonfire night"
-      ]
+      ],
+      "abertura": {
+        "es": "Primera de Reyes dieciocho, el monte Carmelo. Un profeta contra cuatrocientos cincuenta, y una pregunta al pueblo: hasta cuándo claudicaréis entre dos pensamientos. El altar fue empapado con agua tres veces antes de la respuesta. Escucha el relato completo.",
+        "pt": "Primeiro livro dos Reis, dezoito, o monte Carmelo. Um profeta contra quatrocentos e cinquenta, e uma pergunta ao povo: até quando coxeareis entre dois pensamentos. O altar foi encharcado de água três vezes antes da resposta. Ouça o relato completo."
+      },
+      "tags_extra": {
+        "es": [
+          "elias monte carmelo",
+          "1 reyes 18",
+          "cayo fuego del cielo",
+          "historia biblica",
+          "profeta elias",
+          "historias de la biblia narradas"
+        ],
+        "pt": [
+          "elias monte carmelo",
+          "1 reis 18",
+          "caiu fogo do ceu",
+          "historia biblica",
+          "profeta elias",
+          "historias da biblia narradas"
+        ]
+      },
+      "descricao_busca": {
+        "es": "1 Reyes 18:30-46: Elías en el monte Carmelo, el altar empapado y el fuego que cayó. Narración completa y pausada, Reina-Valera 1909.",
+        "pt": "1 Reis 18:30-46: Elias no monte Carmelo, o altar encharcado e o fogo que caiu. Narração completa e pausada, Bíblia Livre."
+      }
     },
     "shorts": [
       {
