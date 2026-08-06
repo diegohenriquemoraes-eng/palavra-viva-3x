@@ -1454,3 +1454,19 @@
 - Item: short-1 — Oráculo manual 187:1
 - Duração: 22.0s
 - Publicado em: 2026-08-06T05:35:37+00:00
+
+## [es] xrhNyoY-d5A — Salmo 62 — En Dios solamente reposa mi alma | Biblia
+
+- URL: https://youtu.be/xrhNyoY-d5A
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 62:1-2
+- Duração: 20.0s
+- Publicado em: 2026-08-06T07:36:25+00:00
+
+## [pt] apUYklqBxdI — Salmo 62 — A minha alma descansa em Deus | Bíblia
+
+- URL: https://youtu.be/apUYklqBxdI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 62:1-2
+- Duração: 20.9s
+- Publicado em: 2026-08-06T07:37:27+00:00

@@ -505,12 +505,19 @@
           "video_id": "mqkr4qHD4Ag",
           "titulo": "Salmos para Dormir — Refugio y Confianza | Biblia Hablada con Voz Calmada",
           "em": "2026-08-06T02:16:50+00:00"
+        },
+        {
+          "pacote": "2026-08-06-salmos-dormir-6",
+          "item": "short-1",
+          "video_id": "xrhNyoY-d5A",
+          "titulo": "Salmo 62 — En Dios solamente reposa mi alma | Biblia",
+          "em": "2026-08-06T07:36:25+00:00"
         }
       ],
-      "ultimo_short": "2026-08-05T22:11:28+00:00",
+      "ultimo_short": "2026-08-06T07:36:25+00:00",
       "shorts_dia": {
-        "data": "2026-08-05",
-        "n": 3
+        "data": "2026-08-06",
+        "n": 1
       },
       "longo_data": "2026-08-06"
     },
@@ -1190,12 +1197,19 @@
           "video_id": "bQ4wg7NGn1s",
           "titulo": "Salmos para Dormir — Refúgio e Confiança | Bíblia Narrada com Voz Calma",
           "em": "2026-08-06T05:33:23+00:00"
+        },
+        {
+          "pacote": "2026-08-06-salmos-dormir-6",
+          "item": "short-1",
+          "video_id": "apUYklqBxdI",
+          "titulo": "Salmo 62 — A minha alma descansa em Deus | Bíblia",
+          "em": "2026-08-06T07:37:27+00:00"
         }
       ],
-      "ultimo_short": "2026-08-05T23:51:55+00:00",
+      "ultimo_short": "2026-08-06T07:37:27+00:00",
       "shorts_dia": {
-        "data": "2026-08-05",
-        "n": 3
+        "data": "2026-08-06",
+        "n": 1
       },
       "longo_data": "2026-08-06"
     },
