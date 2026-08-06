@@ -136,3 +136,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18094789835619915/
 - Publicado em: 2026-08-05T20:42:21+00:00
+
+## 18084887126233112 — ELOGIO DEMAIS
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18084887126233112/
+- Publicado em: 2026-08-06T00:13:04+00:00
