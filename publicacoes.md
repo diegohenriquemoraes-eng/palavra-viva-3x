@@ -1470,3 +1470,19 @@
 - Item: short-1 — Salmo 62:1-2
 - Duração: 20.9s
 - Publicado em: 2026-08-06T07:37:27+00:00
+
+## [es] GwibAjWuyVs — Salmo 63 — Me acuerdo de ti en mi lecho | Biblia
+
+- URL: https://youtu.be/GwibAjWuyVs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 63:6-7
+- Duração: 20.6s
+- Publicado em: 2026-08-06T15:09:15+00:00
+
+## [pt] _rpvJXEwavI — Salmo 63 — De noite me lembro de ti | Bíblia narrada
+
+- URL: https://youtu.be/_rpvJXEwavI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 63:6-7
+- Duração: 21.5s
+- Publicado em: 2026-08-06T15:10:14+00:00

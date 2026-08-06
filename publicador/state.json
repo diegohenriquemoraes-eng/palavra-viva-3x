@@ -512,12 +512,19 @@
           "video_id": "xrhNyoY-d5A",
           "titulo": "Salmo 62 — En Dios solamente reposa mi alma | Biblia",
           "em": "2026-08-06T07:36:25+00:00"
+        },
+        {
+          "pacote": "2026-08-06-salmos-dormir-6",
+          "item": "short-2",
+          "video_id": "GwibAjWuyVs",
+          "titulo": "Salmo 63 — Me acuerdo de ti en mi lecho | Biblia",
+          "em": "2026-08-06T15:09:15+00:00"
         }
       ],
-      "ultimo_short": "2026-08-06T07:36:25+00:00",
+      "ultimo_short": "2026-08-06T15:09:15+00:00",
       "shorts_dia": {
         "data": "2026-08-06",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-06"
     },
@@ -1204,12 +1211,19 @@
           "video_id": "apUYklqBxdI",
           "titulo": "Salmo 62 — A minha alma descansa em Deus | Bíblia",
           "em": "2026-08-06T07:37:27+00:00"
+        },
+        {
+          "pacote": "2026-08-06-salmos-dormir-6",
+          "item": "short-2",
+          "video_id": "_rpvJXEwavI",
+          "titulo": "Salmo 63 — De noite me lembro de ti | Bíblia narrada",
+          "em": "2026-08-06T15:10:14+00:00"
         }
       ],
-      "ultimo_short": "2026-08-06T07:37:27+00:00",
+      "ultimo_short": "2026-08-06T15:10:14+00:00",
       "shorts_dia": {
         "data": "2026-08-06",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-06"
     },
