@@ -498,6 +498,13 @@
           "video_id": "wRrCwrS2o74",
           "titulo": "Salmo 27:1 — Jehová es mi luz y mi salvación | Biblia",
           "em": "2026-08-05T22:11:28+00:00"
+        },
+        {
+          "pacote": "2026-08-06-salmos-dormir-6",
+          "item": "longo",
+          "video_id": "mqkr4qHD4Ag",
+          "titulo": "Salmos para Dormir — Refugio y Confianza | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-06T02:16:50+00:00"
         }
       ],
       "ultimo_short": "2026-08-05T22:11:28+00:00",
@@ -505,7 +512,7 @@
         "data": "2026-08-05",
         "n": 3
       },
-      "longo_data": "2026-08-05"
+      "longo_data": "2026-08-06"
     },
     "en": {
       "publicados": [
@@ -1249,11 +1256,18 @@
           "video_id": "R1lcUUBnt_M",
           "titulo": "La mejor venganza, según Marco Aurelio",
           "em": "2026-08-05T02:10:49+00:00"
+        },
+        {
+          "pacote": "2026-08-06-brevedad-vida",
+          "item": "short-1",
+          "video_id": "3JQFOftmurw",
+          "titulo": "El tiempo que te queda, según el emperador",
+          "em": "2026-08-06T02:18:10+00:00"
         }
       ],
-      "ultimo_short": "2026-08-05T02:10:49+00:00",
+      "ultimo_short": "2026-08-06T02:18:10+00:00",
       "shorts_dia": {
-        "data": "2026-08-05",
+        "data": "2026-08-06",
         "n": 1
       },
       "longo_data": ""

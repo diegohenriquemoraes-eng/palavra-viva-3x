@@ -1414,3 +1414,19 @@
 - Item: short-3 — Salmo 27:1
 - Duração: 18.6s
 - Publicado em: 2026-08-05T23:51:55+00:00
+
+## [es] mqkr4qHD4Ag — Salmos para Dormir — Refugio y Confianza | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/mqkr4qHD4Ag
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 46, Salmo 61, Salmo 62, Salmo 63, Salmo 71, Salmo 84, Salmo 90, Salmo 142
+- Duração: 3844.1s
+- Publicado em: 2026-08-06T02:16:50+00:00
+
+## [stoic] 3JQFOftmurw — El tiempo que te queda, según el emperador
+
+- URL: https://youtu.be/3JQFOftmurw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 4:26
+- Duração: 25.1s
+- Publicado em: 2026-08-06T02:18:10+00:00
