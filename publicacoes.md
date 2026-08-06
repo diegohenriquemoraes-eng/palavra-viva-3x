@@ -1430,3 +1430,27 @@
 - Item: short-1 — Meditaciones 4:26
 - Duração: 25.1s
 - Publicado em: 2026-08-06T02:18:10+00:00
+
+## [pt] bQ4wg7NGn1s — Salmos para Dormir — Refúgio e Confiança | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/bQ4wg7NGn1s
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 46, Salmo 61, Salmo 62, Salmo 63, Salmo 71, Salmo 84, Salmo 90, Salmo 142
+- Duração: 3961.5s
+- Publicado em: 2026-08-06T05:33:23+00:00
+
+## [poder] iUXQSn3x-dI — Quien depende de otros no manda
+
+- URL: https://youtu.be/iUXQSn3x-dI
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 13:27
+- Duração: 17.1s
+- Publicado em: 2026-08-06T05:34:28+00:00
+
+## [astucia] BH1sE54NllE — Quién debe dar la mala noticia
+
+- URL: https://youtu.be/BH1sE54NllE
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 187:1
+- Duração: 22.0s
+- Publicado em: 2026-08-06T05:35:37+00:00

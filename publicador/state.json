@@ -1183,6 +1183,13 @@
           "video_id": "m1E05k2XedE",
           "titulo": "Salmo 27:1 — O Senhor é a minha luz | Bíblia",
           "em": "2026-08-05T23:51:55+00:00"
+        },
+        {
+          "pacote": "2026-08-06-salmos-dormir-6",
+          "item": "longo",
+          "video_id": "bQ4wg7NGn1s",
+          "titulo": "Salmos para Dormir — Refúgio e Confiança | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-06T05:33:23+00:00"
         }
       ],
       "ultimo_short": "2026-08-05T23:51:55+00:00",
@@ -1190,7 +1197,7 @@
         "data": "2026-08-05",
         "n": 3
       },
-      "longo_data": "2026-08-05"
+      "longo_data": "2026-08-06"
     },
     "stoic": {
       "publicados": [
@@ -1287,11 +1294,18 @@
           "video_id": "PGZQJVt11r4",
           "titulo": "Lo duro, de una vez; lo bueno, a plazos",
           "em": "2026-08-05T05:32:46+00:00"
+        },
+        {
+          "pacote": "2026-08-06-armas-propias",
+          "item": "short-1",
+          "video_id": "iUXQSn3x-dI",
+          "titulo": "Quien depende de otros no manda",
+          "em": "2026-08-06T05:34:28+00:00"
         }
       ],
-      "ultimo_short": "2026-08-05T05:32:46+00:00",
+      "ultimo_short": "2026-08-06T05:34:28+00:00",
       "shorts_dia": {
-        "data": "2026-08-05",
+        "data": "2026-08-06",
         "n": 1
       },
       "longo_data": ""
@@ -1311,11 +1325,18 @@
           "video_id": "I4zMqyRaSkw",
           "titulo": "Lo que no se ve es como si no fuera",
           "em": "2026-08-05T05:34:06+00:00"
+        },
+        {
+          "pacote": "2026-08-06-lo-odioso-por-terceros",
+          "item": "short-1",
+          "video_id": "BH1sE54NllE",
+          "titulo": "Quién debe dar la mala noticia",
+          "em": "2026-08-06T05:35:37+00:00"
         }
       ],
-      "ultimo_short": "2026-08-05T05:34:06+00:00",
+      "ultimo_short": "2026-08-06T05:35:37+00:00",
       "shorts_dia": {
-        "data": "2026-08-05",
+        "data": "2026-08-06",
         "n": 1
       },
       "longo_data": ""
