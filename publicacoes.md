@@ -1486,3 +1486,19 @@
 - Item: short-2 — Salmo 63:6-7
 - Duração: 21.5s
 - Publicado em: 2026-08-06T15:10:14+00:00
+
+## [es] IXxpVk_V-_8 — Salmo 61 — Llévame a la roca que es más alta que yo | Biblia
+
+- URL: https://youtu.be/IXxpVk_V-_8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 61:1-2
+- Duração: 22.8s
+- Publicado em: 2026-08-06T23:51:15+00:00
+
+## [pt] h-QPVWryaXc — Salmo 61 — Leva-me à rocha mais alta do que eu | Bíblia
+
+- URL: https://youtu.be/h-QPVWryaXc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 61:1-2
+- Duração: 23.0s
+- Publicado em: 2026-08-06T23:52:26+00:00

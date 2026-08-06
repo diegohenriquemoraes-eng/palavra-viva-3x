@@ -519,12 +519,19 @@
           "video_id": "GwibAjWuyVs",
           "titulo": "Salmo 63 — Me acuerdo de ti en mi lecho | Biblia",
           "em": "2026-08-06T15:09:15+00:00"
+        },
+        {
+          "pacote": "2026-08-06-salmos-dormir-6",
+          "item": "short-3",
+          "video_id": "IXxpVk_V-_8",
+          "titulo": "Salmo 61 — Llévame a la roca que es más alta que yo | Biblia",
+          "em": "2026-08-06T23:51:15+00:00"
         }
       ],
-      "ultimo_short": "2026-08-06T15:09:15+00:00",
+      "ultimo_short": "2026-08-06T23:51:15+00:00",
       "shorts_dia": {
         "data": "2026-08-06",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-06"
     },
@@ -1218,12 +1225,19 @@
           "video_id": "_rpvJXEwavI",
           "titulo": "Salmo 63 — De noite me lembro de ti | Bíblia narrada",
           "em": "2026-08-06T15:10:14+00:00"
+        },
+        {
+          "pacote": "2026-08-06-salmos-dormir-6",
+          "item": "short-3",
+          "video_id": "h-QPVWryaXc",
+          "titulo": "Salmo 61 — Leva-me à rocha mais alta do que eu | Bíblia",
+          "em": "2026-08-06T23:52:26+00:00"
         }
       ],
-      "ultimo_short": "2026-08-06T15:10:14+00:00",
+      "ultimo_short": "2026-08-06T23:52:26+00:00",
       "shorts_dia": {
         "data": "2026-08-06",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-06"
     },
