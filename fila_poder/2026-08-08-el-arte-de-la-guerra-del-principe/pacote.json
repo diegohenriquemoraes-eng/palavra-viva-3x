@@ -1,0 +1,93 @@
+{
+  "slug": "el-arte-de-la-guerra-del-principe",
+  "formato": "tema",
+  "data": "2026-08-08",
+  "criado_em": "2026-08-06T03:42:00+00:00",
+  "aprovado_em": "2026-08-06T03:42:00+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 14"
+    ],
+    "titulo": {
+      "poder": "Lo Único que un Líder No Puede Delegar | Maquiavelo XIV"
+    },
+    "thumb_titulo": {
+      "poder": "NO SE DELEGA"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XIV"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Dark_Sword-grass_%28Agrotis_ipsilon%29_%2830790446527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ben Sale from Stevenage, UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_Sword-grass_(Agrotis_ipsilon)_(30790446527).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/%282091%29_Dark_Sword-grass_%28Agrotis_ipsilon%29_%283824874179%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ben Sale from UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:(2091)_Dark_Sword-grass_(Agrotis_ipsilon)_(3824874179).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Dark_Sword-grass_%28Agrotis_ipsilon%29_%2851486442587%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ben Sale from Stevenage, UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_Sword-grass_(Agrotis_ipsilon)_(51486442587).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/%282091%29_Dark_Sword-grass_%28Agrotis_ipsilon%29_%2819735355800%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ben Sale from UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:(2091)_Dark_Sword-grass_(Agrotis_ipsilon)_(19735355800).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Agrotis_ipsilon%5E_Dark_Sword-grass_-_Flickr_-_gailhampshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "gailhampshire from Cradley, Malvern, U.K",
+        "origem": "https://commons.wikimedia.org/wiki/File:Agrotis_ipsilon%5E_Dark_Sword-grass_-_Flickr_-_gailhampshire.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Budapest_castle_night_1.jpg/1920px-Budapest_castle_night_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Karelj",
+        "origem": "https://commons.wikimedia.org/wiki/File:Budapest_castle_night_1.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night%2C_1768_-_Google_Art_Project.jpg/1920px-Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night%2C_1768_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Paul Sandby",
+        "origem": "https://commons.wikimedia.org/wiki/File:Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night,_1768_-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 14:10",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Lo único que no puedes delegar"
+      },
+      "aplicacao": "Si dejas de entender tu propio oficio, mandas sobre gente que ya no te necesita.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dark_Sword-grass_%28Agrotis_ipsilon%29_%2852337014458%29.jpg/1920px-Dark_Sword-grass_%28Agrotis_ipsilon%29_%2852337014458%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ben Sale from Stevenage, UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_Sword-grass_(Agrotis_ipsilon)_(52337014458).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "El Príncipe 14:22",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Qué hacer cuando todo va bien"
+      },
+      "aplicacao": "La paz es para prepararse. El que solo trabaja en la crisis ya llegó tarde.",
+      "imagem": null
+    }
+  ]
+}
