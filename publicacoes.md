@@ -1558,3 +1558,19 @@
 - Item: short-1 — Salmo 103:1-2
 - Duração: 11.2s
 - Publicado em: 2026-08-07T08:10:04+00:00
+
+## [es] rgepqIKDmbQ — Salmo 145 — Clemente y misericordioso es Jehová | Biblia
+
+- URL: https://youtu.be/rgepqIKDmbQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 145:8-9
+- Duração: 23.3s
+- Publicado em: 2026-08-07T15:46:14+00:00
+
+## [pt] cVKGr_ITD-g — Salmo 145 — O Senhor é clemente e misericordioso | Bíblia
+
+- URL: https://youtu.be/cVKGr_ITD-g
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 145:8-9
+- Duração: 24.1s
+- Publicado em: 2026-08-07T15:47:25+00:00
