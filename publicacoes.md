@@ -1574,3 +1574,19 @@
 - Item: short-2 — Salmo 145:8-9
 - Duração: 24.1s
 - Publicado em: 2026-08-07T15:47:25+00:00
+
+## [es] 5mn0l2i7piI — Salmo 63 — Me acuerdo de ti en mi lecho | Biblia
+
+- URL: https://youtu.be/5mn0l2i7piI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 63:6-7
+- Duração: 20.7s
+- Publicado em: 2026-08-07T23:26:27+00:00
+
+## [pt] q3q_rvpRTNY — Salmo 63 — De noite me lembro de ti | Bíblia narrada
+
+- URL: https://youtu.be/q3q_rvpRTNY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 63:6-7
+- Duração: 22.0s
+- Publicado em: 2026-08-07T23:27:32+00:00

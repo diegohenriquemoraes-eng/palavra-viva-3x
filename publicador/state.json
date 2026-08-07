@@ -547,12 +547,19 @@
           "video_id": "rgepqIKDmbQ",
           "titulo": "Salmo 145 — Clemente y misericordioso es Jehová | Biblia",
           "em": "2026-08-07T15:46:14+00:00"
+        },
+        {
+          "pacote": "2026-08-07-salmos-dormir-7",
+          "item": "short-3",
+          "video_id": "5mn0l2i7piI",
+          "titulo": "Salmo 63 — Me acuerdo de ti en mi lecho | Biblia",
+          "em": "2026-08-07T23:26:27+00:00"
         }
       ],
-      "ultimo_short": "2026-08-07T15:46:14+00:00",
+      "ultimo_short": "2026-08-07T23:26:27+00:00",
       "shorts_dia": {
         "data": "2026-08-07",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-07"
     },
@@ -1274,12 +1281,19 @@
           "video_id": "cVKGr_ITD-g",
           "titulo": "Salmo 145 — O Senhor é clemente e misericordioso | Bíblia",
           "em": "2026-08-07T15:47:25+00:00"
+        },
+        {
+          "pacote": "2026-08-07-salmos-dormir-7",
+          "item": "short-3",
+          "video_id": "q3q_rvpRTNY",
+          "titulo": "Salmo 63 — De noite me lembro de ti | Bíblia narrada",
+          "em": "2026-08-07T23:27:32+00:00"
         }
       ],
-      "ultimo_short": "2026-08-07T15:47:25+00:00",
+      "ultimo_short": "2026-08-07T23:27:32+00:00",
       "shorts_dia": {
         "data": "2026-08-07",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-07"
     },
