@@ -148,3 +148,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18110198597083586/
 - Publicado em: 2026-08-07T00:46:35+00:00
+
+## 18056208020529516 — A URGÊNCIA
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18056208020529516/
+- Publicado em: 2026-08-07T19:18:33+00:00
