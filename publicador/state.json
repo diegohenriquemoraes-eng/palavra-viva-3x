@@ -526,6 +526,13 @@
           "video_id": "IXxpVk_V-_8",
           "titulo": "Salmo 61 — Llévame a la roca que es más alta que yo | Biblia",
           "em": "2026-08-06T23:51:15+00:00"
+        },
+        {
+          "pacote": "2026-08-07-salmos-dormir-7",
+          "item": "longo",
+          "video_id": "G0oj0aGF4_U",
+          "titulo": "Salmos para Dormir — Alabanza de la Noche | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-07T02:43:05+00:00"
         }
       ],
       "ultimo_short": "2026-08-06T23:51:15+00:00",
@@ -533,7 +540,7 @@
         "data": "2026-08-06",
         "n": 3
       },
-      "longo_data": "2026-08-06"
+      "longo_data": "2026-08-07"
     },
     "en": {
       "publicados": [
@@ -1232,6 +1239,13 @@
           "video_id": "h-QPVWryaXc",
           "titulo": "Salmo 61 — Leva-me à rocha mais alta do que eu | Bíblia",
           "em": "2026-08-06T23:52:26+00:00"
+        },
+        {
+          "pacote": "2026-08-07-salmos-dormir-7",
+          "item": "longo",
+          "video_id": "unZpuA8Ewms",
+          "titulo": "Salmos para Dormir — Louvor da Noite | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-07T03:14:42+00:00"
         }
       ],
       "ultimo_short": "2026-08-06T23:52:26+00:00",
@@ -1239,7 +1253,7 @@
         "data": "2026-08-06",
         "n": 3
       },
-      "longo_data": "2026-08-06"
+      "longo_data": "2026-08-07"
     },
     "stoic": {
       "publicados": [
@@ -1312,11 +1326,18 @@
           "video_id": "3JQFOftmurw",
           "titulo": "El tiempo que te queda, según el emperador",
           "em": "2026-08-06T02:18:10+00:00"
+        },
+        {
+          "pacote": "2026-08-07-cada-manana",
+          "item": "short-1",
+          "video_id": "CYSx2CiD-ZY",
+          "titulo": "Di esto cada mañana antes de salir",
+          "em": "2026-08-07T03:15:52+00:00"
         }
       ],
-      "ultimo_short": "2026-08-06T02:18:10+00:00",
+      "ultimo_short": "2026-08-07T03:15:52+00:00",
       "shorts_dia": {
-        "data": "2026-08-06",
+        "data": "2026-08-07",
         "n": 1
       },
       "longo_data": ""
@@ -1343,11 +1364,18 @@
           "video_id": "iUXQSn3x-dI",
           "titulo": "Quien depende de otros no manda",
           "em": "2026-08-06T05:34:28+00:00"
+        },
+        {
+          "pacote": "2026-08-07-la-generosidad-arruina",
+          "item": "short-1",
+          "video_id": "ta1AOdLX7zE",
+          "titulo": "Ninguna virtud se gasta tan rápido",
+          "em": "2026-08-07T03:16:34+00:00"
         }
       ],
-      "ultimo_short": "2026-08-06T05:34:28+00:00",
+      "ultimo_short": "2026-08-07T03:16:34+00:00",
       "shorts_dia": {
-        "data": "2026-08-06",
+        "data": "2026-08-07",
         "n": 1
       },
       "longo_data": ""

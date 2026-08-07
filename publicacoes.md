@@ -1502,3 +1502,35 @@
 - Item: short-3 — Salmo 61:1-2
 - Duração: 23.0s
 - Publicado em: 2026-08-06T23:52:26+00:00
+
+## [es] G0oj0aGF4_U — Salmos para Dormir — Alabanza de la Noche | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/G0oj0aGF4_U
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 103, Salmo 145, Salmo 146, Salmo 147, Salmo 148, Salmo 150, Salmo 100, Salmo 92
+- Duração: 3904.7s
+- Publicado em: 2026-08-07T02:43:05+00:00
+
+## [pt] unZpuA8Ewms — Salmos para Dormir — Louvor da Noite | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/unZpuA8Ewms
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 103, Salmo 145, Salmo 146, Salmo 147, Salmo 148, Salmo 150, Salmo 100, Salmo 92
+- Duração: 4019.4s
+- Publicado em: 2026-08-07T03:14:42+00:00
+
+## [stoic] CYSx2CiD-ZY — Di esto cada mañana antes de salir
+
+- URL: https://youtu.be/CYSx2CiD-ZY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 2:1
+- Duração: 30.7s
+- Publicado em: 2026-08-07T03:15:52+00:00
+
+## [poder] ta1AOdLX7zE — Ninguna virtud se gasta tan rápido
+
+- URL: https://youtu.be/ta1AOdLX7zE
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 16:16
+- Duração: 16.1s
+- Publicado em: 2026-08-07T03:16:34+00:00
