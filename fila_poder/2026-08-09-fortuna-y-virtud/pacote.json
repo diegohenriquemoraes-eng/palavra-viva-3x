@@ -1,0 +1,116 @@
+{
+  "slug": "fortuna-y-virtud",
+  "formato": "tema",
+  "data": "2026-08-09",
+  "criado_em": "2026-08-07T00:18:10+00:00",
+  "aprovado_em": "2026-08-07T00:18:10+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 25"
+    ],
+    "titulo": {
+      "poder": "La Suerte Decide la Mitad | Maquiavelo, El Príncipe XXV"
+    },
+    "thumb_titulo": {
+      "poder": "LA MITAD ES TUYA"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XXV"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/The_Gentle_Storm_au_Night_of_the_Prog_2015_-_18_%2819694303170%29.jpg/1920px-The_Gentle_Storm_au_Night_of_the_Prog_2015_-_18_%2819694303170%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Stéphane Gallay from Laconnex, Switzerland",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Gentle_Storm_au_Night_of_the_Prog_2015_-_18_(19694303170).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lighting_Storm_at_Night_%28Unsplash%29.jpg/1920px-Lighting_Storm_at_Night_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dominik QN dominik_qn",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lighting_Storm_at_Night_(Unsplash).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Gentle_Storm_au_Night_of_the_Prog_2015_-_23_%2819856096856%29.jpg/1920px-The_Gentle_Storm_au_Night_of_the_Prog_2015_-_23_%2819856096856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Stéphane Gallay from Laconnex, Switzerland",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Gentle_Storm_au_Night_of_the_Prog_2015_-_23_(19856096856).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Gentle_Storm_au_Night_of_the_Prog_2015_-_26_%2819856102136%29.jpg/1920px-The_Gentle_Storm_au_Night_of_the_Prog_2015_-_26_%2819856102136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Stéphane Gallay from Laconnex, Switzerland",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Gentle_Storm_au_Night_of_the_Prog_2015_-_26_(19856102136).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Gentle_Storm_au_Night_of_the_Prog_2015_-_03_%2819695629029%29.jpg/1920px-The_Gentle_Storm_au_Night_of_the_Prog_2015_-_03_%2819695629029%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Stéphane Gallay from Laconnex, Switzerland",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Gentle_Storm_au_Night_of_the_Prog_2015_-_03_(19695629029).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 25:2",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "La suerte manda en la mitad"
+      },
+      "aplicacao": "La otra mitad es tuya. Quien culpa a la suerte de todo, regala su parte.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lighting_Storm_at_Night_%28Unsplash%29.jpg/1920px-Lighting_Storm_at_Night_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dominik QN dominik_qn",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lighting_Storm_at_Night_(Unsplash).jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "El Príncipe 25:5",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Los diques se construyen antes"
+      },
+      "aplicacao": "La crisis no se resuelve en la crisis. Se resuelve en el año tranquilo anterior.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
