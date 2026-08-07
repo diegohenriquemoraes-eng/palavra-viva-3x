@@ -142,3 +142,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18084887126233112/
 - Publicado em: 2026-08-06T00:13:04+00:00
+
+## 18110198597083586 — O OBSTÁCULO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18110198597083586/
+- Publicado em: 2026-08-07T00:46:35+00:00
