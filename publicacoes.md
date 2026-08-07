@@ -1534,3 +1534,11 @@
 - Item: short-1 — El Príncipe 16:16
 - Duração: 16.1s
 - Publicado em: 2026-08-07T03:16:34+00:00
+
+## [astucia] eWUHYJhixXs — Callar no es mentir
+
+- URL: https://youtu.be/eWUHYJhixXs
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 181:1
+- Duração: 20.8s
+- Publicado em: 2026-08-07T04:49:24+00:00
