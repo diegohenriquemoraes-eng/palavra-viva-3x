@@ -533,12 +533,19 @@
           "video_id": "G0oj0aGF4_U",
           "titulo": "Salmos para Dormir — Alabanza de la Noche | Biblia Hablada con Voz Calmada",
           "em": "2026-08-07T02:43:05+00:00"
+        },
+        {
+          "pacote": "2026-08-07-salmos-dormir-7",
+          "item": "short-1",
+          "video_id": "I3rYb9pqkNM",
+          "titulo": "Salmo 103 — Bendice, alma mía, a Jehová | Biblia",
+          "em": "2026-08-07T08:09:14+00:00"
         }
       ],
-      "ultimo_short": "2026-08-06T23:51:15+00:00",
+      "ultimo_short": "2026-08-07T08:09:14+00:00",
       "shorts_dia": {
-        "data": "2026-08-06",
-        "n": 3
+        "data": "2026-08-07",
+        "n": 1
       },
       "longo_data": "2026-08-07"
     },
@@ -1246,12 +1253,19 @@
           "video_id": "unZpuA8Ewms",
           "titulo": "Salmos para Dormir — Louvor da Noite | Bíblia Narrada com Voz Calma",
           "em": "2026-08-07T03:14:42+00:00"
+        },
+        {
+          "pacote": "2026-08-07-salmos-dormir-7",
+          "item": "short-1",
+          "video_id": "qBNEY6HWSuU",
+          "titulo": "Salmo 103 — Bendize, ó minha alma, ao Senhor | Bíblia",
+          "em": "2026-08-07T08:10:04+00:00"
         }
       ],
-      "ultimo_short": "2026-08-06T23:52:26+00:00",
+      "ultimo_short": "2026-08-07T08:10:04+00:00",
       "shorts_dia": {
-        "data": "2026-08-06",
-        "n": 3
+        "data": "2026-08-07",
+        "n": 1
       },
       "longo_data": "2026-08-07"
     },
