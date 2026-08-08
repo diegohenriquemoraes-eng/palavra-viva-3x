@@ -1622,3 +1622,11 @@
 - Item: short-1 — El Príncipe 14:10
 - Duração: 20.6s
 - Publicado em: 2026-08-08T03:03:08+00:00
+
+## [astucia] vMmKOBc67Qc — La treta para que el otro se abra
+
+- URL: https://youtu.be/vMmKOBc67Qc
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 213:1
+- Duração: 19.7s
+- Publicado em: 2026-08-08T04:06:39+00:00

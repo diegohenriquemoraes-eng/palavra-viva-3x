@@ -1479,11 +1479,18 @@
           "video_id": "eWUHYJhixXs",
           "titulo": "Callar no es mentir",
           "em": "2026-08-07T04:49:24+00:00"
+        },
+        {
+          "pacote": "2026-08-08-saber-contradecir",
+          "item": "short-1",
+          "video_id": "vMmKOBc67Qc",
+          "titulo": "La treta para que el otro se abra",
+          "em": "2026-08-08T04:06:39+00:00"
         }
       ],
-      "ultimo_short": "2026-08-07T04:49:24+00:00",
+      "ultimo_short": "2026-08-08T04:06:39+00:00",
       "shorts_dia": {
-        "data": "2026-08-07",
+        "data": "2026-08-08",
         "n": 1
       },
       "longo_data": ""
