@@ -1590,3 +1590,11 @@
 - Item: short-3 — Salmo 63:6-7
 - Duração: 22.0s
 - Publicado em: 2026-08-07T23:27:32+00:00
+
+## [es] d59qqi8NIu0 — Los que Esperan en Jehova - Isaias 40 | Biblia en espanol
+
+- URL: https://youtu.be/d59qqi8NIu0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Isaías 40:25-31
+- Duração: 1020.7s
+- Publicado em: 2026-08-08T01:04:50+00:00
