@@ -1,0 +1,145 @@
+{
+  "slug": "dominar-la-ira",
+  "formato": "tema",
+  "data": "2026-08-10",
+  "criado_em": "2026-08-08T02:23:42+00:00",
+  "aprovado_em": "2026-08-08T02:23:42+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 11:38-41",
+      "Meditaciones 8:6-19"
+    ],
+    "titulo": {
+      "stoic": "Marco Aurelio: Dominar la Ira | Sabiduría Estoica Narrada"
+    },
+    "thumb_titulo": {
+      "stoic": "DOMINA LA IRA"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg/1920px-Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Maxime Raynal from France",
+        "origem": "https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg/1920px-Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Forest Service - Northern Region",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_(53150816968).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg/1920px-Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author or not provided",
+        "origem": "https://commons.wikimedia.org/wiki/File:Near_Algiers,_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg/1920px-Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/Milan Loiacono",
+        "origem": "https://commons.wikimedia.org/wiki/File:Terra_Torch_(milanloiacono-firesensefortstewart-04-2025-0677).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fireplace-RM.jpg/1920px-Fireplace-RM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ryan Mahle from Sherman Oaks, CA, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace-RM.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fireplace_%2871379943%29.jpeg/1920px-Fireplace_%2871379943%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Mohandoss Sampath",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace_(71379943).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fire_in_a_brick_fireplace_2.jpg/1920px-Fire_in_a_brick_fireplace_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kurt Kaiser",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_in_a_brick_fireplace_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fireplace%2C_Wood_fire%2C_Rostov-on-Don%2C_Russia.jpg/1920px-Fireplace%2C_Wood_fire%2C_Rostov-on-Don%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace,_Wood_fire,_Rostov-on-Don,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fireplace_coalfire.jpg/1920px-Fireplace_coalfire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kmtextor",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace_coalfire.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 11:41",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Tu enojo te cuesta más que la ofensa"
+      },
+      "aplicacao": "Haz la cuenta: el enojo te cuesta la tarde. La ofensa te costó un minuto.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:6",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La gente no va a cambiar; tú sí"
+      },
+      "aplicacao": "Deja de esperar que cambien. Esa espera es la que te consume.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fire_burning_in_a_fireplace.jpg/1920px-Fire_burning_in_a_fireplace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pöllö",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_burning_in_a_fireplace.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 7:69",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "No te conviertas en lo que te hirió"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dark_forest_scenic.jpg/1920px-Dark_forest_scenic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Sallie, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_scenic.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 9:13",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Quien te hace daño se lo hace a sí mismo"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg/1920px-Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Maxime Raynal from France",
+        "origem": "https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}

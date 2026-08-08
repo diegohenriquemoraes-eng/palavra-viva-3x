@@ -1,0 +1,208 @@
+{
+  "slug": "sabedoria-proverbios",
+  "formato": "tema",
+  "data": "2026-08-10",
+  "criado_em": "2026-08-08T02:23:19+00:00",
+  "aprovado_em": "2026-08-08T02:23:19+00:00",
+  "longo": {
+    "refs": [
+      "Proverbs 3:1-12"
+    ],
+    "titulo": {
+      "es": "Fiate de Jehova de Todo tu Corazon - Proverbios 3 | Biblia",
+      "en": "Trust in the Lord With All Thine Heart - Proverbs 3 | Bible",
+      "pt": "Confia no Senhor de Todo o teu Coracao - Proverbios 3 | Biblia"
+    },
+    "thumb_titulo": {
+      "es": "FIATE DE JEHOVA",
+      "en": "TRUST IN THE LORD",
+      "pt": "CONFIA NO SENHOR"
+    },
+    "thumb_sub": {
+      "es": "Proverbios 3",
+      "en": "Proverbs 3",
+      "pt": "Proverbios 3"
+    },
+    "abertura": {
+      "es": "Proverbios tres es un padre hablando a un hijo. Cada consejo viene en dos líneas: la orden y lo que sigue de ella. La más citada está en el verso cinco: fíate de Jehová de todo tu corazón. Escucha el pasaje entero, consejo por consejo.",
+      "pt": "Provérbios três é um pai falando a um filho. Cada conselho vem em duas linhas: a ordem e o que decorre dela. O mais citado está no verso cinco: confia no Senhor de todo o teu coração. Ouça a passagem inteira, conselho por conselho."
+    },
+    "tags_extra": {
+      "es": [
+        "proverbios 3",
+        "fiate de jehova",
+        "sabiduria biblica",
+        "proverbios hablados",
+        "confia en dios",
+        "biblia hablada"
+      ],
+      "pt": [
+        "proverbios 3",
+        "confia no senhor",
+        "sabedoria biblica",
+        "proverbios narrados",
+        "confianca em deus",
+        "biblia narrada"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Proverbios 3:1-12: fíate de Jehová de todo tu corazón y no te apoyes en tu propia prudencia. Lectura completa y pausada, Reina-Valera 1909.",
+      "pt": "Provérbios 3:1-12: confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Leitura completa e pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Forest_path_to_Roche_du_Taureau%2C_Cl%C3%A9ron%2C_2026.jpg/1920px-Forest_path_to_Roche_du_Taureau%2C_Cl%C3%A9ron%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "DimiTalen",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_path_to_Roche_du_Taureau,_Cl%C3%A9ron,_2026.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2026-07-11_Forest_path_at_Pragan%C3%A7a%2C_Cadaval.jpg/1920px-2026-07-11_Forest_path_at_Pragan%C3%A7a%2C_Cadaval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexkom000",
+        "origem": "https://commons.wikimedia.org/wiki/File:2026-07-11_Forest_path_at_Pragan%C3%A7a,_Cadaval.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Forest_path.jpg/1920px-Forest_path.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_path.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p03.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p03.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p01.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2122_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lamp_with_theatre_scene%2C_clay_-_Museo_Egizio_%28Turin%29_C_7267_p02.jpg/1920px-Lamp_with_theatre_scene%2C_clay_-_Museo_Egizio_%28Turin%29_C_7267_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_with_theatre_scene,_clay_-_Museo_Egizio_(Turin)_C_7267_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2110_ND_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2110_ND_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2117_p01.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2117_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2117_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg/1920px-Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vincent van Gogh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wheat-Field-with-Cypresses-(1889)-Vincent-van-Gogh-Met.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sunset-over-the-wheat-field-featured.jpg/1920px-Sunset-over-the-wheat-field-featured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dreamy Pixel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunset-over-the-wheat-field-featured.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Field_of_Wheat_%28940538885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Rob Young from United Kingdom",
+        "origem": "https://commons.wikimedia.org/wiki/File:Field_of_Wheat_(940538885).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tree_and_wheat_field_in_R%C3%B6e_2.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tree_and_wheat_field_in_R%C3%B6e_1.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_1.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Proverbs 3:5-6",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Proverbios 3:5 - No te apoyes en tu propia prudencia | Biblia",
+        "en": "Proverbs 3:5 - Lean Not on Thine Own Understanding | Bible",
+        "pt": "Proverbios 3:5 - Nao te estribes no teu proprio entendimento | Biblia"
+      },
+      "aplicacao": {
+        "es": "Los dos versos forman una sola frase: la orden y su consecuencia.",
+        "pt": "Os dois versos formam uma frase so: a ordem e a consequencia dela."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Forest_path.jpg/1920px-Forest_path.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_path.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Proverbs 4:23",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Proverbios 4:23 - Sobre toda cosa guardada, guarda tu corazon",
+        "en": "Proverbs 4:23 - Keep Thy Heart With All Diligence | Bible",
+        "pt": "Proverbios 4:23 - Sobre tudo o que se deve guardar, guarda o coracao"
+      },
+      "aplicacao": {
+        "es": "La imagen es la de una plaza fortificada: se guarda lo que se puede perder.",
+        "pt": "A imagem e a de uma praca fortificada: guarda-se o que se pode perder."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Luxian%2C_Stone_mortar%2C_Eastern_Han%2C_Well_J34.jpg/1920px-Luxian%2C_Stone_mortar%2C_Eastern_Han%2C_Well_J34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Furius",
+        "origem": "https://commons.wikimedia.org/wiki/File:Luxian,_Stone_mortar,_Eastern_Han,_Well_J34.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Proverbs 15:1",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Proverbios 15:1 - La blanda respuesta quita la ira | Biblia",
+        "en": "Proverbs 15:1 - A Soft Answer Turneth Away Wrath | Bible",
+        "pt": "Proverbios 15:1 - A resposta branda desvia o furor | Biblia"
+      },
+      "aplicacao": {
+        "es": "Proverbio de dos mitades opuestas, que es la forma mas comun del libro.",
+        "pt": "Proverbio de duas metades opostas, que e a forma mais comum do livro."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p02.jpg/1920px-Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Two-spouted_lamp_with_palmette_handle,_clay_-_Museo_Egizio_(Turin)_C_7278_p02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Proverbs 16:3",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Proverbios 16:3 - Encomienda a Jehova tus obras | Biblia",
+        "en": "Proverbs 16:3 - Commit Thy Works Unto the Lord | Bible",
+        "pt": "Proverbios 16:3 - Confia ao Senhor as tuas obras | Biblia"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tree_and_wheat_field_in_R%C3%B6e_3.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_3.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
