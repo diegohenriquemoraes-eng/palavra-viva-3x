@@ -1662,3 +1662,19 @@
 - Item: short-2 — Salmo 27:14
 - Duração: 17.2s
 - Publicado em: 2026-08-08T13:40:44+00:00
+
+## [es] tFlP7Nt_AQQ — Romanos 12:12 - Gozosos en la esperanza | Biblia en espanol
+
+- URL: https://youtu.be/tFlP7Nt_AQQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Romanos 12:12
+- Duração: 16.8s
+- Publicado em: 2026-08-08T21:21:44+00:00
+
+## [pt] EhmG8bt2YXo — Romanos 12:12 - Alegres na esperanca | Biblia narrada
+
+- URL: https://youtu.be/EhmG8bt2YXo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Romanos 12:12
+- Duração: 18.8s
+- Publicado em: 2026-08-08T21:22:42+00:00

@@ -575,12 +575,19 @@
           "video_id": "Rlo_lYOCt3A",
           "titulo": "Salmo 27:14 - Espera a Jehova, esfuerzate | Biblia",
           "em": "2026-08-08T13:39:42+00:00"
+        },
+        {
+          "pacote": "2026-08-08-paciencia-espera",
+          "item": "short-3",
+          "video_id": "tFlP7Nt_AQQ",
+          "titulo": "Romanos 12:12 - Gozosos en la esperanza | Biblia en espanol",
+          "em": "2026-08-08T21:21:44+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T13:39:42+00:00",
+      "ultimo_short": "2026-08-08T21:21:44+00:00",
       "shorts_dia": {
         "data": "2026-08-08",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-08"
     },
@@ -1330,12 +1337,19 @@
           "video_id": "KD4gBHYhpqI",
           "titulo": "Salmo 27:14 - Espera no Senhor, anima-te | Biblia",
           "em": "2026-08-08T13:40:44+00:00"
+        },
+        {
+          "pacote": "2026-08-08-paciencia-espera",
+          "item": "short-3",
+          "video_id": "EhmG8bt2YXo",
+          "titulo": "Romanos 12:12 - Alegres na esperanca | Biblia narrada",
+          "em": "2026-08-08T21:22:42+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T13:40:44+00:00",
+      "ultimo_short": "2026-08-08T21:22:42+00:00",
       "shorts_dia": {
         "data": "2026-08-08",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-08"
     },
