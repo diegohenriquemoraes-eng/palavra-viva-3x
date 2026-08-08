@@ -1598,3 +1598,27 @@
 - Item: longo — Isaías 40:25-31
 - Duração: 1020.7s
 - Publicado em: 2026-08-08T01:04:50+00:00
+
+## [pt] QmZVlKGRF24 — Os que Esperam no Senhor - Isaias 40 | Biblia narrada
+
+- URL: https://youtu.be/QmZVlKGRF24
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Isaías 40:25-31
+- Duração: 1048.3s
+- Publicado em: 2026-08-08T03:00:54+00:00
+
+## [stoic] f9ZzyKT6_hI — Sócrates llamaba así a la opinión del vulgo
+
+- URL: https://youtu.be/f9ZzyKT6_hI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 11:54
+- Duração: 17.7s
+- Publicado em: 2026-08-08T03:01:54+00:00
+
+## [poder] f5UTmzuWjH4 — Lo único que no puedes delegar
+
+- URL: https://youtu.be/f5UTmzuWjH4
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 14:10
+- Duração: 20.6s
+- Publicado em: 2026-08-08T03:03:08+00:00

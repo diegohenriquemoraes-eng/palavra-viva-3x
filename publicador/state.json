@@ -1295,6 +1295,13 @@
           "video_id": "q3q_rvpRTNY",
           "titulo": "Salmo 63 — De noite me lembro de ti | Bíblia narrada",
           "em": "2026-08-07T23:27:32+00:00"
+        },
+        {
+          "pacote": "2026-08-08-paciencia-espera",
+          "item": "longo",
+          "video_id": "QmZVlKGRF24",
+          "titulo": "Os que Esperam no Senhor - Isaias 40 | Biblia narrada",
+          "em": "2026-08-08T03:00:54+00:00"
         }
       ],
       "ultimo_short": "2026-08-07T23:27:32+00:00",
@@ -1302,7 +1309,7 @@
         "data": "2026-08-07",
         "n": 3
       },
-      "longo_data": "2026-08-07"
+      "longo_data": "2026-08-08"
     },
     "stoic": {
       "publicados": [
@@ -1382,11 +1389,18 @@
           "video_id": "CYSx2CiD-ZY",
           "titulo": "Di esto cada mañana antes de salir",
           "em": "2026-08-07T03:15:52+00:00"
+        },
+        {
+          "pacote": "2026-08-08-opinion-ajena",
+          "item": "short-1",
+          "video_id": "f9ZzyKT6_hI",
+          "titulo": "Sócrates llamaba así a la opinión del vulgo",
+          "em": "2026-08-08T03:01:54+00:00"
         }
       ],
-      "ultimo_short": "2026-08-07T03:15:52+00:00",
+      "ultimo_short": "2026-08-08T03:01:54+00:00",
       "shorts_dia": {
-        "data": "2026-08-07",
+        "data": "2026-08-08",
         "n": 1
       },
       "longo_data": ""
@@ -1420,11 +1434,18 @@
           "video_id": "ta1AOdLX7zE",
           "titulo": "Ninguna virtud se gasta tan rápido",
           "em": "2026-08-07T03:16:34+00:00"
+        },
+        {
+          "pacote": "2026-08-08-el-arte-de-la-guerra-del-principe",
+          "item": "short-1",
+          "video_id": "f5UTmzuWjH4",
+          "titulo": "Lo único que no puedes delegar",
+          "em": "2026-08-08T03:03:08+00:00"
         }
       ],
-      "ultimo_short": "2026-08-07T03:16:34+00:00",
+      "ultimo_short": "2026-08-08T03:03:08+00:00",
       "shorts_dia": {
-        "data": "2026-08-07",
+        "data": "2026-08-08",
         "n": 1
       },
       "longo_data": ""
