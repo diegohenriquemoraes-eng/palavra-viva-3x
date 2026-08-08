@@ -568,12 +568,19 @@
           "video_id": "rhOpTLs4t6E",
           "titulo": "Isaias 40:31 - Levantaran alas como aguilas | Biblia",
           "em": "2026-08-08T06:36:38+00:00"
+        },
+        {
+          "pacote": "2026-08-08-paciencia-espera",
+          "item": "short-2",
+          "video_id": "Rlo_lYOCt3A",
+          "titulo": "Salmo 27:14 - Espera a Jehova, esfuerzate | Biblia",
+          "em": "2026-08-08T13:39:42+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T06:36:38+00:00",
+      "ultimo_short": "2026-08-08T13:39:42+00:00",
       "shorts_dia": {
         "data": "2026-08-08",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-08"
     },
@@ -1316,12 +1323,19 @@
           "video_id": "-2bb-7MTvpQ",
           "titulo": "Isaias 40:31 - Subirao com asas como aguias | Biblia",
           "em": "2026-08-08T06:38:02+00:00"
+        },
+        {
+          "pacote": "2026-08-08-paciencia-espera",
+          "item": "short-2",
+          "video_id": "KD4gBHYhpqI",
+          "titulo": "Salmo 27:14 - Espera no Senhor, anima-te | Biblia",
+          "em": "2026-08-08T13:40:44+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T06:38:02+00:00",
+      "ultimo_short": "2026-08-08T13:40:44+00:00",
       "shorts_dia": {
         "data": "2026-08-08",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-08"
     },

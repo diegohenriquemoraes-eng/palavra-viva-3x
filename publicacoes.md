@@ -1646,3 +1646,19 @@
 - Item: short-1 — Isaías 40:31
 - Duração: 21.0s
 - Publicado em: 2026-08-08T06:38:02+00:00
+
+## [es] Rlo_lYOCt3A — Salmo 27:14 - Espera a Jehova, esfuerzate | Biblia
+
+- URL: https://youtu.be/Rlo_lYOCt3A
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 27:14
+- Duração: 16.9s
+- Publicado em: 2026-08-08T13:39:42+00:00
+
+## [pt] KD4gBHYhpqI — Salmo 27:14 - Espera no Senhor, anima-te | Biblia
+
+- URL: https://youtu.be/KD4gBHYhpqI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 27:14
+- Duração: 17.2s
+- Publicado em: 2026-08-08T13:40:44+00:00
