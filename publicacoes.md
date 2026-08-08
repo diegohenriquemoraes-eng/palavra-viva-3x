@@ -1630,3 +1630,19 @@
 - Item: short-1 — Oráculo manual 213:1
 - Duração: 19.7s
 - Publicado em: 2026-08-08T04:06:39+00:00
+
+## [es] rhOpTLs4t6E — Isaias 40:31 - Levantaran alas como aguilas | Biblia
+
+- URL: https://youtu.be/rhOpTLs4t6E
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Isaías 40:31
+- Duração: 21.0s
+- Publicado em: 2026-08-08T06:36:38+00:00
+
+## [pt] -2bb-7MTvpQ — Isaias 40:31 - Subirao com asas como aguias | Biblia
+
+- URL: https://youtu.be/-2bb-7MTvpQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Isaías 40:31
+- Duração: 21.0s
+- Publicado em: 2026-08-08T06:38:02+00:00
