@@ -1,0 +1,140 @@
+{
+  "slug": "sentir-con-los-menos",
+  "formato": "tema",
+  "data": "2026-08-11",
+  "criado_em": "2026-08-09T02:30:32+00:00",
+  "aprovado_em": "2026-08-09T02:30:32+00:00",
+  "longo": {
+    "refs": [
+      "Oráculo manual 43"
+    ],
+    "titulo": {
+      "astucia": "Piensa como Pocos, Habla como Todos | Gracián"
+    },
+    "thumb_titulo": {
+      "astucia": "PIENSA APARTE"
+    },
+    "thumb_sub": {
+      "astucia": "Gracián, aforismo 43"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sias_Library%2C_Night%2C_2017.jpg/1920px-Sias_Library%2C_Night%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Gary Todd",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sias_Library,_Night,_2017.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Newly_constructed_Arlington_State_College_Library_at_night_%2810003720%29.jpg/1920px-Newly_constructed_Arlington_State_College_Library_at_night_%2810003720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "University of Texas at Arlington Photograph Collection",
+        "origem": "https://commons.wikimedia.org/wiki/File:Newly_constructed_Arlington_State_College_Library_at_night_(10003720).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/University_of_Texas_at_Arlington_Library_exterior_at_night_%2810003733%29.jpg/1920px-University_of_Texas_at_Arlington_Library_exterior_at_night_%2810003733%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "University of Texas at Arlington News Service Photograph Collection",
+        "origem": "https://commons.wikimedia.org/wiki/File:University_of_Texas_at_Arlington_Library_exterior_at_night_(10003733).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Earl_Gregg_Swem_Library_at_night_2021.jpg/1920px-Earl_Gregg_Swem_Library_at_night_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pbritti",
+        "origem": "https://commons.wikimedia.org/wiki/File:Earl_Gregg_Swem_Library_at_night_2021.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Newly_constructed_Arlington_State_College_Library_at_night_%2810003721%29.jpg/1920px-Newly_constructed_Arlington_State_College_Library_at_night_%2810003721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "University of Texas at Arlington Photograph Collection",
+        "origem": "https://commons.wikimedia.org/wiki/File:Newly_constructed_Arlington_State_College_Library_at_night_(10003721).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Night-open-door-english-matsunaga-2017-1559_%2833069851131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1559_(33069851131).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Night-open-door-english-matsunaga-2017-1630_%2833040921422%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1630_(33040921422).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Night-open-door-english-matsunaga-2017-1610_%2833069850911%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1610_(33069850911).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Night-open-door-english-matsunaga-2017-1676_%2832353007204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1676_(32353007204).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Night-open-door-english-matsunaga-2017-1697_%2832353006784%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1697_(32353006784).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG/1920px-Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dirk Ingo Franke",
+        "origem": "https://commons.wikimedia.org/wiki/File:Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Candles_in_the_night1.jpg/1920px-Candles_in_the_night1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Donald Olszewski",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candles_in_the_night1.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Shaheed_Island%2C_Andamans%2C_Night%2C_Candle_light_in_the_dark.jpg/1920px-Shaheed_Island%2C_Andamans%2C_Night%2C_Candle_light_in_the_dark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Shaheed_Island,_Andamans,_Night,_Candle_light_in_the_dark.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG/1920px-Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ootahara",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Oráculo manual 43",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "Piensa como pocos, habla como todos"
+      },
+      "aplicacao": "No hace falta anunciar cada desacuerdo. Discrepar en voz alta cuesta caro y cambia poco.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Newly_constructed_Arlington_State_College_Library_at_night_%2810003721%29.jpg/1920px-Newly_constructed_Arlington_State_College_Library_at_night_%2810003721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "University of Texas at Arlington Photograph Collection",
+        "origem": "https://commons.wikimedia.org/wiki/File:Newly_constructed_Arlington_State_College_Library_at_night_(10003721).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Oráculo manual 133",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "Antes loco con todos que cuerdo a solas"
+      },
+      "aplicacao": "Tener razón solo, y decirlo siempre, no es integridad: es quedarse sin aliados.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/McBling_Saturday_Night_candle_with_glitter_and_a_disco_ball%2C_very_Gen_Z%2C_unknown_designer%2C_produced_by_DW_Home%2C_circa_2024%2C_glass_and_wax%2C_sold_at_T%E2%80%A2J%E2%80%A2maxx_in_Miami%2C_US_%2802%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Neoclassicism Enthusiast",
+        "origem": "https://commons.wikimedia.org/wiki/File:McBling_Saturday_Night_candle_with_glitter_and_a_disco_ball,_very_Gen_Z,_unknown_designer,_produced_by_DW_Home,_circa_2024,_glass_and_wax,_sold_at_T%E2%80%A2J%E2%80%A2maxx_in_Miami,_US_(02).jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

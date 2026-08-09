@@ -1,0 +1,221 @@
+{
+  "slug": "salmos-dormir-9",
+  "formato": "dormir",
+  "data": "2026-08-11",
+  "criado_em": "2026-08-09T02:30:56+00:00",
+  "aprovado_em": "2026-08-09T02:30:56+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 27",
+      "Psalms 36",
+      "Psalms 43",
+      "Psalms 97",
+      "Psalms 104",
+      "Psalms 113",
+      "Psalms 139",
+      "Psalms 121"
+    ],
+    "titulo": {
+      "pt": "Salmos para Dormir — O Senhor é Minha Luz | Bíblia Narrada com Voz Calma",
+      "es": "Salmos para Dormir — El Señor es mi Luz | Biblia Hablada con Voz Calmada",
+      "en": "Psalms for Sleep — The Lord Is My Light | Audio Bible with a Calm Voice"
+    },
+    "thumb_titulo": {
+      "pt": "SALMOS PARA DORMIR",
+      "es": "SALMOS PARA DORMIR",
+      "en": "PSALMS FOR SLEEP"
+    },
+    "thumb_sub": {
+      "pt": "Salmo 27 • 139 • 121",
+      "es": "Salmo 27 • 139 • 121",
+      "en": "Psalm 27 • 139 • 121"
+    },
+    "abertura": {
+      "es": "Salmos sobre la luz. El 27 abre diciendo: el Señor es mi luz y mi salvación, a quién temeré. El 139 recuerda que ni la noche esconde de sus ojos: las tinieblas no encubren de ti. Ocho lecturas para terminar el día sin miedo a la oscuridad.",
+      "pt": "Salmos sobre a luz. O 27 abre dizendo: o Senhor é a minha luz e a minha salvação, a quem temerei. O 139 lembra que nem a noite esconde dos olhos dele: as trevas não encobrem de ti. Oito leituras para terminar o dia sem medo do escuro."
+    },
+    "tags_extra": {
+      "es": [
+        "salmo 27",
+        "el señor es mi luz",
+        "salmos para dormir",
+        "salmo 139",
+        "biblia hablada",
+        "salmos de la noche"
+      ],
+      "pt": [
+        "salmo 27",
+        "o senhor e minha luz",
+        "salmos para dormir",
+        "salmo 139",
+        "biblia narrada",
+        "salmos da noite"
+      ]
+    },
+    "descricao_busca": {
+      "es": "El Señor es mi luz: Salmo 27, 36, 43, 97, 104, 113, 139 y 121 leídos para dormir, con voz pausada. Reina-Valera 1909.",
+      "pt": "O Senhor é minha luz: Salmo 27, 36, 43, 97, 104, 113, 139 e 121 lidos para dormir, com voz pausada. Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dark_forest%2C_full_of_light.jpg/1920px-Dark_forest%2C_full_of_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Raven Winters",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest,_full_of_light.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_dark_and_light.jpg/1920px-Forest_dark_and_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Will Aelethrune",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_and_light.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_forest_trail%2C_from_light_to_shadows_-_Flickr_-_Gael_Varoquaux.jpg/1920px-The_forest_trail%2C_from_light_to_shadows_-_Flickr_-_Gael_Varoquaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Gael Varoquaux from Paris, France",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_forest_trail,_from_light_to_shadows_-_Flickr_-_Gael_Varoquaux.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Light_in_the_dark_forest_%284241231095%29.jpg/1920px-Light_in_the_dark_forest_%284241231095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "allispossible.org.uk",
+        "origem": "https://commons.wikimedia.org/wiki/File:Light_in_the_dark_forest_(4241231095).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/1920px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Peter Paul Rubens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way,_1636-1637.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stars_Gather_in_%27Downtown%27_Milky_Way.jpg/1920px-Stars_Gather_in_%27Downtown%27_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stars_Gather_in_%27Downtown%27_Milky_Way.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Joshua_Tree_Milky_Way.jpg/1920px-Joshua_Tree_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Benjamin Inouye",
+        "origem": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Harald_Sohlberg_-_Winter_Night_in_the_Mountains_-_Vinternatt_i_Rondane_-_1914_-_737ehedjd2.jpg/1920px-Harald_Sohlberg_-_Winter_Night_in_the_Mountains_-_Vinternatt_i_Rondane_-_1914_-_737ehedjd2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Øyvind Holmstad",
+        "origem": "https://commons.wikimedia.org/wiki/File:Harald_Sohlberg_-_Winter_Night_in_the_Mountains_-_Vinternatt_i_Rondane_-_1914_-_737ehedjd2.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mountains_at_Night_%284539481695%29.jpg/1920px-Mountains_at_Night_%284539481695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jennifer C.",
+        "origem": "https://commons.wikimedia.org/wiki/File:Mountains_at_Night_(4539481695).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arkhyz%2C_Karachay-Cherkessia%2C_Taulu%2C_Mountains_and_trees%2C_Moonlight_at_night.jpg/1920px-Arkhyz%2C_Karachay-Cherkessia%2C_Taulu%2C_Mountains_and_trees%2C_Moonlight_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Arkhyz,_Karachay-Cherkessia,_Taulu,_Mountains_and_trees,_Moonlight_at_night.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Harald_Sohlberg_-_Winter_Night_in_the_Mountains._Rondane_-_TKM-264-1922_-_Trondheim_kunstmuseum_%28cropped%29.jpg/1920px-Harald_Sohlberg_-_Winter_Night_in_the_Mountains._Rondane_-_TKM-264-1922_-_Trondheim_kunstmuseum_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Harald Sohlberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Harald_Sohlberg_-_Winter_Night_in_the_Mountains._Rondane_-_TKM-264-1922_-_Trondheim_kunstmuseum_(cropped).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Harald_Sohlberg_-_Winter_Night_in_the_Mountains._Rondane_-_TKM-264-1922_-_Trondheim_kunstmuseum.jpg/1920px-Harald_Sohlberg_-_Winter_Night_in_the_Mountains._Rondane_-_TKM-264-1922_-_Trondheim_kunstmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Harald Sohlberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Harald_Sohlberg_-_Winter_Night_in_the_Mountains._Rondane_-_TKM-264-1922_-_Trondheim_kunstmuseum.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 27:1",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 27:1 — O Senhor é a minha luz | Bíblia",
+        "es": "Salmo 27:1 — Jehová es mi luz y mi salvación | Biblia",
+        "en": "Psalm 27:1 — The Lord Is My Light | Bible Verses"
+      },
+      "aplicacao": {
+        "es": "Primera línea de un salmo que después pasará de la certeza al ruego.",
+        "pt": "Primeira linha de um salmo que depois passa da certeza ao pedido."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Light_in_the_dark_forest_%284241231095%29.jpg/1920px-Light_in_the_dark_forest_%284241231095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "allispossible.org.uk",
+        "origem": "https://commons.wikimedia.org/wiki/File:Light_in_the_dark_forest_(4241231095).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Psalms 139:7-10",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 139 — Para onde me irei do teu Espírito | Bíblia",
+        "es": "Salmo 139 — ¿A dónde me iré de tu Espíritu? | Biblia",
+        "en": "Psalm 139 — Where Can I Go from Your Spirit | Bible"
+      },
+      "aplicacao": {
+        "es": "Enumera lugares imposibles: cielo, abismo, alas del alba, mar.",
+        "pt": "Enumera lugares impossíveis: céu, abismo, asas da alva, mar."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 121:1-4",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 121 — O meu socorro vem do Senhor | Bíblia",
+        "es": "Salmo 121 — Mi socorro viene de Jehová | Biblia",
+        "en": "Psalm 121 — My Help Comes from the Lord | Bible"
+      },
+      "aplicacao": {
+        "es": "Uno de los cánticos que se entonaban subiendo a Jerusalén.",
+        "pt": "Um dos cânticos que se entoavam subindo a Jerusalém."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Night_Sky_Over_Chisos_Mountains_%28de3b5b2d-7015-4ca5-871b-4da5a8858774%29.jpg/1920px-Night_Sky_Over_Chisos_Mountains_%28de3b5b2d-7015-4ca5-871b-4da5a8858774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NPS Photo",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_Over_Chisos_Mountains_(de3b5b2d-7015-4ca5-871b-4da5a8858774).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 34:4-7",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 34 — Busquei ao Senhor, e ele me respondeu | Bíblia",
+        "es": "Salmo 34 — Busqué a Jehová, y él me oyó | Biblia",
+        "en": "Psalm 34 — I Sought the Lord, and He Heard Me | Bible"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
