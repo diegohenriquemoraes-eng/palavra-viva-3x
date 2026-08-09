@@ -172,3 +172,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18336817000265419/
 - Publicado em: 2026-08-09T19:03:39+00:00
+
+## 18025248896681177 — O SEU PREÇO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18025248896681177/
+- Publicado em: 2026-08-09T22:53:09+00:00
