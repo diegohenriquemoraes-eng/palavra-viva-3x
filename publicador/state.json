@@ -589,12 +589,19 @@
           "video_id": "H4f9r3AK3iI",
           "titulo": "Salmos para Dormir — Alivio de la Ansiedad | Biblia Hablada con Voz Calmada",
           "em": "2026-08-09T01:30:08+00:00"
+        },
+        {
+          "pacote": "2026-08-09-salmos-dormir-8",
+          "item": "short-1",
+          "video_id": "WAnF6jCSj4k",
+          "titulo": "Salmo 42 — Como el ciervo brama por las aguas | Biblia",
+          "em": "2026-08-09T05:42:25+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T21:21:44+00:00",
+      "ultimo_short": "2026-08-09T05:42:25+00:00",
       "shorts_dia": {
-        "data": "2026-08-08",
-        "n": 3
+        "data": "2026-08-09",
+        "n": 1
       },
       "longo_data": "2026-08-09"
     },
@@ -1358,12 +1365,19 @@
           "video_id": "r4gG05MVmQo",
           "titulo": "Salmos para Dormir — Alívio da Ansiedade | Bíblia Narrada com Voz Calma",
           "em": "2026-08-09T03:28:18+00:00"
+        },
+        {
+          "pacote": "2026-08-09-salmos-dormir-8",
+          "item": "short-1",
+          "video_id": "LKXW_SE6DZg",
+          "titulo": "Salmo 42 — Como a corça anseia pelas águas | Bíblia",
+          "em": "2026-08-09T05:43:28+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T21:22:42+00:00",
+      "ultimo_short": "2026-08-09T05:43:28+00:00",
       "shorts_dia": {
-        "data": "2026-08-08",
-        "n": 3
+        "data": "2026-08-09",
+        "n": 1
       },
       "longo_data": "2026-08-09"
     },

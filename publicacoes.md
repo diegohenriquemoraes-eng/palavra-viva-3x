@@ -1718,3 +1718,19 @@
 - Item: short-1 — Oráculo manual 177:1
 - Duração: 20.2s
 - Publicado em: 2026-08-09T03:31:34+00:00
+
+## [es] WAnF6jCSj4k — Salmo 42 — Como el ciervo brama por las aguas | Biblia
+
+- URL: https://youtu.be/WAnF6jCSj4k
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 42:1
+- Duração: 18.6s
+- Publicado em: 2026-08-09T05:42:25+00:00
+
+## [pt] LKXW_SE6DZg — Salmo 42 — Como a corça anseia pelas águas | Bíblia
+
+- URL: https://youtu.be/LKXW_SE6DZg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 42:1
+- Duração: 19.7s
+- Publicado em: 2026-08-09T05:43:28+00:00
