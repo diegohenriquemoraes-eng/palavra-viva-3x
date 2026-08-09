@@ -1734,3 +1734,19 @@
 - Item: short-1 — Salmo 42:1
 - Duração: 19.7s
 - Publicado em: 2026-08-09T05:43:28+00:00
+
+## [es] svzYNU4ok-4 — Salmo 116:7 — Vuelve, alma mía, a tu reposo | Biblia
+
+- URL: https://youtu.be/svzYNU4ok-4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 116:7
+- Duração: 15.0s
+- Publicado em: 2026-08-09T13:42:42+00:00
+
+## [pt] Y2lp2vPUj3U — Salmo 116:7 — Volta, minha alma, ao teu repouso | Bíblia
+
+- URL: https://youtu.be/Y2lp2vPUj3U
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 116:7
+- Duração: 14.7s
+- Publicado em: 2026-08-09T13:43:42+00:00
