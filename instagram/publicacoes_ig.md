@@ -166,3 +166,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18399681196093141/
 - Publicado em: 2026-08-08T22:50:10+00:00
+
+## 18336817000265419 — A PROVOCAÇÃO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18336817000265419/
+- Publicado em: 2026-08-09T19:03:39+00:00
