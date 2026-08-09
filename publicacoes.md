@@ -1750,3 +1750,19 @@
 - Item: short-2 — Salmo 116:7
 - Duração: 14.7s
 - Publicado em: 2026-08-09T13:43:42+00:00
+
+## [es] yK7Lzjc_R-s — Salmo 131 — He calmado y aquietado mi alma | Biblia
+
+- URL: https://youtu.be/yK7Lzjc_R-s
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 131:2
+- Duração: 19.3s
+- Publicado em: 2026-08-09T21:23:50+00:00
+
+## [pt] xO5KBEdgIX4 — Salmo 131 — Serenei e aquietei a minha alma | Bíblia
+
+- URL: https://youtu.be/xO5KBEdgIX4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 131:2
+- Duração: 19.3s
+- Publicado em: 2026-08-09T21:24:51+00:00

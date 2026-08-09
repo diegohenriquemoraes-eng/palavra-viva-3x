@@ -603,12 +603,19 @@
           "video_id": "svzYNU4ok-4",
           "titulo": "Salmo 116:7 — Vuelve, alma mía, a tu reposo | Biblia",
           "em": "2026-08-09T13:42:42+00:00"
+        },
+        {
+          "pacote": "2026-08-09-salmos-dormir-8",
+          "item": "short-3",
+          "video_id": "yK7Lzjc_R-s",
+          "titulo": "Salmo 131 — He calmado y aquietado mi alma | Biblia",
+          "em": "2026-08-09T21:23:50+00:00"
         }
       ],
-      "ultimo_short": "2026-08-09T13:42:42+00:00",
+      "ultimo_short": "2026-08-09T21:23:50+00:00",
       "shorts_dia": {
         "data": "2026-08-09",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-09"
     },
@@ -1386,12 +1393,19 @@
           "video_id": "Y2lp2vPUj3U",
           "titulo": "Salmo 116:7 — Volta, minha alma, ao teu repouso | Bíblia",
           "em": "2026-08-09T13:43:42+00:00"
+        },
+        {
+          "pacote": "2026-08-09-salmos-dormir-8",
+          "item": "short-3",
+          "video_id": "xO5KBEdgIX4",
+          "titulo": "Salmo 131 — Serenei e aquietei a minha alma | Bíblia",
+          "em": "2026-08-09T21:24:51+00:00"
         }
       ],
-      "ultimo_short": "2026-08-09T13:43:42+00:00",
+      "ultimo_short": "2026-08-09T21:24:51+00:00",
       "shorts_dia": {
         "data": "2026-08-09",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-09"
     },
