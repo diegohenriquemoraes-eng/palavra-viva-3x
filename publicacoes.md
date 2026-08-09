@@ -1678,3 +1678,11 @@
 - Item: short-3 — Romanos 12:12
 - Duração: 18.8s
 - Publicado em: 2026-08-08T21:22:42+00:00
+
+## [es] H4f9r3AK3iI — Salmos para Dormir — Alivio de la Ansiedad | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/H4f9r3AK3iI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 42, Salmo 43, Salmo 55, Salmo 77, Salmo 94, Salmo 116, Salmo 130, Salmo 131
+- Duração: 4073.5s
+- Publicado em: 2026-08-09T01:30:08+00:00
