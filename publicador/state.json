@@ -1351,6 +1351,13 @@
           "video_id": "EhmG8bt2YXo",
           "titulo": "Romanos 12:12 - Alegres na esperanca | Biblia narrada",
           "em": "2026-08-08T21:22:42+00:00"
+        },
+        {
+          "pacote": "2026-08-09-salmos-dormir-8",
+          "item": "longo",
+          "video_id": "r4gG05MVmQo",
+          "titulo": "Salmos para Dormir — Alívio da Ansiedade | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-09T03:28:18+00:00"
         }
       ],
       "ultimo_short": "2026-08-08T21:22:42+00:00",
@@ -1358,7 +1365,7 @@
         "data": "2026-08-08",
         "n": 3
       },
-      "longo_data": "2026-08-08"
+      "longo_data": "2026-08-09"
     },
     "stoic": {
       "publicados": [
@@ -1445,11 +1452,18 @@
           "video_id": "f9ZzyKT6_hI",
           "titulo": "Sócrates llamaba así a la opinión del vulgo",
           "em": "2026-08-08T03:01:54+00:00"
+        },
+        {
+          "pacote": "2026-08-09-adversidad",
+          "item": "short-1",
+          "video_id": "FcuyJHTKQu4",
+          "titulo": "El obstáculo se vuelve el camino",
+          "em": "2026-08-09T03:29:16+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T03:01:54+00:00",
+      "ultimo_short": "2026-08-09T03:29:16+00:00",
       "shorts_dia": {
-        "data": "2026-08-08",
+        "data": "2026-08-09",
         "n": 1
       },
       "longo_data": ""
@@ -1490,11 +1504,18 @@
           "video_id": "f5UTmzuWjH4",
           "titulo": "Lo único que no puedes delegar",
           "em": "2026-08-08T03:03:08+00:00"
+        },
+        {
+          "pacote": "2026-08-09-fortuna-y-virtud",
+          "item": "short-1",
+          "video_id": "hBM2Z_BG2J8",
+          "titulo": "La suerte manda en la mitad",
+          "em": "2026-08-09T03:30:27+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T03:03:08+00:00",
+      "ultimo_short": "2026-08-09T03:30:27+00:00",
       "shorts_dia": {
-        "data": "2026-08-08",
+        "data": "2026-08-09",
         "n": 1
       },
       "longo_data": ""
@@ -1535,11 +1556,18 @@
           "video_id": "vMmKOBc67Qc",
           "titulo": "La treta para que el otro se abra",
           "em": "2026-08-08T04:06:39+00:00"
+        },
+        {
+          "pacote": "2026-08-09-excusar-llanezas",
+          "item": "short-1",
+          "video_id": "z-c3HQ0JuBY",
+          "titulo": "La confianza que te cuesta el respeto",
+          "em": "2026-08-09T03:31:34+00:00"
         }
       ],
-      "ultimo_short": "2026-08-08T04:06:39+00:00",
+      "ultimo_short": "2026-08-09T03:31:34+00:00",
       "shorts_dia": {
-        "data": "2026-08-08",
+        "data": "2026-08-09",
         "n": 1
       },
       "longo_data": ""

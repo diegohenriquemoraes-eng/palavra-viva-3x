@@ -1686,3 +1686,35 @@
 - Item: longo — Salmo 42, Salmo 43, Salmo 55, Salmo 77, Salmo 94, Salmo 116, Salmo 130, Salmo 131
 - Duração: 4073.5s
 - Publicado em: 2026-08-09T01:30:08+00:00
+
+## [pt] r4gG05MVmQo — Salmos para Dormir — Alívio da Ansiedade | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/r4gG05MVmQo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 42, Salmo 43, Salmo 55, Salmo 77, Salmo 94, Salmo 116, Salmo 130, Salmo 131
+- Duração: 4298.3s
+- Publicado em: 2026-08-09T03:28:18+00:00
+
+## [stoic] FcuyJHTKQu4 — El obstáculo se vuelve el camino
+
+- URL: https://youtu.be/FcuyJHTKQu4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 5:44
+- Duração: 21.9s
+- Publicado em: 2026-08-09T03:29:16+00:00
+
+## [poder] hBM2Z_BG2J8 — La suerte manda en la mitad
+
+- URL: https://youtu.be/hBM2Z_BG2J8
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 25:2
+- Duração: 28.5s
+- Publicado em: 2026-08-09T03:30:27+00:00
+
+## [astucia] z-c3HQ0JuBY — La confianza que te cuesta el respeto
+
+- URL: https://youtu.be/z-c3HQ0JuBY
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 177:1
+- Duração: 20.2s
+- Publicado em: 2026-08-09T03:31:34+00:00
