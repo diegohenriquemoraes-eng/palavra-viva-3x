@@ -1774,3 +1774,35 @@
 - Item: longo — Proverbios 3:1-12
 - Duração: 1168.2s
 - Publicado em: 2026-08-10T01:12:04+00:00
+
+## [pt] bnNv1ZQWzNo — Confia no Senhor de Todo o teu Coracao - Proverbios 3 | Biblia
+
+- URL: https://youtu.be/bnNv1ZQWzNo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Provérbios 3:1-12
+- Duração: 1271.2s
+- Publicado em: 2026-08-10T03:22:14+00:00
+
+## [stoic] BCpoCAeT998 — Tu enojo te cuesta más que la ofensa
+
+- URL: https://youtu.be/BCpoCAeT998
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 11:41
+- Duração: 26.1s
+- Publicado em: 2026-08-10T03:23:11+00:00
+
+## [poder] r7YfsvtzIY4 — La corte está llena de aduladores
+
+- URL: https://youtu.be/r7YfsvtzIY4
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 23:2
+- Duração: 22.1s
+- Publicado em: 2026-08-10T03:24:13+00:00
+
+## [astucia] VElxOp7Qg_o — El día que bajas la guardia
+
+- URL: https://youtu.be/VElxOp7Qg_o
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 264:1
+- Duração: 18.3s
+- Publicado em: 2026-08-10T03:25:20+00:00
