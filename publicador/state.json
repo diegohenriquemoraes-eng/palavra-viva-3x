@@ -617,12 +617,19 @@
           "video_id": "3cHnAEbaypQ",
           "titulo": "Fiate de Jehova de Todo tu Corazon - Proverbios 3 | Biblia",
           "em": "2026-08-10T01:12:04+00:00"
+        },
+        {
+          "pacote": "2026-08-10-sabedoria-proverbios",
+          "item": "short-1",
+          "video_id": "ifTmFUsuNso",
+          "titulo": "Proverbios 3:5 - No te apoyes en tu propia prudencia | Biblia",
+          "em": "2026-08-10T05:17:45+00:00"
         }
       ],
-      "ultimo_short": "2026-08-09T21:23:50+00:00",
+      "ultimo_short": "2026-08-10T05:17:45+00:00",
       "shorts_dia": {
-        "data": "2026-08-09",
-        "n": 3
+        "data": "2026-08-10",
+        "n": 1
       },
       "longo_data": "2026-08-10"
     },
@@ -1414,12 +1421,19 @@
           "video_id": "bnNv1ZQWzNo",
           "titulo": "Confia no Senhor de Todo o teu Coracao - Proverbios 3 | Biblia",
           "em": "2026-08-10T03:22:14+00:00"
+        },
+        {
+          "pacote": "2026-08-10-sabedoria-proverbios",
+          "item": "short-1",
+          "video_id": "huJ4DEeetu4",
+          "titulo": "Proverbios 3:5 - Nao te estribes no teu proprio entendimento | Biblia",
+          "em": "2026-08-10T05:19:14+00:00"
         }
       ],
-      "ultimo_short": "2026-08-09T21:24:51+00:00",
+      "ultimo_short": "2026-08-10T05:19:14+00:00",
       "shorts_dia": {
-        "data": "2026-08-09",
-        "n": 3
+        "data": "2026-08-10",
+        "n": 1
       },
       "longo_data": "2026-08-10"
     },

@@ -1806,3 +1806,19 @@
 - Item: short-1 — Oráculo manual 264:1
 - Duração: 18.3s
 - Publicado em: 2026-08-10T03:25:20+00:00
+
+## [es] ifTmFUsuNso — Proverbios 3:5 - No te apoyes en tu propia prudencia | Biblia
+
+- URL: https://youtu.be/ifTmFUsuNso
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Proverbios 3:5-6
+- Duração: 20.7s
+- Publicado em: 2026-08-10T05:17:45+00:00
+
+## [pt] huJ4DEeetu4 — Proverbios 3:5 - Nao te estribes no teu proprio entendimento | Biblia
+
+- URL: https://youtu.be/huJ4DEeetu4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Provérbios 3:5-6
+- Duração: 23.2s
+- Publicado em: 2026-08-10T05:19:14+00:00
