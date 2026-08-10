@@ -624,12 +624,19 @@
           "video_id": "ifTmFUsuNso",
           "titulo": "Proverbios 3:5 - No te apoyes en tu propia prudencia | Biblia",
           "em": "2026-08-10T05:17:45+00:00"
+        },
+        {
+          "pacote": "2026-08-10-sabedoria-proverbios",
+          "item": "short-2",
+          "video_id": "byv3kyd3nS0",
+          "titulo": "Proverbios 4:23 - Sobre toda cosa guardada, guarda tu corazon",
+          "em": "2026-08-10T12:46:14+00:00"
         }
       ],
-      "ultimo_short": "2026-08-10T05:17:45+00:00",
+      "ultimo_short": "2026-08-10T12:46:14+00:00",
       "shorts_dia": {
         "data": "2026-08-10",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-10"
     },
@@ -1428,12 +1435,19 @@
           "video_id": "huJ4DEeetu4",
           "titulo": "Proverbios 3:5 - Nao te estribes no teu proprio entendimento | Biblia",
           "em": "2026-08-10T05:19:14+00:00"
+        },
+        {
+          "pacote": "2026-08-10-sabedoria-proverbios",
+          "item": "short-2",
+          "video_id": "1U2nVXJjKSs",
+          "titulo": "Proverbios 4:23 - Sobre tudo o que se deve guardar, guarda o coracao",
+          "em": "2026-08-10T12:47:23+00:00"
         }
       ],
-      "ultimo_short": "2026-08-10T05:19:14+00:00",
+      "ultimo_short": "2026-08-10T12:47:23+00:00",
       "shorts_dia": {
         "data": "2026-08-10",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-10"
     },

@@ -1822,3 +1822,19 @@
 - Item: short-1 — Provérbios 3:5-6
 - Duração: 23.2s
 - Publicado em: 2026-08-10T05:19:14+00:00
+
+## [es] byv3kyd3nS0 — Proverbios 4:23 - Sobre toda cosa guardada, guarda tu corazon
+
+- URL: https://youtu.be/byv3kyd3nS0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Proverbios 4:23
+- Duração: 15.6s
+- Publicado em: 2026-08-10T12:46:14+00:00
+
+## [pt] 1U2nVXJjKSs — Proverbios 4:23 - Sobre tudo o que se deve guardar, guarda o coracao
+
+- URL: https://youtu.be/1U2nVXJjKSs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Provérbios 4:23
+- Duração: 17.6s
+- Publicado em: 2026-08-10T12:47:23+00:00
