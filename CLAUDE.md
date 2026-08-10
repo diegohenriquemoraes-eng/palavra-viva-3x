@@ -5,6 +5,28 @@ cada um com áudio TTS, legenda queimada, título, descrição e thumbnail no se
 idioma. Custo zero, 100% na nuvem (GitHub Actions), sem PC e sem intervenção.
 Sucessor do pipeline do Palabra Viva (repo `palabra-viva`, hoje aposentado).
 
+## A rotina semanal cobre os 5 CANAIS e a MONETIZAÇÃO — decisão do Diego, 10/08/2026
+
+A rotina de segunda-feira (12:00 UTC) analisava só es/pt/Instagram. A partir de
+agora tem de cobrir **os 5 canais no ar** — `es`, `pt`, `stoic`, `poder`,
+`astucia` (`en` está desligado, não conta) — e **relatar em toda rodada se cada
+canal está apto à monetização**, com os dois portões separados:
+
+- **Portão A (VOLUME)**: 1.000 inscritos + 4.000 horas em 12 meses, OU 1.000
+  inscritos + 10 mi de views de Shorts em 90 dias. As trilhas não somam. Hora
+  de exibição só vem de vídeo LONGO. Canal com `longos_publicados == 0` **não
+  tem trilha de horas**, e a de Shorts exige ~111.000 views/dia (o melhor canal
+  da casa faz ~1.800/dia). `desempenho_historico.json` traz `inscritos` e
+  `longos_publicados` por canal desde 10/08 — é de lá que sai o quadro.
+- **Portão B (FORMATO)**: `answer/1311392` lista como inelegível "readings of
+  other materials you did not originally create" e slideshow com narrativa
+  mínima. `poder` e `astucia` passam (têm camada autoral). Os bíblicos e o
+  `stoic` estão hoje no formato que a política descreve como inelegível —
+  domínio público resolve COPYRIGHT, não monetização. Ver `ESTRATEGIA-MONETIZACAO.md`.
+
+O relatório tem de dizer, sem rodeio, **quais canais estão aptos e quais não têm
+caminho hoje**. Não estimar inscritos: canal sem medição entra como "não medido".
+
 ## Canais
 
 | Idioma | Canal | Conta Google | Secrets |
