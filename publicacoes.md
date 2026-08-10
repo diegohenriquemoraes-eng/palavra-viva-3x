@@ -1766,3 +1766,11 @@
 - Item: short-3 — Salmo 131:2
 - Duração: 19.3s
 - Publicado em: 2026-08-09T21:24:51+00:00
+
+## [es] 3cHnAEbaypQ — Fiate de Jehova de Todo tu Corazon - Proverbios 3 | Biblia
+
+- URL: https://youtu.be/3cHnAEbaypQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Proverbios 3:1-12
+- Duração: 1168.2s
+- Publicado em: 2026-08-10T01:12:04+00:00
