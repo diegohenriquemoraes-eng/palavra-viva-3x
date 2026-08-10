@@ -631,12 +631,19 @@
           "video_id": "byv3kyd3nS0",
           "titulo": "Proverbios 4:23 - Sobre toda cosa guardada, guarda tu corazon",
           "em": "2026-08-10T12:46:14+00:00"
+        },
+        {
+          "pacote": "2026-08-10-sabedoria-proverbios",
+          "item": "short-3",
+          "video_id": "FyvwIc7edfQ",
+          "titulo": "Proverbios 15:1 - La blanda respuesta quita la ira | Biblia",
+          "em": "2026-08-10T19:49:20+00:00"
         }
       ],
-      "ultimo_short": "2026-08-10T12:46:14+00:00",
+      "ultimo_short": "2026-08-10T19:49:20+00:00",
       "shorts_dia": {
         "data": "2026-08-10",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-10"
     },
@@ -1442,12 +1449,19 @@
           "video_id": "1U2nVXJjKSs",
           "titulo": "Proverbios 4:23 - Sobre tudo o que se deve guardar, guarda o coracao",
           "em": "2026-08-10T12:47:23+00:00"
+        },
+        {
+          "pacote": "2026-08-10-sabedoria-proverbios",
+          "item": "short-3",
+          "video_id": "I8MEmcD0s0Y",
+          "titulo": "Proverbios 15:1 - A resposta branda desvia o furor | Biblia",
+          "em": "2026-08-10T19:50:20+00:00"
         }
       ],
-      "ultimo_short": "2026-08-10T12:47:23+00:00",
+      "ultimo_short": "2026-08-10T19:50:20+00:00",
       "shorts_dia": {
         "data": "2026-08-10",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-10"
     },

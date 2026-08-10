@@ -1838,3 +1838,19 @@
 - Item: short-2 — Provérbios 4:23
 - Duração: 17.6s
 - Publicado em: 2026-08-10T12:47:23+00:00
+
+## [es] FyvwIc7edfQ — Proverbios 15:1 - La blanda respuesta quita la ira | Biblia
+
+- URL: https://youtu.be/FyvwIc7edfQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Proverbios 15:1
+- Duração: 15.8s
+- Publicado em: 2026-08-10T19:49:20+00:00
+
+## [pt] I8MEmcD0s0Y — Proverbios 15:1 - A resposta branda desvia o furor | Biblia
+
+- URL: https://youtu.be/I8MEmcD0s0Y
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Provérbios 15:1
+- Duração: 16.5s
+- Publicado em: 2026-08-10T19:50:20+00:00
