@@ -1,4 +1,4 @@
-"""Mede os 3 canais contra a régua do nicho (6–9% de engajamento).
+"""Mede os canais contra a régua do nicho (6–9% de engajamento).
 
 Puxa as estatísticas reais de tudo que o publicador subiu (state.json guarda
 o video_id por canal), calcula engajamento por vídeo e agrupa por canal, por
@@ -6,8 +6,9 @@ formato (short/longo) e por `tipo` de passagem (conflicto/promesa/descriptivo,
 gravado no pacote). Rodar toda semana; formato/tipo consistentemente abaixo
 da régua é podado de conteudo/temas.json.
 
-Precisa das credenciais locais em credenciais/{es,en,pt}/ (só os canais que
-existirem são medidos). Custo: ~1 unidade por 50 vídeos por canal.
+Precisa das credenciais locais em credenciais/{es,en,pt,stoic,poder,astucia}/
+(só os canais que existirem são medidos). Custo: ~1 unidade por 50 vídeos por
+canal, mais 1 pelas estatísticas do canal (inscritos).
 
     python produzir/medir_desempenho.py
 """
@@ -81,7 +82,7 @@ def coorte(todas: list[dict], canal: str) -> list[dict]:
             and IDADE_MIN_D <= l["idade_d"] <= IDADE_MAX_D]
 
 
-def registrar_snapshot(todas: list[dict]) -> dict:
+def registrar_snapshot(todas: list[dict], canal_stats: dict) -> dict:
     """Grava a linha da semana no histórico e devolve o que foi gravado.
 
     É este arquivo, e não o desempenho.json (que é sempre só a foto de agora),
@@ -105,6 +106,11 @@ def registrar_snapshot(todas: list[dict]) -> dict:
             "formatos_na_janela": sorted({v["formato"] for v in c}),
             "videos_totais": len(total),
             "views_totais": sum(v["views"] for v in total),
+            # Portão A do YPP: 1.000 inscritos + 4.000 horas. Hora só vem de
+            # vídeo longo, então um canal com longos_publicados=0 não tem
+            # trilha de horas por mais que os Shorts cresçam.
+            "inscritos": canal_stats.get(canal, {}).get("inscritos"),
+            "longos_publicados": sum(1 for v in total if v["item"] == "longo"),
         }
     # a data é a chave: rodar duas vezes no mesmo dia corrige, não duplica
     hist = [h for h in hist if h["data"] != linha["data"]] + [linha]
@@ -122,6 +128,7 @@ def main() -> None:
         return
 
     todas = []
+    canal_stats: dict[str, dict] = {}
     for idioma, ec in canais.items():
         publicados = ec.get("publicados", [])
         if not publicados:
@@ -138,6 +145,15 @@ def main() -> None:
             print(f"[{idioma}] token inválido ({str(exc)[:80]}); pulando "
                   f"{len(publicados)} vídeos.")
             continue
+        try:
+            info = yt.channels().list(part="statistics", mine=True).execute()
+            st_canal = info.get("items", [{}])[0].get("statistics", {})
+            canal_stats[idioma] = {
+                "inscritos": int(st_canal.get("subscriberCount", 0)),
+            }
+        except Exception as exc:
+            print(f"[{idioma}] sem estatísticas de canal ({str(exc)[:60]}).")
+
         ids = [p["video_id"] for p in publicados]
         stats = {}
         for i in range(0, len(ids), 50):
@@ -195,7 +211,7 @@ def main() -> None:
             print(f"  {g:11} {statistics.median(es):5.2f}%  (n={len(es)})")
 
     # ---- a régua de decisão: mesma janela de idade, semana a semana --------
-    linha = registrar_snapshot(todas)
+    linha = registrar_snapshot(todas, canal_stats)
     hist = json.loads(HISTORICO.read_text(encoding="utf-8"))
     print(f"\n\nCOORTE COMPARÁVEL — Shorts com {IDADE_MIN_D} a {IDADE_MAX_D} "
           f"dias de vida (é esta a linha que decide, não a média geral):\n")
@@ -217,6 +233,19 @@ def main() -> None:
             var = (d["views_medianas"] / a["views_medianas"] - 1) * 100
             print(f"  {canal}: {a['views_medianas']:,} → "
                   f"{d['views_medianas']:,} views medianas ({var:+.0f}%)")
+    print("\n\nPORTÃO A do YPP — 1.000 inscritos + 4.000 horas em 12 meses.\n"
+          "Hora de exibição só vem de vídeo LONGO: canal com 0 longos não tem\n"
+          "trilha de horas, e a trilha alternativa (10 mi de views de Shorts em\n"
+          "90 dias) exige 111.000 views/dia.\n")
+    print(f"{'canal':9} {'inscritos':>9} {'falta p/1k':>10} {'longos':>7}  trilha de horas")
+    for canal, d in sorted(linha["canais"].items()):
+        ins = d.get("inscritos")
+        longos = d.get("longos_publicados", 0)
+        falta = max(0, 1000 - ins) if ins is not None else None
+        trilha = "aberta" if longos else "FECHADA (sem longo)"
+        print(f"{canal:9} {(ins if ins is not None else '?'):>9} "
+              f"{(falta if falta is not None else '?'):>10} {longos:>7}  {trilha}")
+
     print("\nFoto de agora em conteudo/desempenho.json; série semanal em "
           "conteudo/desempenho_historico.json. Tipo/formato abaixo da régua "
           "por 2+ semanas → podar de conteudo/temas.json.")
