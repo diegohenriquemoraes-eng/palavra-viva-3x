@@ -178,3 +178,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18025248896681177/
 - Publicado em: 2026-08-09T22:53:09+00:00
+
+## 17942930913294295 — A OPINIÃO DOS OUTROS
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/17942930913294295/
+- Publicado em: 2026-08-10T19:20:26+00:00
