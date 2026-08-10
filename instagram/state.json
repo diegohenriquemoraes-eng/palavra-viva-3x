@@ -1,10 +1,10 @@
 {
-  "ponteiro": 14,
+  "ponteiro": 15,
   "dia": {
     "data": "2026-08-10",
-    "n": 1
+    "n": 2
   },
-  "ultimo": "2026-08-10T19:18:24+00:00",
+  "ultimo": "2026-08-10T21:59:20+00:00",
   "publicados": [
     {
       "tipo": "lei",
@@ -89,6 +89,12 @@
       "ref": "opiniao-alheia",
       "media_id": "17942930913294295",
       "em": "2026-08-10T19:18:24+00:00"
+    },
+    {
+      "tipo": "lei",
+      "ref": "generosidade-estrategica",
+      "media_id": "18408413716152346",
+      "em": "2026-08-10T21:59:20+00:00"
     }
   ]
 }

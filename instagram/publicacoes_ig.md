@@ -184,3 +184,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/17942930913294295/
 - Publicado em: 2026-08-10T19:20:26+00:00
+
+## 18408413716152346 — FAVOR COM JUROS
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18408413716152346/
+- Publicado em: 2026-08-10T22:00:34+00:00
