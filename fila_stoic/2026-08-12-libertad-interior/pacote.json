@@ -1,0 +1,172 @@
+{
+  "slug": "libertad-interior",
+  "formato": "dormir",
+  "data": "2026-08-12",
+  "criado_em": "2026-08-10T02:36:38+00:00",
+  "aprovado_em": "2026-08-10T02:36:38+00:00",
+  "longo": {
+    "refs": [
+      "Enquiridión 70:1",
+      "Enquiridión 71:1-2",
+      "Enquiridión 72:1-2",
+      "Enquiridión 73:1",
+      "Enquiridión 74:1-3"
+    ],
+    "titulo": {
+      "stoic": "Epicteto: El Camino del Filósofo | Estoicismo para Dormir"
+    },
+    "thumb_titulo": {
+      "stoic": "LIBERTAD INTERIOR"
+    },
+    "thumb_sub": {
+      "stoic": "Epicteto, Enquiridión"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Joshua_Tree_Milky_Way.jpg/1920px-Joshua_Tree_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Benjamin Inouye",
+        "origem": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg/1920px-5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Brainandforce",
+        "origem": "https://commons.wikimedia.org/wiki/File:5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stars_Gather_in_%27Downtown%27_Milky_Way.jpg/1920px-Stars_Gather_in_%27Downtown%27_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stars_Gather_in_%27Downtown%27_Milky_Way.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Milky_way1.jpg/1920px-Milky_way1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/UCLA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way1.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/1920px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/ESA/CXC/STScI",
+        "origem": "https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Desert_Flag_Night_Flights_%288384162%29.jpg/1920px-Desert_Flag_Night_Flights_%288384162%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384162).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Desert_Flag_Night_Flights_%288384159%29.jpg/1920px-Desert_Flag_Night_Flights_%288384159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384159).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Desert_Flag_Night_Flights_%288384160%29.jpg/1920px-Desert_Flag_Night_Flights_%288384160%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384160).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Desert_Flag_Night_Flights_%288384158%29.jpg/1920px-Desert_Flag_Night_Flights_%288384158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384158).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 70:1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La señal de que ya piensas como filósofo"
+      },
+      "aplicacao": "Mientras tu ánimo dependa de lo que hagan otros, ellos mandan en tu día.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:11",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Lo que sí puedes, aunque digas que no"
+      },
+      "aplicacao": "Casi siempre dices 'no puedo' de lo que sí depende de ti.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/SHM_05.2022_Chain_and_badge_of_the_Order_of_Iron_Crown_%28Austria%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Retired electrician",
+        "origem": "https://commons.wikimedia.org/wiki/File:SHM_05.2022_Chain_and_badge_of_the_Order_of_Iron_Crown_(Austria)_02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 73:1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Las leyes que un estoico no rompe jamás"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 6:76",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Nadie puede impedirte vivir así"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/AKVIS_Shrpns20_HC-N%2C_PDN_Background_Crop%2C_Framecrop_-_Desert_uniform%2C_night%2C_3-4_front%2C_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_%2816_February_1978%29_004042a_image_primary.png/1920px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "A. J. M.",
+        "origem": "https://commons.wikimedia.org/wiki/File:AKVIS_Shrpns20_HC-N,_PDN_Background_Crop,_Framecrop_-_Desert_uniform,_night,_3-4_front,_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_(16_February_1978)_004042a_image_primary.png",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "slug": "estados-nuevos",
+  "formato": "tema",
+  "data": "2026-08-12",
+  "criado_em": "2026-08-10T02:36:53+00:00",
+  "aprovado_em": "2026-08-10T02:36:53+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 6"
+    ],
+    "titulo": {
+      "poder": "Por Qué es Tan Difícil Cambiar las Cosas | Maquiavelo VI"
+    },
+    "thumb_titulo": {
+      "poder": "CAMBIAR EL ORDEN"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo VI"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg/1920px-V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "mikrimas",
+        "origem": "https://commons.wikimedia.org/wiki/File:V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_01.jpg/1920px-HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FWOSH katm 4502",
+        "origem": "https://commons.wikimedia.org/wiki/File:HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg/1920px-HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FWOSH katm 4502",
+        "origem": "https://commons.wikimedia.org/wiki/File:HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg/1920px-SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Hoai Chonag Fornai",
+        "origem": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wat_Chedi_Luang%2C_Stupa_stairs_at_night%2C_Chiang_Mai%2C_Thailand.jpg/1920px-Wat_Chedi_Luang%2C_Stupa_stairs_at_night%2C_Chiang_Mai%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wat_Chedi_Luang,_Stupa_stairs_at_night,_Chiang_Mai,_Thailand.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dark_Sword-grass._Agrotis_ipsilon_-_Flickr_-_gailhampshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "gailhampshire from Cradley, Malvern, U.K",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_Sword-grass._Agrotis_ipsilon_-_Flickr_-_gailhampshire.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Dark_Sword-grass_%28Agrotis_ipsilon%29_%2830790446527%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ben Sale from Stevenage, UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_Sword-grass_(Agrotis_ipsilon)_(30790446527).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Agrotis_ipsilon%5E_Dark_Sword-grass_-_Flickr_-_gailhampshire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "gailhampshire from Cradley, Malvern, U.K",
+        "origem": "https://commons.wikimedia.org/wiki/File:Agrotis_ipsilon%5E_Dark_Sword-grass_-_Flickr_-_gailhampshire.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/%282091%29_Dark_Sword-grass_%28Agrotis_ipsilon%29_%2819735355800%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ben Sale from UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:(2091)_Dark_Sword-grass_(Agrotis_ipsilon)_(19735355800).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/%282091%29_Dark_Sword-grass_%28Agrotis_ipsilon%29_%2828585763122%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ben Sale from UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:(2091)_Dark_Sword-grass_(Agrotis_ipsilon)_(28585763122).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 6:26",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "De particular a príncipe: supo usar la ocasión"
+      },
+      "aplicacao": "La ocasión llega para muchos. Solo la aprovecha el que ya estaba preparado.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HK_YLD_Yuen_Long_Yoho_Mall_n_Castle_Peak_Road_night_footbridge_stairs_n_visitors_July_2026_N13P.jpg/1920px-HK_YLD_Yuen_Long_Yoho_Mall_n_Castle_Peak_Road_night_footbridge_stairs_n_visitors_July_2026_N13P.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "BSOWN yamewl CHUNG Wuoo",
+        "origem": "https://commons.wikimedia.org/wiki/File:HK_YLD_Yuen_Long_Yoho_Mall_n_Castle_Peak_Road_night_footbridge_stairs_n_visitors_July_2026_N13P.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "El Príncipe 6:1",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Lo que se conquista con lo propio se sostiene"
+      },
+      "aplicacao": "Lo que te regalan, te lo pueden quitar. Lo que construyes, no.",
+      "imagem": null
+    }
+  ]
+}
