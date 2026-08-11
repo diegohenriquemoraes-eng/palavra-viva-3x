@@ -1,0 +1,168 @@
+{
+  "slug": "conocerse",
+  "formato": "tema",
+  "data": "2026-08-13",
+  "criado_em": "2026-08-11T02:29:59+00:00",
+  "aprovado_em": "2026-08-11T02:29:59+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 10:23-33"
+    ],
+    "titulo": {
+      "stoic": "Marco Aurelio: El Arte de Conocerse | Meditaciones Narradas"
+    },
+    "thumb_titulo": {
+      "stoic": "CONÓCETE"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones X"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p01.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lamp_with_theatre_scene%2C_clay_-_Museo_Egizio_%28Turin%29_C_7267_p02.jpg/1920px-Lamp_with_theatre_scene%2C_clay_-_Museo_Egizio_%28Turin%29_C_7267_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_with_theatre_scene,_clay_-_Museo_Egizio_(Turin)_C_7267_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p02.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Burning_candle_creation.jpg/1920px-Burning_candle_creation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Klare Mat",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_creation.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Candle_Burning.JPG/1920px-Candle_Burning.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Nanda93",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_Burning.JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Burning-candle.jpg/1920px-Burning-candle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "USER-62114",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning-candle.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Burning_candle_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Paolo Neo",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_(1).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burning_candle.jpg/1920px-Burning_candle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Photos public domain.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg/1920px-5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Brainandforce",
+        "origem": "https://commons.wikimedia.org/wiki/File:5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ESO_-_Milky_Way.jpg/1920px-ESO_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ S. Brunier",
+        "origem": "https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 2:13",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Mira hacia dentro o todo irá mal"
+      },
+      "aplicacao": "Vigilar la cabeza ajena es la forma más eficiente de descuidar la propia.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/A_Woman_with_a_Burning_Candle_%28Alexander_Laur%C3%A9us%29_-_Nationalmuseum_-_18220.tif/lossy-page1-1920px-A_Woman_with_a_Burning_Candle_%28Alexander_Laur%C3%A9us%29_-_Nationalmuseum_-_18220.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Aleksander Lauréus",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_Woman_with_a_Burning_Candle_(Alexander_Laur%C3%A9us)_-_Nationalmuseum_-_18220.tif",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 9:26",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Hoy me libré de un problema al entender esto"
+      },
+      "aplicacao": "El problema rara vez estaba afuera. Ahí es donde es cómodo buscarlo.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p02.jpg/1920px-Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Two-spouted_lamp_with_palmette_handle,_clay_-_Museo_Egizio_(Turin)_C_7278_p02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:24",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Dos reglas bastan para una vida entera"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fire_burning_in_a_fireplace.jpg/1920px-Fire_burning_in_a_fireplace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pöllö",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_burning_in_a_fireplace.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 10:31",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Deja de debatir qué es ser bueno. Sélo."
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

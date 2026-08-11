@@ -1,0 +1,87 @@
+{
+  "slug": "las-ofensas-y-los-beneficios",
+  "formato": "tema",
+  "data": "2026-08-13",
+  "criado_em": "2026-08-11T02:30:14+00:00",
+  "aprovado_em": "2026-08-11T02:30:14+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 3"
+    ],
+    "titulo": {
+      "poder": "Los Males se Curan al Principio | Maquiavelo III"
+    },
+    "thumb_titulo": {
+      "poder": "A TIEMPO"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo III"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Clock_%28England%29%2C_ca._1905_%28CH_51685175%29.jpg/1920px-Clock_%28England%29%2C_ca._1905_%28CH_51685175%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown artist Unknown artist",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clock_(England),_ca._1905_(CH_51685175).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Dandelion_Clock_Dark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Phil Wardle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dandelion_Clock_Dark.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tall_case_clock%2C_maker_unknown%2C_Bennington_VT%2C_c._1800%2C_cherry_and_white_pine_with_light_and_dark_wood_inlays%2C_view_1_-_Bennington_Museum_-_Bennington%2C_VT_-_DSC08793.JPG/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daderot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tall_case_clock,_maker_unknown,_Bennington_VT,_c._1800,_cherry_and_white_pine_with_light_and_dark_wood_inlays,_view_1_-_Bennington_Museum_-_Bennington,_VT_-_DSC08793.JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Clock_Julien_Beliard.jpg/1920px-Clock_Julien_Beliard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "John Jason Junior",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clock_Julien_Beliard.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Tall_case_clock%2C_maker_unknown%2C_Bennington_VT%2C_c._1800%2C_cherry_and_white_pine_with_light_and_dark_wood_inlays%2C_view_2_-_Bennington_Museum_-_Bennington%2C_VT_-_DSC08795.JPG/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daderot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tall_case_clock,_maker_unknown,_Bennington_VT,_c._1800,_cherry_and_white_pine_with_light_and_dark_wood_inlays,_view_2_-_Bennington_Museum_-_Bennington,_VT_-_DSC08795.JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg/1920px-Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jarek Tuszyński",
+        "origem": "https://commons.wikimedia.org/wiki/File:Entrance_to_Dark_Corridor_at_Calico_Hills,_Red_Rock_Canyon,_Nevada_-_1.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 3:20",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "El problema pequeño que no atendiste"
+      },
+      "aplicacao": "Al principio es fácil de resolver y difícil de ver. Después, al revés.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tall_case_clock%2C_maker_unknown%2C_Bennington_VT%2C_c._1800%2C_cherry_and_white_pine_with_light_and_dark_wood_inlays%2C_view_1_-_Bennington_Museum_-_Bennington%2C_VT_-_DSC08793.JPG/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daderot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tall_case_clock,_maker_unknown,_Bennington_VT,_c._1800,_cherry_and_white_pine_with_light_and_dark_wood_inlays,_view_1_-_Bennington_Museum_-_Bennington,_VT_-_DSC08793.JPG",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "El Príncipe 3:30",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Nunca dejes que otro crezca a tu lado"
+      },
+      "aplicacao": "El que ayuda a otro a hacerse fuerte se debilita a sí mismo. Vale para socios.",
+      "imagem": null
+    }
+  ]
+}

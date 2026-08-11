@@ -1,0 +1,221 @@
+{
+  "slug": "salmos-dormir-10",
+  "formato": "dormir",
+  "data": "2026-08-13",
+  "criado_em": "2026-08-11T02:29:25+00:00",
+  "aprovado_em": "2026-08-11T02:29:25+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 32",
+      "Psalms 51",
+      "Psalms 103",
+      "Psalms 130",
+      "Psalms 143",
+      "Psalms 25",
+      "Psalms 40",
+      "Psalms 86"
+    ],
+    "titulo": {
+      "pt": "Salmos para Dormir — Misericórdia e Perdão | Bíblia Narrada com Voz Calma",
+      "es": "Salmos para Dormir — Misericordia y Perdón | Biblia Hablada con Voz Calmada",
+      "en": "Psalms for Sleep — Mercy and Forgiveness | Audio Bible with a Calm Voice"
+    },
+    "thumb_titulo": {
+      "pt": "SALMOS PARA DORMIR",
+      "es": "SALMOS PARA DORMIR",
+      "en": "PSALMS FOR SLEEP"
+    },
+    "thumb_sub": {
+      "pt": "Salmo 103 • 130 • 51",
+      "es": "Salmo 103 • 130 • 51",
+      "en": "Psalm 103 • 130 • 51"
+    },
+    "abertura": {
+      "es": "Salmos de misericordia y perdón. El 51 nace, según su encabezado, de la peor noche de David. El 103 mide el perdón con distancias: cuanto está lejos el oriente del occidente. El 130 lo dice en una línea: si mirases a los pecados, quién podría mantenerse. Escucha sin cargar nada.",
+      "pt": "Salmos de misericórdia e perdão. O 51 nasce, segundo o cabeçalho, da pior noite de Davi. O 103 mede o perdão com distâncias: quanto o oriente está longe do ocidente. O 130 diz numa linha: se observares as iniquidades, quem subsistirá. Ouça sem carregar nada."
+    },
+    "tags_extra": {
+      "es": [
+        "salmo 51",
+        "salmo 103",
+        "salmos de perdon",
+        "misericordia de dios",
+        "salmos para dormir",
+        "biblia hablada de noche"
+      ],
+      "pt": [
+        "salmo 51",
+        "salmo 103",
+        "salmos de perdao",
+        "misericordia de deus",
+        "salmos para dormir",
+        "biblia narrada a noite"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Misericordia y perdón: Salmo 32, 51, 103, 130, 143, 25, 40 y 86, lectura lenta para la noche. Reina-Valera 1909.",
+      "pt": "Misericórdia e perdão: Salmo 32, 51, 103, 130, 143, 25, 40 e 86, leitura lenta para a noite. Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Moonlight_view_of_Red_Mountain_at_Rossland%2C_British_Columbia_%28HS85-10-9712%29.jpg/1920px-Moonlight_view_of_Red_Mountain_at_Rossland%2C_British_Columbia_%28HS85-10-9712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Marion Eddie",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moonlight_view_of_Red_Mountain_at_Rossland,_British_Columbia_(HS85-10-9712).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Albert_Rieger_-_Mountain_Stream_in_the_Moonlight.jpg/1920px-Albert_Rieger_-_Mountain_Stream_in_the_Moonlight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Albert Rieger",
+        "origem": "https://commons.wikimedia.org/wiki/File:Albert_Rieger_-_Mountain_Stream_in_the_Moonlight.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/People_watching_surnrise_on_%22Babia_g%C3%B3ra%22_mountain_in_the_moonlight_%2824088131004%29.jpg/1920px-People_watching_surnrise_on_%22Babia_g%C3%B3ra%22_mountain_in_the_moonlight_%2824088131004%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Maciej Kraus",
+        "origem": "https://commons.wikimedia.org/wiki/File:People_watching_surnrise_on_%22Babia_g%C3%B3ra%22_mountain_in_the_moonlight_(24088131004).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mountains_in_Moonlight_MET_DP158098.jpg/1920px-Mountains_in_Moonlight_MET_DP158098.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Arthur Bowen Davies",
+        "origem": "https://commons.wikimedia.org/wiki/File:Mountains_in_Moonlight_MET_DP158098.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Moonlight_view_of_Spokane_Mountain_at_Rossland%2C_British_Columbia_%28HS85-10-9713%29.jpg/1920px-Moonlight_view_of_Spokane_Mountain_at_Rossland%2C_British_Columbia_%28HS85-10-9713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Marion Eddie",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moonlight_view_of_Spokane_Mountain_at_Rossland,_British_Columbia_(HS85-10-9713).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Dark_sunrise_%2828247755501%29.jpg/1920px-Dark_sunrise_%2828247755501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sheila Sund from Salem, United States",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_sunrise_(28247755501).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Dawn-sunset-dark-sunrise_%2823697746584%29.jpg/1920px-Dawn-sunset-dark-sunrise_%2823697746584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "www.Pixel.la Free Stock Photos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn-sunset-dark-sunrise_(23697746584).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Dark_Rigi%2C_the_Lake_of_Lucerne%2C_Showing_the_Rigi_at_Sunrise_by_Turner.jpg/1920px-The_Dark_Rigi%2C_the_Lake_of_Lucerne%2C_Showing_the_Rigi_at_Sunrise_by_Turner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "J. M. W. Turner",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Dark_Rigi,_the_Lake_of_Lucerne,_Showing_the_Rigi_at_Sunrise_by_Turner.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Awaiting_Matariki_Sunrise_%2852177996268%29.jpg/1920px-Awaiting_Matariki_Sunrise_%2852177996268%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Geoff McKay from Palmerston North, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Awaiting_Matariki_Sunrise_(52177996268).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dark_sunrise_in_Turks_and_Caicos.jpg/1920px-Dark_sunrise_in_Turks_and_Caicos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Boris Kasimov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_sunrise_in_Turks_and_Caicos.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Moon_and_clouds_over_Brofjorden_4.jpg/1920px-Moon_and_clouds_over_Brofjorden_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg/1920px-Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "John Phelan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Lake_Quannapowitt,_Wakefield_MA.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Moon_Clouds_Treetops_Abstract.jpg/1920px-Moon_Clouds_Treetops_Abstract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Moon_in_clouds_over_Koller%C3%B6d.jpg/1920px-Moon_in_clouds_over_Koller%C3%B6d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_in_clouds_over_Koller%C3%B6d.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 103:1-5",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 103 — Bendize, ó minha alma, ao Senhor | Bíblia",
+        "es": "Salmo 103 — Bendice, alma mía, a Jehová | Biblia",
+        "en": "Psalm 103 — Bless the Lord, O My Soul | Bible"
+      },
+      "aplicacao": {
+        "es": "Empieza y termina con la misma línea: 'bendice, alma mía'.",
+        "pt": "Começa e termina com a mesma linha: 'bendize, ó minha alma'."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Stars%40desertSunset%28byTdeGroot%29.JPG/1920px-Stars%40desertSunset%28byTdeGroot%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Tim de Groot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stars@desertSunset(byTdeGroot).JPG",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 130:5-6",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 130 — A minha alma espera no Senhor | Bíblia",
+        "es": "Salmo 130 — Mi alma espera a Jehová | Biblia",
+        "en": "Psalm 130 — My Soul Waits for the Lord | Bible"
+      },
+      "aplicacao": {
+        "es": "Otro cántico de las subidas: la espera se compara con la del centinela.",
+        "pt": "Outro cântico das subidas: a espera é comparada à do vigia."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Lake_Clearwater_dawn%2C_day_2_%2828183483224%29.jpg/1920px-Lake_Clearwater_dawn%2C_day_2_%2828183483224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Francis Vallance (Heritage Warrior) from Prebbleton, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Clearwater_dawn,_day_2_(28183483224).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Psalms 143:8",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 143:8 — De manhã ouvirei da tua bondade | Bíblia",
+        "es": "Salmo 143:8 — Hazme oír por la mañana tu misericordia | Biblia",
+        "en": "Psalm 143:8 — Let Me Hear Your Love in the Morning | Bible"
+      },
+      "aplicacao": {
+        "es": "Pide oír 'por la mañana': el salmo espera a que amanezca.",
+        "pt": "Pede ouvir 'pela manhã': o salmo espera o dia amanhecer."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Caribbean_Dark_Sunrise_6619.jpg/1920px-Caribbean_Dark_Sunrise_6619.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ImagePerson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Caribbean_Dark_Sunrise_6619.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 51:10",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 51:10 — Cria em mim um coração puro | Bíblia",
+        "es": "Salmo 51:10 — Crea en mí un corazón limpio | Biblia",
+        "en": "Psalm 51:10 — Create in Me a Clean Heart | Bible"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/China%2C_late_Southern_Song_%281127-1279%29_-_early_Yuan_dynasty_-_Mountain_Landscape_in_Moonlight_-_1987.37_-_Cleveland_Museum_of_Art.jpg/1920px-China%2C_late_Southern_Song_%281127-1279%29_-_early_Yuan_dynasty_-_Mountain_Landscape_in_Moonlight_-_1987.37_-_Cleveland_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "anonymous",
+        "origem": "https://commons.wikimedia.org/wiki/File:China,_late_Southern_Song_(1127-1279)_-_early_Yuan_dynasty_-_Mountain_Landscape_in_Moonlight_-_1987.37_-_Cleveland_Museum_of_Art.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
