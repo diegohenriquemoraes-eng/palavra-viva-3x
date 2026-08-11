@@ -1902,3 +1902,11 @@
 - Item: short-1 — Oráculo manual 43:1
 - Duração: 24.5s
 - Publicado em: 2026-08-11T03:56:28+00:00
+
+## [pt] 9-Xu5Nm6sIs — Salmo 27:1 — O Senhor é a minha luz | Bíblia
+
+- URL: https://youtu.be/9-Xu5Nm6sIs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 27:1
+- Duração: 17.3s
+- Publicado em: 2026-08-11T04:59:48+00:00
