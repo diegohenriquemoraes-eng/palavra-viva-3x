@@ -1505,12 +1505,19 @@
           "video_id": "0WuE9QjstK4",
           "titulo": "Salmo 139 — Para onde me irei do teu Espírito | Bíblia",
           "em": "2026-08-11T12:43:10+00:00"
+        },
+        {
+          "pacote": "2026-08-11-salmos-dormir-9",
+          "item": "short-3",
+          "video_id": "9fVkgyzlXYg",
+          "titulo": "Salmo 121 — O meu socorro vem do Senhor | Bíblia",
+          "em": "2026-08-11T19:56:20+00:00"
         }
       ],
-      "ultimo_short": "2026-08-11T12:43:10+00:00",
+      "ultimo_short": "2026-08-11T19:56:20+00:00",
       "shorts_dia": {
         "data": "2026-08-11",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-11"
     },

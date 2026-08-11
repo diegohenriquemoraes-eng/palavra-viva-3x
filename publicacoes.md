@@ -1934,3 +1934,11 @@
 - Item: short-3 — Salmo 121:1-3
 - Duração: 22.3s
 - Publicado em: 2026-08-11T17:51:43+00:00
+
+## [pt] 9fVkgyzlXYg — Salmo 121 — O meu socorro vem do Senhor | Bíblia
+
+- URL: https://youtu.be/9fVkgyzlXYg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 121:1-3
+- Duração: 23.5s
+- Publicado em: 2026-08-11T19:56:20+00:00
