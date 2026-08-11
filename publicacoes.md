@@ -1926,3 +1926,11 @@
 - Item: short-2 — Salmo 139:7-8
 - Duração: 25.7s
 - Publicado em: 2026-08-11T12:43:10+00:00
+
+## [es] JANACaZkYB8 — Salmo 121 — Mi socorro viene de Jehová | Biblia
+
+- URL: https://youtu.be/JANACaZkYB8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 121:1-3
+- Duração: 22.3s
+- Publicado em: 2026-08-11T17:51:43+00:00
