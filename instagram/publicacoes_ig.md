@@ -190,3 +190,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18408413716152346/
 - Publicado em: 2026-08-10T22:00:34+00:00
+
+## 18095157803375273 — PALAVRA X PADRÃO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18095157803375273/
+- Publicado em: 2026-08-11T19:27:00+00:00

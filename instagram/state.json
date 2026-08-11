@@ -1,10 +1,10 @@
 {
-  "ponteiro": 15,
+  "ponteiro": 16,
   "dia": {
-    "data": "2026-08-10",
-    "n": 2
+    "data": "2026-08-11",
+    "n": 1
   },
-  "ultimo": "2026-08-10T21:59:20+00:00",
+  "ultimo": "2026-08-11T19:25:25+00:00",
   "publicados": [
     {
       "tipo": "lei",
@@ -95,6 +95,12 @@
       "ref": "generosidade-estrategica",
       "media_id": "18408413716152346",
       "em": "2026-08-10T21:59:20+00:00"
+    },
+    {
+      "tipo": "verdade",
+      "ref": "consistencia-palavra",
+      "media_id": "18095157803375273",
+      "em": "2026-08-11T19:25:25+00:00"
     }
   ]
 }
