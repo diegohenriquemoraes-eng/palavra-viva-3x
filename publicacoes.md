@@ -1910,3 +1910,11 @@
 - Item: short-1 — Salmo 27:1
 - Duração: 17.3s
 - Publicado em: 2026-08-11T04:59:48+00:00
+
+## [es] FfOKycwhxtI — Salmo 139 — ¿A dónde me iré de tu Espíritu? | Biblia
+
+- URL: https://youtu.be/FfOKycwhxtI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 139:7-8
+- Duração: 23.3s
+- Publicado em: 2026-08-11T10:43:40+00:00
