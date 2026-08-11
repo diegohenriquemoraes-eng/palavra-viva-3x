@@ -1,10 +1,10 @@
 {
-  "ponteiro": 16,
+  "ponteiro": 17,
   "dia": {
     "data": "2026-08-11",
-    "n": 1
+    "n": 2
   },
-  "ultimo": "2026-08-11T19:25:25+00:00",
+  "ultimo": "2026-08-11T22:06:12+00:00",
   "publicados": [
     {
       "tipo": "lei",
@@ -101,6 +101,12 @@
       "ref": "consistencia-palavra",
       "media_id": "18095157803375273",
       "em": "2026-08-11T19:25:25+00:00"
+    },
+    {
+      "tipo": "estoico",
+      "ref": "banho-frio-conforto",
+      "media_id": "18029280833845105",
+      "em": "2026-08-11T22:06:12+00:00"
     }
   ]
 }

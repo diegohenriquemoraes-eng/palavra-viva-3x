@@ -196,3 +196,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18095157803375273/
 - Publicado em: 2026-08-11T19:27:00+00:00
+
+## 18029280833845105 — DESCONFORTO VOLUNTÁRIO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18029280833845105/
+- Publicado em: 2026-08-11T22:07:36+00:00
