@@ -1918,3 +1918,11 @@
 - Item: short-2 — Salmo 139:7-8
 - Duração: 23.3s
 - Publicado em: 2026-08-11T10:43:40+00:00
+
+## [pt] 0WuE9QjstK4 — Salmo 139 — Para onde me irei do teu Espírito | Bíblia
+
+- URL: https://youtu.be/0WuE9QjstK4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 139:7-8
+- Duração: 25.7s
+- Publicado em: 2026-08-11T12:43:10+00:00
