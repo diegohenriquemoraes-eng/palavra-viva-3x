@@ -645,12 +645,19 @@
           "video_id": "qkiVjjYZxrI",
           "titulo": "Salmos para Dormir — El Señor es mi Luz | Biblia Hablada con Voz Calmada",
           "em": "2026-08-11T01:52:58+00:00"
+        },
+        {
+          "pacote": "2026-08-11-salmos-dormir-9",
+          "item": "short-1",
+          "video_id": "pIUTJrtwhD4",
+          "titulo": "Salmo 27:1 — Jehová es mi luz y mi salvación | Biblia",
+          "em": "2026-08-11T03:04:56+00:00"
         }
       ],
-      "ultimo_short": "2026-08-10T19:49:20+00:00",
+      "ultimo_short": "2026-08-11T03:04:56+00:00",
       "shorts_dia": {
-        "data": "2026-08-10",
-        "n": 3
+        "data": "2026-08-11",
+        "n": 1
       },
       "longo_data": "2026-08-11"
     },
@@ -1463,6 +1470,13 @@
           "video_id": "I8MEmcD0s0Y",
           "titulo": "Proverbios 15:1 - A resposta branda desvia o furor | Biblia",
           "em": "2026-08-10T19:50:20+00:00"
+        },
+        {
+          "pacote": "2026-08-11-salmos-dormir-9",
+          "item": "longo",
+          "video_id": "0jPFUKkx5e8",
+          "titulo": "Salmos para Dormir — O Senhor é Minha Luz | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-11T03:52:40+00:00"
         }
       ],
       "ultimo_short": "2026-08-10T19:50:20+00:00",
@@ -1470,7 +1484,7 @@
         "data": "2026-08-10",
         "n": 3
       },
-      "longo_data": "2026-08-10"
+      "longo_data": "2026-08-11"
     },
     "stoic": {
       "publicados": [
@@ -1571,11 +1585,18 @@
           "video_id": "BCpoCAeT998",
           "titulo": "Tu enojo te cuesta más que la ofensa",
           "em": "2026-08-10T03:23:11+00:00"
+        },
+        {
+          "pacote": "2026-08-11-paz-de-noche",
+          "item": "short-1",
+          "video_id": "L_9-bZH_4H0",
+          "titulo": "El refugio que llevas a todas partes",
+          "em": "2026-08-11T03:54:09+00:00"
         }
       ],
-      "ultimo_short": "2026-08-10T03:23:11+00:00",
+      "ultimo_short": "2026-08-11T03:54:09+00:00",
       "shorts_dia": {
-        "data": "2026-08-10",
+        "data": "2026-08-11",
         "n": 1
       },
       "longo_data": ""
@@ -1630,11 +1651,18 @@
           "video_id": "r7YfsvtzIY4",
           "titulo": "La corte está llena de aduladores",
           "em": "2026-08-10T03:24:13+00:00"
+        },
+        {
+          "pacote": "2026-08-11-el-odio-y-el-desprecio",
+          "item": "short-1",
+          "video_id": "Wi_oIAq8zjI",
+          "titulo": "Una decisión que se revoca te cuesta el mando",
+          "em": "2026-08-11T03:55:19+00:00"
         }
       ],
-      "ultimo_short": "2026-08-10T03:24:13+00:00",
+      "ultimo_short": "2026-08-11T03:55:19+00:00",
       "shorts_dia": {
-        "data": "2026-08-10",
+        "data": "2026-08-11",
         "n": 1
       },
       "longo_data": ""
@@ -1689,11 +1717,18 @@
           "video_id": "VElxOp7Qg_o",
           "titulo": "El día que bajas la guardia",
           "em": "2026-08-10T03:25:20+00:00"
+        },
+        {
+          "pacote": "2026-08-11-sentir-con-los-menos",
+          "item": "short-1",
+          "video_id": "eVGPN79HnVc",
+          "titulo": "Piensa como pocos, habla como todos",
+          "em": "2026-08-11T03:56:28+00:00"
         }
       ],
-      "ultimo_short": "2026-08-10T03:25:20+00:00",
+      "ultimo_short": "2026-08-11T03:56:28+00:00",
       "shorts_dia": {
-        "data": "2026-08-10",
+        "data": "2026-08-11",
         "n": 1
       },
       "longo_data": ""

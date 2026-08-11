@@ -1862,3 +1862,43 @@
 - Item: longo — Salmo 27, Salmo 36, Salmo 43, Salmo 97, Salmo 104, Salmo 113, Salmo 139, Salmo 121
 - Duração: 4333.4s
 - Publicado em: 2026-08-11T01:52:58+00:00
+
+## [es] pIUTJrtwhD4 — Salmo 27:1 — Jehová es mi luz y mi salvación | Biblia
+
+- URL: https://youtu.be/pIUTJrtwhD4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 27:1
+- Duração: 18.0s
+- Publicado em: 2026-08-11T03:04:56+00:00
+
+## [pt] 0jPFUKkx5e8 — Salmos para Dormir — O Senhor é Minha Luz | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/0jPFUKkx5e8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 27, Salmo 36, Salmo 43, Salmo 97, Salmo 104, Salmo 113, Salmo 139, Salmo 121
+- Duração: 4504.0s
+- Publicado em: 2026-08-11T03:52:40+00:00
+
+## [stoic] L_9-bZH_4H0 — El refugio que llevas a todas partes
+
+- URL: https://youtu.be/L_9-bZH_4H0
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 7:29
+- Duração: 27.8s
+- Publicado em: 2026-08-11T03:54:09+00:00
+
+## [poder] Wi_oIAq8zjI — Una decisión que se revoca te cuesta el mando
+
+- URL: https://youtu.be/Wi_oIAq8zjI
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 19:6
+- Duração: 18.8s
+- Publicado em: 2026-08-11T03:55:19+00:00
+
+## [astucia] eVGPN79HnVc — Piensa como pocos, habla como todos
+
+- URL: https://youtu.be/eVGPN79HnVc
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 43:1
+- Duração: 24.5s
+- Publicado em: 2026-08-11T03:56:28+00:00
