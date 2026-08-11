@@ -1854,3 +1854,11 @@
 - Item: short-3 — Provérbios 15:1
 - Duração: 16.5s
 - Publicado em: 2026-08-10T19:50:20+00:00
+
+## [es] qkiVjjYZxrI — Salmos para Dormir — El Señor es mi Luz | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/qkiVjjYZxrI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 27, Salmo 36, Salmo 43, Salmo 97, Salmo 104, Salmo 113, Salmo 139, Salmo 121
+- Duração: 4333.4s
+- Publicado em: 2026-08-11T01:52:58+00:00
