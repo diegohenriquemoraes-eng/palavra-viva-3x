@@ -2022,3 +2022,11 @@
 - Item: short-3 — Mateo 26:41
 - Duração: 17.6s
 - Publicado em: 2026-08-12T18:49:15+00:00
+
+## [pt] 4-cRstqUisI — Mateus 26:41 - Vigiai e orai | Biblia narrada
+
+- URL: https://youtu.be/4-cRstqUisI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Mateus 26:41
+- Duração: 18.5s
+- Publicado em: 2026-08-12T19:58:20+00:00
