@@ -1942,3 +1942,19 @@
 - Item: short-3 — Salmo 121:1-3
 - Duração: 23.5s
 - Publicado em: 2026-08-11T19:56:20+00:00
+
+## [es] cj9Q_ZathDM — Ensenanos a Orar - Lucas 11 | Biblia en espanol
+
+- URL: https://youtu.be/cj9Q_ZathDM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Lucas 11:1-13
+- Duração: 1861.4s
+- Publicado em: 2026-08-12T01:23:51+00:00
+
+## [stoic] yBrCMfrILdU — La señal de que ya piensas como filósofo
+
+- URL: https://youtu.be/yBrCMfrILdU
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 70:1
+- Duração: 26.6s
+- Publicado em: 2026-08-12T01:25:08+00:00
