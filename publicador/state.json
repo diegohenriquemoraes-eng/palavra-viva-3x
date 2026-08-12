@@ -687,12 +687,19 @@
           "video_id": "p3F1BSgVHFo",
           "titulo": "1 Tesalonicenses 5 - Orad sin cesar | Biblia en espanol",
           "em": "2026-08-12T11:41:08+00:00"
+        },
+        {
+          "pacote": "2026-08-12-oracao-perseveranca",
+          "item": "short-3",
+          "video_id": "wZ1hE5AUpf0",
+          "titulo": "Mateo 26:41 - Velad y orad | Biblia en espanol",
+          "em": "2026-08-12T18:49:15+00:00"
         }
       ],
-      "ultimo_short": "2026-08-12T11:41:08+00:00",
+      "ultimo_short": "2026-08-12T18:49:15+00:00",
       "shorts_dia": {
         "data": "2026-08-12",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-12"
     },
