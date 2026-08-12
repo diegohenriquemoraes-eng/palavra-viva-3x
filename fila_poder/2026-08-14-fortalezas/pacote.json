@@ -1,0 +1,128 @@
+{
+  "slug": "fortalezas",
+  "formato": "tema",
+  "data": "2026-08-14",
+  "criado_em": "2026-08-12T02:47:18+00:00",
+  "aprovado_em": "2026-08-12T02:47:18+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 20"
+    ],
+    "titulo": {
+      "poder": "La Mejor Fortaleza | Maquiavelo, El Príncipe XX"
+    },
+    "thumb_titulo": {
+      "poder": "TU MEJOR MURO"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XX"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night%2C_1768_-_Google_Art_Project.jpg/1920px-Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night%2C_1768_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Paul Sandby",
+        "origem": "https://commons.wikimedia.org/wiki/File:Paul_Sandby_-_Windsor_Castle_from_Datchet_Lane_on_a_rejoicing_night,_1768_-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Budapest_castle_night_1.jpg/1920px-Budapest_castle_night_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Karelj",
+        "origem": "https://commons.wikimedia.org/wiki/File:Budapest_castle_night_1.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Independence_Gate_in_early_night.jpg/1920px-Independence_Gate_in_early_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MonasteryInwang",
+        "origem": "https://commons.wikimedia.org/wiki/File:Independence_Gate_in_early_night.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Golden_Gate_Bridge_at_night_2013.jpg/1920px-Golden_Gate_Bridge_at_night_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Andrew Crookston",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_at_night_2013.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg/1920px-Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leonhard Lenz",
+        "origem": "https://commons.wikimedia.org/wiki/File:Brandenburg_gate_Berlin_at_night_2022-12-09_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Golden_Gate_Bridge_at_night_2010.jpg/1920px-Golden_Gate_Bridge_at_night_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FairbanksMike",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_at_night_2010.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golden_Gate_At_Night_%2855806538%29.jpeg/1920px-Golden_Gate_At_Night_%2855806538%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Hugh Nelson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Golden_Gate_At_Night_(55806538).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Night_at_the_Western_Wall_%285704041397%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Institute for the Study of the Ancient World from New York, United Sta",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_at_the_Western_Wall_(5704041397).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Xi%27an_city_wall_at_night_-_panoramio.jpg/1920px-Xi%27an_city_wall_at_night_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "A J Butler",
+        "origem": "https://commons.wikimedia.org/wiki/File:Xi%27an_city_wall_at_night_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Aqueduct_city_wall_Segovia_night.jpg/1920px-Aqueduct_city_wall_Segovia_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jebulon",
+        "origem": "https://commons.wikimedia.org/wiki/File:Aqueduct_city_wall_Segovia_night.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Wall_Centre_Fountain_at_Night_%286788411863%29.jpg/1920px-Wall_Centre_Fountain_at_Night_%286788411863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Reg Natarajan from Vancouver, Bogotá",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wall_Centre_Fountain_at_Night_(6788411863).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/People_facing_the_Western_Wall_at_night_2013.jpg/1920px-People_facing_the_Western_Wall_at_night_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Radosław Botev",
+        "origem": "https://commons.wikimedia.org/wiki/File:People_facing_the_Western_Wall_at_night_2013.jpg",
+        "licenca": "CC BY 3.0 pl"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 20:30",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "La mejor fortaleza no es un muro"
+      },
+      "aplicacao": "Ninguna estructura te protege si la gente que la sostiene quiere que caiga.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Budapest_castle_night_1.jpg/1920px-Budapest_castle_night_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Karelj",
+        "origem": "https://commons.wikimedia.org/wiki/File:Budapest_castle_night_1.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "El Príncipe 20:5",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Los que dudaban al principio"
+      },
+      "aplicacao": "Los que empezaron en contra y se convencieron suelen ser los más leales después.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tallinn_defensive_wall_night.jpg/1920px-Tallinn_defensive_wall_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Marmuras",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tallinn_defensive_wall_night.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

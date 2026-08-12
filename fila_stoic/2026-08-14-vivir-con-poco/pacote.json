@@ -1,0 +1,174 @@
+{
+  "slug": "vivir-con-poco",
+  "formato": "tema",
+  "data": "2026-08-14",
+  "criado_em": "2026-08-12T02:47:03+00:00",
+  "aprovado_em": "2026-08-12T02:47:03+00:00",
+  "longo": {
+    "refs": [
+      "Enquiridión 41:1",
+      "Enquiridión 42:1",
+      "Enquiridión 43:1",
+      "Enquiridión 44:1",
+      "Enquiridión 45:1",
+      "Enquiridión 46:1",
+      "Enquiridión 47:1"
+    ],
+    "titulo": {
+      "stoic": "Epicteto: Vivir con Poco | Reglas Estoicas de Vida"
+    },
+    "thumb_titulo": {
+      "stoic": "VIVIR CON POCO"
+    },
+    "thumb_sub": {
+      "stoic": "Epicteto, Enquiridión"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p02.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p03.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p03.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2110_ND_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2110_ND_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p02.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dark-forest-combo-3.jpg/1920px-Dark-forest-combo-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_dark_and_light.jpg/1920px-Forest_dark_and_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Will Aelethrune",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_and_light.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dark-forest-combo-1.JPG/1920px-Dark-forest-combo-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-1.JPG",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Forest_dark_road.jpg/1920px-Forest_dark_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Paolo Neo",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_road.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 8:57",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La lección del pepino amargo"
+      },
+      "aplicacao": "No todo pide explicación. A veces basta apartarse y seguir caminando.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p03.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p03.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 69:2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El ejercicio secreto de la disciplina estoica"
+      },
+      "aplicacao": "La disciplina que se muestra no es disciplina. Es otra forma de aplauso.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Maid_with_burning_candle_%281839%29%2C_PA06579.jpg/1920px-Maid_with_burning_candle_%281839%29%2C_PA06579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pierre Louis Dubourcq",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maid_with_burning_candle_(1839),_PA06579.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:37",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Recibe sin apego, suelta sin dolor"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dark_forest_scenic.jpg/1920px-Dark_forest_scenic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Sallie, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_scenic.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 41:1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Escríbete una ley y no la rompas"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
