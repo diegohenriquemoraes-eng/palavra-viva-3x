@@ -1958,3 +1958,35 @@
 - Item: short-1 — Enquiridión 70:1
 - Duração: 26.6s
 - Publicado em: 2026-08-12T01:25:08+00:00
+
+## [es] cGYiGO9SLt4 — Lucas 11:9 - Pedid, y se os dara | Biblia en espanol
+
+- URL: https://youtu.be/cGYiGO9SLt4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Lucas 11:9-10
+- Duração: 23.8s
+- Publicado em: 2026-08-12T03:56:43+00:00
+
+## [pt] uWjuzeqv150 — Ensina-nos a Orar - Lucas 11 | Biblia narrada
+
+- URL: https://youtu.be/uWjuzeqv150
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Lucas 11:1-13
+- Duração: 1774.4s
+- Publicado em: 2026-08-12T04:09:58+00:00
+
+## [poder] 7zebrJKTnYE — De particular a príncipe: supo usar la ocasión
+
+- URL: https://youtu.be/7zebrJKTnYE
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 6:26
+- Duração: 17.0s
+- Publicado em: 2026-08-12T04:11:06+00:00
+
+## [astucia] Oa3sgaIQ6fY — Con quién te juntas decide tu suerte
+
+- URL: https://youtu.be/Oa3sgaIQ6fY
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 31:1
+- Duração: 18.1s
+- Publicado em: 2026-08-12T04:12:26+00:00
