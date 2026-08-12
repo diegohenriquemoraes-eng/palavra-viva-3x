@@ -1998,3 +1998,11 @@
 - Item: short-1 — Lucas 11:9-10
 - Duração: 24.9s
 - Publicado em: 2026-08-12T05:25:55+00:00
+
+## [es] p3F1BSgVHFo — 1 Tesalonicenses 5 - Orad sin cesar | Biblia en espanol
+
+- URL: https://youtu.be/p3F1BSgVHFo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — 1 Tesalonicenses 5:16-18
+- Duração: 21.8s
+- Publicado em: 2026-08-12T11:41:08+00:00

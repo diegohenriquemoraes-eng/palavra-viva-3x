@@ -680,12 +680,19 @@
           "video_id": "cGYiGO9SLt4",
           "titulo": "Lucas 11:9 - Pedid, y se os dara | Biblia en espanol",
           "em": "2026-08-12T03:56:43+00:00"
+        },
+        {
+          "pacote": "2026-08-12-oracao-perseveranca",
+          "item": "short-2",
+          "video_id": "p3F1BSgVHFo",
+          "titulo": "1 Tesalonicenses 5 - Orad sin cesar | Biblia en espanol",
+          "em": "2026-08-12T11:41:08+00:00"
         }
       ],
-      "ultimo_short": "2026-08-12T03:56:43+00:00",
+      "ultimo_short": "2026-08-12T11:41:08+00:00",
       "shorts_dia": {
         "data": "2026-08-12",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-12"
     },
