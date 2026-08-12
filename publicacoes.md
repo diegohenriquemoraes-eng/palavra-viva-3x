@@ -1990,3 +1990,11 @@
 - Item: short-1 — Oráculo manual 31:1
 - Duração: 18.1s
 - Publicado em: 2026-08-12T04:12:26+00:00
+
+## [pt] oODfxoALc68 — Lucas 11:9 - Pedi, e dar-se-vos-a | Biblia narrada
+
+- URL: https://youtu.be/oODfxoALc68
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Lucas 11:9-10
+- Duração: 24.9s
+- Publicado em: 2026-08-12T05:25:55+00:00
