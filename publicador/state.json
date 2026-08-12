@@ -1547,12 +1547,19 @@
           "video_id": "oODfxoALc68",
           "titulo": "Lucas 11:9 - Pedi, e dar-se-vos-a | Biblia narrada",
           "em": "2026-08-12T05:25:55+00:00"
+        },
+        {
+          "pacote": "2026-08-12-oracao-perseveranca",
+          "item": "short-2",
+          "video_id": "Ho4_z4Q68U8",
+          "titulo": "1 Tessalonicenses 5 - Orai sem cessar | Biblia narrada",
+          "em": "2026-08-12T12:45:48+00:00"
         }
       ],
-      "ultimo_short": "2026-08-12T05:25:55+00:00",
+      "ultimo_short": "2026-08-12T12:45:48+00:00",
       "shorts_dia": {
         "data": "2026-08-12",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-12"
     },

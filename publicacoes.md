@@ -2006,3 +2006,11 @@
 - Item: short-2 — 1 Tesalonicenses 5:16-18
 - Duração: 21.8s
 - Publicado em: 2026-08-12T11:41:08+00:00
+
+## [pt] Ho4_z4Q68U8 — 1 Tessalonicenses 5 - Orai sem cessar | Biblia narrada
+
+- URL: https://youtu.be/Ho4_z4Q68U8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — 1 Tessalonicenses 5:16-18
+- Duração: 20.9s
+- Publicado em: 2026-08-12T12:45:48+00:00
