@@ -202,3 +202,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18029280833845105/
 - Publicado em: 2026-08-11T22:07:36+00:00
+
+## 18202738783366134 — O TRIÂNGULO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18202738783366134/
+- Publicado em: 2026-08-12T22:05:22+00:00
