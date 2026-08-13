@@ -2030,3 +2030,19 @@
 - Item: short-3 — Mateus 26:41
 - Duração: 18.5s
 - Publicado em: 2026-08-12T19:58:20+00:00
+
+## [es] EroZ-OPWoo4 — Salmos para Dormir — Misericordia y Perdón | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/EroZ-OPWoo4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 32, Salmo 51, Salmo 103, Salmo 130, Salmo 143, Salmo 25, Salmo 40, Salmo 86
+- Duração: 4808.0s
+- Publicado em: 2026-08-13T01:54:38+00:00
+
+## [stoic] BTlEOAojdxc — Mira hacia dentro o todo irá mal
+
+- URL: https://youtu.be/BTlEOAojdxc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 2:13
+- Duração: 23.5s
+- Publicado em: 2026-08-13T01:56:04+00:00

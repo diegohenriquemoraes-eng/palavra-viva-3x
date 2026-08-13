@@ -694,6 +694,13 @@
           "video_id": "wZ1hE5AUpf0",
           "titulo": "Mateo 26:41 - Velad y orad | Biblia en espanol",
           "em": "2026-08-12T18:49:15+00:00"
+        },
+        {
+          "pacote": "2026-08-13-salmos-dormir-10",
+          "item": "longo",
+          "video_id": "EroZ-OPWoo4",
+          "titulo": "Salmos para Dormir — Misericordia y Perdón | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-13T01:54:38+00:00"
         }
       ],
       "ultimo_short": "2026-08-12T18:49:15+00:00",
@@ -701,7 +708,7 @@
         "data": "2026-08-12",
         "n": 3
       },
-      "longo_data": "2026-08-12"
+      "longo_data": "2026-08-13"
     },
     "en": {
       "publicados": [
@@ -1690,11 +1697,18 @@
           "video_id": "yBrCMfrILdU",
           "titulo": "La señal de que ya piensas como filósofo",
           "em": "2026-08-12T01:25:08+00:00"
+        },
+        {
+          "pacote": "2026-08-13-conocerse",
+          "item": "short-1",
+          "video_id": "BTlEOAojdxc",
+          "titulo": "Mira hacia dentro o todo irá mal",
+          "em": "2026-08-13T01:56:04+00:00"
         }
       ],
-      "ultimo_short": "2026-08-12T01:25:08+00:00",
+      "ultimo_short": "2026-08-13T01:56:04+00:00",
       "shorts_dia": {
-        "data": "2026-08-12",
+        "data": "2026-08-13",
         "n": 1
       },
       "longo_data": ""
