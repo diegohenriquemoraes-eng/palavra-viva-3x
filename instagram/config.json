@@ -4,10 +4,11 @@
   "graph_version": "v21.0",
   "release_tag": "reels-media",
 
+  "modo": "cine",
+
+  "_nota_agenda": "Rampa CONGELADA em 2/dia desde 13/08/2026. Estava indo para 4/dia, multiplicando um formato que entregava de 6 a 118 views. Só voltar a subir quando a mediana passar de 1.000 views/Reel no modo cine.",
   "agenda_rampa": [
-    { "ate_dia": 7,     "por_dia": 2 },
-    { "ate_dia": 14,    "por_dia": 3 },
-    { "ate_dia": 99999, "por_dia": 4 }
+    { "ate_dia": 99999, "por_dia": 2 }
   ],
 
   "janela_utc": { "ini": 19, "fim": 26 },

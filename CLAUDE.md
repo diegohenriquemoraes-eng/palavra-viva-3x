@@ -150,6 +150,41 @@ carimba a saída — o vídeo saía **17% mais curto que a narração** (23,4s d
 áudio com 19,5s de imagem). A narração terminava sobre o último frame parado,
 exatamente onde a retenção é decidida. Nunca tirar o `-framerate` da entrada.
 
+## Reel do Instagram: modo CINE (13/08/2026) — o formato antigo não engajava
+
+Medição de 13/08/2026 no @psicologiafria.br, 10 dias no ar: **18 seguidores e
+Reels com 6 a 118 views**. Estudo de 3 perfis sem rosto do mesmo nicho
+(@omanualdomanipulador 149 mil / 4-13 mil views por Reel, @estoicodiario 329 mil
+/ 21-58 mil, @estoicismopratico 187 mil / 8-43 mil) e do que saía daqui:
+
+| O que saía | O que mudou (`modo: "cine"` em instagram/config.json) |
+|---|---|
+| Foto da biblioteca (floresta VERDE ensolarada num perfil "gelado") | Fundo **procedural** escuro em movimento (`render.fundo_cine`): nuvens à deriva + feixe de luz + grão, paleta sorteada por seed |
+| Voz TTS pt-BR-Antonio | **Sem narração**: texto grande + trilha procedural (`musica.gerar_trilha_fria`) |
+| Legenda 86 px, tempos vindos do TTS | 96-112 px, 3 estilos (Gancho/Verso/**Fecho** em azul-gelo) e tempos de LEITURA (`instagram/roteiro.py`) |
+| ~28 s narrando o item inteiro | ~19-21 s: premissa + o que couber + **a última frase inteira**, que fica mais tempo na tela |
+| Rampa subindo para 4/dia | **Congelada em 2/dia** até a mediana passar de 1.000 views/Reel |
+
+`instagram/reels.py` tem as duas funções: `montar_reel_cine` (padrão) e
+`montar_reel` (o modo antigo, mantido para comparar sem reescrever nada).
+
+Armadilhas pagas neste pacote:
+
+- **`blend` sem `format=gbrp` mistura os planos em YUV e o azul-gelo sai ROXO.**
+  Cada camada entra em RGB planar e só o resultado vira yuv420p.
+- **`zoompan` está proibido neste caminho.** No ffmpeg 8 o idioma `d=1` +
+  `fps=30` devolve 1/3 dos frames: um render local saiu com **7,8 s de imagem
+  para 28 s de áudio**. (Os Reels publicados até 13/08 estão íntegros — o
+  runner ainda usa ffmpeg 6 —, mas o defeito chega quando o runner atualizar.)
+  Movimento vem das fontes `gradients`, que se comportam igual em toda versão.
+- **`gblur` vai ANTES do `scale`**: borrar 120x213 e ampliar dá a mesma névoa
+  por uma fração do custo (o runner tem 2 núcleos).
+- **A trilha tem de viver acima de ~200 Hz.** A primeira versão foi escrita em
+  55-82 Hz e no alto-falante do celular seria vídeo mudo.
+- **Blocar por FRASE, não por texto corrido**: blocando corrido saíam legendas
+  como "emocional. Mais tarde, quando" — fim de uma frase colado no começo da
+  outra. E o fecho é reservado ANTES do miolo, senão chega picado.
+
 ## Qualidade do conteúdo — decisões que já custaram um vídeo ruim
 - **Imagem fora do assunto**: o Commons devolve muito documento e foto de
   arquivo. `nucleo/imagens.py` reprova por título (blocklist `LIXO`) e exige

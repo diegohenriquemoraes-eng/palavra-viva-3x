@@ -21,7 +21,7 @@ sys.path.insert(0, str(RAIZ))
 
 from nucleo import idiomas, imagens, legendas, render, tts  # noqa: E402
 
-from instagram import capa  # noqa: E402
+from instagram import capa, roteiro  # noqa: E402
 
 CAUDA = 0.35            # silêncio no fim quebra a emenda do loop
 PAUSA = 0.7             # respiro entre gancho→texto
@@ -67,6 +67,49 @@ def _baixar_imagem(info: dict | None, destino: Path) -> Path | None:
     if info.get("url") and imagens.baixar(info["url"], destino):
         return destino
     return None
+
+
+def montar_reel_cine(item: dict, marca: str, outdir: Path) -> dict:
+    """Reel do modo CINE (padrão desde 13/08/2026).
+
+    O modo antigo (`montar_reel`) é o que rodou de 03 a 13/08 e entregou de 6 a
+    118 views por Reel. A medição dos perfis sem rosto que engajam no mesmo
+    nicho (@omanualdomanipulador 149 mil, @estoicodiario 329 mil,
+    @estoicismopratico 187 mil) apontou três diferenças, e as três estão aqui:
+
+    1. **Fundo em movimento e escuro** — procedural, no lugar da foto parada da
+       biblioteca (que saiu floresta verde ensolarada num perfil "gelado").
+    2. **Sem voz sintética** — texto grande + trilha procedural. A narração
+       robótica era o carimbo de automação mais audível que tínhamos.
+    3. **Ritmo de leitura com fecho retido** — o item é condensado para caber
+       em ~20 s e a última frase, que é a virada, fica mais tempo na tela.
+
+    O modo antigo fica no arquivo de propósito: se em duas semanas o cine não
+    superar a régua, dá para comparar sem reescrever nada.
+    """
+    from nucleo import musica  # import local: só o modo cine usa
+
+    outdir.mkdir(parents=True, exist_ok=True)
+    chave = item.get("slug") or item.get("titulo") or "x"
+    capa_titulo = item.get("titulo", "PSICOLOGIA FRIA").upper()
+    seed = _seed(chave, "cine")
+
+    blocos, dur = roteiro.montar(item["gancho"], item["texto"])
+    legendas.ass_reel_cine(outdir / "legenda.ass", blocos, capa_titulo, marca, dur)
+
+    trilha = musica.gerar_trilha_fria(dur, seed, outdir / "trilha.wav")
+    video = render.render_reel_cine(outdir, trilha.name, "legenda.ass", dur,
+                                    seed, saida="reel.mp4")
+    capa_img = capa.gerar_capa(capa_titulo, item["gancho"],
+                               outdir / "capa.jpg", _seed(chave, "capa"))
+    return {
+        "arquivo": video,
+        "capa": capa_img,
+        "ref_disp": capa_titulo,
+        "texto": item["texto"],
+        "fonte": "",
+        "duracao_s": round(dur, 1),
+    }
 
 
 def montar_reel(item: dict, marca: str, outdir: Path) -> dict:

@@ -124,6 +124,56 @@ def ass_short(path: Path, blocos: list[dict], cabecalho: str, marca: str,
     path.write_text("".join(linhas), encoding="utf-8-sig")
 
 
+_ESTILOS_CINE = """[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gancho,Montserrat,112,&H00FFFFFF,&H00FFFFFF,&H00140A02,&HB4000000,-1,0,0,0,100,100,0,0,1,7,4,5,70,70,0,1
+Style: Verso,Montserrat,96,&H00F5F0EA,&H00F5F0EA,&H00140A02,&HB4000000,-1,0,0,0,100,100,0,0,1,6,3,5,80,80,0,1
+Style: Fecho,Montserrat,104,&H00EBC38C,&H00EBC38C,&H00140A02,&HB4000000,-1,0,0,0,100,100,0,0,1,7,4,5,70,70,0,1
+Style: Ref,Bebas Neue,60,&H00EBC38C,&H00EBC38C,&H00140A02,&H80000000,0,0,0,0,100,100,8,0,1,3,1,8,40,40,150,1
+Style: Marca,Montserrat,34,&H00A8BACB,&H00A8BACB,&H00140A02,&H80000000,0,0,0,0,100,100,3,0,1,2,0,2,40,40,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+"""
+
+FADE_CINE = "{\\fad(180,160)}"
+
+
+def ass_reel_cine(path: Path, blocos: list[dict], cabecalho: str, marca: str,
+                  dur: float) -> None:
+    """Legenda do Reel sem narração: um bloco de cada vez, grande e centrado.
+
+    Diferenças que existem por causa da medição de 13/08/2026 (Reels do
+    @psicologiafria.br com 6 a 118 views, contra 21-58 mil dos perfis de
+    referência do nicho):
+
+    - **Corpo bem maior** (96-112 contra 86) e contorno mais grosso: no feed o
+      vídeo é visto em miniatura, e quem lê de relance não lê linha fina.
+    - **Três estilos** — Gancho, Verso e Fecho. O fecho entra em azul-gelo:
+      marca visualmente a virada do micro-roteiro, que é o motivo de ficar até
+      o fim.
+    - **Fade curto por bloco** (`\\fad`): sem a voz para costurar, o corte seco
+      de texto pisca. O fade é o que faz o Reel parecer editado, não gerado.
+    """
+    linhas = [_ESTILOS_CINE]
+    fim = _ts(dur)
+    linhas.append(f"Dialogue: 0,0:00:00.00,{fim},Ref,,0,0,0,,{cabecalho}\n")
+    linhas.append(f"Dialogue: 0,0:00:00.00,{fim},Marca,,0,0,0,,{marca}\n")
+    for i, b in enumerate(blocos):
+        ini = 0.0 if i == 0 else b["ini"]   # nada de frame vazio na abertura
+        estilo = b.get("estilo", "Verso")
+        linhas.append(
+            f"Dialogue: 0,{_ts(ini)},{_ts(min(b['fim'], dur))},{estilo},,0,0,0,,"
+            f"{FADE_CINE}{b['texto']}\n")
+    path.write_text("".join(linhas), encoding="utf-8-sig")
+
+
 def _ts_srt(seg: float) -> str:
     h = int(seg // 3600)
     m = int(seg % 3600 // 60)

@@ -102,6 +102,85 @@ def render_short(pasta: Path, voz: str, ass: str, imagem: Path | None,
     return pasta / saida
 
 
+# ---------------------------------------------------------------- cine ------
+
+# Paletas frias do Psicologia Fria: (base c0..c3, cor do feixe de luz).
+# Sortear por seed é o que evita que 60 Reels tenham o mesmo fundo — o rastro
+# de fábrica que a medição de 13/08/2026 mostrou no perfil.
+PALETAS_FRIAS = [
+    ("0x04060E", "0x0A1A2E", "0x102A44", "0x061020", "0x2A5C86"),
+    ("0x03050C", "0x0B1E33", "0x14324F", "0x050C18", "0x3E7FA8"),
+    ("0x05060A", "0x101C24", "0x18313A", "0x070D12", "0x2E6E7A"),
+    ("0x06060C", "0x14182C", "0x1E2440", "0x080A14", "0x4A5A96"),
+]
+
+
+def fundo_cine(dur: float, seed: int) -> tuple[list[str], str]:
+    """Fundo PROCEDURAL escuro e em movimento: (entradas ffmpeg, filtro -> [bg]).
+
+    Por que procedural e não foto de banco: a biblioteca de fundos é
+    compartilhada com os canais bíblicos e é quase toda paisagem diurna. O Reel
+    do Psicologia Fria de 13/08/2026 saiu com floresta VERDE ensolarada — fora
+    da marca gelada e igual a qualquer página de frase motivacional. Aqui o
+    fundo é gerado: nuvens escuras à deriva + feixe de luz + grão de filme.
+    Não depende de acervo, não tem licença para respeitar e nenhum Reel sai
+    igual ao outro (a paleta e as velocidades vêm do seed).
+
+    Nada de `zoompan`: o ffmpeg 8 mudou o comportamento de `d=1` e o vídeo sai
+    truncado (medido em 13/08 — 7,8 s de imagem para 28 s de áudio). Movimento
+    aqui vem das fontes `gradients`, que se comportam igual em toda versão.
+    """
+    p = PALETAS_FRIAS[seed % len(PALETAS_FRIAS)]
+    vel_base = 0.004 + (seed % 5) * 0.0006
+    vel_feixe = 0.014 + (seed % 7) * 0.002
+    entradas = [
+        "-f", "lavfi", "-i",
+        (f"gradients=s=270x480:c0={p[0]}:c1={p[1]}:c2={p[2]}:c3={p[3]}:"
+         f"nb_colors=4:seed={seed % 9973}:speed={vel_base:.4f}:r={FPS}:d={dur:.2f}"),
+        "-f", "lavfi", "-i",
+        (f"gradients=s=120x213:c0=0x000000:c1={p[4]}:nb_colors=2:"
+         f"seed={(seed * 7) % 9973}:speed={vel_feixe:.4f}:r={FPS}:d={dur:.2f}"),
+    ]
+    # blend em RGB planar de propósito: deixando o ffmpeg negociar o formato,
+    # ele mistura os planos em YUV e o azul-gelo sai ROXO (visto no protótipo).
+    # o blur vai ANTES do scale: borrar 120x213 e ampliar dá o mesmo véu de
+    # névoa que borrar 1080x1920, por uma fração do custo — e o runner do
+    # Actions tem 2 núcleos.
+    filtro = (
+        "[0:v]scale=1080:1920,format=gbrp,setsar=1[base];"
+        "[1:v]gblur=sigma=4,scale=1080:1920,format=gbrp,setsar=1[luz];"
+        "[base][luz]blend=all_mode=screen:all_opacity=0.40,"
+        "eq=brightness=-0.05:contrast=1.06:saturation=0.92,"
+        "vignette=PI/4.2,noise=alls=8:allf=t+u[bg]"
+    )
+    return entradas, filtro
+
+
+def render_reel_cine(pasta: Path, audio: str, ass: str, dur: float, seed: int,
+                     saida: str = "reel.mp4") -> Path:
+    """Reel 9:16 do modo cine: fundo procedural + legenda queimada + trilha.
+
+    Sem narração TTS (decisão de 13/08/2026): a voz sintética é o sinal mais
+    óbvio de conteúdo automatizado, e os perfis do nicho que medimos entregam
+    texto + trilha. O áudio que entra aqui é o pad procedural da casa
+    (`nucleo/musica.py`) — nosso, sem risco de claim.
+    """
+    fontsdir = _fontsdir(pasta)
+    entradas, filtro_bg = fundo_cine(dur, seed)
+    filtro = (
+        f"{filtro_bg};"
+        f"[bg]ass={ass}:fontsdir='{fontsdir}',format=yuv420p[v];"
+        f"[2:a]apad=whole_dur={dur:.2f},afade=t=in:st=0:d=0.8,"
+        f"afade=t=out:st={max(0.0, dur - 1.6):.2f}:d=1.6[a]"
+    )
+    _run(["ffmpeg", "-y", "-loglevel", "error", *entradas, "-i", audio,
+          "-filter_complex", filtro, "-map", "[v]", "-map", "[a]",
+          "-t", f"{dur:.2f}", "-c:v", "libx264", "-preset", "fast",
+          "-crf", "20", "-c:a", "aac", "-b:a", "160k",
+          "-movflags", "+faststart", saida], pasta)
+    return pasta / saida
+
+
 FPS_ESTATICO = 15      # tela parada não precisa de 30 fps: metade dos frames,
                        # metade do tempo de encode, nenhum prejuízo visível
 

@@ -289,8 +289,10 @@ def main() -> None:
 
     item = proximo_item(st)
     outdir = SAIDA / f"{hoje}-{st['ponteiro']:03d}"
-    log(f"renderizando Reel ({item['tipo']}): {item.get('titulo')}")
-    res = reels.montar_reel(item, cfg["marca_handle"], outdir)
+    modo = cfg.get("modo", "cine")
+    log(f"renderizando Reel ({item['tipo']}, modo {modo}): {item.get('titulo')}")
+    montar = reels.montar_reel_cine if modo == "cine" else reels.montar_reel
+    res = montar(item, cfg["marca_handle"], outdir)
     log(f"render ok: {res['arquivo']} "
         f"({res['arquivo'].stat().st_size / 1e6:.1f} MB, {res['duracao_s']}s)")
 
