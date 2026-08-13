@@ -2110,3 +2110,11 @@
 - Item: short-3 — Salmo 143:8
 - Duração: 19.8s
 - Publicado em: 2026-08-13T18:49:52+00:00
+
+## [pt] WI2k36VvZPs — Salmo 143:8 — De manhã ouvirei da tua bondade | Bíblia
+
+- URL: https://youtu.be/WI2k36VvZPs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 143:8
+- Duração: 19.4s
+- Publicado em: 2026-08-13T21:36:37+00:00

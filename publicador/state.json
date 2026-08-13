@@ -1617,12 +1617,19 @@
           "video_id": "_S07LTU-LvQ",
           "titulo": "Salmo 130 — A minha alma espera no Senhor | Bíblia",
           "em": "2026-08-13T14:17:52+00:00"
+        },
+        {
+          "pacote": "2026-08-13-salmos-dormir-10",
+          "item": "short-3",
+          "video_id": "WI2k36VvZPs",
+          "titulo": "Salmo 143:8 — De manhã ouvirei da tua bondade | Bíblia",
+          "em": "2026-08-13T21:36:37+00:00"
         }
       ],
-      "ultimo_short": "2026-08-13T14:17:52+00:00",
+      "ultimo_short": "2026-08-13T21:36:37+00:00",
       "shorts_dia": {
         "data": "2026-08-13",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-13"
     },
