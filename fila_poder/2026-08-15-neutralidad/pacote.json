@@ -1,0 +1,81 @@
+{
+  "slug": "neutralidad",
+  "formato": "tema",
+  "data": "2026-08-15",
+  "criado_em": "2026-08-13T02:49:49+00:00",
+  "aprovado_em": "2026-08-13T02:49:49+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 21"
+    ],
+    "titulo": {
+      "poder": "El Precio de No Tomar Partido | Maquiavelo XXI"
+    },
+    "thumb_titulo": {
+      "poder": "LA NEUTRALIDAD"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XXI"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 21:8",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "No tomar partido no te salva"
+      },
+      "aplicacao": "El que gana no te debe nada y el que pierde no te perdona. Neutral se pierde dos veces.",
+      "imagem": null
+    },
+    {
+      "ref": "El Príncipe 21:2",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Las grandes obras dan reputación"
+      },
+      "aplicacao": "La reputación no se construye con mil cosas pequeñas, sino con una difícil y visible.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}

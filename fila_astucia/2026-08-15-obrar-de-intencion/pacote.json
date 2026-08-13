@@ -1,0 +1,87 @@
+{
+  "slug": "obrar-de-intencion",
+  "formato": "tema",
+  "data": "2026-08-15",
+  "criado_em": "2026-08-13T02:48:49+00:00",
+  "aprovado_em": "2026-08-13T02:48:49+00:00",
+  "longo": {
+    "refs": [
+      "Oráculo manual 13"
+    ],
+    "titulo": {
+      "astucia": "La Segunda Intención | Gracián, Oráculo Manual"
+    },
+    "thumb_titulo": {
+      "astucia": "SEGUNDA INTENCIÓN"
+    },
+    "thumb_sub": {
+      "astucia": "Gracián, aforismo 13"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Smoke_2018_Warehouse_fire_in_West_Footscray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Environment Protection Authority Victoria",
+        "origem": "https://commons.wikimedia.org/wiki/File:Smoke_2018_Warehouse_fire_in_West_Footscray.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Big_dark_smoke_rising_from_fire_flames_in_forest.jpg/1920px-Big_dark_smoke_rising_from_fire_flames_in_forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Murphy Karen, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Big_dark_smoke_rising_from_fire_flames_in_forest.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Red_fire_flames_in_dark_smoke_of_forest_fire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Murphy Karen, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_fire_flames_in_dark_smoke_of_forest_fire.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Incense_smoke_against_a_black_sky_-_Flickr_-_Vanessa_Pike-Russell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Vanessa Pike-Russell from Cleveland, QLD, Australia",
+        "origem": "https://commons.wikimedia.org/wiki/File:Incense_smoke_against_a_black_sky_-_Flickr_-_Vanessa_Pike-Russell.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Optical_beam_smoke_detector.jpg/1920px-Optical_beam_smoke_detector.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Fire Fighting Enterprises",
+        "origem": "https://commons.wikimedia.org/wiki/File:Optical_beam_smoke_detector.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg/1920px-Entrance_to_Dark_Corridor_at_Calico_Hills%2C_Red_Rock_Canyon%2C_Nevada_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jarek Tuszyński",
+        "origem": "https://commons.wikimedia.org/wiki/File:Entrance_to_Dark_Corridor_at_Calico_Hills,_Red_Rock_Canyon,_Nevada_-_1.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Oráculo manual 13",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "La vida es una guerra de intenciones"
+      },
+      "aplicacao": "Casi nadie pide lo que de verdad quiere. Escucha la petición y busca la de atrás.",
+      "imagem": null
+    },
+    {
+      "ref": "Oráculo manual 179",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "La reserva es el sello de la capacidad"
+      },
+      "aplicacao": "El que no aguanta un secreto tampoco aguantará tu confianza.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Night-open-door-english-matsunaga-2017-1536_%2833069851391%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "ASU Department of English",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night-open-door-english-matsunaga-2017-1536_(33069851391).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
