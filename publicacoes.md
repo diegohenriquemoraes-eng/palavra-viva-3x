@@ -2086,3 +2086,11 @@
 - Item: short-1 — Salmo 103:1-2
 - Duração: 21.9s
 - Publicado em: 2026-08-13T06:12:04+00:00
+
+## [es] o4dPiXZM5FI — Salmo 130 — Mi alma espera a Jehová | Biblia
+
+- URL: https://youtu.be/o4dPiXZM5FI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 130:5-6
+- Duração: 22.7s
+- Publicado em: 2026-08-13T11:41:06+00:00

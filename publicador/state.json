@@ -708,12 +708,19 @@
           "video_id": "mIjfsFc5Xl0",
           "titulo": "Salmo 103 — Bendice, alma mía, a Jehová | Biblia",
           "em": "2026-08-13T04:02:20+00:00"
+        },
+        {
+          "pacote": "2026-08-13-salmos-dormir-10",
+          "item": "short-2",
+          "video_id": "o4dPiXZM5FI",
+          "titulo": "Salmo 130 — Mi alma espera a Jehová | Biblia",
+          "em": "2026-08-13T11:41:06+00:00"
         }
       ],
-      "ultimo_short": "2026-08-13T04:02:20+00:00",
+      "ultimo_short": "2026-08-13T11:41:06+00:00",
       "shorts_dia": {
         "data": "2026-08-13",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-13"
     },
