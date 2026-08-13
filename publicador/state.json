@@ -1603,12 +1603,19 @@
           "video_id": "ZsOQjDKxFuo",
           "titulo": "Salmo 103 — Bendize, ó minha alma, ao Senhor | Bíblia",
           "em": "2026-08-13T06:12:04+00:00"
+        },
+        {
+          "pacote": "2026-08-13-salmos-dormir-10",
+          "item": "short-2",
+          "video_id": "_S07LTU-LvQ",
+          "titulo": "Salmo 130 — A minha alma espera no Senhor | Bíblia",
+          "em": "2026-08-13T14:17:52+00:00"
         }
       ],
-      "ultimo_short": "2026-08-13T06:12:04+00:00",
+      "ultimo_short": "2026-08-13T14:17:52+00:00",
       "shorts_dia": {
         "data": "2026-08-13",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-13"
     },

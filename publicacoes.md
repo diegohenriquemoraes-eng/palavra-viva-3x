@@ -2094,3 +2094,11 @@
 - Item: short-2 — Salmo 130:5-6
 - Duração: 22.7s
 - Publicado em: 2026-08-13T11:41:06+00:00
+
+## [pt] _S07LTU-LvQ — Salmo 130 — A minha alma espera no Senhor | Bíblia
+
+- URL: https://youtu.be/_S07LTU-LvQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 130:5-6
+- Duração: 24.3s
+- Publicado em: 2026-08-13T14:17:52+00:00
