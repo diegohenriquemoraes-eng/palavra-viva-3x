@@ -701,12 +701,19 @@
           "video_id": "EroZ-OPWoo4",
           "titulo": "Salmos para Dormir — Misericordia y Perdón | Biblia Hablada con Voz Calmada",
           "em": "2026-08-13T01:54:38+00:00"
+        },
+        {
+          "pacote": "2026-08-13-salmos-dormir-10",
+          "item": "short-1",
+          "video_id": "mIjfsFc5Xl0",
+          "titulo": "Salmo 103 — Bendice, alma mía, a Jehová | Biblia",
+          "em": "2026-08-13T04:02:20+00:00"
         }
       ],
-      "ultimo_short": "2026-08-12T18:49:15+00:00",
+      "ultimo_short": "2026-08-13T04:02:20+00:00",
       "shorts_dia": {
-        "data": "2026-08-12",
-        "n": 3
+        "data": "2026-08-13",
+        "n": 1
       },
       "longo_data": "2026-08-13"
     },
@@ -1575,6 +1582,13 @@
           "video_id": "4-cRstqUisI",
           "titulo": "Mateus 26:41 - Vigiai e orai | Biblia narrada",
           "em": "2026-08-12T19:58:20+00:00"
+        },
+        {
+          "pacote": "2026-08-13-salmos-dormir-10",
+          "item": "longo",
+          "video_id": "lIaGRfQUbx4",
+          "titulo": "Salmos para Dormir — Misericórdia e Perdão | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-13T04:34:28+00:00"
         }
       ],
       "ultimo_short": "2026-08-12T19:58:20+00:00",
@@ -1582,7 +1596,7 @@
         "data": "2026-08-12",
         "n": 3
       },
-      "longo_data": "2026-08-12"
+      "longo_data": "2026-08-13"
     },
     "stoic": {
       "publicados": [
@@ -1777,11 +1791,18 @@
           "video_id": "7zebrJKTnYE",
           "titulo": "De particular a príncipe: supo usar la ocasión",
           "em": "2026-08-12T04:11:06+00:00"
+        },
+        {
+          "pacote": "2026-08-13-las-ofensas-y-los-beneficios",
+          "item": "short-1",
+          "video_id": "2Ag3DFi1dNk",
+          "titulo": "El problema pequeño que no atendiste",
+          "em": "2026-08-13T04:35:38+00:00"
         }
       ],
-      "ultimo_short": "2026-08-12T04:11:06+00:00",
+      "ultimo_short": "2026-08-13T04:35:38+00:00",
       "shorts_dia": {
-        "data": "2026-08-12",
+        "data": "2026-08-13",
         "n": 1
       },
       "longo_data": ""
@@ -1850,11 +1871,18 @@
           "video_id": "Oa3sgaIQ6fY",
           "titulo": "Con quién te juntas decide tu suerte",
           "em": "2026-08-12T04:12:26+00:00"
+        },
+        {
+          "pacote": "2026-08-13-renovar-el-lucimiento",
+          "item": "short-1",
+          "video_id": "RTqVMsHAkoM",
+          "titulo": "Por qué lo nuevo siempre gusta más",
+          "em": "2026-08-13T04:36:44+00:00"
         }
       ],
-      "ultimo_short": "2026-08-12T04:12:26+00:00",
+      "ultimo_short": "2026-08-13T04:36:44+00:00",
       "shorts_dia": {
-        "data": "2026-08-12",
+        "data": "2026-08-13",
         "n": 1
       },
       "longo_data": ""

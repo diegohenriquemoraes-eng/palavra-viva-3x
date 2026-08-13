@@ -2046,3 +2046,35 @@
 - Item: short-1 — Meditaciones 2:13
 - Duração: 23.5s
 - Publicado em: 2026-08-13T01:56:04+00:00
+
+## [es] mIjfsFc5Xl0 — Salmo 103 — Bendice, alma mía, a Jehová | Biblia
+
+- URL: https://youtu.be/mIjfsFc5Xl0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 103:1-3
+- Duração: 28.0s
+- Publicado em: 2026-08-13T04:02:20+00:00
+
+## [pt] lIaGRfQUbx4 — Salmos para Dormir — Misericórdia e Perdão | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/lIaGRfQUbx4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 32, Salmo 51, Salmo 103, Salmo 130, Salmo 143, Salmo 25, Salmo 40, Salmo 86
+- Duração: 3812.9s
+- Publicado em: 2026-08-13T04:34:28+00:00
+
+## [poder] 2Ag3DFi1dNk — El problema pequeño que no atendiste
+
+- URL: https://youtu.be/2Ag3DFi1dNk
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 3:20
+- Duração: 21.6s
+- Publicado em: 2026-08-13T04:35:38+00:00
+
+## [astucia] RTqVMsHAkoM — Por qué lo nuevo siempre gusta más
+
+- URL: https://youtu.be/RTqVMsHAkoM
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 269:1
+- Duração: 24.4s
+- Publicado em: 2026-08-13T04:36:44+00:00
