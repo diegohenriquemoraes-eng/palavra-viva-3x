@@ -715,12 +715,19 @@
           "video_id": "o4dPiXZM5FI",
           "titulo": "Salmo 130 — Mi alma espera a Jehová | Biblia",
           "em": "2026-08-13T11:41:06+00:00"
+        },
+        {
+          "pacote": "2026-08-13-salmos-dormir-10",
+          "item": "short-3",
+          "video_id": "OoE2cUSFTfc",
+          "titulo": "Salmo 143:8 — Hazme oír por la mañana tu misericordia | Biblia",
+          "em": "2026-08-13T18:49:52+00:00"
         }
       ],
-      "ultimo_short": "2026-08-13T11:41:06+00:00",
+      "ultimo_short": "2026-08-13T18:49:52+00:00",
       "shorts_dia": {
         "data": "2026-08-13",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-13"
     },

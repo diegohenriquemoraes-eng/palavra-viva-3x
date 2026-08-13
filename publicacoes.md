@@ -2102,3 +2102,11 @@
 - Item: short-2 — Salmo 130:5-6
 - Duração: 24.3s
 - Publicado em: 2026-08-13T14:17:52+00:00
+
+## [es] OoE2cUSFTfc — Salmo 143:8 — Hazme oír por la mañana tu misericordia | Biblia
+
+- URL: https://youtu.be/OoE2cUSFTfc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 143:8
+- Duração: 19.8s
+- Publicado em: 2026-08-13T18:49:52+00:00
