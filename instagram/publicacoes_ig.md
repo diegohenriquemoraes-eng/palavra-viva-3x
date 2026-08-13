@@ -214,3 +214,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18007246895761686/
 - Publicado em: 2026-08-13T19:28:20+00:00
+
+## 17931570594368100 — AMOR FATI
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/17931570594368100/
+- Publicado em: 2026-08-13T22:05:59+00:00
