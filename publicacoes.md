@@ -2078,3 +2078,11 @@
 - Item: short-1 — Oráculo manual 269:1
 - Duração: 24.4s
 - Publicado em: 2026-08-13T04:36:44+00:00
+
+## [pt] ZsOQjDKxFuo — Salmo 103 — Bendize, ó minha alma, ao Senhor | Bíblia
+
+- URL: https://youtu.be/ZsOQjDKxFuo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 103:1-2
+- Duração: 21.9s
+- Publicado em: 2026-08-13T06:12:04+00:00

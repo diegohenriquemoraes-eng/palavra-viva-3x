@@ -1589,12 +1589,19 @@
           "video_id": "lIaGRfQUbx4",
           "titulo": "Salmos para Dormir — Misericórdia e Perdão | Bíblia Narrada com Voz Calma",
           "em": "2026-08-13T04:34:28+00:00"
+        },
+        {
+          "pacote": "2026-08-13-salmos-dormir-10",
+          "item": "short-1",
+          "video_id": "ZsOQjDKxFuo",
+          "titulo": "Salmo 103 — Bendize, ó minha alma, ao Senhor | Bíblia",
+          "em": "2026-08-13T06:12:04+00:00"
         }
       ],
-      "ultimo_short": "2026-08-12T19:58:20+00:00",
+      "ultimo_short": "2026-08-13T06:12:04+00:00",
       "shorts_dia": {
-        "data": "2026-08-12",
-        "n": 3
+        "data": "2026-08-13",
+        "n": 1
       },
       "longo_data": "2026-08-13"
     },
