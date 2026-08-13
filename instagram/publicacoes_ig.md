@@ -220,3 +220,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/17931570594368100/
 - Publicado em: 2026-08-13T22:05:59+00:00
+
+## 18112007635992853 — VOCÊ NÃO É LOUCO
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18112007635992853/
+- Publicado em: 2026-08-13T22:11:40+00:00
