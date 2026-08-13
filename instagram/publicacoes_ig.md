@@ -208,3 +208,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18202738783366134/
 - Publicado em: 2026-08-12T22:05:22+00:00
+
+## 18007246895761686 — FICAR SÓ
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18007246895761686/
+- Publicado em: 2026-08-13T19:28:20+00:00
