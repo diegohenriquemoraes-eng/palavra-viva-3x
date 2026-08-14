@@ -232,3 +232,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18053536688792329/
 - Publicado em: 2026-08-14T19:17:16+00:00
+
+## 17943235983292740 — A PRIMEIRA HORA
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/17943235983292740/
+- Publicado em: 2026-08-14T23:39:35+00:00
