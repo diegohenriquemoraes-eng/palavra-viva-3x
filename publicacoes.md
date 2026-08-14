@@ -2166,3 +2166,11 @@
 - Item: short-1 — Oráculo manual 172:1
 - Duração: 22.1s
 - Publicado em: 2026-08-14T04:18:15+00:00
+
+## [pt] R2089YgGgNU — 1 Joao 3:1 - Vede quao grande amor nos tem concedido | Biblia
+
+- URL: https://youtu.be/R2089YgGgNU
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — 1 João 3:1
+- Duração: 23.1s
+- Publicado em: 2026-08-14T05:27:10+00:00
