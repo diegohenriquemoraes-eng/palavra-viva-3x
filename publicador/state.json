@@ -729,12 +729,19 @@
           "video_id": "4LqQy5eKcpc",
           "titulo": "Hijos de Dios - Romanos 8 | Biblia en espanol",
           "em": "2026-08-14T01:19:37+00:00"
+        },
+        {
+          "pacote": "2026-08-14-identidade-filhos",
+          "item": "short-1",
+          "video_id": "v0aWuC_R1rY",
+          "titulo": "1 Juan 3:1 - Mirad cual amor nos ha dado el Padre | Biblia",
+          "em": "2026-08-14T03:57:19+00:00"
         }
       ],
-      "ultimo_short": "2026-08-13T18:49:52+00:00",
+      "ultimo_short": "2026-08-14T03:57:19+00:00",
       "shorts_dia": {
-        "data": "2026-08-13",
-        "n": 3
+        "data": "2026-08-14",
+        "n": 1
       },
       "longo_data": "2026-08-14"
     },
@@ -1631,6 +1638,13 @@
           "video_id": "WI2k36VvZPs",
           "titulo": "Salmo 143:8 — De manhã ouvirei da tua bondade | Bíblia",
           "em": "2026-08-13T21:36:37+00:00"
+        },
+        {
+          "pacote": "2026-08-14-identidade-filhos",
+          "item": "longo",
+          "video_id": "9-0E6UZHqDM",
+          "titulo": "Filhos de Deus - Romanos 8 | Biblia narrada",
+          "em": "2026-08-14T04:14:26+00:00"
         }
       ],
       "ultimo_short": "2026-08-13T21:36:37+00:00",
@@ -1638,7 +1652,7 @@
         "data": "2026-08-13",
         "n": 3
       },
-      "longo_data": "2026-08-13"
+      "longo_data": "2026-08-14"
     },
     "stoic": {
       "publicados": [
@@ -1847,11 +1861,18 @@
           "video_id": "2Ag3DFi1dNk",
           "titulo": "El problema pequeño que no atendiste",
           "em": "2026-08-13T04:35:38+00:00"
+        },
+        {
+          "pacote": "2026-08-14-fortalezas",
+          "item": "short-1",
+          "video_id": "tNY44yAkMj0",
+          "titulo": "La mejor fortaleza no es un muro",
+          "em": "2026-08-14T04:17:10+00:00"
         }
       ],
-      "ultimo_short": "2026-08-13T04:35:38+00:00",
+      "ultimo_short": "2026-08-14T04:17:10+00:00",
       "shorts_dia": {
-        "data": "2026-08-13",
+        "data": "2026-08-14",
         "n": 1
       },
       "longo_data": ""
@@ -1927,11 +1948,18 @@
           "video_id": "RTqVMsHAkoM",
           "titulo": "Por qué lo nuevo siempre gusta más",
           "em": "2026-08-13T04:36:44+00:00"
+        },
+        {
+          "pacote": "2026-08-14-no-empenarse-con-quien-nada-pierde",
+          "item": "short-1",
+          "video_id": "TiID_JSFoxE",
+          "titulo": "Nunca pelees con quien nada puede perder",
+          "em": "2026-08-14T04:18:15+00:00"
         }
       ],
-      "ultimo_short": "2026-08-13T04:36:44+00:00",
+      "ultimo_short": "2026-08-14T04:18:15+00:00",
       "shorts_dia": {
-        "data": "2026-08-13",
+        "data": "2026-08-14",
         "n": 1
       },
       "longo_data": ""

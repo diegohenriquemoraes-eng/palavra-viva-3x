@@ -2134,3 +2134,35 @@
 - Item: short-1 — Meditaciones 8:57
 - Duração: 25.7s
 - Publicado em: 2026-08-14T01:20:37+00:00
+
+## [es] v0aWuC_R1rY — 1 Juan 3:1 - Mirad cual amor nos ha dado el Padre | Biblia
+
+- URL: https://youtu.be/v0aWuC_R1rY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — 1 Juan 3:1
+- Duração: 19.7s
+- Publicado em: 2026-08-14T03:57:19+00:00
+
+## [pt] 9-0E6UZHqDM — Filhos de Deus - Romanos 8 | Biblia narrada
+
+- URL: https://youtu.be/9-0E6UZHqDM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Romanos 8:1-17
+- Duração: 1933.0s
+- Publicado em: 2026-08-14T04:14:26+00:00
+
+## [poder] tNY44yAkMj0 — La mejor fortaleza no es un muro
+
+- URL: https://youtu.be/tNY44yAkMj0
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 20:30
+- Duração: 18.8s
+- Publicado em: 2026-08-14T04:17:10+00:00
+
+## [astucia] TiID_JSFoxE — Nunca pelees con quien nada puede perder
+
+- URL: https://youtu.be/TiID_JSFoxE
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 172:1
+- Duração: 22.1s
+- Publicado em: 2026-08-14T04:18:15+00:00
