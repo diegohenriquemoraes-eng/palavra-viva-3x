@@ -226,3 +226,9 @@
 - Conta: @psicologiafria.br
 - Link: https://www.instagram.com/reel/18112007635992853/
 - Publicado em: 2026-08-13T22:11:40+00:00
+
+## 18053536688792329 — INVEJA EDUCADA
+
+- Conta: @psicologiafria.br
+- Link: https://www.instagram.com/reel/18053536688792329/
+- Publicado em: 2026-08-14T19:17:16+00:00
