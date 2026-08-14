@@ -2174,3 +2174,11 @@
 - Item: short-1 — 1 João 3:1
 - Duração: 23.1s
 - Publicado em: 2026-08-14T05:27:10+00:00
+
+## [es] Tojfh2I_Cik — Romanos 8 - No habeis recibido espiritu de esclavitud | Biblia
+
+- URL: https://youtu.be/Tojfh2I_Cik
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Romanos 8:14
+- Duração: 15.6s
+- Publicado em: 2026-08-14T11:01:32+00:00
