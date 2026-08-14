@@ -1659,12 +1659,19 @@
           "video_id": "R2089YgGgNU",
           "titulo": "1 Joao 3:1 - Vede quao grande amor nos tem concedido | Biblia",
           "em": "2026-08-14T05:27:10+00:00"
+        },
+        {
+          "pacote": "2026-08-14-identidade-filhos",
+          "item": "short-2",
+          "video_id": "cPOeloTVMVY",
+          "titulo": "Romanos 8 - Nao recebestes o espirito de escravidao | Biblia",
+          "em": "2026-08-14T12:43:29+00:00"
         }
       ],
-      "ultimo_short": "2026-08-14T05:27:10+00:00",
+      "ultimo_short": "2026-08-14T12:43:29+00:00",
       "shorts_dia": {
         "data": "2026-08-14",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-14"
     },

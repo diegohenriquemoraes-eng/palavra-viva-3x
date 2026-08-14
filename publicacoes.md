@@ -2182,3 +2182,11 @@
 - Item: short-2 — Romanos 8:14
 - Duração: 15.6s
 - Publicado em: 2026-08-14T11:01:32+00:00
+
+## [pt] cPOeloTVMVY — Romanos 8 - Nao recebestes o espirito de escravidao | Biblia
+
+- URL: https://youtu.be/cPOeloTVMVY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Romanos 8:14-15
+- Duração: 26.1s
+- Publicado em: 2026-08-14T12:43:29+00:00
