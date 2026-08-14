@@ -1,0 +1,140 @@
+{
+  "slug": "conocerse-a-si-mismo",
+  "formato": "tema",
+  "data": "2026-08-16",
+  "criado_em": "2026-08-14T02:47:39+00:00",
+  "aprovado_em": "2026-08-14T02:47:39+00:00",
+  "longo": {
+    "refs": [
+      "Oráculo manual 225"
+    ],
+    "titulo": {
+      "astucia": "Conoce tu Defecto Principal | Gracián, Oráculo Manual"
+    },
+    "thumb_titulo": {
+      "astucia": "TU DEFECTO REY"
+    },
+    "thumb_sub": {
+      "astucia": "Gracián, aforismo 225"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rear_view_mirror_Sn%C3%A6fellsj%C3%B6kull_%28Unsplash%29.jpg/1920px-Rear_view_mirror_Sn%C3%A6fellsj%C3%B6kull_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kalle K kallek",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rear_view_mirror_Sn%C3%A6fellsj%C3%B6kull_(Unsplash).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mirror_MET_DP106623.jpg/1920px-Mirror_MET_DP106623.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Mirror_MET_DP106623.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/DESI_corrector_lens_%28DESI-Mirror_CC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Lawrence Berkeley National Lab/KPNO/NOIRLab/NSF/AURA",
+        "origem": "https://commons.wikimedia.org/wiki/File:DESI_corrector_lens_(DESI-Mirror_CC).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/VLT_mirror_%28vltmirror1%29.tiff/lossy-page1-1280px-VLT_mirror_%28vltmirror1%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:VLT_mirror_(vltmirror1).tiff",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Mirror_MET_DP106621.jpg/1920px-Mirror_MET_DP106621.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Mirror_MET_DP106621.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG/1920px-Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dirk Ingo Franke",
+        "origem": "https://commons.wikimedia.org/wiki/File:Westminster_abbey_at_night_after_candle_mass_02.02.2012_20-26-43.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Candles_in_the_night1.jpg/1920px-Candles_in_the_night1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Donald Olszewski",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candles_in_the_night1.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/My_candle_burns_at_both_ends%2C_it_will_not_last_the_night_-_Flickr_-_frankieleon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "frankieleon",
+        "origem": "https://commons.wikimedia.org/wiki/File:My_candle_burns_at_both_ends,_it_will_not_last_the_night_-_Flickr_-_frankieleon.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Shaheed_Island%2C_Andamans%2C_Night%2C_Candle_light_in_the_dark.jpg/1920px-Shaheed_Island%2C_Andamans%2C_Night%2C_Candle_light_in_the_dark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Shaheed_Island,_Andamans,_Night,_Candle_light_in_the_dark.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG/1920px-Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ootahara",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candles_at_the_2012_summer_solstice_candle_night_what_was_held_in_Ofuna_can-non_temple.JPG",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/King_Kamehameha_Statue_%40_Night_draped_with_leis._%2827787858954%29.jpg/1920px-King_Kamehameha_Statue_%40_Night_draped_with_leis._%2827787858954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel Ramirez from Honolulu, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:King_Kamehameha_Statue_@_Night_draped_with_leis._(27787858954).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Statue_of_Liberty_%28Tokyo%29_at_night_20141229.jpg/1920px-Statue_of_Liberty_%28Tokyo%29_at_night_20141229.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MiNe",
+        "origem": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_(Tokyo)_at_night_20141229.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/King_Kamehameha_Statue_%40_Night_draped_with_leis._%2828371345156%29.jpg/1920px-King_Kamehameha_Statue_%40_Night_draped_with_leis._%2828371345156%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel Ramirez from Honolulu, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:King_Kamehameha_Statue_@_Night_draped_with_leis._(28371345156).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Statue_of_Liberty_at_Night_-_panoramio.jpg/1920px-Statue_of_Liberty_at_Night_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Russell Lovrin",
+        "origem": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_at_Night_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Oráculo manual 225",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "Tu defecto principal, el que manda"
+      },
+      "aplicacao": "Todos tenemos uno que gobierna a los demás. Quien lo nombra, deja de ser previsible.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Through_A_Mirror%2C_Darkly_%2826917533863%29.jpg/1920px-Through_A_Mirror%2C_Darkly_%2826917533863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Phil Dolby",
+        "origem": "https://commons.wikimedia.org/wiki/File:Through_A_Mirror,_Darkly_(26917533863).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Oráculo manual 8",
+      "tipo": "aforismo",
+      "titulo": {
+        "astucia": "Hombre sin dejarse llevar por la pasión"
+      },
+      "aplicacao": "El enfado hace por ti la peor versión de tu decisión. Siempre.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/King_Kamehameha_Statue_%40_Night_%2823419720540%29.jpg/1920px-King_Kamehameha_Statue_%40_Night_%2823419720540%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel Ramirez from Honolulu, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:King_Kamehameha_Statue_@_Night_(23419720540).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "los-ministros",
+  "formato": "tema",
+  "data": "2026-08-16",
+  "criado_em": "2026-08-14T02:48:41+00:00",
+  "aprovado_em": "2026-08-14T02:48:41+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 22"
+    ],
+    "titulo": {
+      "poder": "Se te Juzga por Quien Tienes al Lado | Maquiavelo XXII"
+    },
+    "thumb_titulo": {
+      "poder": "TU GENTE TE DELATA"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XXII"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/King_Kamehameha_Statue_%40_Night_draped_with_leis._%2827787858954%29.jpg/1920px-King_Kamehameha_Statue_%40_Night_draped_with_leis._%2827787858954%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel Ramirez from Honolulu, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:King_Kamehameha_Statue_@_Night_draped_with_leis._(27787858954).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/King_Kamehameha_Statue_%40_Night_%2823632869431%29.jpg/1920px-King_Kamehameha_Statue_%40_Night_%2823632869431%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel Ramirez from Honolulu, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:King_Kamehameha_Statue_@_Night_(23632869431).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Statue_of_Liberty_%28Tokyo%29_at_night_20141229.jpg/1920px-Statue_of_Liberty_%28Tokyo%29_at_night_20141229.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MiNe",
+        "origem": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_(Tokyo)_at_night_20141229.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/King_Kamehameha_Statue_%40_Night_draped_with_leis._%2828371345156%29.jpg/1920px-King_Kamehameha_Statue_%40_Night_draped_with_leis._%2828371345156%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel Ramirez from Honolulu, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:King_Kamehameha_Statue_@_Night_draped_with_leis._(28371345156).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Night_godness_statue_2024-04_1713870578.jpg/1920px-Night_godness_statue_2024-04_1713870578.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Artyom Svetlov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_godness_statue_2024-04_1713870578.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Earl_Gregg_Swem_Library_at_night_2021.jpg/1920px-Earl_Gregg_Swem_Library_at_night_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pbritti",
+        "origem": "https://commons.wikimedia.org/wiki/File:Earl_Gregg_Swem_Library_at_night_2021.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sias_Library_at_Night_2017.jpg/1920px-Sias_Library_at_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Gary Todd",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sias_Library_at_Night_2017.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sias_Library%2C_Night%2C_2017.jpg/1920px-Sias_Library%2C_Night%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Gary Todd",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sias_Library,_Night,_2017.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Newly_constructed_Arlington_State_College_Library_at_night_%2810003720%29.jpg/1920px-Newly_constructed_Arlington_State_College_Library_at_night_%2810003720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "University of Texas at Arlington Photograph Collection",
+        "origem": "https://commons.wikimedia.org/wiki/File:Newly_constructed_Arlington_State_College_Library_at_night_(10003720).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Newly_constructed_Arlington_State_College_Library_at_night_%2810003721%29.jpg/1920px-Newly_constructed_Arlington_State_College_Library_at_night_%2810003721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "University of Texas at Arlington Photograph Collection",
+        "origem": "https://commons.wikimedia.org/wiki/File:Newly_constructed_Arlington_State_College_Library_at_night_(10003721).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg/1920px-SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Hoai Chonag Fornai",
+        "origem": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_KFC_Restaurant_interior_stairs_night_April_2025_R12S.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg/1920px-HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FWOSH katm 4502",
+        "origem": "https://commons.wikimedia.org/wiki/File:HK_WCD_Wan_Chai_North_Gloucester_Road_footbridge_stairs_night_November_2025_N13P_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg/1920px-V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "mikrimas",
+        "origem": "https://commons.wikimedia.org/wiki/File:V.Mykolaitis_Putinas_stairs_at_night_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wat_Chedi_Luang%2C_Stupa_stairs_at_night%2C_Chiang_Mai%2C_Thailand.jpg/1920px-Wat_Chedi_Luang%2C_Stupa_stairs_at_night%2C_Chiang_Mai%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wat_Chedi_Luang,_Stupa_stairs_at_night,_Chiang_Mai,_Thailand.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 22:2",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Se te juzga por la gente que eliges"
+      },
+      "aplicacao": "Tu equipo es la primera declaración pública de tu criterio. Antes que cualquier discurso.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Moscow_Night_godness_statue_2024-12_1735387318.JPG/1920px-Moscow_Night_godness_statue_2024-12_1735387318.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Artyom Svetlov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moscow_Night_godness_statue_2024-12_1735387318.JPG",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "El Príncipe 22:5",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Cómo saber si alguien piensa en ti o en él"
+      },
+      "aplicacao": "Mira de qué habla cuando no lo estás evaluando. Ahí aparece quién es.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/University_of_Texas_at_Arlington_Library_exterior_at_night_%2810003733%29.jpg/1920px-University_of_Texas_at_Arlington_Library_exterior_at_night_%2810003733%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "University of Texas at Arlington News Service Photograph Collection",
+        "origem": "https://commons.wikimedia.org/wiki/File:University_of_Texas_at_Arlington_Library_exterior_at_night_(10003733).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
