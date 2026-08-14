@@ -722,6 +722,13 @@
           "video_id": "OoE2cUSFTfc",
           "titulo": "Salmo 143:8 — Hazme oír por la mañana tu misericordia | Biblia",
           "em": "2026-08-13T18:49:52+00:00"
+        },
+        {
+          "pacote": "2026-08-14-identidade-filhos",
+          "item": "longo",
+          "video_id": "4LqQy5eKcpc",
+          "titulo": "Hijos de Dios - Romanos 8 | Biblia en espanol",
+          "em": "2026-08-14T01:19:37+00:00"
         }
       ],
       "ultimo_short": "2026-08-13T18:49:52+00:00",
@@ -729,7 +736,7 @@
         "data": "2026-08-13",
         "n": 3
       },
-      "longo_data": "2026-08-13"
+      "longo_data": "2026-08-14"
     },
     "en": {
       "publicados": [
@@ -1753,11 +1760,18 @@
           "video_id": "BTlEOAojdxc",
           "titulo": "Mira hacia dentro o todo irá mal",
           "em": "2026-08-13T01:56:04+00:00"
+        },
+        {
+          "pacote": "2026-08-14-vivir-con-poco",
+          "item": "short-1",
+          "video_id": "2I6sLFmr6wA",
+          "titulo": "La lección del pepino amargo",
+          "em": "2026-08-14T01:20:37+00:00"
         }
       ],
-      "ultimo_short": "2026-08-13T01:56:04+00:00",
+      "ultimo_short": "2026-08-14T01:20:37+00:00",
       "shorts_dia": {
-        "data": "2026-08-13",
+        "data": "2026-08-14",
         "n": 1
       },
       "longo_data": ""

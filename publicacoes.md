@@ -2118,3 +2118,19 @@
 - Item: short-3 — Salmo 143:8
 - Duração: 19.4s
 - Publicado em: 2026-08-13T21:36:37+00:00
+
+## [es] 4LqQy5eKcpc — Hijos de Dios - Romanos 8 | Biblia en espanol
+
+- URL: https://youtu.be/4LqQy5eKcpc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Romanos 8:1-17
+- Duração: 1801.8s
+- Publicado em: 2026-08-14T01:19:37+00:00
+
+## [stoic] 2I6sLFmr6wA — La lección del pepino amargo
+
+- URL: https://youtu.be/2I6sLFmr6wA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 8:57
+- Duração: 25.7s
+- Publicado em: 2026-08-14T01:20:37+00:00
