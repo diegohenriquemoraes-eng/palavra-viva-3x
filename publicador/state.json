@@ -743,12 +743,19 @@
           "video_id": "Tojfh2I_Cik",
           "titulo": "Romanos 8 - No habeis recibido espiritu de esclavitud | Biblia",
           "em": "2026-08-14T11:01:32+00:00"
+        },
+        {
+          "pacote": "2026-08-14-identidade-filhos",
+          "item": "short-3",
+          "video_id": "439BfrtLCP4",
+          "titulo": "Efesios 2:8 - Por gracia sois salvos | Biblia en espanol",
+          "em": "2026-08-14T18:42:19+00:00"
         }
       ],
-      "ultimo_short": "2026-08-14T11:01:32+00:00",
+      "ultimo_short": "2026-08-14T18:42:19+00:00",
       "shorts_dia": {
         "data": "2026-08-14",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-14"
     },

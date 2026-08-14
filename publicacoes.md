@@ -2190,3 +2190,11 @@
 - Item: short-2 — Romanos 8:14-15
 - Duração: 26.1s
 - Publicado em: 2026-08-14T12:43:29+00:00
+
+## [es] 439BfrtLCP4 — Efesios 2:8 - Por gracia sois salvos | Biblia en espanol
+
+- URL: https://youtu.be/439BfrtLCP4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Efesios 2:8-9
+- Duração: 19.2s
+- Publicado em: 2026-08-14T18:42:19+00:00
