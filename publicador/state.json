@@ -1673,12 +1673,19 @@
           "video_id": "cPOeloTVMVY",
           "titulo": "Romanos 8 - Nao recebestes o espirito de escravidao | Biblia",
           "em": "2026-08-14T12:43:29+00:00"
+        },
+        {
+          "pacote": "2026-08-14-identidade-filhos",
+          "item": "short-3",
+          "video_id": "VTWzxpSHgzQ",
+          "titulo": "Efesios 2:8 - Pela graca sois salvos | Biblia narrada",
+          "em": "2026-08-14T20:23:21+00:00"
         }
       ],
-      "ultimo_short": "2026-08-14T12:43:29+00:00",
+      "ultimo_short": "2026-08-14T20:23:21+00:00",
       "shorts_dia": {
         "data": "2026-08-14",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-14"
     },

@@ -2198,3 +2198,11 @@
 - Item: short-3 — Efesios 2:8-9
 - Duração: 19.2s
 - Publicado em: 2026-08-14T18:42:19+00:00
+
+## [pt] VTWzxpSHgzQ — Efesios 2:8 - Pela graca sois salvos | Biblia narrada
+
+- URL: https://youtu.be/VTWzxpSHgzQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Efésios 2:8-9
+- Duração: 21.4s
+- Publicado em: 2026-08-14T20:23:21+00:00
