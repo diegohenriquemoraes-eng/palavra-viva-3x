@@ -72,11 +72,14 @@ def main() -> None:
                 f"`channel_id`.")
             continue
         horas = (agora - ultima).total_seconds() / 3600
-        if horas > LIMITE_MUDO_H:
+        # canal de 1 Short/dia (Protocolo Fantasma) passa ~24h entre
+        # publicações por desenho: 14h ali é alarme falso todo santo dia.
+        limite = LIMITE_MUDO_H if canal.get("shorts_por_dia", 3) >= 3 else 30
+        if horas > limite:
             alarmes.append(
                 f"- **{canal['titulo_canal']}** ({idioma}): sem publicar há "
-                f"**{horas:.0f}h** (último: {ultima.isoformat(timespec='minutes')}). "
-                f"O normal é no máximo ~7h entre publicações.")
+                f"**{horas:.0f}h** (último: {ultima.isoformat(timespec='minutes')}); "
+                f"o limite deste canal é {limite}h.")
         else:
             print(f"ok  {idioma}: publicou há {horas:.1f}h")
 
@@ -93,6 +96,46 @@ def main() -> None:
             f"conteúdo em `conteudo/temas.json`. Quando zerar, os canais param. "
             f"Adicionar temas novos (1 longo + 4 Shorts, títulos nos 3 idiomas) "
             f"e validar com `python produzir/reabastecer.py --dry-run`.")
+
+    # 3) QUEDA DE AUDIÊNCIA — o alarme que faltava em 15/08/2026
+    #
+    # Canal publicando e poço cheio não quer dizer canal vivo: em 12 e 13/08 o
+    # Palabra Viva Cortes caiu de ~2.700 para ~1.100 views/dia sem nenhum aviso,
+    # e só apareceu porque alguém foi olhar. O histórico já grava views_totais
+    # por medição; a taxa entre duas medições é views/dia, e é isso que se
+    # compara. Só vale com pelo menos 2 medições e 12 h de intervalo.
+    hist = carregar(RAIZ / "conteudo" / "desempenho_historico.json", [])
+    if len(hist) >= 3:
+        atual, anterior, antes = hist[-1], hist[-2], hist[-3]
+
+        def por_dia(depois: dict, antes_: dict, canal: str) -> float | None:
+            a = depois["canais"].get(canal, {}).get("views_totais")
+            b = antes_["canais"].get(canal, {}).get("views_totais")
+            if a is None or b is None:
+                return None
+            dias = (datetime.fromisoformat(depois["data"])
+                    - datetime.fromisoformat(antes_["data"])).days
+            return (a - b) / dias if dias >= 1 else None
+
+        for idioma, canal in config.get("canais", {}).items():
+            if not canal.get("ativo"):
+                continue
+            agora_dia = por_dia(atual, anterior, idioma)
+            antes_dia = por_dia(anterior, antes, idioma)
+            if not agora_dia or not antes_dia or antes_dia < 200:
+                continue          # canal pequeno demais: a razão vira ruído
+            queda = 1 - agora_dia / antes_dia
+            if queda >= 0.35:
+                alarmes.append(
+                    f"- **{canal['titulo_canal']}** ({idioma}): audiência caiu "
+                    f"**{queda*100:.0f}%** — de {antes_dia:.0f} para "
+                    f"{agora_dia:.0f} views/dia entre as duas últimas medições. "
+                    f"Não é falha de publicação: o canal está publicando e "
+                    f"sendo menos entregue. Olhar retenção da coorte de 2 a 7 "
+                    f"dias antes de mexer em qualquer coisa.")
+            else:
+                print(f"ok  {idioma}: {agora_dia:.0f} views/dia "
+                      f"({queda*-100:+.0f}% vs. medição anterior)")
 
     if not alarmes:
         print("\nSem alarmes.")
