@@ -2262,3 +2262,11 @@
 - Item: short-1 — Oráculo manual 13:1
 - Duração: 18.4s
 - Publicado em: 2026-08-15T03:34:48+00:00
+
+## [es] -sBu6g9JYZQ — Salmo 103 — Bendice, alma mía, a Jehová | Biblia
+
+- URL: https://youtu.be/-sBu6g9JYZQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 103:1-3
+- Duração: 27.8s
+- Publicado em: 2026-08-15T09:18:21+00:00
