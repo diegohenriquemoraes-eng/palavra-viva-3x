@@ -757,12 +757,19 @@
           "video_id": "ElDh8bRMqSI",
           "titulo": "Salmos para Dormir — Gratitud y Descanso | Biblia Hablada con Voz Calmada",
           "em": "2026-08-15T01:21:20+00:00"
+        },
+        {
+          "pacote": "2026-08-15-salmos-dormir-11",
+          "item": "short-1",
+          "video_id": "WoqDZSuy9ts",
+          "titulo": "Salmo 145 — Clemente y misericordioso es Jehová | Biblia",
+          "em": "2026-08-15T02:09:40+00:00"
         }
       ],
-      "ultimo_short": "2026-08-14T18:42:19+00:00",
+      "ultimo_short": "2026-08-15T02:09:40+00:00",
       "shorts_dia": {
-        "data": "2026-08-14",
-        "n": 3
+        "data": "2026-08-15",
+        "n": 1
       },
       "longo_data": "2026-08-15"
     },
@@ -1687,6 +1694,13 @@
           "video_id": "VTWzxpSHgzQ",
           "titulo": "Efesios 2:8 - Pela graca sois salvos | Biblia narrada",
           "em": "2026-08-14T20:23:21+00:00"
+        },
+        {
+          "pacote": "2026-08-15-salmos-dormir-11",
+          "item": "longo",
+          "video_id": "8P21LfJV5XY",
+          "titulo": "Salmos para Dormir — Gratidão e Descanso | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-15T02:49:56+00:00"
         }
       ],
       "ultimo_short": "2026-08-14T20:23:21+00:00",
@@ -1694,7 +1708,7 @@
         "data": "2026-08-14",
         "n": 3
       },
-      "longo_data": "2026-08-14"
+      "longo_data": "2026-08-15"
     },
     "stoic": {
       "publicados": [
@@ -1823,11 +1837,18 @@
           "video_id": "2I6sLFmr6wA",
           "titulo": "La lección del pepino amargo",
           "em": "2026-08-14T01:20:37+00:00"
+        },
+        {
+          "pacote": "2026-08-15-solo-el-presente",
+          "item": "short-1",
+          "video_id": "E9m1H6ci-eA",
+          "titulo": "Solo puedes perder el presente",
+          "em": "2026-08-15T02:51:47+00:00"
         }
       ],
-      "ultimo_short": "2026-08-14T01:20:37+00:00",
+      "ultimo_short": "2026-08-15T02:51:47+00:00",
       "shorts_dia": {
-        "data": "2026-08-14",
+        "data": "2026-08-15",
         "n": 1
       },
       "longo_data": ""
@@ -1910,11 +1931,18 @@
           "video_id": "tNY44yAkMj0",
           "titulo": "La mejor fortaleza no es un muro",
           "em": "2026-08-14T04:17:10+00:00"
+        },
+        {
+          "pacote": "2026-08-15-neutralidad",
+          "item": "short-1",
+          "video_id": "nIgsOzeMZQs",
+          "titulo": "No tomar partido no te salva",
+          "em": "2026-08-15T02:52:39+00:00"
         }
       ],
-      "ultimo_short": "2026-08-14T04:17:10+00:00",
+      "ultimo_short": "2026-08-15T02:52:39+00:00",
       "shorts_dia": {
-        "data": "2026-08-14",
+        "data": "2026-08-15",
         "n": 1
       },
       "longo_data": ""

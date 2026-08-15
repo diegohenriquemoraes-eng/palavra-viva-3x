@@ -2214,3 +2214,35 @@
 - Item: longo — Salmo 92, Salmo 95, Salmo 96, Salmo 98, Salmo 100, Salmo 111, Salmo 138, Salmo 145
 - Duração: 4106.7s
 - Publicado em: 2026-08-15T01:21:20+00:00
+
+## [es] WoqDZSuy9ts — Salmo 145 — Clemente y misericordioso es Jehová | Biblia
+
+- URL: https://youtu.be/WoqDZSuy9ts
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 145:8-9
+- Duração: 22.6s
+- Publicado em: 2026-08-15T02:09:40+00:00
+
+## [pt] 8P21LfJV5XY — Salmos para Dormir — Gratidão e Descanso | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/8P21LfJV5XY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 92, Salmo 95, Salmo 96, Salmo 98, Salmo 100, Salmo 111, Salmo 138, Salmo 145
+- Duração: 4265.6s
+- Publicado em: 2026-08-15T02:49:56+00:00
+
+## [stoic] E9m1H6ci-eA — Solo puedes perder el presente
+
+- URL: https://youtu.be/E9m1H6ci-eA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 2:28
+- Duração: 31.4s
+- Publicado em: 2026-08-15T02:51:47+00:00
+
+## [poder] nIgsOzeMZQs — No tomar partido no te salva
+
+- URL: https://youtu.be/nIgsOzeMZQs
+- Canal: El Poder Crudo (`UC9m5fvEqQZ_J34oQzczgFoQ`)
+- Item: short-1 — El Príncipe 21:8
+- Duração: 25.7s
+- Publicado em: 2026-08-15T02:52:39+00:00
