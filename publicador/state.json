@@ -771,12 +771,19 @@
           "video_id": "-sBu6g9JYZQ",
           "titulo": "Salmo 103 — Bendice, alma mía, a Jehová | Biblia",
           "em": "2026-08-15T09:18:21+00:00"
+        },
+        {
+          "pacote": "2026-08-15-salmos-dormir-11",
+          "item": "short-3",
+          "video_id": "zqo1-7bo3y0",
+          "titulo": "Salmo 116:7 — Vuelve, alma mía, a tu reposo | Biblia",
+          "em": "2026-08-15T17:13:34+00:00"
         }
       ],
-      "ultimo_short": "2026-08-15T09:18:21+00:00",
+      "ultimo_short": "2026-08-15T17:13:34+00:00",
       "shorts_dia": {
         "data": "2026-08-15",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-15"
     },
