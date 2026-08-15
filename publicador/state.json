@@ -1715,12 +1715,19 @@
           "video_id": "FwIfoHPYU3k",
           "titulo": "Salmo 145 — O Senhor é clemente e misericordioso | Bíblia",
           "em": "2026-08-15T03:33:57+00:00"
+        },
+        {
+          "pacote": "2026-08-15-salmos-dormir-11",
+          "item": "short-2",
+          "video_id": "r0fIPqHgb7I",
+          "titulo": "Salmo 103 — Bendize, ó minha alma, ao Senhor | Bíblia",
+          "em": "2026-08-15T11:12:23+00:00"
         }
       ],
-      "ultimo_short": "2026-08-15T03:33:57+00:00",
+      "ultimo_short": "2026-08-15T11:12:23+00:00",
       "shorts_dia": {
         "data": "2026-08-15",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-15"
     },

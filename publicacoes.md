@@ -2270,3 +2270,11 @@
 - Item: short-2 — Salmo 103:1-3
 - Duração: 27.8s
 - Publicado em: 2026-08-15T09:18:21+00:00
+
+## [pt] r0fIPqHgb7I — Salmo 103 — Bendize, ó minha alma, ao Senhor | Bíblia
+
+- URL: https://youtu.be/r0fIPqHgb7I
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-2 — Salmo 103:1-2
+- Duração: 21.7s
+- Publicado em: 2026-08-15T11:12:23+00:00
