@@ -1729,12 +1729,19 @@
           "video_id": "r0fIPqHgb7I",
           "titulo": "Salmo 103 — Bendize, ó minha alma, ao Senhor | Bíblia",
           "em": "2026-08-15T11:12:23+00:00"
+        },
+        {
+          "pacote": "2026-08-15-salmos-dormir-11",
+          "item": "short-3",
+          "video_id": "B9lUhlDkDPo",
+          "titulo": "Salmo 116:7 — Volta, minha alma, ao teu repouso | Bíblia",
+          "em": "2026-08-15T18:15:49+00:00"
         }
       ],
-      "ultimo_short": "2026-08-15T11:12:23+00:00",
+      "ultimo_short": "2026-08-15T18:15:49+00:00",
       "shorts_dia": {
         "data": "2026-08-15",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-15"
     },

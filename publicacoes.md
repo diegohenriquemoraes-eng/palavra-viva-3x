@@ -2286,3 +2286,11 @@
 - Item: short-3 — Salmo 116:7
 - Duração: 14.9s
 - Publicado em: 2026-08-15T17:13:34+00:00
+
+## [pt] B9lUhlDkDPo — Salmo 116:7 — Volta, minha alma, ao teu repouso | Bíblia
+
+- URL: https://youtu.be/B9lUhlDkDPo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-3 — Salmo 116:7
+- Duração: 14.8s
+- Publicado em: 2026-08-15T18:15:49+00:00
