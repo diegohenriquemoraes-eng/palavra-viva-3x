@@ -2206,3 +2206,11 @@
 - Item: short-3 — Efésios 2:8-9
 - Duração: 21.4s
 - Publicado em: 2026-08-14T20:23:21+00:00
+
+## [es] ElDh8bRMqSI — Salmos para Dormir — Gratitud y Descanso | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/ElDh8bRMqSI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 92, Salmo 95, Salmo 96, Salmo 98, Salmo 100, Salmo 111, Salmo 138, Salmo 145
+- Duração: 4106.7s
+- Publicado em: 2026-08-15T01:21:20+00:00
