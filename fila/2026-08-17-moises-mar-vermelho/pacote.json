@@ -1,0 +1,196 @@
+{
+  "slug": "moises-mar-vermelho",
+  "formato": "historia",
+  "data": "2026-08-17",
+  "criado_em": "2026-08-15T01:51:38+00:00",
+  "aprovado_em": "2026-08-15T01:51:38+00:00",
+  "longo": {
+    "refs": [
+      "Exodus 14:10-31"
+    ],
+    "titulo": {
+      "es": "Moises y el Mar Rojo - Exodo 14 | Historia biblica narrada",
+      "en": "Moses and the Red Sea - Exodus 14 | Bible Story Narrated",
+      "pt": "Moises e o Mar Vermelho - Exodo 14 | Historia biblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "EL MAR SE ABRIO",
+      "en": "THE SEA PARTED",
+      "pt": "O MAR SE ABRIU"
+    },
+    "thumb_sub": {
+      "es": "Exodo 14",
+      "en": "Exodus 14",
+      "pt": "Exodo 14"
+    },
+    "abertura": {
+      "es": "Éxodo catorce cuenta la noche del mar. El pueblo, entre el ejército y el agua; Moisés responde con una orden extraña: estad quietos. El texto anota un viento oriental que sopló toda la noche antes de que el mar se abriera. Escucha el relato completo.",
+      "pt": "Êxodo catorze conta a noite do mar. O povo, entre o exército e a água; Moisés responde com uma ordem estranha: aquietai-vos. O texto anota um vento oriental que soprou a noite inteira antes de o mar se abrir. Ouça o relato completo."
+    },
+    "tags_extra": {
+      "es": [
+        "moises mar rojo",
+        "exodo 14",
+        "historia biblica",
+        "el mar se abrio",
+        "jehova peleara por vosotros",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "moises mar vermelho",
+        "exodo 14",
+        "historia biblica",
+        "o mar se abriu",
+        "o senhor pelejara por vos",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Éxodo 14:10-31, la historia completa del Mar Rojo: Jehová peleará por vosotros, y el mar se dividió. Narración pausada, Reina-Valera 1909.",
+      "pt": "Êxodo 14:10-31, a história completa do Mar Vermelho: o Senhor pelejará por vós, e as águas se dividiram. Narração pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Waves_in_sea.jpg/1920px-Waves_in_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Saral Shots",
+        "origem": "https://commons.wikimedia.org/wiki/File:Waves_in_sea.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Desert_Sunrise_%28Unsplash%29.jpg/1920px-Desert_Sunrise_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Red Morley Hewitt redvers",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Sunrise_(Unsplash).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Desert_sunrise_%28sunrise-shadow-cc%29.tiff/lossy-page1-1920px-Desert_sunrise_%28sunrise-shadow-cc%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "F. Char/ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_sunrise_(sunrise-shadow-cc).tiff",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_dark_sunrise_over_Mount_Desert_Island%2C_Maine.jpg/1920px-A_dark_sunrise_over_Mount_Desert_Island%2C_Maine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dana Moos",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_dark_sunrise_over_Mount_Desert_Island,_Maine.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Desert_sunrise_%28sunrise-shadow-cc%29.jpg/1920px-Desert_sunrise_%28sunrise-shadow-cc%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "F. Char/ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_sunrise_(sunrise-shadow-cc).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Colorful_sunrise_in_desert_%2849408930401%29.jpg/1920px-Colorful_sunrise_in_desert_%2849408930401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "daveynin from United States",
+        "origem": "https://commons.wikimedia.org/wiki/File:Colorful_sunrise_in_desert_(49408930401).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Exodus 14:13-14",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Exodo 14 - Jehova peleara por vosotros | Biblia en espanol",
+        "en": "Exodus 14 - The Lord Shall Fight for You | Bible",
+        "pt": "Exodo 14 - O Senhor pelejara por vos | Biblia narrada"
+      },
+      "aplicacao": {
+        "es": "Moises lo dice con el ejercito detras y el mar delante, segun el relato.",
+        "pt": "Moises diz isso com o exercito atras e o mar a frente, segundo o relato."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Waves_in_sea.jpg/1920px-Waves_in_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Saral Shots",
+        "origem": "https://commons.wikimedia.org/wiki/File:Waves_in_sea.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Exodus 14:21-22",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Exodo 14 - El mar se dividio | Historia biblica",
+        "en": "Exodus 14 - The Waters Were Divided | Bible Story",
+        "pt": "Exodo 14 - As aguas se dividiram | Historia biblica"
+      },
+      "aplicacao": {
+        "es": "El texto menciona un viento oriental que soplo toda la noche.",
+        "pt": "O texto menciona um vento oriental que soprou a noite toda."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Exodus 3:13-14",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Exodo 3 - YO SOY EL QUE SOY | Biblia en espanol",
+        "en": "Exodus 3 - I AM THAT I AM | Bible",
+        "pt": "Exodo 3 - EU SOU O QUE SOU | Biblia narrada"
+      },
+      "aplicacao": {
+        "es": "Moises pregunta que nombre debe dar, y la respuesta es un verbo.",
+        "pt": "Moises pergunta que nome deve dar, e a resposta e um verbo."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sunrise_at_Mojave_Desert_%2844694104704%29.jpg/1920px-Sunrise_at_Mojave_Desert_%2844694104704%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Janusz Sobolewski from Mississauga, Ontario, Canada",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Mojave_Desert_(44694104704).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Exodus 15:1-2",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Exodo 15 - Cantare yo a Jehova | Biblia en espanol",
+        "en": "Exodus 15 - I Will Sing Unto the Lord | Bible",
+        "pt": "Exodo 15 - Cantarei ao Senhor | Biblia narrada"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Waves_in_sea.jpg/1920px-Waves_in_sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Saral Shots",
+        "origem": "https://commons.wikimedia.org/wiki/File:Waves_in_sea.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "cambiar-con-los-tiempos",
+  "formato": "tema",
+  "data": "2026-08-17",
+  "criado_em": "2026-08-15T01:52:14+00:00",
+  "aprovado_em": "2026-08-15T01:52:14+00:00",
+  "longo": {
+    "refs": [
+      "El Príncipe 25"
+    ],
+    "titulo": {
+      "poder": "Por Qué Cae el que Antes Triunfaba | Maquiavelo XXV"
+    },
+    "thumb_titulo": {
+      "poder": "CAMBIAR A TIEMPO"
+    },
+    "thumb_sub": {
+      "poder": "Maquiavelo, capítulo XXV"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Clock_%28England%29%2C_ca._1905_%28CH_51685175%29.jpg/1920px-Clock_%28England%29%2C_ca._1905_%28CH_51685175%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown artist Unknown artist",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clock_(England),_ca._1905_(CH_51685175).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Dandelion_Clock_Dark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Phil Wardle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dandelion_Clock_Dark.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tall_case_clock%2C_maker_unknown%2C_Bennington_VT%2C_c._1800%2C_cherry_and_white_pine_with_light_and_dark_wood_inlays%2C_view_1_-_Bennington_Museum_-_Bennington%2C_VT_-_DSC08793.JPG/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daderot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tall_case_clock,_maker_unknown,_Bennington_VT,_c._1800,_cherry_and_white_pine_with_light_and_dark_wood_inlays,_view_1_-_Bennington_Museum_-_Bennington,_VT_-_DSC08793.JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Clock_Julien_Beliard.jpg/1920px-Clock_Julien_Beliard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "John Jason Junior",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clock_Julien_Beliard.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Tall_case_clock%2C_maker_unknown%2C_Bennington_VT%2C_c._1800%2C_cherry_and_white_pine_with_light_and_dark_wood_inlays%2C_view_2_-_Bennington_Museum_-_Bennington%2C_VT_-_DSC08795.JPG/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daderot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tall_case_clock,_maker_unknown,_Bennington_VT,_c._1800,_cherry_and_white_pine_with_light_and_dark_wood_inlays,_view_2_-_Bennington_Museum_-_Bennington,_VT_-_DSC08795.JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Gentle_Storm_au_Night_of_the_Prog_2015_-_26_%2819856102136%29.jpg/1920px-The_Gentle_Storm_au_Night_of_the_Prog_2015_-_26_%2819856102136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Stéphane Gallay from Laconnex, Switzerland",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Gentle_Storm_au_Night_of_the_Prog_2015_-_26_(19856102136).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Storm_at_Night_%285531165859%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Nigel Howe from Sydney, Australia",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_at_Night_(5531165859).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Gentle_Storm_au_Night_of_the_Prog_2015_-_09_%2819887294251%29.jpg/1920px-The_Gentle_Storm_au_Night_of_the_Prog_2015_-_09_%2819887294251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Stéphane Gallay from Laconnex, Switzerland",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Gentle_Storm_au_Night_of_the_Prog_2015_-_09_(19887294251).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/The_Gentle_Storm_au_Night_of_the_Prog_2015_-_04_%2819694278490%29.jpg/1920px-The_Gentle_Storm_au_Night_of_the_Prog_2015_-_04_%2819694278490%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Stéphane Gallay from Laconnex, Switzerland",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Gentle_Storm_au_Night_of_the_Prog_2015_-_04_(19694278490).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Gentle_Storm_au_Night_of_the_Prog_2015_-_07_%2819694255548%29.jpg/1920px-The_Gentle_Storm_au_Night_of_the_Prog_2015_-_07_%2819694255548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Stéphane Gallay from Laconnex, Switzerland",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Gentle_Storm_au_Night_of_the_Prog_2015_-_07_(19694255548).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Bedienteinrichtung_der_Schiebet%C3%BCr.jpg/1920px-Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Bedienteinrichtung_der_Schiebet%C3%BCr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bvcmz248.5",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1,_nun_als_BFWL_der_vy,_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen,_Bedienteinrichtung_der_Schiebet%C3%BCr.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "David Kernan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan_(Night).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Gep%C3%A4ckabteil.jpg/1920px-Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Gep%C3%A4ckabteil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bvcmz248.5",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1,_nun_als_BFWL_der_vy,_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen,_Gep%C3%A4ckabteil.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%C3%89difice_Price_at_night%2C_Quebec_city%2C_Canada.jpg/1920px-%C3%89difice_Price_at_night%2C_Quebec_city%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Wilfredor",
+        "origem": "https://commons.wikimedia.org/wiki/File:%C3%89difice_Price_at_night,_Quebec_city,_Canada.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "El Príncipe 25:9",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "Por qué cae el que antes triunfaba"
+      },
+      "aplicacao": "No cambió nada. Eso es exactamente lo que lo hunde cuando el tiempo cambia.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Clock_Julien_Beliard.jpg/1920px-Clock_Julien_Beliard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "John Jason Junior",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clock_Julien_Beliard.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "El Príncipe 25:10",
+      "tipo": "regla",
+      "titulo": {
+        "poder": "El mismo método no sirve dos veces"
+      },
+      "aplicacao": "Lo que te trajo hasta aquí casi nunca es lo que te lleva al siguiente nivel.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandung_city_at_night_%282517163687%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Syed Abdul Khaliq from Shah Alam, Malaysia",
+        "origem": "https://commons.wikimedia.org/wiki/File:Bandung_city_at_night_(2517163687).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
