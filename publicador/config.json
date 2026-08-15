@@ -39,8 +39,9 @@
       "afiliado": "🙏 Itens de fé recomendados pelo canal:\n\n📖 Bíblia de Estudo King James Atualizada — letra hipergigante:\nhttps://s.shopee.com.br/50Xhsgw26r\n\n🖼️ Quadro do Salmo 91 em MDF para a parede:\nhttps://s.shopee.com.br/qi8uKxVL6\n\n📚 Bíblia Infantil Ilustrada, capa dura:\nhttps://s.shopee.com.br/8pkQS9xKry\n\nSão links de afiliado: ao comprar por eles você apoia o canal, sem nenhum custo a mais para você. Que Deus te abençoe! 🕊️",
       "afiliado_short": "📖 Bíblia de Estudo King James, letra hipergigante:\nhttps://s.shopee.com.br/50Xhsgw26r\nLink de afiliado: você apoia o canal sem custo a mais. 🙏",
       "hora_longo_utc": 2,
-      "shorts_por_dia": 3,
-      "gap_shorts_min": 420
+      "shorts_por_dia": 1,
+      "gap_shorts_min": 420,
+      "_corte_15_08": "De 3 Shorts + 1 longo para 1 Short + 1 longo. Medicao de 15/08: mediana da coorte 2-7d caiu 95 -> 41 -> 25 em tres semanas, com o MESMO conteudo que faz 850 no ES. 73 views por video publicando 4/dia, contra 438 da Noche Estoica publicando 1/dia. Hipotese testada: saturacao de frequencia num canal que o publico nao sustenta. O longo fica (e a unica trilha de horas do canal, 79h em 12 meses). Rever em 15/09: se a mediana nao subir, desligar."
     },
     "stoic": {
       "channel_id": "UCA7Jv8o9i9HB2OScOcxUCvg",
@@ -60,7 +61,7 @@
     },
     "poder": {
       "channel_id": "UC9m5fvEqQZ_J34oQzczgFoQ",
-      "ativo": true,
+      "ativo": false,
       "titulo_canal": "El Poder Crudo",
       "handle": "@ElPoderCrudo",
       "afiliado": "",
@@ -72,11 +73,12 @@
       "fila": "fila_poder",
       "_criado_03_08": "Canal novo (03/08/2026), decisao do Diego apos o teste de mercado de 26 salas em espanhol. Nicho: poder/estrategia (9 furadores medidos). Corpus: El Principe trad. anonima 1854. Estudo em ESTRATEGIA-2-CANALES-ES.md.",
       "_metodo_canal_novo": "PROTOCOLO FANTASMA puro: 1 Short/dia as 02 UTC (20h CDMX / 21h Bogota / 23h Buenos Aires), sem longo, teto 20s, 3 hashtags, descricao enxuta. 30 dias sem mexer. Regua ~03/09: mediana >=300 views/Short mantem e escala.",
-      "_camada_autoral": "DIFERENTE dos biblicos: o Short leva aplicacao propria depois do trecho citado. A politica oficial do YouTube lista 'readings of other materials you did not originally create' como INELEGIVEL para monetizacao — dominio publico resolve copyright, nao monetizacao."
+      "_camada_autoral": "DIFERENTE dos biblicos: o Short leva aplicacao propria depois do trecho citado. A politica oficial do YouTube lista 'readings of other materials you did not originally create' como INELEGIVEL para monetizacao — dominio publico resolve copyright, nao monetizacao.",
+      "_desligado_15_08": "Decisao do Diego. 12 dias, 4 inscritos, 3.115 views, mediana da coorte 74 contra regua de 300. Canal e videos ficam no ar; nada excluido. Nao reativar o formato Maquiavel."
     },
     "astucia": {
       "channel_id": "UCNyr1A0MN3rQT1Oa5LBjLUA",
-      "ativo": true,
+      "ativo": false,
       "titulo_canal": "Astucia Fría",
       "handle": "@AstuciaFria",
       "afiliado": "",
@@ -88,7 +90,8 @@
       "fila": "fila_astucia",
       "_criado_03_08": "Canal novo (03/08/2026). Nicho: ler pessoas / nao ser manipulado (11 furadores medidos, e a UNICA sala em que canal pequeno fura em SHORT, que e o que o metodo publica nos 30 primeiros dias). Corpus: Oraculo manual de Gracian, 300 aforismos em espanhol ORIGINAL.",
       "_metodo_canal_novo": "PROTOCOLO FANTASMA puro: 1 Short/dia as 03 UTC (21h CDMX / 22h Bogota / 00h Buenos Aires), sem longo, teto 20s, 3 hashtags, descricao enxuta. 30 dias sem mexer.",
-      "_camada_autoral": "Mesma regra do canal poder: trecho citado + aplicacao propria."
+      "_camada_autoral": "Mesma regra do canal poder: trecho citado + aplicacao propria.",
+      "_transformado_15_08": "Decisao do Diego: o canal PARA de publicar Gracian aqui e vira o 'Psicologia Fria' em espanhol - vendas e persuasao, roteiro autoral, no motor do repo Desktop\\Projetos\\psicologia-fria (nao mais neste). Escolhido entre os dois porque a marca (Astucia Fria, olho gelo) ja e o irmao espanhol do perfil e o passado e desprezivel: 1 inscrito, 633 views. Voz tem de ser gratuita (edge-tts ES), nao ElevenLabs. Aqui fica ativo:false para sempre."
     }
   }
 }
