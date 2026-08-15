@@ -2246,3 +2246,19 @@
 - Item: short-1 — El Príncipe 21:8
 - Duração: 25.7s
 - Publicado em: 2026-08-15T02:52:39+00:00
+
+## [pt] FwIfoHPYU3k — Salmo 145 — O Senhor é clemente e misericordioso | Bíblia
+
+- URL: https://youtu.be/FwIfoHPYU3k
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 145:8-9
+- Duração: 23.5s
+- Publicado em: 2026-08-15T03:33:57+00:00
+
+## [astucia] h2qa13Gws6g — La vida es una guerra de intenciones
+
+- URL: https://youtu.be/h2qa13Gws6g
+- Canal: Astucia Fría (`UCNyr1A0MN3rQT1Oa5LBjLUA`)
+- Item: short-1 — Oráculo manual 13:1
+- Duração: 18.4s
+- Publicado em: 2026-08-15T03:34:48+00:00
