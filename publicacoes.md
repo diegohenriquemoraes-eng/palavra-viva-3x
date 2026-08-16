@@ -2334,3 +2334,11 @@
 - Item: short-1 — Salmo 23:1-2
 - Duração: 19.2s
 - Publicado em: 2026-08-16T03:41:05+00:00
+
+## [es] j_BDsyzxl8Q — Salmo 23 - Aunque ande en valle de sombra de muerte | Biblia
+
+- URL: https://youtu.be/j_BDsyzxl8Q
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 23:4
+- Duração: 19.1s
+- Publicado em: 2026-08-16T09:19:21+00:00

@@ -792,12 +792,19 @@
           "video_id": "ydJ9d7Y-xS4",
           "titulo": "Salmo 23 - En lugares de delicados pastos | Biblia en espanol",
           "em": "2026-08-16T02:17:26+00:00"
+        },
+        {
+          "pacote": "2026-08-16-salmo-23-pastor",
+          "item": "short-2",
+          "video_id": "j_BDsyzxl8Q",
+          "titulo": "Salmo 23 - Aunque ande en valle de sombra de muerte | Biblia",
+          "em": "2026-08-16T09:19:21+00:00"
         }
       ],
-      "ultimo_short": "2026-08-16T02:17:26+00:00",
+      "ultimo_short": "2026-08-16T09:19:21+00:00",
       "shorts_dia": {
         "data": "2026-08-16",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-16"
     },
