@@ -9,7 +9,10 @@ name: Medir desempenho
 # com 2 a 7 dias). É ela que diz se uma mudança de formato funcionou.
 on:
   schedule:
-    - cron: "0 9 * * 1"
+    # DIÁRIO desde 15/08/2026: a medição semanal só via a queda uma semana
+    # depois, e o vigia precisa da série para calcular média móvel de
+    # views/dia. A leitura de decisão continua sendo a coorte de 2 a 7 dias.
+    - cron: "0 9 * * *"
   workflow_dispatch:
 
 concurrency:

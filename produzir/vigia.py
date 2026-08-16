@@ -101,41 +101,52 @@ def main() -> None:
     #
     # Canal publicando e poço cheio não quer dizer canal vivo: em 12 e 13/08 o
     # Palabra Viva Cortes caiu de ~2.700 para ~1.100 views/dia sem nenhum aviso,
-    # e só apareceu porque alguém foi olhar. O histórico já grava views_totais
-    # por medição; a taxa entre duas medições é views/dia, e é isso que se
-    # compara. Só vale com pelo menos 2 medições e 12 h de intervalo.
+    # e só apareceu porque alguém foi olhar.
+    #
+    # A taxa entre duas medições do histórico é views/dia. Comparar as duas
+    # últimas, porém, é ruído puro: a série diária do ES tem dias de 1.025 e de
+    # 3.398 na mesma semana. Então a comparação é de MÉDIA MÓVEL — as 3 taxas
+    # mais recentes contra as 4 anteriores — e só cai para o modo simples
+    # (2 medições) enquanto não houver série suficiente.
     hist = carregar(RAIZ / "conteudo" / "desempenho_historico.json", [])
-    if len(hist) >= 3:
-        atual, anterior, antes = hist[-1], hist[-2], hist[-3]
 
-        def por_dia(depois: dict, antes_: dict, canal: str) -> float | None:
+    def taxas(canal: str) -> list[float]:
+        """views/dia entre medições consecutivas, na ordem da série."""
+        out = []
+        for antes_, depois in zip(hist, hist[1:]):
             a = depois["canais"].get(canal, {}).get("views_totais")
             b = antes_["canais"].get(canal, {}).get("views_totais")
             if a is None or b is None:
-                return None
+                continue
             dias = (datetime.fromisoformat(depois["data"])
                     - datetime.fromisoformat(antes_["data"])).days
-            return (a - b) / dias if dias >= 1 else None
+            if dias >= 1:
+                out.append((a - b) / dias)
+        return out
 
-        for idioma, canal in config.get("canais", {}).items():
-            if not canal.get("ativo"):
-                continue
-            agora_dia = por_dia(atual, anterior, idioma)
-            antes_dia = por_dia(anterior, antes, idioma)
-            if not agora_dia or not antes_dia or antes_dia < 200:
-                continue          # canal pequeno demais: a razão vira ruído
-            queda = 1 - agora_dia / antes_dia
-            if queda >= 0.35:
-                alarmes.append(
-                    f"- **{canal['titulo_canal']}** ({idioma}): audiência caiu "
-                    f"**{queda*100:.0f}%** — de {antes_dia:.0f} para "
-                    f"{agora_dia:.0f} views/dia entre as duas últimas medições. "
-                    f"Não é falha de publicação: o canal está publicando e "
-                    f"sendo menos entregue. Olhar retenção da coorte de 2 a 7 "
-                    f"dias antes de mexer em qualquer coisa.")
-            else:
-                print(f"ok  {idioma}: {agora_dia:.0f} views/dia "
-                      f"({queda*-100:+.0f}% vs. medição anterior)")
+    for idioma, canal in config.get("canais", {}).items():
+        if not canal.get("ativo"):
+            continue
+        série = taxas(idioma)
+        if len(série) >= 7:
+            recente = sum(série[-3:]) / 3
+            base = sum(série[-7:-3]) / 4
+        elif len(série) >= 2:
+            recente, base = série[-1], série[-2]
+        else:
+            continue
+        if base < 200:
+            continue          # canal pequeno demais: a razão vira ruído
+        queda = 1 - recente / base
+        if queda >= 0.35:
+            alarmes.append(
+                f"- **{canal['titulo_canal']}** ({idioma}): audiência caiu "
+                f"**{queda*100:.0f}%** — de {base:.0f} para {recente:.0f} "
+                f"views/dia. Não é falha de publicação: o canal está publicando "
+                f"e sendo menos entregue. Olhar retenção da coorte de 2 a 7 "
+                f"dias antes de mexer em qualquer coisa.")
+        else:
+            print(f"ok  {idioma}: {recente:.0f} views/dia ({queda*-100:+.0f}%)")
 
     if not alarmes:
         print("\nSem alarmes.")
