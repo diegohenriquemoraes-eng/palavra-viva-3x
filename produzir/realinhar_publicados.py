@@ -56,11 +56,27 @@ def metadados(tema: dict, item: str, idioma: str, canal_cfg: dict) -> dict:
                 else canal_cfg.get("afiliado_short")) or ""
     bloco = f"\n\n{afiliado.strip()}" if afiliado.strip() else ""
 
+    # SEO POR TEMA nos vídeos JÁ publicados (15/08/2026). O `fabrica.py` usa
+    # `tags_extra` e `descricao_busca` do poço desde 04/08, mas este script
+    # continuava reescrevendo tudo com as 16 tags fixas do idioma — ou seja,
+    # realinhar um canal APAGAVA o SEO por tema dos longos novos e mantinha os
+    # antigos genéricos. Agora os dois caminhos montam os metadados igual.
+    tags = list(cfg["tags"])
+    busca = ""
+    if item == "longo":
+        longo = tema["longo"]
+        for t in (longo.get("tags_extra") or {}).get(idioma, []):
+            if t not in tags and sum(len(x) + 1 for x in tags) + len(t) < 470:
+                tags.append(t)
+        busca = ((longo.get("descricao_busca") or {}).get(idioma, "") or "").strip()
+
     if item == "longo":
         titulo = tema["longo"]["titulo"][idioma]
         refs = ", ".join(biblia.ref_exibicao(idioma, r)
                          for r in tema["longo"]["refs"])
-        corpo = (f"{titulo}\n\n{cfg['rotulo_capitulos']} {refs}"
+        corpo = (f"{titulo}"
+                 + (f"\n\n{busca}" if busca else "")
+                 + f"\n\n{cfg['rotulo_capitulos']} {refs}"
                  f"{bloco}\n\n{cfg['fonte_texto']}.\n\n{cfg['cta']}\n\n"
                  f"{cfg['hashtags']}")
     else:
@@ -70,7 +86,7 @@ def metadados(tema: dict, item: str, idioma: str, canal_cfg: dict) -> dict:
         ref = biblia.ref_exibicao(idioma, short["ref"])
         corpo = (f"{ref} — {cfg['fonte_texto']}.{bloco}\n\n{cfg['cta']}\n\n"
                  f"{cfg['hashtags']} #Shorts")
-    return {"titulo": titulo, "descricao": corpo, "tags": cfg["tags"]}
+    return {"titulo": titulo, "descricao": corpo, "tags": tags}
 
 
 def main() -> None:
@@ -80,6 +96,12 @@ def main() -> None:
     # por vídeo) em canal que não mudou. Ao trocar a oferta de UM canal, passe
     # o idioma dele.
     ap.add_argument("--canal", choices=sorted(CREDS))
+    # Cota: 50 por vídeo. O ES tem ~86 Shorts + 27 longos publicados; realinhar
+    # tudo custa ~5.650 e estoura o orçamento diário (a publicação já come
+    # ~7.200 de 10.000). O SEO por tema só muda o LONGO — nos Shorts o texto é
+    # o mesmo. Por isso o padrão passou a ser só os longos em 15/08/2026.
+    ap.add_argument("--tudo", action="store_true",
+                    help="realinha também os Shorts (cuidado com a cota)")
     args = ap.parse_args()
 
     state = json.loads(STATE.read_text(encoding="utf-8"))
@@ -96,6 +118,8 @@ def main() -> None:
         print(f"\n=== {canal_cfg['titulo_canal']} ({idioma}) ===")
 
         for p in ec["publicados"]:
+            if not args.tudo and p["item"] != "longo":
+                continue
             tema = tema_por_slug(temas, p["pacote"])
             if not tema:
                 print(f"  {p['video_id']}: tema não encontrado; pulando")
