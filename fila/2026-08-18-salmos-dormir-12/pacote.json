@@ -1,0 +1,203 @@
+{
+  "slug": "salmos-dormir-12",
+  "formato": "dormir",
+  "data": "2026-08-18",
+  "criado_em": "2026-08-16T01:58:55+00:00",
+  "aprovado_em": "2026-08-16T01:58:55+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 1",
+      "Psalms 15",
+      "Psalms 19",
+      "Psalms 24",
+      "Psalms 84",
+      "Psalms 122",
+      "Psalms 128",
+      "Psalms 133"
+    ],
+    "titulo": {
+      "pt": "Salmos para Dormir — Paz Interior | Bíblia Narrada com Voz Calma",
+      "es": "Salmos para Dormir — Paz Interior | Biblia Hablada con Voz Calmada",
+      "en": "Psalms for Sleep — Inner Peace | Audio Bible with a Calm Voice"
+    },
+    "thumb_titulo": {
+      "pt": "SALMOS PARA DORMIR",
+      "es": "SALMOS PARA DORMIR",
+      "en": "PSALMS FOR SLEEP"
+    },
+    "thumb_sub": {
+      "pt": "Salmo 1 • 84 • 133",
+      "es": "Salmo 1 • 84 • 133",
+      "en": "Psalm 1 • 84 • 133"
+    },
+    "abertura": {
+      "es": "Salmos de paz interior. El libro entero abre con dos caminos, en el Salmo 1. El 133 compara la paz con el rocío que baja del monte. El 122 saluda a la ciudad con la palabra shalom. Ocho lecturas cortas para aquietar la casa por dentro.",
+      "pt": "Salmos de paz interior. O livro inteiro abre com dois caminhos, no Salmo 1. O 133 compara a paz com o orvalho que desce do monte. O 122 saúda a cidade com a palavra shalom. Oito leituras curtas para aquietar a casa por dentro."
+    },
+    "tags_extra": {
+      "es": [
+        "paz interior biblia",
+        "salmo 1",
+        "salmo 133",
+        "salmos para dormir",
+        "tranquilidad",
+        "biblia hablada"
+      ],
+      "pt": [
+        "paz interior biblia",
+        "salmo 1",
+        "salmo 133",
+        "salmos para dormir",
+        "tranquilidade",
+        "biblia narrada"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Paz interior: Salmo 1, 15, 19, 24, 84, 122, 128 y 133 en lectura lenta para la noche. Reina-Valera 1909.",
+      "pt": "Paz interior: Salmo 1, 15, 19, 24, 84, 122, 128 e 133 em leitura lenta para a noite. Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20190626_Night_forest_07.jpg/1920px-20190626_Night_forest_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_07.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/20190825_Night_forest_02.jpg/1920px-20190825_Night_forest_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190825_Night_forest_02.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/20190626_Night_forest_05.jpg/1920px-20190626_Night_forest_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_05.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/20190626_Night_forest_03.jpg/1920px-20190626_Night_forest_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_03.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/20190626_Night_forest_04.jpg/1920px-20190626_Night_forest_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergey A. Demidov",
+        "origem": "https://commons.wikimedia.org/wiki/File:20190626_Night_forest_04.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/A_night_view_of_a_lighted_Sri_Mariamman_Temple.jpg/1920px-A_night_view_of_a_lighted_Sri_Mariamman_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Allie_Caulfield from Germany",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_night_view_of_a_lighted_Sri_Mariamman_Temple.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 1:1-3",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 1 — Como a árvore plantada junto ao rio | Bíblia",
+        "es": "Salmo 1 — Como árbol plantado junto a las aguas | Biblia",
+        "en": "Psalm 1 — Like a Tree Planted by the Water | Bible"
+      },
+      "aplicacao": {
+        "es": "Abre todo el libro de los Salmos, con dos caminos contrastados.",
+        "pt": "Abre todo o livro dos Salmos, com dois caminhos contrastados."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fireworks_Waltham_Forest_Town_Hall_Bonfire_Night_2010.jpg/1920px-Fireworks_Waltham_Forest_Town_Hall_Bonfire_Night_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "William Warby",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireworks_Waltham_Forest_Town_Hall_Bonfire_Night_2010.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Psalms 133:1",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 133 — Quão bom é habitarem unidos os irmãos | Bíblia",
+        "es": "Salmo 133 — Cuán bueno es habitar los hermanos juntos | Biblia",
+        "en": "Psalm 133 — How Good It Is to Dwell in Unity | Bible"
+      },
+      "aplicacao": {
+        "es": "Cántico de las subidas: compara la unidad con el aceite y el rocío.",
+        "pt": "Cântico das subidas: compara a união ao óleo e ao orvalho."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 84:1-2",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 84 — Quão amáveis são os teus tabernáculos | Bíblia",
+        "es": "Salmo 84 — Cuán amables son tus moradas | Biblia",
+        "en": "Psalm 84 — How Lovely Is Your Dwelling Place | Bible"
+      },
+      "aplicacao": {
+        "es": "Escrito por quien está lejos del templo y lo echa de menos.",
+        "pt": "Escrito por quem está longe do templo e sente falta dele."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/A_night_view_of_a_lighted_Sri_Mariamman_Temple.jpg/1920px-A_night_view_of_a_lighted_Sri_Mariamman_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Allie_Caulfield from Germany",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_night_view_of_a_lighted_Sri_Mariamman_Temple.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Psalms 19:1",
+      "tipo": "promesa",
+      "titulo": {
+        "pt": "Salmo 19:1 — Os céus proclamam a glória de Deus | Bíblia",
+        "es": "Salmo 19:1 — Los cielos cuentan la gloria de Dios | Biblia",
+        "en": "Psalm 19:1 — The Heavens Declare the Glory of God | Bible"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Desert_Twilight_%288742568551%29.jpg/1920px-Desert_Twilight_%288742568551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rennett Stowe from USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Twilight_(8742568551).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
