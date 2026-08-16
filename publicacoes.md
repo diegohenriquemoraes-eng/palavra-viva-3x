@@ -2302,3 +2302,27 @@
 - Item: longo — Salmo 23:1-6
 - Duração: 717.4s
 - Publicado em: 2026-08-16T00:50:12+00:00
+
+## [es] ydJ9d7Y-xS4 — Salmo 23 - En lugares de delicados pastos | Biblia en espanol
+
+- URL: https://youtu.be/ydJ9d7Y-xS4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 23:1-3
+- Duração: 25.1s
+- Publicado em: 2026-08-16T02:17:26+00:00
+
+## [pt] 0BODiyDf_cI — Salmo 23 Completo - O Senhor e o meu Pastor | Biblia narrada
+
+- URL: https://youtu.be/0BODiyDf_cI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 23:1-6
+- Duração: 713.2s
+- Publicado em: 2026-08-16T02:24:17+00:00
+
+## [stoic] F4V9ttFEsWM — Enséñales o sopórtalos
+
+- URL: https://youtu.be/F4V9ttFEsWM
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 8:70
+- Duração: 21.6s
+- Publicado em: 2026-08-16T02:25:28+00:00
