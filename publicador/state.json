@@ -799,12 +799,19 @@
           "video_id": "j_BDsyzxl8Q",
           "titulo": "Salmo 23 - Aunque ande en valle de sombra de muerte | Biblia",
           "em": "2026-08-16T09:19:21+00:00"
+        },
+        {
+          "pacote": "2026-08-16-salmo-23-pastor",
+          "item": "short-3",
+          "video_id": "TZ0V2J-Ya2M",
+          "titulo": "Juan 10 - Yo soy el buen pastor | Biblia en espanol",
+          "em": "2026-08-16T17:12:48+00:00"
         }
       ],
-      "ultimo_short": "2026-08-16T09:19:21+00:00",
+      "ultimo_short": "2026-08-16T17:12:48+00:00",
       "shorts_dia": {
         "data": "2026-08-16",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-16"
     },

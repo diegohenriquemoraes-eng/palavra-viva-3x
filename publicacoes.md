@@ -2342,3 +2342,11 @@
 - Item: short-2 — Salmo 23:4
 - Duração: 19.1s
 - Publicado em: 2026-08-16T09:19:21+00:00
+
+## [es] TZ0V2J-Ya2M — Juan 10 - Yo soy el buen pastor | Biblia en espanol
+
+- URL: https://youtu.be/TZ0V2J-Ya2M
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Juan 10:11
+- Duração: 15.0s
+- Publicado em: 2026-08-16T17:12:48+00:00
