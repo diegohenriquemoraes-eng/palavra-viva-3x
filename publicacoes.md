@@ -2294,3 +2294,11 @@
 - Item: short-3 — Salmo 116:7
 - Duração: 14.8s
 - Publicado em: 2026-08-15T18:15:49+00:00
+
+## [es] QYxbInzq38o — Salmo 23 Completo - Jehova es mi Pastor | Biblia en espanol
+
+- URL: https://youtu.be/QYxbInzq38o
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 23:1-6
+- Duração: 717.4s
+- Publicado em: 2026-08-16T00:50:12+00:00
