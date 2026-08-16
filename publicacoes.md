@@ -2326,3 +2326,11 @@
 - Item: short-1 — Meditaciones 8:70
 - Duração: 21.6s
 - Publicado em: 2026-08-16T02:25:28+00:00
+
+## [pt] R32UpvAGd-w — Salmo 23 - Em verdes pastos me faz repousar | Biblia narrada
+
+- URL: https://youtu.be/R32UpvAGd-w
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 23:1-2
+- Duração: 19.2s
+- Publicado em: 2026-08-16T03:41:05+00:00
