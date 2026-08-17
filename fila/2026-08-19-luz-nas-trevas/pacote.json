@@ -1,0 +1,196 @@
+{
+  "slug": "luz-nas-trevas",
+  "formato": "tema",
+  "data": "2026-08-19",
+  "criado_em": "2026-08-17T01:56:17+00:00",
+  "aprovado_em": "2026-08-17T01:56:17+00:00",
+  "longo": {
+    "refs": [
+      "John 1:1-14"
+    ],
+    "titulo": {
+      "es": "La Luz en las Tinieblas - Juan 1 | Biblia en espanol",
+      "en": "The Light in Darkness - John 1 | Bible",
+      "pt": "A Luz nas Trevas - Joao 1 | Biblia narrada"
+    },
+    "thumb_titulo": {
+      "es": "LA LUZ RESPLANDECE",
+      "en": "THE LIGHT SHINETH",
+      "pt": "A LUZ RESPLANDECE"
+    },
+    "thumb_sub": {
+      "es": "Juan 1",
+      "en": "John 1",
+      "pt": "Joao 1"
+    },
+    "abertura": {
+      "es": "Juan uno empieza con las mismas tres palabras que abren el Génesis: en el principio. Habla del Verbo, de la vida y de una luz que las tinieblas no vencieron. Escucha el prólogo entero, verso a verso.",
+      "pt": "João um começa com as mesmas três palavras que abrem o Gênesis: no princípio. Fala do Verbo, da vida e de uma luz que as trevas não venceram. Ouça o prólogo inteiro, verso a verso."
+    },
+    "tags_extra": {
+      "es": [
+        "juan 1",
+        "en el principio era el verbo",
+        "la luz en las tinieblas",
+        "evangelio de juan",
+        "biblia hablada",
+        "yo soy la luz del mundo"
+      ],
+      "pt": [
+        "joao 1",
+        "no principio era o verbo",
+        "a luz nas trevas",
+        "evangelho de joao",
+        "biblia narrada",
+        "eu sou a luz do mundo"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Juan 1:1-14: en el principio era el Verbo, y la luz en las tinieblas resplandece. Con Juan 8:12 y Salmo 119:105. Lectura pausada, Reina-Valera 1909.",
+      "pt": "João 1:1-14: no princípio era o Verbo, e a luz resplandece nas trevas. Com João 8:12 e Salmo 119:105. Leitura pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p02.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2122_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p01.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2122_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p03.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p03.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p02.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dawn-landscape-mountains-forest_%2824031322510%29.jpg/1920px-Dawn-landscape-mountains-forest_%2824031322510%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "www.Pixel.la Free Stock Photos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn-landscape-mountains-forest_(24031322510).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/January_1st_dawn_2024_-_Antigua_Guatemala_-_Mountains.jpg/1920px-January_1st_dawn_2024_-_Antigua_Guatemala_-_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Erik Cleves Kristensen",
+        "origem": "https://commons.wikimedia.org/wiki/File:January_1st_dawn_2024_-_Antigua_Guatemala_-_Mountains.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dawn-landscape-mountains-nature-2_%2824244339191%29.jpg/1920px-Dawn-landscape-mountains-nature-2_%2824244339191%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "www.Pixel.la Free Stock Photos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn-landscape-mountains-nature-2_(24244339191).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dawn-landscape-mountains-nature_%2824244127561%29.jpg/1920px-Dawn-landscape-mountains-nature_%2824244127561%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "www.Pixel.la Free Stock Photos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn-landscape-mountains-nature_(24244127561).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dawn_On_The_Mountain_%28241526467%29.jpeg/1920px-Dawn_On_The_Mountain_%28241526467%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Soibien032016",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn_On_The_Mountain_(241526467).jpeg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "John 1:1-5",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Juan 1 - La luz en las tinieblas resplandece | Biblia",
+        "en": "John 1 - The Light Shineth in Darkness | Bible",
+        "pt": "Joao 1 - A luz resplandece nas trevas | Biblia narrada"
+      },
+      "aplicacao": {
+        "es": "El texto empieza con las mismas tres palabras que abren el Genesis.",
+        "pt": "O texto comeca com as mesmas tres palavras que abrem o Genesis."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "John 8:12",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 8:12 - Yo soy la luz del mundo | Biblia en espanol",
+        "en": "John 8:12 - I Am the Light of the World | Bible",
+        "pt": "Joao 8:12 - Eu sou a luz do mundo | Biblia narrada"
+      },
+      "aplicacao": {
+        "es": "Dicho en el templo, durante una fiesta en que se encendian lamparas.",
+        "pt": "Dito no templo, durante uma festa em que se acendiam lampadas."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lamp_handle_with_figures_of_Isis_and_Demeter%2C_kaolinitic_clay_-_Museo_Egizio_%28Turin%29_P_191_p01.jpg/1920px-Lamp_handle_with_figures_of_Isis_and_Demeter%2C_kaolinitic_clay_-_Museo_Egizio_%28Turin%29_P_191_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_handle_with_figures_of_Isis_and_Demeter,_kaolinitic_clay_-_Museo_Egizio_(Turin)_P_191_p01.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 119:105",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 119:105 - Lampara es a mis pies tu palabra | Biblia",
+        "en": "Psalm 119:105 - Thy Word Is a Lamp Unto My Feet | Bible",
+        "pt": "Salmo 119:105 - Lampada para os meus pes e a tua palavra | Biblia"
+      },
+      "aplicacao": {
+        "es": "Pertenece al salmo mas largo del libro, dividido por letras del alfabeto.",
+        "pt": "Pertence ao salmo mais longo do livro, dividido por letras do alfabeto."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Forest_path.jpg/1920px-Forest_path.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_path.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "I John 1:5-7",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "1 Juan 1 - Dios es luz, y no hay ningunas tinieblas en el",
+        "en": "1 John 1 - God Is Light, and in Him Is No Darkness | Bible",
+        "pt": "1 Joao 1 - Deus e luz, e nao ha nele treva nenhuma"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dawn_in_the_Carpathian_Mountains.jpg/1920px-Dawn_in_the_Carpathian_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Danyil Solovchuk",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn_in_the_Carpathian_Mountains.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
