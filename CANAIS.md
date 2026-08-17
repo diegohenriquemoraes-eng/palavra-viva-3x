@@ -1,4 +1,4 @@
-# Canais — painel único, estado em 15/08/2026
+# Canais — painel único, estado em 17/08/2026
 
 > Ponto de partida de qualquer sessão sobre canais. Este arquivo diz **o que está no ar, onde
 > mora e o que está esperando decisão**. O detalhe técnico de cada motor está no `CLAUDE.md`
@@ -27,6 +27,24 @@
 | **El Poder Crudo** `@ElPoderCrudo` | 15/08 | 12 dias, 4 inscritos, mediana 74 contra régua de 300. Canal e vídeos ficam no ar. **Não reativar o formato Maquiavel.** |
 | **Corte em Pauta** (cortes do Flow) | 18/07 | Encerrado. O canal virou o Living Word Daily; a pasta é arquivo morto, mas as credenciais em `youtube-api/` seguem em uso como os secrets `YT_*_EN`. |
 | **Palabra-Viva** (repo antigo) | 19/07 | Aposentado. O canal é abastecido pelo 3x; a pasta guarda as credenciais `YT_*_ES`. |
+
+## O que está pedindo mão em 17/08
+
+1. **Poço de temas: 4 dias.** `conteudo/temas.json` tem 36 temas e 4 livres; quando zerar, os
+   **três** canais bíblicos param juntos (o poço é compartilhado). Repor é escrita: 1 longo +
+   4 Shorts, títulos nos 3 idiomas, consultas de imagem em inglês, validar com
+   `python produzir/reabastecer.py --dry-run`. Alarme aberto na issue #17.
+2. **pt continua caindo** — mediana da coorte 2-7 d: 41 (10/08) → 15 (17/08), 74 inscritos.
+   O corte para 1 Short/dia foi em 15/08 e ainda não teve tempo de aparecer. Régua: 15/09.
+
+Medição de 17/08 (coorte 2-7 dias, `conteudo/desempenho_historico.json`):
+
+| canal | mediana | inscritos | views totais |
+|---|---|---|---|
+| es (Palabra Viva Cortes) | **573** | 289 | 73.100 |
+| stoic (La Noche Estoica) | **644** | 24 | 12.270 |
+| pt (Palavra Viva Diária) | 15 | 74 | 8.138 |
+| astucia (Astucia Fría) | 8 ⚠ formato novo desde 15/08 | 4 | 652 |
 
 ## O corte de 15/08 — a medição que mandou
 
