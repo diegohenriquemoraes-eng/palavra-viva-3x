@@ -2366,3 +2366,27 @@
 - Item: short-1 — Êxodo 14:13
 - Duração: 24.1s
 - Publicado em: 2026-08-17T00:44:51+00:00
+
+## [es] cruUJjO836U — Exodo 14 - Jehova peleara por vosotros | Biblia en espanol
+
+- URL: https://youtu.be/cruUJjO836U
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Éxodo 14:13
+- Duração: 23.7s
+- Publicado em: 2026-08-17T02:15:42+00:00
+
+## [pt] 6jMaUVN4bL8 — Moises e o Mar Vermelho - Exodo 14 | Historia biblica narrada
+
+- URL: https://youtu.be/6jMaUVN4bL8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Êxodo 14:10-31
+- Duração: 313.8s
+- Publicado em: 2026-08-17T02:19:20+00:00
+
+## [stoic] rGVFPHDOMP4 — El único daño real que puedes sufrir
+
+- URL: https://youtu.be/rGVFPHDOMP4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 4:17
+- Duração: 22.4s
+- Publicado em: 2026-08-17T02:20:32+00:00
