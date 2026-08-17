@@ -806,6 +806,13 @@
           "video_id": "TZ0V2J-Ya2M",
           "titulo": "Juan 10 - Yo soy el buen pastor | Biblia en espanol",
           "em": "2026-08-16T17:12:48+00:00"
+        },
+        {
+          "pacote": "2026-08-17-moises-mar-vermelho",
+          "item": "longo",
+          "video_id": "Vi6T_R_18lQ",
+          "titulo": "Moises y el Mar Rojo - Exodo 14 | Historia biblica narrada",
+          "em": "2026-08-17T00:43:40+00:00"
         }
       ],
       "ultimo_short": "2026-08-16T17:12:48+00:00",
@@ -813,7 +820,7 @@
         "data": "2026-08-16",
         "n": 3
       },
-      "longo_data": "2026-08-16"
+      "longo_data": "2026-08-17"
     },
     "en": {
       "publicados": [
@@ -1778,11 +1785,18 @@
           "video_id": "R32UpvAGd-w",
           "titulo": "Salmo 23 - Em verdes pastos me faz repousar | Biblia narrada",
           "em": "2026-08-16T03:41:05+00:00"
+        },
+        {
+          "pacote": "2026-08-17-moises-mar-vermelho",
+          "item": "short-1",
+          "video_id": "SYMzAJmJbuo",
+          "titulo": "Exodo 14 - O Senhor pelejara por vos | Biblia narrada",
+          "em": "2026-08-17T00:44:51+00:00"
         }
       ],
-      "ultimo_short": "2026-08-16T03:41:05+00:00",
+      "ultimo_short": "2026-08-17T00:44:51+00:00",
       "shorts_dia": {
-        "data": "2026-08-16",
+        "data": "2026-08-17",
         "n": 1
       },
       "longo_data": "2026-08-16"

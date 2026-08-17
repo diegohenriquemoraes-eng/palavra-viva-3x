@@ -2350,3 +2350,19 @@
 - Item: short-3 — Juan 10:11
 - Duração: 15.0s
 - Publicado em: 2026-08-16T17:12:48+00:00
+
+## [es] Vi6T_R_18lQ — Moises y el Mar Rojo - Exodo 14 | Historia biblica narrada
+
+- URL: https://youtu.be/Vi6T_R_18lQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Éxodo 14:10-31
+- Duração: 318.4s
+- Publicado em: 2026-08-17T00:43:40+00:00
+
+## [pt] SYMzAJmJbuo — Exodo 14 - O Senhor pelejara por vos | Biblia narrada
+
+- URL: https://youtu.be/SYMzAJmJbuo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Êxodo 14:13
+- Duração: 24.1s
+- Publicado em: 2026-08-17T00:44:51+00:00
