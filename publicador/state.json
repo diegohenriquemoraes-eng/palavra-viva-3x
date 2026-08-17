@@ -820,12 +820,19 @@
           "video_id": "cruUJjO836U",
           "titulo": "Exodo 14 - Jehova peleara por vosotros | Biblia en espanol",
           "em": "2026-08-17T02:15:42+00:00"
+        },
+        {
+          "pacote": "2026-08-17-moises-mar-vermelho",
+          "item": "short-2",
+          "video_id": "FmcMOLi0ryA",
+          "titulo": "Exodo 14 - El mar se dividio | Historia biblica",
+          "em": "2026-08-17T09:32:00+00:00"
         }
       ],
-      "ultimo_short": "2026-08-17T02:15:42+00:00",
+      "ultimo_short": "2026-08-17T09:32:00+00:00",
       "shorts_dia": {
         "data": "2026-08-17",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-17"
     },

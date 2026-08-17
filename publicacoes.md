@@ -2390,3 +2390,11 @@
 - Item: short-1 — Meditaciones 4:17
 - Duração: 22.4s
 - Publicado em: 2026-08-17T02:20:32+00:00
+
+## [es] FmcMOLi0ryA — Exodo 14 - El mar se dividio | Historia biblica
+
+- URL: https://youtu.be/FmcMOLi0ryA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Éxodo 14:21
+- Duração: 21.6s
+- Publicado em: 2026-08-17T09:32:00+00:00
