@@ -30,10 +30,14 @@
 
 ## O que está pedindo mão em 17/08
 
-1. **Poço de temas: 4 dias.** `conteudo/temas.json` tem 36 temas e 4 livres; quando zerar, os
-   **três** canais bíblicos param juntos (o poço é compartilhado). Repor é escrita: 1 longo +
-   4 Shorts, títulos nos 3 idiomas, consultas de imagem em inglês, validar com
-   `python produzir/reabastecer.py --dry-run`. Alarme aberto na issue #17.
+1. ~~Poço de temas: 4 dias.~~ **Reposto em 17/08**: +10 temas (46 no total, 14 livres = 14
+   dias). Os novos: `salmos-dormir-14` a `-17`, `jonas-peixe`, `bom-samaritano`,
+   `ester-rainha`, `paulo-silas-prisao`, `cura-e-consolo`, `trabalho-e-proposito`.
+   ⚠ O poço é **compartilhado**: quando ele zera, os **três** canais bíblicos param juntos.
+   Repor é escrita — 1 longo + 4 Shorts, títulos nos 3 idiomas, consultas de imagem em pares
+   concretos de 2 palavras —, e valida com `python produzir/reabastecer.py --dry-run --dias 12`
+   (o `--dias` é o que força a validação dos temas novos; sem ele a fila diz "saudável" e não
+   valida nada).
 2. **pt continua caindo** — mediana da coorte 2-7 d: 41 (10/08) → 15 (17/08), 74 inscritos.
    O corte para 1 Short/dia foi em 15/08 e ainda não teve tempo de aparecer. Régua: 15/09.
 

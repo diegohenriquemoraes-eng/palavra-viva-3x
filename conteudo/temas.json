@@ -4065,5 +4065,1125 @@
     }
    }
   ]
+ },
+ {
+  "slug": "salmos-dormir-14",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Psalms 33",
+    "Psalms 65",
+    "Psalms 67",
+    "Psalms 85",
+    "Psalms 123",
+    "Psalms 126",
+    "Psalms 134",
+    "Psalms 141"
+   ],
+   "titulo": {
+    "es": "Salmos para Dormir — Ocho Salmos de Descanso | Biblia Hablada con Voz Calmada",
+    "en": "Psalms for Sleep — Eight Psalms of Rest | Calm Bible Reading",
+    "pt": "Salmos para Dormir — Oito Salmos de Descanso | Bíblia Narrada com Voz Calma"
+   },
+   "thumb_titulo": {
+    "es": "OCHO SALMOS",
+    "en": "EIGHT PSALMS",
+    "pt": "OITO SALMOS"
+   },
+   "thumb_sub": {
+    "es": "Salmos 33, 134 y 141",
+    "en": "Psalms 33, 134 and 141",
+    "pt": "Salmos 33, 134 e 141"
+   },
+   "consultas_imagens": [
+    "moon clouds",
+    "starry sky",
+    "calm water moon"
+   ],
+   "abertura": {
+    "es": "Ocho salmos leídos despacio, para escuchar acostado: treinta y tres, sesenta y cinco, sesenta y siete, ochenta y cinco, ciento veintitrés, ciento veintiséis, ciento treinta y cuatro y ciento cuarenta y uno. El ciento treinta y cuatro es el cántico de los que sirven de noche en la casa de Jehová; el ciento cuarenta y uno pide que la oración suba como el incienso, a la hora del sacrificio de la tarde. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+    "pt": "Oito salmos lidos devagar, para ouvir deitado: trinta e três, sessenta e cinco, sessenta e sete, oitenta e cinco, cento e vinte e três, cento e vinte e seis, cento e trinta e quatro e cento e quarenta e um. O cento e trinta e quatro é o cântico dos que servem de noite na casa do Senhor; o cento e quarenta e um pede que a oração suba como incenso, na hora do sacrifício da tarde. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+   },
+   "tags_extra": {
+    "es": [
+     "salmos para dormir",
+     "salmo 134",
+     "salmo 141",
+     "biblia hablada para dormir",
+     "salmos de noche",
+     "salmos de descanso"
+    ],
+    "pt": [
+     "salmos para dormir",
+     "salmo 134",
+     "salmo 141",
+     "biblia narrada para dormir",
+     "salmos da noite",
+     "salmos de descanso"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Ocho salmos seguidos para dormir: 33, 65, 67, 85, 123, 126, 134 y 141. Lectura pausada, sin música alta, Reina-Valera 1909.",
+    "pt": "Oito salmos seguidos para dormir: 33, 65, 67, 85, 123, 126, 134 e 141. Leitura pausada, sem música alta, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Psalms 134:1-3",
+    "tipo": "descriptivo",
+    "consulta_imagem": "starry sky",
+    "titulo": {
+     "es": "Salmo 134 — Los que de noche estáis en la casa | Biblia",
+     "en": "Psalm 134 — Ye That by Night Stand in the House | Bible",
+     "pt": "Salmo 134 — Vós que de noite estais na casa | Bíblia"
+    },
+    "aplicacao": {
+     "es": "Es el salmo más corto de los cánticos graduales: tres versos.",
+     "pt": "É o mais curto dos cânticos graduais: três versos."
+    }
+   },
+   {
+    "ref": "Psalms 141:1-2",
+    "tipo": "descriptivo",
+    "consulta_imagem": "moon clouds",
+    "titulo": {
+     "es": "Salmo 141 — Suba mi oración como el incienso | Biblia",
+     "en": "Psalm 141 — Let My Prayer Be Set Forth as Incense | Bible",
+     "pt": "Salmo 141 — Suba a minha oração como incenso | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El verso marca la hora: el sacrificio de la tarde.",
+     "pt": "O verso marca a hora: o sacrifício da tarde."
+    }
+   },
+   {
+    "ref": "Psalms 126:5-6",
+    "tipo": "promesa",
+    "consulta_imagem": "wheat field",
+    "titulo": {
+     "es": "Salmo 126 — Los que sembraron con lágrimas | Biblia",
+     "en": "Psalm 126 — They That Sow in Tears | Bible",
+     "pt": "Salmo 126 — Os que semeiam com lágrimas | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El salmo cierra con la siega, no con la siembra.",
+     "pt": "O salmo termina na colheita, não na semeadura."
+    }
+   },
+   {
+    "ref": "Psalms 33:20-22",
+    "tipo": "promesa",
+    "consulta_imagem": "calm water moon",
+    "titulo": {
+     "es": "Salmo 33 — Nuestra alma esperó a Jehová | Biblia",
+     "en": "Psalm 33 — Our Soul Waiteth for the Lord | Bible",
+     "pt": "Salmo 33 — A nossa alma espera no Senhor | Bíblia"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "jonas-peixe",
+  "formato": "historia",
+  "longo": {
+   "refs": [
+    "Jonah 1:1-16",
+    "Jonah 2:1-10"
+   ],
+   "titulo": {
+    "es": "Jonás y el Gran Pez — Jonás 1 y 2 | Historia bíblica narrada",
+    "en": "Jonah and the Great Fish — Jonah 1 and 2 | Bible Story",
+    "pt": "Jonas e o Grande Peixe — Jonas 1 e 2 | História bíblica narrada"
+   },
+   "thumb_titulo": {
+    "es": "EN EL VIENTRE DEL PEZ",
+    "en": "IN THE FISH",
+    "pt": "NO VENTRE DO PEIXE"
+   },
+   "thumb_sub": {
+    "es": "Jonás 1 y 2",
+    "en": "Jonah 1-2",
+    "pt": "Jonas 1 e 2"
+   },
+   "consultas_imagens": [
+    "sea night",
+    "wooden boat",
+    "storm clouds"
+   ],
+   "abertura": {
+    "es": "Jonás, capítulos uno y dos. Un profeta recibe una orden para la ciudad de Nínive y toma un barco en dirección contraria, a Tarsis. Viene la tempestad, los marineros echan suertes, y el relato registra lo que él mismo les dice: tomadme y echadme al mar. Del vientre del pez sale una oración, y el capítulo dos es esa oración entera, del principio al fin. Escucha el relato completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+    "pt": "Jonas, capítulos um e dois. Um profeta recebe uma ordem para a cidade de Nínive e toma um navio no sentido contrário, para Társis. Vem a tempestade, os marinheiros lançam sortes, e o relato registra o que ele mesmo lhes diz: tomai-me e lançai-me ao mar. Do ventre do peixe sai uma oração, e o capítulo dois é essa oração inteira, do começo ao fim. Ouça o relato completo, na Bíblia Livre."
+   },
+   "tags_extra": {
+    "es": [
+     "jonas y el gran pez",
+     "jonas 1",
+     "jonas 2",
+     "historia biblica",
+     "profeta jonas",
+     "historias de la biblia narradas"
+    ],
+    "pt": [
+     "jonas e o grande peixe",
+     "jonas 1",
+     "jonas 2",
+     "historia biblica",
+     "profeta jonas",
+     "historias da biblia narradas"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Jonás 1 y 2: la huida a Tarsis, la tempestad, el gran pez y la oración desde el vientre. Narración completa y pausada, Reina-Valera 1909.",
+    "pt": "Jonas 1 e 2: a fuga para Társis, a tempestade, o grande peixe e a oração de dentro do ventre. Narração completa e pausada, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Jonah 1:3",
+    "tipo": "conflicto",
+    "consulta_imagem": "wooden boat",
+    "titulo": {
+     "es": "Jonás 1 — Se levantó para huir a Tarsis | Historia bíblica",
+     "en": "Jonah 1 — He Rose Up to Flee to Tarshish | Bible Story",
+     "pt": "Jonas 1 — Levantou-se para fugir para Társis | História bíblica"
+    },
+    "aplicacao": {
+     "es": "El verso repite dos veces la misma expresión: de delante de Jehová.",
+     "pt": "O verso repete duas vezes a mesma expressão: de diante do Senhor."
+    }
+   },
+   {
+    "ref": "Jonah 1:12",
+    "tipo": "conflicto",
+    "consulta_imagem": "storm clouds",
+    "titulo": {
+     "es": "Jonás 1 — Tomadme y echadme al mar | Historia bíblica",
+     "en": "Jonah 1 — Take Me Up and Cast Me Into the Sea | Bible Story",
+     "pt": "Jonas 1 — Tomai-me e lançai-me ao mar | História bíblica"
+    },
+    "aplicacao": {
+     "es": "Quien propone la solución es el propio Jonás, no los marineros.",
+     "pt": "Quem propõe a solução é o próprio Jonas, não os marinheiros."
+    }
+   },
+   {
+    "ref": "Jonah 2:2",
+    "tipo": "descriptivo",
+    "consulta_imagem": "sea night",
+    "titulo": {
+     "es": "Jonás 2 — Clamé desde el seno del Seol | Historia bíblica",
+     "en": "Jonah 2 — Out of the Belly of Hell I Cried | Bible Story",
+     "pt": "Jonas 2 — Do ventre do Seol clamei | História bíblica"
+    },
+    "aplicacao": {
+     "es": "Es el primer verso de la oración hecha dentro del pez.",
+     "pt": "É o primeiro verso da oração feita dentro do peixe."
+    }
+   },
+   {
+    "ref": "Jonah 2:9",
+    "tipo": "promesa",
+    "consulta_imagem": "ocean waves",
+    "titulo": {
+     "es": "Jonás 2 — La salvación es de Jehová | Historia bíblica",
+     "en": "Jonah 2 — Salvation Is of the Lord | Bible Story",
+     "pt": "Jonas 2 — Ao Senhor pertence a salvação | História bíblica"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "salmos-dormir-15",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Psalms 30",
+    "Psalms 107",
+    "Psalms 108",
+    "Psalms 117",
+    "Psalms 124",
+    "Psalms 135",
+    "Psalms 136",
+    "Psalms 144"
+   ],
+   "titulo": {
+    "es": "Salmos para Dormir — El Llanto Dura una Noche | Biblia Hablada con Voz Calmada",
+    "en": "Psalms for Sleep — Weeping May Endure for a Night | Calm Bible Reading",
+    "pt": "Salmos para Dormir — O Choro Dura uma Noite | Bíblia Narrada com Voz Calma"
+   },
+   "thumb_titulo": {
+    "es": "DURA UNA NOCHE",
+    "en": "BUT FOR A NIGHT",
+    "pt": "DURA UMA NOITE"
+   },
+   "thumb_sub": {
+    "es": "Salmos 30, 107 y 136",
+    "en": "Psalms 30, 107 and 136",
+    "pt": "Salmos 30, 107 e 136"
+   },
+   "consultas_imagens": [
+    "moonlight sea",
+    "night sky",
+    "moon lake"
+   ],
+   "abertura": {
+    "es": "Ocho salmos seguidos, leídos despacio para la noche: treinta, ciento siete, ciento ocho, ciento diecisiete, ciento veinticuatro, ciento treinta y cinco, ciento treinta y seis y ciento cuarenta y cuatro. El treinta trae la frase que da nombre a esta lectura: por la noche durará el lloro, y a la mañana vendrá la alegría. El ciento diecisiete es el salmo más corto de todo el libro, dos versos. El ciento treinta y seis repite la misma línea veintiséis veces, y ese ritmo es el que acompaña hasta el sueño.",
+    "pt": "Oito salmos seguidos, lidos devagar para a noite: trinta, cento e sete, cento e oito, cento e dezessete, cento e vinte e quatro, cento e trinta e cinco, cento e trinta e seis e cento e quarenta e quatro. O trinta traz a frase que dá nome a esta leitura: o choro pode durar uma noite, mas a alegria vem pela manhã. O cento e dezessete é o menor salmo de todo o livro, dois versos. O cento e trinta e seis repete a mesma linha vinte e seis vezes, e é esse ritmo que acompanha até o sono."
+   },
+   "tags_extra": {
+    "es": [
+     "salmos para dormir",
+     "salmo 30",
+     "salmo 136",
+     "biblia hablada para dormir",
+     "salmos de noche",
+     "por la noche durara el lloro"
+    ],
+    "pt": [
+     "salmos para dormir",
+     "salmo 30",
+     "salmo 136",
+     "biblia narrada para dormir",
+     "salmos da noite",
+     "o choro dura uma noite"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Ocho salmos seguidos para dormir: 30, 107, 108, 117, 124, 135, 136 y 144. Lectura pausada, sin música alta, Reina-Valera 1909.",
+    "pt": "Oito salmos seguidos para dormir: 30, 107, 108, 117, 124, 135, 136 e 144. Leitura pausada, sem música alta, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Psalms 30:5",
+    "tipo": "promesa",
+    "consulta_imagem": "moon lake",
+    "titulo": {
+     "es": "Salmo 30 — Por la noche durará el lloro | Biblia",
+     "en": "Psalm 30 — Weeping May Endure for a Night | Bible",
+     "pt": "Salmo 30 — O choro dura uma noite | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El verso pone lado a lado dos plazos: un momento y toda la vida.",
+     "pt": "O verso põe lado a lado dois prazos: um momento e a vida inteira."
+    }
+   },
+   {
+    "ref": "Psalms 107:28-30",
+    "tipo": "descriptivo",
+    "consulta_imagem": "moonlight sea",
+    "titulo": {
+     "es": "Salmo 107 — Y los guía al puerto que deseaban | Biblia",
+     "en": "Psalm 107 — He Bringeth Them Unto Their Desired Haven | Bible",
+     "pt": "Salmo 107 — E os leva ao porto desejado | Bíblia"
+    },
+    "aplicacao": {
+     "es": "Es una de las cuatro escenas del salmo: el desierto, la prisión, la enfermedad y el mar.",
+     "pt": "É uma das quatro cenas do salmo: o deserto, a prisão, a doença e o mar."
+    }
+   },
+   {
+    "ref": "Psalms 117:1-2",
+    "tipo": "descriptivo",
+    "consulta_imagem": "night sky",
+    "titulo": {
+     "es": "Salmo 117 — El salmo más corto de la Biblia | Biblia",
+     "en": "Psalm 117 — The Shortest Psalm in the Bible | Bible",
+     "pt": "Salmo 117 — O menor salmo da Bíblia | Bíblia"
+    },
+    "aplicacao": {
+     "es": "Son dos versos, el salmo entero cabe en un Short.",
+     "pt": "São dois versos: o salmo inteiro cabe num Short."
+    }
+   },
+   {
+    "ref": "Psalms 124:8",
+    "tipo": "promesa",
+    "consulta_imagem": "starry sky",
+    "titulo": {
+     "es": "Salmo 124 — Nuestro socorro está en el nombre | Biblia",
+     "en": "Psalm 124 — Our Help Is in the Name of the Lord | Bible",
+     "pt": "Salmo 124 — O nosso socorro está no nome | Bíblia"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "bom-samaritano",
+  "formato": "historia",
+  "longo": {
+   "refs": [
+    "Luke 10:25-37"
+   ],
+   "titulo": {
+    "es": "El Buen Samaritano — Lucas 10 | Historia bíblica narrada",
+    "en": "The Good Samaritan — Luke 10 | Bible Story",
+    "pt": "O Bom Samaritano — Lucas 10 | História bíblica narrada"
+   },
+   "thumb_titulo": {
+    "es": "EL BUEN SAMARITANO",
+    "en": "THE GOOD SAMARITAN",
+    "pt": "O BOM SAMARITANO"
+   },
+   "thumb_sub": {
+    "es": "Lucas 10",
+    "en": "Luke 10",
+    "pt": "Lucas 10"
+   },
+   "consultas_imagens": [
+    "road horizon",
+    "desert canyon",
+    "clay lamp"
+   ],
+   "abertura": {
+    "es": "Lucas, capítulo diez. Un intérprete de la ley hace una pregunta, y de la respuesta nace uno de los relatos más conocidos del Evangelio: el camino de Jerusalén a Jericó, el hombre herido, el sacerdote y el levita que pasaron de largo, y el samaritano que se detuvo. El texto anota los detalles del cuidado: el aceite, el vino, la bestia, el mesón y los dos denarios. Escucha el pasaje completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+    "pt": "Lucas, capítulo dez. Um intérprete da lei faz uma pergunta, e da resposta nasce um dos relatos mais conhecidos do Evangelho: o caminho de Jerusalém a Jericó, o homem ferido, o sacerdote e o levita que passaram de largo, e o samaritano que parou. O texto anota os detalhes do cuidado: o azeite, o vinho, o animal, a hospedaria e os dois denários. Ouça a passagem completa, na Bíblia Livre."
+   },
+   "tags_extra": {
+    "es": [
+     "el buen samaritano",
+     "lucas 10",
+     "parabola del samaritano",
+     "historia biblica",
+     "quien es mi projimo",
+     "historias de la biblia narradas"
+    ],
+    "pt": [
+     "o bom samaritano",
+     "lucas 10",
+     "parabola do samaritano",
+     "historia biblica",
+     "quem e o meu proximo",
+     "historias da biblia narradas"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Lucas 10:25-37: el camino a Jericó, el sacerdote, el levita y el samaritano que se detuvo. Narración completa y pausada, Reina-Valera 1909.",
+    "pt": "Lucas 10:25-37: o caminho para Jericó, o sacerdote, o levita e o samaritano que parou. Narração completa e pausada, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Luke 10:29",
+    "tipo": "conflicto",
+    "consulta_imagem": "road horizon",
+    "titulo": {
+     "es": "Lucas 10 — ¿Y quién es mi prójimo? | Historia bíblica",
+     "en": "Luke 10 — And Who Is My Neighbour? | Bible Story",
+     "pt": "Lucas 10 — E quem é o meu próximo? | História bíblica"
+    },
+    "aplicacao": {
+     "es": "La pregunta abre la parábola: todo lo que sigue es la respuesta.",
+     "pt": "A pergunta abre a parábola: tudo o que vem depois é a resposta."
+    }
+   },
+   {
+    "ref": "Luke 10:31-32",
+    "tipo": "conflicto",
+    "consulta_imagem": "desert canyon",
+    "titulo": {
+     "es": "Lucas 10 — Pasó de largo | Historia bíblica",
+     "en": "Luke 10 — He Passed By on the Other Side | Bible Story",
+     "pt": "Lucas 10 — Passou de largo | História bíblica"
+    },
+    "aplicacao": {
+     "es": "El relato repite la misma frase para los dos que pasaron.",
+     "pt": "O relato repete a mesma frase para os dois que passaram."
+    }
+   },
+   {
+    "ref": "Luke 10:33-34",
+    "tipo": "descriptivo",
+    "consulta_imagem": "clay lamp",
+    "titulo": {
+     "es": "Lucas 10 — Vendó sus heridas | Historia bíblica",
+     "en": "Luke 10 — He Bound Up His Wounds | Bible Story",
+     "pt": "Lucas 10 — Atou-lhe as feridas | História bíblica"
+    },
+    "aplicacao": {
+     "es": "El texto enumera el cuidado paso a paso: aceite, vino, bestia y mesón.",
+     "pt": "O texto enumera o cuidado passo a passo: azeite, vinho, animal e hospedaria."
+    }
+   },
+   {
+    "ref": "Luke 10:36-37",
+    "tipo": "promesa",
+    "consulta_imagem": "road horizon",
+    "titulo": {
+     "es": "Lucas 10 — Ve, y haz tú lo mismo | Historia bíblica",
+     "en": "Luke 10 — Go, and Do Thou Likewise | Bible Story",
+     "pt": "Lucas 10 — Vai, e faze da mesma maneira | História bíblica"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "cura-e-consolo",
+  "formato": "tema",
+  "longo": {
+   "refs": [
+    "Psalms 31"
+   ],
+   "titulo": {
+    "es": "En Tu Mano Están Mis Tiempos — Salmo 31 | Biblia Hablada",
+    "en": "My Times Are in Thy Hand — Psalm 31 | Spoken Bible",
+    "pt": "Nas Tuas Mãos Estão os Meus Dias — Salmo 31 | Bíblia Narrada"
+   },
+   "thumb_titulo": {
+    "es": "MIS TIEMPOS",
+    "en": "MY TIMES",
+    "pt": "OS MEUS DIAS"
+   },
+   "thumb_sub": {
+    "es": "Salmo 31",
+    "en": "Psalm 31",
+    "pt": "Salmo 31"
+   },
+   "consultas_imagens": [
+    "hands prayer",
+    "window light",
+    "dawn lake"
+   ],
+   "abertura": {
+    "es": "Salmo treinta y uno, entero, de los veinticuatro versos. Es un salmo de enfermedad y de acoso: habla de fuerzas gastadas, de huesos consumidos, de ser olvidado como un muerto. Y en medio de eso está el verso quince, que da nombre a esta lectura: en tu mano están mis tiempos. Termina con una orden a los que esperan: esforzaos todos vosotros. Lectura pausada, sin comentario, en la Reina-Valera de mil ochocientos noventa y nueve.",
+    "pt": "Salmo trinta e um, inteiro, os vinte e quatro versos. É um salmo de doença e de cerco: fala de forças gastas, de ossos consumidos, de ser esquecido como um morto. E no meio disso está o verso quinze, que dá nome a esta leitura: nas tuas mãos estão os meus dias. Termina com uma ordem aos que esperam: esforçai-vos todos vós. Leitura pausada, sem comentário, na Bíblia Livre."
+   },
+   "tags_extra": {
+    "es": [
+     "salmo 31",
+     "en tu mano estan mis tiempos",
+     "salmos de consuelo",
+     "biblia hablada",
+     "salmo para la enfermedad",
+     "salmos de confianza"
+    ],
+    "pt": [
+     "salmo 31",
+     "nas tuas maos estao os meus dias",
+     "salmos de consolo",
+     "biblia narrada",
+     "salmo para a doenca",
+     "salmos de confianca"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Salmo 31 completo: fuerzas gastadas, el clamor y el verso 15, en tu mano están mis tiempos. Lectura pausada, Reina-Valera 1909.",
+    "pt": "Salmo 31 completo: forças gastas, o clamor e o verso 15, nas tuas mãos estão os meus dias. Leitura pausada, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Psalms 31:14-15",
+    "tipo": "promesa",
+    "consulta_imagem": "hands prayer",
+    "titulo": {
+     "es": "Salmo 31 — En tu mano están mis tiempos | Biblia",
+     "en": "Psalm 31 — My Times Are in Thy Hand | Bible",
+     "pt": "Salmo 31 — Nas tuas mãos estão os meus dias | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El verso viene después de la lista de dolencias, no antes.",
+     "pt": "O verso vem depois da lista de dores, não antes."
+    }
+   },
+   {
+    "ref": "Psalms 30:1-3",
+    "tipo": "descriptivo",
+    "consulta_imagem": "dawn lake",
+    "titulo": {
+     "es": "Salmo 30 — Clamé a ti y me sanaste | Biblia",
+     "en": "Psalm 30 — I Cried Unto Thee and Thou Hast Healed Me | Bible",
+     "pt": "Salmo 30 — Clamei a ti e me curaste | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El salmo empieza por el final de la historia: la respuesta ya vino.",
+     "pt": "O salmo começa pelo fim da história: a resposta já veio."
+    }
+   },
+   {
+    "ref": "James 5:13-16",
+    "tipo": "descriptivo",
+    "consulta_imagem": "window light",
+    "titulo": {
+     "es": "Santiago 5 — ¿Está alguno enfermo entre vosotros? | Biblia",
+     "en": "James 5 — Is Any Sick Among You? | Bible",
+     "pt": "Tiago 5 — Está alguém entre vós doente? | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El pasaje distribuye tres situaciones: aflicción, alegría y enfermedad.",
+     "pt": "A passagem distribui três situações: aflição, alegria e doença."
+    }
+   },
+   {
+    "ref": "Psalms 31:24",
+    "tipo": "promesa",
+    "consulta_imagem": "hands prayer",
+    "titulo": {
+     "es": "Salmo 31 — Esforzaos todos vosotros | Biblia",
+     "en": "Psalm 31 — Be of Good Courage | Bible",
+     "pt": "Salmo 31 — Esforçai-vos todos vós | Bíblia"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "salmos-dormir-16",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Psalms 13",
+    "Psalms 17",
+    "Psalms 20",
+    "Psalms 26",
+    "Psalms 28",
+    "Psalms 112",
+    "Psalms 115",
+    "Psalms 149"
+   ],
+   "titulo": {
+    "es": "Salmos para Dormir — Ocho Salmos para la Noche | Biblia Hablada con Voz Calmada",
+    "en": "Psalms for Sleep — Eight Psalms for the Night | Calm Bible Reading",
+    "pt": "Salmos para Dormir — Oito Salmos para a Noite | Bíblia Narrada com Voz Calma"
+   },
+   "thumb_titulo": {
+    "es": "PARA LA NOCHE",
+    "en": "FOR THE NIGHT",
+    "pt": "PARA A NOITE"
+   },
+   "thumb_sub": {
+    "es": "Salmos 13, 17 y 112",
+    "en": "Psalms 13, 17 and 112",
+    "pt": "Salmos 13, 17 e 112"
+   },
+   "consultas_imagens": [
+    "forest night",
+    "milky way",
+    "moon clouds"
+   ],
+   "abertura": {
+    "es": "Ocho salmos leídos despacio para la noche: trece, diecisiete, veinte, veintiséis, veintiocho, ciento doce, ciento quince y ciento cuarenta y nueve. El trece empieza con una pregunta repetida cuatro veces, hasta cuándo; el diecisiete pide ser guardado como a la niña del ojo y a la sombra de las alas; el ciento cuarenta y nueve habla de cantar sobre la cama. Sin música alta y sin cortes, en la Reina-Valera de mil ochocientos noventa y nueve.",
+    "pt": "Oito salmos lidos devagar para a noite: treze, dezessete, vinte, vinte e seis, vinte e oito, cento e doze, cento e quinze e cento e quarenta e nove. O treze começa com uma pergunta repetida quatro vezes, até quando; o dezessete pede para ser guardado como a menina do olho e à sombra das asas; o cento e quarenta e nove fala em cantar sobre a cama. Sem música alta e sem cortes, na Bíblia Livre."
+   },
+   "tags_extra": {
+    "es": [
+     "salmos para dormir",
+     "salmo 13",
+     "salmo 17",
+     "biblia hablada para dormir",
+     "salmos de noche",
+     "salmos para la madrugada"
+    ],
+    "pt": [
+     "salmos para dormir",
+     "salmo 13",
+     "salmo 17",
+     "biblia narrada para dormir",
+     "salmos da noite",
+     "salmos para a madrugada"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Ocho salmos seguidos para dormir: 13, 17, 20, 26, 28, 112, 115 y 149. Lectura pausada, sin música alta, Reina-Valera 1909.",
+    "pt": "Oito salmos seguidos para dormir: 13, 17, 20, 26, 28, 112, 115 e 149. Leitura pausada, sem música alta, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Psalms 17:8",
+    "tipo": "promesa",
+    "consulta_imagem": "milky way",
+    "titulo": {
+     "es": "Salmo 17 — Guárdame como a la niña de tus ojos | Biblia",
+     "en": "Psalm 17 — Keep Me as the Apple of the Eye | Bible",
+     "pt": "Salmo 17 — Guarda-me como a menina dos olhos | Bíblia"
+    },
+    "aplicacao": {
+     "es": "Son dos imágenes en un verso: el ojo y las alas.",
+     "pt": "São duas imagens num verso só: o olho e as asas."
+    }
+   },
+   {
+    "ref": "Psalms 13:1-2",
+    "tipo": "conflicto",
+    "consulta_imagem": "forest night",
+    "titulo": {
+     "es": "Salmo 13 — ¿Hasta cuándo, Jehová? | Biblia",
+     "en": "Psalm 13 — How Long, O Lord? | Bible",
+     "pt": "Salmo 13 — Até quando, Senhor? | Bíblia"
+    },
+    "aplicacao": {
+     "es": "La pregunta aparece cuatro veces seguidas en dos versos.",
+     "pt": "A pergunta aparece quatro vezes seguidas em dois versos."
+    }
+   },
+   {
+    "ref": "Psalms 112:4-7",
+    "tipo": "promesa",
+    "consulta_imagem": "moon clouds",
+    "titulo": {
+     "es": "Salmo 112 — No tendrá temor de malas noticias | Biblia",
+     "en": "Psalm 112 — He Shall Not Be Afraid of Evil Tidings | Bible",
+     "pt": "Salmo 112 — Não temerá más notícias | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El salmo describe una conducta y después la consecuencia.",
+     "pt": "O salmo descreve uma conduta e depois a consequência."
+    }
+   },
+   {
+    "ref": "Psalms 20:7",
+    "tipo": "descriptivo",
+    "consulta_imagem": "starry sky",
+    "titulo": {
+     "es": "Salmo 20 — Estos confían en carros | Biblia",
+     "en": "Psalm 20 — Some Trust in Chariots | Bible",
+     "pt": "Salmo 20 — Uns confiam em carros | Bíblia"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "ester-rainha",
+  "formato": "historia",
+  "longo": {
+   "refs": [
+    "Esther 4:1-17"
+   ],
+   "titulo": {
+    "es": "Ester — Quién Sabe si para Esta Hora | Historia bíblica narrada",
+    "en": "Esther — For Such a Time as This | Bible Story",
+    "pt": "Ester — Quem Sabe se para Esta Hora | História bíblica narrada"
+   },
+   "thumb_titulo": {
+    "es": "PARA ESTA HORA",
+    "en": "FOR SUCH A TIME",
+    "pt": "PARA ESTA HORA"
+   },
+   "thumb_sub": {
+    "es": "Ester 4",
+    "en": "Esther 4",
+    "pt": "Ester 4"
+   },
+   "consultas_imagens": [
+    "city night",
+    "clay lamp",
+    "window light"
+   ],
+   "abertura": {
+    "es": "Ester, capítulo cuatro, entero. Mardoqueo rasga sus vestidos a la puerta del rey, y de ahí sale un intercambio de mensajes por medio de Hatac, el eunuco: la copia del edicto, la ley de los treinta días, el cetro de oro. El capítulo guarda las dos frases más conocidas del libro: quién sabe si para esta hora has llegado al reino, y si perezco, que perezca. Escucha el relato completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+    "pt": "Ester, capítulo quatro, inteiro. Mardoqueu rasga as suas vestes à porta do rei, e daí sai uma troca de mensagens por meio de Hatá, o eunuco: a cópia do edito, a lei dos trinta dias, o cetro de ouro. O capítulo guarda as duas frases mais conhecidas do livro: quem sabe se para esta hora chegaste ao reino, e se perecer, pereci. Ouça o relato completo, na Bíblia Livre."
+   },
+   "tags_extra": {
+    "es": [
+     "ester 4",
+     "reina ester",
+     "quien sabe si para esta hora",
+     "historia biblica",
+     "mardoqueo",
+     "historias de la biblia narradas"
+    ],
+    "pt": [
+     "ester 4",
+     "rainha ester",
+     "quem sabe se para esta hora",
+     "historia biblica",
+     "mardoqueu",
+     "historias da biblia narradas"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Ester 4: Mardoqueo a la puerta del rey, el edicto, el cetro de oro y la respuesta de la reina. Narración completa y pausada, Reina-Valera 1909.",
+    "pt": "Ester 4: Mardoqueu à porta do rei, o edito, o cetro de ouro e a resposta da rainha. Narração completa e pausada, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Esther 4:14",
+    "tipo": "promesa",
+    "consulta_imagem": "city night",
+    "titulo": {
+     "es": "Ester 4 — Quién sabe si para esta hora | Historia bíblica",
+     "en": "Esther 4 — For Such a Time as This | Bible Story",
+     "pt": "Ester 4 — Quem sabe se para esta hora | História bíblica"
+    },
+    "aplicacao": {
+     "es": "La frase viene dentro de un aviso, no de un elogio.",
+     "pt": "A frase vem dentro de um aviso, não de um elogio."
+    }
+   },
+   {
+    "ref": "Esther 4:11",
+    "tipo": "conflicto",
+    "consulta_imagem": "clay lamp",
+    "titulo": {
+     "es": "Ester 4 — El que entra sin ser llamado | Historia bíblica",
+     "en": "Esther 4 — Whosoever Shall Come Uncalled | Bible Story",
+     "pt": "Ester 4 — Quem entra sem ser chamado | História bíblica"
+    },
+    "aplicacao": {
+     "es": "El verso cierra con un dato de tiempo: treinta días sin ser llamada.",
+     "pt": "O verso termina com um dado de tempo: trinta dias sem ser chamada."
+    }
+   },
+   {
+    "ref": "Esther 4:16",
+    "tipo": "descriptivo",
+    "consulta_imagem": "window light",
+    "titulo": {
+     "es": "Ester 4 — Y si perezco, que perezca | Historia bíblica",
+     "en": "Esther 4 — And If I Perish, I Perish | Bible Story",
+     "pt": "Ester 4 — E se perecer, pereci | História bíblica"
+    },
+    "aplicacao": {
+     "es": "Antes de la frase viene el plazo: tres días, de noche y de día.",
+     "pt": "Antes da frase vem o prazo: três dias, de noite e de dia."
+    }
+   },
+   {
+    "ref": "Esther 4:1-3",
+    "tipo": "conflicto",
+    "consulta_imagem": "city night",
+    "titulo": {
+     "es": "Ester 4 — Mardoqueo rasgó sus vestidos | Historia bíblica",
+     "en": "Esther 4 — Mordecai Rent His Clothes | Bible Story",
+     "pt": "Ester 4 — Mardoqueu rasgou as suas vestes | História bíblica"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "trabalho-e-proposito",
+  "formato": "tema",
+  "longo": {
+   "refs": [
+    "Ecclesiastes 3:1-14",
+    "Proverbs 16:1-9"
+   ],
+   "titulo": {
+    "es": "Todo Tiene su Tiempo — Eclesiastés 3 y Proverbios 16 | Biblia",
+    "en": "To Every Thing a Season — Ecclesiastes 3, Proverbs 16 | Bible",
+    "pt": "Tudo Tem o seu Tempo — Eclesiastes 3 e Provérbios 16 | Bíblia"
+   },
+   "thumb_titulo": {
+    "es": "TODO TIENE SU TIEMPO",
+    "en": "A TIME FOR EVERYTHING",
+    "pt": "TUDO TEM SEU TEMPO"
+   },
+   "thumb_sub": {
+    "es": "Eclesiastés 3",
+    "en": "Ecclesiastes 3",
+    "pt": "Eclesiastes 3"
+   },
+   "consultas_imagens": [
+    "wheat field",
+    "road horizon",
+    "hill sunrise"
+   ],
+   "abertura": {
+    "es": "Dos pasajes sobre el trabajo y el tiempo. Eclesiastés tres, del uno al catorce: la lista de los catorce pares, un tiempo para nacer y un tiempo para morir, y la pregunta que viene después, qué provecho tiene el que trabaja. Y Proverbios dieciséis, del uno al nueve, que termina con el verso del corazón que traza su camino y de los pasos que son ordenados. Lectura pausada, sin comentario, en la Reina-Valera de mil ochocientos noventa y nueve.",
+    "pt": "Duas passagens sobre o trabalho e o tempo. Eclesiastes três, do um ao catorze: a lista dos catorze pares, um tempo de nascer e um tempo de morrer, e a pergunta que vem depois, que proveito tem o que trabalha. E Provérbios dezesseis, do um ao nove, que termina no verso do coração que traça o seu caminho e dos passos que são dirigidos. Leitura pausada, sem comentário, na Bíblia Livre."
+   },
+   "tags_extra": {
+    "es": [
+     "eclesiastes 3",
+     "todo tiene su tiempo",
+     "proverbios 16",
+     "biblia hablada",
+     "versiculos sobre el trabajo",
+     "tiempo de nacer y tiempo de morir"
+    ],
+    "pt": [
+     "eclesiastes 3",
+     "tudo tem o seu tempo",
+     "proverbios 16",
+     "biblia narrada",
+     "versiculos sobre o trabalho",
+     "tempo de nascer e tempo de morrer"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Eclesiastés 3:1-14 y Proverbios 16:1-9: los catorce pares del tiempo y los pasos que son ordenados. Lectura pausada, Reina-Valera 1909.",
+    "pt": "Eclesiastes 3:1-14 e Provérbios 16:1-9: os catorze pares do tempo e os passos que são dirigidos. Leitura pausada, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Ecclesiastes 3:1-8",
+    "tipo": "descriptivo",
+    "consulta_imagem": "wheat field",
+    "titulo": {
+     "es": "Eclesiastés 3 — Todo tiene su tiempo | Biblia",
+     "en": "Ecclesiastes 3 — To Every Thing There Is a Season | Bible",
+     "pt": "Eclesiastes 3 — Tudo tem o seu tempo | Bíblia"
+    },
+    "aplicacao": {
+     "es": "Son catorce pares, siempre en el mismo orden: primero uno, después su contrario.",
+     "pt": "São catorze pares, sempre na mesma ordem: primeiro um, depois o seu contrário."
+    }
+   },
+   {
+    "ref": "Proverbs 16:3",
+    "tipo": "promesa",
+    "consulta_imagem": "road horizon",
+    "titulo": {
+     "es": "Proverbios 16 — Encomienda a Jehová tus obras | Biblia",
+     "en": "Proverbs 16 — Commit Thy Works Unto the Lord | Bible",
+     "pt": "Provérbios 16 — Confia ao Senhor as tuas obras | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El verso pone la acción antes del resultado: encomendar, después afirmar.",
+     "pt": "O verso põe a ação antes do resultado: confiar, depois firmar."
+    }
+   },
+   {
+    "ref": "Proverbs 16:9",
+    "tipo": "descriptivo",
+    "consulta_imagem": "hill sunrise",
+    "titulo": {
+     "es": "Proverbios 16 — El corazón traza su camino | Biblia",
+     "en": "Proverbs 16 — A Man's Heart Deviseth His Way | Bible",
+     "pt": "Provérbios 16 — O coração traça o seu caminho | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El verso tiene dos mitades y la segunda corrige a la primera.",
+     "pt": "O verso tem duas metades, e a segunda corrige a primeira."
+    }
+   },
+   {
+    "ref": "Ecclesiastes 3:11-13",
+    "tipo": "promesa",
+    "consulta_imagem": "wheat field",
+    "titulo": {
+     "es": "Eclesiastés 3 — Todo lo hizo hermoso en su tiempo | Biblia",
+     "en": "Ecclesiastes 3 — He Hath Made Every Thing Beautiful | Bible",
+     "pt": "Eclesiastes 3 — Tudo fez formoso no seu tempo | Bíblia"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "salmos-dormir-17",
+  "formato": "dormir",
+  "longo": {
+   "refs": [
+    "Psalms 3",
+    "Psalms 4",
+    "Psalms 23",
+    "Psalms 91",
+    "Psalms 121",
+    "Psalms 127",
+    "Psalms 131",
+    "Psalms 134"
+   ],
+   "titulo": {
+    "es": "Salmos para Dormir — En Paz Me Acostaré y Dormiré | Biblia Hablada con Voz Calmada",
+    "en": "Psalms for Sleep — I Will Both Lay Me Down in Peace | Calm Bible Reading",
+    "pt": "Salmos para Dormir — Em Paz Me Deito e Durmo | Bíblia Narrada com Voz Calma"
+   },
+   "thumb_titulo": {
+    "es": "EN PAZ ME ACOSTARE",
+    "en": "IN PEACE I WILL LIE DOWN",
+    "pt": "EM PAZ ME DEITO"
+   },
+   "thumb_sub": {
+    "es": "Salmos 4, 23 y 91",
+    "en": "Psalms 4, 23 and 91",
+    "pt": "Salmos 4, 23 e 91"
+   },
+   "consultas_imagens": [
+    "moon night calm",
+    "night sky stars",
+    "calm water moon"
+   ],
+   "abertura": {
+    "es": "Los ocho salmos que más se buscan para la noche, seguidos y sin cortes: tres, cuatro, veintitrés, noventa y uno, ciento veintiuno, ciento veintisiete, ciento treinta y uno y ciento treinta y cuatro. El cuatro trae el verso que da nombre a esta lectura: en paz me acostaré y asimismo dormiré. El ciento veintisiete dice que Él da a su amado el sueño; el ciento treinta y uno compara el alma con un niño destetado. Lectura pausada, en la Reina-Valera de mil ochocientos noventa y nueve.",
+    "pt": "Os oito salmos mais procurados para a noite, seguidos e sem cortes: três, quatro, vinte e três, noventa e um, cento e vinte e um, cento e vinte e sete, cento e trinta e um e cento e trinta e quatro. O quatro traz o verso que dá nome a esta leitura: em paz me deito e logo durmo. O cento e vinte e sete diz que Ele dá o sono ao seu amado; o cento e trinta e um compara a alma a uma criança desmamada. Leitura pausada, na Bíblia Livre."
+   },
+   "tags_extra": {
+    "es": [
+     "salmos para dormir",
+     "salmo 4",
+     "salmo 23",
+     "salmo 91",
+     "en paz me acostare y dormire",
+     "biblia hablada para dormir"
+    ],
+    "pt": [
+     "salmos para dormir",
+     "salmo 4",
+     "salmo 23",
+     "salmo 91",
+     "em paz me deito e durmo",
+     "biblia narrada para dormir"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Ocho salmos seguidos para dormir: 3, 4, 23, 91, 121, 127, 131 y 134. Lectura pausada, sin música alta, Reina-Valera 1909.",
+    "pt": "Oito salmos seguidos para dormir: 3, 4, 23, 91, 121, 127, 131 e 134. Leitura pausada, sem música alta, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Psalms 4:8",
+    "tipo": "promesa",
+    "consulta_imagem": "moon night calm",
+    "titulo": {
+     "es": "Salmo 4 — En paz me acostaré y dormiré | Biblia",
+     "en": "Psalm 4 — I Will Both Lay Me Down in Peace | Bible",
+     "pt": "Salmo 4 — Em paz me deito e logo durmo | Bíblia"
+    },
+    "aplicacao": {
+     "es": "Es el último verso del salmo, y el motivo viene en la segunda mitad.",
+     "pt": "É o último verso do salmo, e o motivo vem na segunda metade."
+    }
+   },
+   {
+    "ref": "Psalms 127:1-2",
+    "tipo": "descriptivo",
+    "consulta_imagem": "night sky stars",
+    "titulo": {
+     "es": "Salmo 127 — Pues que a su amado dará Dios el sueño | Biblia",
+     "en": "Psalm 127 — He Giveth His Beloved Sleep | Bible",
+     "pt": "Salmo 127 — Ele dá o sono ao seu amado | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El verso empieza por lo que es en vano y termina en el sueño.",
+     "pt": "O verso começa pelo que é em vão e termina no sono."
+    }
+   },
+   {
+    "ref": "Psalms 131:1-3",
+    "tipo": "promesa",
+    "consulta_imagem": "calm water moon",
+    "titulo": {
+     "es": "Salmo 131 — Como un niño destetado | Biblia",
+     "en": "Psalm 131 — As a Child That Is Weaned | Bible",
+     "pt": "Salmo 131 — Como uma criança desmamada | Bíblia"
+    },
+    "aplicacao": {
+     "es": "El salmo entero son tres versos, y la imagen se repite dos veces.",
+     "pt": "O salmo inteiro tem três versos, e a imagem se repete duas vezes."
+    }
+   },
+   {
+    "ref": "Psalms 3:5",
+    "tipo": "descriptivo",
+    "consulta_imagem": "moon night calm",
+    "titulo": {
+     "es": "Salmo 3 — Yo me acosté y dormí | Biblia",
+     "en": "Psalm 3 — I Laid Me Down and Slept | Bible",
+     "pt": "Salmo 3 — Eu me deitei e dormi | Bíblia"
+    }
+   }
+  ]
+ },
+ {
+  "slug": "paulo-silas-prisao",
+  "formato": "historia",
+  "longo": {
+   "refs": [
+    "Acts 16:16-34"
+   ],
+   "titulo": {
+    "es": "Pablo y Silas en la Cárcel — Hechos 16 | Historia bíblica",
+    "en": "Paul and Silas in Prison — Acts 16 | Bible Story",
+    "pt": "Paulo e Silas na Prisão — Atos 16 | História bíblica"
+   },
+   "thumb_titulo": {
+    "es": "CANTABAN A MEDIANOCHE",
+    "en": "SINGING AT MIDNIGHT",
+    "pt": "CANTAVAM À MEIA-NOITE"
+   },
+   "thumb_sub": {
+    "es": "Hechos 16",
+    "en": "Acts 16",
+    "pt": "Atos 16"
+   },
+   "consultas_imagens": [
+    "door light",
+    "city night",
+    "fire embers"
+   ],
+   "abertura": {
+    "es": "Hechos, capítulo dieciséis, del verso dieciséis al treinta y cuatro. Filipos: la muchacha del espíritu de adivinación, la acusación en la plaza, los azotes, el calabozo de más adentro y el cepo. A medianoche, dice el texto, oraban y cantaban himnos, y los presos los oían. Después viene el terremoto, las puertas abiertas, la espada del carcelero y la pregunta de la madrugada. Escucha el relato completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+    "pt": "Atos, capítulo dezesseis, do verso dezesseis ao trinta e quatro. Filipos: a jovem do espírito de adivinhação, a acusação na praça, os açoites, o cárcere interior e o tronco. À meia-noite, diz o texto, oravam e cantavam hinos, e os presos os ouviam. Depois vem o terremoto, as portas abertas, a espada do carcereiro e a pergunta da madrugada. Ouça o relato completo, na Bíblia Livre."
+   },
+   "tags_extra": {
+    "es": [
+     "pablo y silas",
+     "hechos 16",
+     "cantaban a medianoche",
+     "historia biblica",
+     "carcelero de filipos",
+     "historias de la biblia narradas"
+    ],
+    "pt": [
+     "paulo e silas",
+     "atos 16",
+     "cantavam a meia noite",
+     "historia biblica",
+     "carcereiro de filipos",
+     "historias da biblia narradas"
+    ]
+   },
+   "descricao_busca": {
+    "es": "Hechos 16:16-34: Filipos, el calabozo, los himnos a medianoche, el terremoto y el carcelero. Narración completa y pausada, Reina-Valera 1909.",
+    "pt": "Atos 16:16-34: Filipos, o cárcere, os hinos à meia-noite, o terremoto e o carcereiro. Narração completa e pausada, Bíblia Livre."
+   }
+  },
+  "shorts": [
+   {
+    "ref": "Acts 16:25",
+    "tipo": "descriptivo",
+    "consulta_imagem": "fire embers",
+    "titulo": {
+     "es": "Hechos 16 — A medianoche oraban y cantaban | Historia bíblica",
+     "en": "Acts 16 — At Midnight Paul and Silas Sang | Bible Story",
+     "pt": "Atos 16 — À meia-noite oravam e cantavam | História bíblica"
+    },
+    "aplicacao": {
+     "es": "El verso anota quién escuchaba: los presos, no los guardias.",
+     "pt": "O verso anota quem ouvia: os presos, não os guardas."
+    }
+   },
+   {
+    "ref": "Acts 16:23-24",
+    "tipo": "conflicto",
+    "consulta_imagem": "door light",
+    "titulo": {
+     "es": "Hechos 16 — Los metieron en el calabozo | Historia bíblica",
+     "en": "Acts 16 — Cast Them Into the Inner Prison | Bible Story",
+     "pt": "Atos 16 — Lançaram-nos no cárcere interior | História bíblica"
+    },
+    "aplicacao": {
+     "es": "El texto marca dos agravantes: el calabozo de más adentro y el cepo.",
+     "pt": "O texto marca dois agravantes: o cárcere interior e o tronco."
+    }
+   },
+   {
+    "ref": "Acts 16:26",
+    "tipo": "descriptivo",
+    "consulta_imagem": "city night",
+    "titulo": {
+     "es": "Hechos 16 — Y al instante se abrieron las puertas | Historia bíblica",
+     "en": "Acts 16 — Immediately All the Doors Were Opened | Bible Story",
+     "pt": "Atos 16 — E logo se abriram todas as portas | História bíblica"
+    },
+    "aplicacao": {
+     "es": "El verso registra dos efectos: las puertas y las cadenas.",
+     "pt": "O verso registra dois efeitos: as portas e as cadeias."
+    }
+   },
+   {
+    "ref": "Acts 16:30-31",
+    "tipo": "promesa",
+    "consulta_imagem": "door light",
+    "titulo": {
+     "es": "Hechos 16 — Qué debo hacer para ser salvo | Historia bíblica",
+     "en": "Acts 16 — What Must I Do to Be Saved? | Bible Story",
+     "pt": "Atos 16 — Que devo fazer para me salvar? | História bíblica"
+    }
+   }
+  ]
  }
 ]
