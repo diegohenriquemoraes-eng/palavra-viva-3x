@@ -827,12 +827,19 @@
           "video_id": "FmcMOLi0ryA",
           "titulo": "Exodo 14 - El mar se dividio | Historia biblica",
           "em": "2026-08-17T09:32:00+00:00"
+        },
+        {
+          "pacote": "2026-08-17-moises-mar-vermelho",
+          "item": "short-3",
+          "video_id": "L_IihaeAtUA",
+          "titulo": "Exodo 3 - YO SOY EL QUE SOY | Biblia en espanol",
+          "em": "2026-08-17T17:19:46+00:00"
         }
       ],
-      "ultimo_short": "2026-08-17T09:32:00+00:00",
+      "ultimo_short": "2026-08-17T17:19:46+00:00",
       "shorts_dia": {
         "data": "2026-08-17",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-17"
     },

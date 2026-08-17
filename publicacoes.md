@@ -2398,3 +2398,11 @@
 - Item: short-2 — Éxodo 14:21
 - Duração: 21.6s
 - Publicado em: 2026-08-17T09:32:00+00:00
+
+## [es] L_IihaeAtUA — Exodo 3 - YO SOY EL QUE SOY | Biblia en espanol
+
+- URL: https://youtu.be/L_IihaeAtUA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Éxodo 3:13
+- Duração: 23.6s
+- Publicado em: 2026-08-17T17:19:46+00:00
