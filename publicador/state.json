@@ -841,12 +841,19 @@
           "video_id": "6IPgbt3UbTY",
           "titulo": "Salmos para Dormir — Paz Interior | Biblia Hablada con Voz Calmada",
           "em": "2026-08-18T01:22:24+00:00"
+        },
+        {
+          "pacote": "2026-08-18-salmos-dormir-12",
+          "item": "short-1",
+          "video_id": "HYrksiJD7Lo",
+          "titulo": "Salmo 1 — Como árbol plantado junto a las aguas | Biblia",
+          "em": "2026-08-18T02:14:38+00:00"
         }
       ],
-      "ultimo_short": "2026-08-17T17:19:46+00:00",
+      "ultimo_short": "2026-08-18T02:14:38+00:00",
       "shorts_dia": {
-        "data": "2026-08-17",
-        "n": 3
+        "data": "2026-08-18",
+        "n": 1
       },
       "longo_data": "2026-08-18"
     },
@@ -1834,6 +1841,13 @@
           "video_id": "JUoMOSCuiWc",
           "titulo": "Salmo 1 — Como a árvore plantada junto ao rio | Bíblia",
           "em": "2026-08-18T01:23:27+00:00"
+        },
+        {
+          "pacote": "2026-08-18-salmos-dormir-12",
+          "item": "longo",
+          "video_id": "hH1Ih5Mva98",
+          "titulo": "Salmos para Dormir — Paz Interior | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-18T02:55:05+00:00"
         }
       ],
       "ultimo_short": "2026-08-18T01:23:27+00:00",
@@ -1841,7 +1855,7 @@
         "data": "2026-08-18",
         "n": 1
       },
-      "longo_data": "2026-08-17"
+      "longo_data": "2026-08-18"
     },
     "stoic": {
       "publicados": [
@@ -1991,11 +2005,18 @@
           "video_id": "rGVFPHDOMP4",
           "titulo": "El único daño real que puedes sufrir",
           "em": "2026-08-17T02:20:32+00:00"
+        },
+        {
+          "pacote": "2026-08-18-dejar-de-quejarse",
+          "item": "short-1",
+          "video_id": "ylrunJqeOTk",
+          "titulo": "Que nadie vuelva a oírte quejarte",
+          "em": "2026-08-18T02:56:41+00:00"
         }
       ],
-      "ultimo_short": "2026-08-17T02:20:32+00:00",
+      "ultimo_short": "2026-08-18T02:56:41+00:00",
       "shorts_dia": {
-        "data": "2026-08-17",
+        "data": "2026-08-18",
         "n": 1
       },
       "longo_data": ""

@@ -2422,3 +2422,27 @@
 - Item: short-1 — Salmo 1:1
 - Duração: 19.3s
 - Publicado em: 2026-08-18T01:23:27+00:00
+
+## [es] HYrksiJD7Lo — Salmo 1 — Como árbol plantado junto a las aguas | Biblia
+
+- URL: https://youtu.be/HYrksiJD7Lo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 1:1
+- Duração: 18.8s
+- Publicado em: 2026-08-18T02:14:38+00:00
+
+## [pt] hH1Ih5Mva98 — Salmos para Dormir — Paz Interior | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/hH1Ih5Mva98
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 1, Salmo 15, Salmo 19, Salmo 24, Salmo 84, Salmo 122, Salmo 128, Salmo 133
+- Duração: 3784.1s
+- Publicado em: 2026-08-18T02:55:05+00:00
+
+## [stoic] ylrunJqeOTk — Que nadie vuelva a oírte quejarte
+
+- URL: https://youtu.be/ylrunJqeOTk
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 8:12
+- Duração: 17.6s
+- Publicado em: 2026-08-18T02:56:41+00:00
