@@ -2406,3 +2406,19 @@
 - Item: short-3 — Éxodo 3:13
 - Duração: 23.6s
 - Publicado em: 2026-08-17T17:19:46+00:00
+
+## [es] 6IPgbt3UbTY — Salmos para Dormir — Paz Interior | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/6IPgbt3UbTY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 1, Salmo 15, Salmo 19, Salmo 24, Salmo 84, Salmo 122, Salmo 128, Salmo 133
+- Duração: 3656.6s
+- Publicado em: 2026-08-18T01:22:24+00:00
+
+## [pt] JUoMOSCuiWc — Salmo 1 — Como a árvore plantada junto ao rio | Bíblia
+
+- URL: https://youtu.be/JUoMOSCuiWc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 1:1
+- Duração: 19.3s
+- Publicado em: 2026-08-18T01:23:27+00:00

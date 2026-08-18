@@ -834,6 +834,13 @@
           "video_id": "L_IihaeAtUA",
           "titulo": "Exodo 3 - YO SOY EL QUE SOY | Biblia en espanol",
           "em": "2026-08-17T17:19:46+00:00"
+        },
+        {
+          "pacote": "2026-08-18-salmos-dormir-12",
+          "item": "longo",
+          "video_id": "6IPgbt3UbTY",
+          "titulo": "Salmos para Dormir — Paz Interior | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-18T01:22:24+00:00"
         }
       ],
       "ultimo_short": "2026-08-17T17:19:46+00:00",
@@ -841,7 +848,7 @@
         "data": "2026-08-17",
         "n": 3
       },
-      "longo_data": "2026-08-17"
+      "longo_data": "2026-08-18"
     },
     "en": {
       "publicados": [
@@ -1820,11 +1827,18 @@
           "video_id": "6jMaUVN4bL8",
           "titulo": "Moises e o Mar Vermelho - Exodo 14 | Historia biblica narrada",
           "em": "2026-08-17T02:19:20+00:00"
+        },
+        {
+          "pacote": "2026-08-18-salmos-dormir-12",
+          "item": "short-1",
+          "video_id": "JUoMOSCuiWc",
+          "titulo": "Salmo 1 — Como a árvore plantada junto ao rio | Bíblia",
+          "em": "2026-08-18T01:23:27+00:00"
         }
       ],
-      "ultimo_short": "2026-08-17T00:44:51+00:00",
+      "ultimo_short": "2026-08-18T01:23:27+00:00",
       "shorts_dia": {
-        "data": "2026-08-17",
+        "data": "2026-08-18",
         "n": 1
       },
       "longo_data": "2026-08-17"
