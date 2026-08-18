@@ -2454,3 +2454,11 @@
 - Item: short-2 — Salmo 133:1
 - Duração: 15.4s
 - Publicado em: 2026-08-18T09:23:47+00:00
+
+## [es] kB6L2FhiPtw — Salmo 84 — Cuán amables son tus moradas | Biblia
+
+- URL: https://youtu.be/kB6L2FhiPtw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 84:1-2
+- Duração: 20.8s
+- Publicado em: 2026-08-18T16:33:09+00:00

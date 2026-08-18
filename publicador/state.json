@@ -855,12 +855,19 @@
           "video_id": "fqF3iuh7yU8",
           "titulo": "Salmo 133 — Cuán bueno es habitar los hermanos juntos | Biblia",
           "em": "2026-08-18T09:23:47+00:00"
+        },
+        {
+          "pacote": "2026-08-18-salmos-dormir-12",
+          "item": "short-3",
+          "video_id": "kB6L2FhiPtw",
+          "titulo": "Salmo 84 — Cuán amables son tus moradas | Biblia",
+          "em": "2026-08-18T16:33:09+00:00"
         }
       ],
-      "ultimo_short": "2026-08-18T09:23:47+00:00",
+      "ultimo_short": "2026-08-18T16:33:09+00:00",
       "shorts_dia": {
         "data": "2026-08-18",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-18"
     },
