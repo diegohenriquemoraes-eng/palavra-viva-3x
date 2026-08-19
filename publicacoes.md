@@ -2462,3 +2462,19 @@
 - Item: short-3 — Salmo 84:1-2
 - Duração: 20.8s
 - Publicado em: 2026-08-18T16:33:09+00:00
+
+## [es] 0NZCYQY_yQY — La Luz en las Tinieblas - Juan 1 | Biblia en espanol
+
+- URL: https://youtu.be/0NZCYQY_yQY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Juan 1:1-14
+- Duração: 1441.5s
+- Publicado em: 2026-08-19T00:50:41+00:00
+
+## [pt] X3vu4u9yw4Q — Joao 1 - A luz resplandece nas trevas | Biblia narrada
+
+- URL: https://youtu.be/X3vu4u9yw4Q
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — João 1:1-2
+- Duração: 20.3s
+- Publicado em: 2026-08-19T00:51:39+00:00

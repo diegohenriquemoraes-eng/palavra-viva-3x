@@ -862,6 +862,13 @@
           "video_id": "kB6L2FhiPtw",
           "titulo": "Salmo 84 — Cuán amables son tus moradas | Biblia",
           "em": "2026-08-18T16:33:09+00:00"
+        },
+        {
+          "pacote": "2026-08-19-luz-nas-trevas",
+          "item": "longo",
+          "video_id": "0NZCYQY_yQY",
+          "titulo": "La Luz en las Tinieblas - Juan 1 | Biblia en espanol",
+          "em": "2026-08-19T00:50:41+00:00"
         }
       ],
       "ultimo_short": "2026-08-18T16:33:09+00:00",
@@ -869,7 +876,7 @@
         "data": "2026-08-18",
         "n": 3
       },
-      "longo_data": "2026-08-18"
+      "longo_data": "2026-08-19"
     },
     "en": {
       "publicados": [
@@ -1862,11 +1869,18 @@
           "video_id": "hH1Ih5Mva98",
           "titulo": "Salmos para Dormir — Paz Interior | Bíblia Narrada com Voz Calma",
           "em": "2026-08-18T02:55:05+00:00"
+        },
+        {
+          "pacote": "2026-08-19-luz-nas-trevas",
+          "item": "short-1",
+          "video_id": "X3vu4u9yw4Q",
+          "titulo": "Joao 1 - A luz resplandece nas trevas | Biblia narrada",
+          "em": "2026-08-19T00:51:39+00:00"
         }
       ],
-      "ultimo_short": "2026-08-18T01:23:27+00:00",
+      "ultimo_short": "2026-08-19T00:51:39+00:00",
       "shorts_dia": {
-        "data": "2026-08-18",
+        "data": "2026-08-19",
         "n": 1
       },
       "longo_data": "2026-08-18"
