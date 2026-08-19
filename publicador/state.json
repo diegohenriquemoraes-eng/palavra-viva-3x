@@ -876,12 +876,19 @@
           "video_id": "vukGyujjmvI",
           "titulo": "Juan 1 - La luz en las tinieblas resplandece | Biblia",
           "em": "2026-08-19T02:22:19+00:00"
+        },
+        {
+          "pacote": "2026-08-19-luz-nas-trevas",
+          "item": "short-2",
+          "video_id": "0ZTOLFI3Urg",
+          "titulo": "Juan 8:12 - Yo soy la luz del mundo | Biblia en espanol",
+          "em": "2026-08-19T12:54:24+00:00"
         }
       ],
-      "ultimo_short": "2026-08-19T02:22:19+00:00",
+      "ultimo_short": "2026-08-19T12:54:24+00:00",
       "shorts_dia": {
         "data": "2026-08-19",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-19"
     },

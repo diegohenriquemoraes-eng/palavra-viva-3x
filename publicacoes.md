@@ -2502,3 +2502,11 @@
 - Item: short-1 — Meditaciones 6:52
 - Duração: 23.0s
 - Publicado em: 2026-08-19T02:34:34+00:00
+
+## [es] 0ZTOLFI3Urg — Juan 8:12 - Yo soy la luz del mundo | Biblia en espanol
+
+- URL: https://youtu.be/0ZTOLFI3Urg
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Juan 8:12
+- Duração: 19.7s
+- Publicado em: 2026-08-19T12:54:24+00:00
