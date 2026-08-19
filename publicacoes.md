@@ -2510,3 +2510,11 @@
 - Item: short-2 — Juan 8:12
 - Duração: 19.7s
 - Publicado em: 2026-08-19T12:54:24+00:00
+
+## [es] NnFfPT0nx-A — Salmo 119:105 - Lampara es a mis pies tu palabra | Biblia
+
+- URL: https://youtu.be/NnFfPT0nx-A
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 119:105
+- Duração: 16.9s
+- Publicado em: 2026-08-19T20:19:13+00:00

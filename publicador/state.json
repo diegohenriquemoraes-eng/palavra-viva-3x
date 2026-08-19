@@ -883,12 +883,19 @@
           "video_id": "0ZTOLFI3Urg",
           "titulo": "Juan 8:12 - Yo soy la luz del mundo | Biblia en espanol",
           "em": "2026-08-19T12:54:24+00:00"
+        },
+        {
+          "pacote": "2026-08-19-luz-nas-trevas",
+          "item": "short-3",
+          "video_id": "NnFfPT0nx-A",
+          "titulo": "Salmo 119:105 - Lampara es a mis pies tu palabra | Biblia",
+          "em": "2026-08-19T20:19:13+00:00"
         }
       ],
-      "ultimo_short": "2026-08-19T12:54:24+00:00",
+      "ultimo_short": "2026-08-19T20:19:13+00:00",
       "shorts_dia": {
         "data": "2026-08-19",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-19"
     },
