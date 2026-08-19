@@ -2478,3 +2478,27 @@
 - Item: short-1 — João 1:1-2
 - Duração: 20.3s
 - Publicado em: 2026-08-19T00:51:39+00:00
+
+## [es] vukGyujjmvI — Juan 1 - La luz en las tinieblas resplandece | Biblia
+
+- URL: https://youtu.be/vukGyujjmvI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Juan 1:1-2
+- Duração: 19.3s
+- Publicado em: 2026-08-19T02:22:19+00:00
+
+## [pt] BVP2GlVDjgY — A Luz nas Trevas - Joao 1 | Biblia narrada
+
+- URL: https://youtu.be/BVP2GlVDjgY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — João 1:1-14
+- Duração: 1439.9s
+- Publicado em: 2026-08-19T02:33:12+00:00
+
+## [stoic] ylWU7CuMaEQ — Ama lo que te tocó vivir
+
+- URL: https://youtu.be/ylWU7CuMaEQ
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:52
+- Duração: 23.0s
+- Publicado em: 2026-08-19T02:34:34+00:00

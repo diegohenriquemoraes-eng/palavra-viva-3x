@@ -869,12 +869,19 @@
           "video_id": "0NZCYQY_yQY",
           "titulo": "La Luz en las Tinieblas - Juan 1 | Biblia en espanol",
           "em": "2026-08-19T00:50:41+00:00"
+        },
+        {
+          "pacote": "2026-08-19-luz-nas-trevas",
+          "item": "short-1",
+          "video_id": "vukGyujjmvI",
+          "titulo": "Juan 1 - La luz en las tinieblas resplandece | Biblia",
+          "em": "2026-08-19T02:22:19+00:00"
         }
       ],
-      "ultimo_short": "2026-08-18T16:33:09+00:00",
+      "ultimo_short": "2026-08-19T02:22:19+00:00",
       "shorts_dia": {
-        "data": "2026-08-18",
-        "n": 3
+        "data": "2026-08-19",
+        "n": 1
       },
       "longo_data": "2026-08-19"
     },
@@ -1876,6 +1883,13 @@
           "video_id": "X3vu4u9yw4Q",
           "titulo": "Joao 1 - A luz resplandece nas trevas | Biblia narrada",
           "em": "2026-08-19T00:51:39+00:00"
+        },
+        {
+          "pacote": "2026-08-19-luz-nas-trevas",
+          "item": "longo",
+          "video_id": "BVP2GlVDjgY",
+          "titulo": "A Luz nas Trevas - Joao 1 | Biblia narrada",
+          "em": "2026-08-19T02:33:12+00:00"
         }
       ],
       "ultimo_short": "2026-08-19T00:51:39+00:00",
@@ -1883,7 +1897,7 @@
         "data": "2026-08-19",
         "n": 1
       },
-      "longo_data": "2026-08-18"
+      "longo_data": "2026-08-19"
     },
     "stoic": {
       "publicados": [
@@ -2040,11 +2054,18 @@
           "video_id": "ylrunJqeOTk",
           "titulo": "Que nadie vuelva a oírte quejarte",
           "em": "2026-08-18T02:56:41+00:00"
+        },
+        {
+          "pacote": "2026-08-19-amar-el-destino",
+          "item": "short-1",
+          "video_id": "ylWU7CuMaEQ",
+          "titulo": "Ama lo que te tocó vivir",
+          "em": "2026-08-19T02:34:34+00:00"
         }
       ],
-      "ultimo_short": "2026-08-18T02:56:41+00:00",
+      "ultimo_short": "2026-08-19T02:34:34+00:00",
       "shorts_dia": {
-        "data": "2026-08-18",
+        "data": "2026-08-19",
         "n": 1
       },
       "longo_data": ""
