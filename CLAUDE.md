@@ -31,12 +31,58 @@ caminho hoje**. Não estimar inscritos: canal sem medição entra como "não med
 
 | Idioma | Canal | Conta Google | Secrets |
 |---|---|---|---|
-| es | Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`) | Gmail pessoal | `YT_CLIENT_SECRET_ES` / `YT_TOKEN_ES` |
+| es | Palabra Viva Cortes → **rebrand em curso**, ver abaixo (`UCIh5XGRGc2t4rLmlukHZOgw`) | Gmail pessoal | `YT_CLIENT_SECRET_ES` / `YT_TOKEN_ES` |
 | en | Living Word Daily (ex-Corte em Pauta, `UCi0VMppJlwroIUcxUP5L7DQ`) | Gmail pessoal | `YT_CLIENT_SECRET_EN` / `YT_TOKEN_EN` |
 | pt | Palavra Viva Diária (channel_id em publicador/config.json quando criado) | Gmail pessoal | `YT_CLIENT_SECRET_PT` / `YT_TOKEN_PT` |
 
 Cada canal tem projeto Google Cloud PRÓPRIO (quota de 10k/dia não é dividida).
 App OAuth precisa estar **em produção**, senão o refresh token morre em 7 dias.
+
+## Rebrand do canal ES: sai a palavra "Cortes" (19/08/2026)
+
+O canal nunca foi de cortes de terceiros (diretriz nº 5 sempre proibiu isso) e
+publica vídeo LONGO desde 19/07. O nome "Palabra Viva Cortes" era herança do
+Radar Geek e descrevia errado o que o canal faz. Decisão do Diego em 19/08.
+
+**Feito em 19/08**
+
+- **Capa nova** (`marca/banner-es.png`): wordmark passou a ser só
+  **PALABRA VIVA**, com a tagline "La Palabra de Dios en audio, cada día".
+  Aplicada por API (`channelBanners.insert` + `channels.update`) — essa parte
+  tem API e não precisa do Studio.
+- `defaultLanguage` do canal corrigido de `en` para `es` (o canal aparecia com
+  localização en_US). Efeito colateral: o YouTube criou a localização `es_ES`
+  congelando o título atual — atualizar junto quando o nome mudar.
+- A **descrição** do canal nunca teve a palavra "cortes"; nada a limpar lá.
+
+**Pendente — nome e handle, só a partir de 20/08**
+
+O YouTube devolveu `TITLE_UPDATE_ERROR_NAME_CHANGE_QUOTA_EXCEEDED`
+("você inseriu muitos nomes que não podem ser usados, tente em 24 horas"):
+as tentativas com "Palabra Viva Diaria" foram **recusadas por política de nome**
+— `@PalabraVivaDiaria`, `@PalabraVivaCadaDia` e `@PalabraVivaBiblia` são canais
+que JÁ EXISTEM, e o YouTube barra nome igual ao de canal existente. Foi o mesmo
+erro que barrou "Noche Estoica" em 02/08.
+
+- **Nome escolhido**: **Palabra Viva en Audio** · handle **@PalabraVivaEnAudio**
+  (conferido: handle livre, e não há canal com esse nome).
+- **Plano B**: "Palabra Viva Salmos" / `@PalabraVivaSalmos` (também livre).
+- Onde muda: Studio → Personalização → Informações básicas. O nome NÃO tem API:
+  `channels.update` aceita `brandingSettings.channel.title` no corpo e **ignora
+  silenciosamente** (devolve 200 com o título antigo). Só o endpoint interno
+  `youtubei/v1/channel_edit/update_channel_page_settings` grava, e é o Studio
+  quem o chama. O erro real vem em `titleUpdateStatus` da resposta — ler esse
+  campo, senão parece sucesso.
+- Depois de trocar: atualizar `titulo_canal` e `handle` em
+  `publicador/config.json`. **O handle é queimado na legenda de todo Short e
+  longo** (`fabrica.montar_short/montar_longo` → `legendas.ass_*`) e na capa,
+  então até isso os vídeos novos continuam estampando @PalabraVivaCortes.
+- Rodar depois o workflow **Realinhar descrições** (`-f canal=es`) para os
+  vídeos antigos.
+
+⚠ Chrome: o Studio deste canal está na conta pessoal, que neste perfil do Chrome
+é **authuser=0** (o padrão do YouTube abre em diego@perffec.com.br). URL certa:
+`studio.youtube.com/channel/UCIh5XGRGc2t4rLmlukHZOgw/editing/profile?authuser=0`.
 
 ## Arquitetura — fila leve, render na hora de publicar
 

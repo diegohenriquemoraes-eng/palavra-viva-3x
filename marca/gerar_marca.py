@@ -32,7 +32,7 @@ PAGINA_SOMBRA = (214, 205, 186)
 CINZA = (206, 199, 185)
 
 CANAIS = {
-    "es": ("PALABRA VIVA CORTES", "La Palabra de Dios en audio, cada día"),
+    "es": ("PALABRA VIVA", "La Palabra de Dios en audio, cada día"),
     "en": ("LIVING WORD DAILY", "God's Word in audio, every day"),
     "pt": ("PALAVRA VIVA DIÁRIA", "A Palavra de Deus em áudio, todos os dias"),
 }
