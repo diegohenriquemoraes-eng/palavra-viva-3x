@@ -890,6 +890,13 @@
           "video_id": "NnFfPT0nx-A",
           "titulo": "Salmo 119:105 - Lampara es a mis pies tu palabra | Biblia",
           "em": "2026-08-19T20:19:13+00:00"
+        },
+        {
+          "pacote": "2026-08-20-jose-egito",
+          "item": "longo",
+          "video_id": "G2TWdqdjcYw",
+          "titulo": "Jose y sus Hermanos - Genesis 45 | Historia biblica narrada",
+          "em": "2026-08-20T00:44:28+00:00"
         }
       ],
       "ultimo_short": "2026-08-19T20:19:13+00:00",
@@ -897,7 +904,7 @@
         "data": "2026-08-19",
         "n": 3
       },
-      "longo_data": "2026-08-19"
+      "longo_data": "2026-08-20"
     },
     "en": {
       "publicados": [
@@ -1904,11 +1911,18 @@
           "video_id": "BVP2GlVDjgY",
           "titulo": "A Luz nas Trevas - Joao 1 | Biblia narrada",
           "em": "2026-08-19T02:33:12+00:00"
+        },
+        {
+          "pacote": "2026-08-20-jose-egito",
+          "item": "short-1",
+          "video_id": "Kx3n-tAyFuA",
+          "titulo": "Genesis 50 - Vos pensastes mal, Deus o tornou em bem | Biblia",
+          "em": "2026-08-20T00:45:17+00:00"
         }
       ],
-      "ultimo_short": "2026-08-19T00:51:39+00:00",
+      "ultimo_short": "2026-08-20T00:45:17+00:00",
       "shorts_dia": {
-        "data": "2026-08-19",
+        "data": "2026-08-20",
         "n": 1
       },
       "longo_data": "2026-08-19"

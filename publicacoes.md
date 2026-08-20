@@ -2518,3 +2518,19 @@
 - Item: short-3 — Salmo 119:105
 - Duração: 16.9s
 - Publicado em: 2026-08-19T20:19:13+00:00
+
+## [es] G2TWdqdjcYw — Jose y sus Hermanos - Genesis 45 | Historia biblica narrada
+
+- URL: https://youtu.be/G2TWdqdjcYw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Génesis 45:1-15
+- Duração: 207.8s
+- Publicado em: 2026-08-20T00:44:28+00:00
+
+## [pt] Kx3n-tAyFuA — Genesis 50 - Vos pensastes mal, Deus o tornou em bem | Biblia
+
+- URL: https://youtu.be/Kx3n-tAyFuA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Gênesis 50:19-20
+- Duração: 24.5s
+- Publicado em: 2026-08-20T00:45:17+00:00
