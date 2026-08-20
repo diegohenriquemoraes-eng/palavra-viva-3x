@@ -2534,3 +2534,19 @@
 - Item: short-1 — Gênesis 50:19-20
 - Duração: 24.5s
 - Publicado em: 2026-08-20T00:45:17+00:00
+
+## [pt] ixNQZZGhkVs — Jose e seus Irmaos - Genesis 45 | Historia biblica narrada
+
+- URL: https://youtu.be/ixNQZZGhkVs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Gênesis 45:1-15
+- Duração: 209.9s
+- Publicado em: 2026-08-20T02:13:49+00:00
+
+## [stoic] XwuIvVK5QXI — La fama dura menos de lo que crees
+
+- URL: https://youtu.be/XwuIvVK5QXI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 7:6
+- Duração: 24.3s
+- Publicado em: 2026-08-20T02:14:52+00:00
