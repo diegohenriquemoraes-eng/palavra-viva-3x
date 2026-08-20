@@ -1,0 +1,168 @@
+{
+  "slug": "victoria-interior",
+  "formato": "tema",
+  "data": "2026-08-22",
+  "criado_em": "2026-08-20T01:53:49+00:00",
+  "aprovado_em": "2026-08-20T01:53:49+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 12:21-29"
+    ],
+    "titulo": {
+      "stoic": "Marco Aurelio: La Victoria Interior | Meditaciones Narradas"
+    },
+    "thumb_titulo": {
+      "stoic": "VICTORIA INTERIOR"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones XII"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg/1920px-Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author or not provided",
+        "origem": "https://commons.wikimedia.org/wiki/File:Near_Algiers,_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg/1920px-Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Forest Service - Northern Region",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_(53150816968).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg/1920px-Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/Milan Loiacono",
+        "origem": "https://commons.wikimedia.org/wiki/File:Terra_Torch_(milanloiacono-firesensefortstewart-04-2025-0677).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lewes_Bonfire_Night_2017.jpg/1920px-Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg/1920px-Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/1920px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Peter Paul Rubens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way,_1636-1637.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg/1920px-A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "EHT Collaboration",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A*_in_polarised_light_(eso2406a).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 56:2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La victoria que nadie ve y todo lo cambia"
+      },
+      "aplicacao": "La única victoria que nadie ve es la que cambia cómo pasas el resto del día.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:12",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Entrena lo que crees que no puedes"
+      },
+      "aplicacao": "Entrena justo lo que crees que no puedes. Ahí es donde queda margen.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:21",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "No te apagues antes de tiempo"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fire_burning_in_a_fireplace.jpg/1920px-Fire_burning_in_a_fireplace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pöllö",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_burning_in_a_fireplace.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 10:49",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Sé el fuego que lo convierte todo en llama"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
