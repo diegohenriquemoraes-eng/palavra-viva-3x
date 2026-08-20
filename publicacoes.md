@@ -2566,3 +2566,11 @@
 - Item: short-2 — Génesis 45:4
 - Duração: 21.3s
 - Publicado em: 2026-08-20T11:19:42+00:00
+
+## [es] 1h7bU43UJgc — Genesis 37 - El sueno de Jose | Historia biblica narrada
+
+- URL: https://youtu.be/1h7bU43UJgc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Génesis 37:5-6
+- Duração: 21.6s
+- Publicado em: 2026-08-20T18:25:26+00:00
