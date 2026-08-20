@@ -904,12 +904,19 @@
           "video_id": "uIYfUWJV8D8",
           "titulo": "Genesis 50 - Vosotros pensasteis mal, Dios lo encamino a bien",
           "em": "2026-08-20T03:40:32+00:00"
+        },
+        {
+          "pacote": "2026-08-20-jose-egito",
+          "item": "short-2",
+          "video_id": "VhEUkickrEI",
+          "titulo": "Genesis 45 - Yo soy Jose vuestro hermano | Historia biblica",
+          "em": "2026-08-20T11:19:42+00:00"
         }
       ],
-      "ultimo_short": "2026-08-20T03:40:32+00:00",
+      "ultimo_short": "2026-08-20T11:19:42+00:00",
       "shorts_dia": {
         "data": "2026-08-20",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-20"
     },

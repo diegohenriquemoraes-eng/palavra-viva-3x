@@ -2558,3 +2558,11 @@
 - Item: short-1 — Génesis 50:19-20
 - Duração: 24.7s
 - Publicado em: 2026-08-20T03:40:32+00:00
+
+## [es] VhEUkickrEI — Genesis 45 - Yo soy Jose vuestro hermano | Historia biblica
+
+- URL: https://youtu.be/VhEUkickrEI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Génesis 45:4
+- Duração: 21.3s
+- Publicado em: 2026-08-20T11:19:42+00:00
