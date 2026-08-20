@@ -2550,3 +2550,11 @@
 - Item: short-1 — Meditaciones 7:6
 - Duração: 24.3s
 - Publicado em: 2026-08-20T02:14:52+00:00
+
+## [es] uIYfUWJV8D8 — Genesis 50 - Vosotros pensasteis mal, Dios lo encamino a bien
+
+- URL: https://youtu.be/uIYfUWJV8D8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Génesis 50:19-20
+- Duração: 24.7s
+- Publicado em: 2026-08-20T03:40:32+00:00
