@@ -8,7 +8,7 @@
 
 | Canal | Plataforma | Ritmo | Motor (pasta) | Conta |
 |---|---|---|---|---|
-| **Palabra Viva Cortes** `@PalabraVivaCortes` (rebrand para **Palabra Viva en Audio** / `@PalabraVivaEnAudio` a partir de 20/08 — ver CLAUDE.md) | YouTube ES | 3 Shorts + 1 longo/dia | `Palavra-Viva-3x` | Gmail pessoal |
+| **Palabra Viva Cortes** `@PalabraVivaEnAudio` (handle já trocado em 20/08; o NOME ainda é "Cortes" — YouTube recusou por política, ver CLAUDE.md) | YouTube ES | 3 Shorts + 1 longo/dia | `Palavra-Viva-3x` | Gmail pessoal |
 | **Palavra Viva Diária** `@PalavraVivaDiária-biblia` | YouTube PT | **1 Short + 1 longo/dia** (cortado 15/08) | `Palavra-Viva-3x` | Gmail pessoal |
 | **La Noche Estoica** `@LaNocheEstoica` | YouTube ES | 1 Short/dia, 01 UTC | `Palavra-Viva-3x` | Gmail pessoal |
 | **Astucia Fría** `@AstuciaFria` | YouTube ES | 1 Short/dia, 01 UTC | `psicologia-fria` ⚠ | Gmail pessoal |

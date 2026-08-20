@@ -38,7 +38,7 @@ caminho hoje**. Não estimar inscritos: canal sem medição entra como "não med
 Cada canal tem projeto Google Cloud PRÓPRIO (quota de 10k/dia não é dividida).
 App OAuth precisa estar **em produção**, senão o refresh token morre em 7 dias.
 
-## Rebrand do canal ES: sai a palavra "Cortes" (19/08/2026)
+## Rebrand do canal ES: sai a palavra "Cortes" (19–20/08/2026)
 
 O canal nunca foi de cortes de terceiros (diretriz nº 5 sempre proibiu isso) e
 publica vídeo LONGO desde 19/07. O nome "Palabra Viva Cortes" era herança do
@@ -52,37 +52,58 @@ Radar Geek e descrevia errado o que o canal faz. Decisão do Diego em 19/08.
   tem API e não precisa do Studio.
 - `defaultLanguage` do canal corrigido de `en` para `es` (o canal aparecia com
   localização en_US). Efeito colateral: o YouTube criou a localização `es_ES`
-  congelando o título atual — atualizar junto quando o nome mudar.
+  congelando o título atual.
 - A **descrição** do canal nunca teve a palavra "cortes"; nada a limpar lá.
 
-**Pendente — nome e handle, só a partir de 20/08**
+**Feito em 20/08 — handle**
 
-O YouTube devolveu `TITLE_UPDATE_ERROR_NAME_CHANGE_QUOTA_EXCEEDED`
-("você inseriu muitos nomes que não podem ser usados, tente em 24 horas"):
-as tentativas com "Palabra Viva Diaria" foram **recusadas por política de nome**
-— `@PalabraVivaDiaria`, `@PalabraVivaCadaDia` e `@PalabraVivaBiblia` são canais
-que JÁ EXISTEM, e o YouTube barra nome igual ao de canal existente. Foi o mesmo
-erro que barrou "Noche Estoica" em 02/08.
+Handle trocado para **`@PalabraVivaEnAudio`** pelo Studio (via Chrome MCP,
+`javascript_tool`, `authuser=0`). Confirmado por API: `snippet.customUrl` =
+`@palabravivaenaudio`. Como o handle é queimado na legenda de todo Short e
+longo, os vídeos novos já saem sem "Cortes".
 
-- **Nome escolhido**: **Palabra Viva en Audio** · handle **@PalabraVivaEnAudio**
-  (conferido: handle livre, e não há canal com esse nome).
-- **Plano B**: "Palabra Viva Salmos" / `@PalabraVivaSalmos` (também livre).
-- Onde muda: Studio → Personalização → Informações básicas. O nome NÃO tem API:
-  `channels.update` aceita `brandingSettings.channel.title` no corpo e **ignora
-  silenciosamente** (devolve 200 com o título antigo). Só o endpoint interno
-  `youtubei/v1/channel_edit/update_channel_page_settings` grava, e é o Studio
-  quem o chama. O erro real vem em `titleUpdateStatus` da resposta — ler esse
-  campo, senão parece sucesso.
-- Depois de trocar: atualizar `titulo_canal` e `handle` em
-  `publicador/config.json`. **O handle é queimado na legenda de todo Short e
-  longo** (`fabrica.montar_short/montar_longo` → `legendas.ass_*`) e na capa,
-  então até isso os vídeos novos continuam estampando @PalabraVivaCortes.
-- Rodar depois o workflow **Realinhar descrições** (`-f canal=es`) para os
-  vídeos antigos.
+**Continua pendente — o NOME**
+
+Na mesma requisição em que o handle passou, o
+`update_channel_page_settings` devolveu **200** com
+`titleUpdateStatus.error = TITLE_UPDATE_ERROR_REJECTED_BY_TNS`
+(`updateStatus.errorCode: 9`) para "Palabra Viva en Audio" — ou seja, o nome
+foi recusado por **política de nome**, não mais por cota (o erro de 19/08 era
+`TITLE_UPDATE_ERROR_NAME_CHANGE_QUOTA_EXCEEDED`). Não foi insistido: cada
+recusa queima a cota de 24 h.
+
+- Não existe canal chamado "Palabra Viva en Audio" (conferido por
+  `search.list`), então a recusa não é duplicidade óbvia — pode ser resíduo do
+  bloqueio de 19/08 ou o filtro pegando o "Palabra Viva" cheio de homônimos.
+- **Plano B ficou arriscado**: "Palabra Viva Salmos" esbarra em
+  "Palabra Viva Salmos Cantados y Música Cristiana", que já existe — é
+  exatamente o tipo de colisão que derrubou "Palabra Viva Diaria".
+- Sugestão para a próxima tentativa (≥ 21/08): um nome sem homônimo, do tipo
+  **"Palabra Viva en Audio Diario"** ou **"Audio Palabra Viva"**; conferir
+  antes com `search.list` E com `curl` no handle.
+- Como ler o resultado de verdade: patch em `XMLHttpRequest.prototype.open`
+  para logar `JSON.parse(responseText).titleUpdateStatus` nas URLs
+  `/channel_edit/`. Sem isso a resposta 200 parece sucesso.
+- Enquanto o nome não mudar, `titulo_canal` em `publicador/config.json`
+  continua "Palabra Viva Cortes" (é o título real) e a localização `es_ES`
+  também — mexer só num dos dois cria incoerência.
+- `channels.update part=localizations` devolve **400 failedPrecondition**, e
+  `part=localizations,brandingSettings` é recusado
+  ("branding_settings cannot be used with other parts"): a localização também
+  só muda pelo Studio.
+
+**Não adianta rodar "Realinhar descrições" por causa do rebrand.** `handle` e
+`titulo_canal` NUNCA entram na descrição do vídeo: o handle só é usado em
+`fabrica.montar_short/montar_longo` → `legendas.ass_*`, ou seja, é **queimado no
+pixel** do vídeo. Os vídeos já publicados vão continuar estampando
+@PalabraVivaCortes na imagem para sempre (só re-upload mudaria) e o realinhar
+gastaria 50 unidades de cota por vídeo sem alterar nada.
 
 ⚠ Chrome: o Studio deste canal está na conta pessoal, que neste perfil do Chrome
 é **authuser=0** (o padrão do YouTube abre em diego@perffec.com.br). URL certa:
 `studio.youtube.com/channel/UCIh5XGRGc2t4rLmlukHZOgw/editing/profile?authuser=0`.
+A aba fica hidden: screenshot dá timeout, então operar por `javascript_tool`
+percorrendo shadow DOM e escrevendo com o setter nativo de `value`.
 
 ## Arquitetura — fila leve, render na hora de publicar
 
