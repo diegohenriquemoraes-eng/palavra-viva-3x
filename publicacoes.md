@@ -2614,3 +2614,11 @@
 - Item: short-1 — Meditaciones 11:56
 - Duração: 27.5s
 - Publicado em: 2026-08-21T02:57:43+00:00
+
+## [es] NeDvKoCEui8 — Salmo 91 — Bajo la sombra del Altísimo | Biblia
+
+- URL: https://youtu.be/NeDvKoCEui8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 91:1-2
+- Duração: 23.2s
+- Publicado em: 2026-08-21T09:27:25+00:00

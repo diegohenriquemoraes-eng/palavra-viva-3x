@@ -932,12 +932,19 @@
           "video_id": "hz6zZouqgcU",
           "titulo": "Salmo 121 — Mi socorro viene de Jehová | Biblia",
           "em": "2026-08-21T02:19:43+00:00"
+        },
+        {
+          "pacote": "2026-08-21-salmos-dormir-13",
+          "item": "short-2",
+          "video_id": "NeDvKoCEui8",
+          "titulo": "Salmo 91 — Bajo la sombra del Altísimo | Biblia",
+          "em": "2026-08-21T09:27:25+00:00"
         }
       ],
-      "ultimo_short": "2026-08-21T02:19:43+00:00",
+      "ultimo_short": "2026-08-21T09:27:25+00:00",
       "shorts_dia": {
         "data": "2026-08-21",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-21"
     },
