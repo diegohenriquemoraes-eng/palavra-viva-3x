@@ -1,0 +1,214 @@
+{
+  "slug": "elias-carmelo",
+  "formato": "historia",
+  "data": "2026-08-23",
+  "criado_em": "2026-08-21T01:59:10+00:00",
+  "aprovado_em": "2026-08-21T01:59:10+00:00",
+  "longo": {
+    "refs": [
+      "I Kings 18:30-46"
+    ],
+    "titulo": {
+      "es": "Elias en el Monte Carmelo - 1 Reyes 18 | Historia biblica",
+      "en": "Elijah on Mount Carmel - 1 Kings 18 | Bible Story",
+      "pt": "Elias no Monte Carmelo - 1 Reis 18 | Historia biblica"
+    },
+    "thumb_titulo": {
+      "es": "CAYO FUEGO",
+      "en": "THE FIRE FELL",
+      "pt": "CAIU FOGO"
+    },
+    "thumb_sub": {
+      "es": "1 Reyes 18",
+      "en": "1 Kings 18",
+      "pt": "1 Reis 18"
+    },
+    "abertura": {
+      "es": "Primera de Reyes dieciocho, el monte Carmelo. Un profeta contra cuatrocientos cincuenta, y una pregunta al pueblo: hasta cuándo claudicaréis entre dos pensamientos. El altar fue empapado con agua tres veces antes de la respuesta. Escucha el relato completo.",
+      "pt": "Primeiro livro dos Reis, dezoito, o monte Carmelo. Um profeta contra quatrocentos e cinquenta, e uma pergunta ao povo: até quando coxeareis entre dois pensamentos. O altar foi encharcado de água três vezes antes da resposta. Ouça o relato completo."
+    },
+    "tags_extra": {
+      "es": [
+        "elias monte carmelo",
+        "1 reyes 18",
+        "cayo fuego del cielo",
+        "historia biblica",
+        "profeta elias",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "elias monte carmelo",
+        "1 reis 18",
+        "caiu fogo do ceu",
+        "historia biblica",
+        "profeta elias",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "1 Reyes 18:30-46: Elías en el monte Carmelo, el altar empapado y el fuego que cayó. Narración completa y pausada, Reina-Valera 1909.",
+      "pt": "1 Reis 18:30-46: Elias no monte Carmelo, o altar encharcado e o fogo que caiu. Narração completa e pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Dawn-landscape-mountains-nature-2_%2824244339191%29.jpg/1920px-Dawn-landscape-mountains-nature-2_%2824244339191%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "www.Pixel.la Free Stock Photos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn-landscape-mountains-nature-2_(24244339191).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flickr_-_DVIDSHUB_-_Dawn_Patrol_During_Operation_Mountain_Fire.jpg/1920px-Flickr_-_DVIDSHUB_-_Dawn_Patrol_During_Operation_Mountain_Fire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "DVIDSHUB",
+        "origem": "https://commons.wikimedia.org/wiki/File:Flickr_-_DVIDSHUB_-_Dawn_Patrol_During_Operation_Mountain_Fire.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dawn_On_The_Mountain_%28241526467%29.jpeg/1920px-Dawn_On_The_Mountain_%28241526467%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Soibien032016",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn_On_The_Mountain_(241526467).jpeg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dawn_on_Memorial_Day_at_Smith_Mountain_Lake.jpg/1920px-Dawn_on_Memorial_Day_at_Smith_Mountain_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Des Runyan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn_on_Memorial_Day_at_Smith_Mountain_Lake.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/January_1st_dawn_2024_-_Antigua_Guatemala_-_Mountains.jpg/1920px-January_1st_dawn_2024_-_Antigua_Guatemala_-_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Erik Cleves Kristensen",
+        "origem": "https://commons.wikimedia.org/wiki/File:January_1st_dawn_2024_-_Antigua_Guatemala_-_Mountains.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lewes_Bonfire_Night_2017.jpg/1920px-Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "I Kings 18:21",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "1 Reyes 18 - Hasta cuando claudicareis | Historia biblica",
+        "en": "1 Kings 18 - How Long Halt Ye Between Two Opinions | Bible",
+        "pt": "1 Reis 18 - Ate quando coxeareis | Historia biblica"
+      },
+      "aplicacao": {
+        "es": "El relato anota la reaccion del pueblo: no respondio palabra.",
+        "pt": "O relato anota a reacao do povo: nao respondeu palavra."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dawn_in_the_Carpathian_Mountains.jpg/1920px-Dawn_in_the_Carpathian_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Danyil Solovchuk",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn_in_the_Carpathian_Mountains.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "I Kings 18:36-39",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "1 Reyes 18 - Respondeme, Jehova | Historia biblica narrada",
+        "en": "1 Kings 18 - Hear Me, O Lord | Bible Story Narrated",
+        "pt": "1 Reis 18 - Responde-me, Senhor | Historia biblica narrada"
+      },
+      "aplicacao": {
+        "es": "Antes de esto, el texto dice que el altar fue empapado con agua tres veces.",
+        "pt": "Antes disso, o texto diz que o altar foi encharcado de agua tres vezes."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "I Kings 19:11-12",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "1 Reyes 19 - Un silbo apacible y delicado | Biblia en espanol",
+        "en": "1 Kings 19 - A Still Small Voice | Bible",
+        "pt": "1 Reis 19 - Uma voz mansa e delicada | Biblia narrada"
+      },
+      "aplicacao": {
+        "es": "La escena enumera viento, terremoto y fuego, y descarta los tres.",
+        "pt": "A cena enumera vento, terremoto e fogo, e descarta os tres."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "I Kings 17:14-16",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "1 Reyes 17 - La harina no escaseara | Historia biblica",
+        "en": "1 Kings 17 - The Barrel of Meal Shall Not Waste | Bible",
+        "pt": "1 Reis 17 - A farinha nao se acabara | Historia biblica"
+      },
+      "aplicacao": "",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p02.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2122_p02.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
