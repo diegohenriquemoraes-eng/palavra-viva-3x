@@ -939,12 +939,19 @@
           "video_id": "NeDvKoCEui8",
           "titulo": "Salmo 91 — Bajo la sombra del Altísimo | Biblia",
           "em": "2026-08-21T09:27:25+00:00"
+        },
+        {
+          "pacote": "2026-08-21-salmos-dormir-13",
+          "item": "short-3",
+          "video_id": "8yxBMvef2lA",
+          "titulo": "Salmo 34 — Busqué a Jehová, y él me oyó | Biblia",
+          "em": "2026-08-21T17:21:02+00:00"
         }
       ],
-      "ultimo_short": "2026-08-21T09:27:25+00:00",
+      "ultimo_short": "2026-08-21T17:21:02+00:00",
       "shorts_dia": {
         "data": "2026-08-21",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-21"
     },

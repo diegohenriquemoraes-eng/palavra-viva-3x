@@ -2622,3 +2622,11 @@
 - Item: short-2 — Salmo 91:1-2
 - Duração: 23.2s
 - Publicado em: 2026-08-21T09:27:25+00:00
+
+## [es] 8yxBMvef2lA — Salmo 34 — Busqué a Jehová, y él me oyó | Biblia
+
+- URL: https://youtu.be/8yxBMvef2lA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Salmo 34:4-5
+- Duração: 20.4s
+- Publicado em: 2026-08-21T17:21:02+00:00
