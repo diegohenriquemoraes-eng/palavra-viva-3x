@@ -925,12 +925,19 @@
           "video_id": "LVAxRzLLV5I",
           "titulo": "Salmos para Dormir — Dios Nunca Duerme | Biblia Hablada con Voz Calmada",
           "em": "2026-08-21T01:38:25+00:00"
+        },
+        {
+          "pacote": "2026-08-21-salmos-dormir-13",
+          "item": "short-1",
+          "video_id": "hz6zZouqgcU",
+          "titulo": "Salmo 121 — Mi socorro viene de Jehová | Biblia",
+          "em": "2026-08-21T02:19:43+00:00"
         }
       ],
-      "ultimo_short": "2026-08-20T18:25:26+00:00",
+      "ultimo_short": "2026-08-21T02:19:43+00:00",
       "shorts_dia": {
-        "data": "2026-08-20",
-        "n": 3
+        "data": "2026-08-21",
+        "n": 1
       },
       "longo_data": "2026-08-21"
     },
@@ -1960,6 +1967,13 @@
           "video_id": "zMD4olBf-3g",
           "titulo": "Salmo 121 — O meu socorro vem do Senhor | Bíblia",
           "em": "2026-08-21T01:39:41+00:00"
+        },
+        {
+          "pacote": "2026-08-21-salmos-dormir-13",
+          "item": "longo",
+          "video_id": "Yu54rZMqTBU",
+          "titulo": "Salmos para Dormir — Deus Nunca Dorme | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-21T02:56:22+00:00"
         }
       ],
       "ultimo_short": "2026-08-21T01:39:41+00:00",
@@ -1967,7 +1981,7 @@
         "data": "2026-08-21",
         "n": 1
       },
-      "longo_data": "2026-08-20"
+      "longo_data": "2026-08-21"
     },
     "stoic": {
       "publicados": [
@@ -2138,11 +2152,18 @@
           "video_id": "XwuIvVK5QXI",
           "titulo": "La fama dura menos de lo que crees",
           "em": "2026-08-20T02:14:52+00:00"
+        },
+        {
+          "pacote": "2026-08-21-los-maestros",
+          "item": "short-1",
+          "video_id": "BOW6YWa67Vs",
+          "titulo": "La respuesta de Sócrates que nadie esperaba",
+          "em": "2026-08-21T02:57:43+00:00"
         }
       ],
-      "ultimo_short": "2026-08-20T02:14:52+00:00",
+      "ultimo_short": "2026-08-21T02:57:43+00:00",
       "shorts_dia": {
-        "data": "2026-08-20",
+        "data": "2026-08-21",
         "n": 1
       },
       "longo_data": ""
