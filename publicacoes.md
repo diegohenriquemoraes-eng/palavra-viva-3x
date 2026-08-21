@@ -2574,3 +2574,19 @@
 - Item: short-3 — Génesis 37:5-6
 - Duração: 21.6s
 - Publicado em: 2026-08-20T18:25:26+00:00
+
+## [es] LVAxRzLLV5I — Salmos para Dormir — Dios Nunca Duerme | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/LVAxRzLLV5I
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 121, Salmo 91, Salmo 34, Salmo 37, Salmo 40, Salmo 56, Salmo 57, Salmo 63
+- Duração: 4917.5s
+- Publicado em: 2026-08-21T01:38:25+00:00
+
+## [pt] zMD4olBf-3g — Salmo 121 — O meu socorro vem do Senhor | Bíblia
+
+- URL: https://youtu.be/zMD4olBf-3g
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 121:1-3
+- Duração: 24.1s
+- Publicado em: 2026-08-21T01:39:41+00:00

@@ -918,6 +918,13 @@
           "video_id": "1h7bU43UJgc",
           "titulo": "Genesis 37 - El sueno de Jose | Historia biblica narrada",
           "em": "2026-08-20T18:25:26+00:00"
+        },
+        {
+          "pacote": "2026-08-21-salmos-dormir-13",
+          "item": "longo",
+          "video_id": "LVAxRzLLV5I",
+          "titulo": "Salmos para Dormir — Dios Nunca Duerme | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-21T01:38:25+00:00"
         }
       ],
       "ultimo_short": "2026-08-20T18:25:26+00:00",
@@ -925,7 +932,7 @@
         "data": "2026-08-20",
         "n": 3
       },
-      "longo_data": "2026-08-20"
+      "longo_data": "2026-08-21"
     },
     "en": {
       "publicados": [
@@ -1946,11 +1953,18 @@
           "video_id": "ixNQZZGhkVs",
           "titulo": "Jose e seus Irmaos - Genesis 45 | Historia biblica narrada",
           "em": "2026-08-20T02:13:49+00:00"
+        },
+        {
+          "pacote": "2026-08-21-salmos-dormir-13",
+          "item": "short-1",
+          "video_id": "zMD4olBf-3g",
+          "titulo": "Salmo 121 — O meu socorro vem do Senhor | Bíblia",
+          "em": "2026-08-21T01:39:41+00:00"
         }
       ],
-      "ultimo_short": "2026-08-20T00:45:17+00:00",
+      "ultimo_short": "2026-08-21T01:39:41+00:00",
       "shorts_dia": {
-        "data": "2026-08-20",
+        "data": "2026-08-21",
         "n": 1
       },
       "longo_data": "2026-08-20"
