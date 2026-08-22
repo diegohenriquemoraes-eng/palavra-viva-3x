@@ -41,14 +41,74 @@
 2. **pt continua caindo** — mediana da coorte 2-7 d: 41 (10/08) → 15 (17/08), 74 inscritos.
    O corte para 1 Short/dia foi em 15/08 e ainda não teve tempo de aparecer. Régua: 15/09.
 
-Medição de 17/08 (coorte 2-7 dias, `conteudo/desempenho_historico.json`):
+Medição de 22/08 (coorte 2-7 dias, `conteudo/desempenho_historico.json`):
 
 | canal | mediana | inscritos | views totais |
 |---|---|---|---|
-| es (Palabra Viva Cortes) | **573** | 289 | 73.100 |
-| stoic (La Noche Estoica) | **644** | 24 | 12.270 |
-| pt (Palavra Viva Diária) | 15 | 74 | 8.138 |
-| astucia (Astucia Fría) | 8 ⚠ formato novo desde 15/08 | 4 | 652 |
+| es (Palabra Viva) | **286** ⚠ ver queda do rebrand | 314 | 79.007 |
+| stoic (La Noche Estoica) | **782** | 28 | 15.306 |
+| pt (Palavra Viva Diária) | 11 | 76 | 8.621 |
+| astucia (Astucia Fría) | — (motor no repo psicologia-fria) | 7 | 652 |
+
+## Estudo de 22/08 — o que separa quem cresce de quem não cresce
+
+Feito com a **Analytics API** (retenção, fonte de tráfego, país, watch time), leitura pura, sem
+mexer em canal. Relatório em `Desktop\Analise-Canais-YouTube-22-08-2026.html`.
+
+**A variável é RETENÇÃO, e só ela.** Mesmo código, mesma duração mediana de Short (20,3 s no ES e
+no PT), mesmos temas:
+
+| canal | retenção do Short | tempo médio | views medianas |
+|---|---|---|---|
+| es | **103,5%** (loop) | 22 s | 846 |
+| stoic | **90,0%** | 16 s | 486 |
+| pt | 53,2% | 11 s | 42 |
+| astucia | 29,7% | 6 s | 26 |
+
+Abaixo de ~70% o YouTube não impulsiona. O PT **nasceu** em ~50% — nunca foi punido, nunca decolou.
+
+Três hipóteses caem com dado:
+- **Não é o tema.** O pt é a réplica bíblica exata e faz 1/18; o stoic não tem Bíblia e retém 90%.
+- **Não é o idioma.** poder e astucia são ES e retiveram 30%.
+- **Não é frequência.** O corte do PT de 4/dia para 1/dia (15/08) **não mexeu na retenção**:
+  57,8% (sem 32) → 51,0% (sem 33) → 41,9% (sem 34). A régua de 15/09 já pode ser decidida.
+
+O que os dois vencedores têm em comum: **texto clássico contemplativo, narrado em espanhol, sem
+interpretação, em ciclo fechado**. Os que falharam em ES tinham camada autoral (citação +
+aplicação) — vira conselho, o espectador ouve e sai.
+
+**O achado que muda a decisão do PT:** separando formato, em 60 dias —
+
+| | vídeos | views | horas assistidas | min/view |
+|---|---|---|---|---|
+| es shorts | 96 | 73.586 | 166,6 h | 0,14 |
+| es **longos** | 33 | 1.492 | **171,7 h** | 6,9 |
+| pt shorts | 81 | 7.085 | 8,2 h | 0,07 |
+| pt **longos** | 30 | 1.374 | **125,8 h** | 5,5 |
+
+**O longo em PT rende quase o mesmo que o longo em ES.** 94% do watch time do canal PT vem dos
+longos, e 14,2% do tráfego dele entra por vídeo relacionado com sessão de 5 min. Desligar o PT
+seria jogar fora ~765 h/ano de exibição por causa do Short, que é 6% do tempo assistido dele.
+O PT também converte MAIS inscrito por view que o ES (9,2 vs 3,9 por mil).
+
+Monetização: **Short não conta hora de exibição**. Os 73 mil views de Shorts do ES valem zero no
+portão. A trilha real é o longo — ES projeta ~1.045 h/ano contra 4.000 h necessárias, e o que
+falta é **views por longo** (capa/título/busca), não mais render. Inscritos do ES: +5,8/dia →
+mil por volta de 18/12/2026.
+
+⚠ **Queda do ES em 17-20/08 e o rebrand.** Views/dia: 2.512 (16/08) → 789 → 618 → 510 (19/08),
+recuperando para ~1.600 e ~2.300 em 21 e 22. Coincide com a capa nova, o `defaultLanguage` e o
+handle (19 e 20/08). A retenção dos vídeos da mesma semana continuou em 116,8% — não foi o
+conteúdo. Não é prova de causa, mas **a troca de NOME que ficou pendente deve continuar pendente**:
+não há ganho mensurável e há risco medido.
+
+Encaminhamento recomendado (nada foi executado):
+1. Escalar a **Noche Estoica** para 2-3 Shorts/dia — retém 90% publicando 1/dia; teste mais barato da casa.
+2. Canal ES novo com corpus diferente e o MESMO formato (Provérbios/Eclesiastes, orações narradas).
+3. PT vira canal de **longo**; no máximo 1 Short como isca. Não desligar em 15/09.
+4. Se ainda quiser insistir no Short em PT, o único teste que ataca a causa é **trocar a voz**
+   (`pt-BR-AntonioNeural` está queimada no Brasil) e cortar para ≤15 s — a única faixa em que o
+   PT ainda retém 82%.
 
 ## O corte de 15/08 — a medição que mandou
 
