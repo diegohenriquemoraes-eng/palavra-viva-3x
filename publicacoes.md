@@ -2670,3 +2670,11 @@
 - Item: short-1 — Enquiridión 56:2
 - Duração: 18.8s
 - Publicado em: 2026-08-22T02:23:47+00:00
+
+## [es] tLmYQ0z837s — Ezequiel 36:26 - Os dare corazon nuevo | Biblia en espanol
+
+- URL: https://youtu.be/tLmYQ0z837s
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Ezequiel 36:26
+- Duração: 19.6s
+- Publicado em: 2026-08-22T09:19:17+00:00

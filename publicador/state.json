@@ -960,12 +960,19 @@
           "video_id": "CoJBG22fQlo",
           "titulo": "2 Corintios 5:17 - Si alguno esta en Cristo, nueva criatura es",
           "em": "2026-08-22T02:10:23+00:00"
+        },
+        {
+          "pacote": "2026-08-22-vida-nova",
+          "item": "short-2",
+          "video_id": "tLmYQ0z837s",
+          "titulo": "Ezequiel 36:26 - Os dare corazon nuevo | Biblia en espanol",
+          "em": "2026-08-22T09:19:17+00:00"
         }
       ],
-      "ultimo_short": "2026-08-22T02:10:23+00:00",
+      "ultimo_short": "2026-08-22T09:19:17+00:00",
       "shorts_dia": {
         "data": "2026-08-22",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-22"
     },
