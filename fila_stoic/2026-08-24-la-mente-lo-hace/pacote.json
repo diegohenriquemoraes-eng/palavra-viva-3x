@@ -1,0 +1,168 @@
+{
+  "slug": "la-mente-lo-hace",
+  "formato": "tema",
+  "data": "2026-08-24",
+  "criado_em": "2026-08-22T18:50:55+00:00",
+  "aprovado_em": "2026-08-22T18:50:55+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 6:1-27"
+    ],
+    "titulo": {
+      "stoic": "1 Hora de Marco Aurelio: Todo Empieza en tu Mente | Meditaciones VI"
+    },
+    "thumb_titulo": {
+      "stoic": "TODO EMPIEZA EN TU MENTE"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VI"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Guisard_-_Milky_Way.jpg/1920px-Guisard_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/S. Guisard ( www.eso.org/~sguisard )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stars_Gather_in_%27Downtown%27_Milky_Way.jpg/1920px-Stars_Gather_in_%27Downtown%27_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stars_Gather_in_%27Downtown%27_Milky_Way.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/1920px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/ESA/CXC/STScI",
+        "origem": "https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ESO_-_Milky_Way.jpg/1920px-ESO_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ S. Brunier",
+        "origem": "https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2117_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2117_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2117_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2110_ND_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2110_ND_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dark-forest-combo-1.JPG/1920px-Dark-forest-combo-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-1.JPG",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ergaki%2C_Taiga_in_Siberia%2C_Dark_coniferous_forest%2C_Sayan_Mountains%2C_Russia.jpg/1920px-Ergaki%2C_Taiga_in_Siberia%2C_Dark_coniferous_forest%2C_Sayan_Mountains%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ergaki,_Taiga_in_Siberia,_Dark_coniferous_forest,_Sayan_Mountains,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_dark_and_light.jpg/1920px-Forest_dark_and_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Will Aelethrune",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_and_light.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Forest_dark_road.jpg/1920px-Forest_dark_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Paolo Neo",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_road.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 6:8",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La mente se mueve sola"
+      },
+      "aplicacao": "Nadie mete un pensamiento en tu cabeza. Si entró, tú lo dejaste pasar; también puedes dejarlo ir.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p03.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p03.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 6:3",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Mira por dentro, no por fuera"
+      },
+      "aplicacao": "Antes de reaccionar, pregunta qué es esto en realidad. La mitad de las urgencias se caen ahí.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Maid_with_burning_candle_%281839%29%2C_PA06579.jpg/1920px-Maid_with_burning_candle_%281839%29%2C_PA06579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pierre Louis Dubourcq",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maid_with_burning_candle_(1839),_PA06579.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:16",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Examina la idea antes de creerla"
+      },
+      "aplicacao": "Un pensamiento no es un hecho. Míralo como quien mira un objeto, y decide si es verdadero.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dark_forest_scenic.jpg/1920px-Dark_forest_scenic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Sallie, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_scenic.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 9:16",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Limpia la imaginación"
+      },
+      "aplicacao": "Cuando la cabeza se dispara de noche, no discutas con ella: bájale el volumen y vuelve a lo que tienes delante.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
