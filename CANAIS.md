@@ -9,8 +9,9 @@
 | Canal | Plataforma | Ritmo | Motor (pasta) | Conta |
 |---|---|---|---|---|
 | **Palabra Viva Cortes** `@PalabraVivaEnAudio` (handle já trocado em 20/08; o NOME ainda é "Cortes" — YouTube recusou por política, ver CLAUDE.md) | YouTube ES | 3 Shorts + 1 longo/dia | `Palavra-Viva-3x` | Gmail pessoal |
-| **Palavra Viva Diária** `@PalavraVivaDiária-biblia` | YouTube PT | **1 Short + 1 longo/dia** (cortado 15/08) | `Palavra-Viva-3x` | Gmail pessoal |
-| **La Noche Estoica** `@LaNocheEstoica` | YouTube ES | 1 Short/dia, 01 UTC | `Palavra-Viva-3x` | Gmail pessoal |
+| **Palavra Viva Diária** `@PalavraVivaDiária-biblia` | YouTube PT | 1 Short + 1 longo/dia — **canal de LONGO desde 22/08** | `Palavra-Viva-3x` | Gmail pessoal |
+| **La Noche Estoica** `@LaNocheEstoica` | YouTube ES | **3 Shorts/dia desde 22/08** (era 1), 01 UTC | `Palavra-Viva-3x` | Gmail pessoal |
+| **Sabiduría** (nome a definir) | YouTube ES | ⏳ **preparado, canal ainda não existe** | `Palavra-Viva-3x` | — |
 | **Astucia Fría** `@AstuciaFria` | YouTube ES | 1 Short/dia, 01 UTC | `psicologia-fria` ⚠ | Gmail pessoal |
 | **@psicologiafria.br** | Instagram | 7 Reels/dia | `psicologia-fria` | — |
 | **@VendanaObra** | YouTube PT | manual | — | `diego@perffec.com.br` |
@@ -27,6 +28,43 @@
 | **El Poder Crudo** `@ElPoderCrudo` | 15/08 | 12 dias, 4 inscritos, mediana 74 contra régua de 300. Canal e vídeos ficam no ar. **Não reativar o formato Maquiavel.** |
 | **Corte em Pauta** (cortes do Flow) | 18/07 | Encerrado. O canal virou o Living Word Daily; a pasta é arquivo morto, mas as credenciais em `youtube-api/` seguem em uso como os secrets `YT_*_EN`. |
 | **Palabra-Viva** (repo antigo) | 19/07 | Aposentado. O canal é abastecido pelo 3x; a pasta guarda as credenciais `YT_*_ES`. |
+
+## O que foi executado em 22/08 (as 4 decisões do Diego)
+
+Ordem de leitura: o estudo acima diz **por quê**; isto diz **o que mudou**. Regra que valeu para
+tudo: **nada tocado no canal ES** — decisão explícita do Diego, e é o canal que sustenta a casa.
+
+1. **O poço estoico estava SECO e ninguém sabia.** A fila terminava em 22/08: a Noche Estoica
+   pararia no dia 23. O vigia não avisou porque só olhava `temas.json` — o poço estoico não
+   existia para ele. **Corrigido nos dois lugares**: `vigia.py` agora percorre todas as linhas
+   (`POCOS`), e o alarme de fila vazia do `publicar.yml` agora olha todas as filas, não só `fila/`.
+   Repostos **+14 temas** (56 Shorts) — alcance de 14 dias.
+2. **Noche Estoica escalada de 1 para 3 Shorts/dia.** A régua do método já tinha sido cumprida
+   com folga: mediana de 782 na coorte 2-7 d contra os 300 exigidos, retenção de 90%, 26 vídeos
+   desde 03/08. Detalhe que torna isto barato: **os pacotes já tinham 4 Shorts cada e só o
+   short-1 era publicado** — subir para 3 não consome o poço mais rápido, só usa o que já estava
+   escrito. Cota: 3 uploads = ~5.150 de 10.000, folga de 3 reenvios. **Medir em 22/09**: se a
+   mediana cair abaixo de 300, voltar para 1/dia.
+3. **Poço bíblico reposto**: tinha 9 dias, agora tem **21**. +12 temas (48 Shorts), todos com SEO
+   por tema, abertura falada no longo e camada autoral no Short. Novos: Rute e Noemi, Zaqueu,
+   a tempestade acalmada, os cinco pães, a samaritana, Gideão, os dez leprosos, setenta vezes
+   sete, Jeremias 29, e três "salmos para dormir".
+4. **Canal PT virou canal de LONGO** e a régua de desligar de 15/09 está **cancelada** —
+   ver o estudo acima. Nova régua, **22/11**: horas de exibição dos longos em 12 meses.
+   Não medir mais este canal pela mediana de views de Short: é a métrica errada para o que ele é.
+5. **Canal ES novo preparado e dormente** (`sabiduria`, Proverbios/Eclesiastés na RV1909, voz
+   **feminina** es-MX-Dalia — a primeira da casa). Está tudo pronto menos o que depende do
+   YouTube: linha própria no reabastecedor e no vigia, bloco em `idiomas.py`, secrets no
+   `publicar.yml`, e poço com 10 temas validados. Com `ativo: false` ele não renderiza nem
+   publica nada. **O que falta é só o Diego** — os 6 passos estão em
+   `publicador/config.json`, em `sabiduria._o_que_falta_o_diego_fazer`.
+6. **Camada autoral fechada**: 9 Shorts de temas ainda não publicados sairiam como leitura crua
+   (é o que a política do YPP lista como inelegível). Hoje **todo tema livre dos três poços está
+   coberto**.
+
+⚠ Um alarme falso do vigia deve aparecer no dia 22: com `shorts_por_dia: 3` o limite do canal
+estoico cai de 30h para 14h, e o canal só passa a publicar de 7 em 7 h a partir do dia 23.
+Some sozinho.
 
 ## O que está pedindo mão em 17/08
 
@@ -121,6 +159,38 @@ Feita pela API, coorte de 2-7 dias:
 
 Régua dos canais em Protocolo Fantasma: **mediana ≥ 300 views/Short em 30 dias** mantém e escala.
 
+## Onde o canal ES está para monetizar — conferido em 22/08
+
+Pergunta do Diego: *"o canal está elegível quando atingir o número?"* Ninguém pode **confirmar**
+elegibilidade — quem decide é a revisão humana do YouTube, e ela olha o canal inteiro. O que dá
+para dizer é onde ele está em cada portão, com número.
+
+**Portão A (volume) — falta, e o gargalo é hora, não inscrito.**
+
+| | hoje | meta | ritmo |
+|---|---|---|---|
+| Inscritos | 314 | 1.000 | +5,8/dia → **~18/12/2026** |
+| Horas (só longos contam) | 171,7 h em 60 d | 4.000 h/12 meses | **~1.045 h/ano — falta 4×** |
+
+Os 73.586 views de Shorts valem **zero** aqui. E a trilha alternativa (10 mi de views de Shorts
+em 90 dias) exige 111 mil/dia; o canal faz ~1.800. Está fora.
+
+**Portão B (formato) — coberto no Short, meio coberto no longo.**
+
+- **Shorts: 103 de 103 têm camada autoral** (nota factual sobre o texto). Cobertos.
+- **Longos: 18 de 35 têm abertura falada**, e todos os 18 são de 05/08 em diante. Os **17
+  anteriores são leitura crua sobre fundo estático** — exatamente o que a política descreve como
+  inelegível ("readings of other materials you did not originally create", "image slideshows...
+  with minimal or no narrative").
+
+⚠ **E aqui está a decisão desagradável, com o número medido**: os 17 longos de leitura crua valem
+**50% de todas as horas de longo do canal** (86,6 h contra 85,0 h dos novos). Deixá-los não
+listados antes de submeter limpa o acervo — e **corta metade da trilha de horas**. Não há como
+ter as duas coisas. No canal PT o mesmo cálculo dá 27%, bem mais barato de limpar.
+
+Nada foi feito quanto a isso em 22/08: é decisão do Diego, e mexer no acervo do ES contraria a
+ordem de não tocar no canal.
+
 ## O muro que vale para todos: monetização tem dois portões
 
 - **Portão A (volume)**: 1.000 inscritos + 4.000 h em 12 meses **OU** 1.000 inscritos + 10 mi
@@ -133,6 +203,48 @@ Régua dos canais em Protocolo Fantasma: **mediana ≥ 300 views/Short em 30 dia
   camada autoral.
 
 Detalhe em `Palavra-Viva-3x/ESTRATEGIA-MONETIZACAO.md`.
+
+## O motor tem prazo de validade? — resposta de 22/08
+
+Não pára sozinho por desgaste, mas **também não é perpétuo**. São cinco relógios, e só um deles
+é realmente curto:
+
+| Relógio | Estado em 22/08 | Quem resolve |
+|---|---|---|
+| **Poço de temas** ⏳ | bíblico **21 dias**, estoico **14 dias** | escrita à mão — é o único que **acaba de verdade** |
+| Token OAuth | precisa do app **em produção**; fora dela o refresh morre em 7 dias | uma vez, no Cloud |
+| Cota da API | ES ~7.200/10.000; estoico ~5.150/10.000 com 3 Shorts | teto, não relógio |
+| Actions | repo público = minutos ilimitados | — |
+| edge-tts e Wikimedia | dependências externas sem contrato | risco, não prazo |
+
+**O poço é o prazo de validade.** Cada tema é um dia; escrevê-los é trabalho de escrita humana
+(refs válidas, títulos nos idiomas do canal, consultas de imagem em pares concretos, camada
+autoral, abertura do longo). Um canal com poço vazio para no dia seguinte, em silêncio —
+foi o que quase aconteceu com a Noche Estoica em 23/08.
+
+Regra prática: **repor quando o vigia avisar (5 dias), não quando zerar.** O aviso dá 5 dias e
+encher leva uma sessão. Chegar a 4 dias, como em 17/08, é tarde demais para uma semana ruim.
+
+As duas correções de 22/08 (vigia por linha + alarme de fila por linha) existem para que esse
+aviso chegue de **todos** os poços, e não só do bíblico.
+
+## As vozes — uma por canal, de propósito
+
+Nenhum canal usa a voz de outro: duas vozes iguais na mesma conta é assinatura de fábrica.
+
+| Canal | Voz (edge-tts) |
+|---|---|
+| Palabra Viva (ES) | `es-MX-JorgeNeural` |
+| La Noche Estoica (ES) | `es-US-AlonsoNeural` |
+| El Poder Crudo (ES, desligado) | `es-CO-GonzaloNeural` |
+| Astucia Fría (ES, migrado) | `es-AR-TomasNeural` |
+| Palavra Viva Diária (PT) | `pt-BR-AntonioNeural` |
+| Living Word Daily (EN, desligado) | `en-US-ChristopherNeural` |
+| Sabiduría (ES, preparado) | **`es-MX-DaliaNeural` — feminina** |
+
+Todas as seis em uso são masculinas. A do canal novo é a primeira feminina da casa, e serve
+também como o teste de voz que ficou pendente no canal PT — onde `pt-BR-Antonio` é a voz que o
+Diego já reprovou no Psicologia Fria e que o brasileiro ouve em toda parte.
 
 ## Armadilhas que já custaram caro
 
