@@ -33,6 +33,25 @@ STATE = RAIZ / "publicador" / "state.json"
 TEMAS = RAIZ / "conteudo" / "temas.json"
 FILA = RAIZ / "fila"
 
+# Os poços, na mesma divisão de LINHAS do reabastecer.py: poço -> (temas, fila).
+# Espelho manual de propósito — vigia não importa o reabastecedor para não
+# depender das libs de imagem/rede só para dar um alarme.
+POCOS = {
+    "biblia": (RAIZ / "conteudo" / "temas.json", RAIZ / "fila"),
+    "estoico": (RAIZ / "conteudo" / "temas_estoico.json", RAIZ / "fila_stoic"),
+    "poder": (RAIZ / "conteudo" / "temas_poder.json", RAIZ / "fila_poder"),
+    "astucia": (RAIZ / "conteudo" / "temas_astucia.json", RAIZ / "fila_astucia"),
+    "sabiduria": (RAIZ / "conteudo" / "temas_sabiduria.json",
+                  RAIZ / "fila_sabiduria"),
+}
+CANAIS_DA_LINHA = {
+    "biblia": ("es", "en", "pt"),
+    "estoico": ("stoic",),
+    "poder": ("poder",),
+    "astucia": ("astucia",),
+    "sabiduria": ("sabiduria",),
+}
+
 LIMITE_MUDO_H = 14
 LIMITE_TEMAS = 5
 
@@ -83,19 +102,36 @@ def main() -> None:
         else:
             print(f"ok  {idioma}: publicou há {horas:.1f}h")
 
-    # 2) estoque de temas
-    usados = set()
-    if FILA.is_dir():
-        usados = {p.name[11:] for p in FILA.iterdir()
-                  if p.is_dir() and len(p.name) > 11}
-    livres = [t for t in temas if t["slug"] not in usados]
-    print(f"ok  estoque: {len(livres)} tema(s) livre(s) no poço")
-    if len(livres) < LIMITE_TEMAS:
-        alarmes.append(
-            f"- **Estoque de temas baixo**: restam **{len(livres)} dia(s)** de "
-            f"conteúdo em `conteudo/temas.json`. Quando zerar, os canais param. "
-            f"Adicionar temas novos (1 longo + 4 Shorts, títulos nos 3 idiomas) "
-            f"e validar com `python produzir/reabastecer.py --dry-run`.")
+    # 2) estoque de temas — UMA LINHA POR VEZ.
+    #
+    # Até 22/08/2026 este bloco só olhava `temas.json` (a linha bíblica). O
+    # poço estoico secou em silêncio: no dia 22 a fila do canal terminava e
+    # nenhum alarme tinha sido dado, porque o vigia nem sabia que aquele poço
+    # existia. Alarme que cobre parte da operação dá a sensação errada de que
+    # o resto está coberto — é pior do que não existir.
+    for nome, (arq_temas, fila) in POCOS.items():
+        if not any(config.get("canais", {}).get(c, {}).get("ativo")
+                   for c in CANAIS_DA_LINHA[nome]):
+            continue          # linha sem canal ativo não tem o que vigiar
+        temas_linha = carregar(arq_temas, [])
+        temas_linha = (temas_linha["temas"] if isinstance(temas_linha, dict)
+                       else temas_linha)
+        usados = set()
+        if fila.is_dir():
+            usados = {p.name[11:] for p in fila.iterdir()
+                      if p.is_dir() and len(p.name) > 11}
+        livres = [t for t in temas_linha if t["slug"] not in usados]
+        print(f"ok  estoque {nome}: {len(livres)} tema(s) livre(s) no poço")
+        if len(livres) < LIMITE_TEMAS:
+            alarmes.append(
+                f"- **Estoque de temas baixo ({nome})**: restam "
+                f"**{len(livres)} dia(s)** em "
+                f"`{arq_temas.relative_to(RAIZ).as_posix()}`. Quando zerar, os "
+                f"canais desta linha param: "
+                f"{', '.join(CANAIS_DA_LINHA[nome])}. Escrever temas novos e "
+                f"validar com `python produzir/reabastecer.py --dry-run "
+                f"--dias 12` (sem o `--dias` a fila diz saudável e não valida "
+                f"os temas novos).")
 
     # 3) QUEDA DE AUDIÊNCIA — o alarme que faltava em 15/08/2026
     #

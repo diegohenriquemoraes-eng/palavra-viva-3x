@@ -79,8 +79,10 @@ jobs:
           PODER_TOKEN: ${{ secrets.YT_TOKEN_PODER }}
           ASTUCIA_SECRET: ${{ secrets.YT_CLIENT_SECRET_ASTUCIA }}
           ASTUCIA_TOKEN: ${{ secrets.YT_TOKEN_ASTUCIA }}
+          SABIDURIA_SECRET: ${{ secrets.YT_CLIENT_SECRET_SABIDURIA }}
+          SABIDURIA_TOKEN: ${{ secrets.YT_TOKEN_SABIDURIA }}
         run: |
-          for lang in es en pt stoic poder astucia; do
+          for lang in es en pt stoic poder astucia sabiduria; do
             secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
             token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
             secret="${!secret_var}"
@@ -112,16 +114,28 @@ jobs:
           python publicador/publicar.py $args
 
       - name: Alarme se não houver pacote para amanhã
+        # Olha TODAS as filas ativas, não só a bíblica. Até 22/08/2026 este
+        # passo só conferia `fila/`, e por isso o poço estoico secou sem que
+        # nenhum alarme disparasse — o canal ia parar no dia seguinte e o
+        # workflow reportava tudo em ordem.
         if: always()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           amanha=$(date -u -d "+1 day" +%F)
-          if ! ls -d fila/${amanha}-* >/dev/null 2>&1; then
+          faltando=""
+          for f in fila fila_stoic fila_sabiduria; do
+            # fila que não existe = linha ainda não ligada; não é alarme
+            [ -d "$f" ] || continue
+            if ! ls -d ${f}/${amanha}-* >/dev/null 2>&1; then
+              faltando="$faltando $f"
+            fi
+          done
+          if [ -n "$faltando" ]; then
             titulo="Fila sem pacote para $amanha — reabastecedor falhou"
             if [ -z "$(gh issue list --state open --search 'reabastecedor falhou in:title' --json number -q '.[].number')" ]; then
               gh issue create --title "$titulo" \
-                --body "Não existe pacote em \`fila/\` para **$amanha**. Ver o workflow **Reabastecer** em Actions: provável poço de temas seco (\`conteudo/temas.json\`) ou Openverse fora do ar. Sem pacote, os 3 canais param nessa data."
+                --body "Não existe pacote para **$amanha** em:$faltando. Ver o workflow **Reabastecer** em Actions: provável poço de temas seco (\`conteudo/temas.json\` para \`fila\`, \`temas_estoico.json\` para \`fila_stoic\`, \`temas_sabiduria.json\` para \`fila_sabiduria\`) ou Commons fora do ar. Sem pacote, os canais daquela linha param nessa data."
             fi
           fi
 

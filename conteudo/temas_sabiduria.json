@@ -1,0 +1,855 @@
+[
+  {
+    "slug": "confiar-y-decidir",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 3"
+      ],
+      "titulo": {
+        "sabiduria": "Proverbios 3 Completo — Fíate de Jehová de todo tu corazón | Biblia"
+      },
+      "thumb_titulo": {
+        "sabiduria": "FÍATE DE TODO CORAZÓN"
+      },
+      "thumb_sub": {
+        "sabiduria": "Proverbios 3"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "olive tree",
+        "dusk sky"
+      ],
+      "abertura": {
+        "sabiduria": "Proverbios, capítulo tres, completo. Es el capítulo de la confianza y del trato con los demás: no te apoyes en tu propia prudencia, no niegues el bien a quien puedes ayudar, y la promesa que cierra la primera parte — te acostarás, y tu sueño será grato. Treinta y cinco versículos seguidos, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "proverbios 3",
+          "fiate de jehova de todo tu corazon",
+          "proverbios completo",
+          "sabiduria biblica",
+          "biblia hablada",
+          "proverbios de salomon"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Proverbios 3 completo: la confianza que no se apoya en la propia prudencia, el valor de la sabiduría y el sueño grato. Narración pausada, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 3:7-8",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "sabiduria": "Proverbios 3 — No seas sabio en tu propia opinión"
+        },
+        "aplicacao": {
+          "sabiduria": "El proverbio une la humildad con la salud del cuerpo, en el mismo verso."
+        }
+      },
+      {
+        "ref": "Proverbs 3:13-15",
+        "tipo": "promesa",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "sabiduria": "Proverbios 3 — Bienaventurado el hombre que halla la sabiduría"
+        },
+        "aplicacao": {
+          "sabiduria": "La comparación es con la plata y el oro, no con el conocimiento."
+        }
+      },
+      {
+        "ref": "Proverbs 3:27",
+        "tipo": "maxim",
+        "consulta_imagem": "stone road",
+        "titulo": {
+          "sabiduria": "Proverbios 3 — No detengas el bien cuando puedas hacerlo"
+        },
+        "aplicacao": {
+          "sabiduria": "La condición está en la segunda mitad: cuando esté en tu mano hacerlo."
+        }
+      },
+      {
+        "ref": "Proverbs 3:24",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "sabiduria": "Proverbios 3 — Te acostarás y tu sueño será grato"
+        },
+        "aplicacao": {
+          "sabiduria": "El texto habla del acostarse antes de hablar del dormir."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "la-lengua",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 15"
+      ],
+      "titulo": {
+        "sabiduria": "Proverbios 15 Completo — La Blanda Respuesta Quita la Ira | Biblia"
+      },
+      "thumb_titulo": {
+        "sabiduria": "LA BLANDA RESPUESTA"
+      },
+      "thumb_sub": {
+        "sabiduria": "Proverbios 15"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "stone road",
+        "olive tree"
+      ],
+      "abertura": {
+        "sabiduria": "Proverbios, capítulo quince, completo. Es el capítulo de la boca: la blanda respuesta que quita la ira, la palabra dicha a su tiempo, el corazón que piensa antes de responder. Treinta y tres versículos seguidos, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "proverbios 15",
+          "la blanda respuesta quita la ira",
+          "proverbios completo",
+          "sabiduria biblica",
+          "biblia hablada",
+          "controlar la lengua"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Proverbios 15 completo: la blanda respuesta, la palabra a su tiempo y el corazón que piensa antes de hablar. Narración pausada, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 15:2",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "sabiduria": "Proverbios 15 — La lengua de los sabios adornará la sabiduría"
+        },
+        "aplicacao": {
+          "sabiduria": "El capítulo entero alterna al sabio y al necio, verso por verso."
+        }
+      },
+      {
+        "ref": "Proverbs 15:23",
+        "tipo": "promesa",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "sabiduria": "Proverbios 15 — La palabra a su tiempo, ¡cuán buena es!"
+        },
+        "aplicacao": {
+          "sabiduria": "El proverbio pone dos condiciones: la respuesta y el tiempo."
+        }
+      },
+      {
+        "ref": "Proverbs 15:28",
+        "tipo": "maxim",
+        "consulta_imagem": "stone road",
+        "titulo": {
+          "sabiduria": "Proverbios 15 — El corazón del justo piensa para responder"
+        },
+        "aplicacao": {
+          "sabiduria": "El justo piensa para responder; el impío derrama, dice el mismo verso."
+        }
+      },
+      {
+        "ref": "Proverbs 15:33",
+        "tipo": "maxim",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "sabiduria": "Proverbios 15 — Antes de la honra está el abatimiento"
+        },
+        "aplicacao": {
+          "sabiduria": "Es el verso que cierra el capítulo."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tiempo-para-todo",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Ecclesiastes 3",
+        "Ecclesiastes 4"
+      ],
+      "titulo": {
+        "sabiduria": "Eclesiastés 3 y 4 — Todo Tiene su Tiempo | Biblia para Dormir"
+      },
+      "thumb_titulo": {
+        "sabiduria": "TODO TIENE SU TIEMPO"
+      },
+      "thumb_sub": {
+        "sabiduria": "Eclesiastés 3 y 4"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "milky way",
+        "dusk sky"
+      ],
+      "abertura": {
+        "sabiduria": "Eclesiastés, capítulos tres y cuatro, completos. El primero es el más conocido del libro: tiempo de nacer y tiempo de morir, tiempo de callar y tiempo de hablar. El segundo mira el trabajo sin descanso y la soledad, y llega a la frase que muchos repiten sin saber de dónde viene: mejores son dos que uno. Escúchalos enteros, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "eclesiastes 3",
+          "todo tiene su tiempo",
+          "eclesiastes 4",
+          "biblia para dormir",
+          "sabiduria biblica",
+          "biblia hablada"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Eclesiastés 3 y 4 completos: el tiempo para cada cosa, la obra que permanece y el mejores son dos que uno. Narración pausada para dormir, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Ecclesiastes 3:14",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "sabiduria": "Eclesiastés 3 — Todo lo que Dios hace será perpetuo"
+        },
+        "aplicacao": {
+          "sabiduria": "El verso viene justo después de la lista de los tiempos."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 3:22",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "sabiduria": "Eclesiastés 3 — No hay cosa mejor que alegrarse en su obra"
+        },
+        "aplicacao": {
+          "sabiduria": "El Predicador repite esta conclusión tres veces en el libro."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 4:9-10",
+        "tipo": "promesa",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "sabiduria": "Eclesiastés 4 — Mejores son dos que uno"
+        },
+        "aplicacao": {
+          "sabiduria": "El texto sigue hasta tres: el cordón de tres dobleces."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 4:6",
+        "tipo": "maxim",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "sabiduria": "Eclesiastés 4 — Mejor es una mano llena con descanso"
+        },
+        "aplicacao": {
+          "sabiduria": "La comparación es entre una mano llena y dos puños llenos."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "guardar-el-corazon",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 4"
+      ],
+      "titulo": {
+        "sabiduria": "Proverbios 4 Completo — Sobre Toda Cosa Guardada, Guarda tu Corazón"
+      },
+      "thumb_titulo": {
+        "sabiduria": "GUARDA TU CORAZÓN"
+      },
+      "thumb_sub": {
+        "sabiduria": "Proverbios 4"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "desert road",
+        "olive tree"
+      ],
+      "abertura": {
+        "sabiduria": "Proverbios, capítulo cuatro, completo. Es un padre enseñando a un hijo lo que a él le enseñaron: adquiere sabiduría, no entres por la vereda de los impíos, guarda tu corazón porque de él mana la vida. Veintisiete versículos seguidos, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "proverbios 4",
+          "guarda tu corazon",
+          "proverbios completo",
+          "sabiduria biblica",
+          "biblia hablada",
+          "proverbios de salomon"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Proverbios 4 completo: la instrucción del padre, la senda de la luz y el corazón que hay que guardar sobre todas las cosas. Narración pausada, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 4:7",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "sabiduria": "Proverbios 4 — Sabiduría ante todo: adquiere sabiduría"
+        },
+        "aplicacao": {
+          "sabiduria": "El proverbio manda adquirir antes de decir para qué sirve."
+        }
+      },
+      {
+        "ref": "Proverbs 4:18",
+        "tipo": "promesa",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "sabiduria": "Proverbios 4 — La senda de los justos es como la luz del alba"
+        },
+        "aplicacao": {
+          "sabiduria": "La imagen es la del alba que va aumentando hasta el mediodía."
+        }
+      },
+      {
+        "ref": "Proverbs 4:25-26",
+        "tipo": "maxim",
+        "consulta_imagem": "desert road",
+        "titulo": {
+          "sabiduria": "Proverbios 4 — Miren tus ojos lo recto"
+        },
+        "aplicacao": {
+          "sabiduria": "Son cuatro órdenes seguidas: ojos, párpados, camino y pies."
+        }
+      },
+      {
+        "ref": "Proverbs 4:24",
+        "tipo": "maxim",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "sabiduria": "Proverbios 4 — Aparta de ti la perversidad de la boca"
+        },
+        "aplicacao": {
+          "sabiduria": "El capítulo termina hablando del cuerpo: boca, ojos, pies."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "el-trabajo-y-la-hormiga",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 6"
+      ],
+      "titulo": {
+        "sabiduria": "Proverbios 6 Completo — Ve a la Hormiga, Perezoso | Biblia"
+      },
+      "thumb_titulo": {
+        "sabiduria": "VE A LA HORMIGA"
+      },
+      "thumb_sub": {
+        "sabiduria": "Proverbios 6"
+      },
+      "consultas_imagens": [
+        "wheat field",
+        "clay lamp",
+        "stone road"
+      ],
+      "abertura": {
+        "sabiduria": "Proverbios, capítulo seis, completo. Empieza con la fianza dada por un extraño y la salida de esa trampa, sigue con la hormiga que no tiene capitán y junta en el verano, y llega a la lista de las seis cosas que aborrece Jehová. Treinta y cinco versículos seguidos, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "proverbios 6",
+          "ve a la hormiga perezoso",
+          "proverbios completo",
+          "seis cosas aborrece jehova",
+          "sabiduria biblica",
+          "biblia hablada"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Proverbios 6 completo: la fianza, la hormiga que junta en el verano y las seis cosas que aborrece Jehová. Narración pausada, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 6:6-8",
+        "tipo": "maxim",
+        "consulta_imagem": "wheat field",
+        "titulo": {
+          "sabiduria": "Proverbios 6 — Ve a la hormiga, oh perezoso"
+        },
+        "aplicacao": {
+          "sabiduria": "El texto anota lo que la hormiga no tiene: capitán, gobernador ni señor."
+        }
+      },
+      {
+        "ref": "Proverbs 6:9-11",
+        "tipo": "conflicto",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "sabiduria": "Proverbios 6 — Un poco de sueño, y vendrá tu necesidad"
+        },
+        "aplicacao": {
+          "sabiduria": "La misma imagen se repite en el capítulo veinticuatro."
+        }
+      },
+      {
+        "ref": "Proverbs 6:16-19",
+        "tipo": "descriptivo",
+        "consulta_imagem": "stone road",
+        "titulo": {
+          "sabiduria": "Proverbios 6 — Seis cosas aborrece Jehová"
+        },
+        "aplicacao": {
+          "sabiduria": "El texto dice seis, y enseguida enumera siete."
+        }
+      },
+      {
+        "ref": "Proverbs 6:23",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "sabiduria": "Proverbios 6 — El mandamiento es lámpara, y la enseñanza luz"
+        },
+        "aplicacao": {
+          "sabiduria": "Lámpara y luz: dos palabras para dos cosas distintas."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "vanidad-de-vanidades",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Ecclesiastes 1",
+        "Ecclesiastes 2"
+      ],
+      "titulo": {
+        "sabiduria": "Eclesiastés 1 y 2 — Vanidad de Vanidades | Biblia para Dormir"
+      },
+      "thumb_titulo": {
+        "sabiduria": "VANIDAD DE VANIDADES"
+      },
+      "thumb_sub": {
+        "sabiduria": "Eclesiastés 1 y 2"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "desert night",
+        "night clouds"
+      ],
+      "abertura": {
+        "sabiduria": "Eclesiastés, capítulos uno y dos, completos. El Predicador mira el sol que sale y se pone, los ríos que van al mar sin llenarlo, y todo lo que él mismo construyó — casas, viñas, huertos, plata y oro — para concluir que nada de eso llena. Es el libro más honesto de la Biblia sobre el cansancio. Escúchalo entero, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "eclesiastes 1",
+          "vanidad de vanidades",
+          "eclesiastes 2",
+          "nada nuevo bajo el sol",
+          "biblia para dormir",
+          "biblia hablada"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Eclesiastés 1 y 2 completos: la vanidad, el sol que vuelve a su lugar, nada nuevo bajo el sol y el don de comer y beber. Narración pausada para dormir, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Ecclesiastes 1:2-4",
+        "tipo": "descriptivo",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "sabiduria": "Eclesiastés 1 — Vanidad de vanidades, todo es vanidad"
+        },
+        "aplicacao": {
+          "sabiduria": "Vanidad aparece cinco veces en el segundo verso."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 1:9",
+        "tipo": "maxim",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "sabiduria": "Eclesiastés 1 — Nada hay nuevo debajo del sol"
+        },
+        "aplicacao": {
+          "sabiduria": "El verso está en presente y en pasado a la vez."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 2:24",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "sabiduria": "Eclesiastés 2 — Que coma y beba, y su alma vea el bien"
+        },
+        "aplicacao": {
+          "sabiduria": "Es la primera de las conclusiones del libro."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 1:18",
+        "tipo": "conflicto",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "sabiduria": "Eclesiastés 1 — Quien añade ciencia, añade dolor"
+        },
+        "aplicacao": {
+          "sabiduria": "El Predicador dice esto después de contar que buscó la sabiduría."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "el-amigo-verdadero",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 17"
+      ],
+      "titulo": {
+        "sabiduria": "Proverbios 17 Completo — En Todo Tiempo Ama el Amigo | Biblia"
+      },
+      "thumb_titulo": {
+        "sabiduria": "EN TODO TIEMPO AMA EL AMIGO"
+      },
+      "thumb_sub": {
+        "sabiduria": "Proverbios 17"
+      },
+      "consultas_imagens": [
+        "fireplace fire",
+        "olive tree",
+        "clay lamp"
+      ],
+      "abertura": {
+        "sabiduria": "Proverbios, capítulo diecisiete, completo. Es el capítulo de las relaciones: el pan seco en paz que vale más que la casa llena de contiendas, el amigo que ama en todo tiempo, el corazón alegre como medicina, y el necio que calla y pasa por sabio. Veintiocho versículos seguidos, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "proverbios 17",
+          "en todo tiempo ama el amigo",
+          "proverbios completo",
+          "el corazon alegre es buena medicina",
+          "sabiduria biblica",
+          "biblia hablada"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Proverbios 17 completo: el pan seco en paz, el amigo de todo tiempo, el corazón alegre y el necio que calla. Narración pausada, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 17:17",
+        "tipo": "promesa",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "sabiduria": "Proverbios 17 — En todo tiempo ama el amigo"
+        },
+        "aplicacao": {
+          "sabiduria": "El verso pone al amigo y al hermano en la misma frase."
+        }
+      },
+      {
+        "ref": "Proverbs 17:22",
+        "tipo": "promesa",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "sabiduria": "Proverbios 17 — El corazón alegre es buena medicina"
+        },
+        "aplicacao": {
+          "sabiduria": "La comparación es con la medicina y con los huesos secos."
+        }
+      },
+      {
+        "ref": "Proverbs 17:28",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "sabiduria": "Proverbios 17 — Aun el necio, cuando calla, es contado por sabio"
+        },
+        "aplicacao": {
+          "sabiduria": "Es el verso que cierra el capítulo."
+        }
+      },
+      {
+        "ref": "Proverbs 17:9",
+        "tipo": "maxim",
+        "consulta_imagem": "stone road",
+        "titulo": {
+          "sabiduria": "Proverbios 17 — El que cubre la falta busca amistad"
+        },
+        "aplicacao": {
+          "sabiduria": "El mismo verso dice que quien repite el asunto aparta al amigo."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "la-mujer-virtuosa",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 31"
+      ],
+      "titulo": {
+        "sabiduria": "Proverbios 31 Completo — Mujer Virtuosa, ¿Quién la Hallará? | Biblia"
+      },
+      "thumb_titulo": {
+        "sabiduria": "MUJER VIRTUOSA"
+      },
+      "thumb_sub": {
+        "sabiduria": "Proverbios 31"
+      },
+      "consultas_imagens": [
+        "wheat field",
+        "clay lamp",
+        "dusk sky"
+      ],
+      "abertura": {
+        "sabiduria": "Proverbios, capítulo treinta y uno, completo. Empieza con las palabras que una madre enseñó al rey Lemuel — abre tu boca por el mudo, juzga con justicia al pobre — y termina con el poema alfabético de la mujer virtuosa, verso por verso. Treinta y un versículos seguidos, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "proverbios 31",
+          "mujer virtuosa",
+          "proverbios completo",
+          "fuerza y honor son su vestidura",
+          "sabiduria biblica",
+          "biblia hablada"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Proverbios 31 completo: el consejo de la madre al rey Lemuel y el poema de la mujer virtuosa. Narración pausada, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 31:10",
+        "tipo": "descriptivo",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "sabiduria": "Proverbios 31 — Mujer virtuosa, ¿quién la hallará?"
+        },
+        "aplicacao": {
+          "sabiduria": "El poema está ordenado por las letras del alfabeto hebreo."
+        }
+      },
+      {
+        "ref": "Proverbs 31:25",
+        "tipo": "promesa",
+        "consulta_imagem": "wheat field",
+        "titulo": {
+          "sabiduria": "Proverbios 31 — Fuerza y honor son su vestidura"
+        },
+        "aplicacao": {
+          "sabiduria": "Fuerza y honor: las dos palabras vienen antes de la sonrisa."
+        }
+      },
+      {
+        "ref": "Proverbs 31:26",
+        "tipo": "maxim",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "sabiduria": "Proverbios 31 — Abre su boca con sabiduría"
+        },
+        "aplicacao": {
+          "sabiduria": "El verso une la sabiduría de la boca con la ley de clemencia."
+        }
+      },
+      {
+        "ref": "Proverbs 31:30",
+        "tipo": "maxim",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "sabiduria": "Proverbios 31 — Engañosa es la gracia, y vana la hermosura"
+        },
+        "aplicacao": {
+          "sabiduria": "El poema deja el elogio del temor para el penúltimo verso."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "el-fin-del-asunto",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Ecclesiastes 11",
+        "Ecclesiastes 12"
+      ],
+      "titulo": {
+        "sabiduria": "Eclesiastés 11 y 12 — El Fin de Todo el Discurso | Biblia para Dormir"
+      },
+      "thumb_titulo": {
+        "sabiduria": "EL FIN DEL ASUNTO"
+      },
+      "thumb_sub": {
+        "sabiduria": "Eclesiastés 11 y 12"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "milky way",
+        "moon clouds"
+      ],
+      "abertura": {
+        "sabiduria": "Eclesiastés, capítulos once y doce, completos. El final del libro: echa tu pan sobre las aguas, siembra aunque el viento no sea el ideal, acuérdate de tu Creador antes de que vengan los días malos. Y la conclusión de todo, en una sola frase. Escúchalos enteros, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "eclesiastes 12",
+          "el fin de todo el discurso",
+          "eclesiastes 11",
+          "echa tu pan sobre las aguas",
+          "biblia para dormir",
+          "biblia hablada"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Eclesiastés 11 y 12 completos: el pan sobre las aguas, el que observa el viento y la conclusión de todo el discurso. Narración pausada para dormir, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Ecclesiastes 11:1",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "sabiduria": "Eclesiastés 11 — Echa tu pan sobre las aguas"
+        },
+        "aplicacao": {
+          "sabiduria": "El texto pone plazo: después de muchos días."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 11:4",
+        "tipo": "maxim",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "sabiduria": "Eclesiastés 11 — El que al viento observa, no sembrará"
+        },
+        "aplicacao": {
+          "sabiduria": "El verso habla del que observa el viento y del que mira las nubes."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 12:1",
+        "tipo": "maxim",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "sabiduria": "Eclesiastés 12 — Acuérdate de tu Creador en los días de tu juventud"
+        },
+        "aplicacao": {
+          "sabiduria": "El capítulo describe la vejez con imágenes, una por verso."
+        }
+      },
+      {
+        "ref": "Ecclesiastes 12:13",
+        "tipo": "promesa",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "sabiduria": "Eclesiastés 12 — El fin de todo el discurso oído es este"
+        },
+        "aplicacao": {
+          "sabiduria": "Es la última conclusión del libro entero."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "humildad-y-honra",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 16"
+      ],
+      "titulo": {
+        "sabiduria": "Proverbios 16 Completo — El Hombre Propone, Jehová Dispone | Biblia"
+      },
+      "thumb_titulo": {
+        "sabiduria": "EL HOMBRE PROPONE"
+      },
+      "thumb_sub": {
+        "sabiduria": "Proverbios 16"
+      },
+      "consultas_imagens": [
+        "desert road",
+        "clay lamp",
+        "stone road"
+      ],
+      "abertura": {
+        "sabiduria": "Proverbios, capítulo dieciséis, completo. Es el capítulo de los planes y del carácter: el hombre propone y Jehová dispone, la soberbia que va delante de la caída, y la comparación que incomoda — mejor el que tarda en airarse que el fuerte, y el que domina su espíritu que el que toma una ciudad. Treinta y tres versículos seguidos, en la Reina-Valera de mil ochocientos noventa y nueve."
+      },
+      "tags_extra": {
+        "sabiduria": [
+          "proverbios 16",
+          "el hombre propone jehova dispone",
+          "proverbios completo",
+          "antes del quebrantamiento es la soberbia",
+          "sabiduria biblica",
+          "biblia hablada"
+        ]
+      },
+      "descricao_busca": {
+        "sabiduria": "Proverbios 16 completo: los planes del corazón, la soberbia antes de la caída y el que domina su espíritu. Narración pausada, Reina-Valera 1909."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 16:18",
+        "tipo": "maxim",
+        "consulta_imagem": "desert road",
+        "titulo": {
+          "sabiduria": "Proverbios 16 — Antes del quebrantamiento es la soberbia"
+        },
+        "aplicacao": {
+          "sabiduria": "El verso pone la soberbia antes, y la altivez antes de la caída."
+        }
+      },
+      {
+        "ref": "Proverbs 16:24",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "sabiduria": "Proverbios 16 — Panal de miel son los dichos suaves"
+        },
+        "aplicacao": {
+          "sabiduria": "La comparación es doble: dulzura al alma y medicina a los huesos."
+        }
+      },
+      {
+        "ref": "Proverbs 16:32",
+        "tipo": "maxim",
+        "consulta_imagem": "stone road",
+        "titulo": {
+          "sabiduria": "Proverbios 16 — Mejor es el que tarda en airarse que el fuerte"
+        },
+        "aplicacao": {
+          "sabiduria": "La comparación es con tomar una ciudad."
+        }
+      },
+      {
+        "ref": "Proverbs 16:7",
+        "tipo": "promesa",
+        "consulta_imagem": "olive tree",
+        "titulo": {
+          "sabiduria": "Proverbios 16 — Cuando los caminos del hombre son agradables"
+        },
+        "aplicacao": {
+          "sabiduria": "La condición está en la primera mitad del verso."
+        }
+      }
+    ]
+  }
+]

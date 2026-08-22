@@ -1204,5 +1204,859 @@
         }
       }
     ]
+  },
+  {
+    "slug": "suspender-el-juicio",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 9:36-55"
+      ],
+      "titulo": {
+        "stoic": "Marco Aurelio para Dejar de Juzgarlo Todo | Meditaciones IX"
+      },
+      "thumb_titulo": {
+        "stoic": "SUSPENDE EL JUICIO"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones IX"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "dusk sky",
+        "milky way"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 9:55",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "Quizá no pecó: suspende el juicio"
+        },
+        "aplicacao": "En la práctica: antes de condenar a alguien, espera a saber. Casi siempre falta un dato."
+      },
+      {
+        "ref": "Meditaciones 6:70",
+        "tipo": "reframe",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "Nada te obliga a llamarlo malo"
+        },
+        "aplicacao": "La cosa no trae la etiqueta puesta. La pones tú, y puedes no ponerla."
+      },
+      {
+        "ref": "Meditaciones 4:16",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Quita la opinión y se acabó el daño"
+        },
+        "aplicacao": "Prueba a contar lo que pasó sin adjetivos. Lo que queda casi nunca era tan grave."
+      },
+      {
+        "ref": "Meditaciones 12:19",
+        "tipo": "reframe",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "Dejar de asombrarse de todo"
+        },
+        "aplicacao": "Lo que hoy te indigna ya pasó mil veces antes de ti. Eso no lo justifica: te lo quita de encima."
+      }
+    ]
+  },
+  {
+    "slug": "la-mente-lo-hace",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 6:1-27"
+      ],
+      "titulo": {
+        "stoic": "1 Hora de Marco Aurelio: Todo Empieza en tu Mente | Meditaciones VI"
+      },
+      "thumb_titulo": {
+        "stoic": "TODO EMPIEZA EN TU MENTE"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VI"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "clay lamp",
+        "dark forest"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 6:8",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "La mente se mueve sola"
+        },
+        "aplicacao": "Nadie mete un pensamiento en tu cabeza. Si entró, tú lo dejaste pasar; también puedes dejarlo ir."
+      },
+      {
+        "ref": "Meditaciones 6:3",
+        "tipo": "maxim",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "Mira por dentro, no por fuera"
+        },
+        "aplicacao": "Antes de reaccionar, pregunta qué es esto en realidad. La mitad de las urgencias se caen ahí."
+      },
+      {
+        "ref": "Meditaciones 8:16",
+        "tipo": "reframe",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "Examina la idea antes de creerla"
+        },
+        "aplicacao": "Un pensamiento no es un hecho. Míralo como quien mira un objeto, y decide si es verdadero."
+      },
+      {
+        "ref": "Meditaciones 9:16",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Limpia la imaginación"
+        },
+        "aplicacao": "Cuando la cabeza se dispara de noche, no discutas con ella: bájale el volumen y vuelve a lo que tienes delante."
+      }
+    ]
+  },
+  {
+    "slug": "nada-se-queda-quieto",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Meditaciones 9:1-25"
+      ],
+      "titulo": {
+        "stoic": "1 Hora de Marco Aurelio sobre el Cambio | Meditaciones para Dormir"
+      },
+      "thumb_titulo": {
+        "stoic": "TODO CAMBIA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones IX"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "moon clouds",
+        "milky way"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 9:32",
+        "tipo": "reframe",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "stoic": "Todo está siempre cambiando, tú incluido"
+        },
+        "aplicacao": "Lo que hoy te aprieta ya está cambiando mientras lo piensas. Nada de esto se queda quieto."
+      },
+      {
+        "ref": "Meditaciones 9:30",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "A la piedra no le duele caer"
+        },
+        "aplicacao": "Subir y bajar no es premio ni castigo. Es lo que hacen las cosas."
+      },
+      {
+        "ref": "Meditaciones 11:64",
+        "tipo": "reframe",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "La uva verde, la madura y la pasa"
+        },
+        "aplicacao": "No es que dejes de ser. Es que dejas de ser lo que eras. No es lo mismo."
+      },
+      {
+        "ref": "Meditaciones 11:32",
+        "tipo": "maxim",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "De dónde salió y en qué se convertirá"
+        },
+        "aplicacao": "Al mirar una cosa entera, de principio a fin, deja de dar miedo."
+      }
+    ]
+  },
+  {
+    "slug": "el-favor-sin-cuenta",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 7:65-82"
+      ],
+      "titulo": {
+        "stoic": "Marco Aurelio: Hacer el Bien sin Esperar Nada | Meditaciones VII"
+      },
+      "thumb_titulo": {
+        "stoic": "HAZ EL BIEN Y SIGUE"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VII"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "fireplace fire",
+        "torch fire"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 7:80",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Hiciste el favor: ya está hecho"
+        },
+        "aplicacao": "Si esperas el reconocimiento, no diste nada: prestaste."
+      },
+      {
+        "ref": "Meditaciones 7:81",
+        "tipo": "reframe",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "stoic": "Nadie se cansa de recibir; tú no te canses de dar"
+        },
+        "aplicacao": "Hacer el bien no es un gasto que se agota. Es lo que la persona hace cuando está entera."
+      },
+      {
+        "ref": "Meditaciones 11:8",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "El pago ya llegó y no te diste cuenta"
+        },
+        "aplicacao": "Hiciste algo por alguien y te sentiste bien. Ese era el pago. Lo demás es propina."
+      },
+      {
+        "ref": "Meditaciones 9:14",
+        "tipo": "maxim",
+        "consulta_imagem": "bonfire night",
+        "titulo": {
+          "stoic": "También se peca sin hacer nada"
+        },
+        "aplicacao": "Callarte cuando podías ayudar cuenta. No hacer también es una decisión."
+      }
+    ]
+  },
+  {
+    "slug": "a-quien-quieres-gustar",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 6:39-60"
+      ],
+      "titulo": {
+        "stoic": "Marco Aurelio: Deja de Buscar Aprobación | Meditaciones VI"
+      },
+      "thumb_titulo": {
+        "stoic": "DEJA DE BUSCAR APROBACIÓN"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VI"
+      },
+      "consultas_imagens": [
+        "dark forest",
+        "dusk sky",
+        "harbor night"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 6:77",
+        "tipo": "reframe",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Piensa a quién quieres agradar"
+        },
+        "aplicacao": "Haz la lista de las personas cuya opinión te quita el sueño. Casi ninguna estará ahí en diez años."
+      },
+      {
+        "ref": "Meditaciones 3:16",
+        "tipo": "maxim",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "El elogio de quien no se soporta a sí mismo"
+        },
+        "aplicacao": "Quien no se aguanta a sí mismo tampoco sabe elogiar. No cuelgues tu ánimo de ahí."
+      },
+      {
+        "ref": "Meditaciones 11:27",
+        "tipo": "reframe",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "Los que hoy se desprecian, mañana se halagan"
+        },
+        "aplicacao": "La opinión de la gente cambia de bando sin avisar. No la uses de suelo."
+      },
+      {
+        "ref": "Meditaciones 11:55",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "Los que dan la sombra y se sientan al sol"
+        },
+        "aplicacao": "Quien de verdad vale no necesita el mejor asiento para saber lo que vale."
+      }
+    ]
+  },
+  {
+    "slug": "igualados-por-el-tiempo",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Meditaciones 10:34-50"
+      ],
+      "titulo": {
+        "stoic": "1 Hora de Marco Aurelio sobre el Tiempo | Meditaciones para Dormir"
+      },
+      "thumb_titulo": {
+        "stoic": "TODOS ACABAN IGUAL"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones X"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "desert night",
+        "old clock"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 6:33",
+        "tipo": "reframe",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "stoic": "Alejandro y su mozo de mulas acabaron igual"
+        },
+        "aplicacao": "Lo que te separa de los demás dura menos de lo que crees. Úsalo sin darte importancia."
+      },
+      {
+        "ref": "Meditaciones 4:24",
+        "tipo": "maxim",
+        "consulta_imagem": "smoke incense",
+        "titulo": {
+          "stoic": "Unos caen antes y otros después"
+        },
+        "aplicacao": "El orden importa menos de lo que parece. Importa lo que hiciste mientras ardías."
+      },
+      {
+        "ref": "Meditaciones 6:74",
+        "tipo": "maxim",
+        "consulta_imagem": "old clock",
+        "titulo": {
+          "stoic": "Cuántos entraron conmigo y ya salieron"
+        },
+        "aplicacao": "No hace falta pensar en la muerte para vivir mejor. Basta con recordar que hay una salida."
+      },
+      {
+        "ref": "Meditaciones 9:50",
+        "tipo": "reframe",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "El viejo y el joven acaban igualados"
+        },
+        "aplicacao": "Nadie gana por durar más. Se gana por lo que se hizo dentro del tiempo que tocó."
+      }
+    ]
+  },
+  {
+    "slug": "el-vicio-propio",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 8:41-60"
+      ],
+      "titulo": {
+        "stoic": "Marco Aurelio: Corrige lo Tuyo, No lo Ajeno | Meditaciones VIII"
+      },
+      "thumb_titulo": {
+        "stoic": "CORRIGE LO TUYO"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VIII"
+      },
+      "consultas_imagens": [
+        "torch fire",
+        "dark forest",
+        "lightning storm"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 7:78",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Huyes del vicio ajeno y no del tuyo"
+        },
+        "aplicacao": "El único defecto que puedes arreglar hoy es el tuyo. Empieza por ahí porque es el único posible."
+      },
+      {
+        "ref": "Meditaciones 8:65",
+        "tipo": "reframe",
+        "consulta_imagem": "lightning storm",
+        "titulo": {
+          "stoic": "La maldad solo daña a quien la hace"
+        },
+        "aplicacao": "Quien te trató mal ya se llevó el castigo: se quedó consigo mismo."
+      },
+      {
+        "ref": "Meditaciones 12:23",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Si puedes curarlo, cúralo"
+        },
+        "aplicacao": "Quejarse de algo que está en tu mano es la forma más cara de perder el día."
+      },
+      {
+        "ref": "Meditaciones 5:40",
+        "tipo": "reframe",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "Esperar que los malos no hagan daño es de locos"
+        },
+        "aplicacao": "Deja de sorprenderte de que la gente sea como es. Sorprenderse cada vez es lo que agota."
+      }
+    ]
+  },
+  {
+    "slug": "nadie-puede-forzarte",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 5:26-37"
+      ],
+      "titulo": {
+        "stoic": "Marco Aurelio: Nadie Puede Obligarte por Dentro | Meditaciones V"
+      },
+      "thumb_titulo": {
+        "stoic": "NADIE PUEDE OBLIGARTE"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones V"
+      },
+      "consultas_imagens": [
+        "iron chain",
+        "torch fire",
+        "storm clouds"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 5:29",
+        "tipo": "maxim",
+        "consulta_imagem": "iron chain",
+        "titulo": {
+          "stoic": "Nadie puede forzarte por dentro"
+        },
+        "aplicacao": "Te pueden quitar casi todo. La decisión de lo que haces con ello, no."
+      },
+      {
+        "ref": "Meditaciones 8:19",
+        "tipo": "reframe",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "Cambiar de opinión también es tuyo"
+        },
+        "aplicacao": "Rectificar no es perder. Es la única prueba de que estabas pensando."
+      },
+      {
+        "ref": "Meditaciones 6:31",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Yo cumplo con lo mío"
+        },
+        "aplicacao": "Cuando no puedas controlar el resultado, controla lo que te toca hacer. Con eso basta para dormir."
+      },
+      {
+        "ref": "Meditaciones 4:22",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Tienes razón: entonces úsala"
+        },
+        "aplicacao": "Sabes lo que hay que hacer. La distancia entre saberlo y hacerlo es todo el problema."
+      }
+    ]
+  },
+  {
+    "slug": "arte-de-vivir",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 7:34-57"
+      ],
+      "titulo": {
+        "stoic": "Marco Aurelio: El Arte de Vivir Bien | Meditaciones VII"
+      },
+      "thumb_titulo": {
+        "stoic": "EL ARTE DE VIVIR"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VII"
+      },
+      "consultas_imagens": [
+        "bonfire night",
+        "harbor night",
+        "dusk sky"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 7:64",
+        "tipo": "reframe",
+        "consulta_imagem": "bonfire night",
+        "titulo": {
+          "stoic": "Vivir se parece más a luchar que a bailar"
+        },
+        "aplicacao": "No esperes que salga coreografiado. Espera golpes y quédate de pie."
+      },
+      {
+        "ref": "Meditaciones 7:52",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Que nadie te gane en esto"
+        },
+        "aplicacao": "Deja que te ganen en fuerza o en suerte. En decencia, no."
+      },
+      {
+        "ref": "Meditaciones 8:34",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Habla sin rodeos"
+        },
+        "aplicacao": "Di lo que tienes que decir, con respeto y sin adornos. El rodeo casi siempre esconde miedo."
+      },
+      {
+        "ref": "Meditaciones 12:27",
+        "tipo": "maxim",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "Nada al azar, nada para el aplauso"
+        },
+        "aplicacao": "Antes de actuar, dos preguntas: para qué, y a quién sirve. Si no hay respuesta, no lo hagas."
+      }
+    ]
+  },
+  {
+    "slug": "volver-en-si",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Meditaciones 11:28-53"
+      ],
+      "titulo": {
+        "stoic": "1 Hora de Marco Aurelio para Volver en Ti | Meditaciones para Dormir"
+      },
+      "thumb_titulo": {
+        "stoic": "VUELVE EN TI"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones XI"
+      },
+      "consultas_imagens": [
+        "fireplace fire",
+        "rain window",
+        "night clouds"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 6:43",
+        "tipo": "reframe",
+        "consulta_imagem": "rain window",
+        "titulo": {
+          "stoic": "Despierta: era una impresión"
+        },
+        "aplicacao": "Cuando vuelvas en ti, mira otra vez lo que te angustiaba. Casi nunca tiene el tamaño que tenía."
+      },
+      {
+        "ref": "Meditaciones 3:18",
+        "tipo": "maxim",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "stoic": "Sostente sobre ti mismo"
+        },
+        "aplicacao": "No hace falta que nadie venga a calmarte. Practica hoy sostenerte tú, aunque sea diez minutos."
+      },
+      {
+        "ref": "Meditaciones 8:47",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "No te hagas a ti lo que no le haces a nadie"
+        },
+        "aplicacao": "Hablas contigo peor de lo que le hablarías a cualquiera. Eso también es injusticia."
+      },
+      {
+        "ref": "Meditaciones 12:46",
+        "tipo": "reframe",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "stoic": "El espíritu se usa a sí mismo"
+        },
+        "aplicacao": "Lo único que de verdad manejas es tu propia atención. Ahí está todo lo demás."
+      }
+    ]
+  },
+  {
+    "slug": "entrar-en-la-mente-del-otro",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 8:61-72"
+      ],
+      "titulo": {
+        "stoic": "Marco Aurelio: Entender al Otro Antes de Juzgarlo | Meditaciones VIII"
+      },
+      "thumb_titulo": {
+        "stoic": "ENTIENDE ANTES DE JUZGAR"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VIII"
+      },
+      "consultas_imagens": [
+        "harbor night",
+        "clay lamp",
+        "dark forest"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 8:72",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Entra en la mente del otro"
+        },
+        "aplicacao": "Antes de responder, pregúntate qué tendría que estarle pasando para actuar así."
+      },
+      {
+        "ref": "Meditaciones 11:26",
+        "tipo": "reframe",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Naciste para lo común"
+        },
+        "aplicacao": "El día que ayudas a alguien sin cuenta pendiente, te va mejor a ti también. No es bondad: es diseño."
+      },
+      {
+        "ref": "Meditaciones 12:43",
+        "tipo": "maxim",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "stoic": "Lo semejante se busca"
+        },
+        "aplicacao": "Rodéate de quien te empuja hacia arriba. Eso hace más que cualquier propósito."
+      },
+      {
+        "ref": "Meditaciones 11:38",
+        "tipo": "reframe",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "Dentro de poco no estará ninguno"
+        },
+        "aplicacao": "Cuando quieras responder con dureza, recuerda cuánto dura esto. Casi siempre te callas."
+      }
+    ]
+  },
+  {
+    "slug": "como-si-fuera-eterno",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Meditaciones 10:51-66"
+      ],
+      "titulo": {
+        "stoic": "1 Hora de Marco Aurelio: Nada Dura, y Está Bien | Para Dormir"
+      },
+      "thumb_titulo": {
+        "stoic": "NADA DURA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones X"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "desert night",
+        "moon clouds"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 10:58",
+        "tipo": "reframe",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "stoic": "Vives como si esto fuera eterno"
+        },
+        "aplicacao": "Huyes de unas cosas y persigues otras como si hubiera tiempo infinito. No lo hay, y eso acorta la lista."
+      },
+      {
+        "ref": "Meditaciones 10:45",
+        "tipo": "maxim",
+        "consulta_imagem": "old clock",
+        "titulo": {
+          "stoic": "La pregunta que ordena el día"
+        },
+        "aplicacao": "Mira lo que vas a hacer y pregunta: ¿me dolería morir sin haberlo hecho? Si no, no era importante."
+      },
+      {
+        "ref": "Meditaciones 6:42",
+        "tipo": "maxim",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "Que te encuentre con la conciencia limpia"
+        },
+        "aplicacao": "No se trata de acabar todo. Se trata de que lo que estés haciendo no te avergüence."
+      },
+      {
+        "ref": "Meditaciones 10:35",
+        "tipo": "reframe",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "Te sirve lo que te toca, cuando te toca"
+        },
+        "aplicacao": "Lo que llegó hoy es con lo que hay que trabajar. Discutirlo es perder el turno."
+      }
+    ]
+  },
+  {
+    "slug": "lo-prestado",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 12:30-50"
+      ],
+      "titulo": {
+        "stoic": "Epicteto: Nada de lo Tuyo es Tuyo | Enquiridión"
+      },
+      "thumb_titulo": {
+        "stoic": "TODO ES PRESTADO"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "harbor night",
+        "dusk sky"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 17:2",
+        "tipo": "reframe",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Trátalo como la posada del camino"
+        },
+        "aplicacao": "Lo que tienes está de paso por tus manos. Cuidarlo, sí; agarrarlo, no."
+      },
+      {
+        "ref": "Enquiridión 74:3",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "No eres Sócrates, y da igual"
+        },
+        "aplicacao": "No tienes que ser el sabio. Basta con vivir como quien va camino de serlo."
+      },
+      {
+        "ref": "Enquiridión 71:2",
+        "tipo": "maxim",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "Desconfía de ti como de un enemigo de casa"
+        },
+        "aplicacao": "El que más te engaña vive dentro. Duda de la primera versión que te cuentes."
+      },
+      {
+        "ref": "Enquiridión 49:2",
+        "tipo": "reframe",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "Si te alteras, ya eres del público"
+        },
+        "aplicacao": "Cuando te enciendes con el escándalo ajeno, dejaste de mirar: estás dentro."
+      }
+    ]
+  },
+  {
+    "slug": "la-quietud-que-no-se-compra",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Meditaciones 5:7-25"
+      ],
+      "titulo": {
+        "stoic": "1 Hora de Marco Aurelio para la Calma | Meditaciones para Dormir"
+      },
+      "thumb_titulo": {
+        "stoic": "LA CALMA NO SE COMPRA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones V"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "moon clouds",
+        "fireplace fire"
+      ]
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 6:37",
+        "tipo": "reframe",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "stoic": "El descanso del final"
+        },
+        "aplicacao": "Lo que temes es, en el fondo, el fin del ruido. Dicho así asusta bastante menos."
+      },
+      {
+        "ref": "Meditaciones 7:33",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "O se apaga o se transforma"
+        },
+        "aplicacao": "Sea lo que sea, no hay una tercera cosa que temer. Duerme."
+      },
+      {
+        "ref": "Meditaciones 6:50",
+        "tipo": "reframe",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "Quien vio el presente lo vio todo"
+        },
+        "aplicacao": "No te pierdes nada por no estar en todo. Lo de mañana está hecho de lo mismo."
+      },
+      {
+        "ref": "Meditaciones 10:33",
+        "tipo": "maxim",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "stoic": "Mira cómo cada cosa se deshace"
+        },
+        "aplicacao": "Todo lo que hoy pesa se está deshaciendo solo. Tu trabajo es no cargarlo dos veces."
+      }
+    ]
   }
 ]

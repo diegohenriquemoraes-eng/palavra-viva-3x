@@ -57,6 +57,17 @@ LINHAS = {
         "temas": RAIZ / "conteudo" / "temas_astucia.json",
         "canais": ("astucia",),
     },
+    # 22/08/2026 — Sabiduría Antigua. Corpus é a MESMA RV1909 dos canais
+    # bíblicos, mas a linha é separada porque o recorte é outro (Proverbios e
+    # Eclesiastés) e o poço não pode se misturar com o dos Salmos: se
+    # compartilhassem `temas.json`, um tema consumido aqui sumiria de lá.
+    # Fica dormente até o canal existir — `abastecer` pula linha sem canal
+    # ativo, então isto não cria pacote nenhum enquanto ativo=false.
+    "sabiduria": {
+        "fila": RAIZ / "fila_sabiduria",
+        "temas": RAIZ / "conteudo" / "temas_sabiduria.json",
+        "canais": ("sabiduria",),
+    },
 }
 
 

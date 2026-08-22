@@ -19,7 +19,7 @@ FONTES_DIR = RAIZ / "marca" / "fontes"   # fontes tipográficas do render
 # estoica em domínio público) — ver `fontes/PROVENIENCIA.md`. Nasceu em inglês
 # (Stoic by Night); em 02/08/2026 virou ESPANHOL (Noche Estoica), decisão do
 # Diego — a chave segue "stoic" porque canal, token e fila são os mesmos.
-IDIOMAS = ("es", "en", "pt", "stoic", "poder", "astucia")
+IDIOMAS = ("es", "en", "pt", "stoic", "poder", "astucia", "sabiduria")
 # Os canais que o reabastecedor bíblico atende. O estoico tem poço próprio
 # (conteudo/temas_estoico.json) e NÃO entra aqui.
 IDIOMAS_BIBLIA = ("es", "en", "pt")
@@ -32,6 +32,7 @@ PLAYLISTS = {
         "en": "Psalms for sleep 🌙",
         "pt": "Salmos para dormir 🌙",
         "stoic": "Filosofía estoica para dormir 🌙",
+        "sabiduria": "Proverbios para dormir 🌙",
     },
     "tema": {
         "es": "Promesas de Dios por tema 🙏",
@@ -40,6 +41,7 @@ PLAYLISTS = {
         "stoic": "Sabiduría estoica por tema 🏛",
         "poder": "Reglas de poder ♚",
         "astucia": "Aforismos para leer a la gente ❄",
+        "sabiduria": "Proverbios por tema 🕯",
     },
     "historia": {
         "es": "Historias de la Biblia narradas 📖",
@@ -88,6 +90,11 @@ CTA_VIDEO = {
     # inscrição. Formulado na dor de cada canal, não genérico.
     "poder": "Guárdalo antes de que lo necesites.",
     "astucia": "Guárdalo para cuando te lo hagan.",
+    # Canal de 22/08/2026. Mesmo raciocínio: pedir SAVE. O registro é o de
+    # consolo/conselho antigo, não o de esperteza — foi essa diferença de
+    # registro que separou os canais que retêm (es 103%, stoic 90%) dos que
+    # não retiveram (astucia 30%).
+    "sabiduria": "Guárdalo para el día que lo necesites.",
 }
 
 GANCHOS = {
@@ -193,6 +200,25 @@ GANCHOS = {
         "Lo que hace alguien astuto cuando lo atacan.",
         "Un solo consejo, y es incómodo.",
         "Cuando quieran manipularte, recuerda esto.",
+    ],
+    # ---- Sabiduría Antigua (22/08/2026) ----
+    # Registro de CONSOLO e conselho antigo, deliberadamente igual ao do
+    # Palabra Viva e ao da Noche Estoica (os dois que retêm acima de 90%), e
+    # deliberadamente DIFERENTE do de astucia/poder (30%), que prometia
+    # esperteza. O gancho convida a parar, não a espiar um truque.
+    "sabiduria": [
+        "Para ti, que tienes que decidir hoy.",
+        "Esto tiene tres mil años y sigue sirviendo.",
+        "Escúchalo antes de responder.",
+        "Un consejo antiguo, para el día de hoy.",
+        "Respira y léelo despacio.",
+        "Guarda esto para cuando dudes.",
+        "Lo que Salomón dejó escrito sobre esto.",
+        "La frase que ordena el día.",
+        "Si te apareció, siéntate un momento.",
+        "Esto se escribió para días como el tuyo.",
+        "Una línea, y cambia la conversación.",
+        "Cuando no sepas qué hacer, recuerda esto.",
     ],
 }
 
@@ -418,6 +444,63 @@ CONFIG = {
                  "inteligencia social", "no ser manipulado", "narcisista",
                  "mentalidad", "estrategia", "aforismos"],
         "rotulo_capitulos": "Aforismos en este video:",
+        "rotulo_repeticao": "repetición",
+        "rotulo_completo": "Video completo",
+    },
+    # ---- Sabiduría Antigua — preparado em 22/08/2026, CANAL AINDA NÃO EXISTE ----
+    #
+    # Por que este canal e não outro: o estudo de 22/08 (relatório em
+    # Desktop\Analise-Canais-YouTube-22-08-2026.html) mostrou que o que separa
+    # os canais que crescem dos que não crescem é RETENÇÃO, e que os dois que
+    # retêm (Palabra Viva 103,5%, Noche Estoica 90%) têm em comum espanhol +
+    # texto clássico contemplativo narrado sem interpretação. Os que morreram
+    # em espanhol (Poder 30%, Astucia 30%) prometiam esperteza. Então a réplica
+    # certa não é "mais um canal bíblico" — o Palavra Viva Diária já é a cópia
+    # bíblica exata e faz 1/18 —, é o MESMO PAR: espanhol + registro de consolo.
+    #
+    # Corpus: Proverbios e Eclesiastés na RV1909, o arquivo que já está em casa.
+    # Escolhido por eliminação de risco: zero trabalho de proveniência (o
+    # projeto já se queimou com Sêneca e Sun Tzu em ES, que não existem limpos)
+    # e sala de busca própria — "proverbios", "sabiduría de Salomón", "consejos
+    # de la Biblia" não disputam as queries de "salmos para dormir" do Palabra
+    # Viva. Alternativa avaliada e adiada: místicos espanhóis (Teresa de Ávila,
+    # texto ORIGINAL em espanhol, sem camada de tradução) — existe no Wikisource
+    # ES mas só parcialmente transcrito, e a edição de referência é de 1927;
+    # exige extração e verificação de proveniência antes de valer a pena.
+    #
+    # Voz: es-MX-Dalia, FEMININA. É a primeira da casa — os seis canais usam voz
+    # masculina — e o México é 27,4% da audiência do Palabra Viva. Serve também
+    # como o teste de voz que está pendente desde a análise do canal PT.
+    "sabiduria": {
+        "arquivo_fonte": BIBLIA_DIR / "rv1909.json",
+        "fonte_texto": "Reina-Valera 1909 (dominio público)",
+        "voz": "es-MX-DaliaNeural",
+        "biblioteca_local": False,
+        "rate_short": "-8%",
+        "rate_longo": "-15%",
+        "bcp47": "es",
+        "palavra_salmo": "Salmo",
+        "cta": ("Proverbios y Eclesiastés, leídos despacio. Un pasaje nuevo "
+                "cada día. Suscríbete \U0001F56F"),
+        "ctas": [
+            "Proverbios y Eclesiastés, leídos despacio. Un pasaje nuevo "
+            "cada día. Suscríbete \U0001F56F",
+            "Sabiduría antigua, sin comentarios y sin prisa. "
+            "Suscríbete \U0001F56F",
+            "Tres mil años de consejos, uno por día. Suscríbete \U0001F56F",
+            "Solo el texto: Proverbios, Eclesiastés y el tiempo para "
+            "pensarlo. Suscríbete \U0001F56F",
+        ],
+        "hashtags": "#Proverbios #Sabiduría #Biblia",
+        "descricao_curta": True,
+        "max_short_s": 20.0,
+        "tags": ["proverbios", "proverbios de salomón", "sabiduría bíblica",
+                 "eclesiastés", "biblia hablada", "consejos de la biblia",
+                 "palabra de dios", "reina valera", "sabiduría antigua",
+                 "proverbios para dormir", "versículos de sabiduría",
+                 "libro de proverbios", "salomón", "biblia en español",
+                 "reflexión diaria", "fe"],
+        "rotulo_capitulos": "Pasajes en este video:",
         "rotulo_repeticao": "repetición",
         "rotulo_completo": "Video completo",
     },

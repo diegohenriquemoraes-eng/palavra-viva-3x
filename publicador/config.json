@@ -42,7 +42,9 @@
       "hora_longo_utc": 2,
       "shorts_por_dia": 1,
       "gap_shorts_min": 420,
-      "_corte_15_08": "De 3 Shorts + 1 longo para 1 Short + 1 longo. Medicao de 15/08: mediana da coorte 2-7d caiu 95 -> 41 -> 25 em tres semanas, com o MESMO conteudo que faz 850 no ES. 73 views por video publicando 4/dia, contra 438 da Noche Estoica publicando 1/dia. Hipotese testada: saturacao de frequencia num canal que o publico nao sustenta. O longo fica (e a unica trilha de horas do canal, 79h em 12 meses). Rever em 15/09: se a mediana nao subir, desligar."
+      "_corte_15_08": "De 3 Shorts + 1 longo para 1 Short + 1 longo. Medicao de 15/08: mediana da coorte 2-7d caiu 95 -> 41 -> 25 em tres semanas, com o MESMO conteudo que faz 850 no ES. 73 views por video publicando 4/dia, contra 438 da Noche Estoica publicando 1/dia. Hipotese testada: saturacao de frequencia num canal que o publico nao sustenta. O longo fica (e a unica trilha de horas do canal, 79h em 12 meses). Rever em 15/09: se a mediana nao subir, desligar.",
+      "_virou_canal_de_longo_22_08": "DECISAO DO DIEGO em 22/08/2026, e ela CANCELA a regua de desligar de 15/09. Duas medicoes da Analytics API mandaram (relatorio em Desktop\\Analise-Canais-YouTube-22-08-2026.html): (1) o corte de frequencia de 15/08 NAO funcionou — a retencao do Short por semana de publicacao foi 57,8% (sem 32, 4/dia) -> 51,0% (sem 33) -> 41,9% (sem 34, 1/dia). Saturacao de frequencia esta DESCARTADA como hipotese; o Short em PT nunca reteve, nasceu em ~50%. (2) o LONGO em PT rende quase como o do ES: em 60 dias, 30 longos / 1.374 views / 125,8 h contra 33 longos / 1.492 views / 171,7 h do ES. 94% do watch time do canal PT vem dos longos, e 14,2% do trafego entra por video relacionado com sessao de 5 min. Desligar o canal jogaria fora ~765 h/ano de exibicao — a segunda maior fonte de hora da casa — por causa de um formato que responde por 6% do tempo assistido dele. O PT tambem converte MAIS inscrito por view que o ES (9,2 contra 3,9 por mil). Entao: shorts_por_dia fica em 1 (isca, nao motor), o longo e o produto, e o trabalho de melhoria vai todo para titulo/capa/busca do longo. NOVA REGUA, 22/11/2026: horas de exibicao dos longos em 12 meses. Se nao estiver acima de 1.000 h, ai sim rediscutir o canal. Nao medir mais este canal pela mediana de views de Short — e a metrica errada para o que ele virou.",
+      "_teste_de_voz_pendente": "Se em algum momento o Diego quiser insistir no Short em PT, o unico teste que ataca a causa (retencao de 53%) e trocar a voz — pt-BR-AntonioNeural e a voz sintetica que o brasileiro ja ouviu em mil canais, e foi reprovada pelo proprio Diego no Psicologia Fria — e cortar o Short para <=15s, a unica faixa em que o PT ainda retem 82% (n=6). Uma semana de teste decide. Nao executado em 22/08: mexer na voz muda o produto, e a decisao foi focar no longo."
     },
     "stoic": {
       "channel_id": "UCA7Jv8o9i9HB2OScOcxUCvg",
@@ -53,12 +55,13 @@
       "_nome_02_08": "O YouTube RECUSOU o nome exato 'Noche Estoica' ('Esse nome nao pode ser usado no seu canal') e o handle @NocheEstoica ja estava tomado. Ficou 'La Noche Estoica' / @LaNocheEstoica, que casa nome e handle.",
       "afiliado": "",
       "afiliado_short": "",
-      "shorts_por_dia": 1,
+      "shorts_por_dia": 3,
       "gap_shorts_min": 420,
       "hora_longo_utc": null,
       "fila": "fila_stoic",
       "hora_short_utc": 1,
-      "_metodo_canal_novo": "A partir da reativacao: PROTOCOLO FANTASMA puro de novo — 1 Short/dia, mesmo horario (01 UTC = 19h CDMX / 20h Bogota / 22h Buenos Aires, horario nobre LATAM), sem video longo, teto 20s, 3 hashtags, descricao enxuta. 20-30 dias sem mexer. Regua: mediana >=300 views/Short em 30 dias mantem e escala (2/dia + longo de dormir); mediana ~1 view como o EN mata de vez."
+      "_metodo_canal_novo": "A partir da reativacao: PROTOCOLO FANTASMA puro de novo — 1 Short/dia, mesmo horario (01 UTC = 19h CDMX / 20h Bogota / 22h Buenos Aires, horario nobre LATAM), sem video longo, teto 20s, 3 hashtags, descricao enxuta. 20-30 dias sem mexer. Regua: mediana >=300 views/Short em 30 dias mantem e escala (2/dia + longo de dormir); mediana ~1 view como o EN mata de vez.",
+      "_escalado_22_08": "De 1 para 3 Shorts/dia, decisao do Diego em 22/08/2026 depois do estudo de retencao (Desktop\\Analise-Canais-YouTube-22-08-2026.html). A regua do _metodo_canal_novo foi CUMPRIDA com folga: mediana de 782 views/Short na coorte 2-7d contra os 300 exigidos, retencao mediana de 90% (o ES faz 103,5%), 26 videos publicados desde 03/08 — passou dos 20-30 dias de janela. O canal e o ativo mais subexplorado da casa: retinha 90% publicando um sexto do volume do ES. Os pacotes JA tinham 4 Shorts cada e so o short-1 era publicado; subir para 3 nao consome o poco mais rapido, so aproveita o que ja estava escrito. gap de 420 min e o mesmo do ES com 3/dia. MEDIR EM 22/09: se a mediana da coorte 2-7d cair abaixo de 300, voltar para 1/dia — o risco real aqui e o mesmo que derrubou o PT, saturacao de frequencia num canal que o publico ainda nao sustenta."
     },
     "poder": {
       "channel_id": "UC9m5fvEqQZ_J34oQzczgFoQ",
@@ -93,6 +96,22 @@
       "_metodo_canal_novo": "PROTOCOLO FANTASMA puro: 1 Short/dia as 03 UTC (21h CDMX / 22h Bogota / 00h Buenos Aires), sem longo, teto 20s, 3 hashtags, descricao enxuta. 30 dias sem mexer.",
       "_camada_autoral": "Mesma regra do canal poder: trecho citado + aplicacao propria.",
       "_transformado_15_08": "Decisao do Diego: o canal PARA de publicar Gracian aqui e vira o 'Psicologia Fria' em espanhol - vendas e persuasao, roteiro autoral, no motor do repo Desktop\\Projetos\\psicologia-fria (nao mais neste). Escolhido entre os dois porque a marca (Astucia Fria, olho gelo) ja e o irmao espanhol do perfil e o passado e desprezivel: 1 inscrito, 633 views. Voz tem de ser gratuita (edge-tts ES), nao ElevenLabs. Aqui fica ativo:false para sempre."
+    },
+    "sabiduria": {
+      "ativo": false,
+      "channel_id": "",
+      "titulo_canal": "",
+      "handle": "",
+      "afiliado": "",
+      "afiliado_short": "",
+      "shorts_por_dia": 1,
+      "gap_shorts_min": 420,
+      "hora_longo_utc": null,
+      "hora_short_utc": 4,
+      "fila": "fila_sabiduria",
+      "_preparado_22_08": "CANAL AINDA NAO EXISTE. Tudo o que nao depende do YouTube esta pronto: corpus (RV1909, ja em casa), voz (es-MX-Dalia, a primeira feminina da casa), ganchos, CTA, tags, playlists, poco com 10 temas validados (conteudo/temas_sabiduria.json) e linha propria no reabastecedor e no vigia. Fica ativo:false ate o Diego criar o canal — com ativo:false o reabastecedor pula a linha e nada e publicado nem renderizado.",
+      "_por_que_este_canal": "Estudo de 22/08 (Desktop\\Analise-Canais-YouTube-22-08-2026.html): o que separa quem cresce e RETENCAO, e os dois que retem (Palabra Viva 103,5%, Noche Estoica 90%) tem em comum espanhol + texto classico contemplativo narrado sem interpretacao. Os que morreram em espanhol (poder e astucia, 30%) prometiam esperteza. Entao a replica certa NAO e mais um canal biblico — o Palavra Viva Diaria ja e a copia biblica exata e faz 1/18 — e sim o mesmo PAR: espanhol + registro de consolo. Corpus Proverbios/Eclesiastes: zero risco de proveniencia e sala de busca propria ('proverbios', 'sabiduria de Salomon'), que nao disputa as queries de 'salmos para dormir' do Palabra Viva.",
+      "_o_que_falta_o_diego_fazer": "1) Criar o canal na conta pessoal diegohenriquemoraes@gmail.com. NOME: conferir disponibilidade com search.list ANTES de digitar — a casa ja levou 3 recusas (Noche Estoica, Palavra Viva Diaria, Palabra Viva en Audio) e cada recusa queima cota de 24h. Candidatos a conferir: 'Sabiduria Antigua Diaria', 'El Consejo Antiguo', 'Proverbios en Voz Alta'. 2) Projeto Google Cloud PROPRIO (a cota de 10 mil/dia nao e dividida), com YouTube Data API e YouTube Analytics API habilitadas. 3) App OAuth EM PRODUCAO, senao o refresh token morre em 7 dias. 4) python produzir/autorizar.py --canal sabiduria (e depois --analytics). 5) Secrets no GitHub: YT_CLIENT_SECRET_SABIDURIA e YT_TOKEN_SABIDURIA (o publicar.yml ja le os dois). 6) Preencher channel_id/titulo_canal/handle aqui e virar ativo:true. Metodo de largada: PROTOCOLO FANTASMA — 1 Short/dia as 04 UTC (os outros canais usam 01, 02 e 03), sem longo, teto 20s, 3 hashtags, 30 dias sem mexer. Regua ~30 dias depois: mediana >=300 views/Short na coorte 2-7d mantem e escala."
     }
   }
 }
