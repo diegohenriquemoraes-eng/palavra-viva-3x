@@ -2678,3 +2678,19 @@
 - Item: short-2 — Ezequiel 36:26
 - Duração: 19.6s
 - Publicado em: 2026-08-22T09:19:17+00:00
+
+## [es] 2XNN1bsMYVE — Isaias 43 - He aqui que yo hago cosa nueva | Biblia en espanol
+
+- URL: https://youtu.be/2XNN1bsMYVE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Isaías 43:18
+- Duração: 15.4s
+- Publicado em: 2026-08-22T17:13:08+00:00
+
+## [stoic] gzvR5ZJ69P4 — Entrena lo que crees que no puedes
+
+- URL: https://youtu.be/gzvR5ZJ69P4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 12:12
+- Duração: 30.6s
+- Publicado em: 2026-08-22T17:14:31+00:00

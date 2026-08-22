@@ -967,12 +967,19 @@
           "video_id": "tLmYQ0z837s",
           "titulo": "Ezequiel 36:26 - Os dare corazon nuevo | Biblia en espanol",
           "em": "2026-08-22T09:19:17+00:00"
+        },
+        {
+          "pacote": "2026-08-22-vida-nova",
+          "item": "short-3",
+          "video_id": "2XNN1bsMYVE",
+          "titulo": "Isaias 43 - He aqui que yo hago cosa nueva | Biblia en espanol",
+          "em": "2026-08-22T17:13:08+00:00"
         }
       ],
-      "ultimo_short": "2026-08-22T09:19:17+00:00",
+      "ultimo_short": "2026-08-22T17:13:08+00:00",
       "shorts_dia": {
         "data": "2026-08-22",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-22"
     },
@@ -2215,12 +2222,19 @@
           "video_id": "w3Yr6bxnBWY",
           "titulo": "La victoria que nadie ve y todo lo cambia",
           "em": "2026-08-22T02:23:47+00:00"
+        },
+        {
+          "pacote": "2026-08-22-victoria-interior",
+          "item": "short-2",
+          "video_id": "gzvR5ZJ69P4",
+          "titulo": "Entrena lo que crees que no puedes",
+          "em": "2026-08-22T17:14:31+00:00"
         }
       ],
-      "ultimo_short": "2026-08-22T02:23:47+00:00",
+      "ultimo_short": "2026-08-22T17:14:31+00:00",
       "shorts_dia": {
         "data": "2026-08-22",
-        "n": 1
+        "n": 2
       },
       "longo_data": ""
     },
