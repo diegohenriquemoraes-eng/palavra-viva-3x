@@ -946,6 +946,13 @@
           "video_id": "8yxBMvef2lA",
           "titulo": "Salmo 34 — Busqué a Jehová, y él me oyó | Biblia",
           "em": "2026-08-21T17:21:02+00:00"
+        },
+        {
+          "pacote": "2026-08-22-vida-nova",
+          "item": "longo",
+          "video_id": "ok5AhCqqRgA",
+          "titulo": "Nuevas Son Todas las Cosas - 2 Corintios 5 | Biblia en espanol",
+          "em": "2026-08-22T00:49:59+00:00"
         }
       ],
       "ultimo_short": "2026-08-21T17:21:02+00:00",
@@ -953,7 +960,7 @@
         "data": "2026-08-21",
         "n": 3
       },
-      "longo_data": "2026-08-21"
+      "longo_data": "2026-08-22"
     },
     "en": {
       "publicados": [
@@ -1988,11 +1995,18 @@
           "video_id": "Yu54rZMqTBU",
           "titulo": "Salmos para Dormir — Deus Nunca Dorme | Bíblia Narrada com Voz Calma",
           "em": "2026-08-21T02:56:22+00:00"
+        },
+        {
+          "pacote": "2026-08-22-vida-nova",
+          "item": "short-1",
+          "video_id": "5GNT8h5Nrfg",
+          "titulo": "2 Corintios 5:17 - Se alguem esta em Cristo, nova criatura e",
+          "em": "2026-08-22T00:51:09+00:00"
         }
       ],
-      "ultimo_short": "2026-08-21T01:39:41+00:00",
+      "ultimo_short": "2026-08-22T00:51:09+00:00",
       "shorts_dia": {
-        "data": "2026-08-21",
+        "data": "2026-08-22",
         "n": 1
       },
       "longo_data": "2026-08-21"

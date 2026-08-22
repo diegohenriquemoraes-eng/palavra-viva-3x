@@ -2630,3 +2630,19 @@
 - Item: short-3 — Salmo 34:4-5
 - Duração: 20.4s
 - Publicado em: 2026-08-21T17:21:02+00:00
+
+## [es] ok5AhCqqRgA — Nuevas Son Todas las Cosas - 2 Corintios 5 | Biblia en espanol
+
+- URL: https://youtu.be/ok5AhCqqRgA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — 2 Corintios 5:14-21
+- Duração: 1143.1s
+- Publicado em: 2026-08-22T00:49:59+00:00
+
+## [pt] 5GNT8h5Nrfg — 2 Corintios 5:17 - Se alguem esta em Cristo, nova criatura e
+
+- URL: https://youtu.be/5GNT8h5Nrfg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — 2 Coríntios 5:17
+- Duração: 19.0s
+- Publicado em: 2026-08-22T00:51:09+00:00
