@@ -953,12 +953,19 @@
           "video_id": "ok5AhCqqRgA",
           "titulo": "Nuevas Son Todas las Cosas - 2 Corintios 5 | Biblia en espanol",
           "em": "2026-08-22T00:49:59+00:00"
+        },
+        {
+          "pacote": "2026-08-22-vida-nova",
+          "item": "short-1",
+          "video_id": "CoJBG22fQlo",
+          "titulo": "2 Corintios 5:17 - Si alguno esta en Cristo, nueva criatura es",
+          "em": "2026-08-22T02:10:23+00:00"
         }
       ],
-      "ultimo_short": "2026-08-21T17:21:02+00:00",
+      "ultimo_short": "2026-08-22T02:10:23+00:00",
       "shorts_dia": {
-        "data": "2026-08-21",
-        "n": 3
+        "data": "2026-08-22",
+        "n": 1
       },
       "longo_data": "2026-08-22"
     },
@@ -2002,6 +2009,13 @@
           "video_id": "5GNT8h5Nrfg",
           "titulo": "2 Corintios 5:17 - Se alguem esta em Cristo, nova criatura e",
           "em": "2026-08-22T00:51:09+00:00"
+        },
+        {
+          "pacote": "2026-08-22-vida-nova",
+          "item": "longo",
+          "video_id": "N7gJflYn31Q",
+          "titulo": "Todas as Coisas se Fizeram Novas - 2 Corintios 5 | Biblia narrada",
+          "em": "2026-08-22T02:22:41+00:00"
         }
       ],
       "ultimo_short": "2026-08-22T00:51:09+00:00",
@@ -2009,7 +2023,7 @@
         "data": "2026-08-22",
         "n": 1
       },
-      "longo_data": "2026-08-21"
+      "longo_data": "2026-08-22"
     },
     "stoic": {
       "publicados": [
@@ -2187,11 +2201,18 @@
           "video_id": "BOW6YWa67Vs",
           "titulo": "La respuesta de Sócrates que nadie esperaba",
           "em": "2026-08-21T02:57:43+00:00"
+        },
+        {
+          "pacote": "2026-08-22-victoria-interior",
+          "item": "short-1",
+          "video_id": "w3Yr6bxnBWY",
+          "titulo": "La victoria que nadie ve y todo lo cambia",
+          "em": "2026-08-22T02:23:47+00:00"
         }
       ],
-      "ultimo_short": "2026-08-21T02:57:43+00:00",
+      "ultimo_short": "2026-08-22T02:23:47+00:00",
       "shorts_dia": {
-        "data": "2026-08-21",
+        "data": "2026-08-22",
         "n": 1
       },
       "longo_data": ""

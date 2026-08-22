@@ -2646,3 +2646,27 @@
 - Item: short-1 — 2 Coríntios 5:17
 - Duração: 19.0s
 - Publicado em: 2026-08-22T00:51:09+00:00
+
+## [es] CoJBG22fQlo — 2 Corintios 5:17 - Si alguno esta en Cristo, nueva criatura es
+
+- URL: https://youtu.be/CoJBG22fQlo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — 2 Corintios 5:17
+- Duração: 18.1s
+- Publicado em: 2026-08-22T02:10:23+00:00
+
+## [pt] N7gJflYn31Q — Todas as Coisas se Fizeram Novas - 2 Corintios 5 | Biblia narrada
+
+- URL: https://youtu.be/N7gJflYn31Q
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — 2 Coríntios 5:14-21
+- Duração: 1183.5s
+- Publicado em: 2026-08-22T02:22:41+00:00
+
+## [stoic] w3Yr6bxnBWY — La victoria que nadie ve y todo lo cambia
+
+- URL: https://youtu.be/w3Yr6bxnBWY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 56:2
+- Duração: 18.8s
+- Publicado em: 2026-08-22T02:23:47+00:00
