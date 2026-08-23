@@ -995,12 +995,19 @@
           "video_id": "OHXOkdLOaSg",
           "titulo": "1 Reyes 18 - Respondeme, Jehova | Historia biblica narrada",
           "em": "2026-08-23T10:15:17+00:00"
+        },
+        {
+          "pacote": "2026-08-23-elias-carmelo",
+          "item": "short-3",
+          "video_id": "wqtZvTHxbB8",
+          "titulo": "1 Reyes 19 - Un silbo apacible y delicado | Biblia en espanol",
+          "em": "2026-08-23T18:17:01+00:00"
         }
       ],
-      "ultimo_short": "2026-08-23T10:15:17+00:00",
+      "ultimo_short": "2026-08-23T18:17:01+00:00",
       "shorts_dia": {
         "data": "2026-08-23",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-23"
     },
@@ -2278,12 +2285,19 @@
           "video_id": "qhEpEuP69cc",
           "titulo": "Nada te obliga a llamarlo malo",
           "em": "2026-08-23T10:16:45+00:00"
+        },
+        {
+          "pacote": "2026-08-23-suspender-el-juicio",
+          "item": "short-3",
+          "video_id": "KguLcR8xb6Q",
+          "titulo": "Quita la opinión y se acabó el daño",
+          "em": "2026-08-23T18:18:17+00:00"
         }
       ],
-      "ultimo_short": "2026-08-23T10:16:45+00:00",
+      "ultimo_short": "2026-08-23T18:18:17+00:00",
       "shorts_dia": {
         "data": "2026-08-23",
-        "n": 2
+        "n": 3
       },
       "longo_data": ""
     },

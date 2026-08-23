@@ -2750,3 +2750,19 @@
 - Item: short-2 — Meditaciones 6:70
 - Duração: 25.3s
 - Publicado em: 2026-08-23T10:16:45+00:00
+
+## [es] wqtZvTHxbB8 — 1 Reyes 19 - Un silbo apacible y delicado | Biblia en espanol
+
+- URL: https://youtu.be/wqtZvTHxbB8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — 1 Reyes 19:11
+- Duração: 30.9s
+- Publicado em: 2026-08-23T18:17:01+00:00
+
+## [stoic] KguLcR8xb6Q — Quita la opinión y se acabó el daño
+
+- URL: https://youtu.be/KguLcR8xb6Q
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 4:16
+- Duração: 24.4s
+- Publicado em: 2026-08-23T18:18:17+00:00
