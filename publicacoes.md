@@ -2694,3 +2694,19 @@
 - Item: short-2 — Meditaciones 12:12
 - Duração: 30.6s
 - Publicado em: 2026-08-22T17:14:31+00:00
+
+## [es] lm9gPiLVJAs — Elias en el Monte Carmelo - 1 Reyes 18 | Historia biblica
+
+- URL: https://youtu.be/lm9gPiLVJAs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — 1 Reyes 18:30-46
+- Duração: 260.0s
+- Publicado em: 2026-08-23T00:45:16+00:00
+
+## [pt] vOQpUow0eKU — 1 Reis 18 - Ate quando coxeareis | Historia biblica
+
+- URL: https://youtu.be/vOQpUow0eKU
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — 1 Reis 18:21
+- Duração: 25.5s
+- Publicado em: 2026-08-23T00:46:24+00:00

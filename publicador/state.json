@@ -974,6 +974,13 @@
           "video_id": "2XNN1bsMYVE",
           "titulo": "Isaias 43 - He aqui que yo hago cosa nueva | Biblia en espanol",
           "em": "2026-08-22T17:13:08+00:00"
+        },
+        {
+          "pacote": "2026-08-23-elias-carmelo",
+          "item": "longo",
+          "video_id": "lm9gPiLVJAs",
+          "titulo": "Elias en el Monte Carmelo - 1 Reyes 18 | Historia biblica",
+          "em": "2026-08-23T00:45:16+00:00"
         }
       ],
       "ultimo_short": "2026-08-22T17:13:08+00:00",
@@ -981,7 +988,7 @@
         "data": "2026-08-22",
         "n": 3
       },
-      "longo_data": "2026-08-22"
+      "longo_data": "2026-08-23"
     },
     "en": {
       "publicados": [
@@ -2030,11 +2037,18 @@
           "video_id": "N7gJflYn31Q",
           "titulo": "Todas as Coisas se Fizeram Novas - 2 Corintios 5 | Biblia narrada",
           "em": "2026-08-22T02:22:41+00:00"
+        },
+        {
+          "pacote": "2026-08-23-elias-carmelo",
+          "item": "short-1",
+          "video_id": "vOQpUow0eKU",
+          "titulo": "1 Reis 18 - Ate quando coxeareis | Historia biblica",
+          "em": "2026-08-23T00:46:24+00:00"
         }
       ],
-      "ultimo_short": "2026-08-22T00:51:09+00:00",
+      "ultimo_short": "2026-08-23T00:46:24+00:00",
       "shorts_dia": {
-        "data": "2026-08-22",
+        "data": "2026-08-23",
         "n": 1
       },
       "longo_data": "2026-08-22"
