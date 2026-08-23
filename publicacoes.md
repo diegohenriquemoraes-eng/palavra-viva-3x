@@ -2710,3 +2710,27 @@
 - Item: short-1 — 1 Reis 18:21
 - Duração: 25.5s
 - Publicado em: 2026-08-23T00:46:24+00:00
+
+## [es] PO-VWYbHc0E — 1 Reyes 18 - Hasta cuando claudicareis | Historia biblica
+
+- URL: https://youtu.be/PO-VWYbHc0E
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — 1 Reyes 18:21
+- Duração: 25.3s
+- Publicado em: 2026-08-23T02:20:13+00:00
+
+## [pt] szUXgOEh4Uk — Elias no Monte Carmelo - 1 Reis 18 | Historia biblica
+
+- URL: https://youtu.be/szUXgOEh4Uk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — 1 Reis 18:30-46
+- Duração: 259.5s
+- Publicado em: 2026-08-23T02:23:11+00:00
+
+## [stoic] a5x2MibKUs4 — Quizá no pecó: suspende el juicio
+
+- URL: https://youtu.be/a5x2MibKUs4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 9:55
+- Duração: 21.2s
+- Publicado em: 2026-08-23T02:24:20+00:00

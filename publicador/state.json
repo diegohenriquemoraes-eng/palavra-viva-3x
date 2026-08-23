@@ -981,12 +981,19 @@
           "video_id": "lm9gPiLVJAs",
           "titulo": "Elias en el Monte Carmelo - 1 Reyes 18 | Historia biblica",
           "em": "2026-08-23T00:45:16+00:00"
+        },
+        {
+          "pacote": "2026-08-23-elias-carmelo",
+          "item": "short-1",
+          "video_id": "PO-VWYbHc0E",
+          "titulo": "1 Reyes 18 - Hasta cuando claudicareis | Historia biblica",
+          "em": "2026-08-23T02:20:13+00:00"
         }
       ],
-      "ultimo_short": "2026-08-22T17:13:08+00:00",
+      "ultimo_short": "2026-08-23T02:20:13+00:00",
       "shorts_dia": {
-        "data": "2026-08-22",
-        "n": 3
+        "data": "2026-08-23",
+        "n": 1
       },
       "longo_data": "2026-08-23"
     },
@@ -2044,6 +2051,13 @@
           "video_id": "vOQpUow0eKU",
           "titulo": "1 Reis 18 - Ate quando coxeareis | Historia biblica",
           "em": "2026-08-23T00:46:24+00:00"
+        },
+        {
+          "pacote": "2026-08-23-elias-carmelo",
+          "item": "longo",
+          "video_id": "szUXgOEh4Uk",
+          "titulo": "Elias no Monte Carmelo - 1 Reis 18 | Historia biblica",
+          "em": "2026-08-23T02:23:11+00:00"
         }
       ],
       "ultimo_short": "2026-08-23T00:46:24+00:00",
@@ -2051,7 +2065,7 @@
         "data": "2026-08-23",
         "n": 1
       },
-      "longo_data": "2026-08-22"
+      "longo_data": "2026-08-23"
     },
     "stoic": {
       "publicados": [
@@ -2243,12 +2257,19 @@
           "video_id": "gzvR5ZJ69P4",
           "titulo": "Entrena lo que crees que no puedes",
           "em": "2026-08-22T17:14:31+00:00"
+        },
+        {
+          "pacote": "2026-08-23-suspender-el-juicio",
+          "item": "short-1",
+          "video_id": "a5x2MibKUs4",
+          "titulo": "Quizá no pecó: suspende el juicio",
+          "em": "2026-08-23T02:24:20+00:00"
         }
       ],
-      "ultimo_short": "2026-08-22T17:14:31+00:00",
+      "ultimo_short": "2026-08-23T02:24:20+00:00",
       "shorts_dia": {
-        "data": "2026-08-22",
-        "n": 2
+        "data": "2026-08-23",
+        "n": 1
       },
       "longo_data": ""
     },
