@@ -1,0 +1,218 @@
+{
+  "slug": "jonas-peixe",
+  "formato": "historia",
+  "data": "2026-08-25",
+  "criado_em": "2026-08-23T02:01:03+00:00",
+  "aprovado_em": "2026-08-23T02:01:03+00:00",
+  "longo": {
+    "refs": [
+      "Jonah 1:1-16",
+      "Jonah 2:1-10"
+    ],
+    "titulo": {
+      "es": "Jonás y el Gran Pez — Jonás 1 y 2 | Historia bíblica narrada",
+      "en": "Jonah and the Great Fish — Jonah 1 and 2 | Bible Story",
+      "pt": "Jonas e o Grande Peixe — Jonas 1 e 2 | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "EN EL VIENTRE DEL PEZ",
+      "en": "IN THE FISH",
+      "pt": "NO VENTRE DO PEIXE"
+    },
+    "thumb_sub": {
+      "es": "Jonás 1 y 2",
+      "en": "Jonah 1-2",
+      "pt": "Jonas 1 e 2"
+    },
+    "abertura": {
+      "es": "Jonás, capítulos uno y dos. Un profeta recibe una orden para la ciudad de Nínive y toma un barco en dirección contraria, a Tarsis. Viene la tempestad, los marineros echan suertes, y el relato registra lo que él mismo les dice: tomadme y echadme al mar. Del vientre del pez sale una oración, y el capítulo dos es esa oración entera, del principio al fin. Escucha el relato completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Jonas, capítulos um e dois. Um profeta recebe uma ordem para a cidade de Nínive e toma um navio no sentido contrário, para Társis. Vem a tempestade, os marinheiros lançam sortes, e o relato registra o que ele mesmo lhes diz: tomai-me e lançai-me ao mar. Do ventre do peixe sai uma oração, e o capítulo dois é essa oração inteira, do começo ao fim. Ouça o relato completo, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "jonas y el gran pez",
+        "jonas 1",
+        "jonas 2",
+        "historia biblica",
+        "profeta jonas",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "jonas e o grande peixe",
+        "jonas 1",
+        "jonas 2",
+        "historia biblica",
+        "profeta jonas",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Jonás 1 y 2: la huida a Tarsis, la tempestad, el gran pez y la oración desde el vientre. Narración completa y pausada, Reina-Valera 1909.",
+      "pt": "Jonas 1 e 2: a fuga para Társis, a tempestade, o grande peixe e a oração de dentro do ventre. Narração completa e pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_McDonald%27s_Restaurant_night_April_2025_R12S_01.jpg/1920px-SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_McDonald%27s_Restaurant_night_April_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Hoai Chonag Fornai",
+        "origem": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_McDonald%27s_Restaurant_night_April_2025_R12S_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Andaman_Sea_at_night%2C_Moonset%2C_Moonlight.jpg/1920px-Andaman_Sea_at_night%2C_Moonset%2C_Moonlight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Andaman_Sea_at_night,_Moonset,_Moonlight.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_12.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MKaalei SZEO",
+        "origem": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_12.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Aivazovsky_-_Sea_coast_at_night._Near_the_beacon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ivan Aivazovsky",
+        "origem": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Sea_coast_at_night._Near_the_beacon.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sea_Girt_at_Night_tower_%281776950537%29.jpg/1920px-Sea_Girt_at_Night_tower_%281776950537%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ted Kerwin",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sea_Girt_at_Night_tower_(1776950537).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wooden_boat.jpg/1920px-Wooden_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wooden_boat_7271.jpg/1920px-Wooden_boat_7271.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_7271.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Wooden_boat_6988.jpg/1920px-Wooden_boat_6988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_6988.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wooden_boat_3235.jpg/1920px-Wooden_boat_3235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_3235.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wooden_boat_7094-S.jpg/1920px-Wooden_boat_7094-S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_7094-S.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Jonah 1:3",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Jonás 1 — Se levantó para huir a Tarsis | Historia bíblica",
+        "en": "Jonah 1 — He Rose Up to Flee to Tarshish | Bible Story",
+        "pt": "Jonas 1 — Levantou-se para fugir para Társis | História bíblica"
+      },
+      "aplicacao": {
+        "es": "El verso repite dos veces la misma expresión: de delante de Jehová.",
+        "pt": "O verso repete duas vezes a mesma expressão: de diante do Senhor."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wooden_boat_7047-1.jpg/1920px-Wooden_boat_7047-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_7047-1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Jonah 1:12",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Jonás 1 — Tomadme y echadme al mar | Historia bíblica",
+        "en": "Jonah 1 — Take Me Up and Cast Me Into the Sea | Bible Story",
+        "pt": "Jonas 1 — Tomai-me e lançai-me ao mar | História bíblica"
+      },
+      "aplicacao": {
+        "es": "Quien propone la solución es el propio Jonás, no los marineros.",
+        "pt": "Quem propõe a solução é o próprio Jonas, não os marinheiros."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Storm_clouds_formation1.jpg/1920px-Storm_clouds_formation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Jonah 2:2",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Jonás 2 — Clamé desde el seno del Seol | Historia bíblica",
+        "en": "Jonah 2 — Out of the Belly of Hell I Cried | Bible Story",
+        "pt": "Jonas 2 — Do ventre do Seol clamei | História bíblica"
+      },
+      "aplicacao": {
+        "es": "Es el primer verso de la oración hecha dentro del pez.",
+        "pt": "É o primeiro verso da oração feita dentro do peixe."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Black_Sea_at_night_-_panoramio_%281%29.jpg/1920px-The_Black_Sea_at_night_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexey Komarov",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Black_Sea_at_night_-_panoramio_(1).jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Jonah 2:9",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Jonás 2 — La salvación es de Jehová | Historia bíblica",
+        "en": "Jonah 2 — Salvation Is of the Lord | Bible Story",
+        "pt": "Jonas 2 — Ao Senhor pertence a salvação | História bíblica"
+      },
+      "aplicacao": {
+        "es": "La oración termina antes de que el pez lo eche a tierra.",
+        "pt": "A oração termina antes de o peixe o lançar em terra."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ocean_Waves-saam_2021.67.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ocean_Waves-saam_2021.67.2.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
