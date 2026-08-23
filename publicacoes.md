@@ -2734,3 +2734,19 @@
 - Item: short-1 — Meditaciones 9:55
 - Duração: 21.2s
 - Publicado em: 2026-08-23T02:24:20+00:00
+
+## [es] OHXOkdLOaSg — 1 Reyes 18 - Respondeme, Jehova | Historia biblica narrada
+
+- URL: https://youtu.be/OHXOkdLOaSg
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — 1 Reyes 18:36
+- Duração: 28.9s
+- Publicado em: 2026-08-23T10:15:17+00:00
+
+## [stoic] qhEpEuP69cc — Nada te obliga a llamarlo malo
+
+- URL: https://youtu.be/qhEpEuP69cc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 6:70
+- Duração: 25.3s
+- Publicado em: 2026-08-23T10:16:45+00:00
