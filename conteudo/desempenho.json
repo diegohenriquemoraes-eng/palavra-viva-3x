@@ -2,20 +2,6 @@
   {
     "canal": "pt",
     "item": "short-2",
-    "tipo": "promesa",
-    "titulo": "Salmo 130 — A minha alma espera no Senhor | Bíblia",
-    "views": 5,
-    "likes": 2,
-    "comentarios": 0,
-    "engajamento": 40.0,
-    "video_id": "_S07LTU-LvQ",
-    "em": "2026-08-13T14:17:52+00:00",
-    "idade_d": 8.8,
-    "formato": "novo"
-  },
-  {
-    "canal": "pt",
-    "item": "short-2",
     "tipo": "descriptivo",
     "titulo": "Gênesis 1 — Façamos o homem à nossa imagem",
     "views": 26,
@@ -24,7 +10,7 @@
     "engajamento": 38.46,
     "video_id": "BBvAYmjx3Lg",
     "em": "2026-07-25T13:03:43+00:00",
-    "idade_d": 27.85,
+    "idade_d": 28.85,
     "formato": "antigo"
   },
   {
@@ -38,7 +24,7 @@
     "engajamento": 37.84,
     "video_id": "Itm1zVYKsGg",
     "em": "2026-07-21T00:53:28+00:00",
-    "idade_d": 32.36,
+    "idade_d": 33.36,
     "formato": "antigo"
   },
   {
@@ -52,7 +38,7 @@
     "engajamento": 35.62,
     "video_id": "tNst-B7YBzQ",
     "em": "2026-07-31T15:56:43+00:00",
-    "idade_d": 21.73,
+    "idade_d": 22.73,
     "formato": "novo"
   },
   {
@@ -66,8 +52,50 @@
     "engajamento": 34.52,
     "video_id": "IP6v8ejD9oY",
     "em": "2026-07-26T15:59:50+00:00",
-    "idade_d": 26.73,
+    "idade_d": 27.73,
     "formato": "antigo"
+  },
+  {
+    "canal": "pt",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Salmo 130 — A minha alma espera no Senhor | Bíblia",
+    "views": 6,
+    "likes": 2,
+    "comentarios": 0,
+    "engajamento": 33.33,
+    "video_id": "_S07LTU-LvQ",
+    "em": "2026-08-13T14:17:52+00:00",
+    "idade_d": 9.8,
+    "formato": "novo"
+  },
+  {
+    "canal": "pt",
+    "item": "short-1",
+    "tipo": "conflicto",
+    "titulo": "1 Reis 18 - Ate quando coxeareis | Historia biblica",
+    "views": 21,
+    "likes": 7,
+    "comentarios": 0,
+    "engajamento": 33.33,
+    "video_id": "vOQpUow0eKU",
+    "em": "2026-08-23T00:46:24+00:00",
+    "idade_d": 0.36,
+    "formato": "novo"
+  },
+  {
+    "canal": "pt",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Elias no Monte Carmelo - 1 Reis 18 | Historia biblica",
+    "views": 3,
+    "likes": 1,
+    "comentarios": 0,
+    "engajamento": 33.33,
+    "video_id": "szUXgOEh4Uk",
+    "em": "2026-08-23T02:23:11+00:00",
+    "idade_d": 0.3,
+    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -80,7 +108,7 @@
     "engajamento": 32.38,
     "video_id": "9XkKm3D1tvs",
     "em": "2026-07-27T09:36:16+00:00",
-    "idade_d": 25.99,
+    "idade_d": 26.99,
     "formato": "antigo"
   },
   {
@@ -94,7 +122,7 @@
     "engajamento": 30.0,
     "video_id": "0WuE9QjstK4",
     "em": "2026-08-11T12:43:10+00:00",
-    "idade_d": 10.86,
+    "idade_d": 11.86,
     "formato": "novo"
   },
   {
@@ -108,7 +136,7 @@
     "engajamento": 29.41,
     "video_id": "UdhJrOcXIsc",
     "em": "2026-07-27T17:33:14+00:00",
-    "idade_d": 25.66,
+    "idade_d": 26.66,
     "formato": "antigo"
   },
   {
@@ -122,7 +150,7 @@
     "engajamento": 29.17,
     "video_id": "-1_frwjzvdA",
     "em": "2026-07-30T23:55:08+00:00",
-    "idade_d": 22.4,
+    "idade_d": 23.4,
     "formato": "novo"
   },
   {
@@ -136,7 +164,7 @@
     "engajamento": 27.78,
     "video_id": "fqrNAaij7HQ",
     "em": "2026-07-30T15:04:18+00:00",
-    "idade_d": 22.77,
+    "idade_d": 23.77,
     "formato": "novo"
   },
   {
@@ -150,7 +178,7 @@
     "engajamento": 25.56,
     "video_id": "7g-moe376pA",
     "em": "2026-08-02T08:07:14+00:00",
-    "idade_d": 20.06,
+    "idade_d": 21.06,
     "formato": "novo"
   },
   {
@@ -164,7 +192,7 @@
     "engajamento": 25.0,
     "video_id": "BTlEOAojdxc",
     "em": "2026-08-13T01:56:04+00:00",
-    "idade_d": 9.31,
+    "idade_d": 10.31,
     "formato": "novo"
   },
   {
@@ -178,7 +206,7 @@
     "engajamento": 24.14,
     "video_id": "8QjLZY_gj6w",
     "em": "2026-07-26T23:55:50+00:00",
-    "idade_d": 26.4,
+    "idade_d": 27.4,
     "formato": "antigo"
   },
   {
@@ -192,7 +220,7 @@
     "engajamento": 23.61,
     "video_id": "i3H96Bb7zLs",
     "em": "2026-07-25T20:07:43+00:00",
-    "idade_d": 27.56,
+    "idade_d": 28.56,
     "formato": "antigo"
   },
   {
@@ -206,7 +234,7 @@
     "engajamento": 23.53,
     "video_id": "VfajonT1Sss",
     "em": "2026-07-29T15:09:18+00:00",
-    "idade_d": 23.76,
+    "idade_d": 24.76,
     "formato": "novo"
   },
   {
@@ -220,7 +248,7 @@
     "engajamento": 22.86,
     "video_id": "09axa24h2-g",
     "em": "2026-08-01T08:05:32+00:00",
-    "idade_d": 21.06,
+    "idade_d": 22.06,
     "formato": "novo"
   },
   {
@@ -234,7 +262,7 @@
     "engajamento": 22.22,
     "video_id": "zgHqfKU0w4s",
     "em": "2026-07-30T07:29:23+00:00",
-    "idade_d": 23.08,
+    "idade_d": 24.08,
     "formato": "novo"
   },
   {
@@ -248,7 +276,7 @@
     "engajamento": 22.22,
     "video_id": "R2089YgGgNU",
     "em": "2026-08-14T05:27:10+00:00",
-    "idade_d": 8.17,
+    "idade_d": 9.17,
     "formato": "novo"
   },
   {
@@ -262,7 +290,7 @@
     "engajamento": 21.57,
     "video_id": "0aOemaHKhv0",
     "em": "2026-07-26T08:12:14+00:00",
-    "idade_d": 27.05,
+    "idade_d": 28.05,
     "formato": "antigo"
   },
   {
@@ -276,7 +304,7 @@
     "engajamento": 21.31,
     "video_id": "R70PCQvIA_o",
     "em": "2026-07-23T07:31:10+00:00",
-    "idade_d": 30.08,
+    "idade_d": 31.08,
     "formato": "antigo"
   },
   {
@@ -290,7 +318,7 @@
     "engajamento": 21.05,
     "video_id": "ULczREHWxJM",
     "em": "2026-07-28T02:21:45+00:00",
-    "idade_d": 25.3,
+    "idade_d": 26.3,
     "formato": "novo"
   },
   {
@@ -304,7 +332,7 @@
     "engajamento": 20.95,
     "video_id": "6jkdsd7Au2w",
     "em": "2026-07-24T20:12:26+00:00",
-    "idade_d": 28.55,
+    "idade_d": 29.55,
     "formato": "antigo"
   },
   {
@@ -318,21 +346,7 @@
     "engajamento": 20.44,
     "video_id": "iXQOYURYYkI",
     "em": "2026-07-21T18:12:19+00:00",
-    "idade_d": 31.64,
-    "formato": "antigo"
-  },
-  {
-    "canal": "en",
-    "item": "short-2",
-    "tipo": "descriptivo",
-    "titulo": "Genesis 1 — Let Us Make Man in Our Image | Bible",
-    "views": 5,
-    "likes": 1,
-    "comentarios": 0,
-    "engajamento": 20.0,
-    "video_id": "ih2y43OYLOM",
-    "em": "2026-07-25T14:57:51+00:00",
-    "idade_d": 27.77,
+    "idade_d": 32.64,
     "formato": "antigo"
   },
   {
@@ -346,7 +360,7 @@
     "engajamento": 19.05,
     "video_id": "cVKGr_ITD-g",
     "em": "2026-08-07T15:47:25+00:00",
-    "idade_d": 14.74,
+    "idade_d": 15.74,
     "formato": "novo"
   },
   {
@@ -360,7 +374,7 @@
     "engajamento": 18.75,
     "video_id": "XEJAqCz-w-4",
     "em": "2026-07-24T12:16:20+00:00",
-    "idade_d": 28.88,
+    "idade_d": 29.88,
     "formato": "antigo"
   },
   {
@@ -374,7 +388,7 @@
     "engajamento": 18.75,
     "video_id": "h-QPVWryaXc",
     "em": "2026-08-06T23:52:26+00:00",
-    "idade_d": 15.4,
+    "idade_d": 16.4,
     "formato": "novo"
   },
   {
@@ -388,7 +402,7 @@
     "engajamento": 18.75,
     "video_id": "cPOeloTVMVY",
     "em": "2026-08-14T12:43:29+00:00",
-    "idade_d": 7.86,
+    "idade_d": 8.86,
     "formato": "novo"
   },
   {
@@ -402,7 +416,7 @@
     "engajamento": 18.6,
     "video_id": "btydWbb-dZ4",
     "em": "2026-07-26T08:10:05+00:00",
-    "idade_d": 27.05,
+    "idade_d": 28.05,
     "formato": "antigo"
   },
   {
@@ -416,7 +430,7 @@
     "engajamento": 18.52,
     "video_id": "xDsWH7xw9fA",
     "em": "2026-07-22T10:17:36+00:00",
-    "idade_d": 30.97,
+    "idade_d": 31.97,
     "formato": "antigo"
   },
   {
@@ -430,7 +444,7 @@
     "engajamento": 17.39,
     "video_id": "q3q_rvpRTNY",
     "em": "2026-08-07T23:27:32+00:00",
-    "idade_d": 14.42,
+    "idade_d": 15.42,
     "formato": "novo"
   },
   {
@@ -444,7 +458,7 @@
     "engajamento": 17.24,
     "video_id": "t6p3WLkoNkg",
     "em": "2026-07-22T02:11:30+00:00",
-    "idade_d": 31.3,
+    "idade_d": 32.3,
     "formato": "antigo"
   },
   {
@@ -458,7 +472,7 @@
     "engajamento": 17.14,
     "video_id": "KD4gBHYhpqI",
     "em": "2026-08-08T13:40:44+00:00",
-    "idade_d": 13.82,
+    "idade_d": 14.82,
     "formato": "novo"
   },
   {
@@ -472,7 +486,7 @@
     "engajamento": 17.07,
     "video_id": "l34sZEkiNFI",
     "em": "2026-07-29T22:52:38+00:00",
-    "idade_d": 23.44,
+    "idade_d": 24.44,
     "formato": "novo"
   },
   {
@@ -486,7 +500,7 @@
     "engajamento": 16.75,
     "video_id": "JJMI0ykCR3I",
     "em": "2026-07-21T14:57:17+00:00",
-    "idade_d": 31.77,
+    "idade_d": 32.77,
     "formato": "antigo"
   },
   {
@@ -500,7 +514,7 @@
     "engajamento": 16.67,
     "video_id": "RTqVMsHAkoM",
     "em": "2026-08-13T04:36:44+00:00",
-    "idade_d": 9.2,
+    "idade_d": 10.2,
     "formato": "novo"
   },
   {
@@ -514,7 +528,7 @@
     "engajamento": 16.0,
     "video_id": "WI2k36VvZPs",
     "em": "2026-08-13T21:36:37+00:00",
-    "idade_d": 8.49,
+    "idade_d": 9.49,
     "formato": "novo"
   },
   {
@@ -528,7 +542,7 @@
     "engajamento": 15.91,
     "video_id": "v0aWuC_R1rY",
     "em": "2026-08-14T03:57:19+00:00",
-    "idade_d": 8.23,
+    "idade_d": 9.23,
     "formato": "novo"
   },
   {
@@ -542,7 +556,7 @@
     "engajamento": 15.68,
     "video_id": "p3F1BSgVHFo",
     "em": "2026-08-12T11:41:08+00:00",
-    "idade_d": 9.91,
+    "idade_d": 10.91,
     "formato": "novo"
   },
   {
@@ -556,21 +570,7 @@
     "engajamento": 15.67,
     "video_id": "GXnTI6Z0L7g",
     "em": "2026-07-28T19:09:29+00:00",
-    "idade_d": 24.6,
-    "formato": "novo"
-  },
-  {
-    "canal": "es",
-    "item": "short-3",
-    "tipo": "promesa",
-    "titulo": "Efesios 2:8 - Por gracia sois salvos | Biblia en espanol",
-    "views": 210,
-    "likes": 32,
-    "comentarios": 0,
-    "engajamento": 15.24,
-    "video_id": "439BfrtLCP4",
-    "em": "2026-08-14T18:42:19+00:00",
-    "idade_d": 7.61,
+    "idade_d": 25.6,
     "formato": "novo"
   },
   {
@@ -584,7 +584,7 @@
     "engajamento": 15.22,
     "video_id": "FJlF1OBTxsw",
     "em": "2026-07-19T16:46:15+00:00",
-    "idade_d": 33.7,
+    "idade_d": 34.7,
     "formato": "antigo"
   },
   {
@@ -598,7 +598,21 @@
     "engajamento": 15.15,
     "video_id": "2FLJugBlUI0",
     "em": "2026-08-03T12:52:36+00:00",
-    "idade_d": 18.86,
+    "idade_d": 19.86,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-3",
+    "tipo": "promesa",
+    "titulo": "Efesios 2:8 - Por gracia sois salvos | Biblia en espanol",
+    "views": 213,
+    "likes": 32,
+    "comentarios": 0,
+    "engajamento": 15.02,
+    "video_id": "439BfrtLCP4",
+    "em": "2026-08-14T18:42:19+00:00",
+    "idade_d": 8.62,
     "formato": "novo"
   },
   {
@@ -612,7 +626,7 @@
     "engajamento": 14.75,
     "video_id": "apUYklqBxdI",
     "em": "2026-08-06T07:37:27+00:00",
-    "idade_d": 16.08,
+    "idade_d": 17.08,
     "formato": "novo"
   },
   {
@@ -626,7 +640,7 @@
     "engajamento": 14.29,
     "video_id": "LKXW_SE6DZg",
     "em": "2026-08-09T05:43:28+00:00",
-    "idade_d": 13.16,
+    "idade_d": 14.16,
     "formato": "novo"
   },
   {
@@ -640,8 +654,22 @@
     "engajamento": 14.13,
     "video_id": "zCB0XdUDY1c",
     "em": "2026-07-25T14:56:44+00:00",
-    "idade_d": 27.77,
+    "idade_d": 28.77,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-3",
+    "tipo": "descriptivo",
+    "titulo": "Exodo 3 - YO SOY EL QUE SOY | Biblia en espanol",
+    "views": 372,
+    "likes": 51,
+    "comentarios": 0,
+    "engajamento": 13.71,
+    "video_id": "L_IihaeAtUA",
+    "em": "2026-08-17T17:19:46+00:00",
+    "idade_d": 5.67,
+    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -654,7 +682,7 @@
     "engajamento": 13.7,
     "video_id": "HPDf2_qkRRY",
     "em": "2026-07-23T15:08:01+00:00",
-    "idade_d": 29.76,
+    "idade_d": 30.76,
     "formato": "antigo"
   },
   {
@@ -662,27 +690,13 @@
     "item": "short-3",
     "tipo": "descriptivo",
     "titulo": "Salmo 119:105 - Lampara es a mis pies tu palabra | Biblia",
-    "views": 88,
+    "views": 89,
     "likes": 11,
     "comentarios": 1,
-    "engajamento": 13.64,
+    "engajamento": 13.48,
     "video_id": "NnFfPT0nx-A",
     "em": "2026-08-19T20:19:13+00:00",
-    "idade_d": 2.55,
-    "formato": "novo"
-  },
-  {
-    "canal": "es",
-    "item": "short-3",
-    "tipo": "descriptivo",
-    "titulo": "Exodo 3 - YO SOY EL QUE SOY | Biblia en espanol",
-    "views": 370,
-    "likes": 50,
-    "comentarios": 0,
-    "engajamento": 13.51,
-    "video_id": "L_IihaeAtUA",
-    "em": "2026-08-17T17:19:46+00:00",
-    "idade_d": 4.67,
+    "idade_d": 3.55,
     "formato": "novo"
   },
   {
@@ -696,7 +710,7 @@
     "engajamento": 13.33,
     "video_id": "I8MEmcD0s0Y",
     "em": "2026-08-10T19:50:20+00:00",
-    "idade_d": 11.57,
+    "idade_d": 12.57,
     "formato": "novo"
   },
   {
@@ -710,7 +724,7 @@
     "engajamento": 13.27,
     "video_id": "FmcMOLi0ryA",
     "em": "2026-08-17T09:32:00+00:00",
-    "idade_d": 5.0,
+    "idade_d": 6.0,
     "formato": "novo"
   },
   {
@@ -724,7 +738,7 @@
     "engajamento": 13.22,
     "video_id": "lfepHtXpu6Y",
     "em": "2026-08-04T12:59:29+00:00",
-    "idade_d": 17.85,
+    "idade_d": 18.85,
     "formato": "novo"
   },
   {
@@ -738,7 +752,7 @@
     "engajamento": 13.04,
     "video_id": "EhmG8bt2YXo",
     "em": "2026-08-08T21:22:42+00:00",
-    "idade_d": 13.5,
+    "idade_d": 14.5,
     "formato": "novo"
   },
   {
@@ -752,7 +766,7 @@
     "engajamento": 12.86,
     "video_id": "vgW5ltwD0iE",
     "em": "2026-08-04T15:19:18+00:00",
-    "idade_d": 17.76,
+    "idade_d": 18.76,
     "formato": "novo"
   },
   {
@@ -766,7 +780,7 @@
     "engajamento": 12.82,
     "video_id": "z6dMWGRdDkc",
     "em": "2026-08-03T05:35:39+00:00",
-    "idade_d": 19.16,
+    "idade_d": 20.16,
     "formato": "novo"
   },
   {
@@ -780,7 +794,7 @@
     "engajamento": 12.67,
     "video_id": "zqo1-7bo3y0",
     "em": "2026-08-15T17:13:34+00:00",
-    "idade_d": 6.68,
+    "idade_d": 7.68,
     "formato": "novo"
   },
   {
@@ -794,7 +808,7 @@
     "engajamento": 12.5,
     "video_id": "uWjuzeqv150",
     "em": "2026-08-12T04:09:58+00:00",
-    "idade_d": 10.22,
+    "idade_d": 11.22,
     "formato": "novo"
   },
   {
@@ -808,7 +822,7 @@
     "engajamento": 12.5,
     "video_id": "Kx3n-tAyFuA",
     "em": "2026-08-20T00:45:17+00:00",
-    "idade_d": 2.36,
+    "idade_d": 3.36,
     "formato": "novo"
   },
   {
@@ -822,7 +836,7 @@
     "engajamento": 12.35,
     "video_id": "fqF3iuh7yU8",
     "em": "2026-08-18T09:23:47+00:00",
-    "idade_d": 4.0,
+    "idade_d": 5.0,
     "formato": "novo"
   },
   {
@@ -836,7 +850,7 @@
     "engajamento": 12.2,
     "video_id": "-2bb-7MTvpQ",
     "em": "2026-08-08T06:38:02+00:00",
-    "idade_d": 14.12,
+    "idade_d": 15.12,
     "formato": "novo"
   },
   {
@@ -850,7 +864,7 @@
     "engajamento": 12.04,
     "video_id": "4msE3hcZue4",
     "em": "2026-07-31T11:22:03+00:00",
-    "idade_d": 21.92,
+    "idade_d": 22.92,
     "formato": "novo"
   },
   {
@@ -864,7 +878,7 @@
     "engajamento": 11.85,
     "video_id": "cGYiGO9SLt4",
     "em": "2026-08-12T03:56:43+00:00",
-    "idade_d": 10.23,
+    "idade_d": 11.23,
     "formato": "novo"
   },
   {
@@ -878,8 +892,22 @@
     "engajamento": 11.76,
     "video_id": "qiGkFdpoyv0",
     "em": "2026-07-26T23:53:55+00:00",
-    "idade_d": 26.4,
+    "idade_d": 27.4,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Nuevas Son Todas las Cosas - 2 Corintios 5 | Biblia en espanol",
+    "views": 17,
+    "likes": 2,
+    "comentarios": 0,
+    "engajamento": 11.76,
+    "video_id": "ok5AhCqqRgA",
+    "em": "2026-08-22T00:49:59+00:00",
+    "idade_d": 1.36,
+    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -892,7 +920,7 @@
     "engajamento": 11.76,
     "video_id": "QmZVlKGRF24",
     "em": "2026-08-08T03:00:54+00:00",
-    "idade_d": 14.27,
+    "idade_d": 15.27,
     "formato": "novo"
   },
   {
@@ -906,7 +934,7 @@
     "engajamento": 11.76,
     "video_id": "FwIfoHPYU3k",
     "em": "2026-08-15T03:33:57+00:00",
-    "idade_d": 7.25,
+    "idade_d": 8.25,
     "formato": "novo"
   },
   {
@@ -920,7 +948,7 @@
     "engajamento": 11.7,
     "video_id": "fIUr4QC0cY4",
     "em": "2026-07-26T15:57:08+00:00",
-    "idade_d": 26.73,
+    "idade_d": 27.73,
     "formato": "antigo"
   },
   {
@@ -934,7 +962,7 @@
     "engajamento": 11.67,
     "video_id": "Z8kKJMnS3DE",
     "em": "2026-08-04T04:57:03+00:00",
-    "idade_d": 18.19,
+    "idade_d": 19.19,
     "formato": "novo"
   },
   {
@@ -948,7 +976,7 @@
     "engajamento": 11.48,
     "video_id": "Af6IfnCADcg",
     "em": "2026-07-28T10:26:56+00:00",
-    "idade_d": 24.96,
+    "idade_d": 25.96,
     "formato": "novo"
   },
   {
@@ -962,7 +990,7 @@
     "engajamento": 11.36,
     "video_id": "kB6L2FhiPtw",
     "em": "2026-08-18T16:33:09+00:00",
-    "idade_d": 3.7,
+    "idade_d": 4.7,
     "formato": "novo"
   },
   {
@@ -976,7 +1004,7 @@
     "engajamento": 11.11,
     "video_id": "huJ4DEeetu4",
     "em": "2026-08-10T05:19:14+00:00",
-    "idade_d": 12.17,
+    "idade_d": 13.17,
     "formato": "novo"
   },
   {
@@ -990,7 +1018,7 @@
     "engajamento": 11.11,
     "video_id": "r0fIPqHgb7I",
     "em": "2026-08-15T11:12:23+00:00",
-    "idade_d": 6.93,
+    "idade_d": 7.93,
     "formato": "novo"
   },
   {
@@ -1004,7 +1032,7 @@
     "engajamento": 11.03,
     "video_id": "-3vYi3hzhaU",
     "em": "2026-07-23T22:55:58+00:00",
-    "idade_d": 29.44,
+    "idade_d": 30.44,
     "formato": "antigo"
   },
   {
@@ -1012,13 +1040,13 @@
     "item": "short-3",
     "tipo": "promesa",
     "titulo": "Salmo 143:8 — Hazme oír por la mañana tu misericordia | Biblia",
-    "views": 210,
+    "views": 212,
     "likes": 22,
     "comentarios": 0,
-    "engajamento": 10.48,
+    "engajamento": 10.38,
     "video_id": "OoE2cUSFTfc",
     "em": "2026-08-13T18:49:52+00:00",
-    "idade_d": 8.61,
+    "idade_d": 9.61,
     "formato": "novo"
   },
   {
@@ -1032,7 +1060,7 @@
     "engajamento": 10.33,
     "video_id": "KRna0PyzdtI",
     "em": "2026-08-01T23:49:41+00:00",
-    "idade_d": 20.4,
+    "idade_d": 21.4,
     "formato": "novo"
   },
   {
@@ -1046,8 +1074,22 @@
     "engajamento": 10.32,
     "video_id": "Y9dEdkK2XsQ",
     "em": "2026-07-19T23:49:18+00:00",
-    "idade_d": 33.4,
+    "idade_d": 34.4,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Ezequiel 36:26 - Os dare corazon nuevo | Biblia en espanol",
+    "views": 227,
+    "likes": 22,
+    "comentarios": 1,
+    "engajamento": 10.13,
+    "video_id": "tLmYQ0z837s",
+    "em": "2026-08-22T09:19:17+00:00",
+    "idade_d": 1.01,
+    "formato": "novo"
   },
   {
     "canal": "es",
@@ -1060,7 +1102,7 @@
     "engajamento": 10.12,
     "video_id": "Rlo_lYOCt3A",
     "em": "2026-08-08T13:39:42+00:00",
-    "idade_d": 13.83,
+    "idade_d": 14.83,
     "formato": "novo"
   },
   {
@@ -1074,7 +1116,7 @@
     "engajamento": 10.0,
     "video_id": "ICt5RIaX8Sk",
     "em": "2026-07-31T05:57:38+00:00",
-    "idade_d": 22.15,
+    "idade_d": 23.15,
     "formato": "novo"
   },
   {
@@ -1088,7 +1130,7 @@
     "engajamento": 10.0,
     "video_id": "m1E05k2XedE",
     "em": "2026-08-05T23:51:55+00:00",
-    "idade_d": 16.4,
+    "idade_d": 17.4,
     "formato": "novo"
   },
   {
@@ -1102,7 +1144,21 @@
     "engajamento": 9.89,
     "video_id": "lIUUZcZrZwo",
     "em": "2026-07-30T04:50:40+00:00",
-    "idade_d": 23.19,
+    "idade_d": 24.19,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-1",
+    "tipo": "promesa",
+    "titulo": "Salmo 121 — Mi socorro viene de Jehová | Biblia",
+    "views": 647,
+    "likes": 64,
+    "comentarios": 0,
+    "engajamento": 9.89,
+    "video_id": "hz6zZouqgcU",
+    "em": "2026-08-21T02:19:43+00:00",
+    "idade_d": 2.3,
     "formato": "novo"
   },
   {
@@ -1116,7 +1172,7 @@
     "engajamento": 9.86,
     "video_id": "aZkkENFn0pQ",
     "em": "2026-07-22T14:57:51+00:00",
-    "idade_d": 30.77,
+    "idade_d": 31.77,
     "formato": "antigo"
   },
   {
@@ -1130,7 +1186,7 @@
     "engajamento": 9.76,
     "video_id": "fvEMI0XQgKM",
     "em": "2026-08-04T07:32:08+00:00",
-    "idade_d": 18.08,
+    "idade_d": 19.08,
     "formato": "novo"
   },
   {
@@ -1144,7 +1200,7 @@
     "engajamento": 9.76,
     "video_id": "doT34kO7eGk",
     "em": "2026-08-05T07:35:22+00:00",
-    "idade_d": 17.08,
+    "idade_d": 18.08,
     "formato": "novo"
   },
   {
@@ -1158,7 +1214,7 @@
     "engajamento": 9.6,
     "video_id": "ifTmFUsuNso",
     "em": "2026-08-10T05:17:45+00:00",
-    "idade_d": 12.17,
+    "idade_d": 13.17,
     "formato": "novo"
   },
   {
@@ -1172,7 +1228,7 @@
     "engajamento": 9.57,
     "video_id": "pIUTJrtwhD4",
     "em": "2026-08-11T03:04:56+00:00",
-    "idade_d": 11.27,
+    "idade_d": 12.27,
     "formato": "novo"
   },
   {
@@ -1186,7 +1242,7 @@
     "engajamento": 9.53,
     "video_id": "4lrSKpglN8Y",
     "em": "2026-07-19T05:44:03+00:00",
-    "idade_d": 34.16,
+    "idade_d": 35.16,
     "formato": "antigo"
   },
   {
@@ -1200,22 +1256,8 @@
     "engajamento": 9.51,
     "video_id": "8Tyr0031qm4",
     "em": "2026-07-25T07:52:17+00:00",
-    "idade_d": 28.07,
+    "idade_d": 29.07,
     "formato": "antigo"
-  },
-  {
-    "canal": "es",
-    "item": "short-1",
-    "tipo": "promesa",
-    "titulo": "Salmo 121 — Mi socorro viene de Jehová | Biblia",
-    "views": 576,
-    "likes": 54,
-    "comentarios": 0,
-    "engajamento": 9.38,
-    "video_id": "hz6zZouqgcU",
-    "em": "2026-08-21T02:19:43+00:00",
-    "idade_d": 1.3,
-    "formato": "novo"
   },
   {
     "canal": "es",
@@ -1228,7 +1270,7 @@
     "engajamento": 9.29,
     "video_id": "RkkaHOSSeV8",
     "em": "2026-07-27T17:32:14+00:00",
-    "idade_d": 25.66,
+    "idade_d": 26.66,
     "formato": "antigo"
   },
   {
@@ -1242,7 +1284,7 @@
     "engajamento": 9.29,
     "video_id": "tFlP7Nt_AQQ",
     "em": "2026-08-08T21:21:44+00:00",
-    "idade_d": 13.5,
+    "idade_d": 14.5,
     "formato": "novo"
   },
   {
@@ -1256,7 +1298,7 @@
     "engajamento": 9.22,
     "video_id": "W2syt4yDs0o",
     "em": "2026-07-31T23:56:42+00:00",
-    "idade_d": 21.4,
+    "idade_d": 22.4,
     "formato": "novo"
   },
   {
@@ -1270,7 +1312,7 @@
     "engajamento": 9.18,
     "video_id": "tjg1FQBlOqA",
     "em": "2026-07-28T04:57:17+00:00",
-    "idade_d": 25.19,
+    "idade_d": 26.19,
     "formato": "novo"
   },
   {
@@ -1284,7 +1326,7 @@
     "engajamento": 9.17,
     "video_id": "BmUNwl-MgRU",
     "em": "2026-08-03T12:51:24+00:00",
-    "idade_d": 18.86,
+    "idade_d": 19.86,
     "formato": "novo"
   },
   {
@@ -1298,7 +1340,7 @@
     "engajamento": 9.09,
     "video_id": "y-GLOC5s1sI",
     "em": "2026-07-29T07:47:07+00:00",
-    "idade_d": 24.07,
+    "idade_d": 25.07,
     "formato": "novo"
   },
   {
@@ -1312,7 +1354,7 @@
     "engajamento": 9.08,
     "video_id": "YlIl72UMxF0",
     "em": "2026-07-25T22:44:47+00:00",
-    "idade_d": 27.45,
+    "idade_d": 28.45,
     "formato": "antigo"
   },
   {
@@ -1326,7 +1368,7 @@
     "engajamento": 9.02,
     "video_id": "HYrksiJD7Lo",
     "em": "2026-08-18T02:14:38+00:00",
-    "idade_d": 4.3,
+    "idade_d": 5.3,
     "formato": "novo"
   },
   {
@@ -1334,13 +1376,13 @@
     "item": "short-3",
     "tipo": "promesa",
     "titulo": "Salmo 61 — Llévame a la roca que es más alta que yo | Biblia",
-    "views": 190,
+    "views": 191,
     "likes": 17,
     "comentarios": 0,
-    "engajamento": 8.95,
+    "engajamento": 8.9,
     "video_id": "IXxpVk_V-_8",
     "em": "2026-08-06T23:51:15+00:00",
-    "idade_d": 15.4,
+    "idade_d": 16.4,
     "formato": "novo"
   },
   {
@@ -1354,7 +1396,7 @@
     "engajamento": 8.82,
     "video_id": "wi_Ef_z_UoU",
     "em": "2026-08-02T23:52:14+00:00",
-    "idade_d": 19.4,
+    "idade_d": 20.4,
     "formato": "novo"
   },
   {
@@ -1368,21 +1410,7 @@
     "engajamento": 8.81,
     "video_id": "qBNEY6HWSuU",
     "em": "2026-08-07T08:10:04+00:00",
-    "idade_d": 15.05,
-    "formato": "novo"
-  },
-  {
-    "canal": "es",
-    "item": "short-2",
-    "tipo": "descriptivo",
-    "titulo": "Proverbios 4:23 - Sobre toda cosa guardada, guarda tu corazon",
-    "views": 1115,
-    "likes": 98,
-    "comentarios": 0,
-    "engajamento": 8.79,
-    "video_id": "byv3kyd3nS0",
-    "em": "2026-08-10T12:46:14+00:00",
-    "idade_d": 11.86,
+    "idade_d": 16.05,
     "formato": "novo"
   },
   {
@@ -1396,7 +1424,21 @@
     "engajamento": 8.78,
     "video_id": "o4dPiXZM5FI",
     "em": "2026-08-13T11:41:06+00:00",
-    "idade_d": 8.91,
+    "idade_d": 9.91,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "descriptivo",
+    "titulo": "Proverbios 4:23 - Sobre toda cosa guardada, guarda tu corazon",
+    "views": 1117,
+    "likes": 98,
+    "comentarios": 0,
+    "engajamento": 8.77,
+    "video_id": "byv3kyd3nS0",
+    "em": "2026-08-10T12:46:14+00:00",
+    "idade_d": 12.86,
     "formato": "novo"
   },
   {
@@ -1410,7 +1452,7 @@
     "engajamento": 8.74,
     "video_id": "cP4HbVFuDXs",
     "em": "2026-07-30T12:24:51+00:00",
-    "idade_d": 22.88,
+    "idade_d": 23.88,
     "formato": "novo"
   },
   {
@@ -1424,7 +1466,7 @@
     "engajamento": 8.7,
     "video_id": "R32UpvAGd-w",
     "em": "2026-08-16T03:41:05+00:00",
-    "idade_d": 6.24,
+    "idade_d": 7.24,
     "formato": "novo"
   },
   {
@@ -1438,7 +1480,7 @@
     "engajamento": 8.67,
     "video_id": "5mn0l2i7piI",
     "em": "2026-08-07T23:26:27+00:00",
-    "idade_d": 14.42,
+    "idade_d": 15.42,
     "formato": "novo"
   },
   {
@@ -1452,7 +1494,7 @@
     "engajamento": 8.55,
     "video_id": "xO5KBEdgIX4",
     "em": "2026-08-09T21:24:51+00:00",
-    "idade_d": 12.5,
+    "idade_d": 13.5,
     "formato": "novo"
   },
   {
@@ -1466,7 +1508,7 @@
     "engajamento": 8.54,
     "video_id": "K_vrrgHtw3w",
     "em": "2026-07-29T12:57:33+00:00",
-    "idade_d": 23.85,
+    "idade_d": 24.85,
     "formato": "novo"
   },
   {
@@ -1480,7 +1522,7 @@
     "engajamento": 8.49,
     "video_id": "e27xwiRUzu0",
     "em": "2026-08-05T04:57:38+00:00",
-    "idade_d": 17.19,
+    "idade_d": 18.19,
     "formato": "novo"
   },
   {
@@ -1494,7 +1536,7 @@
     "engajamento": 8.43,
     "video_id": "FyvwIc7edfQ",
     "em": "2026-08-10T19:49:20+00:00",
-    "idade_d": 11.57,
+    "idade_d": 12.57,
     "formato": "novo"
   },
   {
@@ -1502,13 +1544,13 @@
     "item": "short-1",
     "tipo": "promesa",
     "titulo": "Salmo 145 — Clemente y misericordioso es Jehová | Biblia",
-    "views": 954,
+    "views": 955,
     "likes": 79,
     "comentarios": 1,
-    "engajamento": 8.39,
+    "engajamento": 8.38,
     "video_id": "WoqDZSuy9ts",
     "em": "2026-08-15T02:09:40+00:00",
-    "idade_d": 7.3,
+    "idade_d": 8.3,
     "formato": "novo"
   },
   {
@@ -1522,7 +1564,7 @@
     "engajamento": 8.29,
     "video_id": "KzqWBD5bSfw",
     "em": "2026-08-01T20:06:43+00:00",
-    "idade_d": 20.56,
+    "idade_d": 21.56,
     "formato": "novo"
   },
   {
@@ -1536,7 +1578,7 @@
     "engajamento": 8.18,
     "video_id": "rhOpTLs4t6E",
     "em": "2026-08-08T06:36:38+00:00",
-    "idade_d": 14.12,
+    "idade_d": 15.12,
     "formato": "novo"
   },
   {
@@ -1550,7 +1592,7 @@
     "engajamento": 8.11,
     "video_id": "-n287acpKt8",
     "em": "2026-07-31T01:56:49+00:00",
-    "idade_d": 22.31,
+    "idade_d": 23.31,
     "formato": "novo"
   },
   {
@@ -1564,7 +1606,7 @@
     "engajamento": 8.02,
     "video_id": "jWd4SqcmZp0",
     "em": "2026-07-23T07:29:25+00:00",
-    "idade_d": 30.08,
+    "idade_d": 31.08,
     "formato": "antigo"
   },
   {
@@ -1578,7 +1620,7 @@
     "engajamento": 7.92,
     "video_id": "vukGyujjmvI",
     "em": "2026-08-19T02:22:19+00:00",
-    "idade_d": 3.3,
+    "idade_d": 4.3,
     "formato": "novo"
   },
   {
@@ -1592,7 +1634,7 @@
     "engajamento": 7.91,
     "video_id": "W2nWvKlCqek",
     "em": "2026-07-24T15:25:45+00:00",
-    "idade_d": 28.75,
+    "idade_d": 29.75,
     "formato": "antigo"
   },
   {
@@ -1606,7 +1648,7 @@
     "engajamento": 7.77,
     "video_id": "7ZOj4py_0Ss",
     "em": "2026-07-31T08:36:17+00:00",
-    "idade_d": 22.04,
+    "idade_d": 23.04,
     "formato": "novo"
   },
   {
@@ -1620,22 +1662,8 @@
     "engajamento": 7.72,
     "video_id": "He_vL9rcYKA",
     "em": "2026-07-21T10:17:01+00:00",
-    "idade_d": 31.97,
+    "idade_d": 32.97,
     "formato": "antigo"
-  },
-  {
-    "canal": "es",
-    "item": "short-3",
-    "tipo": "conflicto",
-    "titulo": "Mateo 26:41 - Velad y orad | Biblia en espanol",
-    "views": 143,
-    "likes": 11,
-    "comentarios": 0,
-    "engajamento": 7.69,
-    "video_id": "wZ1hE5AUpf0",
-    "em": "2026-08-12T18:49:15+00:00",
-    "idade_d": 9.61,
-    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -1648,7 +1676,21 @@
     "engajamento": 7.69,
     "video_id": "4-cRstqUisI",
     "em": "2026-08-12T19:58:20+00:00",
-    "idade_d": 9.56,
+    "idade_d": 10.56,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-3",
+    "tipo": "conflicto",
+    "titulo": "Mateo 26:41 - Velad y orad | Biblia en espanol",
+    "views": 144,
+    "likes": 11,
+    "comentarios": 0,
+    "engajamento": 7.64,
+    "video_id": "wZ1hE5AUpf0",
+    "em": "2026-08-12T18:49:15+00:00",
+    "idade_d": 10.61,
     "formato": "novo"
   },
   {
@@ -1662,7 +1704,7 @@
     "engajamento": 7.5,
     "video_id": "FSiTIWToY3U",
     "em": "2026-08-03T05:34:17+00:00",
-    "idade_d": 19.16,
+    "idade_d": 20.16,
     "formato": "novo"
   },
   {
@@ -1676,7 +1718,7 @@
     "engajamento": 7.38,
     "video_id": "mIjfsFc5Xl0",
     "em": "2026-08-13T04:02:20+00:00",
-    "idade_d": 9.23,
+    "idade_d": 10.23,
     "formato": "novo"
   },
   {
@@ -1690,7 +1732,7 @@
     "engajamento": 7.31,
     "video_id": "QLxA8SJj8go",
     "em": "2026-07-19T02:45:12+00:00",
-    "idade_d": 34.28,
+    "idade_d": 35.28,
     "formato": "antigo"
   },
   {
@@ -1704,7 +1746,7 @@
     "engajamento": 7.3,
     "video_id": "JANACaZkYB8",
     "em": "2026-08-11T17:51:43+00:00",
-    "idade_d": 10.65,
+    "idade_d": 11.65,
     "formato": "novo"
   },
   {
@@ -1718,7 +1760,7 @@
     "engajamento": 7.25,
     "video_id": "I3rYb9pqkNM",
     "em": "2026-08-07T08:09:14+00:00",
-    "idade_d": 15.05,
+    "idade_d": 16.05,
     "formato": "novo"
   },
   {
@@ -1732,7 +1774,7 @@
     "engajamento": 7.15,
     "video_id": "QW_NLeZKpPk",
     "em": "2026-08-01T13:03:21+00:00",
-    "idade_d": 20.85,
+    "idade_d": 21.85,
     "formato": "novo"
   },
   {
@@ -1746,7 +1788,7 @@
     "engajamento": 7.14,
     "video_id": "NEmmp3K1KYI",
     "em": "2026-07-29T20:12:58+00:00",
-    "idade_d": 23.55,
+    "idade_d": 24.55,
     "formato": "novo"
   },
   {
@@ -1760,7 +1802,7 @@
     "engajamento": 7.14,
     "video_id": "PXCdbfQa2TA",
     "em": "2026-08-04T22:53:59+00:00",
-    "idade_d": 17.44,
+    "idade_d": 18.44,
     "formato": "novo"
   },
   {
@@ -1774,21 +1816,7 @@
     "engajamento": 7.13,
     "video_id": "wRrCwrS2o74",
     "em": "2026-08-05T22:11:28+00:00",
-    "idade_d": 16.47,
-    "formato": "novo"
-  },
-  {
-    "canal": "es",
-    "item": "short-3",
-    "tipo": "conflicto",
-    "titulo": "Genesis 37 - El sueno de Jose | Historia biblica narrada",
-    "views": 326,
-    "likes": 23,
-    "comentarios": 0,
-    "engajamento": 7.06,
-    "video_id": "1h7bU43UJgc",
-    "em": "2026-08-20T18:25:26+00:00",
-    "idade_d": 1.63,
+    "idade_d": 17.47,
     "formato": "novo"
   },
   {
@@ -1802,7 +1830,7 @@
     "engajamento": 7.05,
     "video_id": "nKhC2_isGwM",
     "em": "2026-07-24T22:57:38+00:00",
-    "idade_d": 28.44,
+    "idade_d": 29.44,
     "formato": "antigo"
   },
   {
@@ -1816,7 +1844,7 @@
     "engajamento": 6.98,
     "video_id": "w39AWANKKls",
     "em": "2026-07-20T15:04:08+00:00",
-    "idade_d": 32.77,
+    "idade_d": 33.77,
     "formato": "antigo"
   },
   {
@@ -1830,7 +1858,7 @@
     "engajamento": 6.97,
     "video_id": "ydJ9d7Y-xS4",
     "em": "2026-08-16T02:17:26+00:00",
-    "idade_d": 6.3,
+    "idade_d": 7.3,
     "formato": "novo"
   },
   {
@@ -1844,7 +1872,7 @@
     "engajamento": 6.96,
     "video_id": "rr6yAkyjUZ8",
     "em": "2026-07-27T09:34:19+00:00",
-    "idade_d": 26.0,
+    "idade_d": 27.0,
     "formato": "antigo"
   },
   {
@@ -1858,7 +1886,7 @@
     "engajamento": 6.92,
     "video_id": "vSM3cqR4fJ4",
     "em": "2026-07-28T12:49:30+00:00",
-    "idade_d": 24.86,
+    "idade_d": 25.86,
     "formato": "novo"
   },
   {
@@ -1872,7 +1900,7 @@
     "engajamento": 6.91,
     "video_id": "WAnF6jCSj4k",
     "em": "2026-08-09T05:42:25+00:00",
-    "idade_d": 13.16,
+    "idade_d": 14.16,
     "formato": "novo"
   },
   {
@@ -1886,8 +1914,22 @@
     "engajamento": 6.9,
     "video_id": "4GOsWKjFlSo",
     "em": "2026-07-27T02:23:37+00:00",
-    "idade_d": 26.29,
+    "idade_d": 27.29,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-3",
+    "tipo": "promesa",
+    "titulo": "Isaias 43 - He aqui que yo hago cosa nueva | Biblia en espanol",
+    "views": 685,
+    "likes": 46,
+    "comentarios": 1,
+    "engajamento": 6.86,
+    "video_id": "2XNN1bsMYVE",
+    "em": "2026-08-22T17:13:08+00:00",
+    "idade_d": 0.68,
+    "formato": "novo"
   },
   {
     "canal": "es",
@@ -1900,7 +1942,7 @@
     "engajamento": 6.85,
     "video_id": "k1CbiR4wYkU",
     "em": "2026-08-02T05:19:31+00:00",
-    "idade_d": 20.17,
+    "idade_d": 21.17,
     "formato": "novo"
   },
   {
@@ -1914,22 +1956,8 @@
     "engajamento": 6.84,
     "video_id": "9X9Uz2lBK2o",
     "em": "2026-07-23T15:04:33+00:00",
-    "idade_d": 29.77,
+    "idade_d": 30.77,
     "formato": "antigo"
-  },
-  {
-    "canal": "es",
-    "item": "short-2",
-    "tipo": "promesa",
-    "titulo": "Salmo 145 — Clemente y misericordioso es Jehová | Biblia",
-    "views": 762,
-    "likes": 52,
-    "comentarios": 0,
-    "engajamento": 6.82,
-    "video_id": "rgepqIKDmbQ",
-    "em": "2026-08-07T15:46:14+00:00",
-    "idade_d": 14.74,
-    "formato": "novo"
   },
   {
     "canal": "es",
@@ -1942,7 +1970,7 @@
     "engajamento": 6.81,
     "video_id": "TyHxlO4tJ8A",
     "em": "2026-07-31T19:10:20+00:00",
-    "idade_d": 21.6,
+    "idade_d": 22.6,
     "formato": "novo"
   },
   {
@@ -1956,7 +1984,35 @@
     "engajamento": 6.74,
     "video_id": "FfOKycwhxtI",
     "em": "2026-08-11T10:43:40+00:00",
-    "idade_d": 10.95,
+    "idade_d": 11.95,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-3",
+    "tipo": "conflicto",
+    "titulo": "Genesis 37 - El sueno de Jose | Historia biblica narrada",
+    "views": 356,
+    "likes": 24,
+    "comentarios": 0,
+    "engajamento": 6.74,
+    "video_id": "1h7bU43UJgc",
+    "em": "2026-08-20T18:25:26+00:00",
+    "idade_d": 2.63,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Salmo 145 — Clemente y misericordioso es Jehová | Biblia",
+    "views": 762,
+    "likes": 51,
+    "comentarios": 0,
+    "engajamento": 6.69,
+    "video_id": "rgepqIKDmbQ",
+    "em": "2026-08-07T15:46:14+00:00",
+    "idade_d": 15.74,
     "formato": "novo"
   },
   {
@@ -1970,7 +2026,7 @@
     "engajamento": 6.67,
     "video_id": "1U2nVXJjKSs",
     "em": "2026-08-10T12:47:23+00:00",
-    "idade_d": 11.86,
+    "idade_d": 12.86,
     "formato": "novo"
   },
   {
@@ -1984,7 +2040,7 @@
     "engajamento": 6.67,
     "video_id": "9-Xu5Nm6sIs",
     "em": "2026-08-11T04:59:48+00:00",
-    "idade_d": 11.19,
+    "idade_d": 12.19,
     "formato": "novo"
   },
   {
@@ -1998,7 +2054,7 @@
     "engajamento": 6.66,
     "video_id": "T3qlIYQRsvE",
     "em": "2026-07-28T21:00:42+00:00",
-    "idade_d": 24.52,
+    "idade_d": 25.52,
     "formato": "novo"
   },
   {
@@ -2012,7 +2068,7 @@
     "engajamento": 6.59,
     "video_id": "GC0YfJFJYHM",
     "em": "2026-07-29T05:01:48+00:00",
-    "idade_d": 24.18,
+    "idade_d": 25.19,
     "formato": "novo"
   },
   {
@@ -2026,7 +2082,21 @@
     "engajamento": 6.47,
     "video_id": "zmgwB-UqGHQ",
     "em": "2026-08-02T13:00:49+00:00",
-    "idade_d": 19.85,
+    "idade_d": 20.85,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "promesa",
+    "titulo": "Salmo 23 - Aunque ande en valle de sombra de muerte | Biblia",
+    "views": 1452,
+    "likes": 93,
+    "comentarios": 0,
+    "engajamento": 6.4,
+    "video_id": "j_BDsyzxl8Q",
+    "em": "2026-08-16T09:19:21+00:00",
+    "idade_d": 7.01,
     "formato": "novo"
   },
   {
@@ -2040,21 +2110,7 @@
     "engajamento": 6.38,
     "video_id": "r4gG05MVmQo",
     "em": "2026-08-09T03:28:18+00:00",
-    "idade_d": 13.25,
-    "formato": "novo"
-  },
-  {
-    "canal": "es",
-    "item": "short-2",
-    "tipo": "promesa",
-    "titulo": "Salmo 23 - Aunque ande en valle de sombra de muerte | Biblia",
-    "views": 1451,
-    "likes": 92,
-    "comentarios": 0,
-    "engajamento": 6.34,
-    "video_id": "j_BDsyzxl8Q",
-    "em": "2026-08-16T09:19:21+00:00",
-    "idade_d": 6.01,
+    "idade_d": 14.25,
     "formato": "novo"
   },
   {
@@ -2068,7 +2124,7 @@
     "engajamento": 6.3,
     "video_id": "vJGCt-7lUl8",
     "em": "2026-07-21T22:47:54+00:00",
-    "idade_d": 31.44,
+    "idade_d": 32.44,
     "formato": "antigo"
   },
   {
@@ -2082,7 +2138,7 @@
     "engajamento": 6.27,
     "video_id": "7EOMTXN2xbY",
     "em": "2026-08-03T20:56:41+00:00",
-    "idade_d": 18.52,
+    "idade_d": 19.52,
     "formato": "novo"
   },
   {
@@ -2096,7 +2152,7 @@
     "engajamento": 6.22,
     "video_id": "sqtQdLCJlUw",
     "em": "2026-07-22T21:59:08+00:00",
-    "idade_d": 30.48,
+    "idade_d": 31.48,
     "formato": "antigo"
   },
   {
@@ -2110,21 +2166,7 @@
     "engajamento": 6.18,
     "video_id": "GwibAjWuyVs",
     "em": "2026-08-06T15:09:15+00:00",
-    "idade_d": 15.76,
-    "formato": "novo"
-  },
-  {
-    "canal": "es",
-    "item": "short-2",
-    "tipo": "descriptivo",
-    "titulo": "Genesis 45 - Yo soy Jose vuestro hermano | Historia biblica",
-    "views": 814,
-    "likes": 48,
-    "comentarios": 0,
-    "engajamento": 5.9,
-    "video_id": "VhEUkickrEI",
-    "em": "2026-08-20T11:19:42+00:00",
-    "idade_d": 1.92,
+    "idade_d": 16.76,
     "formato": "novo"
   },
   {
@@ -2138,7 +2180,7 @@
     "engajamento": 5.87,
     "video_id": "Tojfh2I_Cik",
     "em": "2026-08-14T11:01:32+00:00",
-    "idade_d": 7.93,
+    "idade_d": 8.94,
     "formato": "novo"
   },
   {
@@ -2152,7 +2194,7 @@
     "engajamento": 5.83,
     "video_id": "xrhNyoY-d5A",
     "em": "2026-08-06T07:36:25+00:00",
-    "idade_d": 16.08,
+    "idade_d": 17.08,
     "formato": "novo"
   },
   {
@@ -2166,7 +2208,21 @@
     "engajamento": 5.81,
     "video_id": "uIYfUWJV8D8",
     "em": "2026-08-20T03:40:32+00:00",
-    "idade_d": 2.24,
+    "idade_d": 3.24,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "short-2",
+    "tipo": "descriptivo",
+    "titulo": "Genesis 45 - Yo soy Jose vuestro hermano | Historia biblica",
+    "views": 861,
+    "likes": 50,
+    "comentarios": 0,
+    "engajamento": 5.81,
+    "video_id": "VhEUkickrEI",
+    "em": "2026-08-20T11:19:42+00:00",
+    "idade_d": 2.92,
     "formato": "novo"
   },
   {
@@ -2180,21 +2236,7 @@
     "engajamento": 5.8,
     "video_id": "-sBu6g9JYZQ",
     "em": "2026-08-15T09:18:21+00:00",
-    "idade_d": 7.01,
-    "formato": "novo"
-  },
-  {
-    "canal": "pt",
-    "item": "longo",
-    "tipo": "longo",
-    "titulo": "Salmos para Dormir — Deus Nunca Dorme | Bíblia Narrada com Voz Calma",
-    "views": 121,
-    "likes": 7,
-    "comentarios": 0,
-    "engajamento": 5.79,
-    "video_id": "Yu54rZMqTBU",
-    "em": "2026-08-21T02:56:22+00:00",
-    "idade_d": 1.27,
+    "idade_d": 8.01,
     "formato": "novo"
   },
   {
@@ -2208,7 +2250,7 @@
     "engajamento": 5.78,
     "video_id": "ByOxdzd_h-k",
     "em": "2026-07-20T22:47:59+00:00",
-    "idade_d": 32.44,
+    "idade_d": 33.44,
     "formato": "antigo"
   },
   {
@@ -2222,7 +2264,7 @@
     "engajamento": 5.77,
     "video_id": "-hdlOjKr08o",
     "em": "2026-07-30T20:57:50+00:00",
-    "idade_d": 22.52,
+    "idade_d": 23.52,
     "formato": "novo"
   },
   {
@@ -2236,7 +2278,7 @@
     "engajamento": 5.74,
     "video_id": "VQGliac_Gic",
     "em": "2026-07-20T06:01:36+00:00",
-    "idade_d": 33.14,
+    "idade_d": 34.14,
     "formato": "antigo"
   },
   {
@@ -2250,7 +2292,21 @@
     "engajamento": 5.61,
     "video_id": "xPCvOcTDni0",
     "em": "2026-08-02T20:07:48+00:00",
-    "idade_d": 19.56,
+    "idade_d": 20.56,
+    "formato": "novo"
+  },
+  {
+    "canal": "pt",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Salmos para Dormir — Deus Nunca Dorme | Bíblia Narrada com Voz Calma",
+    "views": 125,
+    "likes": 7,
+    "comentarios": 0,
+    "engajamento": 5.6,
+    "video_id": "Yu54rZMqTBU",
+    "em": "2026-08-21T02:56:22+00:00",
+    "idade_d": 2.27,
     "formato": "novo"
   },
   {
@@ -2264,7 +2320,7 @@
     "engajamento": 5.59,
     "video_id": "cruUJjO836U",
     "em": "2026-08-17T02:15:42+00:00",
-    "idade_d": 5.3,
+    "idade_d": 6.3,
     "formato": "novo"
   },
   {
@@ -2278,7 +2334,7 @@
     "engajamento": 5.37,
     "video_id": "yK7Lzjc_R-s",
     "em": "2026-08-09T21:23:50+00:00",
-    "idade_d": 12.5,
+    "idade_d": 13.5,
     "formato": "novo"
   },
   {
@@ -2292,7 +2348,7 @@
     "engajamento": 5.33,
     "video_id": "6yGAjFF6dQM",
     "em": "2026-07-23T22:53:26+00:00",
-    "idade_d": 29.44,
+    "idade_d": 30.44,
     "formato": "antigo"
   },
   {
@@ -2306,7 +2362,7 @@
     "engajamento": 5.26,
     "video_id": "0BODiyDf_cI",
     "em": "2026-08-16T02:24:17+00:00",
-    "idade_d": 6.29,
+    "idade_d": 7.29,
     "formato": "novo"
   },
   {
@@ -2320,7 +2376,7 @@
     "engajamento": 5.21,
     "video_id": "ca1Uyab0Vzo",
     "em": "2026-08-05T15:09:44+00:00",
-    "idade_d": 16.76,
+    "idade_d": 17.76,
     "formato": "novo"
   },
   {
@@ -2334,8 +2390,22 @@
     "engajamento": 5.17,
     "video_id": "jw1kV2HL-0E",
     "em": "2026-07-19T12:56:26+00:00",
-    "idade_d": 33.86,
+    "idade_d": 34.86,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-3",
+    "tipo": "promesa",
+    "titulo": "Salmo 34 — Busqué a Jehová, y él me oyó | Biblia",
+    "views": 826,
+    "likes": 42,
+    "comentarios": 0,
+    "engajamento": 5.08,
+    "video_id": "8yxBMvef2lA",
+    "em": "2026-08-21T17:21:02+00:00",
+    "idade_d": 1.67,
+    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -2348,7 +2418,7 @@
     "engajamento": 5.0,
     "video_id": "TZ24zeLCGjA",
     "em": "2026-08-02T15:55:13+00:00",
-    "idade_d": 19.73,
+    "idade_d": 20.73,
     "formato": "novo"
   },
   {
@@ -2362,7 +2432,7 @@
     "engajamento": 5.0,
     "video_id": "oODfxoALc68",
     "em": "2026-08-12T05:25:55+00:00",
-    "idade_d": 10.17,
+    "idade_d": 11.17,
     "formato": "novo"
   },
   {
@@ -2376,7 +2446,7 @@
     "engajamento": 4.93,
     "video_id": "0HHmCC42QWM",
     "em": "2026-08-03T09:40:29+00:00",
-    "idade_d": 18.99,
+    "idade_d": 19.99,
     "formato": "novo"
   },
   {
@@ -2390,7 +2460,7 @@
     "engajamento": 4.76,
     "video_id": "TtQ4qMSjje0",
     "em": "2026-07-22T01:57:56+00:00",
-    "idade_d": 31.31,
+    "idade_d": 32.31,
     "formato": "antigo"
   },
   {
@@ -2404,22 +2474,8 @@
     "engajamento": 4.75,
     "video_id": "BiQfybuuqDk",
     "em": "2026-07-19T08:00:33+00:00",
-    "idade_d": 34.06,
+    "idade_d": 35.06,
     "formato": "antigo"
-  },
-  {
-    "canal": "es",
-    "item": "short-2",
-    "tipo": "promesa",
-    "titulo": "Salmo 91 — Bajo la sombra del Altísimo | Biblia",
-    "views": 1048,
-    "likes": 48,
-    "comentarios": 1,
-    "engajamento": 4.68,
-    "video_id": "NeDvKoCEui8",
-    "em": "2026-08-21T09:27:25+00:00",
-    "idade_d": 1.0,
-    "formato": "novo"
   },
   {
     "canal": "pt",
@@ -2432,21 +2488,21 @@
     "engajamento": 4.62,
     "video_id": "nYynmLfORZg",
     "em": "2026-07-28T05:23:05+00:00",
-    "idade_d": 25.17,
+    "idade_d": 26.17,
     "formato": "novo"
   },
   {
     "canal": "es",
-    "item": "short-3",
+    "item": "short-2",
     "tipo": "promesa",
-    "titulo": "Salmo 34 — Busqué a Jehová, y él me oyó | Biblia",
-    "views": 766,
-    "likes": 35,
-    "comentarios": 0,
-    "engajamento": 4.57,
-    "video_id": "8yxBMvef2lA",
-    "em": "2026-08-21T17:21:02+00:00",
-    "idade_d": 0.67,
+    "titulo": "Salmo 91 — Bajo la sombra del Altísimo | Biblia",
+    "views": 1263,
+    "likes": 54,
+    "comentarios": 2,
+    "engajamento": 4.43,
+    "video_id": "NeDvKoCEui8",
+    "em": "2026-08-21T09:27:25+00:00",
+    "idade_d": 2.0,
     "formato": "novo"
   },
   {
@@ -2460,7 +2516,7 @@
     "engajamento": 4.39,
     "video_id": "fl1KsdStPIo",
     "em": "2026-07-22T07:37:41+00:00",
-    "idade_d": 31.08,
+    "idade_d": 32.08,
     "formato": "antigo"
   },
   {
@@ -2474,7 +2530,7 @@
     "engajamento": 4.35,
     "video_id": "d59qqi8NIu0",
     "em": "2026-08-08T01:04:50+00:00",
-    "idade_d": 14.35,
+    "idade_d": 15.35,
     "formato": "novo"
   },
   {
@@ -2488,7 +2544,7 @@
     "engajamento": 4.25,
     "video_id": "zTAwGoA8uEA",
     "em": "2026-08-05T05:31:36+00:00",
-    "idade_d": 17.16,
+    "idade_d": 18.16,
     "formato": "novo"
   },
   {
@@ -2502,7 +2558,7 @@
     "engajamento": 4.24,
     "video_id": "1yERkKWlR88",
     "em": "2026-08-01T05:20:17+00:00",
-    "idade_d": 21.17,
+    "idade_d": 22.17,
     "formato": "novo"
   },
   {
@@ -2516,7 +2572,7 @@
     "engajamento": 4.17,
     "video_id": "TZ0V2J-Ya2M",
     "em": "2026-08-16T17:12:48+00:00",
-    "idade_d": 5.68,
+    "idade_d": 6.68,
     "formato": "novo"
   },
   {
@@ -2530,21 +2586,35 @@
     "engajamento": 4.05,
     "video_id": "nYYTOz-7gcA",
     "em": "2026-07-24T08:09:36+00:00",
-    "idade_d": 29.05,
+    "idade_d": 30.05,
     "formato": "antigo"
+  },
+  {
+    "canal": "es",
+    "item": "short-1",
+    "tipo": "conflicto",
+    "titulo": "1 Reyes 18 - Hasta cuando claudicareis | Historia biblica",
+    "views": 879,
+    "likes": 34,
+    "comentarios": 1,
+    "engajamento": 3.98,
+    "video_id": "PO-VWYbHc0E",
+    "em": "2026-08-23T02:20:13+00:00",
+    "idade_d": 0.3,
+    "formato": "novo"
   },
   {
     "canal": "stoic",
     "item": "short-1",
     "tipo": "?",
     "titulo": "Ama lo que te tocó vivir",
-    "views": 325,
+    "views": 322,
     "likes": 12,
     "comentarios": 0,
-    "engajamento": 3.69,
+    "engajamento": 3.73,
     "video_id": "ylWU7CuMaEQ",
     "em": "2026-08-19T02:34:34+00:00",
-    "idade_d": 3.29,
+    "idade_d": 4.29,
     "formato": "novo"
   },
   {
@@ -2558,21 +2628,7 @@
     "engajamento": 3.49,
     "video_id": "L_9-bZH_4H0",
     "em": "2026-08-11T03:54:09+00:00",
-    "idade_d": 11.23,
-    "formato": "novo"
-  },
-  {
-    "canal": "es",
-    "item": "longo",
-    "tipo": "longo",
-    "titulo": "Salmo 23 Completo - Jehova es mi Pastor | Biblia en espanol",
-    "views": 30,
-    "likes": 1,
-    "comentarios": 0,
-    "engajamento": 3.33,
-    "video_id": "QYxbInzq38o",
-    "em": "2026-08-16T00:50:12+00:00",
-    "idade_d": 6.36,
+    "idade_d": 12.23,
     "formato": "novo"
   },
   {
@@ -2586,7 +2642,21 @@
     "engajamento": 3.29,
     "video_id": "svzYNU4ok-4",
     "em": "2026-08-09T13:42:42+00:00",
-    "idade_d": 12.82,
+    "idade_d": 13.82,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Salmo 23 Completo - Jehova es mi Pastor | Biblia en espanol",
+    "views": 31,
+    "likes": 1,
+    "comentarios": 0,
+    "engajamento": 3.23,
+    "video_id": "QYxbInzq38o",
+    "em": "2026-08-16T00:50:12+00:00",
+    "idade_d": 7.36,
     "formato": "novo"
   },
   {
@@ -2600,7 +2670,7 @@
     "engajamento": 3.12,
     "video_id": "INdYgmAyBSg",
     "em": "2026-08-03T20:57:59+00:00",
-    "idade_d": 18.52,
+    "idade_d": 19.52,
     "formato": "novo"
   },
   {
@@ -2614,21 +2684,7 @@
     "engajamento": 3.03,
     "video_id": "JgrfdmS6xps",
     "em": "2026-08-01T02:13:11+00:00",
-    "idade_d": 21.3,
-    "formato": "novo"
-  },
-  {
-    "canal": "stoic",
-    "item": "short-1",
-    "tipo": "?",
-    "titulo": "La victoria que nadie ve y todo lo cambia",
-    "views": 963,
-    "likes": 29,
-    "comentarios": 0,
-    "engajamento": 3.01,
-    "video_id": "w3Yr6bxnBWY",
-    "em": "2026-08-22T02:23:47+00:00",
-    "idade_d": 0.29,
+    "idade_d": 22.3,
     "formato": "novo"
   },
   {
@@ -2636,13 +2692,13 @@
     "item": "short-3",
     "tipo": "promesa",
     "titulo": "Salmo 62 — En Dios solamente reposa mi alma | Biblia",
-    "views": 1536,
+    "views": 1537,
     "likes": 46,
     "comentarios": 0,
     "engajamento": 2.99,
     "video_id": "Wg3nqw3jM6A",
     "em": "2026-08-04T21:03:21+00:00",
-    "idade_d": 17.52,
+    "idade_d": 18.52,
     "formato": "novo"
   },
   {
@@ -2656,7 +2712,7 @@
     "engajamento": 2.82,
     "video_id": "CYSx2CiD-ZY",
     "em": "2026-08-07T03:15:52+00:00",
-    "idade_d": 15.26,
+    "idade_d": 16.26,
     "formato": "novo"
   },
   {
@@ -2670,7 +2726,21 @@
     "engajamento": 2.78,
     "video_id": "8P21LfJV5XY",
     "em": "2026-08-15T02:49:56+00:00",
-    "idade_d": 7.28,
+    "idade_d": 8.28,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-1",
+    "tipo": "?",
+    "titulo": "La victoria que nadie ve y todo lo cambia",
+    "views": 1039,
+    "likes": 28,
+    "comentarios": 0,
+    "engajamento": 2.69,
+    "video_id": "w3Yr6bxnBWY",
+    "em": "2026-08-22T02:23:47+00:00",
+    "idade_d": 1.29,
     "formato": "novo"
   },
   {
@@ -2684,7 +2754,7 @@
     "engajamento": 2.5,
     "video_id": "DKV7TTgQ4AQ",
     "em": "2026-07-29T02:31:26+00:00",
-    "idade_d": 24.29,
+    "idade_d": 25.29,
     "formato": "novo"
   },
   {
@@ -2698,7 +2768,7 @@
     "engajamento": 2.46,
     "video_id": "_YkmTKgBJhU",
     "em": "2026-08-04T02:17:27+00:00",
-    "idade_d": 18.3,
+    "idade_d": 19.3,
     "formato": "novo"
   },
   {
@@ -2712,21 +2782,7 @@
     "engajamento": 2.44,
     "video_id": "0ZTOLFI3Urg",
     "em": "2026-08-19T12:54:24+00:00",
-    "idade_d": 2.86,
-    "formato": "novo"
-  },
-  {
-    "canal": "pt",
-    "item": "longo",
-    "tipo": "longo",
-    "titulo": "Salmos para Dormir — Paz Interior | Bíblia Narrada com Voz Calma",
-    "views": 247,
-    "likes": 6,
-    "comentarios": 0,
-    "engajamento": 2.43,
-    "video_id": "hH1Ih5Mva98",
-    "em": "2026-08-18T02:55:05+00:00",
-    "idade_d": 4.27,
+    "idade_d": 3.86,
     "formato": "novo"
   },
   {
@@ -2740,21 +2796,35 @@
     "engajamento": 2.42,
     "video_id": "B9lUhlDkDPo",
     "em": "2026-08-15T18:15:49+00:00",
-    "idade_d": 6.63,
+    "idade_d": 7.63,
     "formato": "novo"
   },
   {
-    "canal": "es",
+    "canal": "pt",
     "item": "longo",
     "tipo": "longo",
-    "titulo": "Ensenanos a Orar - Lucas 11 | Biblia en espanol",
-    "views": 84,
-    "likes": 2,
+    "titulo": "Salmos para Dormir — Paz Interior | Bíblia Narrada com Voz Calma",
+    "views": 248,
+    "likes": 6,
     "comentarios": 0,
-    "engajamento": 2.38,
-    "video_id": "cj9Q_ZathDM",
-    "em": "2026-08-12T01:23:51+00:00",
-    "idade_d": 10.34,
+    "engajamento": 2.42,
+    "video_id": "hH1Ih5Mva98",
+    "em": "2026-08-18T02:55:05+00:00",
+    "idade_d": 5.27,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-1",
+    "tipo": "?",
+    "titulo": "Quizá no pecó: suspende el juicio",
+    "views": 805,
+    "likes": 19,
+    "comentarios": 0,
+    "engajamento": 2.36,
+    "video_id": "a5x2MibKUs4",
+    "em": "2026-08-23T02:24:20+00:00",
+    "idade_d": 0.29,
     "formato": "novo"
   },
   {
@@ -2768,7 +2838,7 @@
     "engajamento": 2.27,
     "video_id": "rTmXqeE4awg",
     "em": "2026-07-30T01:37:06+00:00",
-    "idade_d": 23.33,
+    "idade_d": 24.33,
     "formato": "novo"
   },
   {
@@ -2782,7 +2852,7 @@
     "engajamento": 2.25,
     "video_id": "7zebrJKTnYE",
     "em": "2026-08-12T04:11:06+00:00",
-    "idade_d": 10.22,
+    "idade_d": 11.22,
     "formato": "novo"
   },
   {
@@ -2796,7 +2866,7 @@
     "engajamento": 2.16,
     "video_id": "FcuyJHTKQu4",
     "em": "2026-08-09T03:29:16+00:00",
-    "idade_d": 13.25,
+    "idade_d": 14.25,
     "formato": "novo"
   },
   {
@@ -2810,7 +2880,7 @@
     "engajamento": 2.16,
     "video_id": "BCpoCAeT998",
     "em": "2026-08-10T03:23:11+00:00",
-    "idade_d": 12.25,
+    "idade_d": 13.25,
     "formato": "novo"
   },
   {
@@ -2824,7 +2894,7 @@
     "engajamento": 2.08,
     "video_id": "2I6sLFmr6wA",
     "em": "2026-08-14T01:20:37+00:00",
-    "idade_d": 8.34,
+    "idade_d": 9.34,
     "formato": "novo"
   },
   {
@@ -2838,7 +2908,7 @@
     "engajamento": 2.04,
     "video_id": "nIgsOzeMZQs",
     "em": "2026-08-15T02:52:39+00:00",
-    "idade_d": 7.27,
+    "idade_d": 8.27,
     "formato": "novo"
   },
   {
@@ -2852,7 +2922,7 @@
     "engajamento": 1.85,
     "video_id": "qkiVjjYZxrI",
     "em": "2026-08-11T01:52:58+00:00",
-    "idade_d": 11.32,
+    "idade_d": 12.32,
     "formato": "novo"
   },
   {
@@ -2866,7 +2936,7 @@
     "engajamento": 1.65,
     "video_id": "XmfxiVPX3u8",
     "em": "2026-08-03T02:13:38+00:00",
-    "idade_d": 19.3,
+    "idade_d": 20.3,
     "formato": "novo"
   },
   {
@@ -2880,7 +2950,7 @@
     "engajamento": 1.63,
     "video_id": "R1lcUUBnt_M",
     "em": "2026-08-05T02:10:49+00:00",
-    "idade_d": 17.3,
+    "idade_d": 18.3,
     "formato": "novo"
   },
   {
@@ -2894,7 +2964,7 @@
     "engajamento": 1.61,
     "video_id": "3JQFOftmurw",
     "em": "2026-08-06T02:18:10+00:00",
-    "idade_d": 16.3,
+    "idade_d": 17.3,
     "formato": "novo"
   },
   {
@@ -2908,7 +2978,7 @@
     "engajamento": 1.6,
     "video_id": "YKCDFobMSCw",
     "em": "2026-08-03T02:12:57+00:00",
-    "idade_d": 19.3,
+    "idade_d": 20.3,
     "formato": "novo"
   },
   {
@@ -2916,13 +2986,13 @@
     "item": "short-1",
     "tipo": "?",
     "titulo": "La fama dura menos de lo que crees",
-    "views": 193,
+    "views": 194,
     "likes": 3,
     "comentarios": 0,
     "engajamento": 1.55,
     "video_id": "XwuIvVK5QXI",
     "em": "2026-08-20T02:14:52+00:00",
-    "idade_d": 2.3,
+    "idade_d": 3.3,
     "formato": "novo"
   },
   {
@@ -2936,7 +3006,7 @@
     "engajamento": 1.53,
     "video_id": "F4V9ttFEsWM",
     "em": "2026-08-16T02:25:28+00:00",
-    "idade_d": 6.29,
+    "idade_d": 7.29,
     "formato": "novo"
   },
   {
@@ -2950,7 +3020,7 @@
     "engajamento": 1.51,
     "video_id": "qx--V3FMrhI",
     "em": "2026-08-02T05:27:05+00:00",
-    "idade_d": 20.17,
+    "idade_d": 21.17,
     "formato": "novo"
   },
   {
@@ -2964,7 +3034,7 @@
     "engajamento": 1.49,
     "video_id": "9fVkgyzlXYg",
     "em": "2026-08-11T19:56:20+00:00",
-    "idade_d": 10.56,
+    "idade_d": 11.56,
     "formato": "novo"
   },
   {
@@ -2978,7 +3048,7 @@
     "engajamento": 1.49,
     "video_id": "I4zMqyRaSkw",
     "em": "2026-08-05T05:34:06+00:00",
-    "idade_d": 17.16,
+    "idade_d": 18.16,
     "formato": "novo"
   },
   {
@@ -2992,21 +3062,7 @@
     "engajamento": 1.43,
     "video_id": "E9m1H6ci-eA",
     "em": "2026-08-15T02:51:47+00:00",
-    "idade_d": 7.28,
-    "formato": "novo"
-  },
-  {
-    "canal": "stoic",
-    "item": "short-1",
-    "tipo": "?",
-    "titulo": "La respuesta de Sócrates que nadie esperaba",
-    "views": 490,
-    "likes": 7,
-    "comentarios": 0,
-    "engajamento": 1.43,
-    "video_id": "BOW6YWa67Vs",
-    "em": "2026-08-21T02:57:43+00:00",
-    "idade_d": 1.27,
+    "idade_d": 8.28,
     "formato": "novo"
   },
   {
@@ -3020,7 +3076,21 @@
     "engajamento": 1.4,
     "video_id": "yBrCMfrILdU",
     "em": "2026-08-12T01:25:08+00:00",
-    "idade_d": 10.34,
+    "idade_d": 11.34,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-1",
+    "tipo": "?",
+    "titulo": "La respuesta de Sócrates que nadie esperaba",
+    "views": 511,
+    "likes": 7,
+    "comentarios": 0,
+    "engajamento": 1.37,
+    "video_id": "BOW6YWa67Vs",
+    "em": "2026-08-21T02:57:43+00:00",
+    "idade_d": 2.27,
     "formato": "novo"
   },
   {
@@ -3034,7 +3104,7 @@
     "engajamento": 1.32,
     "video_id": "iUXQSn3x-dI",
     "em": "2026-08-06T05:34:28+00:00",
-    "idade_d": 16.16,
+    "idade_d": 17.16,
     "formato": "novo"
   },
   {
@@ -3048,7 +3118,21 @@
     "engajamento": 1.2,
     "video_id": "aj29-FFALgY",
     "em": "2026-07-31T05:42:40+00:00",
-    "idade_d": 22.16,
+    "idade_d": 23.16,
+    "formato": "novo"
+  },
+  {
+    "canal": "es",
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Ensenanos a Orar - Lucas 11 | Biblia en espanol",
+    "views": 84,
+    "likes": 1,
+    "comentarios": 0,
+    "engajamento": 1.19,
+    "video_id": "cj9Q_ZathDM",
+    "em": "2026-08-12T01:23:51+00:00",
+    "idade_d": 11.34,
     "formato": "novo"
   },
   {
@@ -3062,7 +3146,7 @@
     "engajamento": 1.14,
     "video_id": "SYMzAJmJbuo",
     "em": "2026-08-17T00:44:51+00:00",
-    "idade_d": 5.36,
+    "idade_d": 6.36,
     "formato": "novo"
   },
   {
@@ -3076,7 +3160,7 @@
     "engajamento": 1.03,
     "video_id": "z-c3HQ0JuBY",
     "em": "2026-08-09T03:31:34+00:00",
-    "idade_d": 13.25,
+    "idade_d": 14.25,
     "formato": "novo"
   },
   {
@@ -3090,7 +3174,7 @@
     "engajamento": 1.02,
     "video_id": "hBM2Z_BG2J8",
     "em": "2026-08-09T03:30:27+00:00",
-    "idade_d": 13.25,
+    "idade_d": 14.25,
     "formato": "novo"
   },
   {
@@ -3104,7 +3188,7 @@
     "engajamento": 1.01,
     "video_id": "f9ZzyKT6_hI",
     "em": "2026-08-08T03:01:54+00:00",
-    "idade_d": 14.27,
+    "idade_d": 15.27,
     "formato": "novo"
   },
   {
@@ -3112,13 +3196,13 @@
     "item": "short-1",
     "tipo": "?",
     "titulo": "Que nadie vuelva a oírte quejarte",
-    "views": 893,
+    "views": 891,
     "likes": 7,
     "comentarios": 0,
-    "engajamento": 0.78,
+    "engajamento": 0.79,
     "video_id": "ylrunJqeOTk",
     "em": "2026-08-18T02:56:41+00:00",
-    "idade_d": 4.27,
+    "idade_d": 5.27,
     "formato": "novo"
   },
   {
@@ -3126,13 +3210,13 @@
     "item": "short-1",
     "tipo": "?",
     "titulo": "El único daño real que puedes sufrir",
-    "views": 977,
+    "views": 976,
     "likes": 7,
     "comentarios": 0,
     "engajamento": 0.72,
     "video_id": "rGVFPHDOMP4",
     "em": "2026-08-17T02:20:32+00:00",
-    "idade_d": 5.3,
+    "idade_d": 6.3,
     "formato": "novo"
   },
   {
@@ -3146,7 +3230,7 @@
     "engajamento": 0.7,
     "video_id": "f5UTmzuWjH4",
     "em": "2026-08-08T03:03:08+00:00",
-    "idade_d": 14.27,
+    "idade_d": 15.27,
     "formato": "novo"
   },
   {
@@ -3160,7 +3244,7 @@
     "engajamento": 0.69,
     "video_id": "-gAGZUMmb_4",
     "em": "2026-07-28T13:26:35+00:00",
-    "idade_d": 24.83,
+    "idade_d": 25.83,
     "formato": "novo"
   },
   {
@@ -3174,7 +3258,7 @@
     "engajamento": 0.56,
     "video_id": "TiID_JSFoxE",
     "em": "2026-08-14T04:18:15+00:00",
-    "idade_d": 8.21,
+    "idade_d": 9.22,
     "formato": "novo"
   },
   {
@@ -3188,7 +3272,7 @@
     "engajamento": 0.39,
     "video_id": "450wnCzT1Cw",
     "em": "2026-07-30T23:56:05+00:00",
-    "idade_d": 22.4,
+    "idade_d": 23.4,
     "formato": "novo"
   },
   {
@@ -3202,7 +3286,7 @@
     "engajamento": 0.0,
     "video_id": "rUHem5ZYpIM",
     "em": "2026-07-19T08:41:38+00:00",
-    "idade_d": 34.03,
+    "idade_d": 35.03,
     "formato": "antigo"
   },
   {
@@ -3216,7 +3300,7 @@
     "engajamento": 0.0,
     "video_id": "Xjd-R1LjdnU",
     "em": "2026-07-20T03:21:54+00:00",
-    "idade_d": 33.25,
+    "idade_d": 34.25,
     "formato": "antigo"
   },
   {
@@ -3230,7 +3314,7 @@
     "engajamento": 0.0,
     "video_id": "gKkiP7IXqDc",
     "em": "2026-07-21T01:57:23+00:00",
-    "idade_d": 32.31,
+    "idade_d": 33.31,
     "formato": "antigo"
   },
   {
@@ -3244,7 +3328,7 @@
     "engajamento": 0.0,
     "video_id": "naFBDYBzLeE",
     "em": "2026-07-21T07:36:06+00:00",
-    "idade_d": 32.08,
+    "idade_d": 33.08,
     "formato": "antigo"
   },
   {
@@ -3258,7 +3342,7 @@
     "engajamento": 0.0,
     "video_id": "87OyHXzfN20",
     "em": "2026-07-23T00:13:33+00:00",
-    "idade_d": 30.38,
+    "idade_d": 31.39,
     "formato": "antigo"
   },
   {
@@ -3272,7 +3356,7 @@
     "engajamento": 0.0,
     "video_id": "0-zLBmDVsA4",
     "em": "2026-07-24T01:59:09+00:00",
-    "idade_d": 29.31,
+    "idade_d": 30.31,
     "formato": "antigo"
   },
   {
@@ -3286,7 +3370,7 @@
     "engajamento": 0.0,
     "video_id": "CdgPpPwHijc",
     "em": "2026-07-25T02:28:58+00:00",
-    "idade_d": 28.29,
+    "idade_d": 29.29,
     "formato": "antigo"
   },
   {
@@ -3300,7 +3384,7 @@
     "engajamento": 0.0,
     "video_id": "_qADSFs9yQw",
     "em": "2026-07-26T02:31:59+00:00",
-    "idade_d": 27.29,
+    "idade_d": 28.29,
     "formato": "antigo"
   },
   {
@@ -3314,7 +3398,7 @@
     "engajamento": 0.0,
     "video_id": "Fin19GmSzAE",
     "em": "2026-07-28T02:20:34+00:00",
-    "idade_d": 25.3,
+    "idade_d": 26.3,
     "formato": "novo"
   },
   {
@@ -3328,7 +3412,7 @@
     "engajamento": 0.0,
     "video_id": "1Ru2fOLPfs4",
     "em": "2026-08-02T01:56:41+00:00",
-    "idade_d": 20.31,
+    "idade_d": 21.31,
     "formato": "novo"
   },
   {
@@ -3342,7 +3426,7 @@
     "engajamento": 0.0,
     "video_id": "Ua6T3uKNSQ0",
     "em": "2026-08-04T02:15:23+00:00",
-    "idade_d": 18.3,
+    "idade_d": 19.3,
     "formato": "novo"
   },
   {
@@ -3356,7 +3440,7 @@
     "engajamento": 0.0,
     "video_id": "AwAtQLA8AAU",
     "em": "2026-08-05T02:09:07+00:00",
-    "idade_d": 17.3,
+    "idade_d": 18.3,
     "formato": "novo"
   },
   {
@@ -3370,7 +3454,7 @@
     "engajamento": 0.0,
     "video_id": "mqkr4qHD4Ag",
     "em": "2026-08-06T02:16:50+00:00",
-    "idade_d": 16.3,
+    "idade_d": 17.3,
     "formato": "novo"
   },
   {
@@ -3384,7 +3468,7 @@
     "engajamento": 0.0,
     "video_id": "G0oj0aGF4_U",
     "em": "2026-08-07T02:43:05+00:00",
-    "idade_d": 15.28,
+    "idade_d": 16.28,
     "formato": "novo"
   },
   {
@@ -3398,7 +3482,7 @@
     "engajamento": 0.0,
     "video_id": "H4f9r3AK3iI",
     "em": "2026-08-09T01:30:08+00:00",
-    "idade_d": 13.33,
+    "idade_d": 14.33,
     "formato": "novo"
   },
   {
@@ -3412,7 +3496,7 @@
     "engajamento": 0.0,
     "video_id": "3cHnAEbaypQ",
     "em": "2026-08-10T01:12:04+00:00",
-    "idade_d": 12.34,
+    "idade_d": 13.34,
     "formato": "novo"
   },
   {
@@ -3426,7 +3510,7 @@
     "engajamento": 0.0,
     "video_id": "EroZ-OPWoo4",
     "em": "2026-08-13T01:54:38+00:00",
-    "idade_d": 9.31,
+    "idade_d": 10.32,
     "formato": "novo"
   },
   {
@@ -3440,7 +3524,7 @@
     "engajamento": 0.0,
     "video_id": "4LqQy5eKcpc",
     "em": "2026-08-14T01:19:37+00:00",
-    "idade_d": 8.34,
+    "idade_d": 9.34,
     "formato": "novo"
   },
   {
@@ -3454,7 +3538,7 @@
     "engajamento": 0.0,
     "video_id": "ElDh8bRMqSI",
     "em": "2026-08-15T01:21:20+00:00",
-    "idade_d": 7.34,
+    "idade_d": 8.34,
     "formato": "novo"
   },
   {
@@ -3468,7 +3552,7 @@
     "engajamento": 0.0,
     "video_id": "Vi6T_R_18lQ",
     "em": "2026-08-17T00:43:40+00:00",
-    "idade_d": 5.36,
+    "idade_d": 6.36,
     "formato": "novo"
   },
   {
@@ -3476,13 +3560,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "Salmos para Dormir — Paz Interior | Biblia Hablada con Voz Calmada",
-    "views": 53,
+    "views": 54,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "6IPgbt3UbTY",
     "em": "2026-08-18T01:22:24+00:00",
-    "idade_d": 4.34,
+    "idade_d": 5.34,
     "formato": "novo"
   },
   {
@@ -3490,13 +3574,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "La Luz en las Tinieblas - Juan 1 | Biblia en espanol",
-    "views": 29,
+    "views": 31,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "0NZCYQY_yQY",
     "em": "2026-08-19T00:50:41+00:00",
-    "idade_d": 3.36,
+    "idade_d": 4.36,
     "formato": "novo"
   },
   {
@@ -3504,13 +3588,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "Jose y sus Hermanos - Genesis 45 | Historia biblica narrada",
-    "views": 17,
+    "views": 20,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "G2TWdqdjcYw",
     "em": "2026-08-20T00:44:28+00:00",
-    "idade_d": 2.36,
+    "idade_d": 3.36,
     "formato": "novo"
   },
   {
@@ -3518,27 +3602,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "Salmos para Dormir — Dios Nunca Duerme | Biblia Hablada con Voz Calmada",
-    "views": 12,
+    "views": 14,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "LVAxRzLLV5I",
     "em": "2026-08-21T01:38:25+00:00",
-    "idade_d": 1.33,
-    "formato": "novo"
-  },
-  {
-    "canal": "es",
-    "item": "longo",
-    "tipo": "longo",
-    "titulo": "Nuevas Son Todas las Cosas - 2 Corintios 5 | Biblia en espanol",
-    "views": 12,
-    "likes": 0,
-    "comentarios": 0,
-    "engajamento": 0.0,
-    "video_id": "ok5AhCqqRgA",
-    "em": "2026-08-22T00:49:59+00:00",
-    "idade_d": 0.36,
+    "idade_d": 2.33,
     "formato": "novo"
   },
   {
@@ -3546,27 +3616,27 @@
     "item": "short-1",
     "tipo": "promesa",
     "titulo": "2 Corintios 5:17 - Si alguno esta en Cristo, nueva criatura es",
-    "views": 5,
+    "views": 23,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "CoJBG22fQlo",
     "em": "2026-08-22T02:10:23+00:00",
-    "idade_d": 0.3,
+    "idade_d": 1.3,
     "formato": "novo"
   },
   {
     "canal": "es",
-    "item": "short-2",
-    "tipo": "promesa",
-    "titulo": "Ezequiel 36:26 - Os dare corazon nuevo | Biblia en espanol",
-    "views": 1,
+    "item": "longo",
+    "tipo": "longo",
+    "titulo": "Elias en el Monte Carmelo - 1 Reyes 18 | Historia biblica",
+    "views": 0,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
-    "video_id": "tLmYQ0z837s",
-    "em": "2026-08-22T09:19:17+00:00",
-    "idade_d": 0.01,
+    "video_id": "lm9gPiLVJAs",
+    "em": "2026-08-23T00:45:16+00:00",
+    "idade_d": 0.36,
     "formato": "novo"
   },
   {
@@ -3580,7 +3650,7 @@
     "engajamento": 0.0,
     "video_id": "O-KJQt5ra4s",
     "em": "2026-07-19T16:00:44+00:00",
-    "idade_d": 33.73,
+    "idade_d": 34.73,
     "formato": "antigo"
   },
   {
@@ -3594,7 +3664,7 @@
     "engajamento": 0.0,
     "video_id": "37ED_IKxyIw",
     "em": "2026-07-20T03:32:28+00:00",
-    "idade_d": 33.25,
+    "idade_d": 34.25,
     "formato": "antigo"
   },
   {
@@ -3608,7 +3678,7 @@
     "engajamento": 0.0,
     "video_id": "ZEYg5_18twI",
     "em": "2026-07-20T09:22:44+00:00",
-    "idade_d": 33.0,
+    "idade_d": 34.0,
     "formato": "antigo"
   },
   {
@@ -3622,7 +3692,7 @@
     "engajamento": 0.0,
     "video_id": "gzBhros1Si4",
     "em": "2026-07-20T17:26:54+00:00",
-    "idade_d": 32.67,
+    "idade_d": 33.67,
     "formato": "antigo"
   },
   {
@@ -3636,7 +3706,7 @@
     "engajamento": 0.0,
     "video_id": "cnDrL6Bl92k",
     "em": "2026-07-21T02:08:19+00:00",
-    "idade_d": 32.31,
+    "idade_d": 33.31,
     "formato": "antigo"
   },
   {
@@ -3650,7 +3720,7 @@
     "engajamento": 0.0,
     "video_id": "duDFzfpuvs8",
     "em": "2026-07-21T05:01:49+00:00",
-    "idade_d": 32.18,
+    "idade_d": 33.19,
     "formato": "antigo"
   },
   {
@@ -3664,7 +3734,7 @@
     "engajamento": 0.0,
     "video_id": "RXwInF4snFY",
     "em": "2026-07-21T12:21:31+00:00",
-    "idade_d": 31.88,
+    "idade_d": 32.88,
     "formato": "antigo"
   },
   {
@@ -3678,7 +3748,7 @@
     "engajamento": 0.0,
     "video_id": "wMP09-SR2L8",
     "em": "2026-07-21T20:15:52+00:00",
-    "idade_d": 31.55,
+    "idade_d": 32.55,
     "formato": "antigo"
   },
   {
@@ -3692,7 +3762,7 @@
     "engajamento": 0.0,
     "video_id": "XNw0Glha7Y8",
     "em": "2026-07-22T02:10:09+00:00",
-    "idade_d": 31.3,
+    "idade_d": 32.3,
     "formato": "antigo"
   },
   {
@@ -3706,7 +3776,7 @@
     "engajamento": 0.0,
     "video_id": "CoWjQx_Wpto",
     "em": "2026-07-22T05:01:22+00:00",
-    "idade_d": 31.19,
+    "idade_d": 32.19,
     "formato": "antigo"
   },
   {
@@ -3720,7 +3790,7 @@
     "engajamento": 0.0,
     "video_id": "diBVT3NuvWQ",
     "em": "2026-07-22T12:24:23+00:00",
-    "idade_d": 30.88,
+    "idade_d": 31.88,
     "formato": "antigo"
   },
   {
@@ -3734,7 +3804,7 @@
     "engajamento": 0.0,
     "video_id": "nTqbi-Bsv9M",
     "em": "2026-07-22T20:13:22+00:00",
-    "idade_d": 30.55,
+    "idade_d": 31.55,
     "formato": "antigo"
   },
   {
@@ -3748,7 +3818,7 @@
     "engajamento": 0.0,
     "video_id": "UbSSV2eoE6c",
     "em": "2026-07-23T04:21:44+00:00",
-    "idade_d": 30.21,
+    "idade_d": 31.21,
     "formato": "antigo"
   },
   {
@@ -3762,7 +3832,7 @@
     "engajamento": 0.0,
     "video_id": "m6CDy4OGz-I",
     "em": "2026-07-23T07:30:17+00:00",
-    "idade_d": 30.08,
+    "idade_d": 31.08,
     "formato": "antigo"
   },
   {
@@ -3776,7 +3846,7 @@
     "engajamento": 0.0,
     "video_id": "wRT9N3b9u1o",
     "em": "2026-07-23T15:06:02+00:00",
-    "idade_d": 29.77,
+    "idade_d": 30.77,
     "formato": "antigo"
   },
   {
@@ -3790,7 +3860,7 @@
     "engajamento": 0.0,
     "video_id": "k_k2oPqdNps",
     "em": "2026-07-23T22:54:43+00:00",
-    "idade_d": 29.44,
+    "idade_d": 30.44,
     "formato": "antigo"
   },
   {
@@ -3804,7 +3874,7 @@
     "engajamento": 0.0,
     "video_id": "AbEZwX4CzQ4",
     "em": "2026-07-24T02:09:17+00:00",
-    "idade_d": 29.3,
+    "idade_d": 30.3,
     "formato": "antigo"
   },
   {
@@ -3818,7 +3888,7 @@
     "engajamento": 0.0,
     "video_id": "DA5Or9xVTyE",
     "em": "2026-07-24T15:26:47+00:00",
-    "idade_d": 28.75,
+    "idade_d": 29.75,
     "formato": "antigo"
   },
   {
@@ -3832,7 +3902,7 @@
     "engajamento": 0.0,
     "video_id": "yYJmMfkRvmA",
     "em": "2026-07-24T22:58:30+00:00",
-    "idade_d": 28.44,
+    "idade_d": 29.44,
     "formato": "antigo"
   },
   {
@@ -3846,7 +3916,7 @@
     "engajamento": 0.0,
     "video_id": "TOK-vygMoEc",
     "em": "2026-07-25T02:33:04+00:00",
-    "idade_d": 28.29,
+    "idade_d": 29.29,
     "formato": "antigo"
   },
   {
@@ -3860,7 +3930,21 @@
     "engajamento": 0.0,
     "video_id": "og3LcDCJwkA",
     "em": "2026-07-25T07:53:26+00:00",
-    "idade_d": 28.07,
+    "idade_d": 29.07,
+    "formato": "antigo"
+  },
+  {
+    "canal": "en",
+    "item": "short-2",
+    "tipo": "descriptivo",
+    "titulo": "Genesis 1 — Let Us Make Man in Our Image | Bible",
+    "views": 5,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "ih2y43OYLOM",
+    "em": "2026-07-25T14:57:51+00:00",
+    "idade_d": 28.77,
     "formato": "antigo"
   },
   {
@@ -3874,7 +3958,7 @@
     "engajamento": 0.0,
     "video_id": "EWF05tBSk_g",
     "em": "2026-07-25T22:45:49+00:00",
-    "idade_d": 27.45,
+    "idade_d": 28.45,
     "formato": "antigo"
   },
   {
@@ -3888,7 +3972,7 @@
     "engajamento": 0.0,
     "video_id": "B5P9pEjfAJw",
     "em": "2026-07-26T03:09:33+00:00",
-    "idade_d": 27.26,
+    "idade_d": 28.26,
     "formato": "antigo"
   },
   {
@@ -3902,7 +3986,7 @@
     "engajamento": 0.0,
     "video_id": "kHqjbKTvewg",
     "em": "2026-07-26T08:11:09+00:00",
-    "idade_d": 27.05,
+    "idade_d": 28.05,
     "formato": "antigo"
   },
   {
@@ -3916,7 +4000,7 @@
     "engajamento": 0.0,
     "video_id": "3oP1CVWh6w8",
     "em": "2026-07-26T15:58:26+00:00",
-    "idade_d": 26.73,
+    "idade_d": 27.73,
     "formato": "antigo"
   },
   {
@@ -3930,7 +4014,7 @@
     "engajamento": 0.0,
     "video_id": "-U9MoeiMijk",
     "em": "2026-07-26T23:54:50+00:00",
-    "idade_d": 26.4,
+    "idade_d": 27.4,
     "formato": "antigo"
   },
   {
@@ -3944,7 +4028,7 @@
     "engajamento": 0.0,
     "video_id": "YaBoc-eSvjU",
     "em": "2026-07-27T02:41:47+00:00",
-    "idade_d": 26.28,
+    "idade_d": 27.28,
     "formato": "antigo"
   },
   {
@@ -3958,7 +4042,7 @@
     "engajamento": 0.0,
     "video_id": "co4ah09kULM",
     "em": "2026-07-27T09:35:17+00:00",
-    "idade_d": 25.99,
+    "idade_d": 27.0,
     "formato": "antigo"
   },
   {
@@ -3972,7 +4056,7 @@
     "engajamento": 0.0,
     "video_id": "DjPNVP89TWc",
     "em": "2026-07-21T05:13:03+00:00",
-    "idade_d": 32.18,
+    "idade_d": 33.18,
     "formato": "antigo"
   },
   {
@@ -3986,7 +4070,7 @@
     "engajamento": 0.0,
     "video_id": "UPtWyywV4OQ",
     "em": "2026-07-22T05:13:21+00:00",
-    "idade_d": 31.18,
+    "idade_d": 32.18,
     "formato": "antigo"
   },
   {
@@ -4000,7 +4084,7 @@
     "engajamento": 0.0,
     "video_id": "CsALDiICyTw",
     "em": "2026-07-22T18:03:55+00:00",
-    "idade_d": 30.64,
+    "idade_d": 31.64,
     "formato": "antigo"
   },
   {
@@ -4014,7 +4098,7 @@
     "engajamento": 0.0,
     "video_id": "NdUMX0MS5dY",
     "em": "2026-07-23T04:34:02+00:00",
-    "idade_d": 30.2,
+    "idade_d": 31.2,
     "formato": "antigo"
   },
   {
@@ -4028,7 +4112,7 @@
     "engajamento": 0.0,
     "video_id": "_UxJ3g4ocDE",
     "em": "2026-07-24T05:30:05+00:00",
-    "idade_d": 29.17,
+    "idade_d": 30.17,
     "formato": "antigo"
   },
   {
@@ -4042,7 +4126,7 @@
     "engajamento": 0.0,
     "video_id": "q0Ic3f6p31s",
     "em": "2026-07-25T02:36:57+00:00",
-    "idade_d": 28.29,
+    "idade_d": 29.29,
     "formato": "antigo"
   },
   {
@@ -4056,7 +4140,7 @@
     "engajamento": 0.0,
     "video_id": "Vw5nvTpg9BI",
     "em": "2026-07-25T05:36:38+00:00",
-    "idade_d": 28.16,
+    "idade_d": 29.16,
     "formato": "antigo"
   },
   {
@@ -4070,7 +4154,7 @@
     "engajamento": 0.0,
     "video_id": "chOevaKnC1o",
     "em": "2026-07-26T05:58:33+00:00",
-    "idade_d": 27.15,
+    "idade_d": 28.15,
     "formato": "antigo"
   },
   {
@@ -4084,7 +4168,7 @@
     "engajamento": 0.0,
     "video_id": "5aT0o986DIs",
     "em": "2026-07-27T06:08:24+00:00",
-    "idade_d": 26.14,
+    "idade_d": 27.14,
     "formato": "antigo"
   },
   {
@@ -4098,7 +4182,7 @@
     "engajamento": 0.0,
     "video_id": "KGW8XfQYN_4",
     "em": "2026-07-29T05:42:32+00:00",
-    "idade_d": 24.16,
+    "idade_d": 25.16,
     "formato": "novo"
   },
   {
@@ -4112,7 +4196,7 @@
     "engajamento": 0.0,
     "video_id": "SCzvCcuvH-k",
     "em": "2026-07-30T05:01:00+00:00",
-    "idade_d": 23.19,
+    "idade_d": 24.19,
     "formato": "novo"
   },
   {
@@ -4126,7 +4210,7 @@
     "engajamento": 0.0,
     "video_id": "HBEGm2dDK30",
     "em": "2026-08-01T05:35:26+00:00",
-    "idade_d": 21.16,
+    "idade_d": 22.16,
     "formato": "novo"
   },
   {
@@ -4140,7 +4224,7 @@
     "engajamento": 0.0,
     "video_id": "rrzQ9ynH3VM",
     "em": "2026-08-01T15:54:24+00:00",
-    "idade_d": 20.73,
+    "idade_d": 21.73,
     "formato": "novo"
   },
   {
@@ -4154,7 +4238,7 @@
     "engajamento": 0.0,
     "video_id": "CqEXKlvpuOA",
     "em": "2026-08-04T05:27:55+00:00",
-    "idade_d": 18.17,
+    "idade_d": 19.17,
     "formato": "novo"
   },
   {
@@ -4168,7 +4252,7 @@
     "engajamento": 0.0,
     "video_id": "vsqKJjIRjDo",
     "em": "2026-08-05T15:10:56+00:00",
-    "idade_d": 16.76,
+    "idade_d": 17.76,
     "formato": "novo"
   },
   {
@@ -4182,7 +4266,7 @@
     "engajamento": 0.0,
     "video_id": "bQ4wg7NGn1s",
     "em": "2026-08-06T05:33:23+00:00",
-    "idade_d": 16.16,
+    "idade_d": 17.16,
     "formato": "novo"
   },
   {
@@ -4196,7 +4280,7 @@
     "engajamento": 0.0,
     "video_id": "_rpvJXEwavI",
     "em": "2026-08-06T15:10:14+00:00",
-    "idade_d": 15.76,
+    "idade_d": 16.76,
     "formato": "novo"
   },
   {
@@ -4210,7 +4294,7 @@
     "engajamento": 0.0,
     "video_id": "unZpuA8Ewms",
     "em": "2026-08-07T03:14:42+00:00",
-    "idade_d": 15.26,
+    "idade_d": 16.26,
     "formato": "novo"
   },
   {
@@ -4224,7 +4308,7 @@
     "engajamento": 0.0,
     "video_id": "Y2lp2vPUj3U",
     "em": "2026-08-09T13:43:42+00:00",
-    "idade_d": 12.82,
+    "idade_d": 13.82,
     "formato": "novo"
   },
   {
@@ -4238,7 +4322,7 @@
     "engajamento": 0.0,
     "video_id": "bnNv1ZQWzNo",
     "em": "2026-08-10T03:22:14+00:00",
-    "idade_d": 12.25,
+    "idade_d": 13.25,
     "formato": "novo"
   },
   {
@@ -4252,7 +4336,7 @@
     "engajamento": 0.0,
     "video_id": "0jPFUKkx5e8",
     "em": "2026-08-11T03:52:40+00:00",
-    "idade_d": 11.23,
+    "idade_d": 12.23,
     "formato": "novo"
   },
   {
@@ -4266,7 +4350,7 @@
     "engajamento": 0.0,
     "video_id": "Ho4_z4Q68U8",
     "em": "2026-08-12T12:45:48+00:00",
-    "idade_d": 9.86,
+    "idade_d": 10.86,
     "formato": "novo"
   },
   {
@@ -4280,7 +4364,7 @@
     "engajamento": 0.0,
     "video_id": "lIaGRfQUbx4",
     "em": "2026-08-13T04:34:28+00:00",
-    "idade_d": 9.2,
+    "idade_d": 10.2,
     "formato": "novo"
   },
   {
@@ -4294,7 +4378,7 @@
     "engajamento": 0.0,
     "video_id": "ZsOQjDKxFuo",
     "em": "2026-08-13T06:12:04+00:00",
-    "idade_d": 9.14,
+    "idade_d": 10.14,
     "formato": "novo"
   },
   {
@@ -4308,7 +4392,7 @@
     "engajamento": 0.0,
     "video_id": "9-0E6UZHqDM",
     "em": "2026-08-14T04:14:26+00:00",
-    "idade_d": 8.22,
+    "idade_d": 9.22,
     "formato": "novo"
   },
   {
@@ -4322,7 +4406,7 @@
     "engajamento": 0.0,
     "video_id": "VTWzxpSHgzQ",
     "em": "2026-08-14T20:23:21+00:00",
-    "idade_d": 7.54,
+    "idade_d": 8.55,
     "formato": "novo"
   },
   {
@@ -4336,7 +4420,7 @@
     "engajamento": 0.0,
     "video_id": "6jMaUVN4bL8",
     "em": "2026-08-17T02:19:20+00:00",
-    "idade_d": 5.3,
+    "idade_d": 6.3,
     "formato": "novo"
   },
   {
@@ -4350,7 +4434,7 @@
     "engajamento": 0.0,
     "video_id": "JUoMOSCuiWc",
     "em": "2026-08-18T01:23:27+00:00",
-    "idade_d": 4.34,
+    "idade_d": 5.34,
     "formato": "novo"
   },
   {
@@ -4364,7 +4448,7 @@
     "engajamento": 0.0,
     "video_id": "X3vu4u9yw4Q",
     "em": "2026-08-19T00:51:39+00:00",
-    "idade_d": 3.36,
+    "idade_d": 4.36,
     "formato": "novo"
   },
   {
@@ -4372,13 +4456,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "A Luz nas Trevas - Joao 1 | Biblia narrada",
-    "views": 26,
+    "views": 29,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "BVP2GlVDjgY",
     "em": "2026-08-19T02:33:12+00:00",
-    "idade_d": 3.29,
+    "idade_d": 4.29,
     "formato": "novo"
   },
   {
@@ -4392,7 +4476,7 @@
     "engajamento": 0.0,
     "video_id": "ixNQZZGhkVs",
     "em": "2026-08-20T02:13:49+00:00",
-    "idade_d": 2.3,
+    "idade_d": 3.3,
     "formato": "novo"
   },
   {
@@ -4406,7 +4490,7 @@
     "engajamento": 0.0,
     "video_id": "zMD4olBf-3g",
     "em": "2026-08-21T01:39:41+00:00",
-    "idade_d": 1.33,
+    "idade_d": 2.33,
     "formato": "novo"
   },
   {
@@ -4414,13 +4498,13 @@
     "item": "short-1",
     "tipo": "promesa",
     "titulo": "2 Corintios 5:17 - Se alguem esta em Cristo, nova criatura e",
-    "views": 8,
+    "views": 14,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "5GNT8h5Nrfg",
     "em": "2026-08-22T00:51:09+00:00",
-    "idade_d": 0.36,
+    "idade_d": 1.36,
     "formato": "novo"
   },
   {
@@ -4428,13 +4512,13 @@
     "item": "longo",
     "tipo": "longo",
     "titulo": "Todas as Coisas se Fizeram Novas - 2 Corintios 5 | Biblia narrada",
-    "views": 0,
+    "views": 4,
     "likes": 0,
     "comentarios": 0,
     "engajamento": 0.0,
     "video_id": "N7gJflYn31Q",
     "em": "2026-08-22T02:22:41+00:00",
-    "idade_d": 0.3,
+    "idade_d": 1.3,
     "formato": "novo"
   },
   {
@@ -4448,7 +4532,7 @@
     "engajamento": 0.0,
     "video_id": "Y0g-ooX_vgI",
     "em": "2026-07-28T15:49:26+00:00",
-    "idade_d": 24.73,
+    "idade_d": 25.74,
     "formato": "novo"
   },
   {
@@ -4462,7 +4546,7 @@
     "engajamento": 0.0,
     "video_id": "sDzZXObiIZg",
     "em": "2026-07-28T17:56:19+00:00",
-    "idade_d": 24.65,
+    "idade_d": 25.65,
     "formato": "novo"
   },
   {
@@ -4476,7 +4560,7 @@
     "engajamento": 0.0,
     "video_id": "xfr_aCCqNb8",
     "em": "2026-07-28T19:54:32+00:00",
-    "idade_d": 24.56,
+    "idade_d": 25.57,
     "formato": "novo"
   },
   {
@@ -4490,7 +4574,21 @@
     "engajamento": 0.0,
     "video_id": "uTAHPU9Hf3s",
     "em": "2026-07-29T23:55:00+00:00",
-    "idade_d": 23.4,
+    "idade_d": 24.4,
+    "formato": "novo"
+  },
+  {
+    "canal": "stoic",
+    "item": "short-2",
+    "tipo": "?",
+    "titulo": "Entrena lo que crees que no puedes",
+    "views": 17,
+    "likes": 0,
+    "comentarios": 0,
+    "engajamento": 0.0,
+    "video_id": "gzvR5ZJ69P4",
+    "em": "2026-08-22T17:14:31+00:00",
+    "idade_d": 0.68,
     "formato": "novo"
   },
   {
@@ -4504,7 +4602,7 @@
     "engajamento": 0.0,
     "video_id": "zE7CHGK1-c4",
     "em": "2026-08-04T05:29:00+00:00",
-    "idade_d": 18.17,
+    "idade_d": 19.17,
     "formato": "novo"
   },
   {
@@ -4518,7 +4616,7 @@
     "engajamento": 0.0,
     "video_id": "PGZQJVt11r4",
     "em": "2026-08-05T05:32:46+00:00",
-    "idade_d": 17.16,
+    "idade_d": 18.16,
     "formato": "novo"
   },
   {
@@ -4532,7 +4630,7 @@
     "engajamento": 0.0,
     "video_id": "ta1AOdLX7zE",
     "em": "2026-08-07T03:16:34+00:00",
-    "idade_d": 15.26,
+    "idade_d": 16.26,
     "formato": "novo"
   },
   {
@@ -4546,7 +4644,7 @@
     "engajamento": 0.0,
     "video_id": "r7YfsvtzIY4",
     "em": "2026-08-10T03:24:13+00:00",
-    "idade_d": 12.25,
+    "idade_d": 13.25,
     "formato": "novo"
   },
   {
@@ -4560,7 +4658,7 @@
     "engajamento": 0.0,
     "video_id": "Wi_oIAq8zjI",
     "em": "2026-08-11T03:55:19+00:00",
-    "idade_d": 11.23,
+    "idade_d": 12.23,
     "formato": "novo"
   },
   {
@@ -4574,7 +4672,7 @@
     "engajamento": 0.0,
     "video_id": "2Ag3DFi1dNk",
     "em": "2026-08-13T04:35:38+00:00",
-    "idade_d": 9.2,
+    "idade_d": 10.2,
     "formato": "novo"
   },
   {
@@ -4588,7 +4686,7 @@
     "engajamento": 0.0,
     "video_id": "tNY44yAkMj0",
     "em": "2026-08-14T04:17:10+00:00",
-    "idade_d": 8.22,
+    "idade_d": 9.22,
     "formato": "novo"
   },
   {
@@ -4602,7 +4700,7 @@
     "engajamento": 0.0,
     "video_id": "mbX-AgLjOQ4",
     "em": "2026-08-04T05:29:55+00:00",
-    "idade_d": 18.17,
+    "idade_d": 19.17,
     "formato": "novo"
   },
   {
@@ -4616,7 +4714,7 @@
     "engajamento": 0.0,
     "video_id": "BH1sE54NllE",
     "em": "2026-08-06T05:35:37+00:00",
-    "idade_d": 16.16,
+    "idade_d": 17.16,
     "formato": "novo"
   },
   {
@@ -4630,7 +4728,7 @@
     "engajamento": 0.0,
     "video_id": "eWUHYJhixXs",
     "em": "2026-08-07T04:49:24+00:00",
-    "idade_d": 15.19,
+    "idade_d": 16.19,
     "formato": "novo"
   },
   {
@@ -4644,7 +4742,7 @@
     "engajamento": 0.0,
     "video_id": "vMmKOBc67Qc",
     "em": "2026-08-08T04:06:39+00:00",
-    "idade_d": 14.22,
+    "idade_d": 15.22,
     "formato": "novo"
   },
   {
@@ -4658,7 +4756,7 @@
     "engajamento": 0.0,
     "video_id": "VElxOp7Qg_o",
     "em": "2026-08-10T03:25:20+00:00",
-    "idade_d": 12.25,
+    "idade_d": 13.25,
     "formato": "novo"
   },
   {
@@ -4672,7 +4770,7 @@
     "engajamento": 0.0,
     "video_id": "eVGPN79HnVc",
     "em": "2026-08-11T03:56:28+00:00",
-    "idade_d": 11.23,
+    "idade_d": 12.23,
     "formato": "novo"
   },
   {
@@ -4686,7 +4784,7 @@
     "engajamento": 0.0,
     "video_id": "Oa3sgaIQ6fY",
     "em": "2026-08-12T04:12:26+00:00",
-    "idade_d": 10.22,
+    "idade_d": 11.22,
     "formato": "novo"
   },
   {
@@ -4700,7 +4798,7 @@
     "engajamento": 0.0,
     "video_id": "h2qa13Gws6g",
     "em": "2026-08-15T03:34:48+00:00",
-    "idade_d": 7.25,
+    "idade_d": 8.25,
     "formato": "novo"
   }
 ]
