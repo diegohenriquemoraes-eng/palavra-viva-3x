@@ -1023,12 +1023,19 @@
           "video_id": "XeNDeFmZyng",
           "titulo": "Salmo 141 — Suba mi oración como el incienso | Biblia",
           "em": "2026-08-24T09:38:18+00:00"
+        },
+        {
+          "pacote": "2026-08-24-salmos-dormir-14",
+          "item": "short-3",
+          "video_id": "-dlwqYJN7_0",
+          "titulo": "Salmo 126 — Los que sembraron con lágrimas | Biblia",
+          "em": "2026-08-24T17:23:53+00:00"
         }
       ],
-      "ultimo_short": "2026-08-24T09:38:18+00:00",
+      "ultimo_short": "2026-08-24T17:23:53+00:00",
       "shorts_dia": {
         "data": "2026-08-24",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-24"
     },
