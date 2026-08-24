@@ -2334,12 +2334,19 @@
           "video_id": "6iGakOavIS8",
           "titulo": "La mente se mueve sola",
           "em": "2026-08-24T02:57:54+00:00"
+        },
+        {
+          "pacote": "2026-08-24-la-mente-lo-hace",
+          "item": "short-2",
+          "video_id": "iGEiKI0TS7U",
+          "titulo": "Mira por dentro, no por fuera",
+          "em": "2026-08-24T10:30:13+00:00"
         }
       ],
-      "ultimo_short": "2026-08-24T02:57:54+00:00",
+      "ultimo_short": "2026-08-24T10:30:13+00:00",
       "shorts_dia": {
         "data": "2026-08-24",
-        "n": 1
+        "n": 2
       },
       "longo_data": ""
     },

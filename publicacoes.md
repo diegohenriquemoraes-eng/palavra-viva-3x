@@ -2814,3 +2814,11 @@
 - Item: short-2 — Salmo 141:1-2
 - Duração: 22.5s
 - Publicado em: 2026-08-24T09:38:18+00:00
+
+## [stoic] iGEiKI0TS7U — Mira por dentro, no por fuera
+
+- URL: https://youtu.be/iGEiKI0TS7U
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 6:3
+- Duração: 20.7s
+- Publicado em: 2026-08-24T10:30:13+00:00
