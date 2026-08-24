@@ -1,0 +1,168 @@
+{
+  "slug": "el-favor-sin-cuenta",
+  "formato": "tema",
+  "data": "2026-08-26",
+  "criado_em": "2026-08-24T01:59:36+00:00",
+  "aprovado_em": "2026-08-24T01:59:36+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 7:65-82"
+    ],
+    "titulo": {
+      "stoic": "Marco Aurelio: Hacer el Bien sin Esperar Nada | Meditaciones VII"
+    },
+    "thumb_titulo": {
+      "stoic": "HAZ EL BIEN Y SIGUE"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VII"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p02.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2110_ND_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2110_ND_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fireplace%2C_Wood_fire%2C_Rostov-on-Don%2C_Russia.jpg/1920px-Fireplace%2C_Wood_fire%2C_Rostov-on-Don%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace,_Wood_fire,_Rostov-on-Don,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fire%2C_Fireplace%2C_Rostov-on-Don%2C_Russia.jpg/1920px-Fire%2C_Fireplace%2C_Rostov-on-Don%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire,_Fireplace,_Rostov-on-Don,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fire_in_a_brick_fireplace_2.jpg/1920px-Fire_in_a_brick_fireplace_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kurt Kaiser",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_in_a_brick_fireplace_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fireplace-RM.jpg/1920px-Fireplace-RM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ryan Mahle from Sherman Oaks, CA, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace-RM.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fireplace_%2871379943%29.jpeg/1920px-Fireplace_%2871379943%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Mohandoss Sampath",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace_(71379943).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg/1920px-Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/Milan Loiacono",
+        "origem": "https://commons.wikimedia.org/wiki/File:Terra_Torch_(milanloiacono-firesensefortstewart-04-2025-0677).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg/1920px-Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author or not provided",
+        "origem": "https://commons.wikimedia.org/wiki/File:Near_Algiers,_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg/1920px-Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Airman 1st Class John Nieves Camacho",
+        "origem": "https://commons.wikimedia.org/wiki/File:Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 7:80",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Hiciste el favor: ya está hecho"
+      },
+      "aplicacao": "Si esperas el reconocimiento, no diste nada: prestaste.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lamp_handle_with_figures_of_Isis_and_Demeter%2C_kaolinitic_clay_-_Museo_Egizio_%28Turin%29_P_191_p01.jpg/1920px-Lamp_handle_with_figures_of_Isis_and_Demeter%2C_kaolinitic_clay_-_Museo_Egizio_%28Turin%29_P_191_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_handle_with_figures_of_Isis_and_Demeter,_kaolinitic_clay_-_Museo_Egizio_(Turin)_P_191_p01.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 7:81",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Nadie se cansa de recibir; tú no te canses de dar"
+      },
+      "aplicacao": "Hacer el bien no es un gasto que se agota. Es lo que la persona hace cuando está entera.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fire_burning_in_a_fireplace.jpg/1920px-Fire_burning_in_a_fireplace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pöllö",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_burning_in_a_fireplace.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 11:8",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El pago ya llegó y no te diste cuenta"
+      },
+      "aplicacao": "Hiciste algo por alguien y te sentiste bien. Ese era el pago. Lo demás es propina.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 9:14",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "También se peca sin hacer nada"
+      },
+      "aplicacao": "Callarte cuando podías ayudar cuenta. No hacer también es una decisión.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
