@@ -2830,3 +2830,11 @@
 - Item: short-3 — Salmo 126:5-6
 - Duração: 21.7s
 - Publicado em: 2026-08-24T17:23:53+00:00
+
+## [stoic] K-RsE6MTW64 — Examina la idea antes de creerla
+
+- URL: https://youtu.be/K-RsE6MTW64
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 8:16
+- Duração: 28.5s
+- Publicado em: 2026-08-24T18:27:53+00:00
