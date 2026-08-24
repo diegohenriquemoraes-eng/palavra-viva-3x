@@ -1009,12 +1009,19 @@
           "video_id": "XDup1qH428Y",
           "titulo": "Salmos para Dormir — Ocho Salmos de Descanso | Biblia Hablada con Voz Calmada",
           "em": "2026-08-24T01:17:58+00:00"
+        },
+        {
+          "pacote": "2026-08-24-salmos-dormir-14",
+          "item": "short-1",
+          "video_id": "9lCLafQ1dgs",
+          "titulo": "Salmo 134 — Los que de noche estáis en la casa | Biblia",
+          "em": "2026-08-24T02:18:36+00:00"
         }
       ],
-      "ultimo_short": "2026-08-23T18:17:01+00:00",
+      "ultimo_short": "2026-08-24T02:18:36+00:00",
       "shorts_dia": {
-        "data": "2026-08-23",
-        "n": 3
+        "data": "2026-08-24",
+        "n": 1
       },
       "longo_data": "2026-08-24"
     },
@@ -2086,6 +2093,13 @@
           "video_id": "3Ogtnt9hbwk",
           "titulo": "Salmo 134 — Vós que de noite estais na casa | Bíblia",
           "em": "2026-08-24T01:19:11+00:00"
+        },
+        {
+          "pacote": "2026-08-24-salmos-dormir-14",
+          "item": "longo",
+          "video_id": "0aPCt2kDqTY",
+          "titulo": "Salmos para Dormir — Oito Salmos de Descanso | Bíblia Narrada com Voz Calma",
+          "em": "2026-08-24T02:56:36+00:00"
         }
       ],
       "ultimo_short": "2026-08-24T01:19:11+00:00",
@@ -2093,7 +2107,7 @@
         "data": "2026-08-24",
         "n": 1
       },
-      "longo_data": "2026-08-23"
+      "longo_data": "2026-08-24"
     },
     "stoic": {
       "publicados": [
@@ -2306,12 +2320,19 @@
           "video_id": "KguLcR8xb6Q",
           "titulo": "Quita la opinión y se acabó el daño",
           "em": "2026-08-23T18:18:17+00:00"
+        },
+        {
+          "pacote": "2026-08-24-la-mente-lo-hace",
+          "item": "short-1",
+          "video_id": "6iGakOavIS8",
+          "titulo": "La mente se mueve sola",
+          "em": "2026-08-24T02:57:54+00:00"
         }
       ],
-      "ultimo_short": "2026-08-23T18:18:17+00:00",
+      "ultimo_short": "2026-08-24T02:57:54+00:00",
       "shorts_dia": {
-        "data": "2026-08-23",
-        "n": 3
+        "data": "2026-08-24",
+        "n": 1
       },
       "longo_data": ""
     },

@@ -2782,3 +2782,27 @@
 - Item: short-1 — Salmo 134:1-2
 - Duração: 23.3s
 - Publicado em: 2026-08-24T01:19:11+00:00
+
+## [es] 9lCLafQ1dgs — Salmo 134 — Los que de noche estáis en la casa | Biblia
+
+- URL: https://youtu.be/9lCLafQ1dgs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 134:1-2
+- Duração: 22.5s
+- Publicado em: 2026-08-24T02:18:36+00:00
+
+## [pt] 0aPCt2kDqTY — Salmos para Dormir — Oito Salmos de Descanso | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/0aPCt2kDqTY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 33, Salmo 65, Salmo 67, Salmo 85, Salmo 123, Salmo 126, Salmo 134, Salmo 141
+- Duração: 4372.9s
+- Publicado em: 2026-08-24T02:56:36+00:00
+
+## [stoic] 6iGakOavIS8 — La mente se mueve sola
+
+- URL: https://youtu.be/6iGakOavIS8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:8
+- Duração: 27.1s
+- Publicado em: 2026-08-24T02:57:54+00:00
