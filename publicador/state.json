@@ -1016,12 +1016,19 @@
           "video_id": "9lCLafQ1dgs",
           "titulo": "Salmo 134 — Los que de noche estáis en la casa | Biblia",
           "em": "2026-08-24T02:18:36+00:00"
+        },
+        {
+          "pacote": "2026-08-24-salmos-dormir-14",
+          "item": "short-2",
+          "video_id": "XeNDeFmZyng",
+          "titulo": "Salmo 141 — Suba mi oración como el incienso | Biblia",
+          "em": "2026-08-24T09:38:18+00:00"
         }
       ],
-      "ultimo_short": "2026-08-24T02:18:36+00:00",
+      "ultimo_short": "2026-08-24T09:38:18+00:00",
       "shorts_dia": {
         "data": "2026-08-24",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-24"
     },

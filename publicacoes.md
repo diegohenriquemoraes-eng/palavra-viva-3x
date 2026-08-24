@@ -2806,3 +2806,11 @@
 - Item: short-1 — Meditaciones 6:8
 - Duração: 27.1s
 - Publicado em: 2026-08-24T02:57:54+00:00
+
+## [es] XeNDeFmZyng — Salmo 141 — Suba mi oración como el incienso | Biblia
+
+- URL: https://youtu.be/XeNDeFmZyng
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 141:1-2
+- Duração: 22.5s
+- Publicado em: 2026-08-24T09:38:18+00:00
