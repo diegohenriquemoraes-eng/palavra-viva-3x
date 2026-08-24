@@ -1002,6 +1002,13 @@
           "video_id": "wqtZvTHxbB8",
           "titulo": "1 Reyes 19 - Un silbo apacible y delicado | Biblia en espanol",
           "em": "2026-08-23T18:17:01+00:00"
+        },
+        {
+          "pacote": "2026-08-24-salmos-dormir-14",
+          "item": "longo",
+          "video_id": "XDup1qH428Y",
+          "titulo": "Salmos para Dormir — Ocho Salmos de Descanso | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-24T01:17:58+00:00"
         }
       ],
       "ultimo_short": "2026-08-23T18:17:01+00:00",
@@ -1009,7 +1016,7 @@
         "data": "2026-08-23",
         "n": 3
       },
-      "longo_data": "2026-08-23"
+      "longo_data": "2026-08-24"
     },
     "en": {
       "publicados": [
@@ -2072,11 +2079,18 @@
           "video_id": "szUXgOEh4Uk",
           "titulo": "Elias no Monte Carmelo - 1 Reis 18 | Historia biblica",
           "em": "2026-08-23T02:23:11+00:00"
+        },
+        {
+          "pacote": "2026-08-24-salmos-dormir-14",
+          "item": "short-1",
+          "video_id": "3Ogtnt9hbwk",
+          "titulo": "Salmo 134 — Vós que de noite estais na casa | Bíblia",
+          "em": "2026-08-24T01:19:11+00:00"
         }
       ],
-      "ultimo_short": "2026-08-23T00:46:24+00:00",
+      "ultimo_short": "2026-08-24T01:19:11+00:00",
       "shorts_dia": {
-        "data": "2026-08-23",
+        "data": "2026-08-24",
         "n": 1
       },
       "longo_data": "2026-08-23"

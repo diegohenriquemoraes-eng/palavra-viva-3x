@@ -2766,3 +2766,19 @@
 - Item: short-3 — Meditaciones 4:16
 - Duração: 24.4s
 - Publicado em: 2026-08-23T18:18:17+00:00
+
+## [es] XDup1qH428Y — Salmos para Dormir — Ocho Salmos de Descanso | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/XDup1qH428Y
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 33, Salmo 65, Salmo 67, Salmo 85, Salmo 123, Salmo 126, Salmo 134, Salmo 141
+- Duração: 4259.5s
+- Publicado em: 2026-08-24T01:17:58+00:00
+
+## [pt] 3Ogtnt9hbwk — Salmo 134 — Vós que de noite estais na casa | Bíblia
+
+- URL: https://youtu.be/3Ogtnt9hbwk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 134:1-2
+- Duração: 23.3s
+- Publicado em: 2026-08-24T01:19:11+00:00
