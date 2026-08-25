@@ -7,18 +7,22 @@ name: Realinhar descrições
 # Roda de duas formas:
 #
 # - MANUAL (workflow_dispatch), para um canal específico e com limite à mão.
-# - AGENDADO, todo dia às 07:10 UTC, nos canais ativos, com teto de 19 vídeos
+# - AGENDADO, todo dia às 07:10 UTC, nos canais ativos, com teto de 10 vídeos
 #   por canal. O script pula o que já está no padrão (custo 1 unidade por
 #   leitura), então em dia sem mudança nenhuma a rodada gasta ~40 unidades e
 #   não atualiza nada. Quando o padrão muda, o acervo se realinha sozinho em
-#   rodadas de 19/dia, sem ninguém precisar lembrar de clicar.
+#   rodadas de 10/dia, sem ninguém precisar lembrar de clicar.
 #
 # Por que 07:10 UTC e por que o teto: a cota vira às 07:00 UTC (meia-noite no
-# Pacífico) e a publicação do dia come ~7.200 das 10.000 unidades do canal.
-# 19 updates x 50 = 950 — cabe na sobra com folga para um retry de upload. O
-# ES tem 38 longos, então um realinhamento completo dele leva dois dias, de
-# propósito: estourar a cota deixaria o canal sem publicar, que é o dano que
-# este projeto já pagou antes.
+# Pacífico) e a publicação do dia do ES passou a comer ~7.660 das 10.000
+# unidades (2 longos + 2 Shorts, desde 25/08). 10 vídeos x 51 = 510 deixam
+# ~1.800 de margem, que cobre um retry de upload; com 19 a margem caía para
+# 1.371 e um único reenvio de longo estouraria a cota — deixando o canal sem
+# publicar, que é o dano que este projeto já pagou antes.
+#
+# O ES tem 38 longos, então o acervo inteiro leva 4 dias. Depois disso a
+# rodada diária custa só as leituras (~40 unidades), porque o script pula o
+# que já está no padrão.
 on:
   schedule:
     - cron: "10 7 * * *"
@@ -90,8 +94,8 @@ jobs:
         run: |
           if [ -z "${{ inputs.canal }}" ]; then
             for lang in es pt; do
-              echo "=== agendado: $lang (teto 19) ==="
-              python produzir/realinhar_publicados.py --canal $lang --limite 19
+              echo "=== agendado: $lang (teto 10) ==="
+              python produzir/realinhar_publicados.py --canal $lang --limite 10
             done
           else
             args="--canal ${{ inputs.canal }} --limite ${{ inputs.limite }}"
