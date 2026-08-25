@@ -1037,12 +1037,19 @@
           "video_id": "Kn0ukm28EIA",
           "titulo": "Jonás y el Gran Pez — Jonás 1 y 2 | Historia bíblica narrada",
           "em": "2026-08-25T00:45:04+00:00"
+        },
+        {
+          "pacote": "2026-08-25-jonas-peixe",
+          "item": "short-1",
+          "video_id": "jAQs1T-m_0Y",
+          "titulo": "Jonás 1 — Se levantó para huir a Tarsis | Historia bíblica",
+          "em": "2026-08-25T02:14:25+00:00"
         }
       ],
-      "ultimo_short": "2026-08-24T17:23:53+00:00",
+      "ultimo_short": "2026-08-25T02:14:25+00:00",
       "shorts_dia": {
-        "data": "2026-08-24",
-        "n": 3
+        "data": "2026-08-25",
+        "n": 1
       },
       "longo_data": "2026-08-25"
     },
@@ -2128,6 +2135,13 @@
           "video_id": "Pr1_A7KpDqo",
           "titulo": "Jonas 1 — Levantou-se para fugir para Társis | História bíblica",
           "em": "2026-08-25T00:46:38+00:00"
+        },
+        {
+          "pacote": "2026-08-25-jonas-peixe",
+          "item": "longo",
+          "video_id": "wC7FGfDBDAI",
+          "titulo": "Jonas e o Grande Peixe — Jonas 1 e 2 | História bíblica narrada",
+          "em": "2026-08-25T02:19:39+00:00"
         }
       ],
       "ultimo_short": "2026-08-25T00:46:38+00:00",
@@ -2135,7 +2149,7 @@
         "data": "2026-08-25",
         "n": 1
       },
-      "longo_data": "2026-08-24"
+      "longo_data": "2026-08-25"
     },
     "stoic": {
       "publicados": [
@@ -2369,12 +2383,19 @@
           "video_id": "K-RsE6MTW64",
           "titulo": "Examina la idea antes de creerla",
           "em": "2026-08-24T18:27:53+00:00"
+        },
+        {
+          "pacote": "2026-08-25-nada-se-queda-quieto",
+          "item": "short-1",
+          "video_id": "v78tFnTrSGc",
+          "titulo": "Todo está siempre cambiando, tú incluido",
+          "em": "2026-08-25T02:20:54+00:00"
         }
       ],
-      "ultimo_short": "2026-08-24T18:27:53+00:00",
+      "ultimo_short": "2026-08-25T02:20:54+00:00",
       "shorts_dia": {
-        "data": "2026-08-24",
-        "n": 3
+        "data": "2026-08-25",
+        "n": 1
       },
       "longo_data": ""
     },

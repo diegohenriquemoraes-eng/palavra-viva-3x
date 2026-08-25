@@ -2854,3 +2854,27 @@
 - Item: short-1 — Jonas 1:3
 - Duração: 26.7s
 - Publicado em: 2026-08-25T00:46:38+00:00
+
+## [es] jAQs1T-m_0Y — Jonás 1 — Se levantó para huir a Tarsis | Historia bíblica
+
+- URL: https://youtu.be/jAQs1T-m_0Y
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Jonás 1:3
+- Duração: 24.0s
+- Publicado em: 2026-08-25T02:14:25+00:00
+
+## [pt] wC7FGfDBDAI — Jonas e o Grande Peixe — Jonas 1 e 2 | História bíblica narrada
+
+- URL: https://youtu.be/wC7FGfDBDAI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Jonas 1:1-16, Jonas 2:1-10
+- Duração: 361.4s
+- Publicado em: 2026-08-25T02:19:39+00:00
+
+## [stoic] v78tFnTrSGc — Todo está siempre cambiando, tú incluido
+
+- URL: https://youtu.be/v78tFnTrSGc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 9:32
+- Duração: 24.8s
+- Publicado em: 2026-08-25T02:20:54+00:00
