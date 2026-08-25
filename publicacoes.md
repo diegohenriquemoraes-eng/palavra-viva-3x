@@ -2910,3 +2910,11 @@
 - Item: short-3 — Meditaciones 11:64
 - Duração: 23.0s
 - Publicado em: 2026-08-25T17:26:12+00:00
+
+## [es] xfAkWCRCyhM — Salmos para Dormir — Ocho Salmos para la Noche | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/xfAkWCRCyhM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 13, Salmo 17, Salmo 20, Salmo 26, Salmo 28, Salmo 112, Salmo 115, Salmo 149
+- Duração: 3977.6s
+- Publicado em: 2026-08-25T21:35:06+00:00
