@@ -1,0 +1,112 @@
+{
+  "medido_em": "2026-08-25",
+  "janela": [
+    "2026-06-25",
+    "2026-08-23"
+  ],
+  "por_que": "linha de base do funil de horas (playlist + ponte do Short) montado em 25/08/2026 - comparar a MESMA janela de 60 dias em 25/09 e 25/10",
+  "canais": {
+    "es": {
+      "fontes": {
+        "NO_LINK_OTHER": {
+          "views": 46,
+          "horas": 5.3
+        },
+        "SUBSCRIBER": {
+          "views": 306,
+          "horas": 23.0
+        },
+        "YT_CHANNEL": {
+          "views": 200,
+          "horas": 0.6
+        },
+        "YT_SEARCH": {
+          "views": 2809,
+          "horas": 10.7
+        },
+        "RELATED_VIDEO": {
+          "views": 1219,
+          "horas": 145.4
+        },
+        "YT_OTHER_PAGE": {
+          "views": 294,
+          "horas": 4.0
+        },
+        "EXT_URL": {
+          "views": 94,
+          "horas": 0.8
+        },
+        "PLAYLIST": {
+          "views": 18,
+          "horas": 0.1
+        },
+        "NOTIFICATION": {
+          "views": 1,
+          "horas": 0.0
+        },
+        "SHORTS": {
+          "views": 84131,
+          "horas": 186.3
+        },
+        "HASHTAGS": {
+          "views": 3,
+          "horas": 0.0
+        },
+        "SOUND_PAGE": {
+          "views": 24,
+          "horas": 0.0
+        }
+      },
+      "horas_total_60d": 376.2,
+      "horas_contaveis_60d": 189.9,
+      "horas_ano_projetadas": 1155,
+      "playlist_pct_horas": 0.03,
+      "min_por_view_related": 7.2
+    },
+    "pt": {
+      "fontes": {
+        "NO_LINK_OTHER": {
+          "views": 30,
+          "horas": 6.9
+        },
+        "SUBSCRIBER": {
+          "views": 83,
+          "horas": 8.2
+        },
+        "YT_CHANNEL": {
+          "views": 36,
+          "horas": 0.1
+        },
+        "YT_SEARCH": {
+          "views": 423,
+          "horas": 2.5
+        },
+        "RELATED_VIDEO": {
+          "views": 1387,
+          "horas": 133.7
+        },
+        "YT_OTHER_PAGE": {
+          "views": 56,
+          "horas": 4.0
+        },
+        "EXT_URL": {
+          "views": 10,
+          "horas": 0.6
+        },
+        "PLAYLIST": {
+          "views": 6,
+          "horas": 2.0
+        },
+        "SHORTS": {
+          "views": 6712,
+          "horas": 8.2
+        }
+      },
+      "horas_total_60d": 166.2,
+      "horas_contaveis_60d": 158.0,
+      "horas_ano_projetadas": 961,
+      "playlist_pct_horas": 1.2,
+      "min_por_view_related": 5.8
+    }
+  }
+}
