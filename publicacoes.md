@@ -2894,3 +2894,19 @@
 - Item: short-2 — Meditaciones 9:30
 - Duração: 20.1s
 - Publicado em: 2026-08-25T09:29:51+00:00
+
+## [es] PbqTfkNE8Zc — Jonás 2 — Clamé desde el seno del Seol | Historia bíblica
+
+- URL: https://youtu.be/PbqTfkNE8Zc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-3 — Jonás 2:2
+- Duração: 12.8s
+- Publicado em: 2026-08-25T17:25:12+00:00
+
+## [stoic] raBIqwqCYE8 — La uva verde, la madura y la pasa
+
+- URL: https://youtu.be/raBIqwqCYE8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 11:64
+- Duração: 23.0s
+- Publicado em: 2026-08-25T17:26:12+00:00

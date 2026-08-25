@@ -1051,12 +1051,19 @@
           "video_id": "3wKm_G8Txtg",
           "titulo": "Jonás 1 — Tomadme y echadme al mar | Historia bíblica",
           "em": "2026-08-25T09:28:48+00:00"
+        },
+        {
+          "pacote": "2026-08-25-jonas-peixe",
+          "item": "short-3",
+          "video_id": "PbqTfkNE8Zc",
+          "titulo": "Jonás 2 — Clamé desde el seno del Seol | Historia bíblica",
+          "em": "2026-08-25T17:25:12+00:00"
         }
       ],
-      "ultimo_short": "2026-08-25T09:28:48+00:00",
+      "ultimo_short": "2026-08-25T17:25:12+00:00",
       "shorts_dia": {
         "data": "2026-08-25",
-        "n": 2
+        "n": 3
       },
       "longo_data": "2026-08-25"
     },
@@ -2404,12 +2411,19 @@
           "video_id": "D3w2gqmx3hg",
           "titulo": "A la piedra no le duele caer",
           "em": "2026-08-25T09:29:51+00:00"
+        },
+        {
+          "pacote": "2026-08-25-nada-se-queda-quieto",
+          "item": "short-3",
+          "video_id": "raBIqwqCYE8",
+          "titulo": "La uva verde, la madura y la pasa",
+          "em": "2026-08-25T17:26:12+00:00"
         }
       ],
-      "ultimo_short": "2026-08-25T09:29:51+00:00",
+      "ultimo_short": "2026-08-25T17:26:12+00:00",
       "shorts_dia": {
         "data": "2026-08-25",
-        "n": 2
+        "n": 3
       },
       "longo_data": ""
     },
