@@ -189,6 +189,62 @@ canal ativo: em dia sem mudança gasta ~40 unidades e não toca em nada; quando 
 padrão muda, o acervo se realinha sozinho em rodadas de 19/dia. O ES leva dois
 dias para os 38 longos — de propósito, estourar a cota deixaria o canal mudo.
 
+## A ESTRATÉGIA DE MONETIZAÇÃO em vigor (25/08/2026) — ler antes de mexer
+
+O Diego perguntou o que eu faria "se a decisão fosse minha e quisesse
+monetizar". A resposta, e o que está implementado:
+
+**O YPP não é o prêmio que parece.** Nos últimos 60 dias o ES entregou 87.590
+views de Shorts e 1.566 de longo. Com os RPM reais do formato (Shorts pagam
+~US$0,10/mil; longo devocional em espanhol, US$2-4/mil), o canal aprovado hoje
+renderia **R$30 a 60 por mês** — e o PT, menos de R$10. Uma única venda do
+afiliado (US$40) paga seis meses disso. Perseguir as 4.000 h como objetivo
+econômico é meta de vaidade **no volume atual**.
+
+**O que muda de patamar é uma variável só: views de vídeo LONGO.** Uma view de
+longo vinda de recomendação vale 7,2 minutos; uma de Short, 0,13 — **55x**. E o
+canal recebe ~37 views por longo publicado. O longo já converte bem; ele só não
+é visto. Toda a economia do projeto está aí, e o Short é motor de vaidade —
+views que não pagam nem convertem (mas ainda contam para o portão de inscritos).
+
+Decisões que saíram disso, todas no ar:
+
+1. **2 longos/dia no ES** (`longos_por_dia: 2`, gap de 480 min), com o Short
+   caindo de 3 para 2/dia — a cota manda: 2 longos (2×2.100) + 2 Shorts
+   (2×1.650) = ~7.500 de 10.000, sobrando margem para um retry. Com 3 Shorts
+   daria 9.150 e um único retry derrubaria o dia.
+2. **O 2º longo sai do 2º pacote da data**, nunca do mesmo tema do 1º, e o
+   reabastecedor dá **preferência ao formato "dormir"** para essa vaga (60 min
+   contra 30 do "tema"): a vaga extra existe para gerar HORA.
+3. **`gerar_temas_salmo.py` acabou com o gargalo humano do poço.** Cada salmo é
+   um tema natural ("Salmo N completo" — e "salmo 103" é termo de busca real,
+   medido na Analytics). Título, abertura falada, tags e descrição saem de
+   FATOS do próprio salmo: quantos versículos tem, o que diz a inscrição, como
+   começa. Não interpreta (diretriz nº 4) e **não afirma autoria** — a inscrição
+   é citada como inscrição ("leva por inscrição: Salmo de Davi"), nunca como
+   autoria, que é disputada. 40 temas gerados de uma vez; o poço foi de 18 para
+   58 livres.
+4. **Régua automática**: `medir_horas.py` roda junto do medir diário e compara
+   com `conteudo/baseline_funil_horas.json` (a foto de 25/08, antes da mudança).
+   Os tokens de Analytics viraram secrets (`YT_TOKEN_ANALYTICS_*`) — antes só
+   existiam no PC do Diego e a régua dependia de alguém lembrar de rodar.
+5. **`&src=yt_largo_es` no link de afiliado**: sem rastreio não dá para saber se
+   a oferta gerou um clique sequer em dois meses, e trocar de oferta viraria
+   achismo.
+
+**A régua, combinada com o Diego: 25/11/2026.** Se as horas contáveis do ES não
+tiverem dobrado (de ~1.100 para ~2.200 h/ano), o teste falhou: volta para 1
+longo/dia e o projeto vira ativo dormente, sem mais horas humanas. E vale dizer
+o desconfortável: **mesmo dando certo, isto é um projeto de algumas centenas de
+reais por mês**. Ele se justifica por rodar sozinho e por ser uma opção, não por
+ser renda.
+
+O que eu NÃO faria e por quê: abrir o canal `sabiduria` agora (o problema não é
+falta de canal, é falta de views de longo, e canal novo divide o único recurso
+escasso); otimizar Short (retém 103%, não há upside); e limpar o acervo dos 17
+longos crus antes de haver motivo real para submeter ao YPP — eles valem 50% das
+horas de longo do ES.
+
 ## Diretriz editorial — inegociável
 
 1. Só texto bíblico de tradução em DOMÍNIO PÚBLICO: RV1909 (es), KJV (en),

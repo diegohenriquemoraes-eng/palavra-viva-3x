@@ -56,29 +56,64 @@ def gravar(path: Path, data) -> None:
                     encoding="utf-8")
 
 
-def pacote_de_hoje(fila: Path = FILA) -> tuple[Path, dict] | None:
-    """Pacote do dia na fila indicada.
+def pacotes_de_hoje(fila: Path = FILA) -> list[tuple[Path, dict]]:
+    """TODOS os pacotes com a data de hoje, em ordem estável.
 
     Cada canal aponta para a SUA fila (`canal_cfg["fila"]`): os canais bíblicos
     compartilham `fila/`, o estoico tem `fila_stoic/`. Um pacote estoico não
     tem texto para os canais de Escritura, e vice-versa.
+
+    A lista virou plural em 25/08/2026: com `longos_por_dia: 2` a linha bíblica
+    passa a ter dois pacotes na mesma data (temas diferentes), e o segundo
+    longo do canal ES sai do segundo pacote. O PRIMEIRO da lista continua sendo
+    "o pacote do dia" para todo o resto (Shorts e canais de 1 longo), então
+    nada muda para quem não pediu o segundo.
     """
     data = datetime.now(timezone.utc).date().isoformat()
     if not fila.is_dir():
-        return None
+        return []
+    achados = []
     for p in sorted(fila.iterdir()):
         if p.is_dir() and p.name.startswith(data):
             meta = carregar(p / "pacote.json", None)
             if meta and meta.get("aprovado_em"):
-                return p, meta
+                achados.append((p, meta))
+    return achados
+
+
+def pacote_de_hoje(fila: Path = FILA) -> tuple[Path, dict] | None:
+    achados = pacotes_de_hoje(fila)
+    return achados[0] if achados else None
+
+
+def pacote_do_longo(achados: list[tuple[Path, dict]],
+                    ec: dict) -> tuple[Path, dict] | None:
+    """O pacote de hoje cujo vídeo longo este canal ainda NÃO publicou.
+
+    É o que impede o segundo longo do dia de repetir o tema do primeiro — e
+    também o que faz a segunda execução escolher sozinha o pacote certo depois
+    de uma falha, sem estado extra para manter.
+    """
+    feitos = {p["pacote"] for p in ec.get("publicados", [])
+              if p["item"] == "longo"}
+    for pasta, meta in achados:
+        if pasta.name not in feitos:
+            return pasta, meta
     return None
 
 
 def estado_canal(state: dict, idioma: str) -> dict:
-    return state.setdefault("canais", {}).setdefault(idioma, {
+    ec = state.setdefault("canais", {}).setdefault(idioma, {
         "publicados": [], "ultimo_short": None,
         "shorts_dia": {"data": "", "n": 0}, "longo_data": "",
     })
+    # Migração do contador de longos (25/08/2026): antes bastava a data do
+    # único longo do dia; com 2/dia é preciso contar. O `longo_data` antigo
+    # continua sendo escrito para não quebrar quem o lê (vigia, relatórios).
+    if "longos_dia" not in ec:
+        ec["longos_dia"] = {"data": ec.get("longo_data", ""),
+                            "n": 1 if ec.get("longo_data") else 0}
+    return ec
 
 
 def decidir(canal_cfg: dict, ec: dict, agora: datetime) -> str | None:
@@ -88,8 +123,27 @@ def decidir(canal_cfg: dict, ec: dict, agora: datetime) -> str | None:
     # hora_longo_utc = null desliga o vídeo longo no canal (o Stoic by Night
     # roda só Shorts durante o teste dos 30 dias — ver CLAUDE.md).
     hora_longo = canal_cfg.get("hora_longo_utc")
-    if (hora_longo is not None and ec["longo_data"] != hoje
-            and agora.hour >= hora_longo):
+    ld = ec["longos_dia"]
+    n_longos = ld["n"] if ld["data"] == hoje else 0
+    if (hora_longo is not None and agora.hour >= hora_longo
+            and n_longos < canal_cfg.get("longos_por_dia", 1)):
+        # Gap entre os longos do mesmo dia: sem ele os dois sairiam em
+        # execuções seguidas do cron horário, e o canal publicaria duas horas
+        # de vídeo em duas horas de relógio — pico de cota e de banda no
+        # runner, e dois vídeos disputando a mesma janela de entrega.
+        gap = canal_cfg.get("gap_longos_min", 0)
+        ultimo = ec.get("ultimo_longo")
+        if n_longos and gap and not ultimo:
+            # Estado migrado de antes de 25/08 não tem `ultimo_longo`. Sem esta
+            # busca no histórico, o segundo longo sairia na execução seguinte à
+            # do primeiro, ignorando o gap justamente no dia da virada.
+            ultimo = next((p["em"] for p in reversed(ec.get("publicados", []))
+                           if p["item"] == "longo"), None)
+        if n_longos and gap and ultimo:
+            decorrido = (agora - datetime.fromisoformat(ultimo)
+                         ).total_seconds() / 60
+            if decorrido < gap:
+                return None
         return "longo"
 
     sd = ec["shorts_dia"]
@@ -238,6 +292,10 @@ def registrar_no_estado(state: dict, idioma: str, canal_cfg: dict, item: dict,
     })
     if tipo == "longo":
         ec["longo_data"] = hoje
+        ld = ec["longos_dia"]
+        ec["longos_dia"] = {"data": hoje,
+                            "n": (ld["n"] if ld["data"] == hoje else 0) + 1}
+        ec["ultimo_longo"] = agora.isoformat(timespec="seconds")
     else:
         sd = ec["shorts_dia"]
         ec["shorts_dia"] = {"data": hoje,
@@ -270,7 +328,9 @@ def main() -> None:
     # ausência abortava a execução inteira.
     filas = {idioma: RAIZ / cfg.get("fila", "fila")
              for idioma, cfg in config["canais"].items()}
-    achados = {idioma: pacote_de_hoje(f) for idioma, f in filas.items()}
+    do_dia = {idioma: pacotes_de_hoje(f) for idioma, f in filas.items()}
+    achados = {idioma: (lista[0] if lista else None)
+               for idioma, lista in do_dia.items()}
     if not any(achados.values()):
         log("SEM PACOTE para hoje em nenhuma fila — o reabastecedor precisa "
             "rodar. Nada a fazer.")
@@ -307,19 +367,33 @@ def main() -> None:
                 log(f"[{idioma}] nada devido nesta hora.")
                 continue
 
-            if args.dry_run:
-                log(f"[{idioma}] [dry-run] publicaria: {tipo} do pacote "
-                    f"{pasta_pacote.name}")
-                continue
+            # O longo tem pacote próprio: o primeiro de hoje que ESTE canal
+            # ainda não publicou (com 2 longos/dia, o 2º cai no 2º pacote).
+            # O Short continua SEMPRE no pacote do dia — são duas variáveis
+            # separadas de propósito: quando o longo falha, a execução cai para
+            # o Short, e ele não pode sair do tema do longo que acabou de
+            # falhar (o índice do Short é contado no pacote do dia).
+            pasta_longo, pacote_longo = pasta_pacote, pacote
+            if tipo == "longo":
+                escolha = pacote_do_longo(do_dia[idioma], ec)
+                if escolha is None:
+                    log(f"[{idioma}] todos os longos de hoje já foram "
+                        f"publicados; nada a fazer.")
+                    continue
+                pasta_longo, pacote_longo = escolha
 
-            outdir = SAIDA / idioma / f"{pasta_pacote.name}-{tipo}"
+            if args.dry_run:
+                alvo = pasta_longo if tipo == "longo" else pasta_pacote
+                log(f"[{idioma}] [dry-run] publicaria: {tipo} do pacote "
+                    f"{alvo.name}")
+                continue
 
             def montar(t: str):
                 if t == "longo":
-                    return fabrica.montar_longo(pacote, idioma,
+                    return fabrica.montar_longo(pacote_longo, idioma,
                                                 canal_cfg["handle"],
                                                 SAIDA / idioma /
-                                                f"{pasta_pacote.name}-longo",
+                                                f"{pasta_longo.name}-longo",
                                                 afiliado=canal_cfg.get("afiliado", ""))
                 idx = (ec["shorts_dia"]["n"]
                        if ec["shorts_dia"]["data"] == agora.date().isoformat()
@@ -351,8 +425,10 @@ def main() -> None:
                     f"{item['duracao_s']}s)")
                 if args.render_apenas:
                     return
-                publicar_item(idioma, canal_cfg, config, item, pasta_pacote,
-                              t, state, pacote.get("formato", "tema"))
+                origem, meta = ((pasta_longo, pacote_longo) if t == "longo"
+                                else (pasta_pacote, pacote))
+                publicar_item(idioma, canal_cfg, config, item, origem,
+                              t, state, meta.get("formato", "tema"))
 
             # BaseException, não Exception: os erros de publicação levantam
             # SystemExit (via raise SystemExit), que NÃO é subclasse de

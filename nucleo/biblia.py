@@ -20,8 +20,12 @@ REF_RE = re.compile(r"^(.+?)\s+(\d+)(?::(\d+)(?:-(\d+))?)?$")
 # "To the chief Musician...", "Salmo de Davi:"). Removidas só do versículo 1.
 INSCRICAO = {
     "es": re.compile(
+        # "Sigaión" entrou em 25/08/2026: sem ele o Salmo 7 era o ÚNICO dos 150
+        # cuja inscrição escapava e ia para a narração ("Sigaión de David, que
+        # cantó a Jehová sobre las palabras de Cus..."), como se fosse o
+        # versículo 1. O EN já cobria o equivalente ("Shiggaion").
         r"^(?:(?:Al Músico principal|Salmo|Cántico|Canción|Oración|Masquil|"
-        r"Michtam|Mictam)[^.]*\.\s*)+",
+        r"Michtam|Mictam|Sigaión)[^.]*\.\s*)+",
         re.IGNORECASE,
     ),
     "en": re.compile(

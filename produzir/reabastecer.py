@@ -78,13 +78,28 @@ def slugs_usados(fila: Path) -> set[str]:
             if p.is_dir() and len(p.name) > 11}
 
 
-def pacote_do_dia(fila: Path, data: str) -> Path | None:
+def pacotes_do_dia(fila: Path, data: str) -> list[Path]:
     if not fila.is_dir():
-        return None
-    for p in sorted(fila.iterdir()):
-        if p.is_dir() and p.name.startswith(data):
-            return p
-    return None
+        return []
+    return [p for p in sorted(fila.iterdir())
+            if p.is_dir() and p.name.startswith(data)]
+
+
+def pacote_do_dia(fila: Path, data: str) -> Path | None:
+    achados = pacotes_do_dia(fila, data)
+    return achados[0] if achados else None
+
+
+def pacotes_por_dia(linha: dict, cfg_canais: dict) -> int:
+    """Quantos pacotes a linha precisa por DATA.
+
+    É o maior `longos_por_dia` entre os canais ATIVOS que consomem a fila: cada
+    longo do dia sai de um pacote diferente, senão o segundo repetiria o tema
+    do primeiro. Canal parado não puxa pacote — o poço é o recurso escasso.
+    """
+    return max([cfg_canais.get(c, {}).get("longos_por_dia", 1)
+                for c in linha["canais"]
+                if cfg_canais.get(c, {}).get("ativo")] or [1])
 
 
 def validar_tema(tema: dict, canais: tuple[str, ...]) -> None:
@@ -172,7 +187,8 @@ def criar_pacote(tema: dict, data: str, dry: bool, linha: dict) -> None:
           f"shorts sem imagem: {sem_img} — fallback gradiente)")
 
 
-def abastecer(nome: str, linha: dict, dias: int, dry: bool) -> int:
+def abastecer(nome: str, linha: dict, dias: int, dry: bool,
+              por_dia: int = 1) -> int:
     """Devolve 3 se o poço secou (o workflow abre issue), 0 se está saudável."""
     temas = json.loads(linha["temas"].read_text(encoding="utf-8"))
     temas = temas["temas"] if isinstance(temas, dict) else temas
@@ -180,26 +196,41 @@ def abastecer(nome: str, linha: dict, dias: int, dry: bool) -> int:
     livres = [t for t in temas if t["slug"] not in usados]
 
     hoje = datetime.now(timezone.utc).date()
-    faltantes = []
+    faltantes: list[tuple[str, int]] = []
     for d in range(dias + 1):
         data = (hoje + timedelta(days=d)).isoformat()
-        if pacote_do_dia(linha["fila"], data) is None:
-            faltantes.append(data)
+        # Uma data pode precisar de MAIS DE UM pacote (canal com 2 longos/dia).
+        # O índice guardado é a POSIÇÃO real na data, contando os que já
+        # existem: é ele que decide se este pacote é o principal (posição 0) ou
+        # o extra, e o extra prefere o formato "dormir".
+        ja = len(pacotes_do_dia(linha["fila"], data))
+        for k in range(ja, por_dia):
+            faltantes.append((data, k))
 
     if not faltantes:
-        print(f"[{nome}] fila saudável: já existe pacote para hoje e os "
-              f"próximos dias.")
+        print(f"[{nome}] fila saudável: {por_dia} pacote(s) por dia para hoje "
+              f"e os próximos {dias} dias.")
         return 0
 
-    print(f"[{nome}] datas sem pacote: {', '.join(faltantes)}; "
+    print(f"[{nome}] pacotes a criar: "
+          f"{', '.join(f'{d} (#{k + 1})' for d, k in faltantes)}; "
           f"temas livres no poço: {len(livres)}.")
     if len(livres) < len(faltantes):
         print(f"[{nome}] POÇO SECO — temas insuficientes em "
               f"{linha['temas'].relative_to(RAIZ).as_posix()}.")
         return 3
 
-    for data, tema in zip(faltantes, livres):
-        criar_pacote(tema, data, dry, linha)
+    # O 2º pacote de uma data prefere o formato "dormir": ele é o longo de 60
+    # min (ALVO_MIN), o dobro do "tema" e várias vezes o "historia". Como o
+    # segundo longo do dia existe para gerar HORA de exibição, gastar a vaga
+    # com o formato mais curto seria desperdiçar a única cota que sobra.
+    restantes = list(livres)
+    for data, k in faltantes:
+        pos = 0
+        if k:
+            pos = next((i for i, t in enumerate(restantes)
+                        if t.get("formato") == "dormir"), 0)
+        criar_pacote(restantes.pop(pos), data, dry, linha)
     return 0
 
 
@@ -222,7 +253,8 @@ def main() -> None:
             print(f"[{nome}] todos os canais da linha estão inativos — pulando.")
             continue
         codigo = max(codigo, abastecer(nome, LINHAS[nome], args.dias,
-                                       args.dry_run))
+                                       args.dry_run,
+                                       pacotes_por_dia(LINHAS[nome], cfg)))
     if codigo:
         sys.exit(codigo)
 

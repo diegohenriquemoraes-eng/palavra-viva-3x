@@ -50,17 +50,31 @@ jobs:
           PODER_TOKEN: ${{ secrets.YT_TOKEN_PODER }}
           ASTUCIA_SECRET: ${{ secrets.YT_CLIENT_SECRET_ASTUCIA }}
           ASTUCIA_TOKEN: ${{ secrets.YT_TOKEN_ASTUCIA }}
+          # Token de LEITURA da Analytics (escopo yt-analytics.readonly), um
+          # grant separado do de publicar. É o que permite medir HORAS de
+          # exibição na nuvem — antes só existia no PC do Diego, e a régua do
+          # projeto dependia de alguém lembrar de rodar à mão.
+          ES_ANALYTICS: ${{ secrets.YT_TOKEN_ANALYTICS_ES }}
+          PT_ANALYTICS: ${{ secrets.YT_TOKEN_ANALYTICS_PT }}
+          STOIC_ANALYTICS: ${{ secrets.YT_TOKEN_ANALYTICS_STOIC }}
         run: |
           for lang in es en pt stoic poder astucia; do
             secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
             token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
+            analytics_var="$(echo $lang | tr a-z A-Z)_ANALYTICS"
             secret="${!secret_var}"
             token="${!token_var}"
+            analytics="${!analytics_var}"
             if [ -n "$secret" ] && [ -n "$token" ]; then
               mkdir -p "credenciais/$lang"
               printf '%s' "$secret" > "credenciais/$lang/client_secret.json"
               printf '%s' "$token" > "credenciais/$lang/token.json"
               chmod 600 credenciais/$lang/*
+            fi
+            if [ -n "$analytics" ]; then
+              mkdir -p "credenciais/$lang"
+              printf '%s' "$analytics" > "credenciais/$lang/token_analytics.json"
+              chmod 600 "credenciais/$lang/token_analytics.json"
             fi
           done
 
@@ -68,6 +82,12 @@ jobs:
         run: |
           git pull --rebase --autostash origin main || true
           python produzir/medir_desempenho.py | tee medicao.txt
+
+      - name: Medir HORAS de exibição (a régua do projeto)
+        # Views são placar; hora é o que monetiza, e só o longo produz hora
+        # contável. Falhar aqui não pode derrubar a medição de desempenho.
+        continue-on-error: true
+        run: python produzir/medir_horas.py | tee horas.txt
 
       - name: Publicar o resumo na página do run
         if: always()
@@ -78,16 +98,22 @@ jobs:
             # só a parte que decide; a listagem vídeo a vídeo fica no artefato
             sed -n '/COORTE COMPAR/,$p' medicao.txt || true
             echo '```'
+            if [ -f horas.txt ]; then
+              echo '## Horas de exibição vs. linha de base'
+              echo '```'
+              cat horas.txt
+              echo '```'
+            fi
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Guardar a série
         if: always()
         run: |
-          rm -rf credenciais medicao.txt
-          if [ -n "$(git status --porcelain conteudo/desempenho.json conteudo/desempenho_historico.json)" ]; then
+          rm -rf credenciais medicao.txt horas.txt
+          if [ -n "$(git status --porcelain conteudo/desempenho.json conteudo/desempenho_historico.json conteudo/horas_historico.json)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add conteudo/desempenho.json conteudo/desempenho_historico.json
+            git add conteudo/desempenho.json conteudo/desempenho_historico.json conteudo/horas_historico.json
             git commit -m "Mede desempenho (auto)"
             for i in 1 2 3; do
               git pull --rebase --autostash origin main && git push && break
