@@ -14,7 +14,8 @@ import shutil
 import zlib
 from pathlib import Path
 
-from . import biblia, idiomas, imagens, legendas, musica, render, thumbnail, tts
+from . import (biblia, idiomas, imagens, legendas, musica, playlists, render,
+               thumbnail, tts)
 
 PAUSA_VERSO = 2.0       # silêncio contemplativo entre versículos do longo
                         # (2,0s: leva o longo típico acima dos 8 min de mid-roll)
@@ -148,6 +149,22 @@ def bloco_afiliado(texto: str) -> str:
     machuca justamente a satisfação do espectador que o algoritmo mede.
     """
     return f"\n\n{texto.strip()}" if texto and texto.strip() else ""
+
+
+def bloco_playlist(idioma: str, formato: str) -> str:
+    """Link da playlist do formato na descrição do longo.
+
+    Quem chega ao longo (busca ou ponte do Short) é o espectador de HORAS — o
+    único que conta para o YPP. A lista completa é o convite para a sessão não
+    acabar neste vídeo. Depende do id em cache (nucleo/playlists.py); sem
+    cache, sem linha — nunca pode derrubar um render.
+    """
+    lista_id = playlists.obter(idioma, formato)
+    nome = idiomas.PLAYLISTS.get(formato, {}).get(idioma, "")
+    if not (lista_id and nome):
+        return ""
+    return (f"\n\n🎧 {nome}:\n"
+            f"https://www.youtube.com/playlist?list={lista_id}")
 
 
 def _cortar_ao_teto(versos: list[tuple[int, str]], ref: str,
@@ -502,6 +519,7 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
         f"{longo['titulo'][idioma]}"
         + (f"\n\n{busca}" if busca else "")
         + bloco_afiliado(afiliado)
+        + bloco_playlist(idioma, pacote.get("formato", "tema"))
         + f"\n\n{cfg['rotulo_capitulos']}\n" + "\n".join(caps) + "\n\n"
         f"{cfg['fonte_texto']}.\n\n{_cta(cfg, _seed(pacote, 'cta'))}\n\n"
         f"{cfg['hashtags']}"

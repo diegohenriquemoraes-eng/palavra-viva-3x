@@ -22,7 +22,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(RAIZ))
 sys.stdout.reconfigure(encoding="utf-8")
 
-from nucleo import biblia, idiomas, youtube_api  # noqa: E402
+from nucleo import biblia, fabrica, idiomas, youtube_api  # noqa: E402
 
 STATE = RAIZ / "publicador" / "state.json"
 CONFIG = RAIZ / "publicador" / "config.json"
@@ -76,8 +76,10 @@ def metadados(tema: dict, item: str, idioma: str, canal_cfg: dict) -> dict:
                          for r in tema["longo"]["refs"])
         corpo = (f"{titulo}"
                  + (f"\n\n{busca}" if busca else "")
+                 + bloco
+                 + fabrica.bloco_playlist(idioma, tema.get("formato", "tema"))
                  + f"\n\n{cfg['rotulo_capitulos']} {refs}"
-                 f"{bloco}\n\n{cfg['fonte_texto']}.\n\n{cfg['cta']}\n\n"
+                 f"\n\n{cfg['fonte_texto']}.\n\n{cfg['cta']}\n\n"
                  f"{cfg['hashtags']}")
     else:
         idx = int(item.split("-")[1]) - 1
@@ -102,7 +104,15 @@ def main() -> None:
     # o mesmo. Por isso o padrão passou a ser só os longos em 15/08/2026.
     ap.add_argument("--tudo", action="store_true",
                     help="realinha também os Shorts (cuidado com a cota)")
+    # Teto de ATUALIZAÇÕES por execução. O ES tem 38 longos (~1.900 de cota) e
+    # a publicação do dia já come ~7.200 dos 10.000 — realinhar tudo numa
+    # janela deixaria margem de meio upload, e um retry derrubaria o longo do
+    # dia. Com --limite a rodada é fatiada em duas janelas; como o script agora
+    # PULA o que já está no padrão, a segunda execução continua de onde parou.
+    ap.add_argument("--limite", type=int, default=0,
+                    help="máximo de vídeos ATUALIZADOS nesta execução (0 = sem teto)")
     args = ap.parse_args()
+    atualizados = 0
 
     state = json.loads(STATE.read_text(encoding="utf-8"))
     config = json.loads(CONFIG.read_text(encoding="utf-8"))
@@ -120,6 +130,10 @@ def main() -> None:
         for p in ec["publicados"]:
             if not args.tudo and p["item"] != "longo":
                 continue
+            if args.limite and atualizados >= args.limite:
+                print(f"  limite de {args.limite} atualizações atingido; "
+                      f"rode de novo na próxima janela de cota para continuar.")
+                break
             tema = tema_por_slug(temas, p["pacote"])
             if not tema:
                 print(f"  {p['video_id']}: tema não encontrado; pulando")
@@ -137,14 +151,35 @@ def main() -> None:
                 print("    vídeo não existe mais; pulando")
                 continue
             sn = atual[0]["snippet"]
-            sn["title"] = youtube_api.limpar_texto(m["titulo"])
-            sn["description"] = youtube_api.limpar_texto(m["descricao"])
-            sn["tags"] = m["tags"]
-            sn["defaultLanguage"] = idiomas.CONFIG[idioma]["bcp47"]
+            novo = {
+                "title": youtube_api.limpar_texto(m["titulo"]),
+                "description": youtube_api.limpar_texto(m["descricao"]),
+                "tags": m["tags"],
+                "defaultLanguage": idiomas.CONFIG[idioma]["bcp47"],
+            }
+            # Já está no padrão: não gastar as 50 unidades do update. É o que
+            # torna a rodada RETOMÁVEL — com --limite, a execução seguinte pula
+            # o que já foi feito em vez de refazer os primeiros da lista.
+            #
+            # ⚠ A API devolve as tags em ordem ALFABÉTICA, não na ordem em que
+            # foram enviadas: comparar as listas posição a posição dá sempre
+            # "diferente" e o script reescreveria tudo a cada rodada. Tag é
+            # conjunto para o YouTube, então é como conjunto que se compara.
+            def _igual(campo: str, valor) -> bool:
+                if campo == "tags":
+                    return (sorted(t.casefold() for t in (sn.get("tags") or []))
+                            == sorted(t.casefold() for t in valor))
+                return sn.get(campo) == valor
+
+            if all(_igual(k, v) for k, v in novo.items()):
+                print("    já está no padrão; pulando")
+                continue
+            sn.update(novo)
             yt.videos().update(part="snippet",
                                body={"id": p["video_id"], "snippet": sn}
                                ).execute()
             p["titulo"] = m["titulo"]
+            atualizados += 1
             print("    atualizado")
 
     if not args.dry_run:

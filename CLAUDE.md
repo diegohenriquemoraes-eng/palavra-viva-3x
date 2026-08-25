@@ -143,6 +143,52 @@ falhar, o publicador cai para Short e usa esse (ver `publicar.py::montar`).
 
 NUNCA subir para 6 uploads/dia sem aumento de cota aprovado pelo Google.
 
+## Funil de HORAS: playlist + ponte do Short (25/08/2026)
+
+Pergunta do Diego: "seguidores crescem, horas de exibição não — publico 2 longos
+por dia?". **Não.** Dobrar a esteira não move a agulha e cobra caro: os longos
+respondem por 1,6% das views do ES (o gargalo é distribuição, não estoque), o
+canal já gasta ~7.200 dos 10.000 de cota (um 2º longo levaria a ~9.600, sem
+margem de retry), o poço secaria 2x mais rápido e o Portão B de monetização
+piora — vídeo de 1h idêntico duas vezes ao dia é a impressão digital de produção
+em massa. O que rende hora é **encadear sessão** no que já existe:
+
+- **Playlist por formato com autoplay**: acabando um longo, o YouTube emenda o
+  próximo da lista em vez de mandar o espectador embora. Os 83 longos publicados
+  (es 38, en 9, pt 36) estão nas 9 playlists dos 3 canais desde 25/08 —
+  `produzir/preencher_playlists.py` é a auditoria idempotente disso (workflow
+  manual **Preencher playlists**). O publicador já inseria o longo na hora de
+  publicar, mas "playlist falhou; seguindo" nunca derrubou publicação: 8 longos
+  estavam fora da lista e ninguém sabia.
+- **Ponte do Short com `&list=`**: a descrição do Short aponta o longo do dia
+  como `watch?v=...&list=...`, ou seja, abre DENTRO da playlist. Se o longo do
+  dia falhou, cai no último longo do mesmo formato — link de ontem é melhor que
+  Short sem ponte. 95% das views do canal vêm do feed de Shorts e esse tráfego
+  morria ali.
+- **Link da lista na descrição do longo** (`fabrica.bloco_playlist`), que é
+  quem recebe a busca — o espectador de horas.
+- Os ids das playlists ficam em `publicador/playlists.json`
+  (`nucleo/playlists.py`), versionado como o `state.json`: o RENDER precisa
+  deles e roda sem token, e descobrir por API custaria uma chamada por
+  publicação.
+
+**O que NÃO foi feito, de propósito:** comentário fixado no Short apontando o
+longo — **fixar comentário não tem API** (só o Studio, vídeo a vídeo), e
+comentário do dono sem fixar se perde. E realinhar os 86 Shorts antigos para
+incluir a ponte: 4.300 de cota para uma descrição que quase ninguém abre no
+feed. Se um dia valer, é `realinhar_publicados.py --tudo`.
+
+⚠ `realinhar_publicados.py` ficou **idempotente e retomável**: compara o que já
+está no ar e só gasta as 50 unidades do update quando algo mudou de verdade;
+`--limite N` teta as atualizações por rodada. A comparação de **tags é por
+CONJUNTO** — a API devolve as tags em ordem alfabética, então comparar as listas
+posição a posição dava "diferente" sempre e reescrevia o acervo inteiro a cada
+rodada. Com isso o workflow Realinhar ganhou **schedule diário às 07:10 UTC**
+(logo após a virada da cota, antes do Short das ~07:30), teto de 19 vídeos por
+canal ativo: em dia sem mudança gasta ~40 unidades e não toca em nada; quando o
+padrão muda, o acervo se realinha sozinho em rodadas de 19/dia. O ES leva dois
+dias para os 38 longos — de propósito, estourar a cota deixaria o canal mudo.
+
 ## Diretriz editorial — inegociável
 
 1. Só texto bíblico de tradução em DOMÍNIO PÚBLICO: RV1909 (es), KJV (en),

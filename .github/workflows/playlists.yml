@@ -1,0 +1,87 @@
+name: Preencher playlists
+
+# Auditoria/backfill: garante que todo longo publicado está na playlist do seu
+# formato e grava os ids em publicador/playlists.json (o cache que põe o
+# `&list=` na ponte do Short e o link da lista na descrição do longo).
+#
+# Só manual: gasta 50 de cota por inserção faltante e não deve concorrer com a
+# publicação do dia. Rodar de preferência logo após a virada da cota (07:00
+# UTC ~ meia-noite no Pacífico). Idempotente: rodar de novo não duplica nada.
+on:
+  workflow_dispatch:
+    inputs:
+      canal:
+        description: "Canal (es/en/pt) ou vazio para todos com longos"
+        required: false
+        default: ""
+      dry_run:
+        description: "Só listar o que falta"
+        type: boolean
+        default: true
+
+concurrency:
+  group: publicar-3x
+  cancel-in-progress: false
+
+jobs:
+  playlists:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Restaurar credenciais
+        env:
+          ES_SECRET: ${{ secrets.YT_CLIENT_SECRET_ES }}
+          ES_TOKEN: ${{ secrets.YT_TOKEN_ES }}
+          EN_SECRET: ${{ secrets.YT_CLIENT_SECRET_EN }}
+          EN_TOKEN: ${{ secrets.YT_TOKEN_EN }}
+          PT_SECRET: ${{ secrets.YT_CLIENT_SECRET_PT }}
+          PT_TOKEN: ${{ secrets.YT_TOKEN_PT }}
+        run: |
+          for lang in es en pt; do
+            secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
+            token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
+            secret="${!secret_var}"
+            token="${!token_var}"
+            [ -z "$secret" ] || [ -z "$token" ] && continue
+            mkdir -p "credenciais/$lang"
+            printf '%s' "$secret" > "credenciais/$lang/client_secret.json"
+            printf '%s' "$token" > "credenciais/$lang/token.json"
+            chmod 600 credenciais/$lang/*
+          done
+
+      - run: git pull --rebase --autostash origin main || true
+
+      - name: Preencher
+        run: |
+          args=""
+          [ -n "${{ inputs.canal }}" ] && args="--canal ${{ inputs.canal }}"
+          [ "${{ inputs.dry_run }}" = "true" ] && args="$args --dry-run"
+          echo "args:$args"
+          python produzir/preencher_playlists.py $args
+
+      - name: Guardar cache de playlists
+        if: always()
+        run: |
+          rm -rf credenciais
+          if [ -n "$(git status --porcelain publicador/playlists.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add publicador/playlists.json
+            git commit -m "Preenche playlists (auto)"
+            git pull --rebase --autostash origin main
+            git push
+          else
+            echo "Nada a guardar."
+          fi

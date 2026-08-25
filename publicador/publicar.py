@@ -29,7 +29,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(RAIZ))
 sys.stdout.reconfigure(encoding="utf-8")
 
-from nucleo import fabrica, idiomas, youtube_api  # noqa: E402
+from nucleo import fabrica, idiomas, playlists, youtube_api  # noqa: E402
 
 CONFIG = Path(__file__).parent / "config.json"
 STATE = Path(__file__).parent / "state.json"
@@ -110,12 +110,33 @@ def decidir(canal_cfg: dict, ec: dict, agora: datetime) -> str | None:
     return "short"
 
 
-def longo_do_dia(ec: dict, pacote_nome: str) -> str:
-    """URL do longo já publicado deste pacote (para o Short apontar para ele)."""
+def longo_do_dia(ec: dict, pacote_nome: str, formato: str, idioma: str) -> str:
+    """URL do longo para a ponte na descrição do Short.
+
+    Preferência: o longo do MESMO pacote (mesmo tema do Short). Se o longo do
+    dia falhou, cai no último longo do mesmo formato — link de ontem é melhor
+    que Short sem ponte (as entradas do estado guardam `formato` desde 25/08;
+    as anteriores ficam de fora do fallback e envelhecem sozinhas).
+
+    Com o id da playlist em cache, o link sai como watch?v=...&list=...: o
+    longo abre DENTRO da playlist do formato e, acabando, o YouTube emenda o
+    próximo — é o que transforma o clique vindo do Short em sessão de horas,
+    e hora de exibição é a trilha de monetização que temos.
+    """
+    vid = ""
     for p in reversed(ec.get("publicados", [])):
-        if p["pacote"] == pacote_nome and p["item"] == "longo":
-            return f"https://youtu.be/{p['video_id']}"
-    return ""
+        if p["item"] != "longo":
+            continue
+        if p["pacote"] == pacote_nome:
+            vid = p["video_id"]
+            break
+        if not vid and p.get("formato") == formato:
+            vid = p["video_id"]   # guarda o fallback; segue procurando o do dia
+    if not vid:
+        return ""
+    lista = playlists.obter(idioma, formato)
+    return (f"https://www.youtube.com/watch?v={vid}&list={lista}" if lista
+            else f"https://youtu.be/{vid}")
 
 
 def registrar(idioma: str, canal_cfg: dict, item: dict, video_id: str) -> None:
@@ -147,7 +168,7 @@ def publicar_item(idioma: str, canal_cfg: dict, config: dict, item: dict,
         log(f"[{idioma}] JÁ EXISTE no canal: https://youtu.be/{existente} "
             f"— não vou publicar de novo. Registrando no estado.")
         registrar_no_estado(state, idioma, canal_cfg, item, existente,
-                            pasta_pacote, tipo)
+                            pasta_pacote, tipo, pacote_formato)
         return
 
     log(f"[{idioma}] subindo {item['tipo_item']}: {item['titulo']}")
@@ -191,17 +212,19 @@ def publicar_item(idioma: str, canal_cfg: dict, config: dict, item: dict,
             try:
                 pl = youtube_api.playlist_por_titulo(
                     youtube, titulo_pl, idiomas.CONFIG[idioma]["cta"])
+                playlists.definir(idioma, pacote_formato, pl)
                 youtube_api.adicionar_na_playlist(youtube, pl, video_id)
                 log(f"[{idioma}] adicionado à playlist '{titulo_pl}'")
             except Exception as exc:
                 log(f"[{idioma}] playlist falhou ({exc}); seguindo.")
 
     registrar_no_estado(state, idioma, canal_cfg, item, video_id,
-                        pasta_pacote, tipo)
+                        pasta_pacote, tipo, pacote_formato)
 
 
 def registrar_no_estado(state: dict, idioma: str, canal_cfg: dict, item: dict,
-                        video_id: str, pasta_pacote: Path, tipo: str) -> None:
+                        video_id: str, pasta_pacote: Path, tipo: str,
+                        formato: str = "tema") -> None:
     agora = datetime.now(timezone.utc)
     hoje = agora.date().isoformat()
     ec = estado_canal(state, idioma)
@@ -209,6 +232,7 @@ def registrar_no_estado(state: dict, idioma: str, canal_cfg: dict, item: dict,
         return
     ec["publicados"].append({
         "pacote": pasta_pacote.name, "item": item["tipo_item"],
+        "formato": formato,
         "video_id": video_id, "titulo": item["titulo"],
         "em": agora.isoformat(timespec="seconds"),
     })
@@ -304,7 +328,9 @@ def main() -> None:
                 return fabrica.montar_short(
                     pacote, idx, idioma, canal_cfg["handle"],
                     SAIDA / idioma / f"{pasta_pacote.name}-short",
-                    url_longo=longo_do_dia(ec, pasta_pacote.name),
+                    url_longo=longo_do_dia(ec, pasta_pacote.name,
+                                           pacote.get("formato", "tema"),
+                                           idioma),
                     # versão curta no Short: o bloco inteiro repetido em cada
                     # publicação deixa o canal com cara de anúncio, e descrição
                     # de Short quase não é aberta — quem converte é o longo
