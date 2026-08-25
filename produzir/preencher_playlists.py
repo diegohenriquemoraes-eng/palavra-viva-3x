@@ -111,11 +111,15 @@ def main() -> None:
                              f"esperado {canal_cfg['channel_id']}")
         print(f"\n=== {ctitulo} ({idioma}) — {len(longos)} longos ===")
 
-        # agrupa por formato preservando a ordem de publicação
+        # agrupa por formato preservando a ordem de publicação. O formato
+        # resolvido é GRAVADO no estado: as entradas anteriores a 25/08 não têm
+        # o campo, e é ele que o publicador usa para achar o último longo do
+        # mesmo formato quando o longo do dia falha (publicar.longo_do_dia).
         por_formato: dict[str, list[dict]] = {}
         for p in longos:
             f = p.get("formato") or formato_do_pacote(p["pacote"], canal_cfg,
                                                       temas)
+            p["formato"] = f
             por_formato.setdefault(f, []).append(p)
 
         for formato, videos in por_formato.items():
@@ -154,9 +158,12 @@ def main() -> None:
                     print(f"    FALHOU {v['video_id']}: {str(exc)[:100]}")
 
     if not args.dry_run:
+        STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2),
+                         encoding="utf-8")
         print(f"\n{inseridos_total} inserções "
               f"(~{50 * inseridos_total} de cota). Cache em "
-              f"{playlists.ARQUIVO.relative_to(RAIZ)}.")
+              f"{playlists.ARQUIVO.relative_to(RAIZ)}; formato dos longos "
+              f"gravado no state.json.")
 
 
 if __name__ == "__main__":

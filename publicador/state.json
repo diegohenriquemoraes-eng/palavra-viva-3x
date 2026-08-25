@@ -21,7 +21,8 @@
           "item": "longo",
           "video_id": "rUHem5ZYpIM",
           "titulo": "Salmos para Dormir en Paz — Salmo 91, 23 y 121 | Biblia Hablada Completa",
-          "em": "2026-07-19T08:41:38+00:00"
+          "em": "2026-07-19T08:41:38+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-07-19-salmos-dormir-1",
@@ -35,7 +36,8 @@
           "item": "longo",
           "video_id": "Xjd-R1LjdnU",
           "titulo": "Salmo 91 — La Oración Más Poderosa de Protección | Biblia Hablada",
-          "em": "2026-07-20T03:21:54+00:00"
+          "em": "2026-07-20T03:21:54+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-20-protecao-91",
@@ -63,7 +65,8 @@
           "item": "longo",
           "video_id": "gKkiP7IXqDc",
           "titulo": "Esfuérzate y Sé Valiente — Josué 1 e Isaías 41 | Palabra Poderosa",
-          "em": "2026-07-21T01:57:23+00:00"
+          "em": "2026-07-21T01:57:23+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-21-forca-coragem",
@@ -91,7 +94,8 @@
           "item": "longo",
           "video_id": "TtQ4qMSjje0",
           "titulo": "David y Goliat — La Historia Completa | 1 Samuel 17 Narrado",
-          "em": "2026-07-22T01:57:56+00:00"
+          "em": "2026-07-22T01:57:56+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-07-22-davi-golias",
@@ -119,7 +123,8 @@
           "item": "longo",
           "video_id": "87OyHXzfN20",
           "titulo": "El Amor de Dios — Juan 3, Romanos 8 y 1 Corintios 13 | Biblia Hablada",
-          "em": "2026-07-23T00:13:33+00:00"
+          "em": "2026-07-23T00:13:33+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-23-amor-de-deus",
@@ -147,7 +152,8 @@
           "item": "longo",
           "video_id": "0-zLBmDVsA4",
           "titulo": "No Te Afanes por Nada — Mateo 6 y Filipenses 4 | Paz para el Alma",
-          "em": "2026-07-24T01:59:09+00:00"
+          "em": "2026-07-24T01:59:09+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-24-ansiedade-descanso",
@@ -175,7 +181,8 @@
           "item": "longo",
           "video_id": "CdgPpPwHijc",
           "titulo": "La Creación del Mundo — Génesis 1 Completo | Biblia Narrada",
-          "em": "2026-07-25T02:28:58+00:00"
+          "em": "2026-07-25T02:28:58+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-07-25-genesis-criacao",
@@ -203,7 +210,8 @@
           "item": "longo",
           "video_id": "_qADSFs9yQw",
           "titulo": "Salmos para Descansar en Dios — Salmo 46, 62 y 63 | Biblia para Dormir",
-          "em": "2026-07-26T02:31:59+00:00"
+          "em": "2026-07-26T02:31:59+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-07-26-salmos-dormir-2",
@@ -231,7 +239,8 @@
           "item": "longo",
           "video_id": "4GOsWKjFlSo",
           "titulo": "Dios Provee — Salmo 34 y Filipenses 4 | Promesas de Provisión",
-          "em": "2026-07-27T02:23:37+00:00"
+          "em": "2026-07-27T02:23:37+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-27-provisao-gratidao",
@@ -252,7 +261,8 @@
           "item": "longo",
           "video_id": "Fin19GmSzAE",
           "titulo": "El Perdón de Dios — Salmo 51, 32 y el Hijo Pródigo | Biblia Hablada",
-          "em": "2026-07-28T02:20:34+00:00"
+          "em": "2026-07-28T02:20:34+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-28-perdao-restauracao",
@@ -280,7 +290,8 @@
           "item": "longo",
           "video_id": "DKV7TTgQ4AQ",
           "titulo": "Salmos de Paz para la Noche — Salmo 139, 84 y 61 | Biblia para Dormir",
-          "em": "2026-07-29T02:31:26+00:00"
+          "em": "2026-07-29T02:31:26+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-07-29-salmos-dormir-3",
@@ -308,7 +319,8 @@
           "item": "longo",
           "video_id": "rTmXqeE4awg",
           "titulo": "Noé y el Arca — La Historia Completa | Génesis 6 al 9 Narrado",
-          "em": "2026-07-30T01:37:06+00:00"
+          "em": "2026-07-30T01:37:06+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-07-30-noe-arca",
@@ -343,7 +355,8 @@
           "item": "longo",
           "video_id": "aj29-FFALgY",
           "titulo": "El Sermón del Monte — Mateo 5, 6 y 7 | Las Palabras de Jesús",
-          "em": "2026-07-31T05:42:40+00:00"
+          "em": "2026-07-31T05:42:40+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-31-sermao-montanha",
@@ -364,7 +377,8 @@
           "item": "longo",
           "video_id": "JgrfdmS6xps",
           "titulo": "Consuelo en el Dolor — Salmo 42 y Lamentaciones 3 | Palabra de Paz",
-          "em": "2026-08-01T02:13:11+00:00"
+          "em": "2026-08-01T02:13:11+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-01-esperanca-luto",
@@ -392,7 +406,8 @@
           "item": "longo",
           "video_id": "1Ru2fOLPfs4",
           "titulo": "Daniel en el Foso de los Leones — Daniel 6 y el Horno de Fuego",
-          "em": "2026-08-02T01:56:41+00:00"
+          "em": "2026-08-02T01:56:41+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-02-daniel-leoes",
@@ -420,7 +435,8 @@
           "item": "longo",
           "video_id": "YKCDFobMSCw",
           "titulo": "Salmos para Empezar el Día — Salmo 5, 100 y 118 | Oración de la Mañana",
-          "em": "2026-08-03T02:12:57+00:00"
+          "em": "2026-08-03T02:12:57+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-03-salmos-manha",
@@ -448,7 +464,8 @@
           "item": "longo",
           "video_id": "Ua6T3uKNSQ0",
           "titulo": "Salmos para Dormir — Descanso y Paz | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-04T02:15:23+00:00"
+          "em": "2026-08-04T02:15:23+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-04-salmos-dormir-4",
@@ -476,7 +493,8 @@
           "item": "longo",
           "video_id": "AwAtQLA8AAU",
           "titulo": "Salmos para Dormir — Protección de Noche | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-05T02:09:07+00:00"
+          "em": "2026-08-05T02:09:07+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-05-salmos-dormir-5",
@@ -504,7 +522,8 @@
           "item": "longo",
           "video_id": "mqkr4qHD4Ag",
           "titulo": "Salmos para Dormir — Refugio y Confianza | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-06T02:16:50+00:00"
+          "em": "2026-08-06T02:16:50+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-06-salmos-dormir-6",
@@ -532,7 +551,8 @@
           "item": "longo",
           "video_id": "G0oj0aGF4_U",
           "titulo": "Salmos para Dormir — Alabanza de la Noche | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-07T02:43:05+00:00"
+          "em": "2026-08-07T02:43:05+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-07-salmos-dormir-7",
@@ -560,7 +580,8 @@
           "item": "longo",
           "video_id": "d59qqi8NIu0",
           "titulo": "Los que Esperan en Jehova - Isaias 40 | Biblia en espanol",
-          "em": "2026-08-08T01:04:50+00:00"
+          "em": "2026-08-08T01:04:50+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-08-paciencia-espera",
@@ -588,7 +609,8 @@
           "item": "longo",
           "video_id": "H4f9r3AK3iI",
           "titulo": "Salmos para Dormir — Alivio de la Ansiedad | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-09T01:30:08+00:00"
+          "em": "2026-08-09T01:30:08+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-09-salmos-dormir-8",
@@ -616,7 +638,8 @@
           "item": "longo",
           "video_id": "3cHnAEbaypQ",
           "titulo": "Fiate de Jehova de Todo tu Corazon - Proverbios 3 | Biblia",
-          "em": "2026-08-10T01:12:04+00:00"
+          "em": "2026-08-10T01:12:04+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-10-sabedoria-proverbios",
@@ -644,7 +667,8 @@
           "item": "longo",
           "video_id": "qkiVjjYZxrI",
           "titulo": "Salmos para Dormir — El Señor es mi Luz | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-11T01:52:58+00:00"
+          "em": "2026-08-11T01:52:58+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-11-salmos-dormir-9",
@@ -672,7 +696,8 @@
           "item": "longo",
           "video_id": "cj9Q_ZathDM",
           "titulo": "Ensenanos a Orar - Lucas 11 | Biblia en espanol",
-          "em": "2026-08-12T01:23:51+00:00"
+          "em": "2026-08-12T01:23:51+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-12-oracao-perseveranca",
@@ -700,7 +725,8 @@
           "item": "longo",
           "video_id": "EroZ-OPWoo4",
           "titulo": "Salmos para Dormir — Misericordia y Perdón | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-13T01:54:38+00:00"
+          "em": "2026-08-13T01:54:38+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-13-salmos-dormir-10",
@@ -728,7 +754,8 @@
           "item": "longo",
           "video_id": "4LqQy5eKcpc",
           "titulo": "Hijos de Dios - Romanos 8 | Biblia en espanol",
-          "em": "2026-08-14T01:19:37+00:00"
+          "em": "2026-08-14T01:19:37+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-14-identidade-filhos",
@@ -756,7 +783,8 @@
           "item": "longo",
           "video_id": "ElDh8bRMqSI",
           "titulo": "Salmos para Dormir — Gratitud y Descanso | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-15T01:21:20+00:00"
+          "em": "2026-08-15T01:21:20+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-15-salmos-dormir-11",
@@ -784,7 +812,8 @@
           "item": "longo",
           "video_id": "QYxbInzq38o",
           "titulo": "Salmo 23 Completo - Jehova es mi Pastor | Biblia en espanol",
-          "em": "2026-08-16T00:50:12+00:00"
+          "em": "2026-08-16T00:50:12+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-16-salmo-23-pastor",
@@ -812,7 +841,8 @@
           "item": "longo",
           "video_id": "Vi6T_R_18lQ",
           "titulo": "Moises y el Mar Rojo - Exodo 14 | Historia biblica narrada",
-          "em": "2026-08-17T00:43:40+00:00"
+          "em": "2026-08-17T00:43:40+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-17-moises-mar-vermelho",
@@ -840,7 +870,8 @@
           "item": "longo",
           "video_id": "6IPgbt3UbTY",
           "titulo": "Salmos para Dormir — Paz Interior | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-18T01:22:24+00:00"
+          "em": "2026-08-18T01:22:24+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-18-salmos-dormir-12",
@@ -868,7 +899,8 @@
           "item": "longo",
           "video_id": "0NZCYQY_yQY",
           "titulo": "La Luz en las Tinieblas - Juan 1 | Biblia en espanol",
-          "em": "2026-08-19T00:50:41+00:00"
+          "em": "2026-08-19T00:50:41+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-19-luz-nas-trevas",
@@ -896,7 +928,8 @@
           "item": "longo",
           "video_id": "G2TWdqdjcYw",
           "titulo": "Jose y sus Hermanos - Genesis 45 | Historia biblica narrada",
-          "em": "2026-08-20T00:44:28+00:00"
+          "em": "2026-08-20T00:44:28+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-20-jose-egito",
@@ -924,7 +957,8 @@
           "item": "longo",
           "video_id": "LVAxRzLLV5I",
           "titulo": "Salmos para Dormir — Dios Nunca Duerme | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-21T01:38:25+00:00"
+          "em": "2026-08-21T01:38:25+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-21-salmos-dormir-13",
@@ -952,7 +986,8 @@
           "item": "longo",
           "video_id": "ok5AhCqqRgA",
           "titulo": "Nuevas Son Todas las Cosas - 2 Corintios 5 | Biblia en espanol",
-          "em": "2026-08-22T00:49:59+00:00"
+          "em": "2026-08-22T00:49:59+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-22-vida-nova",
@@ -980,7 +1015,8 @@
           "item": "longo",
           "video_id": "lm9gPiLVJAs",
           "titulo": "Elias en el Monte Carmelo - 1 Reyes 18 | Historia biblica",
-          "em": "2026-08-23T00:45:16+00:00"
+          "em": "2026-08-23T00:45:16+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-23-elias-carmelo",
@@ -1008,7 +1044,8 @@
           "item": "longo",
           "video_id": "XDup1qH428Y",
           "titulo": "Salmos para Dormir — Ocho Salmos de Descanso | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-24T01:17:58+00:00"
+          "em": "2026-08-24T01:17:58+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-24-salmos-dormir-14",
@@ -1036,7 +1073,8 @@
           "item": "longo",
           "video_id": "Kn0ukm28EIA",
           "titulo": "Jonás y el Gran Pez — Jonás 1 y 2 | Historia bíblica narrada",
-          "em": "2026-08-25T00:45:04+00:00"
+          "em": "2026-08-25T00:45:04+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-25-jonas-peixe",
@@ -1081,7 +1119,8 @@
           "item": "longo",
           "video_id": "O-KJQt5ra4s",
           "titulo": "Psalms for Sleep — Psalm 91, 23 & 121 | Audio Bible to Fall Asleep",
-          "em": "2026-07-19T16:00:44+00:00"
+          "em": "2026-07-19T16:00:44+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-07-19-salmos-dormir-1",
@@ -1102,7 +1141,8 @@
           "item": "longo",
           "video_id": "37ED_IKxyIw",
           "titulo": "Psalm 91 — God's Powerful Promises of Protection | Audio Bible",
-          "em": "2026-07-20T03:32:28+00:00"
+          "em": "2026-07-20T03:32:28+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-20-protecao-91",
@@ -1123,7 +1163,8 @@
           "item": "longo",
           "video_id": "cnDrL6Bl92k",
           "titulo": "Be Strong and Courageous — Joshua 1 & Isaiah 41 | Audio Bible",
-          "em": "2026-07-21T02:08:19+00:00"
+          "em": "2026-07-21T02:08:19+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-21-forca-coragem",
@@ -1151,7 +1192,8 @@
           "item": "longo",
           "video_id": "XNw0Glha7Y8",
           "titulo": "David and Goliath — The Complete Bible Story | 1 Samuel 17",
-          "em": "2026-07-22T02:10:09+00:00"
+          "em": "2026-07-22T02:10:09+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-07-22-davi-golias",
@@ -1179,7 +1221,8 @@
           "item": "longo",
           "video_id": "UbSSV2eoE6c",
           "titulo": "The Love of God — John 3, Romans 8 & 1 Corinthians 13 | Audio Bible",
-          "em": "2026-07-23T04:21:44+00:00"
+          "em": "2026-07-23T04:21:44+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-23-amor-de-deus",
@@ -1207,7 +1250,8 @@
           "item": "longo",
           "video_id": "AbEZwX4CzQ4",
           "titulo": "Do Not Be Anxious — Matthew 6 & Philippians 4 | Bible for Peace",
-          "em": "2026-07-24T02:09:17+00:00"
+          "em": "2026-07-24T02:09:17+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-24-ansiedade-descanso",
@@ -1228,7 +1272,8 @@
           "item": "longo",
           "video_id": "TOK-vygMoEc",
           "titulo": "The Creation of the World — Genesis 1 Complete | Audio Bible",
-          "em": "2026-07-25T02:33:04+00:00"
+          "em": "2026-07-25T02:33:04+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-07-25-genesis-criacao",
@@ -1256,7 +1301,8 @@
           "item": "longo",
           "video_id": "B5P9pEjfAJw",
           "titulo": "Psalms to Rest in God — Psalm 46, 62 & 63 | Bible for Sleep",
-          "em": "2026-07-26T03:09:33+00:00"
+          "em": "2026-07-26T03:09:33+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-07-26-salmos-dormir-2",
@@ -1284,7 +1330,8 @@
           "item": "longo",
           "video_id": "YaBoc-eSvjU",
           "titulo": "God Provides — Psalm 34 & Philippians 4 | Promises of Provision",
-          "em": "2026-07-27T02:41:47+00:00"
+          "em": "2026-07-27T02:41:47+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-27-provisao-gratidao",
@@ -1315,7 +1362,8 @@
           "item": "longo",
           "video_id": "DjPNVP89TWc",
           "titulo": "Esforça-te e Tem Bom Ânimo — Josué 1 e Isaías 41 | Palavra Poderosa",
-          "em": "2026-07-21T05:13:03+00:00"
+          "em": "2026-07-21T05:13:03+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-21-forca-coragem",
@@ -1343,7 +1391,8 @@
           "item": "longo",
           "video_id": "UPtWyywV4OQ",
           "titulo": "Davi e Golias — A História Completa | 1 Samuel 17 Narrado",
-          "em": "2026-07-22T05:13:21+00:00"
+          "em": "2026-07-22T05:13:21+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-07-22-davi-golias",
@@ -1364,7 +1413,8 @@
           "item": "longo",
           "video_id": "NdUMX0MS5dY",
           "titulo": "O Amor de Deus — João 3, Romanos 8 e 1 Coríntios 13 | Bíblia Narrada",
-          "em": "2026-07-23T04:34:02+00:00"
+          "em": "2026-07-23T04:34:02+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-23-amor-de-deus",
@@ -1392,7 +1442,8 @@
           "item": "longo",
           "video_id": "_UxJ3g4ocDE",
           "titulo": "Não Andeis Ansiosos — Mateus 6 e Filipenses 4 | Paz para a Alma",
-          "em": "2026-07-24T05:30:05+00:00"
+          "em": "2026-07-24T05:30:05+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-24-ansiedade-descanso",
@@ -1413,7 +1464,8 @@
           "item": "longo",
           "video_id": "q0Ic3f6p31s",
           "titulo": "A Criação do Mundo — Gênesis 1 Completo | Bíblia Narrada",
-          "em": "2026-07-25T02:36:57+00:00"
+          "em": "2026-07-25T02:36:57+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-07-25-genesis-criacao",
@@ -1441,7 +1493,8 @@
           "item": "longo",
           "video_id": "chOevaKnC1o",
           "titulo": "Salmos para Descansar em Deus — Salmo 46, 62 e 63 | Bíblia para Dormir",
-          "em": "2026-07-26T05:58:33+00:00"
+          "em": "2026-07-26T05:58:33+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-07-26-salmos-dormir-2",
@@ -1469,7 +1522,8 @@
           "item": "longo",
           "video_id": "5aT0o986DIs",
           "titulo": "Deus Provê — Salmo 34 e Filipenses 4 | Promessas de Provisão",
-          "em": "2026-07-27T06:08:24+00:00"
+          "em": "2026-07-27T06:08:24+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-27-provisao-gratidao",
@@ -1497,7 +1551,8 @@
           "item": "longo",
           "video_id": "nYynmLfORZg",
           "titulo": "O Perdão de Deus — Salmo 51, 32 e o Filho Pródigo | Bíblia Narrada",
-          "em": "2026-07-28T05:23:05+00:00"
+          "em": "2026-07-28T05:23:05+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-28-perdao-restauracao",
@@ -1518,7 +1573,8 @@
           "item": "longo",
           "video_id": "KGW8XfQYN_4",
           "titulo": "Salmos de Paz para a Noite — Salmo 139, 84 e 61 | Bíblia para Dormir",
-          "em": "2026-07-29T05:42:32+00:00"
+          "em": "2026-07-29T05:42:32+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-07-29-salmos-dormir-3",
@@ -1546,7 +1602,8 @@
           "item": "longo",
           "video_id": "SCzvCcuvH-k",
           "titulo": "Noé e a Arca — A História Completa | Gênesis 6 a 9 Narrado",
-          "em": "2026-07-30T05:01:00+00:00"
+          "em": "2026-07-30T05:01:00+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-07-30-noe-arca",
@@ -1574,7 +1631,8 @@
           "item": "longo",
           "video_id": "ICt5RIaX8Sk",
           "titulo": "O Sermão da Montanha — Mateus 5, 6 e 7 | As Palavras de Jesus",
-          "em": "2026-07-31T05:57:38+00:00"
+          "em": "2026-07-31T05:57:38+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-07-31-sermao-montanha",
@@ -1602,7 +1660,8 @@
           "item": "longo",
           "video_id": "HBEGm2dDK30",
           "titulo": "Consolo na Dor — Salmo 42 e Lamentações 3 | Palavra de Paz",
-          "em": "2026-08-01T05:35:26+00:00"
+          "em": "2026-08-01T05:35:26+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-01-esperanca-luto",
@@ -1630,7 +1689,8 @@
           "item": "longo",
           "video_id": "qx--V3FMrhI",
           "titulo": "Daniel na Cova dos Leões — Daniel 6 e a Fornalha de Fogo",
-          "em": "2026-08-02T05:27:05+00:00"
+          "em": "2026-08-02T05:27:05+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-02-daniel-leoes",
@@ -1665,7 +1725,8 @@
           "item": "longo",
           "video_id": "0HHmCC42QWM",
           "titulo": "Salmos para Começar o Dia — Salmo 5, 100 e 118 | Oração da Manhã",
-          "em": "2026-08-03T09:40:29+00:00"
+          "em": "2026-08-03T09:40:29+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-03-salmos-manha",
@@ -1686,7 +1747,8 @@
           "item": "longo",
           "video_id": "CqEXKlvpuOA",
           "titulo": "Salmos para Dormir — Descanso e Paz | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-04T05:27:55+00:00"
+          "em": "2026-08-04T05:27:55+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-04-salmos-dormir-4",
@@ -1714,7 +1776,8 @@
           "item": "longo",
           "video_id": "zTAwGoA8uEA",
           "titulo": "Salmos para Dormir — Proteção à Noite | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-05T05:31:36+00:00"
+          "em": "2026-08-05T05:31:36+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-05-salmos-dormir-5",
@@ -1742,7 +1805,8 @@
           "item": "longo",
           "video_id": "bQ4wg7NGn1s",
           "titulo": "Salmos para Dormir — Refúgio e Confiança | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-06T05:33:23+00:00"
+          "em": "2026-08-06T05:33:23+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-06-salmos-dormir-6",
@@ -1770,7 +1834,8 @@
           "item": "longo",
           "video_id": "unZpuA8Ewms",
           "titulo": "Salmos para Dormir — Louvor da Noite | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-07T03:14:42+00:00"
+          "em": "2026-08-07T03:14:42+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-07-salmos-dormir-7",
@@ -1798,7 +1863,8 @@
           "item": "longo",
           "video_id": "QmZVlKGRF24",
           "titulo": "Os que Esperam no Senhor - Isaias 40 | Biblia narrada",
-          "em": "2026-08-08T03:00:54+00:00"
+          "em": "2026-08-08T03:00:54+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-08-paciencia-espera",
@@ -1826,7 +1892,8 @@
           "item": "longo",
           "video_id": "r4gG05MVmQo",
           "titulo": "Salmos para Dormir — Alívio da Ansiedade | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-09T03:28:18+00:00"
+          "em": "2026-08-09T03:28:18+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-09-salmos-dormir-8",
@@ -1854,7 +1921,8 @@
           "item": "longo",
           "video_id": "bnNv1ZQWzNo",
           "titulo": "Confia no Senhor de Todo o teu Coracao - Proverbios 3 | Biblia",
-          "em": "2026-08-10T03:22:14+00:00"
+          "em": "2026-08-10T03:22:14+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-10-sabedoria-proverbios",
@@ -1882,7 +1950,8 @@
           "item": "longo",
           "video_id": "0jPFUKkx5e8",
           "titulo": "Salmos para Dormir — O Senhor é Minha Luz | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-11T03:52:40+00:00"
+          "em": "2026-08-11T03:52:40+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-11-salmos-dormir-9",
@@ -1910,7 +1979,8 @@
           "item": "longo",
           "video_id": "uWjuzeqv150",
           "titulo": "Ensina-nos a Orar - Lucas 11 | Biblia narrada",
-          "em": "2026-08-12T04:09:58+00:00"
+          "em": "2026-08-12T04:09:58+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-12-oracao-perseveranca",
@@ -1938,7 +2008,8 @@
           "item": "longo",
           "video_id": "lIaGRfQUbx4",
           "titulo": "Salmos para Dormir — Misericórdia e Perdão | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-13T04:34:28+00:00"
+          "em": "2026-08-13T04:34:28+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-13-salmos-dormir-10",
@@ -1966,7 +2037,8 @@
           "item": "longo",
           "video_id": "9-0E6UZHqDM",
           "titulo": "Filhos de Deus - Romanos 8 | Biblia narrada",
-          "em": "2026-08-14T04:14:26+00:00"
+          "em": "2026-08-14T04:14:26+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-14-identidade-filhos",
@@ -1994,7 +2066,8 @@
           "item": "longo",
           "video_id": "8P21LfJV5XY",
           "titulo": "Salmos para Dormir — Gratidão e Descanso | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-15T02:49:56+00:00"
+          "em": "2026-08-15T02:49:56+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-15-salmos-dormir-11",
@@ -2022,7 +2095,8 @@
           "item": "longo",
           "video_id": "0BODiyDf_cI",
           "titulo": "Salmo 23 Completo - O Senhor e o meu Pastor | Biblia narrada",
-          "em": "2026-08-16T02:24:17+00:00"
+          "em": "2026-08-16T02:24:17+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-16-salmo-23-pastor",
@@ -2043,7 +2117,8 @@
           "item": "longo",
           "video_id": "6jMaUVN4bL8",
           "titulo": "Moises e o Mar Vermelho - Exodo 14 | Historia biblica narrada",
-          "em": "2026-08-17T02:19:20+00:00"
+          "em": "2026-08-17T02:19:20+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-18-salmos-dormir-12",
@@ -2057,7 +2132,8 @@
           "item": "longo",
           "video_id": "hH1Ih5Mva98",
           "titulo": "Salmos para Dormir — Paz Interior | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-18T02:55:05+00:00"
+          "em": "2026-08-18T02:55:05+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-19-luz-nas-trevas",
@@ -2071,7 +2147,8 @@
           "item": "longo",
           "video_id": "BVP2GlVDjgY",
           "titulo": "A Luz nas Trevas - Joao 1 | Biblia narrada",
-          "em": "2026-08-19T02:33:12+00:00"
+          "em": "2026-08-19T02:33:12+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-20-jose-egito",
@@ -2085,7 +2162,8 @@
           "item": "longo",
           "video_id": "ixNQZZGhkVs",
           "titulo": "Jose e seus Irmaos - Genesis 45 | Historia biblica narrada",
-          "em": "2026-08-20T02:13:49+00:00"
+          "em": "2026-08-20T02:13:49+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-21-salmos-dormir-13",
@@ -2099,7 +2177,8 @@
           "item": "longo",
           "video_id": "Yu54rZMqTBU",
           "titulo": "Salmos para Dormir — Deus Nunca Dorme | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-21T02:56:22+00:00"
+          "em": "2026-08-21T02:56:22+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-22-vida-nova",
@@ -2113,7 +2192,8 @@
           "item": "longo",
           "video_id": "N7gJflYn31Q",
           "titulo": "Todas as Coisas se Fizeram Novas - 2 Corintios 5 | Biblia narrada",
-          "em": "2026-08-22T02:22:41+00:00"
+          "em": "2026-08-22T02:22:41+00:00",
+          "formato": "tema"
         },
         {
           "pacote": "2026-08-23-elias-carmelo",
@@ -2127,7 +2207,8 @@
           "item": "longo",
           "video_id": "szUXgOEh4Uk",
           "titulo": "Elias no Monte Carmelo - 1 Reis 18 | Historia biblica",
-          "em": "2026-08-23T02:23:11+00:00"
+          "em": "2026-08-23T02:23:11+00:00",
+          "formato": "historia"
         },
         {
           "pacote": "2026-08-24-salmos-dormir-14",
@@ -2141,7 +2222,8 @@
           "item": "longo",
           "video_id": "0aPCt2kDqTY",
           "titulo": "Salmos para Dormir — Oito Salmos de Descanso | Bíblia Narrada com Voz Calma",
-          "em": "2026-08-24T02:56:36+00:00"
+          "em": "2026-08-24T02:56:36+00:00",
+          "formato": "dormir"
         },
         {
           "pacote": "2026-08-25-jonas-peixe",
@@ -2155,7 +2237,8 @@
           "item": "longo",
           "video_id": "wC7FGfDBDAI",
           "titulo": "Jonas e o Grande Peixe — Jonas 1 e 2 | História bíblica narrada",
-          "em": "2026-08-25T02:19:39+00:00"
+          "em": "2026-08-25T02:19:39+00:00",
+          "formato": "historia"
         }
       ],
       "ultimo_short": "2026-08-25T00:46:38+00:00",
