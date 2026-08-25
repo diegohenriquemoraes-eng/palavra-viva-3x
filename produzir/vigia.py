@@ -93,7 +93,15 @@ def main() -> None:
         horas = (agora - ultima).total_seconds() / 3600
         # canal de 1 Short/dia (Protocolo Fantasma) passa ~24h entre
         # publicações por desenho: 14h ali é alarme falso todo santo dia.
-        limite = LIMITE_MUDO_H if canal.get("shorts_por_dia", 3) >= 3 else 30
+        #
+        # Conta os LONGOS junto (25/08/2026): o ES caiu para 2 Shorts/dia mas
+        # subiu para 2 longos, ou seja, publica 4 vezes ao dia — olhar só os
+        # Shorts jogaria o limite dele para 30h e o canal poderia passar mais de
+        # um dia mudo sem ninguém saber.
+        itens_dia = canal.get("shorts_por_dia", 3)
+        if canal.get("hora_longo_utc") is not None:
+            itens_dia += canal.get("longos_por_dia", 1)
+        limite = LIMITE_MUDO_H if itens_dia >= 3 else 30
         if horas > limite:
             alarmes.append(
                 f"- **{canal['titulo_canal']}** ({idioma}): sem publicar há "

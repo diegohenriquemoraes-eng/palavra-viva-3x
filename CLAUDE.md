@@ -222,8 +222,13 @@ Decisões que saíram disso, todas no ar:
    FATOS do próprio salmo: quantos versículos tem, o que diz a inscrição, como
    começa. Não interpreta (diretriz nº 4) e **não afirma autoria** — a inscrição
    é citada como inscrição ("leva por inscrição: Salmo de Davi"), nunca como
-   autoria, que é disputada. 40 temas gerados de uma vez; o poço foi de 18 para
-   58 livres.
+   autoria, que é disputada. Os 55 salmos que ainda não eram tema viraram tema:
+   o poço foi de 18 para **70 livres** (~35 dias a 2/dia).
+   ⚠ A **capa** desses temas leva uma CITAÇÃO do salmo no subtítulo, não "Salmo
+   N completo". A primeira versão repetia o título e as 55 capas ficavam
+   idênticas mudando só o número — sem motivo para clicar e com a cara de
+   produção em massa que a análise de monetização procura. Conferido na capa
+   renderizada, inclusive no subtítulo mais longo.
 4. **Régua automática**: `medir_horas.py` roda junto do medir diário e compara
    com `conteudo/baseline_funil_horas.json` (a foto de 25/08, antes da mudança).
    Os tokens de Analytics viraram secrets (`YT_TOKEN_ANALYTICS_*`) — antes só
@@ -238,6 +243,13 @@ longo/dia e o projeto vira ativo dormente, sem mais horas humanas. E vale dizer
 o desconfortável: **mesmo dando certo, isto é um projeto de algumas centenas de
 reais por mês**. Ele se justifica por rodar sozinho e por ser uma opção, não por
 ser renda.
+
+**Pendência do Diego (única coisa que não é custo zero para mim):** uma oferta
+de afiliado em ESPANHOL alinhada ao público (Bíblia, devocional, quadro). Hoje
+o ES só tem o curso de piano, e ele fica no longo. O maior mercado do canal são
+os **EUA** (público hispânico) — o caminho natural é Amazon Associates US com
+OneLink, que só o Diego pode abrir. Enquanto não houver, o Short segue sem
+oferta: link descasado derruba retenção e no feed a descrição nem é aberta.
 
 O que eu NÃO faria e por quê: abrir o canal `sabiduria` agora (o problema não é
 falta de canal, é falta de views de longo, e canal novo divide o único recurso
