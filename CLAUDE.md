@@ -244,12 +244,26 @@ o desconfortável: **mesmo dando certo, isto é um projeto de algumas centenas d
 reais por mês**. Ele se justifica por rodar sozinho e por ser uma opção, não por
 ser renda.
 
-**Pendência do Diego (única coisa que não é custo zero para mim):** uma oferta
-de afiliado em ESPANHOL alinhada ao público (Bíblia, devocional, quadro). Hoje
-o ES só tem o curso de piano, e ele fica no longo. O maior mercado do canal são
-os **EUA** (público hispânico) — o caminho natural é Amazon Associates US com
-OneLink, que só o Diego pode abrir. Enquanto não houver, o Short segue sem
-oferta: link descasado derruba retenção e no feed a descrição nem é aberta.
+**A oferta em espanhol deixou de ser pendência em 25/08** — e é PRODUTO PRÓPRIO,
+não afiliado. Dois e-books de US$ 4,90 na Hotmart, feitos no projeto
+`Desktop\Projetos\Productos-Canales`, com KYC aprovado e checkout testado:
+
+| Canal | Produto | ID | Hotlink |
+|---|---|---|---|
+| `es` | 30 Noches con la Palabra | 8389798 | `pay.hotmart.com/X107325587N` |
+| `stoic` | 30 Noches Estoicas | 8389879 | `pay.hotmart.com/O107325775B` |
+
+- No ES o devocional entra **acima** do piano (que continua como segunda oferta
+  por ser o produto mais quente do nicho no marketplace), e o **Short voltou a
+  ter oferta**: o piano tinha saído de lá em 28/07 por ser descasado do público,
+  e o devocional é do mesmo público do vídeo — era exatamente o critério que
+  faltava.
+- Todo link leva `?src=` por origem (`yt_largo_es`, `yt_short_es`,
+  `yt_largo_stoic`, `yt_short_stoic`): é o rastreador nativo da Hotmart e é o
+  que vai dizer se o Short converte.
+- ⚠ **Nunca escrever "link de afiliado" nesses blocos** — o produto é do Diego;
+  a frase de divulgação de afiliado só vale para o piano.
+- O acervo antigo recebe o link pelo workflow Realinhar (07:10 UTC, 10/dia).
 
 O que eu NÃO faria e por quê: abrir o canal `sabiduria` agora (o problema não é
 falta de canal, é falta de views de longo, e canal novo divide o único recurso
