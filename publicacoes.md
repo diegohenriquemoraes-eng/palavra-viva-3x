@@ -2838,3 +2838,19 @@
 - Item: short-3 — Meditaciones 8:16
 - Duração: 28.5s
 - Publicado em: 2026-08-24T18:27:53+00:00
+
+## [es] Kn0ukm28EIA — Jonás y el Gran Pez — Jonás 1 y 2 | Historia bíblica narrada
+
+- URL: https://youtu.be/Kn0ukm28EIA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Jonás 1:1-16, Jonás 2:1-10
+- Duração: 355.1s
+- Publicado em: 2026-08-25T00:45:04+00:00
+
+## [pt] Pr1_A7KpDqo — Jonas 1 — Levantou-se para fugir para Társis | História bíblica
+
+- URL: https://youtu.be/Pr1_A7KpDqo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Jonas 1:3
+- Duração: 26.7s
+- Publicado em: 2026-08-25T00:46:38+00:00
