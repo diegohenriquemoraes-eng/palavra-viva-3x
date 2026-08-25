@@ -180,6 +180,32 @@ def abertura(idioma: str, salmo: int, versos: list, insc: str) -> str:
     return " ".join(partes)
 
 
+MAX_SUB = 34   # cabe na área escurecida da capa (Montserrat-Bold 46 px)
+
+
+def subtitulo(idioma: str, versos: list, n_versos: int) -> str:
+    """Linha de baixo da capa: uma CITAÇÃO curta do próprio salmo.
+
+    Antes era "Salmo N completo", que só repetia o título e deixava as 40 capas
+    novas idênticas — mudando o número e mais nada. Isso é ruim duas vezes: não
+    dá motivo nenhum para clicar e é a impressão digital de conteúdo produzido
+    em massa, que é justamente o que a análise de monetização procura. A frase
+    de abertura varia em cada salmo e é o texto bíblico, não comentário nosso.
+    """
+    palavras = _aparar(versos[0][1].split())
+    trecho = ""
+    for p in palavras:
+        cand = f"{trecho} {p}".strip()
+        if len(cand) > MAX_SUB:
+            break
+        trecho = cand
+    trecho = " ".join(_aparar(trecho.split())).rstrip(",;:.")
+    if len(trecho) < 12:   # verso de abertura curto demais para virar chamada
+        rot = {"es": "versículos", "en": "verses", "pt": "versículos"}[idioma]
+        return f"{n_versos} {rot}"
+    return f"“{trecho}...”"
+
+
 def titulo_short(idioma: str, salmo: int, verso: int, texto: str) -> str:
     rot = {"es": "Salmo", "en": "Psalm", "pt": "Salmo"}[idioma]
     marca = {"es": "Biblia", "en": "Bible", "pt": "Bíblia"}[idioma]
@@ -252,9 +278,8 @@ def montar_tema(salmo: int, idx: int) -> dict:
             "titulo": titulo,
             "thumb_titulo": {"es": f"SALMO {salmo}", "en": f"PSALM {salmo}",
                              "pt": f"SALMO {salmo}"},
-            "thumb_sub": {"es": f"Salmo {salmo} completo",
-                          "en": f"Psalm {salmo} in full",
-                          "pt": f"Salmo {salmo} completo"},
+            "thumb_sub": {i: subtitulo(i, versos[i], n_versos)
+                          for i in IDIOMAS_TEMA},
             "consultas_imagens": CONSULTAS[idx % len(CONSULTAS)],
             "abertura": {i: abertura(i, salmo, versos[i], insc[i])
                          for i in ("es", "pt")},
