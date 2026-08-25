@@ -1,0 +1,168 @@
+{
+  "slug": "a-quien-quieres-gustar",
+  "formato": "tema",
+  "data": "2026-08-27",
+  "criado_em": "2026-08-25T01:54:12+00:00",
+  "aprovado_em": "2026-08-25T01:54:12+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 6:39-60"
+    ],
+    "titulo": {
+      "stoic": "Marco Aurelio: Deja de Buscar Aprobación | Meditaciones VI"
+    },
+    "thumb_titulo": {
+      "stoic": "DEJA DE BUSCAR APROBACIÓN"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VI"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Dark_Forest_%2855574920%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Vad 7",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_Forest_(55574920).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alton_Towers_Dark_Forest_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Jeremy Thompson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Alton_Towers_Dark_Forest_entrance.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ergaki%2C_Taiga_in_Siberia%2C_Dark_coniferous_forest%2C_Sayan_Mountains%2C_Russia.jpg/1920px-Ergaki%2C_Taiga_in_Siberia%2C_Dark_coniferous_forest%2C_Sayan_Mountains%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ergaki,_Taiga_in_Siberia,_Dark_coniferous_forest,_Sayan_Mountains,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Dark_Forest_%2892592917%29.jpeg/1920px-Dark_Forest_%2892592917%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vad 7",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_Forest_(92592917).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_dark_and_light.jpg/1920px-Forest_dark_and_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Will Aelethrune",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_and_light.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dusk_Sky_%289825349336%29.jpg/1920px-Dusk_Sky_%289825349336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky_(9825349336).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dusk_Sky.jpg/1920px-Dusk_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Busan_fishing_harbor_at_night_2.jpg/1920px-Busan_fishing_harbor_at_night_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Busan_fishing_harbor_at_night_20.jpg/1920px-Busan_fishing_harbor_at_night_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_20.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Busan_fishing_harbor_at_night_12.jpg/1920px-Busan_fishing_harbor_at_night_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_12.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Busan_fishing_harbor_at_night_19.jpg/1920px-Busan_fishing_harbor_at_night_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_19.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 6:77",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Piensa a quién quieres agradar"
+      },
+      "aplicacao": "Haz la lista de las personas cuya opinión te quita el sueño. Casi ninguna estará ahí en diez años.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Busan_fishing_harbor_at_night_10.jpg/1920px-Busan_fishing_harbor_at_night_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_10.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 3:16",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El elogio de quien no se soporta a sí mismo"
+      },
+      "aplicacao": "Quien no se aguanta a sí mismo tampoco sabe elogiar. No cuelgues tu ánimo de ahí.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "John Bauer",
+        "origem": "https://commons.wikimedia.org/wiki/File:John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 11:27",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Los que hoy se desprecian, mañana se halagan"
+      },
+      "aplicacao": "La opinión de la gente cambia de bando sin avisar. No la uses de suelo.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dusk_Sky_%289825349336%29.jpg/1920px-Dusk_Sky_%289825349336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky_(9825349336).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 11:55",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Los que dan la sombra y se sientan al sol"
+      },
+      "aplicacao": "Quien de verdad vale no necesita el mejor asiento para saber lo que vale.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

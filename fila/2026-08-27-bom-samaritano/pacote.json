@@ -1,0 +1,199 @@
+{
+  "slug": "bom-samaritano",
+  "formato": "historia",
+  "data": "2026-08-27",
+  "criado_em": "2026-08-25T01:53:48+00:00",
+  "aprovado_em": "2026-08-25T01:53:48+00:00",
+  "longo": {
+    "refs": [
+      "Luke 10:25-37"
+    ],
+    "titulo": {
+      "es": "El Buen Samaritano — Lucas 10 | Historia bíblica narrada",
+      "en": "The Good Samaritan — Luke 10 | Bible Story",
+      "pt": "O Bom Samaritano — Lucas 10 | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "EL BUEN SAMARITANO",
+      "en": "THE GOOD SAMARITAN",
+      "pt": "O BOM SAMARITANO"
+    },
+    "thumb_sub": {
+      "es": "Lucas 10",
+      "en": "Luke 10",
+      "pt": "Lucas 10"
+    },
+    "abertura": {
+      "es": "Lucas, capítulo diez. Un intérprete de la ley hace una pregunta, y de la respuesta nace uno de los relatos más conocidos del Evangelio: el camino de Jerusalén a Jericó, el hombre herido, el sacerdote y el levita que pasaron de largo, y el samaritano que se detuvo. El texto anota los detalles del cuidado: el aceite, el vino, la bestia, el mesón y los dos denarios. Escucha el pasaje completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Lucas, capítulo dez. Um intérprete da lei faz uma pergunta, e da resposta nasce um dos relatos mais conhecidos do Evangelho: o caminho de Jerusalém a Jericó, o homem ferido, o sacerdote e o levita que passaram de largo, e o samaritano que parou. O texto anota os detalhes do cuidado: o azeite, o vinho, o animal, a hospedaria e os dois denários. Ouça a passagem completa, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "el buen samaritano",
+        "lucas 10",
+        "parabola del samaritano",
+        "historia biblica",
+        "quien es mi projimo",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "o bom samaritano",
+        "lucas 10",
+        "parabola do samaritano",
+        "historia biblica",
+        "quem e o meu proximo",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Lucas 10:25-37: el camino a Jericó, el sacerdote, el levita y el samaritano que se detuvo. Narración completa y pausada, Reina-Valera 1909.",
+      "pt": "Lucas 10:25-37: o caminho para Jericó, o sacerdote, o levita e o samaritano que parou. Narração completa e pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Road_to_Horizon_%2823866694558%29.jpg/1920px-Road_to_Horizon_%2823866694558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sonse",
+        "origem": "https://commons.wikimedia.org/wiki/File:Road_to_Horizon_(23866694558).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Desert_View_Watchtower_-_Episode_5_-_Grand_Canyon_in_Depth_%2821090890744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Grand Canyon NPS",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_View_Watchtower_-_Episode_5_-_Grand_Canyon_in_Depth_(21090890744).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Grand_Canyon_History_Symposium_Desert_View_Watchtower.jpg/1920px-Grand_Canyon_History_Symposium_Desert_View_Watchtower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Grand Canyon National Park",
+        "origem": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_History_Symposium_Desert_View_Watchtower.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Desert_view_Grand_Canyon._%289545744244%29.jpg/1920px-Desert_view_Grand_Canyon._%289545744244%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bernard Spragg. NZ from Christchurch, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_view_Grand_Canyon._(9545744244).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Grand_Canyon_National_Park-_Desert_View_Point_and_Watchtower.jpg/1920px-Grand_Canyon_National_Park-_Desert_View_Point_and_Watchtower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Grand Canyon NPS",
+        "origem": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_National_Park-_Desert_View_Point_and_Watchtower.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Desert_View_Grand_Canyon_6_%2815546179002%29.jpg/1920px-Desert_View_Grand_Canyon_6_%2815546179002%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Tony Hisgett from Birmingham, UK",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_View_Grand_Canyon_6_(15546179002).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p02.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2122_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p01.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Luke 10:29",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Lucas 10 — ¿Y quién es mi prójimo? | Historia bíblica",
+        "en": "Luke 10 — And Who Is My Neighbour? | Bible Story",
+        "pt": "Lucas 10 — E quem é o meu próximo? | História bíblica"
+      },
+      "aplicacao": {
+        "es": "La pregunta abre la parábola: todo lo que sigue es la respuesta.",
+        "pt": "A pergunta abre a parábola: tudo o que vem depois é a resposta."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Road_to_Horizon_%2823866694558%29.jpg/1920px-Road_to_Horizon_%2823866694558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sonse",
+        "origem": "https://commons.wikimedia.org/wiki/File:Road_to_Horizon_(23866694558).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Luke 10:31-32",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Lucas 10 — Pasó de largo | Historia bíblica",
+        "en": "Luke 10 — He Passed By on the Other Side | Bible Story",
+        "pt": "Lucas 10 — Passou de largo | História bíblica"
+      },
+      "aplicacao": {
+        "es": "El relato repite la misma frase para los dos que pasaron.",
+        "pt": "O relato repete a mesma frase para os dois que passaram."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Grand_Canyon_Nat._Park%3B_Desert_View_Point_Refurbishing_1587_%287498728150%29.jpg/1920px-Grand_Canyon_Nat._Park%3B_Desert_View_Point_Refurbishing_1587_%287498728150%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Grand Canyon National Park",
+        "origem": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Nat._Park;_Desert_View_Point_Refurbishing_1587_(7498728150).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Luke 10:33-34",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Lucas 10 — Vendó sus heridas | Historia bíblica",
+        "en": "Luke 10 — He Bound Up His Wounds | Bible Story",
+        "pt": "Lucas 10 — Atou-lhe as feridas | História bíblica"
+      },
+      "aplicacao": {
+        "es": "El texto enumera el cuidado paso a paso: aceite, vino, bestia y mesón.",
+        "pt": "O texto enumera o cuidado passo a passo: azeite, vinho, animal e hospedaria."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p03.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p03.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Luke 10:36-37",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Lucas 10 — Ve, y haz tú lo mismo | Historia bíblica",
+        "en": "Luke 10 — Go, and Do Thou Likewise | Bible Story",
+        "pt": "Lucas 10 — Vai, e faze da mesma maneira | História bíblica"
+      },
+      "aplicacao": {
+        "es": "Jesús invierte la pregunta: no quién es mi prójimo, sino de quién fui prójimo.",
+        "pt": "Jesus inverte a pergunta: não quem é meu próximo, mas de quem fui próximo."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Road_to_Horizon_%2823866694558%29.jpg/1920px-Road_to_Horizon_%2823866694558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sonse",
+        "origem": "https://commons.wikimedia.org/wiki/File:Road_to_Horizon_(23866694558).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
