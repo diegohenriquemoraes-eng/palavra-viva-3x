@@ -1,0 +1,219 @@
+{
+  "slug": "salmos-dormir-18",
+  "formato": "dormir",
+  "data": "2026-08-27",
+  "criado_em": "2026-08-25T21:01:03+00:00",
+  "aprovado_em": "2026-08-25T21:01:03+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 8",
+      "Psalms 29",
+      "Psalms 93"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — Salmo 8, 29 y 93 | Biblia Hablada Completa",
+      "en": "Psalms for Sleep — Psalm 8, 29 and 93 | Full Audio Bible",
+      "pt": "Salmos para Dormir — Salmo 8, 29 e 93 | Bíblia Falada Completa"
+    },
+    "thumb_titulo": {
+      "es": "SALMOS PARA DORMIR",
+      "en": "PSALMS FOR SLEEP",
+      "pt": "SALMOS PARA DORMIR"
+    },
+    "thumb_sub": {
+      "es": "Salmo 8, 29 y 93",
+      "en": "Psalm 8, 29 and 93",
+      "pt": "Salmo 8, 29 e 93"
+    },
+    "abertura": {
+      "es": "Salmos ocho, veintinueve y noventa y tres, completos. Tres salmos de contemplación: el que mira los cielos y pregunta qué es el hombre; el que oye la voz de Jehová sobre las aguas y termina bendiciendo con paz; y el que declara que el trono está firme desde la eternidad. Léelos despacio, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Salmos oito, vinte e nove e noventa e três, completos. Três salmos de contemplação: o que olha os céus e pergunta o que é o homem; o que ouve a voz do Senhor sobre as águas e termina abençoando com paz; e o que declara que o trono está firme desde a eternidade. Ouça sem pressa, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "salmo 8",
+        "salmo 29",
+        "salmo 93",
+        "salmos para dormir",
+        "biblia hablada para dormir",
+        "salmos de contemplacion"
+      ],
+      "pt": [
+        "salmo 8",
+        "salmo 29",
+        "salmo 93",
+        "salmos para dormir",
+        "biblia narrada para dormir",
+        "salmos de contemplacao"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos 8, 29 y 93 completos: los cielos obra de tus dedos, la voz de Jehová sobre las aguas y el trono firme. Narración pausada para dormir, Reina-Valera 1909.",
+      "pt": "Salmos 8, 29 e 93 completos: os céus obra dos teus dedos, a voz do Senhor sobre as águas e o trono firme. Narração pausada para dormir, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stars_Gather_in_%27Downtown%27_Milky_Way.jpg/1920px-Stars_Gather_in_%27Downtown%27_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stars_Gather_in_%27Downtown%27_Milky_Way.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/1920px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/ESA/CXC/STScI",
+        "origem": "https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg/1920px-5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Brainandforce",
+        "origem": "https://commons.wikimedia.org/wiki/File:5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Moon_and_clouds_over_Brofjorden_4.jpg/1920px-Moon_and_clouds_over_Brofjorden_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Moon_and_clouds%2C_2021-11-18%2C_01.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Moon_and_clouds%2C_2021-11-18%2C_02.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_02.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 8:3-4",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 8 — Cuando veo tus cielos, obra de tus dedos | Biblia",
+        "en": "Psalm 8 — When I Consider Thy Heavens | Bible",
+        "pt": "Salmo 8 — Quando vejo os teus céus, obra dos teus dedos | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El salmo llama a los cielos obra de los dedos, no de las manos.",
+        "pt": "O salmo chama os céus de obra dos dedos, não das mãos."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 29:11",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 29 — Jehová bendecirá a su pueblo con paz | Biblia",
+        "en": "Psalm 29 — The Lord Will Bless His People with Peace | Bible",
+        "pt": "Salmo 29 — O Senhor abençoará o seu povo com paz | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Después de siete veces la voz de Jehová, el salmo termina en paz.",
+        "pt": "Depois de sete vezes a voz do Senhor, o salmo termina em paz."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 93:4",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 93 — Jehová en las alturas es más poderoso | Biblia",
+        "en": "Psalm 93 — The Lord on High Is Mightier | Bible",
+        "pt": "Salmo 93 — O Senhor nas alturas é mais poderoso | Bíblia"
+      },
+      "aplicacao": {
+        "es": "La comparación es con el ruido de muchas aguas.",
+        "pt": "A comparação é com o ruído de muitas águas."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Moon_and_clouds_over_Brofjorden_3.jpg/1920px-Moon_and_clouds_over_Brofjorden_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_3.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 8:9",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 8 — ¡Cuán grande es tu nombre en toda la tierra! | Biblia",
+        "en": "Psalm 8 — How Excellent Is Thy Name in All the Earth | Bible",
+        "pt": "Salmo 8 — Quão grande é o teu nome em toda a terra! | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El salmo abre y cierra con la misma frase.",
+        "pt": "O salmo abre e fecha com a mesma frase."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}

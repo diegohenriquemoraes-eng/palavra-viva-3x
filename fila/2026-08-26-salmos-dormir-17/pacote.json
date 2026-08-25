@@ -1,0 +1,206 @@
+{
+  "slug": "salmos-dormir-17",
+  "formato": "dormir",
+  "data": "2026-08-26",
+  "criado_em": "2026-08-25T21:00:41+00:00",
+  "aprovado_em": "2026-08-25T21:00:41+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 3",
+      "Psalms 4",
+      "Psalms 23",
+      "Psalms 91",
+      "Psalms 121",
+      "Psalms 127",
+      "Psalms 131",
+      "Psalms 134"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — En Paz Me Acostaré y Dormiré | Biblia Hablada con Voz Calmada",
+      "en": "Psalms for Sleep — I Will Both Lay Me Down in Peace | Calm Bible Reading",
+      "pt": "Salmos para Dormir — Em Paz Me Deito e Durmo | Bíblia Narrada com Voz Calma"
+    },
+    "thumb_titulo": {
+      "es": "EN PAZ ME ACOSTARE",
+      "en": "IN PEACE I WILL LIE DOWN",
+      "pt": "EM PAZ ME DEITO"
+    },
+    "thumb_sub": {
+      "es": "Salmos 4, 23 y 91",
+      "en": "Psalms 4, 23 and 91",
+      "pt": "Salmos 4, 23 e 91"
+    },
+    "abertura": {
+      "es": "Los ocho salmos que más se buscan para la noche, seguidos y sin cortes: tres, cuatro, veintitrés, noventa y uno, ciento veintiuno, ciento veintisiete, ciento treinta y uno y ciento treinta y cuatro. El cuatro trae el verso que da nombre a esta lectura: en paz me acostaré y asimismo dormiré. El ciento veintisiete dice que Él da a su amado el sueño; el ciento treinta y uno compara el alma con un niño destetado. Lectura pausada, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Os oito salmos mais procurados para a noite, seguidos e sem cortes: três, quatro, vinte e três, noventa e um, cento e vinte e um, cento e vinte e sete, cento e trinta e um e cento e trinta e quatro. O quatro traz o verso que dá nome a esta leitura: em paz me deito e logo durmo. O cento e vinte e sete diz que Ele dá o sono ao seu amado; o cento e trinta e um compara a alma a uma criança desmamada. Leitura pausada, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 4",
+        "salmo 23",
+        "salmo 91",
+        "en paz me acostare y dormire",
+        "biblia hablada para dormir"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 4",
+        "salmo 23",
+        "salmo 91",
+        "em paz me deito e durmo",
+        "biblia narrada para dormir"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Ocho salmos seguidos para dormir: 3, 4, 23, 91, 121, 127, 131 y 134. Lectura pausada, sin música alta, Reina-Valera 1909.",
+      "pt": "Oito salmos seguidos para dormir: 3, 4, 23, 91, 121, 127, 131 e 134. Leitura pausada, sem música alta, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Night_reflections_of_houses%2C_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu%2C_Tartumaa%2C_Estonia%2C_November_2020_-_Flickr_-_sergei.gussev.jpg/1920px-Night_reflections_of_houses%2C_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu%2C_Tartumaa%2C_Estonia%2C_November_2020_-_Flickr_-_sergei.gussev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergei Gussev",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_reflections_of_houses,_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu,_Tartumaa,_Estonia,_November_2020_-_Flickr_-_sergei.gussev.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stars_in_the_night_sky_%28Unsplash%29.jpg/1920px-Stars_in_the_night_sky_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Shazia Mirza shazia23",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stars_in_the_night_sky_(Unsplash).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Night_Sky_Stars_Silverthorne_%28Unsplash%29.jpg/1920px-Night_Sky_Stars_Silverthorne_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Nathan Anderson nathananderson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_Stars_Silverthorne_(Unsplash).jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nightly_sky_with_stars_%2835524883802%29.jpg/1920px-Nightly_sky_with_stars_%2835524883802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "LiCheng Shih",
+        "origem": "https://commons.wikimedia.org/wiki/File:Nightly_sky_with_stars_(35524883802).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/C%C3%A9vennes_France_night_sky_with_stars_01.jpg/1920px-C%C3%A9vennes_France_night_sky_with_stars_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Arnaud Vergnet",
+        "origem": "https://commons.wikimedia.org/wiki/File:C%C3%A9vennes_France_night_sky_with_stars_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Couple_Watching_Stars-in-the-Night-Sky_Light_Show_20211225.jpg/1920px-Couple_Watching_Stars-in-the-Night-Sky_Light_Show_20211225.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "midnightbreakfastcafe",
+        "origem": "https://commons.wikimedia.org/wiki/File:Couple_Watching_Stars-in-the-Night-Sky_Light_Show_20211225.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_2.jpg/1920px-Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_1.jpg/1920px-Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Moon_jellyfish_disturbing_the_top_water_layer_of_Gullmarn_fjord.jpg/1920px-Moon_jellyfish_disturbing_the_top_water_layer_of_Gullmarn_fjord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_jellyfish_disturbing_the_top_water_layer_of_Gullmarn_fjord.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_3.jpg/1920px-Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_jellyfishes_disturbing_the_top_water_layer_of_Gullmarn_fjord_3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Night_reflections_of_houses%2C_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu%2C_Tartumaa%2C_Estonia%2C_November_2020_-_Flickr_-_sergei.gussev.jpg/1920px-Night_reflections_of_houses%2C_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu%2C_Tartumaa%2C_Estonia%2C_November_2020_-_Flickr_-_sergei.gussev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergei Gussev",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_reflections_of_houses,_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu,_Tartumaa,_Estonia,_November_2020_-_Flickr_-_sergei.gussev.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 4:8",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 4 — En paz me acostaré y dormiré | Biblia",
+        "en": "Psalm 4 — I Will Both Lay Me Down in Peace | Bible",
+        "pt": "Salmo 4 — Em paz me deito e logo durmo | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Es el último verso del salmo, y el motivo viene en la segunda mitad.",
+        "pt": "É o último verso do salmo, e o motivo vem na segunda metade."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Night_reflections_of_houses%2C_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu%2C_Tartumaa%2C_Estonia%2C_November_2020_-_Flickr_-_sergei.gussev.jpg/1920px-Night_reflections_of_houses%2C_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu%2C_Tartumaa%2C_Estonia%2C_November_2020_-_Flickr_-_sergei.gussev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergei Gussev",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_reflections_of_houses,_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu,_Tartumaa,_Estonia,_November_2020_-_Flickr_-_sergei.gussev.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 127:1-2",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 127 — Pues que a su amado dará Dios el sueño | Biblia",
+        "en": "Psalm 127 — He Giveth His Beloved Sleep | Bible",
+        "pt": "Salmo 127 — Ele dá o sono ao seu amado | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El verso empieza por lo que es en vano y termina en el sueño.",
+        "pt": "O verso começa pelo que é em vão e termina no sono."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yepun_adding_stars_to_the_night_sky_%28potw2242a%29.jpg/1920px-Yepun_adding_stars_to_the_night_sky_%28potw2242a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Zdeněk Bardon /ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Yepun_adding_stars_to_the_night_sky_(potw2242a).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 131:1-3",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 131 — Como un niño destetado | Biblia",
+        "en": "Psalm 131 — As a Child That Is Weaned | Bible",
+        "pt": "Salmo 131 — Como uma criança desmamada | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El salmo entero son tres versos, y la imagen se repite dos veces.",
+        "pt": "O salmo inteiro tem três versos, e a imagem se repete duas vezes."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Moon_jellyfish_disturbing_the_top_water_layer_of_Gullmarn_fjord.jpg/1920px-Moon_jellyfish_disturbing_the_top_water_layer_of_Gullmarn_fjord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_jellyfish_disturbing_the_top_water_layer_of_Gullmarn_fjord.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 3:5",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 3 — Yo me acosté y dormí | Biblia",
+        "en": "Psalm 3 — I Laid Me Down and Slept | Bible",
+        "pt": "Salmo 3 — Eu me deitei e dormi | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El salmo fue escrito en fuga, según su propio encabezamiento.",
+        "pt": "O salmo foi escrito em fuga, segundo o seu próprio cabeçalho."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Night_reflections_of_houses%2C_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu%2C_Tartumaa%2C_Estonia%2C_November_2020_-_Flickr_-_sergei.gussev.jpg/1920px-Night_reflections_of_houses%2C_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu%2C_Tartumaa%2C_Estonia%2C_November_2020_-_Flickr_-_sergei.gussev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sergei Gussev",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_reflections_of_houses,_bridge_and_the_moon_on_the_water_of_Emaj%C3%B5gi_river_in_Tartu,_Tartumaa,_Estonia,_November_2020_-_Flickr_-_sergei.gussev.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
