@@ -1044,12 +1044,19 @@
           "video_id": "jAQs1T-m_0Y",
           "titulo": "Jonás 1 — Se levantó para huir a Tarsis | Historia bíblica",
           "em": "2026-08-25T02:14:25+00:00"
+        },
+        {
+          "pacote": "2026-08-25-jonas-peixe",
+          "item": "short-2",
+          "video_id": "3wKm_G8Txtg",
+          "titulo": "Jonás 1 — Tomadme y echadme al mar | Historia bíblica",
+          "em": "2026-08-25T09:28:48+00:00"
         }
       ],
-      "ultimo_short": "2026-08-25T02:14:25+00:00",
+      "ultimo_short": "2026-08-25T09:28:48+00:00",
       "shorts_dia": {
         "data": "2026-08-25",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-25"
     },
@@ -2390,12 +2397,19 @@
           "video_id": "v78tFnTrSGc",
           "titulo": "Todo está siempre cambiando, tú incluido",
           "em": "2026-08-25T02:20:54+00:00"
+        },
+        {
+          "pacote": "2026-08-25-nada-se-queda-quieto",
+          "item": "short-2",
+          "video_id": "D3w2gqmx3hg",
+          "titulo": "A la piedra no le duele caer",
+          "em": "2026-08-25T09:29:51+00:00"
         }
       ],
-      "ultimo_short": "2026-08-25T02:20:54+00:00",
+      "ultimo_short": "2026-08-25T09:29:51+00:00",
       "shorts_dia": {
         "data": "2026-08-25",
-        "n": 1
+        "n": 2
       },
       "longo_data": ""
     },

@@ -2878,3 +2878,19 @@
 - Item: short-1 — Meditaciones 9:32
 - Duração: 24.8s
 - Publicado em: 2026-08-25T02:20:54+00:00
+
+## [es] 3wKm_G8Txtg — Jonás 1 — Tomadme y echadme al mar | Historia bíblica
+
+- URL: https://youtu.be/3wKm_G8Txtg
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Jonás 1:12
+- Duração: 19.6s
+- Publicado em: 2026-08-25T09:28:48+00:00
+
+## [stoic] D3w2gqmx3hg — A la piedra no le duele caer
+
+- URL: https://youtu.be/D3w2gqmx3hg
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 9:30
+- Duração: 20.1s
+- Publicado em: 2026-08-25T09:29:51+00:00
