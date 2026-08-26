@@ -1,0 +1,187 @@
+{
+  "slug": "cura-e-consolo",
+  "formato": "tema",
+  "data": "2026-08-28",
+  "criado_em": "2026-08-26T01:59:39+00:00",
+  "aprovado_em": "2026-08-26T01:59:39+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 31"
+    ],
+    "titulo": {
+      "es": "En Tu Mano Están Mis Tiempos — Salmo 31 | Biblia Hablada",
+      "en": "My Times Are in Thy Hand — Psalm 31 | Spoken Bible",
+      "pt": "Nas Tuas Mãos Estão os Meus Dias — Salmo 31 | Bíblia Narrada"
+    },
+    "thumb_titulo": {
+      "es": "MIS TIEMPOS",
+      "en": "MY TIMES",
+      "pt": "OS MEUS DIAS"
+    },
+    "thumb_sub": {
+      "es": "Salmo 31",
+      "en": "Psalm 31",
+      "pt": "Salmo 31"
+    },
+    "abertura": {
+      "es": "Salmo treinta y uno, entero, de los veinticuatro versos. Es un salmo de enfermedad y de acoso: habla de fuerzas gastadas, de huesos consumidos, de ser olvidado como un muerto. Y en medio de eso está el verso quince, que da nombre a esta lectura: en tu mano están mis tiempos. Termina con una orden a los que esperan: esforzaos todos vosotros. Lectura pausada, sin comentario, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Salmo trinta e um, inteiro, os vinte e quatro versos. É um salmo de doença e de cerco: fala de forças gastas, de ossos consumidos, de ser esquecido como um morto. E no meio disso está o verso quinze, que dá nome a esta leitura: nas tuas mãos estão os meus dias. Termina com uma ordem aos que esperam: esforçai-vos todos vós. Leitura pausada, sem comentário, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "salmo 31",
+        "en tu mano estan mis tiempos",
+        "salmos de consuelo",
+        "biblia hablada",
+        "salmo para la enfermedad",
+        "salmos de confianza"
+      ],
+      "pt": [
+        "salmo 31",
+        "nas tuas maos estao os meus dias",
+        "salmos de consolo",
+        "biblia narrada",
+        "salmo para a doenca",
+        "salmos de confianca"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmo 31 completo: fuerzas gastadas, el clamor y el verso 15, en tu mano están mis tiempos. Lectura pausada, Reina-Valera 1909.",
+      "pt": "Salmo 31 completo: forças gastas, o clamor e o verso 15, nas tuas mãos estão os meus dias. Leitura pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hands_in_various_gestures%2C_including_prayer_and_benediction._Wellcome_V0009413.jpg/1920px-Hands_in_various_gestures%2C_including_prayer_and_benediction._Wellcome_V0009413.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Hands_in_various_gestures,_including_prayer_and_benediction._Wellcome_V0009413.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jacopo_Guarana%2C_Three_Studies_of_Hands_Clasped_in_Prayer%2C_NGA_69369.jpg/1920px-Jacopo_Guarana%2C_Three_Studies_of_Hands_Clasped_in_Prayer%2C_NGA_69369.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jacopo Guarana",
+        "origem": "https://commons.wikimedia.org/wiki/File:Jacopo_Guarana,_Three_Studies_of_Hands_Clasped_in_Prayer,_NGA_69369.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Light_through_a_stained_glass_window%2C_cross%2C_wall_of_the_Marmor_%28Frederiks%29_Kirke_Copenhagen_Denmark.jpg/1920px-Light_through_a_stained_glass_window%2C_cross%2C_wall_of_the_Marmor_%28Frederiks%29_Kirke_Copenhagen_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jebulon",
+        "origem": "https://commons.wikimedia.org/wiki/File:Light_through_a_stained_glass_window,_cross,_wall_of_the_Marmor_(Frederiks)_Kirke_Copenhagen_Denmark.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Design_for_a_single_light_window_MET_DP319583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Louis Comfort Tiffany / Tiffany Studios / Tiffany Studios / Tiffany St",
+        "origem": "https://commons.wikimedia.org/wiki/File:Design_for_a_single_light_window_MET_DP319583.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lake_Clearwater_dawn%2C_day_2_%2828769542716%29.jpg/1920px-Lake_Clearwater_dawn%2C_day_2_%2828769542716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Francis Vallance (Heritage Warrior) from Prebbleton, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Clearwater_dawn,_day_2_(28769542716).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lake_Clearwater_dawn%2C_day_2_%2828723756141%29.jpg/1920px-Lake_Clearwater_dawn%2C_day_2_%2828723756141%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Francis Vallance (Heritage Warrior) from Prebbleton, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Clearwater_dawn,_day_2_(28723756141).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lake_Clearwater_dawn%2C_day_2_%2828769544696%29.jpg/1920px-Lake_Clearwater_dawn%2C_day_2_%2828769544696%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Francis Vallance (Heritage Warrior) from Prebbleton, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Clearwater_dawn,_day_2_(28769544696).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lake_Clearwater_dawn%2C_day_2_%2828769541046%29.jpg/1920px-Lake_Clearwater_dawn%2C_day_2_%2828769541046%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Francis Vallance (Heritage Warrior) from Prebbleton, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Clearwater_dawn,_day_2_(28769541046).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lake_Clearwater_dawn%2C_day_2_%2828516684730%29.jpg/1920px-Lake_Clearwater_dawn%2C_day_2_%2828516684730%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Francis Vallance (Heritage Warrior) from Prebbleton, New Zealand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Clearwater_dawn,_day_2_(28516684730).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 31:14-15",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 31 — En tu mano están mis tiempos | Biblia",
+        "en": "Psalm 31 — My Times Are in Thy Hand | Bible",
+        "pt": "Salmo 31 — Nas tuas mãos estão os meus dias | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El verso viene después de la lista de dolencias, no antes.",
+        "pt": "O verso vem depois da lista de dores, não antes."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jacopo_Guarana%2C_Three_Studies_of_Hands_Clasped_in_Prayer%2C_NGA_69369.jpg/1920px-Jacopo_Guarana%2C_Three_Studies_of_Hands_Clasped_in_Prayer%2C_NGA_69369.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jacopo Guarana",
+        "origem": "https://commons.wikimedia.org/wiki/File:Jacopo_Guarana,_Three_Studies_of_Hands_Clasped_in_Prayer,_NGA_69369.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 30:1-3",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Salmo 30 — Clamé a ti y me sanaste | Biblia",
+        "en": "Psalm 30 — I Cried Unto Thee and Thou Hast Healed Me | Bible",
+        "pt": "Salmo 30 — Clamei a ti e me curaste | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El salmo empieza por el final de la historia: la respuesta ya vino.",
+        "pt": "O salmo começa pelo fim da história: a resposta já veio."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Dawn_Lake_1952_SLNSW_FL19121010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Pix Photographer",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dawn_Lake_1952_SLNSW_FL19121010.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "James 5:13-16",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Santiago 5 — ¿Está alguno enfermo entre vosotros? | Biblia",
+        "en": "James 5 — Is Any Sick Among You? | Bible",
+        "pt": "Tiago 5 — Está alguém entre vós doente? | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El pasaje distribuye tres situaciones: aflicción, alegría y enfermedad.",
+        "pt": "A passagem distribui três situações: aflição, alegria e doença."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Light_through_a_stained_glass_window%2C_cross%2C_wall_of_the_Marmor_%28Frederiks%29_Kirke_Copenhagen_Denmark.jpg/1920px-Light_through_a_stained_glass_window%2C_cross%2C_wall_of_the_Marmor_%28Frederiks%29_Kirke_Copenhagen_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jebulon",
+        "origem": "https://commons.wikimedia.org/wiki/File:Light_through_a_stained_glass_window,_cross,_wall_of_the_Marmor_(Frederiks)_Kirke_Copenhagen_Denmark.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 31:24",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 31 — Esforzaos todos vosotros | Biblia",
+        "en": "Psalm 31 — Be of Good Courage | Bible",
+        "pt": "Salmo 31 — Esforçai-vos todos vós | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El salmo termina con dos imperativos dirigidos a los que esperan.",
+        "pt": "O salmo termina com dois imperativos dirigidos aos que esperam."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Jacopo_Guarana%2C_Three_Studies_of_Hands_Clasped_in_Prayer%2C_NGA_69369.jpg/1920px-Jacopo_Guarana%2C_Three_Studies_of_Hands_Clasped_in_Prayer%2C_NGA_69369.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jacopo Guarana",
+        "origem": "https://commons.wikimedia.org/wiki/File:Jacopo_Guarana,_Three_Studies_of_Hands_Clasped_in_Prayer,_NGA_69369.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
