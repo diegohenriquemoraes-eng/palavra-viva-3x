@@ -1,0 +1,66 @@
+name: Atualizar bio do canal
+
+# Aplica a descrição de canal (campo `bio` de publicador/config.json) via
+# channels.update. Só manual: bio de canal muda por decisão, não por cron.
+# A seção "Links" (botões) não tem API — essa continua sendo no Studio.
+on:
+  workflow_dispatch:
+    inputs:
+      canal:
+        description: "Canal (es/en/pt/stoic...)"
+        required: true
+        default: "es"
+      dry_run:
+        description: "Só mostrar o antes/depois"
+        type: boolean
+        default: true
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Só o cliente da API — o requirements.txt inteiro traz ffmpeg/render
+      # e este job não toca em vídeo.
+      - run: pip install google-api-python-client google-auth google-auth-oauthlib httplib2
+
+      - name: Restaurar credenciais
+        env:
+          ES_SECRET: ${{ secrets.YT_CLIENT_SECRET_ES }}
+          ES_TOKEN: ${{ secrets.YT_TOKEN_ES }}
+          EN_SECRET: ${{ secrets.YT_CLIENT_SECRET_EN }}
+          EN_TOKEN: ${{ secrets.YT_TOKEN_EN }}
+          PT_SECRET: ${{ secrets.YT_CLIENT_SECRET_PT }}
+          PT_TOKEN: ${{ secrets.YT_TOKEN_PT }}
+          STOIC_SECRET: ${{ secrets.YT_CLIENT_SECRET_STOIC }}
+          STOIC_TOKEN: ${{ secrets.YT_TOKEN_STOIC }}
+        run: |
+          lang="${{ inputs.canal }}"
+          secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
+          token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
+          secret="${!secret_var}"
+          token="${!token_var}"
+          if [ -z "$secret" ] || [ -z "$token" ]; then
+            echo "canal $lang sem secrets"; exit 1
+          fi
+          mkdir -p "credenciais/$lang"
+          printf '%s' "$secret" > "credenciais/$lang/client_secret.json"
+          printf '%s' "$token" > "credenciais/$lang/token.json"
+          chmod 600 credenciais/$lang/*
+
+      - name: Aplicar
+        run: |
+          args="--canal ${{ inputs.canal }}"
+          [ "${{ inputs.dry_run }}" = "true" ] && args="$args --dry-run"
+          python produzir/atualizar_bio.py $args
+
+      - name: Limpar credenciais
+        if: always()
+        run: rm -rf credenciais

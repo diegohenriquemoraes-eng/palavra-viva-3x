@@ -264,6 +264,12 @@ não afiliado. Dois e-books de US$ 4,90 na Hotmart, feitos no projeto
 - ⚠ **Nunca escrever "link de afiliado" nesses blocos** — o produto é do Diego;
   a frase de divulgação de afiliado só vale para o piano.
 - O acervo antigo recebe o link pelo workflow Realinhar (07:10 UTC, 10/dia).
+- ⚠ **A BIO do canal ficou de fora dessa rodada** e o Diego pegou em 26/08 por
+  captura de tela: a descrição do canal ainda vendia só o piano. A descrição
+  agora mora em `bio` no config e é aplicada por `produzir/atualizar_bio.py`
+  (workflow `atualizar-bio.yml`, manual; `src=yt_bio_es`). O que NÃO tem API é
+  a seção **Links** do canal — os dois botões de piano só mudam no Studio, à
+  mão, e continuam pendentes do Diego.
 
 O que eu NÃO faria e por quê: abrir o canal `sabiduria` agora (o problema não é
 falta de canal, é falta de views de longo, e canal novo divide o único recurso
