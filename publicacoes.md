@@ -2958,3 +2958,19 @@
 - Item: longo — Salmo 3, Salmo 4, Salmo 23, Salmo 91, Salmo 121, Salmo 127, Salmo 131, Salmo 134
 - Duração: 4090.7s
 - Publicado em: 2026-08-26T10:08:34+00:00
+
+## [es] bs5RAhKRMNg — Salmo 30 — Por la noche durará el lloro | Biblia
+
+- URL: https://youtu.be/bs5RAhKRMNg
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 30:5
+- Duração: 18.9s
+- Publicado em: 2026-08-26T10:26:01+00:00
+
+## [stoic] 6TB3MF65O5w — Nadie se cansa de recibir; tú no te canses de dar
+
+- URL: https://youtu.be/6TB3MF65O5w
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 7:81
+- Duração: 26.8s
+- Publicado em: 2026-08-26T10:26:59+00:00
