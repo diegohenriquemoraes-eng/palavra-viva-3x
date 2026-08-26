@@ -2950,3 +2950,11 @@
 - Item: short-1 — Meditaciones 7:80
 - Duração: 24.9s
 - Publicado em: 2026-08-26T03:19:00+00:00
+
+## [es] pDhvhIFk5io — Salmos para Dormir — En Paz Me Acostaré y Dormiré | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/pDhvhIFk5io
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 3, Salmo 4, Salmo 23, Salmo 91, Salmo 121, Salmo 127, Salmo 131, Salmo 134
+- Duração: 4090.7s
+- Publicado em: 2026-08-26T10:08:34+00:00

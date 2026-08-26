@@ -1112,6 +1112,14 @@
           "video_id": "bGN7NOz_Z4Y",
           "titulo": "Salmos para Dormir — El Llanto Dura una Noche | Biblia Hablada con Voz Calmada",
           "em": "2026-08-26T01:30:06+00:00"
+        },
+        {
+          "pacote": "2026-08-26-salmos-dormir-17",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "pDhvhIFk5io",
+          "titulo": "Salmos para Dormir — En Paz Me Acostaré y Dormiré | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-26T10:08:34+00:00"
         }
       ],
       "ultimo_short": "2026-08-25T17:25:12+00:00",
@@ -1122,9 +1130,9 @@
       "longo_data": "2026-08-26",
       "longos_dia": {
         "data": "2026-08-26",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-08-26T01:30:06+00:00"
+      "ultimo_longo": "2026-08-26T10:08:34+00:00"
     },
     "en": {
       "publicados": [
