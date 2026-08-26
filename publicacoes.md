@@ -2934,3 +2934,19 @@
 - Item: short-1 — Salmo 30:5
 - Duração: 19.5s
 - Publicado em: 2026-08-26T01:31:11+00:00
+
+## [pt] ko30yKmuYns — Salmos para Dormir — O Choro Dura uma Noite | Bíblia Narrada com Voz Calma
+
+- URL: https://youtu.be/ko30yKmuYns
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 30, Salmo 107, Salmo 108, Salmo 117, Salmo 124, Salmo 135, Salmo 136, Salmo 144
+- Duração: 5054.2s
+- Publicado em: 2026-08-26T03:17:45+00:00
+
+## [stoic] xxSvvbDDDac — Hiciste el favor: ya está hecho
+
+- URL: https://youtu.be/xxSvvbDDDac
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 7:80
+- Duração: 24.9s
+- Publicado em: 2026-08-26T03:19:00+00:00
