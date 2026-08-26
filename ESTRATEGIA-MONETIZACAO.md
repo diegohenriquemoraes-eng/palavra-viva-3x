@@ -130,6 +130,18 @@ narrado sobre fundo escuro parado, que é exatamente o que o motor já faz.
 Verificação em duas etapas ligada e AdSense vinculado, por canal. Não custa
 nada e é reprovação boba se faltar na hora de submeter.
 
+⚠ **Medido em 26/08: a conta da La Noche Estoica tem `longUploadsStatus:
+eligible`, não `allowed`** — sem verificação por telefone o teto de upload é
+15 minutos, e é por isso que os dois testes de longo da era Stoic by Night
+("1 Hour of Stoic Wisdom…") morreram no Studio com "Falha no envio: vídeo
+muito longo". **O Passo 4 depende disso**: verificar em youtube.com/verify,
+logado na conta do canal, ANTES de ≈03/09 — senão cada longo falha e queima
+1.600 de cota. Conferir com `python produzir/limpar_uploads_falhos.py --canal
+stoic` (workflow "Limpar uploads falhos") até aparecer `allowed`; o mesmo
+vale para os outros canais fantasma antes de ligar o longo neles. Os dois
+rascunhos falhados NÃO são visíveis pela Data API (varridos os 43 vídeos do
+canal: zero com status failed) — apagar é manual, no Studio.
+
 ---
 
 ## 5. A expectativa honesta de prazo
