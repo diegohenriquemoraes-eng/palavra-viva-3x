@@ -2974,3 +2974,19 @@
 - Item: short-2 — Meditaciones 7:81
 - Duração: 26.8s
 - Publicado em: 2026-08-26T10:26:59+00:00
+
+## [es] 80kqO8rE8c8 — Salmo 107 — Y los guía al puerto que deseaban | Biblia
+
+- URL: https://youtu.be/80kqO8rE8c8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 107:28-29
+- Duração: 21.3s
+- Publicado em: 2026-08-26T18:51:49+00:00
+
+## [stoic] t_LxN-wkrHQ — El pago ya llegó y no te diste cuenta
+
+- URL: https://youtu.be/t_LxN-wkrHQ
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 11:8
+- Duração: 26.2s
+- Publicado em: 2026-08-26T18:53:08+00:00

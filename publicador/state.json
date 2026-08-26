@@ -1128,12 +1128,20 @@
           "video_id": "bs5RAhKRMNg",
           "titulo": "Salmo 30 — Por la noche durará el lloro | Biblia",
           "em": "2026-08-26T10:26:01+00:00"
+        },
+        {
+          "pacote": "2026-08-26-salmos-dormir-15",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "80kqO8rE8c8",
+          "titulo": "Salmo 107 — Y los guía al puerto que deseaban | Biblia",
+          "em": "2026-08-26T18:51:49+00:00"
         }
       ],
-      "ultimo_short": "2026-08-26T10:26:01+00:00",
+      "ultimo_short": "2026-08-26T18:51:49+00:00",
       "shorts_dia": {
         "data": "2026-08-26",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-08-26",
       "longos_dia": {
@@ -2575,12 +2583,20 @@
           "video_id": "6TB3MF65O5w",
           "titulo": "Nadie se cansa de recibir; tú no te canses de dar",
           "em": "2026-08-26T10:26:59+00:00"
+        },
+        {
+          "pacote": "2026-08-26-el-favor-sin-cuenta",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "t_LxN-wkrHQ",
+          "titulo": "El pago ya llegó y no te diste cuenta",
+          "em": "2026-08-26T18:53:08+00:00"
         }
       ],
-      "ultimo_short": "2026-08-26T10:26:59+00:00",
+      "ultimo_short": "2026-08-26T18:53:08+00:00",
       "shorts_dia": {
         "data": "2026-08-26",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
