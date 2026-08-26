@@ -2918,3 +2918,19 @@
 - Item: longo — Salmo 13, Salmo 17, Salmo 20, Salmo 26, Salmo 28, Salmo 112, Salmo 115, Salmo 149
 - Duração: 3977.6s
 - Publicado em: 2026-08-25T21:35:06+00:00
+
+## [es] bGN7NOz_Z4Y — Salmos para Dormir — El Llanto Dura una Noche | Biblia Hablada con Voz Calmada
+
+- URL: https://youtu.be/bGN7NOz_Z4Y
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 30, Salmo 107, Salmo 108, Salmo 117, Salmo 124, Salmo 135, Salmo 136, Salmo 144
+- Duração: 4865.1s
+- Publicado em: 2026-08-26T01:30:06+00:00
+
+## [pt] a_5XXrDYai0 — Salmo 30 — O choro dura uma noite | Bíblia
+
+- URL: https://youtu.be/a_5XXrDYai0
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 30:5
+- Duração: 19.5s
+- Publicado em: 2026-08-26T01:31:11+00:00

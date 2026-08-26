@@ -1104,6 +1104,14 @@
           "video_id": "xfAkWCRCyhM",
           "titulo": "Salmos para Dormir — Ocho Salmos para la Noche | Biblia Hablada con Voz Calmada",
           "em": "2026-08-25T21:35:06+00:00"
+        },
+        {
+          "pacote": "2026-08-26-salmos-dormir-15",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "bGN7NOz_Z4Y",
+          "titulo": "Salmos para Dormir — El Llanto Dura una Noche | Biblia Hablada con Voz Calmada",
+          "em": "2026-08-26T01:30:06+00:00"
         }
       ],
       "ultimo_short": "2026-08-25T17:25:12+00:00",
@@ -1111,12 +1119,12 @@
         "data": "2026-08-25",
         "n": 3
       },
-      "longo_data": "2026-08-25",
+      "longo_data": "2026-08-26",
       "longos_dia": {
-        "data": "2026-08-25",
-        "n": 2
+        "data": "2026-08-26",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-25T21:35:06+00:00"
+      "ultimo_longo": "2026-08-26T01:30:06+00:00"
     },
     "en": {
       "publicados": [
@@ -2252,14 +2260,26 @@
           "titulo": "Jonas e o Grande Peixe — Jonas 1 e 2 | História bíblica narrada",
           "em": "2026-08-25T02:19:39+00:00",
           "formato": "historia"
+        },
+        {
+          "pacote": "2026-08-26-salmos-dormir-15",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "a_5XXrDYai0",
+          "titulo": "Salmo 30 — O choro dura uma noite | Bíblia",
+          "em": "2026-08-26T01:31:11+00:00"
         }
       ],
-      "ultimo_short": "2026-08-25T00:46:38+00:00",
+      "ultimo_short": "2026-08-26T01:31:11+00:00",
       "shorts_dia": {
-        "data": "2026-08-25",
+        "data": "2026-08-26",
         "n": 1
       },
-      "longo_data": "2026-08-25"
+      "longo_data": "2026-08-25",
+      "longos_dia": {
+        "data": "2026-08-25",
+        "n": 1
+      }
     },
     "stoic": {
       "publicados": [
