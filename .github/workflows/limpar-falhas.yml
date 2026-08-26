@@ -1,0 +1,63 @@
+name: Limpar uploads falhos
+
+# Confere o longUploadsStatus do canal e apaga rascunhos de upload que
+# falharam (ex.: "vídeo muito longo" numa conta não verificada). Só manual.
+on:
+  workflow_dispatch:
+    inputs:
+      canal:
+        description: "Canal (es/en/pt/stoic...)"
+        required: true
+        default: "stoic"
+      apagar:
+        description: "Apagar os falhados (false = só listar)"
+        type: boolean
+        default: false
+
+jobs:
+  limpar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install google-api-python-client google-auth google-auth-oauthlib httplib2
+
+      - name: Restaurar credenciais
+        env:
+          ES_SECRET: ${{ secrets.YT_CLIENT_SECRET_ES }}
+          ES_TOKEN: ${{ secrets.YT_TOKEN_ES }}
+          EN_SECRET: ${{ secrets.YT_CLIENT_SECRET_EN }}
+          EN_TOKEN: ${{ secrets.YT_TOKEN_EN }}
+          PT_SECRET: ${{ secrets.YT_CLIENT_SECRET_PT }}
+          PT_TOKEN: ${{ secrets.YT_TOKEN_PT }}
+          STOIC_SECRET: ${{ secrets.YT_CLIENT_SECRET_STOIC }}
+          STOIC_TOKEN: ${{ secrets.YT_TOKEN_STOIC }}
+        run: |
+          lang="${{ inputs.canal }}"
+          secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
+          token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
+          secret="${!secret_var}"
+          token="${!token_var}"
+          if [ -z "$secret" ] || [ -z "$token" ]; then
+            echo "canal $lang sem secrets"; exit 1
+          fi
+          mkdir -p "credenciais/$lang"
+          printf '%s' "$secret" > "credenciais/$lang/client_secret.json"
+          printf '%s' "$token" > "credenciais/$lang/token.json"
+          chmod 600 credenciais/$lang/*
+
+      - name: Rodar
+        run: |
+          args="--canal ${{ inputs.canal }}"
+          [ "${{ inputs.apagar }}" = "true" ] && args="$args --apagar"
+          python produzir/limpar_uploads_falhos.py $args
+
+      - name: Limpar credenciais
+        if: always()
+        run: rm -rf credenciais
