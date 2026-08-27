@@ -1152,12 +1152,20 @@
           "video_id": "d-YG8PMVjjA",
           "titulo": "Salmos para Dormir — Salmo 8, 29 y 93 | Biblia Hablada Completa",
           "em": "2026-08-27T13:47:25+00:00"
+        },
+        {
+          "pacote": "2026-08-27-bom-samaritano",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "0SF6EAwAiy4",
+          "titulo": "Lucas 10 — ¿Y quién es mi prójimo? | Historia bíblica",
+          "em": "2026-08-27T23:23:05+00:00"
         }
       ],
-      "ultimo_short": "2026-08-26T18:51:49+00:00",
+      "ultimo_short": "2026-08-27T23:23:05+00:00",
       "shorts_dia": {
-        "data": "2026-08-26",
-        "n": 2
+        "data": "2026-08-27",
+        "n": 1
       },
       "longo_data": "2026-08-27",
       "longos_dia": {
@@ -2332,11 +2340,19 @@
           "video_id": "Swg-e__L_Wc",
           "titulo": "Salmos para Dormir — Salmo 8, 29 e 93 | Bíblia Falada Completa",
           "em": "2026-08-27T14:15:38+00:00"
+        },
+        {
+          "pacote": "2026-08-27-bom-samaritano",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "3i_jR4m9VFA",
+          "titulo": "Lucas 10 — E quem é o meu próximo? | História bíblica",
+          "em": "2026-08-27T23:23:58+00:00"
         }
       ],
-      "ultimo_short": "2026-08-26T01:31:11+00:00",
+      "ultimo_short": "2026-08-27T23:23:58+00:00",
       "shorts_dia": {
-        "data": "2026-08-26",
+        "data": "2026-08-27",
         "n": 1
       },
       "longo_data": "2026-08-27",
@@ -2639,12 +2655,20 @@
           "video_id": "Exd0RqYiEOo",
           "titulo": "El elogio de quien no se soporta a sí mismo",
           "em": "2026-08-27T14:16:48+00:00"
+        },
+        {
+          "pacote": "2026-08-27-a-quien-quieres-gustar",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "LfW4FIuPoAo",
+          "titulo": "Los que hoy se desprecian, mañana se halagan",
+          "em": "2026-08-27T23:25:06+00:00"
         }
       ],
-      "ultimo_short": "2026-08-27T14:16:48+00:00",
+      "ultimo_short": "2026-08-27T23:25:06+00:00",
       "shorts_dia": {
         "data": "2026-08-27",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

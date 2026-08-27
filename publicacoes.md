@@ -3038,3 +3038,27 @@
 - Item: short-2 — Meditaciones 3:16
 - Duração: 19.5s
 - Publicado em: 2026-08-27T14:16:48+00:00
+
+## [es] 0SF6EAwAiy4 — Lucas 10 — ¿Y quién es mi prójimo? | Historia bíblica
+
+- URL: https://youtu.be/0SF6EAwAiy4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Lucas 10:29
+- Duração: 16.0s
+- Publicado em: 2026-08-27T23:23:05+00:00
+
+## [pt] 3i_jR4m9VFA — Lucas 10 — E quem é o meu próximo? | História bíblica
+
+- URL: https://youtu.be/3i_jR4m9VFA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Lucas 10:29
+- Duração: 14.8s
+- Publicado em: 2026-08-27T23:23:58+00:00
+
+## [stoic] LfW4FIuPoAo — Los que hoy se desprecian, mañana se halagan
+
+- URL: https://youtu.be/LfW4FIuPoAo
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 11:27
+- Duração: 27.0s
+- Publicado em: 2026-08-27T23:25:06+00:00
