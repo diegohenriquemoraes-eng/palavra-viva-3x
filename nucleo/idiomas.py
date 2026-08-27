@@ -293,6 +293,12 @@ CONFIG = {
         "arquivo_fonte": BIBLIA_DIR / "blivre.json",
         "fonte_texto": "Bíblia Livre (domínio público)",
         "voz": "pt-BR-AntonioNeural",
+        # TESTE DE VOZ DO SHORT (26/08/2026, ver CLAUDE.md): o Short em PT
+        # nunca reteve — 56% de mediana contra 101% do ES, com o MESMO código,
+        # o MESMO texto e a MESMA imagem. Sobrou a voz como variável barata.
+        # O LONGO não é tocado: ele funciona (76% das horas do canal) e trocar
+        # a voz dele seria mexer no que dá certo para testar o que dá errado.
+        "voz_short": "pt-BR-FranciscaNeural",
         "rate_short": "-8%",
         "rate_longo": "-15%",
         "bcp47": "pt",

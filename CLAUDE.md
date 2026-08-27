@@ -277,6 +277,75 @@ escasso); otimizar Short (retém 103%, não há upside); e limpar o acervo dos 1
 longos crus antes de haver motivo real para submeter ao YPP — eles valem 50% das
 horas de longo do ES.
 
+## O canal PT é o mais EFICIENTE da casa (medido em 26/08/2026)
+
+O Diego notou de fora o que a Analytics confirma: o PT tem 1/4 dos inscritos do
+ES (81 contra 333) e mesmo assim entrega **mais hora por espectador**. Números
+de 28 dias (29/07 a 24/08, Analytics API):
+
+| | pt Palavra Viva Diária | es Palabra Viva |
+|---|---|---|
+| views | 5.833 | 61.767 |
+| minutos assistidos | 9.726 | 18.421 |
+| **minutos por view** | **1,67** | 0,30 |
+| horas contáveis (sem feed de Shorts) | 157 h | 184 h |
+| projeção anual | **2.048 h** de 4.000 | 2.396 h de 4.000 |
+| inscritos ganhos | 46 | 247 |
+
+O ES precisa de **11 views para cada view do PT** para produzir o mesmo minuto.
+E, por mil views, quem mais converte inscrito na casa inteira é o **longo do
+PT**: 10,5 — contra 7,2 do Short do PT, 4,9 do longo do ES e 3,5 do Short do ES.
+
+**Por formato, dentro do PT** (28 dias): `dormir` = 12 vídeos, 8,4 min por view,
+**76% de todas as horas do canal**; `tema` = 3,9 min; `historia` = 2,6 min.
+O canal é, para o algoritmo, um canal de salmos para dormir — 82% das horas
+entram por **vídeo sugerido** e a sessão média é de 5,8 minutos.
+
+**A TV é o aparelho que importa aqui**: 449 views (7,7% do total) entregam
+**3.333 minutos (34% das horas)**. Nenhuma otimização de TV foi feita ainda.
+
+### O que foi ligado em 26/08 e por quê
+
+1. **2 longos/dia no PT** (`longos_por_dia: 2`, `gap_longos_min: 480`). O
+   gargalo do longo é ENTRADA (56 views por vídeo), não retenção — a esteira é
+   a alavanca. **Custo de poço zero**: a fila já gera 2 pacotes por data desde
+   25/08 por causa do ES, e o PT só consumia o primeiro. Cota do PT: ~4.250 →
+   ~6.350 de 10.000. O 2º pacote da data é sempre um `salmos-dormir` (ordem
+   alfabética), que é justamente o formato campeão do canal.
+2. **Voz feminina no Short do PT** (`voz_short: pt-BR-FranciscaNeural`;
+   `nucleo/fabrica.py` lê `voz_short` com fallback para `voz`). O Short em PT
+   nunca reteve — 56,2% de mediana contra 101,4% do ES, com o MESMO código, o
+   MESMO texto e a MESMA imagem; frequência já foi descartada como causa em
+   22/08. Sobrou a voz. **O longo não é tocado**: ele é 96% das horas.
+   Régua **16/09/2026**: `python produzir/medir_retencao.py --canal pt --dias 21`
+   — se a mediana dos Shorts publicados depois de 26/08 não passar de ~70%
+   (limiar em que o YouTube impulsiona), a voz está descartada e o Short do PT
+   fica sendo só isca, sem mais investimento.
+3. **`keywords` do canal PT preenchidas** — estavam **vazias** (o ES tinha as
+   dele desde sempre). É o campo que ancora o canal no tema para o sistema de
+   recomendação, que é de onde vêm 82% das horas.
+4. **Playlists do PT com título e descrição de busca** (eram "Salmos para
+   dormir 🌙" com a mesma descrição genérica de canal nas três). Playlist
+   ranqueia na busca e é ela que faz o autoplay emendar na TV. No PT a playlist
+   é a fonte com a MAIOR sessão do projeto — **41 minutos por view** — e teve 4
+   views em 28 dias: o problema é entrada, não o formato.
+
+### O que eu NÃO faria no PT, e por quê
+
+- **Aumentar a duração dos longos** (hoje 60 min no `dormir`). Parece a
+  otimização óbvia de "salmos para dormir", mas a sessão média é de 8,4 min num
+  vídeo de 60: o espectador não está dormindo com ele, está saindo aos 8
+  minutos. Alongar para 3 h renderia mais e não mudaria esse número.
+- **Mais Shorts/dia**. A medição de 22/08 já testou frequência nas duas
+  direções e a retenção caiu nas duas; e a cota com 2 longos não comporta.
+- **Curar o poço só para o PT**: o pacote é compartilhado com o ES, que vai bem
+  com ele.
+
+⚠ **`unsubscribedTrailer` não tem API** — `channels.update` aceita o campo em
+`brandingSettings.channel` e devolve 200 gravando **nada**, exatamente como o
+título do canal (ver o rebrand do ES). Só o Studio grava. Ficou por fazer; vale
+pouco (a página do canal recebeu 13 views em 28 dias).
+
 ## Diretriz editorial — inegociável
 
 1. Só texto bíblico de tradução em DOMÍNIO PÚBLICO: RV1909 (es), KJV (en),

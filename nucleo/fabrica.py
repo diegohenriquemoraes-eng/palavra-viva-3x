@@ -246,7 +246,8 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
 
     voz = outdir / "voz.wav"
     segmentos, dur_voz = tts.narrar_versos(
-        partes, cfg["voz"], cfg["rate_short"], PAUSA_GANCHO, voz,
+        partes, cfg.get("voz_short", cfg["voz"]), cfg["rate_short"],
+        PAUSA_GANCHO, voz,
         outdir / "tts")
     blocos = []
     for seg in segmentos:
