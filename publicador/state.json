@@ -1136,6 +1136,14 @@
           "video_id": "80kqO8rE8c8",
           "titulo": "Salmo 107 — Y los guía al puerto que deseaban | Biblia",
           "em": "2026-08-26T18:51:49+00:00"
+        },
+        {
+          "pacote": "2026-08-27-bom-samaritano",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "4saK1qB54G8",
+          "titulo": "El Buen Samaritano — Lucas 10 | Historia bíblica narrada",
+          "em": "2026-08-27T02:27:13+00:00"
         }
       ],
       "ultimo_short": "2026-08-26T18:51:49+00:00",
@@ -1143,12 +1151,12 @@
         "data": "2026-08-26",
         "n": 2
       },
-      "longo_data": "2026-08-26",
+      "longo_data": "2026-08-27",
       "longos_dia": {
-        "data": "2026-08-26",
-        "n": 2
+        "data": "2026-08-27",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-26T10:08:34+00:00"
+      "ultimo_longo": "2026-08-27T02:27:13+00:00"
     },
     "en": {
       "publicados": [
@@ -2300,6 +2308,14 @@
           "video_id": "ko30yKmuYns",
           "titulo": "Salmos para Dormir — O Choro Dura uma Noite | Bíblia Narrada com Voz Calma",
           "em": "2026-08-26T03:17:45+00:00"
+        },
+        {
+          "pacote": "2026-08-27-bom-samaritano",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "Kn8oSIYr2IE",
+          "titulo": "O Bom Samaritano — Lucas 10 | História bíblica narrada",
+          "em": "2026-08-27T02:29:26+00:00"
         }
       ],
       "ultimo_short": "2026-08-26T01:31:11+00:00",
@@ -2307,12 +2323,12 @@
         "data": "2026-08-26",
         "n": 1
       },
-      "longo_data": "2026-08-26",
+      "longo_data": "2026-08-27",
       "longos_dia": {
-        "data": "2026-08-26",
+        "data": "2026-08-27",
         "n": 1
       },
-      "ultimo_longo": "2026-08-26T03:17:45+00:00"
+      "ultimo_longo": "2026-08-27T02:29:26+00:00"
     },
     "stoic": {
       "publicados": [
@@ -2591,12 +2607,20 @@
           "video_id": "t_LxN-wkrHQ",
           "titulo": "El pago ya llegó y no te diste cuenta",
           "em": "2026-08-26T18:53:08+00:00"
+        },
+        {
+          "pacote": "2026-08-27-a-quien-quieres-gustar",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "r4AoQkHTMAg",
+          "titulo": "Piensa a quién quieres agradar",
+          "em": "2026-08-27T02:30:45+00:00"
         }
       ],
-      "ultimo_short": "2026-08-26T18:53:08+00:00",
+      "ultimo_short": "2026-08-27T02:30:45+00:00",
       "shorts_dia": {
-        "data": "2026-08-26",
-        "n": 3
+        "data": "2026-08-27",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

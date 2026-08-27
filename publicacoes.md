@@ -2990,3 +2990,27 @@
 - Item: short-3 — Meditaciones 11:8
 - Duração: 26.2s
 - Publicado em: 2026-08-26T18:53:08+00:00
+
+## [es] 4saK1qB54G8 — El Buen Samaritano — Lucas 10 | Historia bíblica narrada
+
+- URL: https://youtu.be/4saK1qB54G8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Lucas 10:25-37
+- Duração: 184.7s
+- Publicado em: 2026-08-27T02:27:13+00:00
+
+## [pt] Kn8oSIYr2IE — O Bom Samaritano — Lucas 10 | História bíblica narrada
+
+- URL: https://youtu.be/Kn8oSIYr2IE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Lucas 10:25-37
+- Duração: 188.3s
+- Publicado em: 2026-08-27T02:29:26+00:00
+
+## [stoic] r4AoQkHTMAg — Piensa a quién quieres agradar
+
+- URL: https://youtu.be/r4AoQkHTMAg
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:77
+- Duração: 30.3s
+- Publicado em: 2026-08-27T02:30:45+00:00
