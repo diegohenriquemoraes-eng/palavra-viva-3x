@@ -3014,3 +3014,27 @@
 - Item: short-1 — Meditaciones 6:77
 - Duração: 30.3s
 - Publicado em: 2026-08-27T02:30:45+00:00
+
+## [es] d-YG8PMVjjA — Salmos para Dormir — Salmo 8, 29 y 93 | Biblia Hablada Completa
+
+- URL: https://youtu.be/d-YG8PMVjjA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 8, Salmo 29, Salmo 93
+- Duração: 2753.3s
+- Publicado em: 2026-08-27T13:47:25+00:00
+
+## [pt] Swg-e__L_Wc — Salmos para Dormir — Salmo 8, 29 e 93 | Bíblia Falada Completa
+
+- URL: https://youtu.be/Swg-e__L_Wc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 8, Salmo 29, Salmo 93
+- Duração: 2906.4s
+- Publicado em: 2026-08-27T14:15:39+00:00
+
+## [stoic] Exd0RqYiEOo — El elogio de quien no se soporta a sí mismo
+
+- URL: https://youtu.be/Exd0RqYiEOo
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 3:16
+- Duração: 19.5s
+- Publicado em: 2026-08-27T14:16:48+00:00
