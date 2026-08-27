@@ -1,0 +1,150 @@
+{
+  "slug": "el-vicio-propio",
+  "formato": "tema",
+  "data": "2026-08-29",
+  "criado_em": "2026-08-27T09:53:21+00:00",
+  "aprovado_em": "2026-08-27T09:53:21+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 8:41-60"
+    ],
+    "titulo": {
+      "stoic": "Marco Aurelio: Corrige lo Tuyo, No lo Ajeno | Meditaciones VIII"
+    },
+    "thumb_titulo": {
+      "stoic": "CORRIGE LO TUYO"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VIII"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg/1920px-Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Airman 1st Class John Nieves Camacho",
+        "origem": "https://commons.wikimedia.org/wiki/File:Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg/1920px-Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/Milan Loiacono",
+        "origem": "https://commons.wikimedia.org/wiki/File:Terra_Torch_(milanloiacono-firesensefortstewart-04-2025-0677).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg/1920px-Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author or not provided",
+        "origem": "https://commons.wikimedia.org/wiki/File:Near_Algiers,_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg/1920px-Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Forest Service - Northern Region",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_(53150816968).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Forest_dark_and_light.jpg/1920px-Forest_dark_and_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Will Aelethrune",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_and_light.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dark_forest%2C_full_of_light.jpg/1920px-Dark_forest%2C_full_of_light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Raven Winters",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest,_full_of_light.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Forest_dark_road.jpg/1920px-Forest_dark_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Paolo Neo",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_road.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Dark-forest-combo-3.jpg/1920px-Dark-forest-combo-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alton_Towers_Dark_Forest_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Jeremy Thompson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Alton_Towers_Dark_Forest_entrance.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg/1920px-Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Maxime Raynal from France",
+        "origem": "https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 7:78",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Huyes del vicio ajeno y no del tuyo"
+      },
+      "aplicacao": "El único defecto que puedes arreglar hoy es el tuyo. Empieza por ahí porque es el único posible.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:65",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La maldad solo daña a quien la hace"
+      },
+      "aplicacao": "Quien te trató mal ya se llevó el castigo: se quedó consigo mismo.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg/1920px-Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Maxime Raynal from France",
+        "origem": "https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:23",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Si puedes curarlo, cúralo"
+      },
+      "aplicacao": "Quejarse de algo que está en tu mano es la forma más cara de perder el día.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p02.jpg/1920px-Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Two-spouted_lamp_with_palmette_handle,_clay_-_Museo_Egizio_(Turin)_C_7278_p02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 5:40",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Esperar que los malos no hagan daño es de locos"
+      },
+      "aplicacao": "Deja de sorprenderte de que la gente sea como es. Sorprenderse cada vez es lo que agota.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dark_forest_scenic.jpg/1920px-Dark_forest_scenic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Sallie, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_scenic.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "ester-rainha",
+  "formato": "historia",
+  "data": "2026-08-29",
+  "criado_em": "2026-08-27T09:52:38+00:00",
+  "aprovado_em": "2026-08-27T09:52:38+00:00",
+  "longo": {
+    "refs": [
+      "Esther 4:1-17"
+    ],
+    "titulo": {
+      "es": "Ester — Quién Sabe si para Esta Hora | Historia bíblica narrada",
+      "en": "Esther — For Such a Time as This | Bible Story",
+      "pt": "Ester — Quem Sabe se para Esta Hora | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "PARA ESTA HORA",
+      "en": "FOR SUCH A TIME",
+      "pt": "PARA ESTA HORA"
+    },
+    "thumb_sub": {
+      "es": "Ester 4",
+      "en": "Esther 4",
+      "pt": "Ester 4"
+    },
+    "abertura": {
+      "es": "Ester, capítulo cuatro, entero. Mardoqueo rasga sus vestidos a la puerta del rey, y de ahí sale un intercambio de mensajes por medio de Hatac, el eunuco: la copia del edicto, la ley de los treinta días, el cetro de oro. El capítulo guarda las dos frases más conocidas del libro: quién sabe si para esta hora has llegado al reino, y si perezco, que perezca. Escucha el relato completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Ester, capítulo quatro, inteiro. Mardoqueu rasga as suas vestes à porta do rei, e daí sai uma troca de mensagens por meio de Hatá, o eunuco: a cópia do edito, a lei dos trinta dias, o cetro de ouro. O capítulo guarda as duas frases mais conhecidas do livro: quem sabe se para esta hora chegaste ao reino, e se perecer, pereci. Ouça o relato completo, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "ester 4",
+        "reina ester",
+        "quien sabe si para esta hora",
+        "historia biblica",
+        "mardoqueo",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "ester 4",
+        "rainha ester",
+        "quem sabe se para esta hora",
+        "historia biblica",
+        "mardoqueu",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Ester 4: Mardoqueo a la puerta del rey, el edicto, el cetro de oro y la respuesta de la reina. Narración completa y pausada, Reina-Valera 1909.",
+      "pt": "Ester 4: Mardoqueu à porta do rei, o edito, o cetro de ouro e a resposta da rainha. Narração completa e pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Gep%C3%A4ckabteil.jpg/1920px-Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Gep%C3%A4ckabteil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bvcmz248.5",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1,_nun_als_BFWL_der_vy,_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen,_Gep%C3%A4ckabteil.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Waschraum.jpg/1920px-Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Waschraum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bvcmz248.5",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1,_nun_als_BFWL_der_vy,_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen,_Waschraum.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%C3%89difice_Price_at_night%2C_Quebec_city%2C_Canada.jpg/1920px-%C3%89difice_Price_at_night%2C_Quebec_city%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Wilfredor",
+        "origem": "https://commons.wikimedia.org/wiki/File:%C3%89difice_Price_at_night,_Quebec_city,_Canada.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Petit_Champlain_at_night%2C_Quebec_city.jpg/1920px-Petit_Champlain_at_night%2C_Quebec_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Wilfredor",
+        "origem": "https://commons.wikimedia.org/wiki/File:Petit_Champlain_at_night,_Quebec_city.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "David Kernan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan_(Night).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2110_ND_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2110_ND_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p02.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p01.jpg/1920px-Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Two-spouted_lamp_with_palmette_handle,_clay_-_Museo_Egizio_(Turin)_C_7278_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p02.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p01.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Design_for_a_single_light_window_MET_DP319583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Louis Comfort Tiffany / Tiffany Studios / Tiffany Studios / Tiffany St",
+        "origem": "https://commons.wikimedia.org/wiki/File:Design_for_a_single_light_window_MET_DP319583.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Light_through_a_stained_glass_window%2C_cross%2C_wall_of_the_Marmor_%28Frederiks%29_Kirke_Copenhagen_Denmark.jpg/1920px-Light_through_a_stained_glass_window%2C_cross%2C_wall_of_the_Marmor_%28Frederiks%29_Kirke_Copenhagen_Denmark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jebulon",
+        "origem": "https://commons.wikimedia.org/wiki/File:Light_through_a_stained_glass_window,_cross,_wall_of_the_Marmor_(Frederiks)_Kirke_Copenhagen_Denmark.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Esther 4:14",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Ester 4 — Quién sabe si para esta hora | Historia bíblica",
+        "en": "Esther 4 — For Such a Time as This | Bible Story",
+        "pt": "Ester 4 — Quem sabe se para esta hora | História bíblica"
+      },
+      "aplicacao": {
+        "es": "La frase viene dentro de un aviso, no de un elogio.",
+        "pt": "A frase vem dentro de um aviso, não de um elogio."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Au%C3%9Fenansicht_%2832221%29.jpg/1920px-Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Au%C3%9Fenansicht_%2832221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bvcmz248.5",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1,_nun_als_BFWL_der_vy,_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen,_Au%C3%9Fenansicht_(32221).jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Esther 4:11",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Ester 4 — El que entra sin ser llamado | Historia bíblica",
+        "en": "Esther 4 — Whosoever Shall Come Uncalled | Bible Story",
+        "pt": "Ester 4 — Quem entra sem ser chamado | História bíblica"
+      },
+      "aplicacao": {
+        "es": "El verso cierra con un dato de tiempo: treinta días sin ser llamada.",
+        "pt": "O verso termina com um dado de tempo: trinta dias sem ser chamada."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p03.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2122_p03.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Esther 4:16",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Ester 4 — Y si perezco, que perezca | Historia bíblica",
+        "en": "Esther 4 — And If I Perish, I Perish | Bible Story",
+        "pt": "Ester 4 — E se perecer, pereci | História bíblica"
+      },
+      "aplicacao": {
+        "es": "Antes de la frase viene el plazo: tres días, de noche y de día.",
+        "pt": "Antes da frase vem o prazo: três dias, de noite e de dia."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Design_for_a_single_light_window_MET_DP319583.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Louis Comfort Tiffany / Tiffany Studios / Tiffany Studios / Tiffany St",
+        "origem": "https://commons.wikimedia.org/wiki/File:Design_for_a_single_light_window_MET_DP319583.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Esther 4:1-3",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Ester 4 — Mardoqueo rasgó sus vestidos | Historia bíblica",
+        "en": "Esther 4 — Mordecai Rent His Clothes | Bible Story",
+        "pt": "Ester 4 — Mardoqueu rasgou as suas vestes | História bíblica"
+      },
+      "aplicacao": {
+        "es": "El texto describe el luto antes de contar la decisión.",
+        "pt": "O texto descreve o luto antes de contar a decisão."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Waschraum.jpg/1920px-Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1%2C_nun_als_BFWL_der_vy%2C_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen%2C_Waschraum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bvcmz248.5",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ex_CityNightLine_CNL_Liegewagen_BDcm_874.1,_nun_als_BFWL_der_vy,_umgebaut_im_Einsatz_auf_der_Bergensbanen_in_Norwegen,_Waschraum.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
