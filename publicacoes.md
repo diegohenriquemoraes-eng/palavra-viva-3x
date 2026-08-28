@@ -3086,3 +3086,27 @@
 - Item: short-1 — Meditaciones 6:33
 - Duração: 29.8s
 - Publicado em: 2026-08-28T08:44:24+00:00
+
+## [es] qXbaqpf9UD0 — Salmos para Dormir en Paz — Salmo 47, 48 y 99 | Biblia Hablada
+
+- URL: https://youtu.be/qXbaqpf9UD0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 47, Salmo 48, Salmo 99
+- Duração: 3411.5s
+- Publicado em: 2026-08-28T20:15:53+00:00
+
+## [pt] CtqiZI7_h5c — Salmos para Dormir em Paz — Salmo 47, 48 e 99 | Bíblia Falada
+
+- URL: https://youtu.be/CtqiZI7_h5c
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 47, Salmo 48, Salmo 99
+- Duração: 3560.9s
+- Publicado em: 2026-08-28T20:44:45+00:00
+
+## [stoic] ut1UFgCqUuo — Unos caen antes y otros después
+
+- URL: https://youtu.be/ut1UFgCqUuo
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 4:24
+- Duração: 25.5s
+- Publicado em: 2026-08-28T20:45:49+00:00

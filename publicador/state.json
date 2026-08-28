@@ -1168,6 +1168,14 @@
           "video_id": "FoYIRzvvtz0",
           "titulo": "En Tu Mano Están Mis Tiempos — Salmo 31 | Biblia Hablada",
           "em": "2026-08-28T08:19:28+00:00"
+        },
+        {
+          "pacote": "2026-08-28-salmos-dormir-19",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "qXbaqpf9UD0",
+          "titulo": "Salmos para Dormir en Paz — Salmo 47, 48 y 99 | Biblia Hablada",
+          "em": "2026-08-28T20:15:53+00:00"
         }
       ],
       "ultimo_short": "2026-08-27T23:23:05+00:00",
@@ -1178,9 +1186,9 @@
       "longo_data": "2026-08-28",
       "longos_dia": {
         "data": "2026-08-28",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-08-28T08:19:28+00:00"
+      "ultimo_longo": "2026-08-28T20:15:53+00:00"
     },
     "en": {
       "publicados": [
@@ -2364,6 +2372,14 @@
           "video_id": "DcHB7jqaGpw",
           "titulo": "Nas Tuas Mãos Estão os Meus Dias — Salmo 31 | Bíblia Narrada",
           "em": "2026-08-28T08:42:23+00:00"
+        },
+        {
+          "pacote": "2026-08-28-salmos-dormir-19",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "CtqiZI7_h5c",
+          "titulo": "Salmos para Dormir em Paz — Salmo 47, 48 e 99 | Bíblia Falada",
+          "em": "2026-08-28T20:44:45+00:00"
         }
       ],
       "ultimo_short": "2026-08-27T23:23:58+00:00",
@@ -2374,9 +2390,9 @@
       "longo_data": "2026-08-28",
       "longos_dia": {
         "data": "2026-08-28",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-08-28T08:42:23+00:00"
+      "ultimo_longo": "2026-08-28T20:44:45+00:00"
     },
     "stoic": {
       "publicados": [
@@ -2687,12 +2703,20 @@
           "video_id": "1RRHFpqKIW8",
           "titulo": "Alejandro y su mozo de mulas acabaron igual",
           "em": "2026-08-28T08:44:24+00:00"
+        },
+        {
+          "pacote": "2026-08-28-igualados-por-el-tiempo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "ut1UFgCqUuo",
+          "titulo": "Unos caen antes y otros después",
+          "em": "2026-08-28T20:45:49+00:00"
         }
       ],
-      "ultimo_short": "2026-08-28T08:44:24+00:00",
+      "ultimo_short": "2026-08-28T20:45:49+00:00",
       "shorts_dia": {
         "data": "2026-08-28",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
