@@ -1160,6 +1160,14 @@
           "video_id": "0SF6EAwAiy4",
           "titulo": "Lucas 10 — ¿Y quién es mi prójimo? | Historia bíblica",
           "em": "2026-08-27T23:23:05+00:00"
+        },
+        {
+          "pacote": "2026-08-28-cura-e-consolo",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "FoYIRzvvtz0",
+          "titulo": "En Tu Mano Están Mis Tiempos — Salmo 31 | Biblia Hablada",
+          "em": "2026-08-28T08:19:28+00:00"
         }
       ],
       "ultimo_short": "2026-08-27T23:23:05+00:00",
@@ -1167,12 +1175,12 @@
         "data": "2026-08-27",
         "n": 1
       },
-      "longo_data": "2026-08-27",
+      "longo_data": "2026-08-28",
       "longos_dia": {
-        "data": "2026-08-27",
-        "n": 2
+        "data": "2026-08-28",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-27T13:47:25+00:00"
+      "ultimo_longo": "2026-08-28T08:19:28+00:00"
     },
     "en": {
       "publicados": [
@@ -2348,6 +2356,14 @@
           "video_id": "3i_jR4m9VFA",
           "titulo": "Lucas 10 — E quem é o meu próximo? | História bíblica",
           "em": "2026-08-27T23:23:58+00:00"
+        },
+        {
+          "pacote": "2026-08-28-cura-e-consolo",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "DcHB7jqaGpw",
+          "titulo": "Nas Tuas Mãos Estão os Meus Dias — Salmo 31 | Bíblia Narrada",
+          "em": "2026-08-28T08:42:23+00:00"
         }
       ],
       "ultimo_short": "2026-08-27T23:23:58+00:00",
@@ -2355,12 +2371,12 @@
         "data": "2026-08-27",
         "n": 1
       },
-      "longo_data": "2026-08-27",
+      "longo_data": "2026-08-28",
       "longos_dia": {
-        "data": "2026-08-27",
-        "n": 2
+        "data": "2026-08-28",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-27T14:15:38+00:00"
+      "ultimo_longo": "2026-08-28T08:42:23+00:00"
     },
     "stoic": {
       "publicados": [
@@ -2663,12 +2679,20 @@
           "video_id": "LfW4FIuPoAo",
           "titulo": "Los que hoy se desprecian, mañana se halagan",
           "em": "2026-08-27T23:25:06+00:00"
+        },
+        {
+          "pacote": "2026-08-28-igualados-por-el-tiempo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "1RRHFpqKIW8",
+          "titulo": "Alejandro y su mozo de mulas acabaron igual",
+          "em": "2026-08-28T08:44:24+00:00"
         }
       ],
-      "ultimo_short": "2026-08-27T23:25:06+00:00",
+      "ultimo_short": "2026-08-28T08:44:24+00:00",
       "shorts_dia": {
-        "data": "2026-08-27",
-        "n": 3
+        "data": "2026-08-28",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

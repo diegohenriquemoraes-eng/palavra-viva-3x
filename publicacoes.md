@@ -3062,3 +3062,27 @@
 - Item: short-3 — Meditaciones 11:27
 - Duração: 27.0s
 - Publicado em: 2026-08-27T23:25:06+00:00
+
+## [es] FoYIRzvvtz0 — En Tu Mano Están Mis Tiempos — Salmo 31 | Biblia Hablada
+
+- URL: https://youtu.be/FoYIRzvvtz0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 31
+- Duração: 1985.5s
+- Publicado em: 2026-08-28T08:19:28+00:00
+
+## [pt] DcHB7jqaGpw — Nas Tuas Mãos Estão os Meus Dias — Salmo 31 | Bíblia Narrada
+
+- URL: https://youtu.be/DcHB7jqaGpw
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 31
+- Duração: 2052.2s
+- Publicado em: 2026-08-28T08:42:23+00:00
+
+## [stoic] 1RRHFpqKIW8 — Alejandro y su mozo de mulas acabaron igual
+
+- URL: https://youtu.be/1RRHFpqKIW8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:33
+- Duração: 29.8s
+- Publicado em: 2026-08-28T08:44:24+00:00
