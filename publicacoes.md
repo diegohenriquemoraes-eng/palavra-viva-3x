@@ -3110,3 +3110,19 @@
 - Item: short-2 — Meditaciones 4:24
 - Duração: 25.5s
 - Publicado em: 2026-08-28T20:45:49+00:00
+
+## [es] Qft5es-X94w — Ester — Quién Sabe si para Esta Hora | Historia bíblica narrada
+
+- URL: https://youtu.be/Qft5es-X94w
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Ester 4:1-17
+- Duração: 265.4s
+- Publicado em: 2026-08-29T02:40:34+00:00
+
+## [pt] Xoo3dPp8qBo — Ester — Quem Sabe se para Esta Hora | História bíblica narrada
+
+- URL: https://youtu.be/Xoo3dPp8qBo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Ester 4:1-17
+- Duração: 257.3s
+- Publicado em: 2026-08-29T02:43:56+00:00

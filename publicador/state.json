@@ -1176,6 +1176,14 @@
           "video_id": "qXbaqpf9UD0",
           "titulo": "Salmos para Dormir en Paz — Salmo 47, 48 y 99 | Biblia Hablada",
           "em": "2026-08-28T20:15:53+00:00"
+        },
+        {
+          "pacote": "2026-08-29-ester-rainha",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "Qft5es-X94w",
+          "titulo": "Ester — Quién Sabe si para Esta Hora | Historia bíblica narrada",
+          "em": "2026-08-29T02:40:34+00:00"
         }
       ],
       "ultimo_short": "2026-08-27T23:23:05+00:00",
@@ -1183,12 +1191,12 @@
         "data": "2026-08-27",
         "n": 1
       },
-      "longo_data": "2026-08-28",
+      "longo_data": "2026-08-29",
       "longos_dia": {
-        "data": "2026-08-28",
-        "n": 2
+        "data": "2026-08-29",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-28T20:15:53+00:00"
+      "ultimo_longo": "2026-08-29T02:40:34+00:00"
     },
     "en": {
       "publicados": [
@@ -2380,6 +2388,14 @@
           "video_id": "CtqiZI7_h5c",
           "titulo": "Salmos para Dormir em Paz — Salmo 47, 48 e 99 | Bíblia Falada",
           "em": "2026-08-28T20:44:45+00:00"
+        },
+        {
+          "pacote": "2026-08-29-ester-rainha",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "Xoo3dPp8qBo",
+          "titulo": "Ester — Quem Sabe se para Esta Hora | História bíblica narrada",
+          "em": "2026-08-29T02:43:56+00:00"
         }
       ],
       "ultimo_short": "2026-08-27T23:23:58+00:00",
@@ -2387,12 +2403,12 @@
         "data": "2026-08-27",
         "n": 1
       },
-      "longo_data": "2026-08-28",
+      "longo_data": "2026-08-29",
       "longos_dia": {
-        "data": "2026-08-28",
-        "n": 2
+        "data": "2026-08-29",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-28T20:44:45+00:00"
+      "ultimo_longo": "2026-08-29T02:43:56+00:00"
     },
     "stoic": {
       "publicados": [
