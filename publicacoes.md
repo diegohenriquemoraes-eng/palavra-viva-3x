@@ -3150,3 +3150,27 @@
 - Item: longo — Salmo 105
 - Duração: 4137.4s
 - Publicado em: 2026-08-29T15:48:12+00:00
+
+## [es] 3jcx8qDUyaU — Ester 4 — Quién sabe si para esta hora | Historia bíblica
+
+- URL: https://youtu.be/3jcx8qDUyaU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Ester 4:14
+- Duração: 23.2s
+- Publicado em: 2026-08-29T18:02:55+00:00
+
+## [pt] hcR2PTc00Fo — Ester 4 — Quem sabe se para esta hora | História bíblica
+
+- URL: https://youtu.be/hcR2PTc00Fo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Ester 4:14
+- Duração: 21.8s
+- Publicado em: 2026-08-29T18:04:02+00:00
+
+## [stoic] LshEMi7taos — La maldad solo daña a quien la hace
+
+- URL: https://youtu.be/LshEMi7taos
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 8:65
+- Duração: 25.1s
+- Publicado em: 2026-08-29T18:05:10+00:00

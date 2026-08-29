@@ -1192,11 +1192,19 @@
           "video_id": "zMS4GJP40u0",
           "titulo": "Salmos para Dormir — Salmo 105 Completo | Biblia Hablada",
           "em": "2026-08-29T15:16:00+00:00"
+        },
+        {
+          "pacote": "2026-08-29-ester-rainha",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "3jcx8qDUyaU",
+          "titulo": "Ester 4 — Quién sabe si para esta hora | Historia bíblica",
+          "em": "2026-08-29T18:02:55+00:00"
         }
       ],
-      "ultimo_short": "2026-08-27T23:23:05+00:00",
+      "ultimo_short": "2026-08-29T18:02:55+00:00",
       "shorts_dia": {
-        "data": "2026-08-27",
+        "data": "2026-08-29",
         "n": 1
       },
       "longo_data": "2026-08-29",
@@ -2412,11 +2420,19 @@
           "video_id": "eynJ14oSbLI",
           "titulo": "Salmos para Dormir — Salmo 105 Completo | Bíblia Falada",
           "em": "2026-08-29T15:48:12+00:00"
+        },
+        {
+          "pacote": "2026-08-29-ester-rainha",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "hcR2PTc00Fo",
+          "titulo": "Ester 4 — Quem sabe se para esta hora | História bíblica",
+          "em": "2026-08-29T18:04:02+00:00"
         }
       ],
-      "ultimo_short": "2026-08-27T23:23:58+00:00",
+      "ultimo_short": "2026-08-29T18:04:02+00:00",
       "shorts_dia": {
-        "data": "2026-08-27",
+        "data": "2026-08-29",
         "n": 1
       },
       "longo_data": "2026-08-29",
@@ -2751,12 +2767,20 @@
           "video_id": "lDgLADSdPIs",
           "titulo": "Huyes del vicio ajeno y no del tuyo",
           "em": "2026-08-29T09:35:44+00:00"
+        },
+        {
+          "pacote": "2026-08-29-el-vicio-propio",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "LshEMi7taos",
+          "titulo": "La maldad solo daña a quien la hace",
+          "em": "2026-08-29T18:05:10+00:00"
         }
       ],
-      "ultimo_short": "2026-08-29T09:35:44+00:00",
+      "ultimo_short": "2026-08-29T18:05:10+00:00",
       "shorts_dia": {
         "data": "2026-08-29",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
