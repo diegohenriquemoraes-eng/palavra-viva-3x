@@ -2727,12 +2727,20 @@
           "video_id": "ut1UFgCqUuo",
           "titulo": "Unos caen antes y otros después",
           "em": "2026-08-28T20:45:49+00:00"
+        },
+        {
+          "pacote": "2026-08-29-el-vicio-propio",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "lDgLADSdPIs",
+          "titulo": "Huyes del vicio ajeno y no del tuyo",
+          "em": "2026-08-29T09:35:44+00:00"
         }
       ],
-      "ultimo_short": "2026-08-28T20:45:49+00:00",
+      "ultimo_short": "2026-08-29T09:35:44+00:00",
       "shorts_dia": {
-        "data": "2026-08-28",
-        "n": 2
+        "data": "2026-08-29",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

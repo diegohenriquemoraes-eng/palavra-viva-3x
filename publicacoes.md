@@ -3126,3 +3126,11 @@
 - Item: longo — Ester 4:1-17
 - Duração: 257.3s
 - Publicado em: 2026-08-29T02:43:56+00:00
+
+## [stoic] lDgLADSdPIs — Huyes del vicio ajeno y no del tuyo
+
+- URL: https://youtu.be/lDgLADSdPIs
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 7:78
+- Duração: 26.0s
+- Publicado em: 2026-08-29T09:35:44+00:00
