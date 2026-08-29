@@ -3134,3 +3134,19 @@
 - Item: short-1 — Meditaciones 7:78
 - Duração: 26.0s
 - Publicado em: 2026-08-29T09:35:44+00:00
+
+## [es] zMS4GJP40u0 — Salmos para Dormir — Salmo 105 Completo | Biblia Hablada
+
+- URL: https://youtu.be/zMS4GJP40u0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 105
+- Duração: 3967.2s
+- Publicado em: 2026-08-29T15:16:00+00:00
+
+## [pt] eynJ14oSbLI — Salmos para Dormir — Salmo 105 Completo | Bíblia Falada
+
+- URL: https://youtu.be/eynJ14oSbLI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 105
+- Duração: 4137.4s
+- Publicado em: 2026-08-29T15:48:12+00:00

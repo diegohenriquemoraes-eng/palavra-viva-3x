@@ -1184,6 +1184,14 @@
           "video_id": "Qft5es-X94w",
           "titulo": "Ester — Quién Sabe si para Esta Hora | Historia bíblica narrada",
           "em": "2026-08-29T02:40:34+00:00"
+        },
+        {
+          "pacote": "2026-08-29-salmos-dormir-20",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "zMS4GJP40u0",
+          "titulo": "Salmos para Dormir — Salmo 105 Completo | Biblia Hablada",
+          "em": "2026-08-29T15:16:00+00:00"
         }
       ],
       "ultimo_short": "2026-08-27T23:23:05+00:00",
@@ -1194,9 +1202,9 @@
       "longo_data": "2026-08-29",
       "longos_dia": {
         "data": "2026-08-29",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-08-29T02:40:34+00:00"
+      "ultimo_longo": "2026-08-29T15:16:00+00:00"
     },
     "en": {
       "publicados": [
@@ -2396,6 +2404,14 @@
           "video_id": "Xoo3dPp8qBo",
           "titulo": "Ester — Quem Sabe se para Esta Hora | História bíblica narrada",
           "em": "2026-08-29T02:43:56+00:00"
+        },
+        {
+          "pacote": "2026-08-29-salmos-dormir-20",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "eynJ14oSbLI",
+          "titulo": "Salmos para Dormir — Salmo 105 Completo | Bíblia Falada",
+          "em": "2026-08-29T15:48:12+00:00"
         }
       ],
       "ultimo_short": "2026-08-27T23:23:58+00:00",
@@ -2406,9 +2422,9 @@
       "longo_data": "2026-08-29",
       "longos_dia": {
         "data": "2026-08-29",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-08-29T02:43:56+00:00"
+      "ultimo_longo": "2026-08-29T15:48:12+00:00"
     },
     "stoic": {
       "publicados": [
