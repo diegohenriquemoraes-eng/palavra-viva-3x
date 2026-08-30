@@ -2839,12 +2839,20 @@
           "video_id": "n5cR1RsgskA",
           "titulo": "Cambiar de opinión también es tuyo",
           "em": "2026-08-30T14:38:58+00:00"
+        },
+        {
+          "pacote": "2026-08-30-nadie-puede-forzarte",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "Wzb7FDTrs-A",
+          "titulo": "Yo cumplo con lo mío",
+          "em": "2026-08-30T21:45:09+00:00"
         }
       ],
-      "ultimo_short": "2026-08-30T14:38:58+00:00",
+      "ultimo_short": "2026-08-30T21:45:09+00:00",
       "shorts_dia": {
         "data": "2026-08-30",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
