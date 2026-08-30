@@ -1,0 +1,188 @@
+{
+  "slug": "rute-noemi",
+  "formato": "historia",
+  "data": "2026-09-01",
+  "criado_em": "2026-08-30T05:27:19+00:00",
+  "aprovado_em": "2026-08-30T05:27:19+00:00",
+  "longo": {
+    "refs": [
+      "Ruth 1:1-22"
+    ],
+    "titulo": {
+      "es": "Rut y Noemí — Rut 1 | Historia bíblica narrada",
+      "en": "Ruth and Naomi — Ruth 1 | Bible Story",
+      "pt": "Rute e Noemi — Rute 1 | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "A DONDE TÚ VAYAS",
+      "en": "WHERE YOU GO",
+      "pt": "AONDE FORES"
+    },
+    "thumb_sub": {
+      "es": "Rut 1",
+      "en": "Ruth 1",
+      "pt": "Rute 1"
+    },
+    "abertura": {
+      "es": "Rut, capítulo uno. Una familia sale de Belén por causa del hambre y se establece en tierra de Moab. Allí mueren el padre y los dos hijos, y quedan tres viudas. Noemí decide volver y les dice a sus nueras que se queden. Una se queda; la otra responde con las palabras que se repiten desde hace tres mil años: dondequiera que tú fueres, iré yo. Escucha el capítulo completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Rute, capítulo um. Uma família sai de Belém por causa da fome e vai morar em Moabe. Ali morrem o pai e os dois filhos, e ficam três viúvas. Noemi decide voltar e diz às noras que fiquem. Uma fica; a outra responde com as palavras que se repetem há três mil anos: aonde quer que fores, irei eu. Ouça o capítulo completo, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "rut y noemi",
+        "rut 1",
+        "historia biblica",
+        "libro de rut",
+        "dondequiera que tu fueres ire yo",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "rute e noemi",
+        "rute 1",
+        "historia biblica",
+        "livro de rute",
+        "aonde fores irei",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Rut 1: el hambre, Moab, las tres viudas y la respuesta de Rut a Noemí. Narración completa y pausada, Reina-Valera 1909.",
+      "pt": "Rute 1: a fome, Moabe, as três viúvas e a resposta de Rute a Noemi. Narração completa e pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tree_and_wheat_field_in_R%C3%B6e_2.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg/1920px-Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vincent van Gogh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wheat-Field-with-Cypresses-(1889)-Vincent-van-Gogh-Met.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Field_of_Wheat_%28940538885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Rob Young from United Kingdom",
+        "origem": "https://commons.wikimedia.org/wiki/File:Field_of_Wheat_(940538885).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tree_and_wheat_field_in_R%C3%B6e_1.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sunset-over-the-wheat-field-featured.jpg/1920px-Sunset-over-the-wheat-field-featured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dreamy Pixel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunset-over-the-wheat-field-featured.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Dusk_Sky.jpg/1920px-Dusk_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dusk_Sky_%289825349336%29.jpg/1920px-Dusk_Sky_%289825349336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky_(9825349336).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Ruth 1:16-17",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Rut 1:16 — Dondequiera que tú fueres, iré yo | Biblia",
+        "en": "Ruth 1:16 — Where You Go, I Will Go | Bible",
+        "pt": "Rute 1:16 — Aonde quer que fores, irei eu | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Rut no promete quedarse: promete no volver.",
+        "pt": "Rute não promete ficar: promete não voltar."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tree_and_wheat_field_in_R%C3%B6e_3.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_3.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Ruth 1:8-9",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Rut 1 — Haga Jehová misericordia con vosotras | Biblia",
+        "en": "Ruth 1 — The Lord Deal Kindly with You | Bible",
+        "pt": "Rute 1 — O Senhor use de bondade convosco | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Noemí las despide con una bendición, no con un reproche.",
+        "pt": "Noemi as despede com uma bênção, não com uma censura."
+      },
+      "imagem": null
+    },
+    {
+      "ref": "Ruth 1:20-21",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Rut 1 — No me llaméis Noemí, llamadme Mara | Biblia",
+        "en": "Ruth 1 — Call Me Not Naomi, Call Me Mara | Bible",
+        "pt": "Rute 1 — Não me chameis Noemi, chamai-me Mara | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Ella misma pide que le cambien el nombre: Noemí significa dulzura.",
+        "pt": "Ela mesma pede que lhe mudem o nome: Noemi significa doçura."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Ruth 1:22",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Rut 1 — Llegaron al principio de la siega | Biblia",
+        "en": "Ruth 1 — They Came at the Beginning of Harvest | Bible",
+        "pt": "Rute 1 — Chegaram no princípio da colheita | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El capítulo cierra marcando la fecha: el principio de la siega de la cebada.",
+        "pt": "O capítulo fecha marcando a data: o princípio da colheita da cevada."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tree_and_wheat_field_in_R%C3%B6e_3.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_3.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
