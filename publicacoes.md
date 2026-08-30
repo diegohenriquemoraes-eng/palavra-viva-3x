@@ -3222,3 +3222,19 @@
 - Item: short-2 — Meditaciones 8:19
 - Duração: 27.0s
 - Publicado em: 2026-08-30T14:38:58+00:00
+
+## [es] 22nxIVde384 — Salmo 2:1 — ¿Por qué se amotinan las gentes | Biblia
+
+- URL: https://youtu.be/22nxIVde384
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 2:1
+- Duração: 13.1s
+- Publicado em: 2026-08-30T18:17:00+00:00
+
+## [pt] OK2-LjI41Ws — Salmo 2:1 — Por que as nações se rebelam | Bíblia
+
+- URL: https://youtu.be/OK2-LjI41Ws
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 2:1
+- Duração: 13.0s
+- Publicado em: 2026-08-30T18:17:44+00:00
