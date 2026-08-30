@@ -3174,3 +3174,27 @@
 - Item: short-2 — Meditaciones 8:65
 - Duração: 25.1s
 - Publicado em: 2026-08-29T18:05:10+00:00
+
+## [es] g4N_UxnoV3Y — Salmos para Dormir — Salmo 2 Completo | Biblia Hablada
+
+- URL: https://youtu.be/g4N_UxnoV3Y
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 2
+- Duração: 1262.5s
+- Publicado em: 2026-08-30T02:42:25+00:00
+
+## [pt] fPoKVvKHGLs — Salmos para Dormir — Salmo 2 Completo | Bíblia Falada
+
+- URL: https://youtu.be/fPoKVvKHGLs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 2
+- Duração: 1340.6s
+- Publicado em: 2026-08-30T02:53:39+00:00
+
+## [stoic] fsOx026CGNo — Nadie puede forzarte por dentro
+
+- URL: https://youtu.be/fsOx026CGNo
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 5:29
+- Duração: 25.0s
+- Publicado em: 2026-08-30T02:55:05+00:00

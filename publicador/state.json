@@ -1200,6 +1200,14 @@
           "video_id": "3jcx8qDUyaU",
           "titulo": "Ester 4 — Quién sabe si para esta hora | Historia bíblica",
           "em": "2026-08-29T18:02:55+00:00"
+        },
+        {
+          "pacote": "2026-08-30-salmo-2-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "g4N_UxnoV3Y",
+          "titulo": "Salmos para Dormir — Salmo 2 Completo | Biblia Hablada",
+          "em": "2026-08-30T02:42:25+00:00"
         }
       ],
       "ultimo_short": "2026-08-29T18:02:55+00:00",
@@ -1207,12 +1215,12 @@
         "data": "2026-08-29",
         "n": 1
       },
-      "longo_data": "2026-08-29",
+      "longo_data": "2026-08-30",
       "longos_dia": {
-        "data": "2026-08-29",
-        "n": 2
+        "data": "2026-08-30",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-29T15:16:00+00:00"
+      "ultimo_longo": "2026-08-30T02:42:25+00:00"
     },
     "en": {
       "publicados": [
@@ -2428,6 +2436,14 @@
           "video_id": "hcR2PTc00Fo",
           "titulo": "Ester 4 — Quem sabe se para esta hora | História bíblica",
           "em": "2026-08-29T18:04:02+00:00"
+        },
+        {
+          "pacote": "2026-08-30-salmo-2-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "fPoKVvKHGLs",
+          "titulo": "Salmos para Dormir — Salmo 2 Completo | Bíblia Falada",
+          "em": "2026-08-30T02:53:39+00:00"
         }
       ],
       "ultimo_short": "2026-08-29T18:04:02+00:00",
@@ -2435,12 +2451,12 @@
         "data": "2026-08-29",
         "n": 1
       },
-      "longo_data": "2026-08-29",
+      "longo_data": "2026-08-30",
       "longos_dia": {
-        "data": "2026-08-29",
-        "n": 2
+        "data": "2026-08-30",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-29T15:48:12+00:00"
+      "ultimo_longo": "2026-08-30T02:53:39+00:00"
     },
     "stoic": {
       "publicados": [
@@ -2775,12 +2791,20 @@
           "video_id": "LshEMi7taos",
           "titulo": "La maldad solo daña a quien la hace",
           "em": "2026-08-29T18:05:10+00:00"
+        },
+        {
+          "pacote": "2026-08-30-nadie-puede-forzarte",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "fsOx026CGNo",
+          "titulo": "Nadie puede forzarte por dentro",
+          "em": "2026-08-30T02:55:05+00:00"
         }
       ],
-      "ultimo_short": "2026-08-29T18:05:10+00:00",
+      "ultimo_short": "2026-08-30T02:55:05+00:00",
       "shorts_dia": {
-        "data": "2026-08-29",
-        "n": 2
+        "data": "2026-08-30",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
