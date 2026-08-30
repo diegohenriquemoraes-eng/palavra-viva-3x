@@ -3198,3 +3198,27 @@
 - Item: short-1 — Meditaciones 5:29
 - Duração: 25.0s
 - Publicado em: 2026-08-30T02:55:05+00:00
+
+## [es] 4d48JQamhCs — Todo Tiene su Tiempo — Eclesiastés 3 y Proverbios 16 | Biblia
+
+- URL: https://youtu.be/4d48JQamhCs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Eclesiastés 3:1-14, Proverbios 16:1-9
+- Duração: 1939.1s
+- Publicado em: 2026-08-30T14:22:01+00:00
+
+## [pt] Bt8rV3kCAEE — Tudo Tem o seu Tempo — Eclesiastes 3 e Provérbios 16 | Bíblia
+
+- URL: https://youtu.be/Bt8rV3kCAEE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Eclesiastes 3:1-14, Provérbios 16:1-9
+- Duração: 1923.5s
+- Publicado em: 2026-08-30T14:37:52+00:00
+
+## [stoic] n5cR1RsgskA — Cambiar de opinión también es tuyo
+
+- URL: https://youtu.be/n5cR1RsgskA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 8:19
+- Duração: 27.0s
+- Publicado em: 2026-08-30T14:38:58+00:00

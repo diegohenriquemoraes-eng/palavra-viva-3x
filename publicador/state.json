@@ -1208,6 +1208,14 @@
           "video_id": "g4N_UxnoV3Y",
           "titulo": "Salmos para Dormir — Salmo 2 Completo | Biblia Hablada",
           "em": "2026-08-30T02:42:25+00:00"
+        },
+        {
+          "pacote": "2026-08-30-trabalho-e-proposito",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "4d48JQamhCs",
+          "titulo": "Todo Tiene su Tiempo — Eclesiastés 3 y Proverbios 16 | Biblia",
+          "em": "2026-08-30T14:22:01+00:00"
         }
       ],
       "ultimo_short": "2026-08-29T18:02:55+00:00",
@@ -1218,9 +1226,9 @@
       "longo_data": "2026-08-30",
       "longos_dia": {
         "data": "2026-08-30",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-08-30T02:42:25+00:00"
+      "ultimo_longo": "2026-08-30T14:22:01+00:00"
     },
     "en": {
       "publicados": [
@@ -2444,6 +2452,14 @@
           "video_id": "fPoKVvKHGLs",
           "titulo": "Salmos para Dormir — Salmo 2 Completo | Bíblia Falada",
           "em": "2026-08-30T02:53:39+00:00"
+        },
+        {
+          "pacote": "2026-08-30-trabalho-e-proposito",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "Bt8rV3kCAEE",
+          "titulo": "Tudo Tem o seu Tempo — Eclesiastes 3 e Provérbios 16 | Bíblia",
+          "em": "2026-08-30T14:37:52+00:00"
         }
       ],
       "ultimo_short": "2026-08-29T18:04:02+00:00",
@@ -2454,9 +2470,9 @@
       "longo_data": "2026-08-30",
       "longos_dia": {
         "data": "2026-08-30",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-08-30T02:53:39+00:00"
+      "ultimo_longo": "2026-08-30T14:37:52+00:00"
     },
     "stoic": {
       "publicados": [
@@ -2799,12 +2815,20 @@
           "video_id": "fsOx026CGNo",
           "titulo": "Nadie puede forzarte por dentro",
           "em": "2026-08-30T02:55:05+00:00"
+        },
+        {
+          "pacote": "2026-08-30-nadie-puede-forzarte",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "n5cR1RsgskA",
+          "titulo": "Cambiar de opinión también es tuyo",
+          "em": "2026-08-30T14:38:58+00:00"
         }
       ],
-      "ultimo_short": "2026-08-30T02:55:05+00:00",
+      "ultimo_short": "2026-08-30T14:38:58+00:00",
       "shorts_dia": {
         "data": "2026-08-30",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
