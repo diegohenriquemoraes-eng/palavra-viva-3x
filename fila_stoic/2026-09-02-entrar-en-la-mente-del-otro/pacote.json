@@ -1,0 +1,168 @@
+{
+  "slug": "entrar-en-la-mente-del-otro",
+  "formato": "tema",
+  "data": "2026-09-02",
+  "criado_em": "2026-08-31T05:40:08+00:00",
+  "aprovado_em": "2026-08-31T05:40:08+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 8:61-72"
+    ],
+    "titulo": {
+      "stoic": "Marco Aurelio: Entender al Otro Antes de Juzgarlo | Meditaciones VIII"
+    },
+    "thumb_titulo": {
+      "stoic": "ENTIENDE ANTES DE JUZGAR"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VIII"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Busan_fishing_harbor_at_night_19.jpg/1920px-Busan_fishing_harbor_at_night_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_19.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Busan_fishing_harbor_at_night_3.jpg/1920px-Busan_fishing_harbor_at_night_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Harbor_Theatre_at_night%2C_Stone_Harbor%2C_N._J._%288532211706%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Boston Public Library",
+        "origem": "https://commons.wikimedia.org/wiki/File:Harbor_Theatre_at_night,_Stone_Harbor,_N._J._(8532211706).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Boothbay_Harbor_At_Night_%2833316956763%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Paul VanDerWerf from Brunswick, Maine, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Boothbay_Harbor_At_Night_(33316956763).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Busan_fishing_harbor_at_night_20.jpg/1920px-Busan_fishing_harbor_at_night_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_20.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p02.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p02.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2117_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2117_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2117_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dark_forest_%2852747086562%29.jpg/1920px-Dark_forest_%2852747086562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Anton Atanasov from Plovdiv, Bulgaria",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_(52747086562).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dark-eyed_junco_%28Pisgah_National_Forest%29.jpg/1920px-Dark-eyed_junco_%28Pisgah_National_Forest%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "cricketsblog",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-eyed_junco_(Pisgah_National_Forest).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alton_Towers_Dark_Forest_entrance_closeup.jpg/1920px-Alton_Towers_Dark_Forest_entrance_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jeremy Thompson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Alton_Towers_Dark_Forest_entrance_closeup.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dark-forest-combo-11.jpg/1920px-Dark-forest-combo-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-11.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 8:72",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Entra en la mente del otro"
+      },
+      "aplicacao": "Antes de responder, pregúntate qué tendría que estarle pasando para actuar así.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Busan_fishing_harbor_at_night_13.jpg/1920px-Busan_fishing_harbor_at_night_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_13.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 11:26",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Naciste para lo común"
+      },
+      "aplicacao": "El día que ayudas a alguien sin cuenta pendiente, te va mejor a ti también. No es bondad: es diseño.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p02.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2122_p02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:43",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Lo semejante se busca"
+      },
+      "aplicacao": "Rodéate de quien te empuja hacia arriba. Eso hace más que cualquier propósito.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg/1920px-Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Infrogmation of New Orleans",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 11:38",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Dentro de poco no estará ninguno"
+      },
+      "aplicacao": "Cuando quieras responder con dureza, recuerda cuánto dura esto. Casi siempre te callas.",
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Dark-forest-combo-4.jpg/1920px-Dark-forest-combo-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-4.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

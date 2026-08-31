@@ -1,0 +1,140 @@
+{
+  "slug": "zaqueu",
+  "formato": "historia",
+  "data": "2026-09-02",
+  "criado_em": "2026-08-31T05:39:15+00:00",
+  "aprovado_em": "2026-08-31T05:39:15+00:00",
+  "longo": {
+    "refs": [
+      "Luke 19:1-10"
+    ],
+    "titulo": {
+      "es": "Zaqueo y el Sicómoro — Lucas 19 | Historia bíblica narrada",
+      "en": "Zacchaeus and the Sycamore — Luke 19 | Bible Story",
+      "pt": "Zaqueu e o Sicômoro — Lucas 19 | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "HOY EN TU CASA",
+      "en": "TODAY AT YOUR HOUSE",
+      "pt": "HOJE EM TUA CASA"
+    },
+    "thumb_sub": {
+      "es": "Lucas 19",
+      "en": "Luke 19",
+      "pt": "Lucas 19"
+    },
+    "abertura": {
+      "es": "Lucas, capítulo diecinueve. Jericó. Un hombre pequeño de estatura y principal de los publicanos quiere ver quién es Jesús y no lo consigue por la multitud; corre delante y se sube a un sicómoro. Lo que sigue es breve y cambia una casa entera. Escucha el relato completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Lucas, capítulo dezenove. Jericó. Um homem pequeno de estatura e chefe dos publicanos quer ver quem é Jesus e não consegue por causa da multidão; corre à frente e sobe num sicômoro. O que vem depois é curto e muda uma casa inteira. Ouça o relato completo, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "zaqueo",
+        "lucas 19",
+        "historia biblica",
+        "zaqueo sicomoro",
+        "publicano",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "zaqueu",
+        "lucas 19",
+        "historia biblica",
+        "zaqueu sicomoro",
+        "publicano",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Lucas 19: Jericó, el sicómoro, la casa de Zaqueo y la restitución. Narración completa y pausada, Reina-Valera 1909.",
+      "pt": "Lucas 19: Jericó, o sicômoro, a casa de Zaqueu e a restituição. Narração completa e pausada, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tropical_fig_tree_syconium.jpg/1920px-Tropical_fig_tree_syconium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Thyrome",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tropical_fig_tree_syconium.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Stone_Road_Mall_Guelph.jpg/1920px-Stone_Road_Mall_Guelph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "GTD Aquitaine",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stone_Road_Mall_Guelph.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Luke 19:3-4",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Lucas 19 — Subió a un árbol para verle | Biblia",
+        "en": "Luke 19 — He Climbed a Tree to See Him | Bible",
+        "pt": "Lucas 19 — Subiu numa árvore para o ver | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El texto anota el motivo: era pequeño de estatura.",
+        "pt": "O texto anota o motivo: era pequeno de estatura."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tropical_fig_tree_syconium.jpg/1920px-Tropical_fig_tree_syconium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Thyrome",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tropical_fig_tree_syconium.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Luke 19:5",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Lucas 19 — Hoy es necesario que pose en tu casa | Biblia",
+        "en": "Luke 19 — Today I Must Abide at Thy House | Bible",
+        "pt": "Lucas 19 — Hoje me convém ficar em tua casa | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Jesús lo llama por el nombre antes de que él diga una palabra.",
+        "pt": "Jesus o chama pelo nome antes de ele dizer uma palavra."
+      },
+      "imagem": null
+    },
+    {
+      "ref": "Luke 19:8",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Lucas 19 — Doy la mitad de mis bienes a los pobres | Biblia",
+        "en": "Luke 19 — I Give Half of My Goods to the Poor | Bible",
+        "pt": "Lucas 19 — Dou metade dos meus bens aos pobres | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Zaqueo habla de pie, y ofrece más de lo que la ley exigía.",
+        "pt": "Zaqueu fala de pé, e oferece mais do que a lei exigia."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Stone_Road_Mall_Guelph.jpg/1920px-Stone_Road_Mall_Guelph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "GTD Aquitaine",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stone_Road_Mall_Guelph.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Luke 19:10",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Lucas 19:10 — Vino a buscar lo que se había perdido | Biblia",
+        "en": "Luke 19:10 — Came to Seek That Which Was Lost | Bible",
+        "pt": "Lucas 19:10 — Veio buscar o que se havia perdido | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Es la frase con que se cierra el episodio, no una respuesta a Zaqueo.",
+        "pt": "É a frase com que o episódio se encerra, não uma resposta a Zaqueu."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tropical_fig_tree_syconium.jpg/1920px-Tropical_fig_tree_syconium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Thyrome",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tropical_fig_tree_syconium.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
