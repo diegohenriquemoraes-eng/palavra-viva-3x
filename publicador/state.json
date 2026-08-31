@@ -1240,11 +1240,19 @@
           "video_id": "VJnf6d6-vho",
           "titulo": "Salmos para Dormir — Salmo 6 Completo | Biblia Hablada",
           "em": "2026-08-31T14:47:36+00:00"
+        },
+        {
+          "pacote": "2026-08-31-paulo-silas-prisao",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "xJ6AUPTyPt8",
+          "titulo": "Hechos 16 — A medianoche oraban y cantaban | Historia bíblica",
+          "em": "2026-08-31T20:30:27+00:00"
         }
       ],
-      "ultimo_short": "2026-08-30T18:17:00+00:00",
+      "ultimo_short": "2026-08-31T20:30:27+00:00",
       "shorts_dia": {
-        "data": "2026-08-30",
+        "data": "2026-08-31",
         "n": 1
       },
       "longo_data": "2026-08-31",
@@ -2508,11 +2516,19 @@
           "video_id": "TSdrI6rl-YQ",
           "titulo": "Salmos para Dormir — Salmo 6 Completo | Bíblia Falada",
           "em": "2026-08-31T14:57:42+00:00"
+        },
+        {
+          "pacote": "2026-08-31-paulo-silas-prisao",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "lnxfLQ3gakQ",
+          "titulo": "Atos 16 — À meia-noite oravam e cantavam | História bíblica",
+          "em": "2026-08-31T20:31:27+00:00"
         }
       ],
-      "ultimo_short": "2026-08-30T18:17:44+00:00",
+      "ultimo_short": "2026-08-31T20:31:27+00:00",
       "shorts_dia": {
-        "data": "2026-08-30",
+        "data": "2026-08-31",
         "n": 1
       },
       "longo_data": "2026-08-31",

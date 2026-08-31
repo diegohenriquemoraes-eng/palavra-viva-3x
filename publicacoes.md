@@ -3294,3 +3294,19 @@
 - Item: short-2 — Meditaciones 7:52
 - Duração: 28.5s
 - Publicado em: 2026-08-31T14:59:02+00:00
+
+## [es] xJ6AUPTyPt8 — Hechos 16 — A medianoche oraban y cantaban | Historia bíblica
+
+- URL: https://youtu.be/xJ6AUPTyPt8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Hechos 16:25
+- Duração: 18.1s
+- Publicado em: 2026-08-31T20:30:27+00:00
+
+## [pt] lnxfLQ3gakQ — Atos 16 — À meia-noite oravam e cantavam | História bíblica
+
+- URL: https://youtu.be/lnxfLQ3gakQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Atos 16:25
+- Duração: 17.7s
+- Publicado em: 2026-08-31T20:31:27+00:00
