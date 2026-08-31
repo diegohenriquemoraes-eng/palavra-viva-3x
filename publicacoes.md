@@ -3254,3 +3254,19 @@
 - Item: longo — Hechos 16:16-34
 - Duração: 256.3s
 - Publicado em: 2026-08-31T00:04:37+00:00
+
+## [pt] V-Yvgr1hijg — Paulo e Silas na Prisão — Atos 16 | História bíblica
+
+- URL: https://youtu.be/V-Yvgr1hijg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Atos 16:16-34
+- Duração: 263.6s
+- Publicado em: 2026-08-31T06:28:16+00:00
+
+## [stoic] rav4S7-8wiw — Vivir se parece más a luchar que a bailar
+
+- URL: https://youtu.be/rav4S7-8wiw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 7:64
+- Duração: 23.5s
+- Publicado em: 2026-08-31T06:29:28+00:00

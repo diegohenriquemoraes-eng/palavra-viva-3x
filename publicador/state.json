@@ -2484,6 +2484,14 @@
           "video_id": "OK2-LjI41Ws",
           "titulo": "Salmo 2:1 — Por que as nações se rebelam | Bíblia",
           "em": "2026-08-30T18:17:44+00:00"
+        },
+        {
+          "pacote": "2026-08-31-paulo-silas-prisao",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "V-Yvgr1hijg",
+          "titulo": "Paulo e Silas na Prisão — Atos 16 | História bíblica",
+          "em": "2026-08-31T06:28:16+00:00"
         }
       ],
       "ultimo_short": "2026-08-30T18:17:44+00:00",
@@ -2491,12 +2499,12 @@
         "data": "2026-08-30",
         "n": 1
       },
-      "longo_data": "2026-08-30",
+      "longo_data": "2026-08-31",
       "longos_dia": {
-        "data": "2026-08-30",
-        "n": 2
+        "data": "2026-08-31",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-30T14:37:52+00:00"
+      "ultimo_longo": "2026-08-31T06:28:16+00:00"
     },
     "stoic": {
       "publicados": [
@@ -2855,12 +2863,20 @@
           "video_id": "Wzb7FDTrs-A",
           "titulo": "Yo cumplo con lo mío",
           "em": "2026-08-30T21:45:09+00:00"
+        },
+        {
+          "pacote": "2026-08-31-arte-de-vivir",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "rav4S7-8wiw",
+          "titulo": "Vivir se parece más a luchar que a bailar",
+          "em": "2026-08-31T06:29:28+00:00"
         }
       ],
-      "ultimo_short": "2026-08-30T21:45:09+00:00",
+      "ultimo_short": "2026-08-31T06:29:28+00:00",
       "shorts_dia": {
-        "data": "2026-08-30",
-        "n": 3
+        "data": "2026-08-31",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
