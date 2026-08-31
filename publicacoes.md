@@ -3270,3 +3270,27 @@
 - Item: short-1 — Meditaciones 7:64
 - Duração: 23.5s
 - Publicado em: 2026-08-31T06:29:28+00:00
+
+## [es] VJnf6d6-vho — Salmos para Dormir — Salmo 6 Completo | Biblia Hablada
+
+- URL: https://youtu.be/VJnf6d6-vho
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 6
+- Duração: 1115.5s
+- Publicado em: 2026-08-31T14:47:36+00:00
+
+## [pt] TSdrI6rl-YQ — Salmos para Dormir — Salmo 6 Completo | Bíblia Falada
+
+- URL: https://youtu.be/TSdrI6rl-YQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 6
+- Duração: 1146.7s
+- Publicado em: 2026-08-31T14:57:42+00:00
+
+## [stoic] -u08v8PAANE — Que nadie te gane en esto
+
+- URL: https://youtu.be/-u08v8PAANE
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 7:52
+- Duração: 28.5s
+- Publicado em: 2026-08-31T14:59:02+00:00
