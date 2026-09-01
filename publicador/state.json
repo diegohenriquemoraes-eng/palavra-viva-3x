@@ -1272,12 +1272,20 @@
           "video_id": "3ZmppIJ8oF8",
           "titulo": "Rut 1:16 — Dondequiera que tú fueres, iré yo | Biblia",
           "em": "2026-09-01T15:21:08+00:00"
+        },
+        {
+          "pacote": "2026-09-01-rute-noemi",
+          "item": "short-2",
+          "formato": "historia",
+          "video_id": "HcnofWsX0YY",
+          "titulo": "Rut 1 — Haga Jehová misericordia con vosotras | Biblia",
+          "em": "2026-09-01T23:42:06+00:00"
         }
       ],
-      "ultimo_short": "2026-09-01T15:21:08+00:00",
+      "ultimo_short": "2026-09-01T23:42:06+00:00",
       "shorts_dia": {
         "data": "2026-09-01",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-01",
       "longos_dia": {
@@ -2975,12 +2983,20 @@
           "video_id": "oRClakOnk6s",
           "titulo": "Sostente sobre ti mismo",
           "em": "2026-09-01T15:43:05+00:00"
+        },
+        {
+          "pacote": "2026-09-01-volver-en-si",
+          "item": "short-3",
+          "formato": "dormir",
+          "video_id": "Jnn30Tx5hy4",
+          "titulo": "No te hagas a ti lo que no le haces a nadie",
+          "em": "2026-09-01T23:43:09+00:00"
         }
       ],
-      "ultimo_short": "2026-09-01T15:43:05+00:00",
+      "ultimo_short": "2026-09-01T23:43:09+00:00",
       "shorts_dia": {
         "data": "2026-09-01",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

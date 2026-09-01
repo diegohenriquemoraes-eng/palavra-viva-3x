@@ -3374,3 +3374,19 @@
 - Item: short-1 — Rute 1:16
 - Duração: 21.6s
 - Publicado em: 2026-09-01T19:02:26+00:00
+
+## [es] HcnofWsX0YY — Rut 1 — Haga Jehová misericordia con vosotras | Biblia
+
+- URL: https://youtu.be/HcnofWsX0YY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Rut 1:8
+- Duração: 21.5s
+- Publicado em: 2026-09-01T23:42:06+00:00
+
+## [stoic] Jnn30Tx5hy4 — No te hagas a ti lo que no le haces a nadie
+
+- URL: https://youtu.be/Jnn30Tx5hy4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 8:47
+- Duração: 19.8s
+- Publicado em: 2026-09-01T23:43:09+00:00
