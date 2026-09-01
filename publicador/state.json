@@ -2564,11 +2564,19 @@
           "video_id": "K3SAeDIVsdI",
           "titulo": "Salmos para Dormir — Salmo 7 Completo | Bíblia Falada",
           "em": "2026-09-01T15:38:31+00:00"
+        },
+        {
+          "pacote": "2026-09-01-rute-noemi",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "0u_3nJHiXAE",
+          "titulo": "Rute 1:16 — Aonde quer que fores, irei eu | Bíblia",
+          "em": "2026-09-01T19:02:26+00:00"
         }
       ],
-      "ultimo_short": "2026-08-31T20:31:27+00:00",
+      "ultimo_short": "2026-09-01T19:02:26+00:00",
       "shorts_dia": {
-        "data": "2026-08-31",
+        "data": "2026-09-01",
         "n": 1
       },
       "longo_data": "2026-09-01",

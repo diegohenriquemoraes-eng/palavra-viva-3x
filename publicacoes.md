@@ -3366,3 +3366,11 @@
 - Item: short-2 — Meditaciones 3:18
 - Duração: 31.8s
 - Publicado em: 2026-09-01T15:43:05+00:00
+
+## [pt] 0u_3nJHiXAE — Rute 1:16 — Aonde quer que fores, irei eu | Bíblia
+
+- URL: https://youtu.be/0u_3nJHiXAE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Rute 1:16
+- Duração: 21.6s
+- Publicado em: 2026-09-01T19:02:26+00:00
