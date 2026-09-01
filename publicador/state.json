@@ -1256,6 +1256,14 @@
           "video_id": "k-2eix8A43c",
           "titulo": "Rut y Noemí — Rut 1 | Historia bíblica narrada",
           "em": "2026-09-01T00:15:41+00:00"
+        },
+        {
+          "pacote": "2026-09-01-salmo-7-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "3X3jISf4uWc",
+          "titulo": "Salmos para Dormir — Salmo 7 Completo | Biblia Hablada",
+          "em": "2026-09-01T11:06:11+00:00"
         }
       ],
       "ultimo_short": "2026-08-31T20:30:27+00:00",
@@ -1266,9 +1274,9 @@
       "longo_data": "2026-09-01",
       "longos_dia": {
         "data": "2026-09-01",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-01T00:15:41+00:00"
+      "ultimo_longo": "2026-09-01T11:06:11+00:00"
     },
     "en": {
       "publicados": [
