@@ -2532,6 +2532,14 @@
           "video_id": "lnxfLQ3gakQ",
           "titulo": "Atos 16 — À meia-noite oravam e cantavam | História bíblica",
           "em": "2026-08-31T20:31:27+00:00"
+        },
+        {
+          "pacote": "2026-09-01-rute-noemi",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "ufg8DmAKvSo",
+          "titulo": "Rute e Noemi — Rute 1 | História bíblica narrada",
+          "em": "2026-09-01T05:56:21+00:00"
         }
       ],
       "ultimo_short": "2026-08-31T20:31:27+00:00",
@@ -2539,12 +2547,12 @@
         "data": "2026-08-31",
         "n": 1
       },
-      "longo_data": "2026-08-31",
+      "longo_data": "2026-09-01",
       "longos_dia": {
-        "data": "2026-08-31",
-        "n": 2
+        "data": "2026-09-01",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-31T14:57:42+00:00"
+      "ultimo_longo": "2026-09-01T05:56:21+00:00"
     },
     "stoic": {
       "publicados": [
@@ -2919,12 +2927,20 @@
           "video_id": "-u08v8PAANE",
           "titulo": "Que nadie te gane en esto",
           "em": "2026-08-31T14:59:02+00:00"
+        },
+        {
+          "pacote": "2026-09-01-volver-en-si",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "DroOnIHIhCw",
+          "titulo": "Despierta: era una impresión",
+          "em": "2026-09-01T05:57:36+00:00"
         }
       ],
-      "ultimo_short": "2026-08-31T14:59:02+00:00",
+      "ultimo_short": "2026-09-01T05:57:36+00:00",
       "shorts_dia": {
-        "data": "2026-08-31",
-        "n": 2
+        "data": "2026-09-01",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

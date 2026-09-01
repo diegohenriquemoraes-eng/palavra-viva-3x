@@ -3318,3 +3318,19 @@
 - Item: longo — Rut 1:1-22
 - Duração: 324.1s
 - Publicado em: 2026-09-01T00:15:41+00:00
+
+## [pt] ufg8DmAKvSo — Rute e Noemi — Rute 1 | História bíblica narrada
+
+- URL: https://youtu.be/ufg8DmAKvSo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Rute 1:1-22
+- Duração: 323.0s
+- Publicado em: 2026-09-01T05:56:21+00:00
+
+## [stoic] DroOnIHIhCw — Despierta: era una impresión
+
+- URL: https://youtu.be/DroOnIHIhCw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:43
+- Duração: 28.2s
+- Publicado em: 2026-09-01T05:57:36+00:00
