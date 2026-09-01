@@ -1248,6 +1248,14 @@
           "video_id": "xJ6AUPTyPt8",
           "titulo": "Hechos 16 — A medianoche oraban y cantaban | Historia bíblica",
           "em": "2026-08-31T20:30:27+00:00"
+        },
+        {
+          "pacote": "2026-09-01-rute-noemi",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "k-2eix8A43c",
+          "titulo": "Rut y Noemí — Rut 1 | Historia bíblica narrada",
+          "em": "2026-09-01T00:15:41+00:00"
         }
       ],
       "ultimo_short": "2026-08-31T20:30:27+00:00",
@@ -1255,12 +1263,12 @@
         "data": "2026-08-31",
         "n": 1
       },
-      "longo_data": "2026-08-31",
+      "longo_data": "2026-09-01",
       "longos_dia": {
-        "data": "2026-08-31",
-        "n": 2
+        "data": "2026-09-01",
+        "n": 1
       },
-      "ultimo_longo": "2026-08-31T14:47:36+00:00"
+      "ultimo_longo": "2026-09-01T00:15:41+00:00"
     },
     "en": {
       "publicados": [

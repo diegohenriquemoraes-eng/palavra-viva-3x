@@ -3310,3 +3310,11 @@
 - Item: short-1 — Atos 16:25
 - Duração: 17.7s
 - Publicado em: 2026-08-31T20:31:27+00:00
+
+## [es] k-2eix8A43c — Rut y Noemí — Rut 1 | Historia bíblica narrada
+
+- URL: https://youtu.be/k-2eix8A43c
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Rut 1:1-22
+- Duração: 324.1s
+- Publicado em: 2026-09-01T00:15:41+00:00
