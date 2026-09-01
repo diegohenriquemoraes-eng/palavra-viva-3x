@@ -1,0 +1,168 @@
+{
+  "slug": "como-si-fuera-eterno",
+  "formato": "dormir",
+  "data": "2026-09-03",
+  "criado_em": "2026-09-01T05:13:49+00:00",
+  "aprovado_em": "2026-09-01T05:13:49+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 10:51-66"
+    ],
+    "titulo": {
+      "stoic": "1 Hora de Marco Aurelio: Nada Dura, y Está Bien | Para Dormir"
+    },
+    "thumb_titulo": {
+      "stoic": "NADA DURA"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones X"
+    },
+    "abertura": {},
+    "tags_extra": {},
+    "descricao_busca": {},
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Stars_Gather_in_%27Downtown%27_Milky_Way.jpg/1920px-Stars_Gather_in_%27Downtown%27_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech",
+        "origem": "https://commons.wikimedia.org/wiki/File:Stars_Gather_in_%27Downtown%27_Milky_Way.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/ESO_-_Milky_Way.jpg/1920px-ESO_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ S. Brunier",
+        "origem": "https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/1920px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Peter Paul Rubens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way,_1636-1637.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/1920px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/ESA/CXC/STScI",
+        "origem": "https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Joshua_Tree_Milky_Way.jpg/1920px-Joshua_Tree_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Benjamin Inouye",
+        "origem": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Desert_Flag_Night_Flights_%288384157%29.jpg/1920px-Desert_Flag_Night_Flights_%288384157%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384157).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Desert_Flag_Night_Flights_%288384156%29.jpg/1920px-Desert_Flag_Night_Flights_%288384156%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384156).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Desert_Flag_Night_Flights_%288384152%29.jpg/1920px-Desert_Flag_Night_Flights_%288384152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384152).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Yeehaw_Junction_Florida_-_Desert_Inn_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Orthoboric",
+        "origem": "https://commons.wikimedia.org/wiki/File:Yeehaw_Junction_Florida_-_Desert_Inn_at_Night.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Desert_Flag_Night_Flights_%288384158%29.jpg/1920px-Desert_Flag_Night_Flights_%288384158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384158).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Moon_and_clouds_over_Brofjorden_6.jpg/1920px-Moon_and_clouds_over_Brofjorden_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_6.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Night_moon_with_clouds.jpg/1920px-Night_moon_with_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MD Rohan Sheikh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_moon_with_clouds.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Moon_and_clouds_over_Brofjorden_2.jpg/1920px-Moon_and_clouds_over_Brofjorden_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg/1920px-Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "John Phelan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Lake_Quannapowitt,_Wakefield_MA.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 10:58",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Vives como si esto fuera eterno"
+      },
+      "aplicacao": "Huyes de unas cosas y persigues otras como si hubiera tiempo infinito. No lo hay, y eso acorta la lista.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/AKVIS_Shrpns100_HC-N%2C_Shrpns100_HC-N%2C_Shrpns100_HC-N%2C_PDN_Background_Crop%2C_Framecrop_-_Desert_uniform%2C_night%2C_3-4_front%2C_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_%2816_February_1978%29_004042a_image_primary.png/1920px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "A. J. M.",
+        "origem": "https://commons.wikimedia.org/wiki/File:AKVIS_Shrpns100_HC-N,_Shrpns100_HC-N,_Shrpns100_HC-N,_PDN_Background_Crop,_Framecrop_-_Desert_uniform,_night,_3-4_front,_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_(16_February_1978)_004042a_image_primary.png",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 10:45",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La pregunta que ordena el día"
+      },
+      "aplicacao": "Mira lo que vas a hacer y pregunta: ¿me dolería morir sin haberlo hecho? Si no, no era importante.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Old_French_Clock_Tower_with_Roman_Numerals.jpg/1920px-Old_French_Clock_Tower_with_Roman_Numerals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kojax496",
+        "origem": "https://commons.wikimedia.org/wiki/File:Old_French_Clock_Tower_with_Roman_Numerals.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 6:42",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Que te encuentre con la conciencia limpia"
+      },
+      "aplicacao": "No se trata de acabar todo. Se trata de que lo que estés haciendo no te avergüence.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Maid_with_burning_candle_%281839%29%2C_PA06579.jpg/1920px-Maid_with_burning_candle_%281839%29%2C_PA06579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pierre Louis Dubourcq",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maid_with_burning_candle_(1839),_PA06579.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 10:35",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Te sirve lo que te toca, cuando te toca"
+      },
+      "aplicacao": "Lo que llegó hoy es con lo que hay que trabajar. Discutirlo es perder el turno.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}

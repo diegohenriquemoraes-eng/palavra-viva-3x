@@ -1,0 +1,218 @@
+{
+  "slug": "tempestade-acalmada",
+  "formato": "historia",
+  "data": "2026-09-03",
+  "criado_em": "2026-09-01T05:13:07+00:00",
+  "aprovado_em": "2026-09-01T05:13:07+00:00",
+  "longo": {
+    "refs": [
+      "Mark 4:35-41",
+      "Matthew 8:23-27"
+    ],
+    "titulo": {
+      "es": "Jesús Calma la Tempestad — Marcos 4 | Historia bíblica narrada",
+      "en": "Jesus Calms the Storm — Mark 4 | Bible Story",
+      "pt": "Jesus Acalma a Tempestade — Marcos 4 | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "CALLA, ENMUDECE",
+      "en": "PEACE, BE STILL",
+      "pt": "CALA-TE, AQUIETA-TE"
+    },
+    "thumb_sub": {
+      "es": "Marcos 4",
+      "en": "Mark 4",
+      "pt": "Marcos 4"
+    },
+    "abertura": {
+      "es": "Marcos, capítulo cuatro, y el mismo relato en Mateo ocho. Cae la tarde y pasan a la otra orilla. Se levanta una gran tempestad de viento, las olas entran en la barca, y él duerme en la popa. Los discípulos lo despiertan. Escucha los dos relatos completos, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Marcos, capítulo quatro, e o mesmo relato em Mateus oito. Cai a tarde e eles passam para a outra margem. Levanta-se uma grande tempestade de vento, as ondas entram no barco, e ele dorme na popa. Os discípulos o acordam. Ouça os dois relatos completos, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "jesus calma la tempestad",
+        "marcos 4",
+        "historia biblica",
+        "tempestad en el mar",
+        "calla enmudece",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "jesus acalma a tempestade",
+        "marcos 4",
+        "historia biblica",
+        "tempestade no mar",
+        "cala-te aquieta-te",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Marcos 4 y Mateo 8: la travesía, la tempestad, el que dormía en la popa y el mar en calma. Narración completa, Reina-Valera 1909.",
+      "pt": "Marcos 4 e Mateus 8: a travessia, a tempestade, o que dormia na popa e o mar em bonança. Narração completa, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/George_Bellows_-_Storm_Sea_%281913%29.jpg/1920px-George_Bellows_-_Storm_Sea_%281913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Bellows",
+        "origem": "https://commons.wikimedia.org/wiki/File:George_Bellows_-_Storm_Sea_(1913).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tropical_Storm_Marcus_over_Arafura_Sea_%28MODIS_2018-03-17%29.jpg/1920px-Tropical_Storm_Marcus_over_Arafura_Sea_%28MODIS_2018-03-17%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tropical_Storm_Marcus_over_Arafura_Sea_(MODIS_2018-03-17).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Rare_Hybrid_Tropical_Storm_in_the_Mediterranean_Sea_%28NESDIS_2017-11-20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "NOAA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rare_Hybrid_Tropical_Storm_in_the_Mediterranean_Sea_(NESDIS_2017-11-20).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%27Early_Morning_After_a_Storm_at_Sea%27_by_Winslow_Homer%2C_1900-1902.JPG/1920px-%27Early_Morning_After_a_Storm_at_Sea%27_by_Winslow_Homer%2C_1900-1902.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Winslow Homer",
+        "origem": "https://commons.wikimedia.org/wiki/File:%27Early_Morning_After_a_Storm_at_Sea%27_by_Winslow_Homer,_1900-1902.JPG",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Rare_Storm_over_Mediterranean_Sea_%28MODIS_2019-10-26%29.jpg/1920px-Rare_Storm_over_Mediterranean_Sea_%28MODIS_2019-10-26%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MODIS Land Rapid Response Team, NASA GSFC",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rare_Storm_over_Mediterranean_Sea_(MODIS_2019-10-26).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Wooden_boat_6988.jpg/1920px-Wooden_boat_6988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_6988.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Australian_Wooden_Boat_Festival%2C_2011_-_5.jpg/1920px-Australian_Wooden_Boat_Festival%2C_2011_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Tony 1212",
+        "origem": "https://commons.wikimedia.org/wiki/File:Australian_Wooden_Boat_Festival,_2011_-_5.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Australian_Wooden_Boat_Festival%2C_2011_-_1.jpg/1920px-Australian_Wooden_Boat_Festival%2C_2011_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Tony 1212",
+        "origem": "https://commons.wikimedia.org/wiki/File:Australian_Wooden_Boat_Festival,_2011_-_1.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Wooden_boat_2579-1.jpg/1920px-Wooden_boat_2579-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_2579-1.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Australian_Wooden_Boat_Festival%2C_2011_-_2.jpg/1920px-Australian_Wooden_Boat_Festival%2C_2011_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Tony 1212",
+        "origem": "https://commons.wikimedia.org/wiki/File:Australian_Wooden_Boat_Festival,_2011_-_2.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Mark 4:37-38",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Marcos 4 — Y él dormía sobre un cabezal | Biblia",
+        "en": "Mark 4 — And He Was Asleep on a Pillow | Bible",
+        "pt": "Marcos 4 — E ele dormia sobre uma almofada | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El relato registra el detalle del cabezal: él dormía en la popa.",
+        "pt": "O relato registra o detalhe da almofada: ele dormia na popa."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Sea-storm_Lichen.jpg/1920px-Sea-storm_Lichen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "WelshDave",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sea-storm_Lichen.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Mark 4:39",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Marcos 4:39 — Calla, enmudece. Y cesó el viento | Biblia",
+        "en": "Mark 4:39 — Peace, Be Still. And the Wind Ceased | Bible",
+        "pt": "Marcos 4:39 — Cala-te, aquieta-te. E o vento cessou | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Las mismas dos palabras que se usan para acallar a alguien.",
+        "pt": "As mesmas duas palavras que se usam para calar alguém."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Storm_clouds_formation1.jpg/1920px-Storm_clouds_formation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Mark 4:40",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Marcos 4 — ¿Por qué estáis así amedrentados? | Biblia",
+        "en": "Mark 4 — Why Are Ye So Fearful? | Bible",
+        "pt": "Marcos 4 — Por que sois assim tímidos? | Bíblia"
+      },
+      "aplicacao": {
+        "es": "La pregunta viene después de la calma, no antes.",
+        "pt": "A pergunta vem depois da calmaria, não antes."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Wooden_boat_7140.jpg/1920px-Wooden_boat_7140.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bengt Nyman",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wooden_boat_7140.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Mark 4:41",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Marcos 4 — ¿Quién es éste, que aun el viento le obedece? | Biblia",
+        "en": "Mark 4 — Who Is This, That Even the Wind Obeys Him? | Bible",
+        "pt": "Marcos 4 — Quem é este, que até o vento lhe obedece? | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El texto dice que temieron con gran temor justo después de cesar el viento.",
+        "pt": "O texto diz que temeram com grande temor logo depois de cessar o vento."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Storm_at_Sea%2C_Willem_van_de_Velde_the_Younger_%281633-1707%29_-_IMG_7352.JPG/1920px-Storm_at_Sea%2C_Willem_van_de_Velde_the_Younger_%281633-1707%29_-_IMG_7352.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Willem van de Velde the Younger",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_at_Sea,_Willem_van_de_Velde_the_Younger_(1633-1707)_-_IMG_7352.JPG",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
