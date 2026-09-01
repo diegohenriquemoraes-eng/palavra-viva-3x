@@ -3342,3 +3342,27 @@
 - Item: longo — Salmo 7
 - Duração: 1925.8s
 - Publicado em: 2026-09-01T11:06:11+00:00
+
+## [es] 3ZmppIJ8oF8 — Rut 1:16 — Dondequiera que tú fueres, iré yo | Biblia
+
+- URL: https://youtu.be/3ZmppIJ8oF8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Rut 1:16
+- Duração: 22.8s
+- Publicado em: 2026-09-01T15:21:08+00:00
+
+## [pt] K3SAeDIVsdI — Salmos para Dormir — Salmo 7 Completo | Bíblia Falada
+
+- URL: https://youtu.be/K3SAeDIVsdI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 7
+- Duração: 1972.7s
+- Publicado em: 2026-09-01T15:38:31+00:00
+
+## [stoic] oRClakOnk6s — Sostente sobre ti mismo
+
+- URL: https://youtu.be/oRClakOnk6s
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 3:18
+- Duração: 31.8s
+- Publicado em: 2026-09-01T15:43:05+00:00
