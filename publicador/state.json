@@ -1296,12 +1296,20 @@
           "video_id": "-eL2qgeSzW4",
           "titulo": "Zaqueo y el Sicómoro — Lucas 19 | Historia bíblica narrada",
           "em": "2026-09-02T11:53:52+00:00"
+        },
+        {
+          "pacote": "2026-09-02-salmo-9-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "GuEObYWGfZA",
+          "titulo": "Salmo 9:1 — Te alabaré, oh Jehová, con todo | Biblia",
+          "em": "2026-09-02T15:39:16+00:00"
         }
       ],
-      "ultimo_short": "2026-09-01T23:42:06+00:00",
+      "ultimo_short": "2026-09-02T15:39:16+00:00",
       "shorts_dia": {
-        "data": "2026-09-01",
-        "n": 2
+        "data": "2026-09-02",
+        "n": 1
       },
       "longo_data": "2026-09-02",
       "longos_dia": {
@@ -2612,11 +2620,19 @@
           "video_id": "XHO-b-8t52w",
           "titulo": "Zaqueu e o Sicômoro — Lucas 19 | História bíblica narrada",
           "em": "2026-09-02T11:55:59+00:00"
+        },
+        {
+          "pacote": "2026-09-02-salmo-9-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "4We1OsWAWvg",
+          "titulo": "Salmo 9:1 — Louvarei a ti, SENHOR com todo | Bíblia",
+          "em": "2026-09-02T15:40:09+00:00"
         }
       ],
-      "ultimo_short": "2026-09-01T19:02:26+00:00",
+      "ultimo_short": "2026-09-02T15:40:09+00:00",
       "shorts_dia": {
-        "data": "2026-09-01",
+        "data": "2026-09-02",
         "n": 1
       },
       "longo_data": "2026-09-02",
@@ -3031,12 +3047,20 @@
           "video_id": "-mg8CByzGeA",
           "titulo": "Entra en la mente del otro",
           "em": "2026-09-02T06:56:06+00:00"
+        },
+        {
+          "pacote": "2026-09-02-entrar-en-la-mente-del-otro",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "9G4SeYZwgrU",
+          "titulo": "Naciste para lo común",
+          "em": "2026-09-02T15:41:27+00:00"
         }
       ],
-      "ultimo_short": "2026-09-02T06:56:06+00:00",
+      "ultimo_short": "2026-09-02T15:41:27+00:00",
       "shorts_dia": {
         "data": "2026-09-02",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

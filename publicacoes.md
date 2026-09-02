@@ -3430,3 +3430,27 @@
 - Item: longo — Lucas 19:1-10
 - Duração: 131.2s
 - Publicado em: 2026-09-02T11:55:59+00:00
+
+## [es] GuEObYWGfZA — Salmo 9:1 — Te alabaré, oh Jehová, con todo | Biblia
+
+- URL: https://youtu.be/GuEObYWGfZA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 9:1
+- Duração: 14.3s
+- Publicado em: 2026-09-02T15:39:16+00:00
+
+## [pt] 4We1OsWAWvg — Salmo 9:1 — Louvarei a ti, SENHOR com todo | Bíblia
+
+- URL: https://youtu.be/4We1OsWAWvg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 9:1
+- Duração: 13.8s
+- Publicado em: 2026-09-02T15:40:09+00:00
+
+## [stoic] 9G4SeYZwgrU — Naciste para lo común
+
+- URL: https://youtu.be/9G4SeYZwgrU
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 11:26
+- Duração: 26.9s
+- Publicado em: 2026-09-02T15:41:27+00:00
