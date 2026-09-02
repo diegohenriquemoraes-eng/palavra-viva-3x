@@ -3414,3 +3414,19 @@
 - Item: short-1 — Meditaciones 8:72
 - Duração: 18.6s
 - Publicado em: 2026-09-02T06:56:06+00:00
+
+## [es] -eL2qgeSzW4 — Zaqueo y el Sicómoro — Lucas 19 | Historia bíblica narrada
+
+- URL: https://youtu.be/-eL2qgeSzW4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Lucas 19:1-10
+- Duração: 128.6s
+- Publicado em: 2026-09-02T11:53:52+00:00
+
+## [pt] XHO-b-8t52w — Zaqueu e o Sicômoro — Lucas 19 | História bíblica narrada
+
+- URL: https://youtu.be/XHO-b-8t52w
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Lucas 19:1-10
+- Duração: 131.2s
+- Publicado em: 2026-09-02T11:55:59+00:00

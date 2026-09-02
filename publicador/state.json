@@ -1288,6 +1288,14 @@
           "video_id": "iHDG9AM6sVc",
           "titulo": "Salmos para Dormir — Salmo 9 Completo | Biblia Hablada",
           "em": "2026-09-02T02:22:41+00:00"
+        },
+        {
+          "pacote": "2026-09-02-zaqueu",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "-eL2qgeSzW4",
+          "titulo": "Zaqueo y el Sicómoro — Lucas 19 | Historia bíblica narrada",
+          "em": "2026-09-02T11:53:52+00:00"
         }
       ],
       "ultimo_short": "2026-09-01T23:42:06+00:00",
@@ -1298,9 +1306,9 @@
       "longo_data": "2026-09-02",
       "longos_dia": {
         "data": "2026-09-02",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-02T02:22:41+00:00"
+      "ultimo_longo": "2026-09-02T11:53:52+00:00"
     },
     "en": {
       "publicados": [
@@ -2596,6 +2604,14 @@
           "video_id": "hti-sgZ38Ek",
           "titulo": "Salmos para Dormir — Salmo 9 Completo | Bíblia Falada",
           "em": "2026-09-02T02:43:29+00:00"
+        },
+        {
+          "pacote": "2026-09-02-zaqueu",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "XHO-b-8t52w",
+          "titulo": "Zaqueu e o Sicômoro — Lucas 19 | História bíblica narrada",
+          "em": "2026-09-02T11:55:59+00:00"
         }
       ],
       "ultimo_short": "2026-09-01T19:02:26+00:00",
@@ -2606,9 +2622,9 @@
       "longo_data": "2026-09-02",
       "longos_dia": {
         "data": "2026-09-02",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-02T02:43:29+00:00"
+      "ultimo_longo": "2026-09-02T11:55:59+00:00"
     },
     "stoic": {
       "publicados": [
