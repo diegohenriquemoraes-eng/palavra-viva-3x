@@ -1,0 +1,211 @@
+{
+  "slug": "cinco-paes",
+  "formato": "historia",
+  "data": "2026-09-04",
+  "criado_em": "2026-09-02T04:38:05+00:00",
+  "aprovado_em": "2026-09-02T04:38:05+00:00",
+  "longo": {
+    "refs": [
+      "John 6:1-14"
+    ],
+    "titulo": {
+      "es": "Los Cinco Panes y Dos Peces — Juan 6 | Historia bíblica narrada",
+      "en": "Five Loaves and Two Fish — John 6 | Bible Story",
+      "pt": "Os Cinco Pães e Dois Peixes — João 6 | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "CINCO PANES",
+      "en": "FIVE LOAVES",
+      "pt": "CINCO PÃES"
+    },
+    "thumb_sub": {
+      "es": "Juan 6",
+      "en": "John 6",
+      "pt": "João 6"
+    },
+    "abertura": {
+      "es": "Juan, capítulo seis. Una multitud sigue a Jesús al otro lado del mar de Galilea. Él pregunta de dónde comprarán pan, sabiendo ya lo que haría. Un muchacho tiene cinco panes de cebada y dos pececillos, y alguien hace la pregunta que cualquiera haría: qué es esto entre tantos. Escucha el relato completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "João, capítulo seis. Uma multidão segue Jesus para o outro lado do mar da Galileia. Ele pergunta onde comprarão pão, já sabendo o que iria fazer. Um rapaz tem cinco pães de cevada e dois peixinhos, e alguém faz a pergunta que qualquer um faria: que é isto para tantos. Ouça o relato completo, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "cinco panes y dos peces",
+        "juan 6",
+        "historia biblica",
+        "multiplicacion de los panes",
+        "milagro",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "cinco paes e dois peixes",
+        "joao 6",
+        "historia biblica",
+        "multiplicacao dos paes",
+        "milagre",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Juan 6: la multitud, los cinco panes, la repartición y las doce cestas que sobraron. Narración completa, Reina-Valera 1909.",
+      "pt": "João 6: a multidão, os cinco pães, a repartição e os doze cestos que sobraram. Narração completa, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Bread_basket_%283854269312%29.jpg/1920px-Bread_basket_%283854269312%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jeremy Noble from St. Paul, United States",
+        "origem": "https://commons.wikimedia.org/wiki/File:Bread_basket_(3854269312).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Fiamma_-_Bread_Basket.jpg/1920px-Fiamma_-_Bread_Basket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Calgary Reviews",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fiamma_-_Bread_Basket.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Russ._Molotov_bread_basket_Winterwar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Russ._Molotov_bread_basket_Winterwar.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Looking_south-east_along_Nebbia_Access_Road%2C_Green_Hill%2C_2018_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Kerry Raymond",
+        "origem": "https://commons.wikimedia.org/wiki/File:Looking_south-east_along_Nebbia_Access_Road,_Green_Hill,_2018_02.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Green_Hill_Plantation_and_Main_House%2C_State_Route_728%2C_Long_Island%2C_Campbell_County%2C_VA_HABS_VA%2C16-LONI.V%2C1-10.tif/lossy-page1-1920px-Green_Hill_Plantation_and_Main_House%2C_State_Route_728%2C_Long_Island%2C_Campbell_County%2C_VA_HABS_VA%2C16-LONI.V%2C1-10.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Green_Hill_Plantation_and_Main_House,_State_Route_728,_Long_Island,_Campbell_County,_VA_HABS_VA,16-LONI.V,1-10.tif",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Rural_housing%2C_Green_Hill%2C_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Kerry Raymond",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rural_housing,_Green_Hill,_2018.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Green_Hill_Plantation_and_Main_House%2C_State_Route_728%2C_Long_Island%2C_Campbell_County%2C_VA_HABS_VA%2C16-LONI.V%2C1-1.tif/lossy-page1-1920px-Green_Hill_Plantation_and_Main_House%2C_State_Route_728%2C_Long_Island%2C_Campbell_County%2C_VA_HABS_VA%2C16-LONI.V%2C1-1.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Green_Hill_Plantation_and_Main_House,_State_Route_728,_Long_Island,_Campbell_County,_VA_HABS_VA,16-LONI.V,1-1.tif",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Green_Hill_Plantation_and_Main_House%2C_State_Route_728%2C_Long_Island%2C_Campbell_County%2C_VA_HABS_VA%2C16-LONI.V%2C1-6.tif/lossy-page1-1920px-Green_Hill_Plantation_and_Main_House%2C_State_Route_728%2C_Long_Island%2C_Campbell_County%2C_VA_HABS_VA%2C16-LONI.V%2C1-6.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Green_Hill_Plantation_and_Main_House,_State_Route_728,_Long_Island,_Campbell_County,_VA_HABS_VA,16-LONI.V,1-6.tif",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Lake_Shore_Limited_train_approaching_Albany-Rensselaer_station.jpg/1920px-Lake_Shore_Limited_train_approaching_Albany-Rensselaer_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Mx0268",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Shore_Limited_train_approaching_Albany-Rensselaer_station.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Amtrak_Lake_Shore_Limited_at_Framingham_3.jpg/1920px-Amtrak_Lake_Shore_Limited_at_Framingham_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "4300streetcar",
+        "origem": "https://commons.wikimedia.org/wiki/File:Amtrak_Lake_Shore_Limited_at_Framingham_3.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Amtrak_Lake_Shore_Limited_449_departing_Boston_2.jpg/1920px-Amtrak_Lake_Shore_Limited_449_departing_Boston_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "4300streetcar",
+        "origem": "https://commons.wikimedia.org/wiki/File:Amtrak_Lake_Shore_Limited_449_departing_Boston_2.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/400_Lake_Shore_construction_%28March_2025%29.jpg/1920px-400_Lake_Shore_construction_%28March_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "AlphaBeta135",
+        "origem": "https://commons.wikimedia.org/wiki/File:400_Lake_Shore_construction_(March_2025).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Lagoon%2C_Lake_Shore_Park_%2850780632083%29.jpg/1920px-The_Lagoon%2C_Lake_Shore_Park_%2850780632083%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ashtabula Archive",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Lagoon,_Lake_Shore_Park_(50780632083).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "John 6:9",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Juan 6 — ¿Qué es esto entre tantos? | Biblia",
+        "en": "John 6 — But What Are They Among So Many? | Bible",
+        "pt": "João 6 — Mas que é isto para tantos? | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Quien hace la cuenta es Andrés, y la hace en voz alta.",
+        "pt": "Quem faz a conta é André, e faz em voz alta."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Russ._Molotov_bread_basket_Winterwar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Russ._Molotov_bread_basket_Winterwar.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "John 6:11",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Juan 6 — Habiendo dado gracias, repartió | Biblia",
+        "en": "John 6 — When He Had Given Thanks, He Distributed | Bible",
+        "pt": "João 6 — Havendo dado graças, repartiu | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El texto marca el orden: primero dio gracias, después repartió.",
+        "pt": "O texto marca a ordem: primeiro deu graças, depois repartiu."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Green_Hill_Plantation_and_Main_House%2C_State_Route_728%2C_Long_Island%2C_Campbell_County%2C_VA_HABS_VA%2C16-LONI.V%2C1-4.tif/lossy-page1-1920px-Green_Hill_Plantation_and_Main_House%2C_State_Route_728%2C_Long_Island%2C_Campbell_County%2C_VA_HABS_VA%2C16-LONI.V%2C1-4.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Green_Hill_Plantation_and_Main_House,_State_Route_728,_Long_Island,_Campbell_County,_VA_HABS_VA,16-LONI.V,1-4.tif",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "John 6:12",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 6 — Recoged lo que ha quedado, para que no se pierda | Biblia",
+        "en": "John 6 — Gather the Fragments, That Nothing Be Lost | Bible",
+        "pt": "João 6 — Recolhei o que sobrou, para que nada se perca | Bíblia"
+      },
+      "aplicacao": {
+        "es": "La orden de recoger viene después de que todos se saciaron.",
+        "pt": "A ordem de recolher vem depois de todos se fartarem."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Russ._Molotov_bread_basket_Winterwar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Russ._Molotov_bread_basket_Winterwar.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "John 6:13",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Juan 6 — Llenaron doce cestas de los pedazos | Biblia",
+        "en": "John 6 — They Filled Twelve Baskets | Bible",
+        "pt": "João 6 — Encheram doze cestos com os pedaços | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Doce cestas de lo que sobró de cinco panes de cebada.",
+        "pt": "Doze cestos do que sobrou de cinco pães de cevada."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Feeding_Ducks%2C_Lake_Shore_Park_%2853192298158%29.jpg/1920px-Feeding_Ducks%2C_Lake_Shore_Park_%2853192298158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ashtabula Archive",
+        "origem": "https://commons.wikimedia.org/wiki/File:Feeding_Ducks,_Lake_Shore_Park_(53192298158).jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
