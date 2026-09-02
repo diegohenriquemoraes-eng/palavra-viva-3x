@@ -3390,3 +3390,19 @@
 - Item: short-3 — Meditaciones 8:47
 - Duração: 19.8s
 - Publicado em: 2026-09-01T23:43:09+00:00
+
+## [es] iHDG9AM6sVc — Salmos para Dormir — Salmo 9 Completo | Biblia Hablada
+
+- URL: https://youtu.be/iHDG9AM6sVc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 9
+- Duração: 2207.7s
+- Publicado em: 2026-09-02T02:22:41+00:00
+
+## [pt] hti-sgZ38Ek — Salmos para Dormir — Salmo 9 Completo | Bíblia Falada
+
+- URL: https://youtu.be/hti-sgZ38Ek
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 9
+- Duração: 2403.4s
+- Publicado em: 2026-09-02T02:43:29+00:00
