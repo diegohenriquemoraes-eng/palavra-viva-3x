@@ -3007,12 +3007,20 @@
           "video_id": "Jnn30Tx5hy4",
           "titulo": "No te hagas a ti lo que no le haces a nadie",
           "em": "2026-09-01T23:43:09+00:00"
+        },
+        {
+          "pacote": "2026-09-02-entrar-en-la-mente-del-otro",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "-mg8CByzGeA",
+          "titulo": "Entra en la mente del otro",
+          "em": "2026-09-02T06:56:06+00:00"
         }
       ],
-      "ultimo_short": "2026-09-01T23:43:09+00:00",
+      "ultimo_short": "2026-09-02T06:56:06+00:00",
       "shorts_dia": {
-        "data": "2026-09-01",
-        "n": 3
+        "data": "2026-09-02",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

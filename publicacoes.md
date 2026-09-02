@@ -3406,3 +3406,11 @@
 - Item: longo — Salmo 9
 - Duração: 2403.4s
 - Publicado em: 2026-09-02T02:43:29+00:00
+
+## [stoic] -mg8CByzGeA — Entra en la mente del otro
+
+- URL: https://youtu.be/-mg8CByzGeA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 8:72
+- Duração: 18.6s
+- Publicado em: 2026-09-02T06:56:06+00:00
