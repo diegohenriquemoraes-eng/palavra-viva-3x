@@ -2126,13 +2126,13 @@
       "tags_extra": {
         "stoic": [
           "estoicismo para dormir",
-          "marco aurelio audiolibro",
           "meditaciones marco aurelio español",
-          "filosofia estoica para dormir"
+          "filosofia estoica para dormir",
+          "meditaciones libro vi"
         ]
       },
       "descricao_busca": {
-        "stoic": "Lectura tranquila de las Meditaciones de Marco Aurelio en español, pensada para escuchar en la cama y soltar el día."
+        "stoic": "Lectura tranquila del libro VI de las Meditaciones de Marco Aurelio, pensada para escuchar en la cama y soltar el día."
       }
     },
     "shorts": [
@@ -2202,12 +2202,12 @@
         "stoic": [
           "estoicismo para dormir",
           "marco aurelio meditaciones",
-          "audiolibro estoico español",
-          "calmar la mente antes de dormir"
+          "calmar la mente antes de dormir",
+          "meditaciones libro ix"
         ]
       },
       "descricao_busca": {
-        "stoic": "Meditaciones de Marco Aurelio, libro IX, narradas con voz tranquila para escuchar de noche."
+        "stoic": "El libro IX de las Meditaciones de Marco Aurelio, narrado con voz tranquila para escuchar de noche."
       }
     },
     "shorts": [
@@ -2350,10 +2350,10 @@
       },
       "tags_extra": {
         "stoic": [
-          "marco aurelio meditaciones libro 1",
           "estoicismo",
           "como no alterarse",
-          "filosofia estoica español"
+          "filosofia estoica español",
+          "meditaciones libro i"
         ]
       },
       "descricao_busca": {
@@ -2426,13 +2426,12 @@
       "tags_extra": {
         "stoic": [
           "estoicismo para dormir",
-          "marco aurelio audiolibro espanol",
-          "meditaciones libro iv",
-          "reflexiones para dormir"
+          "reflexiones para dormir",
+          "meditaciones libro iv"
         ]
       },
       "descricao_busca": {
-        "stoic": "Meditaciones de Marco Aurelio, libro IV, sobre lo breve de todo, narrado en español para escuchar de noche."
+        "stoic": "El libro IV de las Meditaciones de Marco Aurelio, sobre lo breve de todo, narrado en español para escuchar de noche."
       }
     },
     "shorts": [
@@ -2554,7 +2553,7 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 8:1-72"
+        "Meditaciones 12:1-50"
       ],
       "titulo": {
         "stoic": "Enfadarse con las Cosas No Sirve de Nada | Marco Aurelio"
@@ -2563,7 +2562,7 @@
         "stoic": "LAS COSAS\nNO SE ENTERAN"
       },
       "thumb_sub": {
-        "stoic": "Marco Aurelio, Meditaciones VII"
+        "stoic": "Marco Aurelio, Meditaciones XII"
       },
       "consultas_imagens": [
         "storm clouds",
@@ -2578,11 +2577,11 @@
           "controlar la ira estoicismo",
           "marco aurelio",
           "no enfadarse",
-          "meditaciones libro vii"
+          "meditaciones libro xii"
         ]
       },
       "descricao_busca": {
-        "stoic": "El libro VII de las Meditaciones, sobre la ira y el trato con los demás, narrado en español."
+        "stoic": "El libro XII de las Meditaciones, el último que escribió Marco Aurelio, narrado en español."
       }
     },
     "shorts": [
@@ -2629,7 +2628,7 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 10:1-66"
+        "Meditaciones 8:1-72"
       ],
       "titulo": {
         "stoic": "El Truco de Marco Aurelio para Quitarle Poder a Todo"
@@ -2732,7 +2731,7 @@
         "stoic": "TAMBIEN ESO\nSE GANA"
       },
       "thumb_sub": {
-        "stoic": "Epicteto, Enquiridión"
+        "stoic": "Epicteto, Enquiridión 21-40"
       },
       "consultas_imagens": [
         "clay lamp",
@@ -2747,11 +2746,12 @@
           "epicteto enquiridion",
           "estoicismo epicteto espanol",
           "manual de epicteto",
-          "filosofia estoica practica"
+          "filosofia estoica practica",
+          "enquiridion de epicteto"
         ]
       },
       "descricao_busca": {
-        "stoic": "El Enquiridión de Epicteto, sobre lo que se gana al no ceder, narrado en español."
+        "stoic": "El Enquiridión de Epicteto, capítulos 21 a 40, narrado en español."
       }
     },
     "shorts": [
@@ -2822,11 +2822,11 @@
           "estoicismo para dormir",
           "marco aurelio para dormir",
           "meditaciones marco aurelio noche",
-          "audiolibro estoico"
+          "meditaciones libro vii"
         ]
       },
       "descricao_busca": {
-        "stoic": "Meditaciones de Marco Aurelio, libro VII, narrado despacio para escuchar antes de dormir."
+        "stoic": "El libro VII de las Meditaciones de Marco Aurelio, narrado despacio para escuchar antes de dormir."
       }
     },
     "shorts": [
@@ -2873,8 +2873,7 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 3:1-42",
-        "Meditaciones 2:1-20"
+        "Meditaciones 10:1-66"
       ],
       "titulo": {
         "stoic": "Rápido por Fuera, Tranquilo por Dentro | Marco Aurelio"
@@ -2949,8 +2948,8 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 12:1-50",
-        "Meditaciones 2:21-37"
+        "Meditaciones 3:1-42",
+        "Meditaciones 2:1-37"
       ],
       "titulo": {
         "stoic": "Deja de Vivir Pendiente de lo Que Dirán | Marco Aurelio"
@@ -2959,7 +2958,7 @@
         "stoic": "LO QUE\nDIRAN"
       },
       "thumb_sub": {
-        "stoic": "Marco Aurelio, Meditaciones XII"
+        "stoic": "Marco Aurelio, Meditaciones II-III"
       },
       "consultas_imagens": [
         "night clouds",
@@ -2973,12 +2972,11 @@
         "stoic": [
           "marco aurelio",
           "que diran los demas",
-          "estoicismo practico",
-          "meditaciones libro xii"
+          "estoicismo practico"
         ]
       },
       "descricao_busca": {
-        "stoic": "El libro XII de las Meditaciones, sobre la opinión ajena y el final, narrado en español."
+        "stoic": "Los libros II y III de las Meditaciones de Marco Aurelio, narrados en español."
       }
     },
     "shorts": [
@@ -3091,7 +3089,7 @@
         "stoic": "HABLA\nPOCO"
       },
       "thumb_sub": {
-        "stoic": "Epicteto, Enquiridión"
+        "stoic": "Epicteto, Enquiridión completo"
       },
       "consultas_imagens": [
         "clay lamp",
@@ -3106,11 +3104,12 @@
           "epicteto",
           "enquiridion de epicteto",
           "hablar menos",
-          "estoicismo practico espanol"
+          "estoicismo practico espanol",
+          "enquiridion de epicteto"
         ]
       },
       "descricao_busca": {
-        "stoic": "El Enquiridión de Epicteto sobre la palabra y la medida, narrado en español."
+        "stoic": "El Enquiridión de Epicteto — el manual completo, narrado en español."
       }
     },
     "shorts": [
