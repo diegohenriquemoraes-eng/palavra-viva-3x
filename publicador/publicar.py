@@ -116,6 +116,33 @@ def estado_canal(state: dict, idioma: str) -> dict:
     return ec
 
 
+# Piso do gap entre Shorts quando o dia está acabando (ver `gap_efetivo`).
+# Sem ele, um canal que não publicou nada até as 23h soltaria os Shorts
+# quase colados; com ele, dois Shorts nunca saem a menos de uma hora.
+PISO_GAP_SHORT_MIN = 60
+
+
+def gap_efetivo(gap: int, faltam: int, agora: datetime) -> float:
+    """Gap entre Shorts que ainda cabe no que resta do dia UTC.
+
+    O gap configurado (420 min no ES) foi desenhado para um cron que dispara
+    de hora em hora. Só que o agendador do GitHub coalesce: medido em
+    02/09/2026 na API do repo, o workflow Publicar roda ~6 vezes por dia, em
+    intervalos de 2 a 7 horas — em 28/08 rodou DUAS vezes o dia inteiro. Com
+    janelas tão raras, exigir 420 min desde o último Short faz o segundo
+    Short do dia cair fora do dia: no ES ele foi perdido em 6 dos 8 dias
+    entre 26/08 e 02/09 (o de 02/09 perdeu por 29 minutos).
+
+    A regra passa a ser: o gap é um ALVO de espaçamento, não um veto. Se o
+    que resta do dia não comporta os Shorts que faltam com o gap cheio, ele
+    encolhe até caber — nunca abaixo de PISO_GAP_SHORT_MIN.
+    """
+    if faltam <= 0:
+        return gap
+    restam_min = 24 * 60 - (agora.hour * 60 + agora.minute)
+    return max(min(gap, restam_min / faltam), PISO_GAP_SHORT_MIN)
+
+
 def decidir(canal_cfg: dict, ec: dict, agora: datetime) -> str | None:
     """'longo', 'short' ou None — o que está devido nesta hora."""
     hoje = agora.date().isoformat()
@@ -139,16 +166,23 @@ def decidir(canal_cfg: dict, ec: dict, agora: datetime) -> str | None:
             # do primeiro, ignorando o gap justamente no dia da virada.
             ultimo = next((p["em"] for p in reversed(ec.get("publicados", []))
                            if p["item"] == "longo"), None)
+        travado = False
         if n_longos and gap and ultimo:
             decorrido = (agora - datetime.fromisoformat(ultimo)
                          ).total_seconds() / 60
-            if decorrido < gap:
-                return None
-        return "longo"
+            travado = decorrido < gap
+        if not travado:
+            return "longo"
+        # O longo espera o gap — mas o CANAL não fica mudo. Até 03/09/2026
+        # este caminho devolvia None, e com `hora_longo_utc: 0` +
+        # `gap_longos_min: 480` isso calava o ES da 01h às 08h UTC todo dia:
+        # sete das poucas janelas de cron do dia iam para o lixo mesmo com um
+        # Short devido e pronto. Cai para a avaliação do Short.
 
     sd = ec["shorts_dia"]
     n_hoje = sd["n"] if sd["data"] == hoje else 0
-    if n_hoje >= canal_cfg["shorts_por_dia"]:
+    faltam = canal_cfg["shorts_por_dia"] - n_hoje
+    if faltam <= 0:
         return None
     # hora_short_utc fixa a hora da publicação diária. "Mesmo horário todo dia"
     # é regra do método de canal novo: sem isso o Short sai na primeira
@@ -159,7 +193,7 @@ def decidir(canal_cfg: dict, ec: dict, agora: datetime) -> str | None:
     if ec["ultimo_short"]:
         decorrido = (agora - datetime.fromisoformat(ec["ultimo_short"])
                      ).total_seconds() / 60
-        if decorrido < canal_cfg["gap_shorts_min"]:
+        if decorrido < gap_efetivo(canal_cfg["gap_shorts_min"], faltam, agora):
             return None
     return "short"
 

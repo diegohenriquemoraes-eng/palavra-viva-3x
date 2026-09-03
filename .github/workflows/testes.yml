@@ -1,0 +1,38 @@
+name: Testes
+
+# A suíte roda em segundos, não usa rede e não gasta cota: agenda, orçamento
+# de cota por canal, coerência da config e integridade dos poços de temas.
+#
+# Existe porque toda armadilha listada no CLAUDE.md — o `-framerate` que
+# encurtava o Short em 17%, as tags comparadas por ordem, o `return None` que
+# calou o Short do ES por oito horas todo dia entre 26/08 e 02/09/2026 — foi
+# descoberta EM PRODUÇÃO, dias depois, e algumas por acaso.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Rodar a suíte
+        run: python -m unittest discover -s testes -v
+
+      - name: Vigia (alarmes de operação)
+        # Não falha o build: o vigia mede o estado do CANAL (esteira andando
+        # pela metade, poço baixo, audiência caindo), não a saúde do código.
+        # Quem transforma isso em issue é o workflow Vigia, de hora em hora.
+        continue-on-error: true
+        run: python produzir/vigia.py

@@ -22,7 +22,7 @@ from __future__ import annotations
 
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -141,7 +141,51 @@ def main() -> None:
                 f"--dias 12` (sem o `--dias` a fila diz saudável e não valida "
                 f"os temas novos).")
 
-    # 3) QUEDA DE AUDIÊNCIA — o alarme que faltava em 15/08/2026
+    # 3) VOLUME PUBLICADO x VOLUME CONFIGURADO — o alarme que faltava em 03/09
+    #
+    # "Canal mudo" mede SILÊNCIO, não FALTA. Um canal que devia publicar 2
+    # Shorts e publica 1 nunca fica 14h calado, então o alarme nº 1 dorme e a
+    # esteira anda pela metade indefinidamente. Foi o que aconteceu com o ES
+    # entre 26/08 e 02/09/2026: 9 Shorts publicados de 16 devidos, sete dias
+    # sem ninguém saber, com a estratégia de 25/08 (2 longos + 2 Shorts) sendo
+    # medida sobre uma esteira que nunca rodou como estava escrito.
+    #
+    # Olha os 3 dias UTC COMPLETOS anteriores a hoje (o dia corrente ainda está
+    # sendo preenchido e daria alarme falso a cada manhã).
+    dias_fechados = [(agora.date() - timedelta(days=k)).isoformat()
+                     for k in (1, 2, 3)]
+    for idioma, canal in config.get("canais", {}).items():
+        if not canal.get("ativo"):
+            continue
+        ec = state.get("canais", {}).get(idioma, {})
+        conta = {d: {"short": 0, "longo": 0} for d in dias_fechados}
+        for pub in ec.get("publicados", []):
+            dia = pub["em"][:10]
+            if dia in conta:
+                conta[dia]["longo" if pub["item"] == "longo" else "short"] += 1
+        devidos = {"short": canal.get("shorts_por_dia", 0),
+                   "longo": (canal.get("longos_por_dia", 1)
+                             if canal.get("hora_longo_utc") is not None else 0)}
+        for item, por_dia in devidos.items():
+            if por_dia <= 0:
+                continue
+            saiu = sum(conta[d][item] for d in dias_fechados)
+            esperado = por_dia * len(dias_fechados)
+            if saiu >= esperado * 0.8:
+                print(f"ok  {idioma}: {saiu}/{esperado} {item}s nos 3 dias "
+                      f"fechados")
+                continue
+            detalhe = ", ".join(f"{d[5:]}={conta[d][item]}"
+                                for d in reversed(dias_fechados))
+            alarmes.append(
+                f"- **{canal['titulo_canal']}** ({idioma}): publicou "
+                f"**{saiu} {item}(s) de {esperado}** nos últimos 3 dias "
+                f"({detalhe}), com `{item}s_por_dia = {por_dia}` na config. "
+                f"A esteira está andando pela metade — ver a agenda em "
+                f"`publicador/publicar.py::decidir` e quantas execuções o cron "
+                f"do workflow Publicar entregou de fato no período.")
+
+    # 4) QUEDA DE AUDIÊNCIA — o alarme que faltava em 15/08/2026
     #
     # Canal publicando e poço cheio não quer dizer canal vivo: em 12 e 13/08 o
     # Palabra Viva Cortes caiu de ~2.700 para ~1.100 views/dia sem nenhum aviso,

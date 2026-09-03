@@ -9,7 +9,16 @@ name: Publicar
 # Secrets — nunca no código.
 on:
   schedule:
+    # DOIS agendamentos por hora, não um. Medido na API do repo em 03/09/2026:
+    # com um único `0 * * * *`, o GitHub entregou ~6 execuções por DIA (não 24),
+    # em intervalos de 2 a 7 horas — em 28/08 rodou duas vezes o dia inteiro.
+    # O agendador coalesce disparos quando a fila aperta, e o que se perde é
+    # publicação: o segundo Short do ES caiu fora do dia em 6 dos 8 dias entre
+    # 26/08 e 02/09. Duas entradas dobram as chances de o disparo acontecer, e
+    # execução em hora não devida sai antes de qualquer chamada à API — custa
+    # um minuto de runner (ilimitado, repo público) e zero cota.
     - cron: "0 * * * *"
+    - cron: "30 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
