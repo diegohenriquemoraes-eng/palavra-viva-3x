@@ -16,3 +16,8 @@ tiktok/biblioteca/
 tiktok/poster/perfil_chrome/
 tiktok/poster/*.log
 tiktok/_tmp_render/
+
+# Relatorios de sessao (NOITE-*.md): sao entregas para o Diego, com numeros de
+# canal e ordem de prioridade. O que sobrevive deles vai para CLAUDE.md e
+# CANAIS.md; o relatorio em si nao precisa viver num repo publico.
+NOITE-*.md
