@@ -1320,6 +1320,14 @@
           "video_id": "gAxkKh8hV10",
           "titulo": "Salmo 10:1 — ¿Por qué estás lejos, oh Jehová | Biblia",
           "em": "2026-09-03T05:22:31+00:00"
+        },
+        {
+          "pacote": "2026-09-03-tempestade-acalmada",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "EG-dvj1kK-k",
+          "titulo": "Jesús Calma la Tempestad — Marcos 4 | Historia bíblica narrada",
+          "em": "2026-09-03T10:25:20+00:00"
         }
       ],
       "ultimo_short": "2026-09-03T05:22:31+00:00",
@@ -1330,9 +1338,9 @@
       "longo_data": "2026-09-03",
       "longos_dia": {
         "data": "2026-09-03",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-03T01:15:47+00:00"
+      "ultimo_longo": "2026-09-03T10:25:20+00:00"
     },
     "en": {
       "publicados": [

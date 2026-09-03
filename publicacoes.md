@@ -3494,3 +3494,11 @@
 - Item: short-1 — Meditaciones 10:58
 - Duração: 27.5s
 - Publicado em: 2026-09-03T05:50:34+00:00
+
+## [es] EG-dvj1kK-k — Jesús Calma la Tempestad — Marcos 4 | Historia bíblica narrada
+
+- URL: https://youtu.be/EG-dvj1kK-k
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Marcos 4:35-41, Mateo 8:23-27
+- Duração: 155.8s
+- Publicado em: 2026-09-03T10:25:20+00:00
