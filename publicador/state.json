@@ -3127,12 +3127,20 @@
           "video_id": "GQtUPUYcVhk",
           "titulo": "La pregunta que ordena el día",
           "em": "2026-09-03T12:57:54+00:00"
+        },
+        {
+          "pacote": "2026-09-03-como-si-fuera-eterno",
+          "item": "short-3",
+          "formato": "dormir",
+          "video_id": "Cs6eDdbHmhk",
+          "titulo": "Que te encuentre con la conciencia limpia",
+          "em": "2026-09-03T20:00:23+00:00"
         }
       ],
-      "ultimo_short": "2026-09-03T12:57:54+00:00",
+      "ultimo_short": "2026-09-03T20:00:23+00:00",
       "shorts_dia": {
         "data": "2026-09-03",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

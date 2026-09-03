@@ -3526,3 +3526,11 @@
 - Item: longo — Marcos 4:35-41, Mateus 8:23-27
 - Duração: 158.5s
 - Publicado em: 2026-09-03T14:51:19+00:00
+
+## [stoic] Cs6eDdbHmhk — Que te encuentre con la conciencia limpia
+
+- URL: https://youtu.be/Cs6eDdbHmhk
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 6:42
+- Duração: 22.7s
+- Publicado em: 2026-09-03T20:00:23+00:00
