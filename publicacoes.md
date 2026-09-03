@@ -3454,3 +3454,19 @@
 - Item: short-2 — Meditaciones 11:26
 - Duração: 26.9s
 - Publicado em: 2026-09-02T15:41:27+00:00
+
+## [es] hwUe-4bjtTw — Salmos para Dormir — Salmo 10 Completo | Biblia Hablada
+
+- URL: https://youtu.be/hwUe-4bjtTw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 10
+- Duração: 2123.7s
+- Publicado em: 2026-09-03T01:15:47+00:00
+
+## [pt] u3ceipJiHz8 — Salmo 10:1 — Por que, SENHOR, tu estás longe? | Bíblia
+
+- URL: https://youtu.be/u3ceipJiHz8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 10:1
+- Duração: 14.2s
+- Publicado em: 2026-09-03T01:16:44+00:00

@@ -1304,6 +1304,14 @@
           "video_id": "GuEObYWGfZA",
           "titulo": "Salmo 9:1 — Te alabaré, oh Jehová, con todo | Biblia",
           "em": "2026-09-02T15:39:16+00:00"
+        },
+        {
+          "pacote": "2026-09-03-salmo-10-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "hwUe-4bjtTw",
+          "titulo": "Salmos para Dormir — Salmo 10 Completo | Biblia Hablada",
+          "em": "2026-09-03T01:15:47+00:00"
         }
       ],
       "ultimo_short": "2026-09-02T15:39:16+00:00",
@@ -1311,12 +1319,12 @@
         "data": "2026-09-02",
         "n": 1
       },
-      "longo_data": "2026-09-02",
+      "longo_data": "2026-09-03",
       "longos_dia": {
-        "data": "2026-09-02",
-        "n": 2
+        "data": "2026-09-03",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-02T11:53:52+00:00"
+      "ultimo_longo": "2026-09-03T01:15:47+00:00"
     },
     "en": {
       "publicados": [
@@ -2628,11 +2636,19 @@
           "video_id": "4We1OsWAWvg",
           "titulo": "Salmo 9:1 — Louvarei a ti, SENHOR com todo | Bíblia",
           "em": "2026-09-02T15:40:09+00:00"
+        },
+        {
+          "pacote": "2026-09-03-salmo-10-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "u3ceipJiHz8",
+          "titulo": "Salmo 10:1 — Por que, SENHOR, tu estás longe? | Bíblia",
+          "em": "2026-09-03T01:16:44+00:00"
         }
       ],
-      "ultimo_short": "2026-09-02T15:40:09+00:00",
+      "ultimo_short": "2026-09-03T01:16:44+00:00",
       "shorts_dia": {
-        "data": "2026-09-02",
+        "data": "2026-09-03",
         "n": 1
       },
       "longo_data": "2026-09-02",
