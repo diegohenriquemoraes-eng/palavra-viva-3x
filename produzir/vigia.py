@@ -69,6 +69,44 @@ def ultima_publicacao(ec: dict) -> datetime | None:
     return max(datetime.fromisoformat(p["em"]) for p in pubs)
 
 
+# Regra do alarme de ENTREGA (nº 5), no escopo do módulo para ser testável
+# contra a série real: 3 medições recentes contra as 7 anteriores, queda de
+# 35% em DUAS leituras seguidas. Ver o comentário no alarme.
+JANELA_RECENTE = 3
+JANELA_BASE = 7
+QUEDA_ALARME = 0.35
+BASE_MINIMA = 100
+
+
+def queda_da_coorte(serie: list[float], i: int) -> float | None:
+    """Queda da mediana recente contra a base, na posição i da série.
+
+    None quando não há série suficiente ou quando a base é pequena demais
+    para a razão significar alguma coisa.
+    """
+    rec = serie[i - JANELA_RECENTE + 1:i + 1]
+    base = serie[i - JANELA_RECENTE - JANELA_BASE + 1:i - JANELA_RECENTE + 1]
+    if len(rec) < JANELA_RECENTE or len(base) < 5:
+        return None
+    m_base = sum(base) / len(base)
+    if m_base < BASE_MINIMA:
+        return None
+    return 1 - (sum(rec) / len(rec)) / m_base
+
+
+def alarme_de_entrega(serie: list[float]) -> float | None:
+    """A queda a reportar, ou None. Exige duas leituras seguidas no limiar."""
+    if len(serie) < JANELA_RECENTE + JANELA_BASE + 1:
+        return None
+    agora = queda_da_coorte(serie, len(serie) - 1)
+    antes = queda_da_coorte(serie, len(serie) - 2)
+    if agora is None or agora < QUEDA_ALARME:
+        return None
+    if antes is None or antes < QUEDA_ALARME:
+        return None
+    return agora
+
+
 def main() -> None:
     config = carregar(CONFIG, {})
     state = carregar(STATE, {})
@@ -235,6 +273,45 @@ def main() -> None:
                 f"dias antes de mexer em qualquer coisa.")
         else:
             print(f"ok  {idioma}: {recente:.0f} views/dia ({queda*-100:+.0f}%)")
+
+    # 5) ENTREGA POR VÍDEO — a mediana da coorte de 2 a 7 dias
+    #
+    # O alarme nº 4 olha views/dia do CANAL, um número que o acervo sustenta:
+    # entre 28/07 e 02/09/2026 a mediana por Short do ES caiu de 903 para 184
+    # — 80% — e a série de views/dia nunca acusou 35% de queda, porque vídeo
+    # velho continua rendendo. Quem mede se o YouTube ainda está ENTREGANDO o
+    # que se publica hoje é a mediana da coorte nova.
+    #
+    # Validado contra o histórico real: com esta regra o alarme do ES teria
+    # tocado em 22/08, onze dias antes de a queda ser notada por acaso. A
+    # exigência de DUAS medições seguidas existe por causa do outro lado: o
+    # canal estoico teve um -37% isolado em 25/08 enquanto subia de verdade,
+    # e um alarme por medição solta viraria ruído semanal.
+    quedas_seguidas: dict[str, int] = {}
+
+    def medianas(canal: str) -> list[tuple[str, float]]:
+        return [(h["data"], h["canais"][canal]["views_medianas"])
+                for h in hist
+                if h["canais"].get(canal, {}).get("views_medianas")]
+
+    for idioma, canal in config.get("canais", {}).items():
+        if not canal.get("ativo"):
+            continue
+        serie = medianas(idioma)
+        valores = [v for _, v in serie]
+        agora_q = alarme_de_entrega(valores)
+        if agora_q is not None:
+            alarmes.append(
+                f"- **{canal['titulo_canal']}** ({idioma}): a mediana de views "
+                f"por vídeo novo caiu **{agora_q*100:.0f}%** (coorte de 2 a 7 "
+                f"dias: {serie[-1][1]:.0f} agora). O canal está publicando e "
+                f"sendo menos ENTREGUE — conferir primeiro se a esteira anda "
+                f"completa (alarme de volume) e só depois olhar retenção. Não "
+                f"mexer em voz, gancho ou teto sem esse diagnóstico.")
+        elif serie:
+            ultima = queda_da_coorte(valores, len(valores) - 1)
+            print(f"ok  {idioma}: mediana da coorte {serie[-1][1]:.0f}"
+                  + (f" ({ultima*-100:+.0f}%)" if ultima is not None else ""))
 
     if not alarmes:
         print("\nSem alarmes.")

@@ -346,6 +346,109 @@ entram por **vídeo sugerido** e a sessão média é de 5,8 minutos.
 título do canal (ver o rebrand do ES). Só o Studio grava. Ficou por fazer; vale
 pouco (a página do canal recebeu 13 views em 28 dias).
 
+## O agendador entregava METADE da esteira — corrigido em 03/09/2026
+
+Achado da madrugada de 02→03/09, olhando por que o Short do ES caiu de 903
+para 184 views medianos desde 28/07. A retenção não caiu: a coorte por semana
+de publicação segue entre **95% e 124%** (o limiar de impulso do YouTube é
+70%). O que caiu foi **entrega** — e boa parte era **volume que não foi
+publicado**. O ES devia 2 Shorts/dia e entregou: 26/08 → 2, 27/08 → 1, **28/08
+→ 0**, 29 a 31/08 → 1, 01/09 → 2, 02/09 → 1. Nove de dezesseis.
+
+Duas causas somadas, as duas no código:
+
+1. **`decidir` calava o canal inteiro durante o gap do longo.** Com
+   `hora_longo_utc: 0`, `longos_por_dia: 2` e `gap_longos_min: 480`, o bloco do
+   longo devolvia `None` enquanto o 2º longo esperava o gap — e `None` significa
+   "nada devido", não "longo ainda não". Resultado: da 01h às 08h UTC, todo dia,
+   nenhuma execução publicava nada, com um Short devido e pronto. Agora o gap
+   trava só o longo e a execução cai para a avaliação do Short.
+
+2. **O gap entre Shorts era um veto, e o cron não é de hora em hora.** Medido
+   na API do repo: `"0 * * * *"` entregou **~6 execuções por DIA**, em
+   intervalos de 2 a 7 horas (em 28/08, duas o dia inteiro). O GitHub coalesce
+   disparos agendados quando a fila aperta — o CLAUDE.md já avisava para nunca
+   usar cron esparso, mas o cron esparso apareceu sozinho. Com janelas assim,
+   exigir 420 min desde o último Short joga o 2º para fora do dia: em 02/09 ele
+   foi perdido **por 29 minutos**. `gap_efetivo` transforma o gap em ALVO —
+   encolhe até caber no que resta do dia, nunca abaixo de 60 min.
+
+Replay das execuções reais de 26/08 a 02/09 com o código novo: **es 9 → 13
+Shorts, stoic 20 → 23**. O que ainda falta (3 no ES) são dias em que o cron deu
+uma ou duas janelas; por isso o workflow Publicar ganhou um **segundo cron aos
+:30**. Execução em hora não devida sai antes de qualquer chamada à API: custa
+um minuto de runner (ilimitado, repo público) e zero cota.
+
+**Por que ninguém viu por sete dias**: o vigia mede SILÊNCIO ("faz X horas que
+não publica"), e um canal que publica 1 de 2 nunca fica calado. Entrou o alarme
+que faltava — *publicou menos do que a config manda* nos 3 dias UTC fechados.
+Ele disparou na primeira rodada para es e stoic.
+
+### A suíte de testes (`testes/`, `python -m unittest discover -s testes`)
+
+27 casos, sem rede, 2 segundos, e um workflow **Testes** em todo push. Cobre
+agenda (incluindo os dois defeitos acima como casos), orçamento de cota por
+canal, coerência da config (produto próprio que não se declara afiliado, link
+de oferta sem `src=`) e integridade dos poços. Existe porque **toda armadilha
+deste CLAUDE.md foi descoberta em produção, dias depois, e algumas por acaso**.
+
+⚠ O teste de cota já corrigiu a conta que estava escrita aqui. Com os custos
+que o código realmente gasta (upload 1600 + update 50 + polling + thumbnail 50
++ caption 400 + playlist 50 no longo) mais o workflow **Realinhar** (500/dia):
+
+| canal | dia normal | com 1 reenvio | de 10.000 |
+|---|---|---|---|
+| es | 8.178 | 10.354 | **sem margem** |
+| pt | 6.515 | 8.691 | ok |
+| stoic | 5.489 | 7.665 | ok |
+
+A conta de 25/08 dava ~7.500 para o ES e prometia margem para um retry, mas não
+incluía o Realinhar (criado no mesmo dia) nem a legenda e a playlist dos DOIS
+longos. **O ES não tem margem para reenviar um longo que falhe.** Está
+registrado em `SEM_MARGEM_DE_RETRY` no teste, para ser decisão e não surpresa —
+abrir margem custa um Short/dia, e isso é decisão do Diego.
+
+## O poço estoico quase secou (03/09/2026) — e o que ficou pronto para o longo
+
+O alarme novo pegou de imediato: **1 tema livre**. La Noche Estoica é o único
+canal da casa em crescimento real — mediana de **982 views/Short** na coorte
+2-7d (o ES faz 184), 85 inscritos ganhando ~5,5/dia contra 1,6 do ES — e ia
+secar sem aviso no dia seguinte.
+
+Entraram **13 temas novos (52 Shorts)**, escritos do corpus que já está no repo
+(Marco Aurelio/Díaz de Miranda e Epicteto/Brum, domínio público). Poço: 1 → 14
+temas livres, fila validada até 15/09. Carga dos Shorts novos (texto citado +
+aplicação): mediana 46 e p90 56 palavras, dentro da distribuição do acervo que
+retém 90% (42 e 54); medido por render local, 22 a 28 s.
+
+**Cada tema novo já nasce com o longo pronto** — refs, título de busca,
+abertura falada, tags e descrição — porque o gargalo do canal é justamente esse:
+`longos_publicados: 0` e **39 h/ano projetadas de 4.000**. O ES tem horas
+(1.705 h/ano) e perdeu alcance; o stoic tem alcance e não tem hora nenhuma. A
+cota comporta (5.489 + 2.176 = 7.665, com margem para um reenvio).
+
+**Não foi ligado de propósito**: `hora_longo_utc` segue `null`. A janela de
+medição do canal vai até 22/09 e a regra é não mexer durante a janela — foi
+mudar duas variáveis ao mesmo tempo que derrubou o pipeline em 20/07. Para
+ligar depois da régua, bastam `"hora_longo_utc": 2` e `"longos_por_dia": 1` no
+config; a playlist o publicador cria sozinho na primeira publicação.
+
+⚠ **O corpus estoico está no fim**: sobraram ~59 passagens de 9 a 45 palavras
+nunca usadas em Short (o filtro de tamanho é o que aperta — a tradução Díaz de
+1785 tem versos longuíssimos). Dá para uns 14 temas além dos 13 de agora. A
+saída estrutural é corpus novo em domínio público **verificado** (as
+Dissertações de Epicteto numa tradução PD transcrita seriam o caminho natural);
+Sêneca continua barrado — a tradução PD (Navarro y Calvo, 1884) não está
+transcrita e as Cartas do es.wikisource são tradução moderna protegida.
+
+⚠ **Camada autoral incompleta, achada pelo teste de poço**: 20 temas antigos
+tinham aplicação só nos 2 primeiros Shorts dos 4. Nenhum chegou a ir ao ar cru
+(foram consumidos quando o canal publicava 1/dia), mas desde 22/08 são 3/dia e
+o buraco estava aberto. As 40 aplicações foram escritas; o teste agora reprova
+qualquer poço com camada autoral incompleta. Isso é MONETIZAÇÃO, não copyright:
+`answer/1311392` lista "readings of other materials you did not originally
+create" como inelegível, e domínio público não resolve esse trilho.
+
 ## Diretriz editorial — inegociável
 
 1. Só texto bíblico de tradução em DOMÍNIO PÚBLICO: RV1909 (es), KJV (en),
