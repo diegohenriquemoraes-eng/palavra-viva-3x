@@ -158,6 +158,34 @@ class TestPocos(unittest.TestCase):
                             carga, 110,
                             f"{carga} palavras — o Short passaria de um minuto")
 
+    def test_titulos_de_short_unicos_entre_os_temas_ainda_livres(self):
+        """Dois Shorts com o MESMO título canibalizam a busca um do outro e
+        somam ao sinal de "conteúdo repetitivo" que o algoritmo lê.
+
+        Só entre os temas que ainda não viraram pacote: o acervo bíblico já
+        tem 13 títulos repetidos em espanhol e 12 em português (um deles 4x),
+        todos de vídeos publicados. Corrigi-los custaria 50 unidades de cota
+        por vídeo num canal que já não tem margem de reenvio, e trocar o
+        título de um vídeo que ranqueia é aposta, não conserto. O que este
+        teste garante é que a fila daqui para a frente não crie mais nenhum.
+        """
+        for nome, linha in linhas_ativas():
+            usados = {p.name[11:] for p in linha["fila"].iterdir()
+                      if p.is_dir() and len(p.name) > 11}                 if linha["fila"].is_dir() else set()
+            for canal in linha["canais"]:
+                if not CONFIG["canais"].get(canal, {}).get("ativo"):
+                    continue
+                titulos = Counter(
+                    s["titulo"].get(canal, "")
+                    for t in carregar(linha) if t["slug"] not in usados
+                    for s in t["shorts"])
+                repetidos = [t for t, n in titulos.items() if n > 1 and t]
+                with self.subTest(poco=nome, canal=canal):
+                    self.assertFalse(
+                        repetidos,
+                        f"títulos repetidos entre temas livres: "
+                        f"{repetidos[:3]}")
+
 
 if __name__ == "__main__":
     unittest.main()
