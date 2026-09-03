@@ -427,6 +427,17 @@ abertura falada, tags e descrição — porque o gargalo do canal é justamente 
 (1.705 h/ano) e perdeu alcance; o stoic tem alcance e não tem hora nenhuma. A
 cota comporta (5.489 + 2.176 = 7.665, com margem para um reenvio).
 
+⚠ **O longo estoico não pode reutilizar o desenho do longo bíblico.** O
+primeiro render de verdade (70,2 min, 305 MB, **35,4 min de render** com 2
+núcleos — o runner tem 2 e o job tem teto de 110) saiu com o MESMO trecho de 12
+minutos repetido **seis vezes**, e cinco linhas "(repetición)" na lista de
+capítulos: é o que `_estender_para_alvo` faz quando a faixa é curta e o alvo é
+60 min. Nos salmos a repetição é o formato do nicho ("Salmo 91 91 vezes", 48M
+views); em filosofia é a cara de produção em massa. Os 13 temas foram refeitos
+com **um capítulo inteiro** (ou faixa equivalente do Enquiridión) por tema — 26
+a 39 min por ciclo, 1 ciclo nos de 30 min e 2 nos de dormir —, e nenhum capítulo
+de Meditaciones aparece em dois temas.
+
 **Não foi ligado de propósito**: `hora_longo_utc` segue `null`. A janela de
 medição do canal vai até 22/09 e a regra é não mexer durante a janela — foi
 mudar duas variáveis ao mesmo tempo que derrubou o pipeline em 20/07. Para
