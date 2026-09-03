@@ -1,8 +1,50 @@
-# Canais — painel único, estado em 17/08/2026
+# Canais — painel único, estado em 03/09/2026
 
 > Ponto de partida de qualquer sessão sobre canais. Este arquivo diz **o que está no ar, onde
 > mora e o que está esperando decisão**. O detalhe técnico de cada motor está no `CLAUDE.md`
 > da pasta correspondente — abrir só depois de saber por qual passar.
+
+## O que mudou na madrugada de 02→03/09/2026
+
+**O agendador entregava metade da esteira, e havia sete dias que isso durava.** O ES devia 2
+Shorts/dia e publicou 9 de 16 entre 26/08 e 02/09 (em 28/08, zero). Duas causas: `decidir`
+devolvia "nada devido" enquanto o 2º longo esperava o gap de 8 h — calando o canal da 01h às
+08h UTC todo dia — e o gap entre Shorts era um veto absoluto num cron que o GitHub entrega
+**~6 vezes por dia**, não 24. Corrigido, com replay das execuções reais: **es 9 → 13 Shorts,
+stoic 20 → 23**. Detalhe do CLAUDE.md que se provou de novo: cron esparso mata a esteira — só
+que desta vez o cron ficou esparso sozinho, pelo lado do GitHub.
+
+**A queda do ES não é de retenção.** A coorte por semana de publicação segue entre 95% e 124%
+(o limiar de impulso é 70%). O que caiu foi entrega: a mediana por Short foi de 903 (28/07) a
+184 (02/09). Nada de mexer em voz, gancho ou teto antes de ver a esteira andar completa por
+duas semanas.
+
+**Nada disso apareceu em alarme**, porque o vigia media silêncio e views/dia do canal — dois
+números que um canal pela metade não move. Entraram dois alarmes: *publicou menos do que a
+config manda* (3 dias fechados) e *mediana da coorte 2-7 d caindo* — este validado contra a
+série real: teria tocado em **22/08**, onze dias antes.
+
+**O poço estoico tinha 1 tema livre** e o canal secaria no dia seguinte. Repostos **13 temas
+(52 Shorts)**; poço em 14 livres, fila até 15/09. ⚠ O corpus está no fim: sobram ~59 passagens
+utilizáveis, uns 14 temas. Corpus novo em domínio público **verificado** é a próxima
+necessidade real do canal.
+
+**Existe suíte de testes agora** (`testes/`, 36 casos, 2 s, workflow **Testes** em todo push):
+agenda, orçamento de cota, coerência da config e integridade dos poços.
+
+### O que ficou esperando decisão do Diego
+
+1. **Ligar o longo no La Noche Estoica.** É o único canal em crescimento real (mediana 982
+   views/Short; 85 inscritos, +5,5/dia contra 1,6 do ES) e tem **39 h/ano projetadas de 4.000**
+   porque nunca publicou um longo. Os 13 temas novos já nascem com o longo escrito. Falta só
+   `"hora_longo_utc": 12` e `"longos_por_dia": 1` no config — e a janela de medição do canal vai
+   até **22/09**, então o certo é ligar depois dela.
+2. **O ES não tem margem de cota para reenviar um longo** (8.178/dia normal, 10.354 com um
+   reenvio, de 10.000). A conta de 25/08 não incluía o workflow Realinhar nem legenda e playlist
+   dos dois longos. Abrir margem custa um Short/dia.
+3. **Títulos repetidos no acervo**: 13 Shorts em espanhol e 12 em português têm título idêntico
+   a outro do mesmo canal (um saiu 4x). São todos vídeos publicados; consertar custa cota que o
+   ES não tem e mexe em vídeo que já ranqueia. O poço livre não repete nenhum, e agora há teste.
 
 ## Quem publica hoje
 
