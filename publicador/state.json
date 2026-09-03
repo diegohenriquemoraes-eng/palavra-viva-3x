@@ -1328,12 +1328,20 @@
           "video_id": "EG-dvj1kK-k",
           "titulo": "Jesús Calma la Tempestad — Marcos 4 | Historia bíblica narrada",
           "em": "2026-09-03T10:25:20+00:00"
+        },
+        {
+          "pacote": "2026-09-03-salmo-10-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "UCLL7jRk6o4",
+          "titulo": "Salmo 10:5 — Sus caminos son viciosos en todo tiempo | Biblia",
+          "em": "2026-09-03T12:56:22+00:00"
         }
       ],
-      "ultimo_short": "2026-09-03T05:22:31+00:00",
+      "ultimo_short": "2026-09-03T12:56:22+00:00",
       "shorts_dia": {
         "data": "2026-09-03",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-03",
       "longos_dia": {
@@ -3103,12 +3111,20 @@
           "video_id": "9s55t_XmU7s",
           "titulo": "Vives como si esto fuera eterno",
           "em": "2026-09-03T05:50:34+00:00"
+        },
+        {
+          "pacote": "2026-09-03-como-si-fuera-eterno",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "GQtUPUYcVhk",
+          "titulo": "La pregunta que ordena el día",
+          "em": "2026-09-03T12:57:54+00:00"
         }
       ],
-      "ultimo_short": "2026-09-03T05:50:34+00:00",
+      "ultimo_short": "2026-09-03T12:57:54+00:00",
       "shorts_dia": {
         "data": "2026-09-03",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
