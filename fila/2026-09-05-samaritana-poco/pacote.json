@@ -1,0 +1,147 @@
+{
+  "slug": "samaritana-poco",
+  "formato": "historia",
+  "data": "2026-09-05",
+  "criado_em": "2026-09-03T04:36:17+00:00",
+  "aprovado_em": "2026-09-03T04:36:17+00:00",
+  "longo": {
+    "refs": [
+      "John 4:5-30"
+    ],
+    "titulo": {
+      "es": "La Samaritana en el Pozo — Juan 4 | Historia bíblica narrada",
+      "en": "The Woman at the Well — John 4 | Bible Story",
+      "pt": "A Samaritana no Poço — João 4 | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "AGUA VIVA",
+      "en": "LIVING WATER",
+      "pt": "ÁGUA VIVA"
+    },
+    "thumb_sub": {
+      "es": "Juan 4",
+      "en": "John 4",
+      "pt": "João 4"
+    },
+    "abertura": {
+      "es": "Juan, capítulo cuatro. Mediodía, junto al pozo de Jacob, en Sicar de Samaria. Jesús está cansado del camino y pide agua a una mujer que llega sola a la hora de más calor. La conversación entera cabe en veinte versículos y termina con ella dejando el cántaro. Escucha el relato completo, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "João, capítulo quatro. Meio-dia, junto ao poço de Jacó, em Sicar de Samaria. Jesus está cansado do caminho e pede água a uma mulher que chega sozinha na hora mais quente. A conversa inteira cabe em vinte versículos e termina com ela deixando o cântaro. Ouça o relato completo, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "la samaritana",
+        "juan 4",
+        "historia biblica",
+        "mujer del pozo",
+        "agua viva",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "a samaritana",
+        "joao 4",
+        "historia biblica",
+        "mulher do poco",
+        "agua viva",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Juan 4: el pozo de Jacob, la mujer de Samaria, el agua viva y la ciudad que salió a ver. Narración completa, Reina-Valera 1909.",
+      "pt": "João 4: o poço de Jacó, a mulher de Samaria, a água viva e a cidade que saiu para ver. Narração completa, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Batu_Pahat_Well_-_Stone_Stair.jpg/1920px-Batu_Pahat_Well_-_Stone_Stair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Wiki Farazi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Batu_Pahat_Well_-_Stone_Stair.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Ada_Margaret_Stone_Wells_-_May_2023_-_Sarh_Stierch.jpg/1920px-Ada_Margaret_Stone_Wells_-_May_2023_-_Sarh_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Missvain",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ada_Margaret_Stone_Wells_-_May_2023_-_Sarh_Stierch.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Luxian%2C_Stone_mill%2C_Eastern_Han%2C_Well_J51.jpg/1920px-Luxian%2C_Stone_mill%2C_Eastern_Han%2C_Well_J51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Furius",
+        "origem": "https://commons.wikimedia.org/wiki/File:Luxian,_Stone_mill,_Eastern_Han,_Well_J51.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Luxian%2C_Stone_mortar%2C_Eastern_Han%2C_Well_J34.jpg/1920px-Luxian%2C_Stone_mortar%2C_Eastern_Han%2C_Well_J34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Furius",
+        "origem": "https://commons.wikimedia.org/wiki/File:Luxian,_Stone_mortar,_Eastern_Han,_Well_J34.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "John 4:7",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Juan 4 — Dame de beber | Biblia",
+        "en": "John 4 — Give Me to Drink | Bible",
+        "pt": "João 4 — Dá-me de beber | Bíblia"
+      },
+      "aplicacao": {
+        "es": "La conversación empieza con él pidiendo, no ofreciendo.",
+        "pt": "A conversa começa com ele pedindo, não oferecendo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Luxian%2C_Stone_mortar%2C_Eastern_Han%2C_Well_J34.jpg/1920px-Luxian%2C_Stone_mortar%2C_Eastern_Han%2C_Well_J34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Furius",
+        "origem": "https://commons.wikimedia.org/wiki/File:Luxian,_Stone_mortar,_Eastern_Han,_Well_J34.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "John 4:13-14",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 4 — El que bebiere del agua que yo le daré | Biblia",
+        "en": "John 4 — Whosoever Drinketh of the Water I Give | Bible",
+        "pt": "João 4 — Quem beber da água que eu lhe der | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El texto contrapone dos aguas: la del pozo y la otra.",
+        "pt": "O texto contrapõe duas águas: a do poço e a outra."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Luxian%2C_Stone_mortar%2C_Eastern_Han%2C_Well_J34.jpg/1920px-Luxian%2C_Stone_mortar%2C_Eastern_Han%2C_Well_J34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Furius",
+        "origem": "https://commons.wikimedia.org/wiki/File:Luxian,_Stone_mortar,_Eastern_Han,_Well_J34.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "John 4:23",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 4 — Adorarán en espíritu y en verdad | Biblia",
+        "en": "John 4 — Worship in Spirit and in Truth | Bible",
+        "pt": "João 4 — Adorarão em espírito e em verdade | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Dice que la hora llega y ahora es, en la misma frase.",
+        "pt": "Diz que a hora vem e agora é, na mesma frase."
+      },
+      "imagem": null
+    },
+    {
+      "ref": "John 4:28-29",
+      "tipo": "descriptivo",
+      "titulo": {
+        "es": "Juan 4 — Dejó su cántaro y fue a la ciudad | Biblia",
+        "en": "John 4 — She Left Her Waterpot and Went | Bible",
+        "pt": "João 4 — Deixou o cântaro e foi à cidade | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Dejar el cántaro es el detalle que el relato se detiene a anotar.",
+        "pt": "Deixar o cântaro é o detalhe que o relato para para anotar."
+      },
+      "imagem": null
+    }
+  ]
+}
