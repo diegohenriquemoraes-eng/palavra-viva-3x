@@ -1312,11 +1312,19 @@
           "video_id": "hwUe-4bjtTw",
           "titulo": "Salmos para Dormir — Salmo 10 Completo | Biblia Hablada",
           "em": "2026-09-03T01:15:47+00:00"
+        },
+        {
+          "pacote": "2026-09-03-salmo-10-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "gAxkKh8hV10",
+          "titulo": "Salmo 10:1 — ¿Por qué estás lejos, oh Jehová | Biblia",
+          "em": "2026-09-03T05:22:31+00:00"
         }
       ],
-      "ultimo_short": "2026-09-02T15:39:16+00:00",
+      "ultimo_short": "2026-09-03T05:22:31+00:00",
       "shorts_dia": {
-        "data": "2026-09-02",
+        "data": "2026-09-03",
         "n": 1
       },
       "longo_data": "2026-09-03",
@@ -2644,6 +2652,14 @@
           "video_id": "u3ceipJiHz8",
           "titulo": "Salmo 10:1 — Por que, SENHOR, tu estás longe? | Bíblia",
           "em": "2026-09-03T01:16:44+00:00"
+        },
+        {
+          "pacote": "2026-09-03-salmo-10-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "RGcr8-noXEY",
+          "titulo": "Salmos para Dormir — Salmo 10 Completo | Bíblia Falada",
+          "em": "2026-09-03T05:49:42+00:00"
         }
       ],
       "ultimo_short": "2026-09-03T01:16:44+00:00",
@@ -2651,12 +2667,12 @@
         "data": "2026-09-03",
         "n": 1
       },
-      "longo_data": "2026-09-02",
+      "longo_data": "2026-09-03",
       "longos_dia": {
-        "data": "2026-09-02",
-        "n": 2
+        "data": "2026-09-03",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-02T11:55:59+00:00"
+      "ultimo_longo": "2026-09-03T05:49:42+00:00"
     },
     "stoic": {
       "publicados": [
@@ -3071,12 +3087,20 @@
           "video_id": "9G4SeYZwgrU",
           "titulo": "Naciste para lo común",
           "em": "2026-09-02T15:41:27+00:00"
+        },
+        {
+          "pacote": "2026-09-03-como-si-fuera-eterno",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "9s55t_XmU7s",
+          "titulo": "Vives como si esto fuera eterno",
+          "em": "2026-09-03T05:50:34+00:00"
         }
       ],
-      "ultimo_short": "2026-09-02T15:41:27+00:00",
+      "ultimo_short": "2026-09-03T05:50:34+00:00",
       "shorts_dia": {
-        "data": "2026-09-02",
-        "n": 2
+        "data": "2026-09-03",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

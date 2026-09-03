@@ -3470,3 +3470,27 @@
 - Item: short-1 — Salmo 10:1
 - Duração: 14.2s
 - Publicado em: 2026-09-03T01:16:44+00:00
+
+## [es] gAxkKh8hV10 — Salmo 10:1 — ¿Por qué estás lejos, oh Jehová | Biblia
+
+- URL: https://youtu.be/gAxkKh8hV10
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 10:1
+- Duração: 14.2s
+- Publicado em: 2026-09-03T05:22:31+00:00
+
+## [pt] RGcr8-noXEY — Salmos para Dormir — Salmo 10 Completo | Bíblia Falada
+
+- URL: https://youtu.be/RGcr8-noXEY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 10
+- Duração: 2313.1s
+- Publicado em: 2026-09-03T05:49:42+00:00
+
+## [stoic] 9s55t_XmU7s — Vives como si esto fuera eterno
+
+- URL: https://youtu.be/9s55t_XmU7s
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 10:58
+- Duração: 27.5s
+- Publicado em: 2026-09-03T05:50:34+00:00
