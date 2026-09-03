@@ -2676,6 +2676,14 @@
           "video_id": "RGcr8-noXEY",
           "titulo": "Salmos para Dormir — Salmo 10 Completo | Bíblia Falada",
           "em": "2026-09-03T05:49:42+00:00"
+        },
+        {
+          "pacote": "2026-09-03-tempestade-acalmada",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "p7EAKeSGmt0",
+          "titulo": "Jesus Acalma a Tempestade — Marcos 4 | História bíblica narrada",
+          "em": "2026-09-03T14:51:19+00:00"
         }
       ],
       "ultimo_short": "2026-09-03T01:16:44+00:00",
@@ -2686,9 +2694,9 @@
       "longo_data": "2026-09-03",
       "longos_dia": {
         "data": "2026-09-03",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-03T05:49:42+00:00"
+      "ultimo_longo": "2026-09-03T14:51:19+00:00"
     },
     "stoic": {
       "publicados": [

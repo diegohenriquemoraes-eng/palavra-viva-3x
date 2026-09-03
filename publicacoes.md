@@ -3518,3 +3518,11 @@
 - Item: short-2 — Meditaciones 10:45
 - Duração: 25.0s
 - Publicado em: 2026-09-03T12:57:54+00:00
+
+## [pt] p7EAKeSGmt0 — Jesus Acalma a Tempestade — Marcos 4 | História bíblica narrada
+
+- URL: https://youtu.be/p7EAKeSGmt0
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Marcos 4:35-41, Mateus 8:23-27
+- Duração: 158.5s
+- Publicado em: 2026-09-03T14:51:19+00:00
