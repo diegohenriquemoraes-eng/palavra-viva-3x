@@ -2104,7 +2104,7 @@
     "formato": "dormir",
     "longo": {
       "refs": [
-        "Meditaciones 6:39-60"
+        "Meditaciones 6:1-77"
       ],
       "titulo": {
         "stoic": "1 Hora de Marco Aurelio | Lo Que Sí Depende de Ti — Para Dormir"
@@ -2179,7 +2179,7 @@
     "formato": "dormir",
     "longo": {
       "refs": [
-        "Meditaciones 9:1-25"
+        "Meditaciones 9:1-66"
       ],
       "titulo": {
         "stoic": "1 Hora de Marco Aurelio | Las Cosas No Te Tocan — Para Dormir"
@@ -2254,7 +2254,7 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 11:1-27"
+        "Meditaciones 11:1-68"
       ],
       "titulo": {
         "stoic": "El Único Oficio Que Nadie Te Enseña | Marco Aurelio"
@@ -2329,7 +2329,7 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 1:1-30"
+        "Meditaciones 1:1-47"
       ],
       "titulo": {
         "stoic": "Cómo Se Aprende a No Alterarse | Marco Aurelio, Libro I"
@@ -2404,7 +2404,7 @@
     "formato": "dormir",
     "longo": {
       "refs": [
-        "Meditaciones 4:27-47"
+        "Meditaciones 4:1-75"
       ],
       "titulo": {
         "stoic": "1 Hora de Marco Aurelio | Todo Pasa, Tambien Esto - Para Dormir"
@@ -2479,7 +2479,7 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 5:1-25"
+        "Meditaciones 5:1-64"
       ],
       "titulo": {
         "stoic": "Haz el Bien y No Lleves la Cuenta | Marco Aurelio"
@@ -2554,7 +2554,7 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 7:1-25"
+        "Meditaciones 8:1-72"
       ],
       "titulo": {
         "stoic": "Enfadarse con las Cosas No Sirve de Nada | Marco Aurelio"
@@ -2629,7 +2629,7 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 8:1-25"
+        "Meditaciones 10:1-66"
       ],
       "titulo": {
         "stoic": "El Truco de Marco Aurelio para Quitarle Poder a Todo"
@@ -2704,7 +2704,26 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Enquiridión 30:1-2"
+        "Enquiridión 21:1",
+        "Enquiridión 22:1-2",
+        "Enquiridión 23:1",
+        "Enquiridión 24:1",
+        "Enquiridión 25:1",
+        "Enquiridión 26:1",
+        "Enquiridión 27:1",
+        "Enquiridión 28:1",
+        "Enquiridión 29:1",
+        "Enquiridión 30:1-2",
+        "Enquiridión 31:1-5",
+        "Enquiridión 32:1-4",
+        "Enquiridión 33:1",
+        "Enquiridión 34:1",
+        "Enquiridión 35:1",
+        "Enquiridión 36:1-4",
+        "Enquiridión 37:1-3",
+        "Enquiridión 38:1-2",
+        "Enquiridión 39:1-4",
+        "Enquiridión 40:1-4"
       ],
       "titulo": {
         "stoic": "Lo Que Ganas Cuando No Consigues lo Que Querías | Epicteto"
@@ -2779,7 +2798,7 @@
     "formato": "dormir",
     "longo": {
       "refs": [
-        "Meditaciones 7:26-50"
+        "Meditaciones 7:1-82"
       ],
       "titulo": {
         "stoic": "1 Hora de Marco Aurelio | Mira las Estrellas y Respira - Para Dormir"
@@ -2854,7 +2873,8 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 10:1-30"
+        "Meditaciones 3:1-42",
+        "Meditaciones 2:1-20"
       ],
       "titulo": {
         "stoic": "Rápido por Fuera, Tranquilo por Dentro | Marco Aurelio"
@@ -2929,7 +2949,8 @@
     "formato": "tema",
     "longo": {
       "refs": [
-        "Meditaciones 12:1-25"
+        "Meditaciones 12:1-50",
+        "Meditaciones 2:21-37"
       ],
       "titulo": {
         "stoic": "Deja de Vivir Pendiente de lo Que Dirán | Marco Aurelio"
@@ -3004,10 +3025,64 @@
     "formato": "tema",
     "longo": {
       "refs": [
+        "Enquiridión 41:1",
+        "Enquiridión 42:1",
+        "Enquiridión 43:1",
         "Enquiridión 44:1",
         "Enquiridión 45:1",
         "Enquiridión 46:1",
-        "Enquiridión 47:1"
+        "Enquiridión 47:1",
+        "Enquiridión 48:1",
+        "Enquiridión 49:1-2",
+        "Enquiridión 50:1",
+        "Enquiridión 51:1",
+        "Enquiridión 52:1",
+        "Enquiridión 53:1",
+        "Enquiridión 54:1",
+        "Enquiridión 55:1",
+        "Enquiridión 56:1-2",
+        "Enquiridión 57:1",
+        "Enquiridión 58:1-2",
+        "Enquiridión 59:1",
+        "Enquiridión 60:1",
+        "Enquiridión 61:1",
+        "Enquiridión 62:1",
+        "Enquiridión 63:1",
+        "Enquiridión 64:1",
+        "Enquiridión 65:1",
+        "Enquiridión 66:1",
+        "Enquiridión 67:1",
+        "Enquiridión 68:1-3",
+        "Enquiridión 69:1-2",
+        "Enquiridión 70:1",
+        "Enquiridión 71:1-2",
+        "Enquiridión 72:1-2",
+        "Enquiridión 73:1",
+        "Enquiridión 74:1-3",
+        "Enquiridión 75:1-2",
+        "Enquiridión 76:1",
+        "Enquiridión 77:1",
+        "Enquiridión 78:1",
+        "Enquiridión 1:1",
+        "Enquiridión 2:1",
+        "Enquiridión 3:1-2",
+        "Enquiridión 4:1",
+        "Enquiridión 5:1",
+        "Enquiridión 6:1",
+        "Enquiridión 7:1",
+        "Enquiridión 8:1",
+        "Enquiridión 9:1-2",
+        "Enquiridión 10:1",
+        "Enquiridión 11:1",
+        "Enquiridión 12:1",
+        "Enquiridión 13:1-2",
+        "Enquiridión 14:1",
+        "Enquiridión 15:1",
+        "Enquiridión 16:1",
+        "Enquiridión 17:1-2",
+        "Enquiridión 18:1-2",
+        "Enquiridión 19:1",
+        "Enquiridión 20:1"
       ],
       "titulo": {
         "stoic": "Habla Poco y Que No Sea de Ti | Epicteto"
