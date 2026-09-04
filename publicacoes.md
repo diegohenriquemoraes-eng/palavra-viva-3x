@@ -3534,3 +3534,19 @@
 - Item: short-3 — Meditaciones 6:42
 - Duração: 22.7s
 - Publicado em: 2026-09-03T20:00:23+00:00
+
+## [es] X6BDOuHaNAM — Los Cinco Panes y Dos Peces — Juan 6 | Historia bíblica narrada
+
+- URL: https://youtu.be/X6BDOuHaNAM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Juan 6:1-14
+- Duração: 177.0s
+- Publicado em: 2026-09-04T01:09:26+00:00
+
+## [pt] wKyWwNwu_UY — João 6 — Mas que é isto para tantos? | Bíblia
+
+- URL: https://youtu.be/wKyWwNwu_UY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — João 6:9
+- Duração: 15.3s
+- Publicado em: 2026-09-04T01:10:16+00:00

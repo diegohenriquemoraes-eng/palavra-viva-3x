@@ -1336,6 +1336,14 @@
           "video_id": "UCLL7jRk6o4",
           "titulo": "Salmo 10:5 — Sus caminos son viciosos en todo tiempo | Biblia",
           "em": "2026-09-03T12:56:22+00:00"
+        },
+        {
+          "pacote": "2026-09-04-cinco-paes",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "X6BDOuHaNAM",
+          "titulo": "Los Cinco Panes y Dos Peces — Juan 6 | Historia bíblica narrada",
+          "em": "2026-09-04T01:09:26+00:00"
         }
       ],
       "ultimo_short": "2026-09-03T12:56:22+00:00",
@@ -1343,12 +1351,12 @@
         "data": "2026-09-03",
         "n": 2
       },
-      "longo_data": "2026-09-03",
+      "longo_data": "2026-09-04",
       "longos_dia": {
-        "data": "2026-09-03",
-        "n": 2
+        "data": "2026-09-04",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-03T10:25:20+00:00"
+      "ultimo_longo": "2026-09-04T01:09:26+00:00"
     },
     "en": {
       "publicados": [
@@ -2684,11 +2692,19 @@
           "video_id": "p7EAKeSGmt0",
           "titulo": "Jesus Acalma a Tempestade — Marcos 4 | História bíblica narrada",
           "em": "2026-09-03T14:51:19+00:00"
+        },
+        {
+          "pacote": "2026-09-04-cinco-paes",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "wKyWwNwu_UY",
+          "titulo": "João 6 — Mas que é isto para tantos? | Bíblia",
+          "em": "2026-09-04T01:10:16+00:00"
         }
       ],
-      "ultimo_short": "2026-09-03T01:16:44+00:00",
+      "ultimo_short": "2026-09-04T01:10:16+00:00",
       "shorts_dia": {
-        "data": "2026-09-03",
+        "data": "2026-09-04",
         "n": 1
       },
       "longo_data": "2026-09-03",
