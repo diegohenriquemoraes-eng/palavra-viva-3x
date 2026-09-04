@@ -3606,3 +3606,11 @@
 - Item: short-2 — Enquiridión 74:3
 - Duração: 19.6s
 - Publicado em: 2026-09-04T12:24:30+00:00
+
+## [stoic] xUYwKJMceds — Desconfía de ti como de un enemigo de casa
+
+- URL: https://youtu.be/xUYwKJMceds
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 71:2
+- Duração: 24.5s
+- Publicado em: 2026-09-04T19:05:33+00:00

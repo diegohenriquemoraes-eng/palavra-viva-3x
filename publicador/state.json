@@ -3207,12 +3207,20 @@
           "video_id": "jaEqhy86nSg",
           "titulo": "No eres Sócrates, y da igual",
           "em": "2026-09-04T12:24:30+00:00"
+        },
+        {
+          "pacote": "2026-09-04-lo-prestado",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "xUYwKJMceds",
+          "titulo": "Desconfía de ti como de un enemigo de casa",
+          "em": "2026-09-04T19:05:33+00:00"
         }
       ],
-      "ultimo_short": "2026-09-04T12:24:30+00:00",
+      "ultimo_short": "2026-09-04T19:05:33+00:00",
       "shorts_dia": {
         "data": "2026-09-04",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
