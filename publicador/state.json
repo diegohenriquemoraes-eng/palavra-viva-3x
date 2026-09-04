@@ -1352,6 +1352,14 @@
           "video_id": "K9eixD4d1Rc",
           "titulo": "Juan 6 — ¿Qué es esto entre tantos? | Biblia",
           "em": "2026-09-04T02:02:11+00:00"
+        },
+        {
+          "pacote": "2026-09-04-salmo-11-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "46GVs24-gWw",
+          "titulo": "Salmos para Dormir — Salmo 11 Completo | Biblia Hablada",
+          "em": "2026-09-04T11:45:24+00:00"
         }
       ],
       "ultimo_short": "2026-09-04T02:02:11+00:00",
@@ -1362,9 +1370,9 @@
       "longo_data": "2026-09-04",
       "longos_dia": {
         "data": "2026-09-04",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-04T01:09:26+00:00"
+      "ultimo_longo": "2026-09-04T11:45:24+00:00"
     },
     "en": {
       "publicados": [
@@ -2716,6 +2724,14 @@
           "video_id": "DvfT12NRMtE",
           "titulo": "Os Cinco Pães e Dois Peixes — João 6 | História bíblica narrada",
           "em": "2026-09-04T02:04:28+00:00"
+        },
+        {
+          "pacote": "2026-09-04-salmo-11-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "6CzFLehDRb4",
+          "titulo": "Salmos para Dormir — Salmo 11 Completo | Bíblia Falada",
+          "em": "2026-09-04T11:53:07+00:00"
         }
       ],
       "ultimo_short": "2026-09-04T01:10:16+00:00",
@@ -2726,9 +2742,9 @@
       "longo_data": "2026-09-04",
       "longos_dia": {
         "data": "2026-09-04",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-04T02:04:28+00:00"
+      "ultimo_longo": "2026-09-04T11:53:07+00:00"
     },
     "stoic": {
       "publicados": [

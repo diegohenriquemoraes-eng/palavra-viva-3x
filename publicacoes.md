@@ -3574,3 +3574,19 @@
 - Item: short-1 — Enquiridión 17:2
 - Duração: 23.6s
 - Publicado em: 2026-09-04T06:10:07+00:00
+
+## [es] 46GVs24-gWw — Salmos para Dormir — Salmo 11 Completo | Biblia Hablada
+
+- URL: https://youtu.be/46GVs24-gWw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 11
+- Duração: 843.4s
+- Publicado em: 2026-09-04T11:45:24+00:00
+
+## [pt] 6CzFLehDRb4 — Salmos para Dormir — Salmo 11 Completo | Bíblia Falada
+
+- URL: https://youtu.be/6CzFLehDRb4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 11
+- Duração: 897.4s
+- Publicado em: 2026-09-04T11:53:07+00:00
