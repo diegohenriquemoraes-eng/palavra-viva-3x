@@ -3550,3 +3550,19 @@
 - Item: short-1 — João 6:9
 - Duração: 15.3s
 - Publicado em: 2026-09-04T01:10:16+00:00
+
+## [es] K9eixD4d1Rc — Juan 6 — ¿Qué es esto entre tantos? | Biblia
+
+- URL: https://youtu.be/K9eixD4d1Rc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Juan 6:9
+- Duração: 16.0s
+- Publicado em: 2026-09-04T02:02:11+00:00
+
+## [pt] DvfT12NRMtE — Os Cinco Pães e Dois Peixes — João 6 | História bíblica narrada
+
+- URL: https://youtu.be/DvfT12NRMtE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — João 6:1-14
+- Duração: 175.5s
+- Publicado em: 2026-09-04T02:04:28+00:00

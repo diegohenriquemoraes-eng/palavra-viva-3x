@@ -1344,12 +1344,20 @@
           "video_id": "X6BDOuHaNAM",
           "titulo": "Los Cinco Panes y Dos Peces — Juan 6 | Historia bíblica narrada",
           "em": "2026-09-04T01:09:26+00:00"
+        },
+        {
+          "pacote": "2026-09-04-cinco-paes",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "K9eixD4d1Rc",
+          "titulo": "Juan 6 — ¿Qué es esto entre tantos? | Biblia",
+          "em": "2026-09-04T02:02:11+00:00"
         }
       ],
-      "ultimo_short": "2026-09-03T12:56:22+00:00",
+      "ultimo_short": "2026-09-04T02:02:11+00:00",
       "shorts_dia": {
-        "data": "2026-09-03",
-        "n": 2
+        "data": "2026-09-04",
+        "n": 1
       },
       "longo_data": "2026-09-04",
       "longos_dia": {
@@ -2700,6 +2708,14 @@
           "video_id": "wKyWwNwu_UY",
           "titulo": "João 6 — Mas que é isto para tantos? | Bíblia",
           "em": "2026-09-04T01:10:16+00:00"
+        },
+        {
+          "pacote": "2026-09-04-cinco-paes",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "DvfT12NRMtE",
+          "titulo": "Os Cinco Pães e Dois Peixes — João 6 | História bíblica narrada",
+          "em": "2026-09-04T02:04:28+00:00"
         }
       ],
       "ultimo_short": "2026-09-04T01:10:16+00:00",
@@ -2707,12 +2723,12 @@
         "data": "2026-09-04",
         "n": 1
       },
-      "longo_data": "2026-09-03",
+      "longo_data": "2026-09-04",
       "longos_dia": {
-        "data": "2026-09-03",
-        "n": 2
+        "data": "2026-09-04",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-03T14:51:19+00:00"
+      "ultimo_longo": "2026-09-04T02:04:28+00:00"
     },
     "stoic": {
       "publicados": [
