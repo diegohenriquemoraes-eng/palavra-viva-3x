@@ -1,0 +1,218 @@
+{
+  "slug": "gedeao-medo",
+  "formato": "historia",
+  "data": "2026-09-06",
+  "criado_em": "2026-09-04T04:37:28+00:00",
+  "aprovado_em": "2026-09-04T04:37:28+00:00",
+  "longo": {
+    "refs": [
+      "Judges 6:11-24",
+      "Judges 7:1-8"
+    ],
+    "titulo": {
+      "es": "Gedeón y el Miedo — Jueces 6 y 7 | Historia bíblica narrada",
+      "en": "Gideon and Fear — Judges 6 and 7 | Bible Story",
+      "pt": "Gideão e o Medo — Juízes 6 e 7 | História bíblica narrada"
+    },
+    "thumb_titulo": {
+      "es": "VE CON ESTA FUERZA",
+      "en": "GO IN THIS THY MIGHT",
+      "pt": "VAI NESTA TUA FORÇA"
+    },
+    "thumb_sub": {
+      "es": "Jueces 6 y 7",
+      "en": "Judges 6-7",
+      "pt": "Juízes 6 e 7"
+    },
+    "abertura": {
+      "es": "Jueces, capítulos seis y siete. Gedeón está sacudiendo el trigo escondido en un lagar, por miedo a los madianitas, cuando le llega el saludo que no encaja con la escena: Jehová es contigo, varón esforzado y valiente. Él responde con preguntas y con excusas, pide señales, y aun así el ejército que reúne es reducido de treinta y dos mil a trescientos. Escucha los dos pasajes completos, en la Reina-Valera de mil ochocientos noventa y nueve.",
+      "pt": "Juízes, capítulos seis e sete. Gideão está malhando o trigo escondido num lagar, com medo dos midianitas, quando lhe chega a saudação que não combina com a cena: o Senhor é contigo, homem valente. Ele responde com perguntas e desculpas, pede sinais, e mesmo assim o exército que reúne é reduzido de trinta e dois mil para trezentos. Ouça as duas passagens completas, na Bíblia Livre."
+    },
+    "tags_extra": {
+      "es": [
+        "gedeon",
+        "jueces 6",
+        "jueces 7",
+        "historia biblica",
+        "los trescientos de gedeon",
+        "historias de la biblia narradas"
+      ],
+      "pt": [
+        "gideao",
+        "juizes 6",
+        "juizes 7",
+        "historia biblica",
+        "os trezentos de gideao",
+        "historias da biblia narradas"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Jueces 6 y 7: el lagar, el saludo del ángel, las señales y los trescientos. Narración completa, Reina-Valera 1909.",
+      "pt": "Juízes 6 e 7: o lagar, a saudação do anjo, os sinais e os trezentos. Narração completa, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Tree_and_wheat_field_in_R%C3%B6e_1.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Tree_and_wheat_field_in_R%C3%B6e_2.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Khndzoresk%2C_Wheat_field%2C_Armenia.jpg/1920px-Khndzoresk%2C_Wheat_field%2C_Armenia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Khndzoresk,_Wheat_field,_Armenia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg/1920px-Wheat-Field-with-Cypresses-%281889%29-Vincent-van-Gogh-Met.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vincent van Gogh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Wheat-Field-with-Cypresses-(1889)-Vincent-van-Gogh-Met.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Sunset-over-the-wheat-field-featured.jpg/1920px-Sunset-over-the-wheat-field-featured.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Dreamy Pixel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sunset-over-the-wheat-field-featured.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg/1920px-Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Lewes_Bonfire_Night_2017.jpg/1920px-Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Desert_Flag_Night_Flights_%288384162%29.jpg/1920px-Desert_Flag_Night_Flights_%288384162%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384162).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Desert_Flag_Night_Flights_%288384156%29.jpg/1920px-Desert_Flag_Night_Flights_%288384156%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384156).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Desert_Flag_Night_Flights_%288384165%29.jpg/1920px-Desert_Flag_Night_Flights_%288384165%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384165).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Desert_Flag_Night_Flights_%288384155%29.jpg/1920px-Desert_Flag_Night_Flights_%288384155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384155).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Judges 6:12",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Jueces 6 — Jehová es contigo, varón esforzado | Biblia",
+        "en": "Judges 6 — The Lord Is with Thee, Mighty Man | Bible",
+        "pt": "Juízes 6 — O Senhor é contigo, homem valente | Bíblia"
+      },
+      "aplicacao": {
+        "es": "El saludo llega mientras él está escondido en un lagar.",
+        "pt": "A saudação chega enquanto ele está escondido num lagar."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Tree_and_wheat_field_in_R%C3%B6e_3.jpg/1920px-Tree_and_wheat_field_in_R%C3%B6e_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Tree_and_wheat_field_in_R%C3%B6e_3.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Judges 6:14",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Jueces 6:14 — Ve con esta tu fuerza | Biblia",
+        "en": "Judges 6:14 — Go in This Thy Might | Bible",
+        "pt": "Juízes 6:14 — Vai nesta tua força | Bíblia"
+      },
+      "aplicacao": {
+        "es": "No le promete otra fuerza: lo manda ir con la que tiene.",
+        "pt": "Não lhe promete outra força: manda-o ir com a que tem."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier%2C_full_height_demo%2C_3-4_front%2C_1978.jpg/1920px-U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier%2C_full_height_demo%2C_3-4_front%2C_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "A. J. M.",
+        "origem": "https://commons.wikimedia.org/wiki/File:U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier,_full_height_demo,_3-4_front,_1978.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Judges 6:15",
+      "tipo": "conflicto",
+      "titulo": {
+        "es": "Jueces 6 — Mi familia es pobre, y yo el menor | Biblia",
+        "en": "Judges 6 — My Family Is Poor, and I Am the Least | Bible",
+        "pt": "Juízes 6 — Minha família é pobre, e eu o menor | Bíblia"
+      },
+      "aplicacao": {
+        "es": "Gedeón responde con dos argumentos, y los dos son sobre su tamaño.",
+        "pt": "Gideão responde com dois argumentos, e os dois são sobre o seu tamanho."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Judges 7:7",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Jueces 7 — Con estos trescientos os salvaré | Biblia",
+        "en": "Judges 7 — By These Three Hundred Will I Save You | Bible",
+        "pt": "Juízes 7 — Com estes trezentos vos salvarei | Bíblia"
+      },
+      "aplicacao": {
+        "es": "De treinta y dos mil hombres quedaron trescientos.",
+        "pt": "De trinta e dois mil homens ficaram trezentos."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Desert_uniform%2C_night%2C_3-4_front%2C_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_%2816_February_1978%29_004042a_image_primary.png/1920px-Desert_uniform%2C_night%2C_3-4_front%2C_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_%2816_February_1978%29_004042a_image_primary.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "A. J. M.",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_uniform,_night,_3-4_front,_CEMEL_Color_Film_Negative_NSSC_Photo_Collection_(16_February_1978)_004042a_image_primary.png",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
