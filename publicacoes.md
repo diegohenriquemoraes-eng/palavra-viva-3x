@@ -3566,3 +3566,11 @@
 - Item: longo — João 6:1-14
 - Duração: 175.5s
 - Publicado em: 2026-09-04T02:04:28+00:00
+
+## [stoic] VIq6377OCto — Trátalo como la posada del camino
+
+- URL: https://youtu.be/VIq6377OCto
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 17:2
+- Duração: 23.6s
+- Publicado em: 2026-09-04T06:10:07+00:00

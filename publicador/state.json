@@ -3167,12 +3167,20 @@
           "video_id": "Cs6eDdbHmhk",
           "titulo": "Que te encuentre con la conciencia limpia",
           "em": "2026-09-03T20:00:23+00:00"
+        },
+        {
+          "pacote": "2026-09-04-lo-prestado",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "VIq6377OCto",
+          "titulo": "Trátalo como la posada del camino",
+          "em": "2026-09-04T06:10:07+00:00"
         }
       ],
-      "ultimo_short": "2026-09-03T20:00:23+00:00",
+      "ultimo_short": "2026-09-04T06:10:07+00:00",
       "shorts_dia": {
-        "data": "2026-09-03",
-        "n": 3
+        "data": "2026-09-04",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
