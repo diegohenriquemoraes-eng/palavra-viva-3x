@@ -3590,3 +3590,19 @@
 - Item: longo — Salmo 11
 - Duração: 897.4s
 - Publicado em: 2026-09-04T11:53:07+00:00
+
+## [es] 0h-aMOz0gDA — Juan 6 — Habiendo dado gracias, repartió | Biblia
+
+- URL: https://youtu.be/0h-aMOz0gDA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Juan 6:11
+- Duração: 22.3s
+- Publicado em: 2026-09-04T12:23:23+00:00
+
+## [stoic] jaEqhy86nSg — No eres Sócrates, y da igual
+
+- URL: https://youtu.be/jaEqhy86nSg
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 74:3
+- Duração: 19.6s
+- Publicado em: 2026-09-04T12:24:30+00:00

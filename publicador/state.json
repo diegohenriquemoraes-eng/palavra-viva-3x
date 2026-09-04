@@ -1360,12 +1360,20 @@
           "video_id": "46GVs24-gWw",
           "titulo": "Salmos para Dormir — Salmo 11 Completo | Biblia Hablada",
           "em": "2026-09-04T11:45:24+00:00"
+        },
+        {
+          "pacote": "2026-09-04-cinco-paes",
+          "item": "short-2",
+          "formato": "historia",
+          "video_id": "0h-aMOz0gDA",
+          "titulo": "Juan 6 — Habiendo dado gracias, repartió | Biblia",
+          "em": "2026-09-04T12:23:23+00:00"
         }
       ],
-      "ultimo_short": "2026-09-04T02:02:11+00:00",
+      "ultimo_short": "2026-09-04T12:23:23+00:00",
       "shorts_dia": {
         "data": "2026-09-04",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-04",
       "longos_dia": {
@@ -3191,12 +3199,20 @@
           "video_id": "VIq6377OCto",
           "titulo": "Trátalo como la posada del camino",
           "em": "2026-09-04T06:10:07+00:00"
+        },
+        {
+          "pacote": "2026-09-04-lo-prestado",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "jaEqhy86nSg",
+          "titulo": "No eres Sócrates, y da igual",
+          "em": "2026-09-04T12:24:30+00:00"
         }
       ],
-      "ultimo_short": "2026-09-04T06:10:07+00:00",
+      "ultimo_short": "2026-09-04T12:24:30+00:00",
       "shorts_dia": {
         "data": "2026-09-04",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
