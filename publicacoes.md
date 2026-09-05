@@ -3630,3 +3630,19 @@
 - Item: short-1 — Salmo 12:1
 - Duração: 15.4s
 - Publicado em: 2026-09-05T00:23:59+00:00
+
+## [es] 3qG2QYtDJqw — Salmo 12:1 — Salva, oh Jehová, porque se acabaron | Biblia
+
+- URL: https://youtu.be/3qG2QYtDJqw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 12:1
+- Duração: 17.0s
+- Publicado em: 2026-09-05T02:02:32+00:00
+
+## [pt] PuuCMppSRKk — Salmos para Dormir — Salmo 12 Completo | Bíblia Falada
+
+- URL: https://youtu.be/PuuCMppSRKk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 12
+- Duração: 1030.2s
+- Publicado em: 2026-09-05T02:11:24+00:00
