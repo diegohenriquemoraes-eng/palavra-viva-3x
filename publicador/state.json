@@ -3287,12 +3287,20 @@
           "video_id": "jlLedF8qKLw",
           "titulo": "O se apaga o se transforma",
           "em": "2026-09-05T11:34:49+00:00"
+        },
+        {
+          "pacote": "2026-09-05-la-quietud-que-no-se-compra",
+          "item": "short-3",
+          "formato": "dormir",
+          "video_id": "ki4SgPDwjFE",
+          "titulo": "Quien vio el presente lo vio todo",
+          "em": "2026-09-05T18:29:34+00:00"
         }
       ],
-      "ultimo_short": "2026-09-05T11:34:49+00:00",
+      "ultimo_short": "2026-09-05T18:29:34+00:00",
       "shorts_dia": {
         "data": "2026-09-05",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

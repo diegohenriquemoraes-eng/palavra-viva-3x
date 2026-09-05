@@ -3686,3 +3686,11 @@
 - Item: short-2 — Meditaciones 7:33
 - Duração: 27.9s
 - Publicado em: 2026-09-05T11:34:49+00:00
+
+## [stoic] ki4SgPDwjFE — Quien vio el presente lo vio todo
+
+- URL: https://youtu.be/ki4SgPDwjFE
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 6:50
+- Duração: 27.0s
+- Publicado em: 2026-09-05T18:29:34+00:00
