@@ -3654,3 +3654,11 @@
 - Item: short-1 — Meditaciones 6:37
 - Duração: 25.6s
 - Publicado em: 2026-09-05T04:45:25+00:00
+
+## [es] UTLBeY2EmCk — La Samaritana en el Pozo — Juan 4 | Historia bíblica narrada
+
+- URL: https://youtu.be/UTLBeY2EmCk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Juan 4:5-30
+- Duração: 300.9s
+- Publicado em: 2026-09-05T09:14:44+00:00
