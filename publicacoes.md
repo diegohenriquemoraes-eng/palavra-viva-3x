@@ -3646,3 +3646,11 @@
 - Item: longo — Salmo 12
 - Duração: 1030.2s
 - Publicado em: 2026-09-05T02:11:24+00:00
+
+## [stoic] xFh-pWrU8Og — El descanso del final
+
+- URL: https://youtu.be/xFh-pWrU8Og
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:37
+- Duração: 25.6s
+- Publicado em: 2026-09-05T04:45:25+00:00
