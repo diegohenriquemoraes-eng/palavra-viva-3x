@@ -1368,6 +1368,14 @@
           "video_id": "0h-aMOz0gDA",
           "titulo": "Juan 6 — Habiendo dado gracias, repartió | Biblia",
           "em": "2026-09-04T12:23:23+00:00"
+        },
+        {
+          "pacote": "2026-09-05-salmo-12-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "rXSC1LK_srM",
+          "titulo": "Salmos para Dormir — Salmo 12 Completo | Biblia Hablada",
+          "em": "2026-09-05T00:22:56+00:00"
         }
       ],
       "ultimo_short": "2026-09-04T12:23:23+00:00",
@@ -1375,12 +1383,12 @@
         "data": "2026-09-04",
         "n": 2
       },
-      "longo_data": "2026-09-04",
+      "longo_data": "2026-09-05",
       "longos_dia": {
-        "data": "2026-09-04",
-        "n": 2
+        "data": "2026-09-05",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-04T11:45:24+00:00"
+      "ultimo_longo": "2026-09-05T00:22:56+00:00"
     },
     "en": {
       "publicados": [
@@ -2740,11 +2748,19 @@
           "video_id": "6CzFLehDRb4",
           "titulo": "Salmos para Dormir — Salmo 11 Completo | Bíblia Falada",
           "em": "2026-09-04T11:53:07+00:00"
+        },
+        {
+          "pacote": "2026-09-05-salmo-12-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "c9Kye8rqLO8",
+          "titulo": "Salmo 12:1 — Salva, SENHOR, porque os bons estão | Bíblia",
+          "em": "2026-09-05T00:23:59+00:00"
         }
       ],
-      "ultimo_short": "2026-09-04T01:10:16+00:00",
+      "ultimo_short": "2026-09-05T00:23:59+00:00",
       "shorts_dia": {
-        "data": "2026-09-04",
+        "data": "2026-09-05",
         "n": 1
       },
       "longo_data": "2026-09-04",

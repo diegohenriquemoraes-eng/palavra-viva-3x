@@ -3614,3 +3614,19 @@
 - Item: short-3 — Enquiridión 71:2
 - Duração: 24.5s
 - Publicado em: 2026-09-04T19:05:33+00:00
+
+## [es] rXSC1LK_srM — Salmos para Dormir — Salmo 12 Completo | Biblia Hablada
+
+- URL: https://youtu.be/rXSC1LK_srM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 12
+- Duração: 1001.2s
+- Publicado em: 2026-09-05T00:22:56+00:00
+
+## [pt] c9Kye8rqLO8 — Salmo 12:1 — Salva, SENHOR, porque os bons estão | Bíblia
+
+- URL: https://youtu.be/c9Kye8rqLO8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 12:1
+- Duração: 15.4s
+- Publicado em: 2026-09-05T00:23:59+00:00
