@@ -3662,3 +3662,27 @@
 - Item: longo — Juan 4:5-30
 - Duração: 300.9s
 - Publicado em: 2026-09-05T09:14:44+00:00
+
+## [es] C0NARhWfNjQ — Salmo 12:3 — Destruirá Jehová todos los labios lisonjeros | Biblia
+
+- URL: https://youtu.be/C0NARhWfNjQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 12:3
+- Duração: 14.5s
+- Publicado em: 2026-09-05T11:29:50+00:00
+
+## [pt] UjIaZSU2_Ec — A Samaritana no Poço — João 4 | História bíblica narrada
+
+- URL: https://youtu.be/UjIaZSU2_Ec
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — João 4:5-30
+- Duração: 298.0s
+- Publicado em: 2026-09-05T11:33:39+00:00
+
+## [stoic] jlLedF8qKLw — O se apaga o se transforma
+
+- URL: https://youtu.be/jlLedF8qKLw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 7:33
+- Duração: 27.9s
+- Publicado em: 2026-09-05T11:34:49+00:00

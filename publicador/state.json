@@ -1392,12 +1392,20 @@
           "video_id": "UTLBeY2EmCk",
           "titulo": "La Samaritana en el Pozo — Juan 4 | Historia bíblica narrada",
           "em": "2026-09-05T09:14:44+00:00"
+        },
+        {
+          "pacote": "2026-09-05-salmo-12-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "C0NARhWfNjQ",
+          "titulo": "Salmo 12:3 — Destruirá Jehová todos los labios lisonjeros | Biblia",
+          "em": "2026-09-05T11:29:50+00:00"
         }
       ],
-      "ultimo_short": "2026-09-05T02:02:32+00:00",
+      "ultimo_short": "2026-09-05T11:29:50+00:00",
       "shorts_dia": {
         "data": "2026-09-05",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-05",
       "longos_dia": {
@@ -2780,6 +2788,14 @@
           "video_id": "PuuCMppSRKk",
           "titulo": "Salmos para Dormir — Salmo 12 Completo | Bíblia Falada",
           "em": "2026-09-05T02:11:24+00:00"
+        },
+        {
+          "pacote": "2026-09-05-samaritana-poco",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "UjIaZSU2_Ec",
+          "titulo": "A Samaritana no Poço — João 4 | História bíblica narrada",
+          "em": "2026-09-05T11:33:39+00:00"
         }
       ],
       "ultimo_short": "2026-09-05T00:23:59+00:00",
@@ -2790,9 +2806,9 @@
       "longo_data": "2026-09-05",
       "longos_dia": {
         "data": "2026-09-05",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-05T02:11:24+00:00"
+      "ultimo_longo": "2026-09-05T11:33:39+00:00"
     },
     "stoic": {
       "publicados": [
@@ -3263,12 +3279,20 @@
           "video_id": "xFh-pWrU8Og",
           "titulo": "El descanso del final",
           "em": "2026-09-05T04:45:25+00:00"
+        },
+        {
+          "pacote": "2026-09-05-la-quietud-que-no-se-compra",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "jlLedF8qKLw",
+          "titulo": "O se apaga o se transforma",
+          "em": "2026-09-05T11:34:49+00:00"
         }
       ],
-      "ultimo_short": "2026-09-05T04:45:25+00:00",
+      "ultimo_short": "2026-09-05T11:34:49+00:00",
       "shorts_dia": {
         "data": "2026-09-05",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
