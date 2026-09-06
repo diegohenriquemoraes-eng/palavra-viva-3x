@@ -1408,12 +1408,20 @@
           "video_id": "A7LEjb9z38I",
           "titulo": "Gedeón y el Miedo — Jueces 6 y 7 | Historia bíblica narrada",
           "em": "2026-09-06T01:11:37+00:00"
+        },
+        {
+          "pacote": "2026-09-06-gedeao-medo",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "jIyb363qj10",
+          "titulo": "Jueces 6 — Jehová es contigo, varón esforzado | Biblia",
+          "em": "2026-09-06T01:57:48+00:00"
         }
       ],
-      "ultimo_short": "2026-09-05T11:29:50+00:00",
+      "ultimo_short": "2026-09-06T01:57:48+00:00",
       "shorts_dia": {
-        "data": "2026-09-05",
-        "n": 2
+        "data": "2026-09-06",
+        "n": 1
       },
       "longo_data": "2026-09-06",
       "longos_dia": {
@@ -3311,12 +3319,20 @@
           "video_id": "ki4SgPDwjFE",
           "titulo": "Quien vio el presente lo vio todo",
           "em": "2026-09-05T18:29:34+00:00"
+        },
+        {
+          "pacote": "2026-09-06-lo-que-depende-de-ti",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "dORrDDy3XMQ",
+          "titulo": "Si midieras el bien y el mal solo por esto",
+          "em": "2026-09-06T01:59:00+00:00"
         }
       ],
-      "ultimo_short": "2026-09-05T18:29:34+00:00",
+      "ultimo_short": "2026-09-06T01:59:00+00:00",
       "shorts_dia": {
-        "data": "2026-09-05",
-        "n": 3
+        "data": "2026-09-06",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

@@ -3710,3 +3710,19 @@
 - Item: short-1 — Juízes 6:12
 - Duração: 15.3s
 - Publicado em: 2026-09-06T01:13:05+00:00
+
+## [es] jIyb363qj10 — Jueces 6 — Jehová es contigo, varón esforzado | Biblia
+
+- URL: https://youtu.be/jIyb363qj10
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Jueces 6:12
+- Duração: 15.7s
+- Publicado em: 2026-09-06T01:57:48+00:00
+
+## [stoic] dORrDDy3XMQ — Si midieras el bien y el mal solo por esto
+
+- URL: https://youtu.be/dORrDDy3XMQ
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:55
+- Duração: 24.7s
+- Publicado em: 2026-09-06T01:59:00+00:00
