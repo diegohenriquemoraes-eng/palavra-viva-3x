@@ -2844,6 +2844,14 @@
           "video_id": "ZTC2rTyJOIY",
           "titulo": "Gideão e o Medo — Juízes 6 e 7 | História bíblica narrada",
           "em": "2026-09-06T06:12:28+00:00"
+        },
+        {
+          "pacote": "2026-09-06-salmo-14-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "Y1h1m-p7d40",
+          "titulo": "Salmos para Dormir — Salmo 14 Completo | Bíblia Falada",
+          "em": "2026-09-06T14:27:27+00:00"
         }
       ],
       "ultimo_short": "2026-09-06T01:13:05+00:00",
@@ -2854,9 +2862,9 @@
       "longo_data": "2026-09-06",
       "longos_dia": {
         "data": "2026-09-06",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-06T06:12:28+00:00"
+      "ultimo_longo": "2026-09-06T14:27:27+00:00"
     },
     "stoic": {
       "publicados": [

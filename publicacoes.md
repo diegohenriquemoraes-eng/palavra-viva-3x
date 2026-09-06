@@ -3758,3 +3758,11 @@
 - Item: short-2 — Jueces 6:14
 - Duração: 19.1s
 - Publicado em: 2026-09-06T11:27:55+00:00
+
+## [pt] Y1h1m-p7d40 — Salmos para Dormir — Salmo 14 Completo | Bíblia Falada
+
+- URL: https://youtu.be/Y1h1m-p7d40
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 14
+- Duração: 906.2s
+- Publicado em: 2026-09-06T14:27:27+00:00
