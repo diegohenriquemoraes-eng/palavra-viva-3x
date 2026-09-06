@@ -2820,6 +2820,14 @@
           "video_id": "LnB77Bn-EhI",
           "titulo": "Juízes 6 — O Senhor é contigo, homem valente | Bíblia",
           "em": "2026-09-06T01:13:05+00:00"
+        },
+        {
+          "pacote": "2026-09-06-gedeao-medo",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "ZTC2rTyJOIY",
+          "titulo": "Gideão e o Medo — Juízes 6 e 7 | História bíblica narrada",
+          "em": "2026-09-06T06:12:28+00:00"
         }
       ],
       "ultimo_short": "2026-09-06T01:13:05+00:00",
@@ -2827,12 +2835,12 @@
         "data": "2026-09-06",
         "n": 1
       },
-      "longo_data": "2026-09-05",
+      "longo_data": "2026-09-06",
       "longos_dia": {
-        "data": "2026-09-05",
-        "n": 2
+        "data": "2026-09-06",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-05T11:33:39+00:00"
+      "ultimo_longo": "2026-09-06T06:12:28+00:00"
     },
     "stoic": {
       "publicados": [

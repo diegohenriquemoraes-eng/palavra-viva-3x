@@ -3726,3 +3726,11 @@
 - Item: short-1 — Meditaciones 6:55
 - Duração: 24.7s
 - Publicado em: 2026-09-06T01:59:00+00:00
+
+## [pt] ZTC2rTyJOIY — Gideão e o Medo — Juízes 6 e 7 | História bíblica narrada
+
+- URL: https://youtu.be/ZTC2rTyJOIY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Juízes 6:11-24, Juízes 7:1-8
+- Duração: 361.7s
+- Publicado em: 2026-09-06T06:12:28+00:00
