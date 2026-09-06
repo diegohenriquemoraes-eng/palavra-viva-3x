@@ -1416,6 +1416,14 @@
           "video_id": "jIyb363qj10",
           "titulo": "Jueces 6 — Jehová es contigo, varón esforzado | Biblia",
           "em": "2026-09-06T01:57:48+00:00"
+        },
+        {
+          "pacote": "2026-09-06-salmo-14-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "QTaY5k2XRqs",
+          "titulo": "Salmos para Dormir — Salmo 14 Completo | Biblia Hablada",
+          "em": "2026-09-06T11:16:04+00:00"
         }
       ],
       "ultimo_short": "2026-09-06T01:57:48+00:00",
@@ -1426,9 +1434,9 @@
       "longo_data": "2026-09-06",
       "longos_dia": {
         "data": "2026-09-06",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-06T01:11:37+00:00"
+      "ultimo_longo": "2026-09-06T11:16:04+00:00"
     },
     "en": {
       "publicados": [
@@ -3335,12 +3343,20 @@
           "video_id": "dORrDDy3XMQ",
           "titulo": "Si midieras el bien y el mal solo por esto",
           "em": "2026-09-06T01:59:00+00:00"
+        },
+        {
+          "pacote": "2026-09-06-lo-que-depende-de-ti",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "GDXFhyMYqc0",
+          "titulo": "El ambicioso mide su vida con la vida ajena",
+          "em": "2026-09-06T11:17:10+00:00"
         }
       ],
-      "ultimo_short": "2026-09-06T01:59:00+00:00",
+      "ultimo_short": "2026-09-06T11:17:10+00:00",
       "shorts_dia": {
         "data": "2026-09-06",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

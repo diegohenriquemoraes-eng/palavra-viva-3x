@@ -3734,3 +3734,19 @@
 - Item: longo — Juízes 6:11-24, Juízes 7:1-8
 - Duração: 361.7s
 - Publicado em: 2026-09-06T06:12:28+00:00
+
+## [es] QTaY5k2XRqs — Salmos para Dormir — Salmo 14 Completo | Biblia Hablada
+
+- URL: https://youtu.be/QTaY5k2XRqs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 14
+- Duração: 888.8s
+- Publicado em: 2026-09-06T11:16:04+00:00
+
+## [stoic] GDXFhyMYqc0 — El ambicioso mide su vida con la vida ajena
+
+- URL: https://youtu.be/GDXFhyMYqc0
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 6:69
+- Duração: 28.5s
+- Publicado em: 2026-09-06T11:17:10+00:00
