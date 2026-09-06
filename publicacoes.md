@@ -3750,3 +3750,11 @@
 - Item: short-2 — Meditaciones 6:69
 - Duração: 28.5s
 - Publicado em: 2026-09-06T11:17:10+00:00
+
+## [es] A-DW5nBLju0 — Jueces 6:14 — Ve con esta tu fuerza | Biblia
+
+- URL: https://youtu.be/A-DW5nBLju0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Jueces 6:14
+- Duração: 19.1s
+- Publicado em: 2026-09-06T11:27:55+00:00
