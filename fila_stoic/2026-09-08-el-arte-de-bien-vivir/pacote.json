@@ -1,0 +1,179 @@
+{
+  "slug": "el-arte-de-bien-vivir",
+  "formato": "tema",
+  "data": "2026-09-08",
+  "criado_em": "2026-09-06T04:43:20+00:00",
+  "aprovado_em": "2026-09-06T04:43:20+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 11:1-68"
+    ],
+    "titulo": {
+      "stoic": "El Único Oficio Que Nadie Te Enseña | Marco Aurelio"
+    },
+    "thumb_titulo": {
+      "stoic": "¿QUÉ OFICIO\nPRACTICAS?"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones XI"
+    },
+    "abertura": {
+      "stoic": "Aprendiste un oficio para ganarte la vida. Casi nadie aprende el oficio de vivirla. Marco Aurelio se lo preguntaba a sí mismo cada noche, y esto es lo que se respondía."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "estoicismo practico",
+        "filosofia para la vida",
+        "meditaciones libro xi"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro XI de las Meditaciones: el oficio de vivir bien, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2117_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2117_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2117_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2122_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2122_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p02.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Lamp_with_theatre_scene%2C_clay_-_Museo_Egizio_%28Turin%29_C_7267_p02.jpg/1920px-Lamp_with_theatre_scene%2C_clay_-_Museo_Egizio_%28Turin%29_C_7267_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_with_theatre_scene,_clay_-_Museo_Egizio_(Turin)_C_7267_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg/1920px-Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Lewes_Bonfire_Night_2017.jpg/1920px-Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 11:9",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "¿Qué arte profesas? El de bien vivir"
+      },
+      "aplicacao": "Le dedicas años a tu profesión. ¿Cuántas horas le has dedicado a esta?",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p02.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2122_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2122_p02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:2",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Tres cosas que no pueden detenerte"
+      },
+      "aplicacao": "Ni la culpa ajena, ni el qué dirán, ni el antojo. Ninguno decide.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 7:37",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Es de reyes hacer el bien y recibir críticas"
+      },
+      "aplicacao": "Si esperas gratitud, estás cobrando. Hazlo igual y sigue.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 7:31",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Escucha lo que se dice, mira quién lo hace"
+      },
+      "aplicacao": "Antes de opinar: qué se dijo exactamente y quién lo dijo.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Busan_fishing_harbor_at_night_10.jpg/1920px-Busan_fishing_harbor_at_night_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_10.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
