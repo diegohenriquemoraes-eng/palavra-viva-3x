@@ -3694,3 +3694,19 @@
 - Item: short-3 — Meditaciones 6:50
 - Duração: 27.0s
 - Publicado em: 2026-09-05T18:29:34+00:00
+
+## [es] A7LEjb9z38I — Gedeón y el Miedo — Jueces 6 y 7 | Historia bíblica narrada
+
+- URL: https://youtu.be/A7LEjb9z38I
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Jueces 6:11-24, Jueces 7:1-8
+- Duração: 367.9s
+- Publicado em: 2026-09-06T01:11:37+00:00
+
+## [pt] LnB77Bn-EhI — Juízes 6 — O Senhor é contigo, homem valente | Bíblia
+
+- URL: https://youtu.be/LnB77Bn-EhI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Juízes 6:12
+- Duração: 15.3s
+- Publicado em: 2026-09-06T01:13:05+00:00

@@ -1400,6 +1400,14 @@
           "video_id": "C0NARhWfNjQ",
           "titulo": "Salmo 12:3 — Destruirá Jehová todos los labios lisonjeros | Biblia",
           "em": "2026-09-05T11:29:50+00:00"
+        },
+        {
+          "pacote": "2026-09-06-gedeao-medo",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "A7LEjb9z38I",
+          "titulo": "Gedeón y el Miedo — Jueces 6 y 7 | Historia bíblica narrada",
+          "em": "2026-09-06T01:11:37+00:00"
         }
       ],
       "ultimo_short": "2026-09-05T11:29:50+00:00",
@@ -1407,12 +1415,12 @@
         "data": "2026-09-05",
         "n": 2
       },
-      "longo_data": "2026-09-05",
+      "longo_data": "2026-09-06",
       "longos_dia": {
-        "data": "2026-09-05",
-        "n": 2
+        "data": "2026-09-06",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-05T09:14:44+00:00"
+      "ultimo_longo": "2026-09-06T01:11:37+00:00"
     },
     "en": {
       "publicados": [
@@ -2796,11 +2804,19 @@
           "video_id": "UjIaZSU2_Ec",
           "titulo": "A Samaritana no Poço — João 4 | História bíblica narrada",
           "em": "2026-09-05T11:33:39+00:00"
+        },
+        {
+          "pacote": "2026-09-06-gedeao-medo",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "LnB77Bn-EhI",
+          "titulo": "Juízes 6 — O Senhor é contigo, homem valente | Bíblia",
+          "em": "2026-09-06T01:13:05+00:00"
         }
       ],
-      "ultimo_short": "2026-09-05T00:23:59+00:00",
+      "ultimo_short": "2026-09-06T01:13:05+00:00",
       "shorts_dia": {
-        "data": "2026-09-05",
+        "data": "2026-09-06",
         "n": 1
       },
       "longo_data": "2026-09-05",
