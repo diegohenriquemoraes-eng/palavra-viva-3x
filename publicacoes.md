@@ -3766,3 +3766,11 @@
 - Item: longo — Salmo 14
 - Duração: 906.2s
 - Publicado em: 2026-09-06T14:27:27+00:00
+
+## [stoic] ELu0hxxLNR4 — Cuando te enfadas con el mundo, te cortas de él
+
+- URL: https://youtu.be/ELu0hxxLNR4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 5:22
+- Duração: 22.3s
+- Publicado em: 2026-09-06T19:22:15+00:00
