@@ -3774,3 +3774,19 @@
 - Item: short-3 — Meditaciones 5:22
 - Duração: 22.3s
 - Publicado em: 2026-09-06T19:22:15+00:00
+
+## [es] yNdW1vEIXqM — Los Diez Leprosos — Lucas 17 | Historia bíblica narrada
+
+- URL: https://youtu.be/yNdW1vEIXqM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Lucas 17:11-19
+- Duração: 117.9s
+- Publicado em: 2026-09-07T01:12:00+00:00
+
+## [pt] oameTtEc5wc — Lucas 17 — Jesus, Mestre, tem misericórdia de nós | Bíblia
+
+- URL: https://youtu.be/oameTtEc5wc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Lucas 17:13
+- Duração: 14.0s
+- Publicado em: 2026-09-07T01:13:00+00:00
