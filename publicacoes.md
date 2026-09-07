@@ -3798,3 +3798,19 @@
 - Item: short-1 — Lucas 17:13
 - Duração: 15.9s
 - Publicado em: 2026-09-07T01:55:25+00:00
+
+## [pt] ulimGXohf_w — Os Dez Leprosos — Lucas 17 | História bíblica narrada
+
+- URL: https://youtu.be/ulimGXohf_w
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Lucas 17:11-19
+- Duração: 113.6s
+- Publicado em: 2026-09-07T06:19:07+00:00
+
+## [stoic] YPyLhpoZ9lw — Las cosas no dicen nada de sí mismas
+
+- URL: https://youtu.be/YPyLhpoZ9lw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 9:28
+- Duração: 26.5s
+- Publicado em: 2026-09-07T06:20:23+00:00

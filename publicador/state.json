@@ -2876,6 +2876,14 @@
           "video_id": "oameTtEc5wc",
           "titulo": "Lucas 17 — Jesus, Mestre, tem misericórdia de nós | Bíblia",
           "em": "2026-09-07T01:13:00+00:00"
+        },
+        {
+          "pacote": "2026-09-07-dez-leprosos",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "ulimGXohf_w",
+          "titulo": "Os Dez Leprosos — Lucas 17 | História bíblica narrada",
+          "em": "2026-09-07T06:19:07+00:00"
         }
       ],
       "ultimo_short": "2026-09-07T01:13:00+00:00",
@@ -2883,12 +2891,12 @@
         "data": "2026-09-07",
         "n": 1
       },
-      "longo_data": "2026-09-06",
+      "longo_data": "2026-09-07",
       "longos_dia": {
-        "data": "2026-09-06",
-        "n": 2
+        "data": "2026-09-07",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-06T14:27:27+00:00"
+      "ultimo_longo": "2026-09-07T06:19:07+00:00"
     },
     "stoic": {
       "publicados": [
@@ -3399,12 +3407,20 @@
           "video_id": "ELu0hxxLNR4",
           "titulo": "Cuando te enfadas con el mundo, te cortas de él",
           "em": "2026-09-06T19:22:15+00:00"
+        },
+        {
+          "pacote": "2026-09-07-la-mente-que-juzga",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "YPyLhpoZ9lw",
+          "titulo": "Las cosas no dicen nada de sí mismas",
+          "em": "2026-09-07T06:20:23+00:00"
         }
       ],
-      "ultimo_short": "2026-09-06T19:22:15+00:00",
+      "ultimo_short": "2026-09-07T06:20:23+00:00",
       "shorts_dia": {
-        "data": "2026-09-06",
-        "n": 3
+        "data": "2026-09-07",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
