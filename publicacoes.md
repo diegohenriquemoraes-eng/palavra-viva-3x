@@ -3846,3 +3846,11 @@
 - Item: longo — Salmo 18
 - Duração: 3898.0s
 - Publicado em: 2026-09-07T18:42:35+00:00
+
+## [stoic] xjsaJ7YIiYg — Discutir es un juego de niños con muertos encima
+
+- URL: https://youtu.be/xjsaJ7YIiYg
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 9:38
+- Duração: 26.9s
+- Publicado em: 2026-09-07T21:40:02+00:00

@@ -3447,12 +3447,20 @@
           "video_id": "V9sGuzi54-Y",
           "titulo": "Hay una peste peor que la del aire",
           "em": "2026-09-07T13:35:46+00:00"
+        },
+        {
+          "pacote": "2026-09-07-la-mente-que-juzga",
+          "item": "short-3",
+          "formato": "dormir",
+          "video_id": "xjsaJ7YIiYg",
+          "titulo": "Discutir es un juego de niños con muertos encima",
+          "em": "2026-09-07T21:40:02+00:00"
         }
       ],
-      "ultimo_short": "2026-09-07T13:35:46+00:00",
+      "ultimo_short": "2026-09-07T21:40:02+00:00",
       "shorts_dia": {
         "data": "2026-09-07",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
