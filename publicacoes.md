@@ -3830,3 +3830,19 @@
 - Item: short-2 — Meditaciones 9:8
 - Duração: 28.3s
 - Publicado em: 2026-09-07T13:35:46+00:00
+
+## [es] Cxim6mXU4As — Lucas 17 — Mientras iban, fueron limpios | Biblia
+
+- URL: https://youtu.be/Cxim6mXU4As
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Lucas 17:14
+- Duração: 19.5s
+- Publicado em: 2026-09-07T18:19:49+00:00
+
+## [pt] FimCRmj1WYc — Salmos para Dormir — Salmo 18 Completo | Bíblia Falada
+
+- URL: https://youtu.be/FimCRmj1WYc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 18
+- Duração: 3898.0s
+- Publicado em: 2026-09-07T18:42:35+00:00

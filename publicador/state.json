@@ -1456,12 +1456,20 @@
           "video_id": "afTOgmT2iPM",
           "titulo": "Salmos para Dormir — Salmo 18 Completo | Biblia Hablada",
           "em": "2026-09-07T13:34:33+00:00"
+        },
+        {
+          "pacote": "2026-09-07-dez-leprosos",
+          "item": "short-2",
+          "formato": "historia",
+          "video_id": "Cxim6mXU4As",
+          "titulo": "Lucas 17 — Mientras iban, fueron limpios | Biblia",
+          "em": "2026-09-07T18:19:49+00:00"
         }
       ],
-      "ultimo_short": "2026-09-07T01:55:25+00:00",
+      "ultimo_short": "2026-09-07T18:19:49+00:00",
       "shorts_dia": {
         "data": "2026-09-07",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-07",
       "longos_dia": {
@@ -2892,6 +2900,14 @@
           "video_id": "ulimGXohf_w",
           "titulo": "Os Dez Leprosos — Lucas 17 | História bíblica narrada",
           "em": "2026-09-07T06:19:07+00:00"
+        },
+        {
+          "pacote": "2026-09-07-salmo-18-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "FimCRmj1WYc",
+          "titulo": "Salmos para Dormir — Salmo 18 Completo | Bíblia Falada",
+          "em": "2026-09-07T18:42:35+00:00"
         }
       ],
       "ultimo_short": "2026-09-07T01:13:00+00:00",
@@ -2902,9 +2918,9 @@
       "longo_data": "2026-09-07",
       "longos_dia": {
         "data": "2026-09-07",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-07T06:19:07+00:00"
+      "ultimo_longo": "2026-09-07T18:42:35+00:00"
     },
     "stoic": {
       "publicados": [
