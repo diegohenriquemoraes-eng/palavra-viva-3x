@@ -3814,3 +3814,19 @@
 - Item: short-1 — Meditaciones 9:28
 - Duração: 26.5s
 - Publicado em: 2026-09-07T06:20:23+00:00
+
+## [es] afTOgmT2iPM — Salmos para Dormir — Salmo 18 Completo | Biblia Hablada
+
+- URL: https://youtu.be/afTOgmT2iPM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 18
+- Duração: 4030.7s
+- Publicado em: 2026-09-07T13:34:33+00:00
+
+## [stoic] V9sGuzi54-Y — Hay una peste peor que la del aire
+
+- URL: https://youtu.be/V9sGuzi54-Y
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 9:8
+- Duração: 28.3s
+- Publicado em: 2026-09-07T13:35:46+00:00

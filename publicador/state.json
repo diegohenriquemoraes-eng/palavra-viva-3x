@@ -1448,6 +1448,14 @@
           "video_id": "YuFgXG7Lt64",
           "titulo": "Lucas 17 — Jesús, Maestro, ten misericordia de nosotros | Biblia",
           "em": "2026-09-07T01:55:25+00:00"
+        },
+        {
+          "pacote": "2026-09-07-salmo-18-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "afTOgmT2iPM",
+          "titulo": "Salmos para Dormir — Salmo 18 Completo | Biblia Hablada",
+          "em": "2026-09-07T13:34:33+00:00"
         }
       ],
       "ultimo_short": "2026-09-07T01:55:25+00:00",
@@ -1458,9 +1466,9 @@
       "longo_data": "2026-09-07",
       "longos_dia": {
         "data": "2026-09-07",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-07T01:12:00+00:00"
+      "ultimo_longo": "2026-09-07T13:34:33+00:00"
     },
     "en": {
       "publicados": [
@@ -3415,12 +3423,20 @@
           "video_id": "YPyLhpoZ9lw",
           "titulo": "Las cosas no dicen nada de sí mismas",
           "em": "2026-09-07T06:20:23+00:00"
+        },
+        {
+          "pacote": "2026-09-07-la-mente-que-juzga",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "V9sGuzi54-Y",
+          "titulo": "Hay una peste peor que la del aire",
+          "em": "2026-09-07T13:35:46+00:00"
         }
       ],
-      "ultimo_short": "2026-09-07T06:20:23+00:00",
+      "ultimo_short": "2026-09-07T13:35:46+00:00",
       "shorts_dia": {
         "data": "2026-09-07",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
