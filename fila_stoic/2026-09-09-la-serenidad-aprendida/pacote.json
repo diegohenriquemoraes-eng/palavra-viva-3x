@@ -1,0 +1,179 @@
+{
+  "slug": "la-serenidad-aprendida",
+  "formato": "tema",
+  "data": "2026-09-09",
+  "criado_em": "2026-09-07T04:46:00+00:00",
+  "aprovado_em": "2026-09-07T04:46:00+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 1:1-47"
+    ],
+    "titulo": {
+      "stoic": "Cómo Se Aprende a No Alterarse | Marco Aurelio, Libro I"
+    },
+    "thumb_titulo": {
+      "stoic": "NUNCA\nALTERADO"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones I"
+    },
+    "abertura": {
+      "stoic": "El primer libro de las Meditaciones no habla de filosofía: es una lista de personas y de lo que aprendió de cada una. Nadie nace sereno; se copia de alguien."
+    },
+    "tags_extra": {
+      "stoic": [
+        "estoicismo",
+        "como no alterarse",
+        "filosofia estoica español",
+        "meditaciones libro i"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro I de las Meditaciones de Marco Aurelio: de quién aprendió cada virtud, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Moon_and_clouds%2C_2021-11-18%2C_01.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Night_moon_with_clouds.jpg/1920px-Night_moon_with_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MD Rohan Sheikh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_moon_with_clouds.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Moon_Clouds_Treetops_Abstract_2.jpg/1920px-Moon_Clouds_Treetops_Abstract_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract_2.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Busan_fishing_harbor_at_night_9.jpg/1920px-Busan_fishing_harbor_at_night_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_9.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Busan_fishing_harbor_at_night_7.jpg/1920px-Busan_fishing_harbor_at_night_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_7.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Busan_fishing_harbor_at_night_3.jpg/1920px-Busan_fishing_harbor_at_night_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Busan_fishing_harbor_at_night_19.jpg/1920px-Busan_fishing_harbor_at_night_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_19.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 1:21",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El retrato del hombre que nunca se altera"
+      },
+      "aplicacao": "Nunca apresurado, nunca perplejo, nunca con risa fingida. Elige uno.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Moon_Clouds_Treetops_Abstract.jpg/1920px-Moon_Clouds_Treetops_Abstract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 5:23",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Fallaste otra vez: eso no es motivo para dejarlo"
+      },
+      "aplicacao": "No dejes el método porque no te sale. Vuelve sin discurso.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 6:38",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Que no se rinda el alma antes que el cuerpo"
+      },
+      "aplicacao": "El cuerpo aguanta todavía. Lo que se cansó fue el ánimo.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Busan_fishing_harbor_at_night_13.jpg/1920px-Busan_fishing_harbor_at_night_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_13.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:71",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La mente no viaja como la flecha"
+      },
+      "aplicacao": "Retroceder para pensar no es perder el rumbo: la mente avanza también cuando se detiene.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
