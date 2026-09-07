@@ -3790,3 +3790,11 @@
 - Item: short-1 — Lucas 17:13
 - Duração: 14.0s
 - Publicado em: 2026-09-07T01:13:00+00:00
+
+## [es] YuFgXG7Lt64 — Lucas 17 — Jesús, Maestro, ten misericordia de nosotros | Biblia
+
+- URL: https://youtu.be/YuFgXG7Lt64
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Lucas 17:13
+- Duração: 15.9s
+- Publicado em: 2026-09-07T01:55:25+00:00
