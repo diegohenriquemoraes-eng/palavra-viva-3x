@@ -3870,3 +3870,19 @@
 - Item: short-1 — Mateus 18:21-22
 - Duração: 26.5s
 - Publicado em: 2026-09-08T00:54:36+00:00
+
+## [es] Z6tgJCvVRp0 — Mateo 18 — Hasta setenta veces siete | Biblia
+
+- URL: https://youtu.be/Z6tgJCvVRp0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Mateo 18:21-22
+- Duração: 27.1s
+- Publicado em: 2026-09-08T02:06:31+00:00
+
+## [pt] 4eB6q5Vf6HU — Setenta Vezes Sete — Mateus 18 | Palavra de Deus sobre o Perdão
+
+- URL: https://youtu.be/4eB6q5Vf6HU
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Mateus 18:21-35
+- Duração: 2012.8s
+- Publicado em: 2026-09-08T02:18:51+00:00
