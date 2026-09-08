@@ -1,0 +1,178 @@
+{
+  "slug": "la-brevedad",
+  "formato": "dormir",
+  "data": "2026-09-10",
+  "criado_em": "2026-09-08T04:41:16+00:00",
+  "aprovado_em": "2026-09-08T04:41:16+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 4:1-75"
+    ],
+    "titulo": {
+      "stoic": "1 Hora de Marco Aurelio | Todo Pasa, Tambien Esto - Para Dormir"
+    },
+    "thumb_titulo": {
+      "stoic": "TODO PASA\nTAMBIEN ESTO"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones IV"
+    },
+    "abertura": {
+      "stoic": "Lo que hoy te pareció enorme cabrá pronto en una frase, y la frase se olvidará. No es tristeza: es descanso. Escucha sin seguir el hilo; estas páginas fueron escritas para el final del día."
+    },
+    "tags_extra": {
+      "stoic": [
+        "estoicismo para dormir",
+        "reflexiones para dormir",
+        "meditaciones libro iv"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro IV de las Meditaciones de Marco Aurelio, sobre lo breve de todo, narrado en español para escuchar de noche."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/1920px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/ESA/CXC/STScI",
+        "origem": "https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Milky_way1.jpg/1920px-Milky_way1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/UCLA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way1.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg/1920px-A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "EHT Collaboration",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A*_in_polarised_light_(eso2406a).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Moon_and_clouds_over_Brofjorden_1.jpg/1920px-Moon_and_clouds_over_Brofjorden_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Moon_and_clouds_over_Brofjorden_7.jpg/1920px-Moon_and_clouds_over_Brofjorden_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_7.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Full_moon_with_clouds_%2819791001528%29.jpg/1920px-Full_moon_with_clouds_%2819791001528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "BLM Nevada",
+        "origem": "https://commons.wikimedia.org/wiki/File:Full_moon_with_clouds_(19791001528).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg/1920px-Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "John Phelan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Lake_Quannapowitt,_Wakefield_MA.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 4:74",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "¿Morir hoy o dentro de un siglo? Mira bien"
+      },
+      "aplicacao": "Ante el tiempo entero no hay diferencia. Solo cambia cómo pasas hoy.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:48",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Cuántos se afanaron igual que tú"
+      },
+      "aplicacao": "También creían que aquello era urgente. Nadie los recuerda.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:59",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Alma mía, llevas un muerto encima"
+      },
+      "aplicacao": "El cuerpo se gasta; lo que decides no. Esta noche cuida lo segundo.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Moon_and_clouds%2C_2021-11-18%2C_02.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_02.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:60",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Cambiar no es perder"
+      },
+      "aplicacao": "Nada empeora por transformarse. Tu pérdida suele ser otra forma.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Busan_fishing_harbor_at_night_10.jpg/1920px-Busan_fishing_harbor_at_night_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_10.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
