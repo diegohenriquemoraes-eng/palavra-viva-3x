@@ -3910,3 +3910,19 @@
 - Item: longo — Salmo 21
 - Duração: 1464.7s
 - Publicado em: 2026-09-08T11:53:10+00:00
+
+## [es] 9oGYhdmBkjg — Mateo 18 — Movido a misericordia, le perdonó la deuda | Biblia
+
+- URL: https://youtu.be/9oGYhdmBkjg
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Mateo 18:27
+- Duração: 16.9s
+- Publicado em: 2026-09-08T12:25:19+00:00
+
+## [stoic] A4V1rlWFLVs — Tres cosas que no pueden detenerte
+
+- URL: https://youtu.be/A4V1rlWFLVs
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 12:2
+- Duração: 27.6s
+- Publicado em: 2026-09-08T12:26:25+00:00
