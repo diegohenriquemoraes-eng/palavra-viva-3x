@@ -3487,12 +3487,20 @@
           "video_id": "xjsaJ7YIiYg",
           "titulo": "Discutir es un juego de niños con muertos encima",
           "em": "2026-09-07T21:40:02+00:00"
+        },
+        {
+          "pacote": "2026-09-08-el-arte-de-bien-vivir",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "kd2_8V9JEF4",
+          "titulo": "¿Qué arte profesas? El de bien vivir",
+          "em": "2026-09-08T06:08:26+00:00"
         }
       ],
-      "ultimo_short": "2026-09-07T21:40:02+00:00",
+      "ultimo_short": "2026-09-08T06:08:26+00:00",
       "shorts_dia": {
-        "data": "2026-09-07",
-        "n": 3
+        "data": "2026-09-08",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

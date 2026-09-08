@@ -3886,3 +3886,11 @@
 - Item: longo — Mateus 18:21-35
 - Duração: 2012.8s
 - Publicado em: 2026-09-08T02:18:51+00:00
+
+## [stoic] kd2_8V9JEF4 — ¿Qué arte profesas? El de bien vivir
+
+- URL: https://youtu.be/kd2_8V9JEF4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 11:9
+- Duração: 28.4s
+- Publicado em: 2026-09-08T06:08:26+00:00
