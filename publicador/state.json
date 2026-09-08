@@ -1464,6 +1464,14 @@
           "video_id": "Cxim6mXU4As",
           "titulo": "Lucas 17 — Mientras iban, fueron limpios | Biblia",
           "em": "2026-09-07T18:19:49+00:00"
+        },
+        {
+          "pacote": "2026-09-08-perdoar-setenta-vezes",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "CHm7d3wqHJM",
+          "titulo": "Setenta Veces Siete — Mateo 18 | Palabra de Dios sobre el Perdón",
+          "em": "2026-09-08T00:53:24+00:00"
         }
       ],
       "ultimo_short": "2026-09-07T18:19:49+00:00",
@@ -1471,12 +1479,12 @@
         "data": "2026-09-07",
         "n": 2
       },
-      "longo_data": "2026-09-07",
+      "longo_data": "2026-09-08",
       "longos_dia": {
-        "data": "2026-09-07",
-        "n": 2
+        "data": "2026-09-08",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-07T13:34:33+00:00"
+      "ultimo_longo": "2026-09-08T00:53:24+00:00"
     },
     "en": {
       "publicados": [
@@ -2908,11 +2916,19 @@
           "video_id": "FimCRmj1WYc",
           "titulo": "Salmos para Dormir — Salmo 18 Completo | Bíblia Falada",
           "em": "2026-09-07T18:42:35+00:00"
+        },
+        {
+          "pacote": "2026-09-08-perdoar-setenta-vezes",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "ScJEw1iC_4I",
+          "titulo": "Mateus 18 — Até setenta vezes sete | Bíblia",
+          "em": "2026-09-08T00:54:36+00:00"
         }
       ],
-      "ultimo_short": "2026-09-07T01:13:00+00:00",
+      "ultimo_short": "2026-09-08T00:54:36+00:00",
       "shorts_dia": {
-        "data": "2026-09-07",
+        "data": "2026-09-08",
         "n": 1
       },
       "longo_data": "2026-09-07",

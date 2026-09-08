@@ -3854,3 +3854,19 @@
 - Item: short-3 — Meditaciones 9:38
 - Duração: 26.9s
 - Publicado em: 2026-09-07T21:40:02+00:00
+
+## [es] CHm7d3wqHJM — Setenta Veces Siete — Mateo 18 | Palabra de Dios sobre el Perdón
+
+- URL: https://youtu.be/CHm7d3wqHJM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Mateo 18:21-35
+- Duração: 1978.0s
+- Publicado em: 2026-09-08T00:53:24+00:00
+
+## [pt] ScJEw1iC_4I — Mateus 18 — Até setenta vezes sete | Bíblia
+
+- URL: https://youtu.be/ScJEw1iC_4I
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Mateus 18:21-22
+- Duração: 26.5s
+- Publicado em: 2026-09-08T00:54:36+00:00
