@@ -3894,3 +3894,19 @@
 - Item: short-1 — Meditaciones 11:9
 - Duração: 28.4s
 - Publicado em: 2026-09-08T06:08:26+00:00
+
+## [es] pVbclTtFmdk — Salmos para Dormir — Salmo 21 Completo | Biblia Hablada
+
+- URL: https://youtu.be/pVbclTtFmdk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 21
+- Duração: 1382.5s
+- Publicado em: 2026-09-08T11:44:24+00:00
+
+## [pt] FZcqcPthcyA — Salmos para Dormir — Salmo 21 Completo | Bíblia Falada
+
+- URL: https://youtu.be/FZcqcPthcyA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 21
+- Duração: 1464.7s
+- Publicado em: 2026-09-08T11:53:10+00:00

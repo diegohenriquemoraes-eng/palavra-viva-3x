@@ -1480,6 +1480,14 @@
           "video_id": "Z6tgJCvVRp0",
           "titulo": "Mateo 18 — Hasta setenta veces siete | Biblia",
           "em": "2026-09-08T02:06:31+00:00"
+        },
+        {
+          "pacote": "2026-09-08-salmo-21-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "pVbclTtFmdk",
+          "titulo": "Salmos para Dormir — Salmo 21 Completo | Biblia Hablada",
+          "em": "2026-09-08T11:44:24+00:00"
         }
       ],
       "ultimo_short": "2026-09-08T02:06:31+00:00",
@@ -1490,9 +1498,9 @@
       "longo_data": "2026-09-08",
       "longos_dia": {
         "data": "2026-09-08",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-08T00:53:24+00:00"
+      "ultimo_longo": "2026-09-08T11:44:24+00:00"
     },
     "en": {
       "publicados": [
@@ -2940,6 +2948,14 @@
           "video_id": "4eB6q5Vf6HU",
           "titulo": "Setenta Vezes Sete — Mateus 18 | Palavra de Deus sobre o Perdão",
           "em": "2026-09-08T02:18:51+00:00"
+        },
+        {
+          "pacote": "2026-09-08-salmo-21-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "FZcqcPthcyA",
+          "titulo": "Salmos para Dormir — Salmo 21 Completo | Bíblia Falada",
+          "em": "2026-09-08T11:53:10+00:00"
         }
       ],
       "ultimo_short": "2026-09-08T00:54:36+00:00",
@@ -2950,9 +2966,9 @@
       "longo_data": "2026-09-08",
       "longos_dia": {
         "data": "2026-09-08",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-08T02:18:51+00:00"
+      "ultimo_longo": "2026-09-08T11:53:10+00:00"
     },
     "stoic": {
       "publicados": [
