@@ -3926,3 +3926,11 @@
 - Item: short-2 — Meditaciones 12:2
 - Duração: 27.6s
 - Publicado em: 2026-09-08T12:26:25+00:00
+
+## [stoic] fRpZM2YhDyA — Es de reyes hacer el bien y recibir críticas
+
+- URL: https://youtu.be/fRpZM2YhDyA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 7:37
+- Duração: 20.2s
+- Publicado em: 2026-09-08T19:42:55+00:00
