@@ -1512,6 +1512,14 @@
           "video_id": "q-iQDxy7Qhs",
           "titulo": "Jeremías 29:11 — Pensamientos de paz, y no de mal | Biblia",
           "em": "2026-09-09T01:21:20+00:00"
+        },
+        {
+          "pacote": "2026-09-09-salmo-22-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "r4ioo0mxtjk",
+          "titulo": "Salmos para Dormir — Salmo 22 Completo | Biblia Hablada",
+          "em": "2026-09-09T10:57:33+00:00"
         }
       ],
       "ultimo_short": "2026-09-09T01:21:20+00:00",
@@ -1522,9 +1530,9 @@
       "longo_data": "2026-09-09",
       "longos_dia": {
         "data": "2026-09-09",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-09T01:11:35+00:00"
+      "ultimo_longo": "2026-09-09T10:57:33+00:00"
     },
     "en": {
       "publicados": [

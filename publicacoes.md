@@ -3974,3 +3974,11 @@
 - Item: short-1 — Meditaciones 1:21
 - Duração: 33.4s
 - Publicado em: 2026-09-09T05:51:11+00:00
+
+## [es] r4ioo0mxtjk — Salmos para Dormir — Salmo 22 Completo | Biblia Hablada
+
+- URL: https://youtu.be/r4ioo0mxtjk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 22
+- Duração: 3484.7s
+- Publicado em: 2026-09-09T10:57:33+00:00
