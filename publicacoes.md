@@ -3990,3 +3990,19 @@
 - Item: short-2 — Jeremías 29:12-13
 - Duração: 18.8s
 - Publicado em: 2026-09-09T11:38:16+00:00
+
+## [pt] QVIASGhY6rA — Salmos para Dormir — Salmo 22 Completo | Bíblia Falada
+
+- URL: https://youtu.be/QVIASGhY6rA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 22
+- Duração: 3658.2s
+- Publicado em: 2026-09-09T15:21:34+00:00
+
+## [stoic] 1bULCjN_U40 — Fallaste otra vez: eso no es motivo para dejarlo
+
+- URL: https://youtu.be/1bULCjN_U40
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 5:23
+- Duração: 23.7s
+- Publicado em: 2026-09-09T15:22:42+00:00

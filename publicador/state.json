@@ -3012,6 +3012,14 @@
           "video_id": "qttrYKhO8iA",
           "titulo": "Os Planos de Deus para Ti — Jeremias 29 e Isaías 55 | Bíblia",
           "em": "2026-09-09T05:49:41+00:00"
+        },
+        {
+          "pacote": "2026-09-09-salmo-22-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "QVIASGhY6rA",
+          "titulo": "Salmos para Dormir — Salmo 22 Completo | Bíblia Falada",
+          "em": "2026-09-09T15:21:34+00:00"
         }
       ],
       "ultimo_short": "2026-09-09T01:12:53+00:00",
@@ -3022,9 +3030,9 @@
       "longo_data": "2026-09-09",
       "longos_dia": {
         "data": "2026-09-09",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-09T05:49:41+00:00"
+      "ultimo_longo": "2026-09-09T15:21:34+00:00"
     },
     "stoic": {
       "publicados": [
@@ -3591,12 +3599,20 @@
           "video_id": "uOY6MCqytWs",
           "titulo": "El retrato del hombre que nunca se altera",
           "em": "2026-09-09T05:51:11+00:00"
+        },
+        {
+          "pacote": "2026-09-09-la-serenidad-aprendida",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "1bULCjN_U40",
+          "titulo": "Fallaste otra vez: eso no es motivo para dejarlo",
+          "em": "2026-09-09T15:22:42+00:00"
         }
       ],
-      "ultimo_short": "2026-09-09T05:51:11+00:00",
+      "ultimo_short": "2026-09-09T15:22:42+00:00",
       "shorts_dia": {
         "data": "2026-09-09",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
