@@ -3607,12 +3607,20 @@
           "video_id": "1bULCjN_U40",
           "titulo": "Fallaste otra vez: eso no es motivo para dejarlo",
           "em": "2026-09-09T15:22:42+00:00"
+        },
+        {
+          "pacote": "2026-09-09-la-serenidad-aprendida",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "f2BFJECmzV8",
+          "titulo": "Que no se rinda el alma antes que el cuerpo",
+          "em": "2026-09-09T19:55:56+00:00"
         }
       ],
-      "ultimo_short": "2026-09-09T15:22:42+00:00",
+      "ultimo_short": "2026-09-09T19:55:56+00:00",
       "shorts_dia": {
         "data": "2026-09-09",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

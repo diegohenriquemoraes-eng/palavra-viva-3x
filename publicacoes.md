@@ -4006,3 +4006,11 @@
 - Item: short-2 — Meditaciones 5:23
 - Duração: 23.7s
 - Publicado em: 2026-09-09T15:22:42+00:00
+
+## [stoic] f2BFJECmzV8 — Que no se rinda el alma antes que el cuerpo
+
+- URL: https://youtu.be/f2BFJECmzV8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 6:38
+- Duração: 21.4s
+- Publicado em: 2026-09-09T19:55:56+00:00
