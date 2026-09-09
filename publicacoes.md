@@ -3934,3 +3934,19 @@
 - Item: short-3 — Meditaciones 7:37
 - Duração: 20.2s
 - Publicado em: 2026-09-08T19:42:55+00:00
+
+## [es] 6cDyh2hgODg — Los Planes de Dios para Ti — Jeremías 29 e Isaías 55 | Biblia
+
+- URL: https://youtu.be/6cDyh2hgODg
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Jeremías 29:10-14, Isaías 55:6-13
+- Duração: 1837.0s
+- Publicado em: 2026-09-09T01:11:35+00:00
+
+## [pt] 6v3weWyzxOo — Jeremias 29:11 — Pensamentos de paz, e não de mal | Bíblia
+
+- URL: https://youtu.be/6v3weWyzxOo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Jeremias 29:11
+- Duração: 17.1s
+- Publicado em: 2026-09-09T01:12:53+00:00
