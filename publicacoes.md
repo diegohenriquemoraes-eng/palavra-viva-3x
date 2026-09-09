@@ -3950,3 +3950,11 @@
 - Item: short-1 — Jeremias 29:11
 - Duração: 17.1s
 - Publicado em: 2026-09-09T01:12:53+00:00
+
+## [es] q-iQDxy7Qhs — Jeremías 29:11 — Pensamientos de paz, y no de mal | Biblia
+
+- URL: https://youtu.be/q-iQDxy7Qhs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Jeremías 29:11
+- Duração: 18.4s
+- Publicado em: 2026-09-09T01:21:20+00:00

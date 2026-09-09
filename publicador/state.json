@@ -1504,12 +1504,20 @@
           "video_id": "6cDyh2hgODg",
           "titulo": "Los Planes de Dios para Ti — Jeremías 29 e Isaías 55 | Biblia",
           "em": "2026-09-09T01:11:35+00:00"
+        },
+        {
+          "pacote": "2026-09-09-promessa-futuro",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "q-iQDxy7Qhs",
+          "titulo": "Jeremías 29:11 — Pensamientos de paz, y no de mal | Biblia",
+          "em": "2026-09-09T01:21:20+00:00"
         }
       ],
-      "ultimo_short": "2026-09-08T12:25:19+00:00",
+      "ultimo_short": "2026-09-09T01:21:20+00:00",
       "shorts_dia": {
-        "data": "2026-09-08",
-        "n": 2
+        "data": "2026-09-09",
+        "n": 1
       },
       "longo_data": "2026-09-09",
       "longos_dia": {
