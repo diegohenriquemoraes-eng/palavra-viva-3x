@@ -1,8 +1,54 @@
-# Canais — painel único, estado em 03/09/2026
+# Canais — painel único, estado em 08/09/2026
 
 > Ponto de partida de qualquer sessão sobre canais. Este arquivo diz **o que está no ar, onde
 > mora e o que está esperando decisão**. O detalhe técnico de cada motor está no `CLAUDE.md`
 > da pasta correspondente — abrir só depois de saber por qual passar.
+
+## 08/09/2026 — a foto dos canais parados, e a régua do estoico
+
+**La Noche Estoica cumpre o Protocolo Fantasma com folga e mesmo assim não tem caminho de
+monetização hoje.** Medido em 08/09: **109 inscritos** (+21 em 5 dias), 74 vídeos, 51.193 views,
+mediana da coorte 2-7d de **981 views/Short** contra a régua de 300, **retenção mediana de 94,2%**
+em 63 Shorts (o limiar de impulso do YouTube é 70%) e publicação de 3/dia estável desde 05/09 — a
+correção do agendador de 03/09 pegou. O que trava é aritmética, não execução: o protocolo monetiza
+pela trilha de Shorts (1.000 inscritos + 10 mi de views em 90 dias), que exigiria ~111.000
+views/dia, e o canal faz ~1.800. A trilha das 4.000 h exige longo, que o protocolo proíbe —
+`longos_publicados: 0`, 40 h/ano projetadas. **O protocolo já provou o nicho e agora é ele que
+segura o canal.** Decisão do Diego em 08/09: **aguardar a régua de 22/09** e só então ligar o longo
+(os 13 temas de 03/09 já nascem com longo pronto; cota comporta, 7.665 de 10.000). Não antecipar —
+interromper a janela é o que derrubou o pipeline em 20/07.
+
+**El Poder Crudo vai ser EXCLUÍDO** (decisão do Diego, 08/09), para sair da lista de canais do
+Studio. Está morto desde 15/08: 12 vídeos, 3.168 views, mediana de **54** views, 4 inscritos.
+A exclusão é manual (`youtube.com/account_advanced` → Excluir canal, com senha e 2FA — não tem API
+e não é coisa que o Claude execute). Inventário salvo em `backup-canais/poder.json` antes.
+Quando o canal sumir, limpar deste repo: entrada `poder` do config, `fila_poder/`,
+`conteudo/temas_poder.json` e os loops de `medir.yml`, `publicar.yml` e `reabastecer.yml`.
+
+⚠ **Astucia Fría quase foi excluído junto, e teria sido um erro caro.** A medição deste repo o
+mostra com 12 vídeos e 652 views — mas ela só conta o que ESTE pipeline publicou. Puxado da API,
+o canal real tem **28 vídeos, 13.638 views, mediana de 571 por Short** e publicou em **07/09**:
+ele roda pelo motor do `psicologia-fria` desde 15/08, com régua em 15/09. **Regra que fica: número
+de canal migrado não se lê em `desempenho_historico.json` deste repo — se lê na API.** Decisão do
+Diego em 08/09: exclui só o Poder Crudo; o Astucia fica.
+
+⚠⚠ **O Living Word Daily (EN) é o canal PRINCIPAL da Conta do Google, não uma conta de marca**
+— conferido em 08/09 na página `/account` com ele selecionado: falta a linha "Administradores do
+canal / conta de marca" que os outros quatro têm. **Não excluir.** Os outros canais sobreviveriam
+(conta de marca é entidade separada, e os tokens/projetos Cloud são da conta, não do canal), mas
+o que se apaga é pessoal e não tem backup: o canal é de **2011** e guarda 15 anos de inscrições,
+playlists, histórico e comentários do Diego. Ganho = uma linha a menos numa lista de cinco.
+Alternativa sem risco, se o incômodo voltar: tornar os 33 vídeos privados e devolver o canal ao
+uso pessoal.
+
+Inventário do canal: 33 vídeos (23 Shorts + 10 longos) publicados em 9 dias, de 19/07 a 27/07;
+12 inscritos, 1.016 views, **mediana de 1 view**, melhor vídeo com 556. Backup dos metadados em
+`backup-canais/en.json` (as inscrições e playlists NÃO têm backup).
+
+**O El Poder Crudo foi excluído em 08/09** — sumiu da lista de canais da conta.
+
+⚠ **A pasta `Desktop\Projetos\Corte-em-Pauta` NÃO EXISTE MAIS** (conferido em 08/09). O
+`CLAUDE.md` global ainda a lista como projeto ativo publicando de 6/6h — está falso.
 
 ## O que mudou na madrugada de 02→03/09/2026
 
@@ -66,9 +112,9 @@ agenda, orçamento de cota, coerência da config e integridade dos poços.
 
 | Canal | Desde | Por quê |
 |---|---|---|
-| **Living Word Daily** `@LivingWordDailyKJV` (EN) | — | mediana de ~1 view; `ativo: false` |
-| **El Poder Crudo** `@ElPoderCrudo` | 15/08 | 12 dias, 4 inscritos, mediana 74 contra régua de 300. Canal e vídeos ficam no ar. **Não reativar o formato Maquiavel.** |
-| **Corte em Pauta** (cortes do Flow) | 18/07 | Encerrado. O canal virou o Living Word Daily; a pasta é arquivo morto, mas as credenciais em `youtube-api/` seguem em uso como os secrets `YT_*_EN`. |
+| **Living Word Daily** `@LivingWordDailyKJV` (EN) | 27/07 | 33 vídeos em 9 dias, 12 inscritos, 1.016 views, **mediana de 1 view**. `ativo: false`. ⚠ É o **canal principal da Conta do Google** (de 2011), não conta de marca — **não excluir**. |
+| **El Poder Crudo** `@ElPoderCrudo` | 15/08 | **EXCLUÍDO em 08/09** (decisão do Diego): 12 dias no ar, 4 inscritos, mediana 54. Backup dos metadados em `backup-canais/poder.json`. Falta limpar o repo. |
+| **Corte em Pauta** (cortes do Flow) | 18/07 | Encerrado. O canal virou o Living Word Daily; **a pasta foi excluída** (conferido em 08/09) e as credenciais seguem só como os secrets `YT_*_EN`. |
 | **Palabra-Viva** (repo antigo) | 19/07 | Aposentado. O canal é abastecido pelo 3x; a pasta guarda as credenciais `YT_*_ES`. |
 
 ## O que foi executado em 22/08 (as 4 decisões do Diego)

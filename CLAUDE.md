@@ -38,6 +38,20 @@ caminho hoje**. Não estimar inscritos: canal sem medição entra como "não med
 Cada canal tem projeto Google Cloud PRÓPRIO (quota de 10k/dia não é dividida).
 App OAuth precisa estar **em produção**, senão o refresh token morre em 7 dias.
 
+⚠ **O canal `en` (Living Word Daily) é o canal PRINCIPAL da Conta do Google** — não é conta
+de marca, ao contrário dos outros quatro (conferido em 08/09/2026 na página `/account`: falta
+a linha "Administradores do canal"). **Não excluir**: os outros canais sobreviveriam, mas o
+canal é de 2011 e leva junto 15 anos de inscrições, playlists, histórico e comentários do
+Diego, que não têm backup. Está `ativo: false` desde 27/07 (33 vídeos, mediana de 1 view).
+O **El Poder Crudo foi excluído em 08/09** por decisão do Diego; falta limpar deste repo a
+entrada `poder` do config, `fila_poder/`, `conteudo/temas_poder.json` e os loops de
+`medir.yml`, `publicar.yml` e `reabastecer.yml`. Metadados dos canais em `backup-canais/`.
+
+⚠ **Número de canal migrado não se lê em `desempenho_historico.json`** — essa medição só conta
+o que ESTE pipeline publicou. O Astucia Fría aparecia com 12 vídeos e 652 views; a API do canal
+devolve 28 vídeos, 13.638 views e mediana de 571, porque ele roda pelo motor do `psicologia-fria`
+desde 15/08. Quase foi excluído por causa disso (08/09).
+
 ## Rebrand do canal ES: sai a palavra "Cortes" (19–20/08/2026)
 
 O canal nunca foi de cortes de terceiros (diretriz nº 5 sempre proibiu isso) e
