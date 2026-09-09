@@ -3958,3 +3958,19 @@
 - Item: short-1 — Jeremías 29:11
 - Duração: 18.4s
 - Publicado em: 2026-09-09T01:21:20+00:00
+
+## [pt] qttrYKhO8iA — Os Planos de Deus para Ti — Jeremias 29 e Isaías 55 | Bíblia
+
+- URL: https://youtu.be/qttrYKhO8iA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Jeremias 29:10-14, Isaías 55:6-13
+- Duração: 1909.4s
+- Publicado em: 2026-09-09T05:49:41+00:00
+
+## [stoic] uOY6MCqytWs — El retrato del hombre que nunca se altera
+
+- URL: https://youtu.be/uOY6MCqytWs
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 1:21
+- Duração: 33.4s
+- Publicado em: 2026-09-09T05:51:11+00:00
