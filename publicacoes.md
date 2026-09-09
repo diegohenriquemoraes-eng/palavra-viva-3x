@@ -3982,3 +3982,11 @@
 - Item: longo — Salmo 22
 - Duração: 3484.7s
 - Publicado em: 2026-09-09T10:57:33+00:00
+
+## [es] ApNlKVZrFWI — Jeremías 29 — Me buscaréis y me hallaréis | Biblia
+
+- URL: https://youtu.be/ApNlKVZrFWI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Jeremías 29:12-13
+- Duração: 18.8s
+- Publicado em: 2026-09-09T11:38:16+00:00

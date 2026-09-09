@@ -1520,12 +1520,20 @@
           "video_id": "r4ioo0mxtjk",
           "titulo": "Salmos para Dormir — Salmo 22 Completo | Biblia Hablada",
           "em": "2026-09-09T10:57:33+00:00"
+        },
+        {
+          "pacote": "2026-09-09-promessa-futuro",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "ApNlKVZrFWI",
+          "titulo": "Jeremías 29 — Me buscaréis y me hallaréis | Biblia",
+          "em": "2026-09-09T11:38:16+00:00"
         }
       ],
-      "ultimo_short": "2026-09-09T01:21:20+00:00",
+      "ultimo_short": "2026-09-09T11:38:16+00:00",
       "shorts_dia": {
         "data": "2026-09-09",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-09",
       "longos_dia": {
