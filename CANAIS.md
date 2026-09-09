@@ -32,18 +32,25 @@ ele roda pelo motor do `psicologia-fria` desde 15/08, com régua em 15/09. **Reg
 de canal migrado não se lê em `desempenho_historico.json` deste repo — se lê na API.** Decisão do
 Diego em 08/09: exclui só o Poder Crudo; o Astucia fica.
 
-⚠⚠ **O Living Word Daily (EN) é o canal PRINCIPAL da Conta do Google, não uma conta de marca**
-— conferido em 08/09 na página `/account` com ele selecionado: falta a linha "Administradores do
-canal / conta de marca" que os outros quatro têm. **Não excluir.** Os outros canais sobreviveriam
-(conta de marca é entidade separada, e os tokens/projetos Cloud são da conta, não do canal), mas
-o que se apaga é pessoal e não tem backup: o canal é de **2011** e guarda 15 anos de inscrições,
-playlists, histórico e comentários do Diego. Ganho = uma linha a menos numa lista de cinco.
-Alternativa sem risco, se o incômodo voltar: tornar os 33 vídeos privados e devolver o canal ao
-uso pessoal.
+**O Living Word Daily (EN) vai ser excluído** — decisão do Diego em 08/09, depois de conferida a
+condição que ele pôs ("desde que não interfira nos outros canais"). **Não interfere**: os outros
+quatro são contas de marca, entidades separadas que a Conta do Google continua possuindo, e os
+tokens OAuth e projetos Cloud pertencem à conta, não ao canal — a própria página avisa que "sua
+Conta do Google não será encerrada".
 
-Inventário do canal: 33 vídeos (23 Shorts + 10 longos) publicados em 9 dias, de 19/07 a 27/07;
-12 inscritos, 1.016 views, **mediana de 1 view**, melhor vídeo com 556. Backup dos metadados em
-`backup-canais/en.json` (as inscrições e playlists NÃO têm backup).
+⚠ Mas registre-se o que se perde, porque não tem backup e não é do projeto: **este é o canal
+PRINCIPAL da conta** (a página `/account_advanced` diz "Living Word Daily é o canal padrão desta
+conta"; e em `/account` falta a linha "Administradores do canal" que as contas de marca têm).
+Ele é de **2011** e leva junto 15 anos de inscrições, playlists, histórico de exibição e
+comentários pessoais do Diego. `backup-canais/en.json` guarda só os metadados dos 33 vídeos.
+
+Os **33 vídeos já estavam todos PRIVADOS** (conferido no Studio em 08/09: 10 longos + 23 Shorts),
+então o canal já não expunha nada — o incômodo era a linha na lista de canais.
+Inventário: 33 vídeos em 9 dias, de 19/07 a 27/07; 12 inscritos, 1.016 views, **mediana de 1
+view**. Os três Shorts do primeiro dia levaram **975 das 1.016 views (96%)** e do dia 20/07 em
+diante nada passou de 9 views: foi o impulso de canal novo acabando sobre uma base herdada do
+Corte em Pauta, que era de cortes em português. **Audiência desalinhada mata mais rápido que
+conteúdo ruim.**
 
 **O El Poder Crudo foi excluído em 08/09** — sumiu da lista de canais da conta.
 
@@ -112,7 +119,7 @@ agenda, orçamento de cota, coerência da config e integridade dos poços.
 
 | Canal | Desde | Por quê |
 |---|---|---|
-| **Living Word Daily** `@LivingWordDailyKJV` (EN) | 27/07 | 33 vídeos em 9 dias, 12 inscritos, 1.016 views, **mediana de 1 view**. `ativo: false`. ⚠ É o **canal principal da Conta do Google** (de 2011), não conta de marca — **não excluir**. |
+| **Living Word Daily** `@LivingWordDailyKJV` (EN) | 27/07 | 33 vídeos em 9 dias, 12 inscritos, 1.016 views, **mediana de 1 view**; todos já privados. **Vai ser EXCLUÍDO** (decisão do Diego, 08/09) — é o canal principal da conta, de 2011, e leva junto inscrições e playlists pessoais. Não interfere nos outros quatro, que são contas de marca. |
 | **El Poder Crudo** `@ElPoderCrudo` | 15/08 | **EXCLUÍDO em 08/09** (decisão do Diego): 12 dias no ar, 4 inscritos, mediana 54. Backup dos metadados em `backup-canais/poder.json`. Falta limpar o repo. |
 | **Corte em Pauta** (cortes do Flow) | 18/07 | Encerrado. O canal virou o Living Word Daily; **a pasta foi excluída** (conferido em 08/09) e as credenciais seguem só como os secrets `YT_*_EN`. |
 | **Palabra-Viva** (repo antigo) | 19/07 | Aposentado. O canal é abastecido pelo 3x; a pasta guarda as credenciais `YT_*_ES`. |
