@@ -38,17 +38,18 @@ caminho hoje**. Não estimar inscritos: canal sem medição entra como "não med
 Cada canal tem projeto Google Cloud PRÓPRIO (quota de 10k/dia não é dividida).
 App OAuth precisa estar **em produção**, senão o refresh token morre em 7 dias.
 
-⚠ **O canal `en` (Living Word Daily) é o canal PRINCIPAL da Conta do Google** — não é conta
-de marca, ao contrário dos outros quatro (conferido em 08/09/2026: `/account_advanced` diz
-"Living Word Daily é o canal padrão desta conta"). **Foi excluído em 08/09 por decisão do
-Diego**, com a condição verificada de não afetar os outros: contas de marca são entidades
-separadas e os tokens/projetos Cloud pertencem à conta, não ao canal. O que foi junto e não
-tem backup é pessoal: o canal é de 2011 e levava 15 anos de inscrições, playlists, histórico e
-comentários. Estava `ativo: false` desde 27/07 (33 vídeos, mediana de 1 view, todos privados).
-Falta limpar deste repo a entrada `en` do config e os secrets `YT_*_EN`.
-O **El Poder Crudo foi excluído em 08/09** por decisão do Diego; falta limpar deste repo a
-entrada `poder` do config, `fila_poder/`, `conteudo/temas_poder.json` e os loops de
-`medir.yml`, `publicar.yml` e `reabastecer.yml`. Metadados dos canais em `backup-canais/`.
+⚠⚠⚠ **NUNCA excluir o canal `en` (Living Word Daily) — a exclusão leva OS OUTROS QUATRO
+CANAIS JUNTO.** Chegamos a um clique disso em 08/09/2026: a tela final do Google lista
+"4 canais seus do YouTube" entre o que seria excluído permanentemente, junto com 7 playlists,
+o histórico e os comentários. O Diego leu e cancelou. O motivo: `en` é o canal PRINCIPAL da
+Conta do Google (`/account_advanced` diz "é o canal padrão desta conta"), e essa via não
+exclui um canal — remove o YouTube da conta inteira, levando as contas de marca de que ela é
+a única proprietária. A regra "conta de marca sobrevive" vale só para conta de marca: foi o
+caso do **El Poder Crudo, excluído em 08/09 sem afetar nada**. Distinguir os dois em
+`/account` com o canal selecionado: conta de marca mostra "Administradores do canal", o
+principal não. Falta limpar deste repo a entrada `poder` do config, `fila_poder/`,
+`conteudo/temas_poder.json` e os loops de `medir.yml`, `publicar.yml` e `reabastecer.yml`.
+O `en` fica onde está: `ativo: false`, 33 vídeos privados. Metadados em `backup-canais/`.
 
 ⚠ **Número de canal migrado não se lê em `desempenho_historico.json`** — essa medição só conta
 o que ESTE pipeline publicou. O Astucia Fría aparecia com 12 vídeos e 652 views; a API do canal

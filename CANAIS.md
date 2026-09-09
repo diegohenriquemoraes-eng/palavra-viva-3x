@@ -32,25 +32,31 @@ ele roda pelo motor do `psicologia-fria` desde 15/08, com régua em 15/09. **Reg
 de canal migrado não se lê em `desempenho_historico.json` deste repo — se lê na API.** Decisão do
 Diego em 08/09: exclui só o Poder Crudo; o Astucia fica.
 
-**O Living Word Daily (EN) vai ser excluído** — decisão do Diego em 08/09, depois de conferida a
-condição que ele pôs ("desde que não interfira nos outros canais"). **Não interfere**: os outros
-quatro são contas de marca, entidades separadas que a Conta do Google continua possuindo, e os
-tokens OAuth e projetos Cloud pertencem à conta, não ao canal — a própria página avisa que "sua
-Conta do Google não será encerrada".
+⚠⚠⚠ **NUNCA excluir o canal `en` (Living Word Daily): a exclusão leva OS OUTROS QUATRO CANAIS
+JUNTO.** Chegamos a um clique disso em 08/09/2026. A tela final de confirmação do Google lista o
+que seria excluído permanentemente: 33 vídeos, 7 playlists, o perfil do YouTube Kids, o histórico
+de pesquisa e exibição, os comentários — e **"4 canais seus do YouTube"**, que são o Palabra Viva,
+o Palavra Viva Diária, o La Noche Estoica e o Astucia Fría. O Diego leu a lista e cancelou.
 
-⚠ Mas registre-se o que se perde, porque não tem backup e não é do projeto: **este é o canal
-PRINCIPAL da conta** (a página `/account_advanced` diz "Living Word Daily é o canal padrão desta
-conta"; e em `/account` falta a linha "Administradores do canal" que as contas de marca têm).
-Ele é de **2011** e leva junto 15 anos de inscrições, playlists, histórico de exibição e
-comentários pessoais do Diego. `backup-canais/en.json` guarda só os metadados dos 33 vídeos.
+**A regra que eu apliquei errado**: "conta de marca é entidade separada, sobrevive à exclusão do
+canal" vale para conta de marca — foi o caso do El Poder Crudo, excluído no mesmo dia sem afetar
+nada. **Não vale para o canal PRINCIPAL da conta.** Essa via não exclui um canal: ela remove o
+YouTube da Conta do Google inteira, e as contas de marca de que essa conta é a única proprietária
+vão junto. Distinguir os dois casos em `/account` com o canal selecionado: conta de marca mostra
+a linha "Administradores do canal"; o principal, não (e `/account_advanced` diz "é o canal padrão
+desta conta").
 
-Os **33 vídeos já estavam todos PRIVADOS** (conferido no Studio em 08/09: 10 longos + 23 Shorts),
-então o canal já não expunha nada — o incômodo era a linha na lista de canais.
-Inventário: 33 vídeos em 9 dias, de 19/07 a 27/07; 12 inscritos, 1.016 views, **mediana de 1
-view**. Os três Shorts do primeiro dia levaram **975 das 1.016 views (96%)** e do dia 20/07 em
-diante nada passou de 9 views: foi o impulso de canal novo acabando sobre uma base herdada do
-Corte em Pauta, que era de cortes em português. **Audiência desalinhada mata mais rápido que
-conteúdo ruim.**
+**Não existe caminho seguro para tirar esse canal da lista do Studio** — ele é a raiz da conta que
+sustenta os outros quatro. O que fazer é o que já está feito: os 33 vídeos estão privados
+(conferido no Studio em 08/09: 10 longos + 23 Shorts) e o canal está `ativo: false` desde 27/07.
+É uma linha inerte na lista. Se um dia precisar mudar de verdade, o caminho é dar um segundo
+proprietário a cada conta de marca ANTES de tocar no canal principal.
+
+Inventário, para o registro: 33 vídeos em 9 dias, de 19/07 a 27/07; 12 inscritos, 1.016 views,
+**mediana de 1 view**. Os três Shorts do primeiro dia levaram **975 das 1.016 views (96%)** e do
+dia 20/07 em diante nada passou de 9: foi o impulso de canal novo acabando sobre uma base herdada
+do Corte em Pauta, que era de cortes em português. **Audiência desalinhada mata mais rápido que
+conteúdo ruim.** Metadados em `backup-canais/en.json`.
 
 **O El Poder Crudo foi excluído em 08/09** — sumiu da lista de canais da conta.
 
@@ -119,7 +125,7 @@ agenda, orçamento de cota, coerência da config e integridade dos poços.
 
 | Canal | Desde | Por quê |
 |---|---|---|
-| **Living Word Daily** `@LivingWordDailyKJV` (EN) | 27/07 | 33 vídeos em 9 dias, 12 inscritos, 1.016 views, **mediana de 1 view**; todos já privados. **Vai ser EXCLUÍDO** (decisão do Diego, 08/09) — é o canal principal da conta, de 2011, e leva junto inscrições e playlists pessoais. Não interfere nos outros quatro, que são contas de marca. |
+| **Living Word Daily** `@LivingWordDailyKJV` (EN) | 27/07 | 33 vídeos em 9 dias, 12 inscritos, 1.016 views, **mediana de 1 view**; todos privados, `ativo: false`. ⚠⚠⚠ **NUNCA EXCLUIR**: é o canal principal da conta e a exclusão leva os outros QUATRO canais junto (confirmado na tela do Google em 08/09). |
 | **El Poder Crudo** `@ElPoderCrudo` | 15/08 | **EXCLUÍDO em 08/09** (decisão do Diego): 12 dias no ar, 4 inscritos, mediana 54. Backup dos metadados em `backup-canais/poder.json`. Falta limpar o repo. |
 | **Corte em Pauta** (cortes do Flow) | 18/07 | Encerrado. O canal virou o Living Word Daily; **a pasta foi excluída** (conferido em 08/09) e as credenciais seguem só como os secrets `YT_*_EN`. |
 | **Palabra-Viva** (repo antigo) | 19/07 | Aposentado. O canal é abastecido pelo 3x; a pasta guarda as credenciais `YT_*_ES`. |
