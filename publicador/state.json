@@ -1544,6 +1544,14 @@
           "video_id": "EW8AwZRxQUU",
           "titulo": "Salmo 35:1 — Disputa, oh Jehová, con los que contra | Biblia",
           "em": "2026-09-10T02:08:27+00:00"
+        },
+        {
+          "pacote": "2026-09-10-salmo-38-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "AXZqTvbRvEU",
+          "titulo": "Salmos para Dormir — Salmo 38 Completo | Biblia Hablada",
+          "em": "2026-09-10T11:58:51+00:00"
         }
       ],
       "ultimo_short": "2026-09-10T02:08:27+00:00",
@@ -1554,9 +1562,9 @@
       "longo_data": "2026-09-10",
       "longos_dia": {
         "data": "2026-09-10",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-10T01:41:04+00:00"
+      "ultimo_longo": "2026-09-10T11:58:51+00:00"
     },
     "en": {
       "publicados": [
@@ -3052,6 +3060,14 @@
           "video_id": "kSiA-pOXTjQ",
           "titulo": "Salmos para Dormir — Salmo 35 Completo | Bíblia Falada",
           "em": "2026-09-10T02:35:59+00:00"
+        },
+        {
+          "pacote": "2026-09-10-salmo-38-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "giPoKPgRmNA",
+          "titulo": "Salmos para Dormir — Salmo 38 Completo | Bíblia Falada",
+          "em": "2026-09-10T12:21:32+00:00"
         }
       ],
       "ultimo_short": "2026-09-10T01:42:01+00:00",
@@ -3062,9 +3078,9 @@
       "longo_data": "2026-09-10",
       "longos_dia": {
         "data": "2026-09-10",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-10T02:35:59+00:00"
+      "ultimo_longo": "2026-09-10T12:21:32+00:00"
     },
     "stoic": {
       "publicados": [

@@ -4054,3 +4054,19 @@
 - Item: short-1 — Meditaciones 4:74
 - Duração: 26.4s
 - Publicado em: 2026-09-10T06:13:06+00:00
+
+## [es] AXZqTvbRvEU — Salmos para Dormir — Salmo 38 Completo | Biblia Hablada
+
+- URL: https://youtu.be/AXZqTvbRvEU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 38
+- Duração: 2284.1s
+- Publicado em: 2026-09-10T11:58:51+00:00
+
+## [pt] giPoKPgRmNA — Salmos para Dormir — Salmo 38 Completo | Bíblia Falada
+
+- URL: https://youtu.be/giPoKPgRmNA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 38
+- Duração: 2357.5s
+- Publicado em: 2026-09-10T12:21:32+00:00
