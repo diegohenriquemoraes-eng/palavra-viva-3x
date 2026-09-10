@@ -3647,12 +3647,20 @@
           "video_id": "f2BFJECmzV8",
           "titulo": "Que no se rinda el alma antes que el cuerpo",
           "em": "2026-09-09T19:55:56+00:00"
+        },
+        {
+          "pacote": "2026-09-10-la-brevedad",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "GAPJ_SBJfbQ",
+          "titulo": "¿Morir hoy o dentro de un siglo? Mira bien",
+          "em": "2026-09-10T06:13:06+00:00"
         }
       ],
-      "ultimo_short": "2026-09-09T19:55:56+00:00",
+      "ultimo_short": "2026-09-10T06:13:06+00:00",
       "shorts_dia": {
-        "data": "2026-09-09",
-        "n": 3
+        "data": "2026-09-10",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

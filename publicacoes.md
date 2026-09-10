@@ -4046,3 +4046,11 @@
 - Item: longo — Salmo 35
 - Duração: 3456.3s
 - Publicado em: 2026-09-10T02:35:59+00:00
+
+## [stoic] GAPJ_SBJfbQ — ¿Morir hoy o dentro de un siglo? Mira bien
+
+- URL: https://youtu.be/GAPJ_SBJfbQ
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 4:74
+- Duração: 26.4s
+- Publicado em: 2026-09-10T06:13:06+00:00
