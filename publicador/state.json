@@ -1552,12 +1552,20 @@
           "video_id": "AXZqTvbRvEU",
           "titulo": "Salmos para Dormir — Salmo 38 Completo | Biblia Hablada",
           "em": "2026-09-10T11:58:51+00:00"
+        },
+        {
+          "pacote": "2026-09-10-salmo-35-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "9yvFw4HTE2E",
+          "titulo": "Salmo 35:8 — Véngale el quebrantamiento que no sepa | Biblia",
+          "em": "2026-09-10T12:31:04+00:00"
         }
       ],
-      "ultimo_short": "2026-09-10T02:08:27+00:00",
+      "ultimo_short": "2026-09-10T12:31:04+00:00",
       "shorts_dia": {
         "data": "2026-09-10",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-10",
       "longos_dia": {
@@ -3671,12 +3679,20 @@
           "video_id": "GAPJ_SBJfbQ",
           "titulo": "¿Morir hoy o dentro de un siglo? Mira bien",
           "em": "2026-09-10T06:13:06+00:00"
+        },
+        {
+          "pacote": "2026-09-10-la-brevedad",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "N3v7a2hc79E",
+          "titulo": "Cuántos se afanaron igual que tú",
+          "em": "2026-09-10T12:32:13+00:00"
         }
       ],
-      "ultimo_short": "2026-09-10T06:13:06+00:00",
+      "ultimo_short": "2026-09-10T12:32:13+00:00",
       "shorts_dia": {
         "data": "2026-09-10",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

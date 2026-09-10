@@ -4070,3 +4070,19 @@
 - Item: longo — Salmo 38
 - Duração: 2357.5s
 - Publicado em: 2026-09-10T12:21:32+00:00
+
+## [es] 9yvFw4HTE2E — Salmo 35:8 — Véngale el quebrantamiento que no sepa | Biblia
+
+- URL: https://youtu.be/9yvFw4HTE2E
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 35:8
+- Duração: 16.4s
+- Publicado em: 2026-09-10T12:31:04+00:00
+
+## [stoic] N3v7a2hc79E — Cuántos se afanaron igual que tú
+
+- URL: https://youtu.be/N3v7a2hc79E
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 4:48
+- Duração: 26.1s
+- Publicado em: 2026-09-10T12:32:13+00:00
