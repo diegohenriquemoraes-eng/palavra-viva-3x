@@ -4030,3 +4030,19 @@
 - Item: short-1 — Salmo 35:1
 - Duração: 14.6s
 - Publicado em: 2026-09-10T01:42:01+00:00
+
+## [es] EW8AwZRxQUU — Salmo 35:1 — Disputa, oh Jehová, con los que contra | Biblia
+
+- URL: https://youtu.be/EW8AwZRxQUU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 35:1
+- Duração: 15.7s
+- Publicado em: 2026-09-10T02:08:27+00:00
+
+## [pt] kSiA-pOXTjQ — Salmos para Dormir — Salmo 35 Completo | Bíblia Falada
+
+- URL: https://youtu.be/kSiA-pOXTjQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 35
+- Duração: 3456.3s
+- Publicado em: 2026-09-10T02:35:59+00:00
