@@ -3687,12 +3687,20 @@
           "video_id": "N3v7a2hc79E",
           "titulo": "Cuántos se afanaron igual que tú",
           "em": "2026-09-10T12:32:13+00:00"
+        },
+        {
+          "pacote": "2026-09-10-la-brevedad",
+          "item": "short-3",
+          "formato": "dormir",
+          "video_id": "GFDS8g_BZfI",
+          "titulo": "Alma mía, llevas un muerto encima",
+          "em": "2026-09-10T19:22:24+00:00"
         }
       ],
-      "ultimo_short": "2026-09-10T12:32:13+00:00",
+      "ultimo_short": "2026-09-10T19:22:24+00:00",
       "shorts_dia": {
         "data": "2026-09-10",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

@@ -4086,3 +4086,11 @@
 - Item: short-2 — Meditaciones 4:48
 - Duração: 26.1s
 - Publicado em: 2026-09-10T12:32:13+00:00
+
+## [stoic] GFDS8g_BZfI — Alma mía, llevas un muerto encima
+
+- URL: https://youtu.be/GFDS8g_BZfI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 4:59
+- Duração: 18.6s
+- Publicado em: 2026-09-10T19:22:24+00:00
