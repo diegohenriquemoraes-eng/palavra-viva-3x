@@ -1528,6 +1528,14 @@
           "video_id": "ApNlKVZrFWI",
           "titulo": "Jeremías 29 — Me buscaréis y me hallaréis | Biblia",
           "em": "2026-09-09T11:38:16+00:00"
+        },
+        {
+          "pacote": "2026-09-10-salmo-35-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "ewOy0cfDuTI",
+          "titulo": "Salmos para Dormir — Salmo 35 Completo | Biblia Hablada",
+          "em": "2026-09-10T01:41:04+00:00"
         }
       ],
       "ultimo_short": "2026-09-09T11:38:16+00:00",
@@ -1535,12 +1543,12 @@
         "data": "2026-09-09",
         "n": 2
       },
-      "longo_data": "2026-09-09",
+      "longo_data": "2026-09-10",
       "longos_dia": {
-        "data": "2026-09-09",
-        "n": 2
+        "data": "2026-09-10",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-09T10:57:33+00:00"
+      "ultimo_longo": "2026-09-10T01:41:04+00:00"
     },
     "en": {
       "publicados": [
@@ -3020,11 +3028,19 @@
           "video_id": "QVIASGhY6rA",
           "titulo": "Salmos para Dormir — Salmo 22 Completo | Bíblia Falada",
           "em": "2026-09-09T15:21:34+00:00"
+        },
+        {
+          "pacote": "2026-09-10-salmo-35-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "B_XWcpF47b8",
+          "titulo": "Salmo 35:1 — Disputa, SENHOR contra os meus adversários; luta | Bíblia",
+          "em": "2026-09-10T01:42:01+00:00"
         }
       ],
-      "ultimo_short": "2026-09-09T01:12:53+00:00",
+      "ultimo_short": "2026-09-10T01:42:01+00:00",
       "shorts_dia": {
-        "data": "2026-09-09",
+        "data": "2026-09-10",
         "n": 1
       },
       "longo_data": "2026-09-09",

@@ -4014,3 +4014,19 @@
 - Item: short-3 — Meditaciones 6:38
 - Duração: 21.4s
 - Publicado em: 2026-09-09T19:55:56+00:00
+
+## [es] ewOy0cfDuTI — Salmos para Dormir — Salmo 35 Completo | Biblia Hablada
+
+- URL: https://youtu.be/ewOy0cfDuTI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 35
+- Duração: 3171.6s
+- Publicado em: 2026-09-10T01:41:04+00:00
+
+## [pt] B_XWcpF47b8 — Salmo 35:1 — Disputa, SENHOR contra os meus adversários; luta | Bíblia
+
+- URL: https://youtu.be/B_XWcpF47b8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 35:1
+- Duração: 14.6s
+- Publicado em: 2026-09-10T01:42:01+00:00
