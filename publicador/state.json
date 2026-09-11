@@ -1576,6 +1576,14 @@
           "video_id": "Q68TxeVZ5bw",
           "titulo": "Salmo 39:1 — Yo Dije: Atenderé a mis caminos | Biblia",
           "em": "2026-09-11T01:17:09+00:00"
+        },
+        {
+          "pacote": "2026-09-11-salmo-41-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "CmH8jvXkeaw",
+          "titulo": "Salmos para Dormir — Salmo 41 Completo | Biblia Hablada",
+          "em": "2026-09-11T10:29:38+00:00"
         }
       ],
       "ultimo_short": "2026-09-11T01:17:09+00:00",
@@ -1586,9 +1594,9 @@
       "longo_data": "2026-09-11",
       "longos_dia": {
         "data": "2026-09-11",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-11T00:59:45+00:00"
+      "ultimo_longo": "2026-09-11T10:29:38+00:00"
     },
     "en": {
       "publicados": [

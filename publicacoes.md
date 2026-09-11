@@ -4134,3 +4134,11 @@
 - Item: short-1 — Meditaciones 5:13
 - Duração: 20.8s
 - Publicado em: 2026-09-11T05:42:41+00:00
+
+## [es] CmH8jvXkeaw — Salmos para Dormir — Salmo 41 Completo | Biblia Hablada
+
+- URL: https://youtu.be/CmH8jvXkeaw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 41
+- Duração: 1505.3s
+- Publicado em: 2026-09-11T10:29:38+00:00
