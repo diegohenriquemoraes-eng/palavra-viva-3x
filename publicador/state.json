@@ -1560,6 +1560,14 @@
           "video_id": "9yvFw4HTE2E",
           "titulo": "Salmo 35:8 — Véngale el quebrantamiento que no sepa | Biblia",
           "em": "2026-09-10T12:31:04+00:00"
+        },
+        {
+          "pacote": "2026-09-11-salmo-39-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "CT3Fw4FcPQY",
+          "titulo": "Salmos para Dormir — Salmo 39 Completo | Biblia Hablada",
+          "em": "2026-09-11T00:59:45+00:00"
         }
       ],
       "ultimo_short": "2026-09-10T12:31:04+00:00",
@@ -1567,12 +1575,12 @@
         "data": "2026-09-10",
         "n": 2
       },
-      "longo_data": "2026-09-10",
+      "longo_data": "2026-09-11",
       "longos_dia": {
-        "data": "2026-09-10",
-        "n": 2
+        "data": "2026-09-11",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-10T11:58:51+00:00"
+      "ultimo_longo": "2026-09-11T00:59:45+00:00"
     },
     "en": {
       "publicados": [
@@ -3076,11 +3084,19 @@
           "video_id": "giPoKPgRmNA",
           "titulo": "Salmos para Dormir — Salmo 38 Completo | Bíblia Falada",
           "em": "2026-09-10T12:21:32+00:00"
+        },
+        {
+          "pacote": "2026-09-11-salmo-39-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "XsIv9ta-U7k",
+          "titulo": "Salmo 39:1 — Eu dizia: Vigiarei os meus caminhos | Bíblia",
+          "em": "2026-09-11T01:00:36+00:00"
         }
       ],
-      "ultimo_short": "2026-09-10T01:42:01+00:00",
+      "ultimo_short": "2026-09-11T01:00:36+00:00",
       "shorts_dia": {
-        "data": "2026-09-10",
+        "data": "2026-09-11",
         "n": 1
       },
       "longo_data": "2026-09-10",

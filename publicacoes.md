@@ -4094,3 +4094,19 @@
 - Item: short-3 — Meditaciones 4:59
 - Duração: 18.6s
 - Publicado em: 2026-09-10T19:22:24+00:00
+
+## [es] CT3Fw4FcPQY — Salmos para Dormir — Salmo 39 Completo | Biblia Hablada
+
+- URL: https://youtu.be/CT3Fw4FcPQY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 39
+- Duração: 1580.7s
+- Publicado em: 2026-09-11T00:59:45+00:00
+
+## [pt] XsIv9ta-U7k — Salmo 39:1 — Eu dizia: Vigiarei os meus caminhos | Bíblia
+
+- URL: https://youtu.be/XsIv9ta-U7k
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 39:1
+- Duração: 18.4s
+- Publicado em: 2026-09-11T01:00:36+00:00
