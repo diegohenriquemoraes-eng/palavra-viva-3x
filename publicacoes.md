@@ -4118,3 +4118,19 @@
 - Item: short-1 — Salmo 39:1
 - Duração: 18.0s
 - Publicado em: 2026-09-11T01:17:09+00:00
+
+## [pt] oCpz5UNmLi4 — Salmos para Dormir — Salmo 39 Completo | Bíblia Falada
+
+- URL: https://youtu.be/oCpz5UNmLi4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 39
+- Duração: 1613.9s
+- Publicado em: 2026-09-11T05:41:33+00:00
+
+## [stoic] LFWjHmKjn30 — Hacer el bien sin mirar a quién
+
+- URL: https://youtu.be/LFWjHmKjn30
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 5:13
+- Duração: 20.8s
+- Publicado em: 2026-09-11T05:42:41+00:00

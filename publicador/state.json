@@ -3100,6 +3100,14 @@
           "video_id": "XsIv9ta-U7k",
           "titulo": "Salmo 39:1 — Eu dizia: Vigiarei os meus caminhos | Bíblia",
           "em": "2026-09-11T01:00:36+00:00"
+        },
+        {
+          "pacote": "2026-09-11-salmo-39-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "oCpz5UNmLi4",
+          "titulo": "Salmos para Dormir — Salmo 39 Completo | Bíblia Falada",
+          "em": "2026-09-11T05:41:33+00:00"
         }
       ],
       "ultimo_short": "2026-09-11T01:00:36+00:00",
@@ -3107,12 +3115,12 @@
         "data": "2026-09-11",
         "n": 1
       },
-      "longo_data": "2026-09-10",
+      "longo_data": "2026-09-11",
       "longos_dia": {
-        "data": "2026-09-10",
-        "n": 2
+        "data": "2026-09-11",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-10T12:21:32+00:00"
+      "ultimo_longo": "2026-09-11T05:41:33+00:00"
     },
     "stoic": {
       "publicados": [
@@ -3719,12 +3727,20 @@
           "video_id": "GFDS8g_BZfI",
           "titulo": "Alma mía, llevas un muerto encima",
           "em": "2026-09-10T19:22:24+00:00"
+        },
+        {
+          "pacote": "2026-09-11-hacer-el-bien-sin-cuentas",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "LFWjHmKjn30",
+          "titulo": "Hacer el bien sin mirar a quién",
+          "em": "2026-09-11T05:42:41+00:00"
         }
       ],
-      "ultimo_short": "2026-09-10T19:22:24+00:00",
+      "ultimo_short": "2026-09-11T05:42:41+00:00",
       "shorts_dia": {
-        "data": "2026-09-10",
-        "n": 3
+        "data": "2026-09-11",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
