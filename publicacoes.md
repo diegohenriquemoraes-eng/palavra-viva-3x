@@ -4110,3 +4110,11 @@
 - Item: short-1 — Salmo 39:1
 - Duração: 18.4s
 - Publicado em: 2026-09-11T01:00:36+00:00
+
+## [es] Q68TxeVZ5bw — Salmo 39:1 — Yo Dije: Atenderé a mis caminos | Biblia
+
+- URL: https://youtu.be/Q68TxeVZ5bw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 39:1
+- Duração: 18.0s
+- Publicado em: 2026-09-11T01:17:09+00:00
