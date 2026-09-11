@@ -3767,12 +3767,20 @@
           "video_id": "iW8AxS-9CfU",
           "titulo": "Lo que le debes a los demás no es poca cosa",
           "em": "2026-09-11T14:56:48+00:00"
+        },
+        {
+          "pacote": "2026-09-11-hacer-el-bien-sin-cuentas",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "cG9liq_3Bhw",
+          "titulo": "Apartarte de los demás es cortarte a ti mismo",
+          "em": "2026-09-11T19:55:29+00:00"
         }
       ],
-      "ultimo_short": "2026-09-11T14:56:48+00:00",
+      "ultimo_short": "2026-09-11T19:55:29+00:00",
       "shorts_dia": {
         "data": "2026-09-11",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

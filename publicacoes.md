@@ -4166,3 +4166,11 @@
 - Item: short-2 — Meditaciones 5:5
 - Duração: 18.2s
 - Publicado em: 2026-09-11T14:56:48+00:00
+
+## [stoic] cG9liq_3Bhw — Apartarte de los demás es cortarte a ti mismo
+
+- URL: https://youtu.be/cG9liq_3Bhw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 4:44
+- Duração: 23.8s
+- Publicado em: 2026-09-11T19:55:29+00:00
