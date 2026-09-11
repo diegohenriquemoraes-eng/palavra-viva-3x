@@ -4150,3 +4150,19 @@
 - Item: short-2 — Salmo 39:4
 - Duração: 17.2s
 - Publicado em: 2026-09-11T11:38:06+00:00
+
+## [pt] 0P-QK7Iibi0 — Salmos para Dormir — Salmo 41 Completo | Bíblia Falada
+
+- URL: https://youtu.be/0P-QK7Iibi0
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 41
+- Duração: 1586.8s
+- Publicado em: 2026-09-11T14:55:56+00:00
+
+## [stoic] iW8AxS-9CfU — Lo que le debes a los demás no es poca cosa
+
+- URL: https://youtu.be/iW8AxS-9CfU
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 5:5
+- Duração: 18.2s
+- Publicado em: 2026-09-11T14:56:48+00:00
