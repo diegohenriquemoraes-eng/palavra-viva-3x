@@ -4142,3 +4142,11 @@
 - Item: longo — Salmo 41
 - Duração: 1505.3s
 - Publicado em: 2026-09-11T10:29:38+00:00
+
+## [es] 0BVfk5paenw — Salmo 39:4 — Hazme saber, Jehová, mi fin, y cuánta | Biblia
+
+- URL: https://youtu.be/0BVfk5paenw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 39:4
+- Duração: 17.2s
+- Publicado em: 2026-09-11T11:38:06+00:00

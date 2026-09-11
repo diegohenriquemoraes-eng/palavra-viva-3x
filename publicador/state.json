@@ -1584,12 +1584,20 @@
           "video_id": "CmH8jvXkeaw",
           "titulo": "Salmos para Dormir — Salmo 41 Completo | Biblia Hablada",
           "em": "2026-09-11T10:29:38+00:00"
+        },
+        {
+          "pacote": "2026-09-11-salmo-39-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "0BVfk5paenw",
+          "titulo": "Salmo 39:4 — Hazme saber, Jehová, mi fin, y cuánta | Biblia",
+          "em": "2026-09-11T11:38:06+00:00"
         }
       ],
-      "ultimo_short": "2026-09-11T01:17:09+00:00",
+      "ultimo_short": "2026-09-11T11:38:06+00:00",
       "shorts_dia": {
         "data": "2026-09-11",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-11",
       "longos_dia": {
