@@ -1592,6 +1592,14 @@
           "video_id": "0BVfk5paenw",
           "titulo": "Salmo 39:4 — Hazme saber, Jehová, mi fin, y cuánta | Biblia",
           "em": "2026-09-11T11:38:06+00:00"
+        },
+        {
+          "pacote": "2026-09-12-salmo-44-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "YQieNiqKMx0",
+          "titulo": "Salmos para Dormir — Salmo 44 Completo | Biblia Hablada",
+          "em": "2026-09-12T01:17:56+00:00"
         }
       ],
       "ultimo_short": "2026-09-11T11:38:06+00:00",
@@ -1599,12 +1607,12 @@
         "data": "2026-09-11",
         "n": 2
       },
-      "longo_data": "2026-09-11",
+      "longo_data": "2026-09-12",
       "longos_dia": {
-        "data": "2026-09-11",
-        "n": 2
+        "data": "2026-09-12",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-11T10:29:38+00:00"
+      "ultimo_longo": "2026-09-12T01:17:56+00:00"
     },
     "en": {
       "publicados": [
@@ -3132,11 +3140,19 @@
           "video_id": "0P-QK7Iibi0",
           "titulo": "Salmos para Dormir — Salmo 41 Completo | Bíblia Falada",
           "em": "2026-09-11T14:55:56+00:00"
+        },
+        {
+          "pacote": "2026-09-12-salmo-44-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "M_yKvSv4SxE",
+          "titulo": "Salmo 44:1 — Ó Deus, com nossos ouvidos ouvimos, nossos | Bíblia",
+          "em": "2026-09-12T01:19:01+00:00"
         }
       ],
-      "ultimo_short": "2026-09-11T01:00:36+00:00",
+      "ultimo_short": "2026-09-12T01:19:01+00:00",
       "shorts_dia": {
-        "data": "2026-09-11",
+        "data": "2026-09-12",
         "n": 1
       },
       "longo_data": "2026-09-11",

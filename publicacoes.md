@@ -4174,3 +4174,19 @@
 - Item: short-3 — Meditaciones 4:44
 - Duração: 23.8s
 - Publicado em: 2026-09-11T19:55:29+00:00
+
+## [es] YQieNiqKMx0 — Salmos para Dormir — Salmo 44 Completo | Biblia Hablada
+
+- URL: https://youtu.be/YQieNiqKMx0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 44
+- Duração: 2792.3s
+- Publicado em: 2026-09-12T01:17:56+00:00
+
+## [pt] M_yKvSv4SxE — Salmo 44:1 — Ó Deus, com nossos ouvidos ouvimos, nossos | Bíblia
+
+- URL: https://youtu.be/M_yKvSv4SxE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 44:1
+- Duração: 18.0s
+- Publicado em: 2026-09-12T01:19:01+00:00
