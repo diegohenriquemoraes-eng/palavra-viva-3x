@@ -2103,5 +2103,70 @@
         "longos_publicados": 0
       }
     }
+  },
+  {
+    "data": "2026-09-12",
+    "janela_idade_d": [
+      2,
+      7
+    ],
+    "canais": {
+      "astucia": {
+        "shorts_na_janela": 0,
+        "views_medianas": null,
+        "eng_mediano": null,
+        "formatos_na_janela": [],
+        "videos_totais": 12,
+        "views_totais": 652,
+        "inscritos": 24,
+        "longos_publicados": 0
+      },
+      "en": {
+        "shorts_na_janela": 0,
+        "views_medianas": null,
+        "eng_mediano": null,
+        "formatos_na_janela": [],
+        "videos_totais": 32,
+        "views_totais": 1014,
+        "inscritos": 0,
+        "longos_publicados": 9
+      },
+      "es": {
+        "shorts_na_janela": 10,
+        "views_medianas": 207,
+        "eng_mediano": 4.16,
+        "formatos_na_janela": [
+          "novo"
+        ],
+        "videos_totais": 217,
+        "views_totais": 94333,
+        "inscritos": 352,
+        "longos_publicados": 75
+      },
+      "pt": {
+        "shorts_na_janela": 5,
+        "views_medianas": 51,
+        "eng_mediano": 2.3,
+        "formatos_na_janela": [
+          "novo"
+        ],
+        "videos_totais": 173,
+        "views_totais": 10982,
+        "inscritos": 91,
+        "longos_publicados": 70
+      },
+      "stoic": {
+        "shorts_na_janela": 15,
+        "views_medianas": 440,
+        "eng_mediano": 3.26,
+        "formatos_na_janela": [
+          "novo"
+        ],
+        "videos_totais": 84,
+        "views_totais": 53411,
+        "inscritos": 111,
+        "longos_publicados": 0
+      }
+    }
   }
 ]
