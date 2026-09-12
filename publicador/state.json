@@ -3831,12 +3831,20 @@
           "video_id": "MzbEsL4S4Xw",
           "titulo": "Enfadarse con las cosas es inútil: no se enteran",
           "em": "2026-09-12T05:42:01+00:00"
+        },
+        {
+          "pacote": "2026-09-12-la-ira",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "wM6ZprCHPBA",
+          "titulo": "Sabes fingir la cara, pero no ordenar la mente",
+          "em": "2026-09-12T13:16:26+00:00"
         }
       ],
-      "ultimo_short": "2026-09-12T05:42:01+00:00",
+      "ultimo_short": "2026-09-12T13:16:26+00:00",
       "shorts_dia": {
         "data": "2026-09-12",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

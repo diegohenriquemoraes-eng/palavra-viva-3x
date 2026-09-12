@@ -4230,3 +4230,11 @@
 - Item: short-2 — Salmo 44:8
 - Duração: 15.4s
 - Publicado em: 2026-09-12T11:01:38+00:00
+
+## [stoic] wM6ZprCHPBA — Sabes fingir la cara, pero no ordenar la mente
+
+- URL: https://youtu.be/wM6ZprCHPBA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 7:38
+- Duração: 24.6s
+- Publicado em: 2026-09-12T13:16:26+00:00
