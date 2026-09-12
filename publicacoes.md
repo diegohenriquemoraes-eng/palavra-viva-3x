@@ -4246,3 +4246,11 @@
 - Item: longo — Salmo 45
 - Duração: 2039.6s
 - Publicado em: 2026-09-12T14:35:18+00:00
+
+## [stoic] WmVpzCduyR8 — Nadie hace el mal a propósito
+
+- URL: https://youtu.be/WmVpzCduyR8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 12:18
+- Duração: 29.4s
+- Publicado em: 2026-09-12T18:54:07+00:00

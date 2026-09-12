@@ -3847,12 +3847,20 @@
           "video_id": "wM6ZprCHPBA",
           "titulo": "Sabes fingir la cara, pero no ordenar la mente",
           "em": "2026-09-12T13:16:26+00:00"
+        },
+        {
+          "pacote": "2026-09-12-la-ira",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "WmVpzCduyR8",
+          "titulo": "Nadie hace el mal a propósito",
+          "em": "2026-09-12T18:54:07+00:00"
         }
       ],
-      "ultimo_short": "2026-09-12T13:16:26+00:00",
+      "ultimo_short": "2026-09-12T18:54:07+00:00",
       "shorts_dia": {
         "data": "2026-09-12",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
