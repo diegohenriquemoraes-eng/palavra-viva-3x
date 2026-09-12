@@ -4198,3 +4198,19 @@
 - Item: short-1 — Salmo 44:1
 - Duração: 19.3s
 - Publicado em: 2026-09-12T01:20:45+00:00
+
+## [pt] JcZedUKFkVE — Salmos para Dormir — Salmo 44 Completo | Bíblia Falada
+
+- URL: https://youtu.be/JcZedUKFkVE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 44
+- Duração: 2873.5s
+- Publicado em: 2026-09-12T05:40:55+00:00
+
+## [stoic] MzbEsL4S4Xw — Enfadarse con las cosas es inútil: no se enteran
+
+- URL: https://youtu.be/MzbEsL4S4Xw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 7:39
+- Duração: 19.6s
+- Publicado em: 2026-09-12T05:42:01+00:00

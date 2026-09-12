@@ -3156,6 +3156,14 @@
           "video_id": "M_yKvSv4SxE",
           "titulo": "Salmo 44:1 — Ó Deus, com nossos ouvidos ouvimos, nossos | Bíblia",
           "em": "2026-09-12T01:19:01+00:00"
+        },
+        {
+          "pacote": "2026-09-12-salmo-44-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "JcZedUKFkVE",
+          "titulo": "Salmos para Dormir — Salmo 44 Completo | Bíblia Falada",
+          "em": "2026-09-12T05:40:55+00:00"
         }
       ],
       "ultimo_short": "2026-09-12T01:19:01+00:00",
@@ -3163,12 +3171,12 @@
         "data": "2026-09-12",
         "n": 1
       },
-      "longo_data": "2026-09-11",
+      "longo_data": "2026-09-12",
       "longos_dia": {
-        "data": "2026-09-11",
-        "n": 2
+        "data": "2026-09-12",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-11T14:55:56+00:00"
+      "ultimo_longo": "2026-09-12T05:40:55+00:00"
     },
     "stoic": {
       "publicados": [
@@ -3799,12 +3807,20 @@
           "video_id": "cG9liq_3Bhw",
           "titulo": "Apartarte de los demás es cortarte a ti mismo",
           "em": "2026-09-11T19:55:29+00:00"
+        },
+        {
+          "pacote": "2026-09-12-la-ira",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "MzbEsL4S4Xw",
+          "titulo": "Enfadarse con las cosas es inútil: no se enteran",
+          "em": "2026-09-12T05:42:01+00:00"
         }
       ],
-      "ultimo_short": "2026-09-11T19:55:29+00:00",
+      "ultimo_short": "2026-09-12T05:42:01+00:00",
       "shorts_dia": {
-        "data": "2026-09-11",
-        "n": 3
+        "data": "2026-09-12",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
