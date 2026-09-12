@@ -4190,3 +4190,11 @@
 - Item: short-1 — Salmo 44:1
 - Duração: 18.0s
 - Publicado em: 2026-09-12T01:19:01+00:00
+
+## [es] u2WJsCDgVpQ — Salmo 44:1 — Oh Dios, con nuestros oídos hemos oído | Biblia
+
+- URL: https://youtu.be/u2WJsCDgVpQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 44:1
+- Duração: 19.3s
+- Publicado em: 2026-09-12T01:20:45+00:00

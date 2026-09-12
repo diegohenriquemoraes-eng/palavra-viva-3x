@@ -1600,12 +1600,20 @@
           "video_id": "YQieNiqKMx0",
           "titulo": "Salmos para Dormir — Salmo 44 Completo | Biblia Hablada",
           "em": "2026-09-12T01:17:56+00:00"
+        },
+        {
+          "pacote": "2026-09-12-salmo-44-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "u2WJsCDgVpQ",
+          "titulo": "Salmo 44:1 — Oh Dios, con nuestros oídos hemos oído | Biblia",
+          "em": "2026-09-12T01:20:45+00:00"
         }
       ],
-      "ultimo_short": "2026-09-11T11:38:06+00:00",
+      "ultimo_short": "2026-09-12T01:20:45+00:00",
       "shorts_dia": {
-        "data": "2026-09-11",
-        "n": 2
+        "data": "2026-09-12",
+        "n": 1
       },
       "longo_data": "2026-09-12",
       "longos_dia": {
