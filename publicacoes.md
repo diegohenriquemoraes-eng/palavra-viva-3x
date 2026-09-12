@@ -4214,3 +4214,11 @@
 - Item: short-1 — Meditaciones 7:39
 - Duração: 19.6s
 - Publicado em: 2026-09-12T05:42:01+00:00
+
+## [es] TB-QEU7rHDs — Salmos para Dormir — Salmo 45 Completo | Biblia Hablada
+
+- URL: https://youtu.be/TB-QEU7rHDs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 45
+- Duração: 2021.7s
+- Publicado em: 2026-09-12T10:03:02+00:00

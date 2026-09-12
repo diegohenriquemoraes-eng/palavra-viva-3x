@@ -1608,6 +1608,14 @@
           "video_id": "u2WJsCDgVpQ",
           "titulo": "Salmo 44:1 — Oh Dios, con nuestros oídos hemos oído | Biblia",
           "em": "2026-09-12T01:20:45+00:00"
+        },
+        {
+          "pacote": "2026-09-12-salmo-45-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "TB-QEU7rHDs",
+          "titulo": "Salmos para Dormir — Salmo 45 Completo | Biblia Hablada",
+          "em": "2026-09-12T10:03:02+00:00"
         }
       ],
       "ultimo_short": "2026-09-12T01:20:45+00:00",
@@ -1618,9 +1626,9 @@
       "longo_data": "2026-09-12",
       "longos_dia": {
         "data": "2026-09-12",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-12T01:17:56+00:00"
+      "ultimo_longo": "2026-09-12T10:03:02+00:00"
     },
     "en": {
       "publicados": [
