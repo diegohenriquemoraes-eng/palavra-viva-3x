@@ -4238,3 +4238,11 @@
 - Item: short-2 — Meditaciones 7:38
 - Duração: 24.6s
 - Publicado em: 2026-09-12T13:16:26+00:00
+
+## [pt] YBI87cHEUaM — Salmos para Dormir — Salmo 45 Completo | Bíblia Falada
+
+- URL: https://youtu.be/YBI87cHEUaM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 45
+- Duração: 2039.6s
+- Publicado em: 2026-09-12T14:35:18+00:00
