@@ -3438,5 +3438,183 @@
         "playlist_pct_horas": 0.0
       }
     }
+  },
+  {
+    "medido_em": "2026-09-13",
+    "dias": 60,
+    "canais": {
+      "es": {
+        "janela": [
+          "2026-07-14",
+          "2026-09-11"
+        ],
+        "fontes": {
+          "NO_LINK_OTHER": {
+            "views": 63,
+            "horas": 6.3
+          },
+          "SUBSCRIBER": {
+            "views": 1680,
+            "horas": 90.8
+          },
+          "YT_CHANNEL": {
+            "views": 209,
+            "horas": 1.7
+          },
+          "YT_SEARCH": {
+            "views": 4206,
+            "horas": 14.8
+          },
+          "RELATED_VIDEO": {
+            "views": 2391,
+            "horas": 243.9
+          },
+          "YT_OTHER_PAGE": {
+            "views": 346,
+            "horas": 5.4
+          },
+          "EXT_URL": {
+            "views": 114,
+            "horas": 1.3
+          },
+          "PLAYLIST": {
+            "views": 24,
+            "horas": 0.1
+          },
+          "NOTIFICATION": {
+            "views": 6,
+            "horas": 0.1
+          },
+          "SHORTS": {
+            "views": 90608,
+            "horas": 196.3
+          },
+          "HASHTAGS": {
+            "views": 7,
+            "horas": 0.0
+          },
+          "SOUND_PAGE": {
+            "views": 24,
+            "horas": 0.0
+          },
+          "SHORTS_CONTENT_LINKS": {
+            "views": 1,
+            "horas": 0.0
+          }
+        },
+        "horas_total": 560.7,
+        "horas_contaveis": 364.4,
+        "horas_ano_projetadas": 2217,
+        "playlist_pct_horas": 0.02
+      },
+      "pt": {
+        "janela": [
+          "2026-07-14",
+          "2026-09-11"
+        ],
+        "fontes": {
+          "NO_LINK_OTHER": {
+            "views": 37,
+            "horas": 7.1
+          },
+          "SUBSCRIBER": {
+            "views": 426,
+            "horas": 16.4
+          },
+          "YT_CHANNEL": {
+            "views": 36,
+            "horas": 0.1
+          },
+          "YT_SEARCH": {
+            "views": 797,
+            "horas": 3.3
+          },
+          "RELATED_VIDEO": {
+            "views": 2093,
+            "horas": 185.3
+          },
+          "YT_OTHER_PAGE": {
+            "views": 89,
+            "horas": 5.8
+          },
+          "EXT_URL": {
+            "views": 24,
+            "horas": 0.7
+          },
+          "PLAYLIST": {
+            "views": 9,
+            "horas": 2.2
+          },
+          "SHORTS": {
+            "views": 7365,
+            "horas": 8.8
+          }
+        },
+        "horas_total": 229.7,
+        "horas_contaveis": 220.9,
+        "horas_ano_projetadas": 1344,
+        "playlist_pct_horas": 0.96
+      },
+      "stoic": {
+        "janela": [
+          "2026-07-14",
+          "2026-09-11"
+        ],
+        "fontes": {
+          "NO_LINK_OTHER": {
+            "views": 4,
+            "horas": 0.0
+          },
+          "SUBSCRIBER": {
+            "views": 17,
+            "horas": 0.0
+          },
+          "YT_CHANNEL": {
+            "views": 199,
+            "horas": 5.0
+          },
+          "YT_SEARCH": {
+            "views": 602,
+            "horas": 1.0
+          },
+          "RELATED_VIDEO": {
+            "views": 0,
+            "horas": 0.0
+          },
+          "YT_OTHER_PAGE": {
+            "views": 428,
+            "horas": 0.9
+          },
+          "EXT_URL": {
+            "views": 53,
+            "horas": 0.3
+          },
+          "PLAYLIST": {
+            "views": 2,
+            "horas": 0.0
+          },
+          "NOTIFICATION": {
+            "views": 8,
+            "horas": 0.0
+          },
+          "SHORTS": {
+            "views": 51525,
+            "horas": 137.8
+          },
+          "HASHTAGS": {
+            "views": 1,
+            "horas": 0.0
+          },
+          "SOUND_PAGE": {
+            "views": 13,
+            "horas": 0.1
+          }
+        },
+        "horas_total": 145.1,
+        "horas_contaveis": 7.3,
+        "horas_ano_projetadas": 44,
+        "playlist_pct_horas": 0.0
+      }
+    }
   }
 ]
