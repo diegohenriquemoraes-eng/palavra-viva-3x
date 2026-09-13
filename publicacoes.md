@@ -4326,3 +4326,11 @@
 - Item: short-2 — Salmo 49:5
 - Duração: 15.0s
 - Publicado em: 2026-09-13T12:57:53+00:00
+
+## [stoic] LqLOFSewgmg — Lo que temes de la muerte no puede pasarte
+
+- URL: https://youtu.be/LqLOFSewgmg
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 8:69
+- Duração: 32.3s
+- Publicado em: 2026-09-13T18:17:34+00:00

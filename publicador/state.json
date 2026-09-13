@@ -3927,12 +3927,20 @@
           "video_id": "D9bjf3Dt7mo",
           "titulo": "Cuatro preguntas para cualquier cosa",
           "em": "2026-09-13T11:06:18+00:00"
+        },
+        {
+          "pacote": "2026-09-13-desmontar-la-impresion",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "LqLOFSewgmg",
+          "titulo": "Lo que temes de la muerte no puede pasarte",
+          "em": "2026-09-13T18:17:34+00:00"
         }
       ],
-      "ultimo_short": "2026-09-13T11:06:18+00:00",
+      "ultimo_short": "2026-09-13T18:17:34+00:00",
       "shorts_dia": {
         "data": "2026-09-13",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
