@@ -4318,3 +4318,11 @@
 - Item: short-2 — Meditaciones 8:14
 - Duração: 23.0s
 - Publicado em: 2026-09-13T11:06:18+00:00
+
+## [es] Gdb4x3_quEk — Salmo 49:5 — ¿Por qué he de temer | Biblia
+
+- URL: https://youtu.be/Gdb4x3_quEk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 49:5
+- Duração: 15.0s
+- Publicado em: 2026-09-13T12:57:53+00:00

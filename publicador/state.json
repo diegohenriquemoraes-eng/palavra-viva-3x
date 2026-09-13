@@ -1648,12 +1648,20 @@
           "video_id": "3_1_6Hq0o5g",
           "titulo": "Salmos para Dormir — Salmo 50 Completo | Biblia Hablada",
           "em": "2026-09-13T10:44:20+00:00"
+        },
+        {
+          "pacote": "2026-09-13-salmo-49-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "Gdb4x3_quEk",
+          "titulo": "Salmo 49:5 — ¿Por qué he de temer | Biblia",
+          "em": "2026-09-13T12:57:53+00:00"
         }
       ],
-      "ultimo_short": "2026-09-13T02:07:00+00:00",
+      "ultimo_short": "2026-09-13T12:57:53+00:00",
       "shorts_dia": {
         "data": "2026-09-13",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-13",
       "longos_dia": {
