@@ -4270,3 +4270,27 @@
 - Item: short-1 — Salmo 49:1
 - Duração: 15.3s
 - Publicado em: 2026-09-13T00:24:51+00:00
+
+## [es] at62cYPVQAk — Salmo 49:1 — Oid esto, pueblos todos; escuchad, habitadores todos | Biblia
+
+- URL: https://youtu.be/at62cYPVQAk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 49:1
+- Duração: 15.1s
+- Publicado em: 2026-09-13T02:07:00+00:00
+
+## [pt] GzXlB1EQEN4 — Salmos para Dormir — Salmo 49 Completo | Bíblia Falada
+
+- URL: https://youtu.be/GzXlB1EQEN4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 49
+- Duração: 2264.7s
+- Publicado em: 2026-09-13T02:22:38+00:00
+
+## [stoic] NdHh-izXAic — Describe la cosa sin adornos y mira qué queda
+
+- URL: https://youtu.be/NdHh-izXAic
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 8:27
+- Duração: 29.7s
+- Publicado em: 2026-09-13T02:23:49+00:00

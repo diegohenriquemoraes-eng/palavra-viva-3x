@@ -1632,12 +1632,20 @@
           "video_id": "VsrfvFcyWOY",
           "titulo": "Salmos para Dormir — Salmo 49 Completo | Biblia Hablada",
           "em": "2026-09-13T00:24:12+00:00"
+        },
+        {
+          "pacote": "2026-09-13-salmo-49-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "at62cYPVQAk",
+          "titulo": "Salmo 49:1 — Oid esto, pueblos todos; escuchad, habitadores todos | Biblia",
+          "em": "2026-09-13T02:07:00+00:00"
         }
       ],
-      "ultimo_short": "2026-09-12T11:01:38+00:00",
+      "ultimo_short": "2026-09-13T02:07:00+00:00",
       "shorts_dia": {
-        "data": "2026-09-12",
-        "n": 2
+        "data": "2026-09-13",
+        "n": 1
       },
       "longo_data": "2026-09-13",
       "longos_dia": {
@@ -3204,6 +3212,14 @@
           "video_id": "8RK1BvzkNEY",
           "titulo": "Salmo 49:1 — Ouvi isto, vós todos os povos; dai | Bíblia",
           "em": "2026-09-13T00:24:51+00:00"
+        },
+        {
+          "pacote": "2026-09-13-salmo-49-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "GzXlB1EQEN4",
+          "titulo": "Salmos para Dormir — Salmo 49 Completo | Bíblia Falada",
+          "em": "2026-09-13T02:22:38+00:00"
         }
       ],
       "ultimo_short": "2026-09-13T00:24:51+00:00",
@@ -3211,12 +3227,12 @@
         "data": "2026-09-13",
         "n": 1
       },
-      "longo_data": "2026-09-12",
+      "longo_data": "2026-09-13",
       "longos_dia": {
-        "data": "2026-09-12",
-        "n": 2
+        "data": "2026-09-13",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-12T14:35:18+00:00"
+      "ultimo_longo": "2026-09-13T02:22:38+00:00"
     },
     "stoic": {
       "publicados": [
@@ -3871,12 +3887,20 @@
           "video_id": "WmVpzCduyR8",
           "titulo": "Nadie hace el mal a propósito",
           "em": "2026-09-12T18:54:07+00:00"
+        },
+        {
+          "pacote": "2026-09-13-desmontar-la-impresion",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "NdHh-izXAic",
+          "titulo": "Describe la cosa sin adornos y mira qué queda",
+          "em": "2026-09-13T02:23:49+00:00"
         }
       ],
-      "ultimo_short": "2026-09-12T18:54:07+00:00",
+      "ultimo_short": "2026-09-13T02:23:49+00:00",
       "shorts_dia": {
-        "data": "2026-09-12",
-        "n": 3
+        "data": "2026-09-13",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
