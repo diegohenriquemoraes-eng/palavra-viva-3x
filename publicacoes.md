@@ -4254,3 +4254,19 @@
 - Item: short-3 — Meditaciones 12:18
 - Duração: 29.4s
 - Publicado em: 2026-09-12T18:54:07+00:00
+
+## [es] VsrfvFcyWOY — Salmos para Dormir — Salmo 49 Completo | Biblia Hablada
+
+- URL: https://youtu.be/VsrfvFcyWOY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 49
+- Duração: 2146.1s
+- Publicado em: 2026-09-13T00:24:12+00:00
+
+## [pt] 8RK1BvzkNEY — Salmo 49:1 — Ouvi isto, vós todos os povos; dai | Bíblia
+
+- URL: https://youtu.be/8RK1BvzkNEY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 49:1
+- Duração: 15.3s
+- Publicado em: 2026-09-13T00:24:51+00:00

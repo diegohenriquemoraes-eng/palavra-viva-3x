@@ -1624,6 +1624,14 @@
           "video_id": "LMUNLTWphd8",
           "titulo": "Salmo 44:8 — En Dios nos gloriaremos todo tiempo | Biblia",
           "em": "2026-09-12T11:01:38+00:00"
+        },
+        {
+          "pacote": "2026-09-13-salmo-49-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "VsrfvFcyWOY",
+          "titulo": "Salmos para Dormir — Salmo 49 Completo | Biblia Hablada",
+          "em": "2026-09-13T00:24:12+00:00"
         }
       ],
       "ultimo_short": "2026-09-12T11:01:38+00:00",
@@ -1631,12 +1639,12 @@
         "data": "2026-09-12",
         "n": 2
       },
-      "longo_data": "2026-09-12",
+      "longo_data": "2026-09-13",
       "longos_dia": {
-        "data": "2026-09-12",
-        "n": 2
+        "data": "2026-09-13",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-12T10:03:02+00:00"
+      "ultimo_longo": "2026-09-13T00:24:12+00:00"
     },
     "en": {
       "publicados": [
@@ -3188,11 +3196,19 @@
           "video_id": "YBI87cHEUaM",
           "titulo": "Salmos para Dormir — Salmo 45 Completo | Bíblia Falada",
           "em": "2026-09-12T14:35:18+00:00"
+        },
+        {
+          "pacote": "2026-09-13-salmo-49-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "8RK1BvzkNEY",
+          "titulo": "Salmo 49:1 — Ouvi isto, vós todos os povos; dai | Bíblia",
+          "em": "2026-09-13T00:24:51+00:00"
         }
       ],
-      "ultimo_short": "2026-09-12T01:19:01+00:00",
+      "ultimo_short": "2026-09-13T00:24:51+00:00",
       "shorts_dia": {
-        "data": "2026-09-12",
+        "data": "2026-09-13",
         "n": 1
       },
       "longo_data": "2026-09-12",
