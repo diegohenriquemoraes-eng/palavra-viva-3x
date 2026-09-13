@@ -4294,3 +4294,27 @@
 - Item: short-1 — Meditaciones 8:27
 - Duração: 29.7s
 - Publicado em: 2026-09-13T02:23:49+00:00
+
+## [es] 3_1_6Hq0o5g — Salmos para Dormir — Salmo 50 Completo | Biblia Hablada
+
+- URL: https://youtu.be/3_1_6Hq0o5g
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 50
+- Duração: 2469.2s
+- Publicado em: 2026-09-13T10:44:20+00:00
+
+## [pt] tohm0GED7FM — Salmos para Dormir — Salmo 50 Completo | Bíblia Falada
+
+- URL: https://youtu.be/tohm0GED7FM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 50
+- Duração: 2560.6s
+- Publicado em: 2026-09-13T11:05:06+00:00
+
+## [stoic] D9bjf3Dt7mo — Cuatro preguntas para cualquier cosa
+
+- URL: https://youtu.be/D9bjf3Dt7mo
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 8:14
+- Duração: 23.0s
+- Publicado em: 2026-09-13T11:06:18+00:00
