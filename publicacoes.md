@@ -4406,3 +4406,11 @@
 - Item: longo — Salmo 53
 - Duração: 861.8s
 - Publicado em: 2026-09-14T15:33:22+00:00
+
+## [stoic] dMgXTKEWDFM — ¿De qué le sirves a nadie si te tuerces?
+
+- URL: https://youtu.be/dMgXTKEWDFM
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 31:5
+- Duração: 21.0s
+- Publicado em: 2026-09-14T19:32:00+00:00

@@ -4007,12 +4007,20 @@
           "video_id": "FORiAME4syU",
           "titulo": "Si te echas atrás, la burla se duplica",
           "em": "2026-09-14T14:29:06+00:00"
+        },
+        {
+          "pacote": "2026-09-14-lo-que-ganaste-al-no-ceder",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "dMgXTKEWDFM",
+          "titulo": "¿De qué le sirves a nadie si te tuerces?",
+          "em": "2026-09-14T19:32:00+00:00"
         }
       ],
-      "ultimo_short": "2026-09-14T14:29:06+00:00",
+      "ultimo_short": "2026-09-14T19:32:00+00:00",
       "shorts_dia": {
         "data": "2026-09-14",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
