@@ -4334,3 +4334,27 @@
 - Item: short-3 — Meditaciones 8:69
 - Duração: 32.3s
 - Publicado em: 2026-09-13T18:17:34+00:00
+
+## [es] wxNhytL4yN8 — Salmos para Dormir — Salmo 52 Completo | Biblia Hablada
+
+- URL: https://youtu.be/wxNhytL4yN8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 52
+- Duração: 1039.2s
+- Publicado em: 2026-09-14T01:29:09+00:00
+
+## [pt] _V5kRFOCBZo — Salmo 52:1 — Davi veio à casa de Aimeleque | Bíblia
+
+- URL: https://youtu.be/_V5kRFOCBZo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 52:1
+- Duração: 17.6s
+- Publicado em: 2026-09-14T01:30:15+00:00
+
+## [stoic] LUcULjwiYJo — No lo conseguiste, pero mira lo que no hiciste
+
+- URL: https://youtu.be/LUcULjwiYJo
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 32:4
+- Duração: 25.2s
+- Publicado em: 2026-09-14T01:31:34+00:00

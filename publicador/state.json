@@ -1656,6 +1656,14 @@
           "video_id": "Gdb4x3_quEk",
           "titulo": "Salmo 49:5 — ¿Por qué he de temer | Biblia",
           "em": "2026-09-13T12:57:53+00:00"
+        },
+        {
+          "pacote": "2026-09-14-salmo-52-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "wxNhytL4yN8",
+          "titulo": "Salmos para Dormir — Salmo 52 Completo | Biblia Hablada",
+          "em": "2026-09-14T01:29:09+00:00"
         }
       ],
       "ultimo_short": "2026-09-13T12:57:53+00:00",
@@ -1663,12 +1671,12 @@
         "data": "2026-09-13",
         "n": 2
       },
-      "longo_data": "2026-09-13",
+      "longo_data": "2026-09-14",
       "longos_dia": {
-        "data": "2026-09-13",
-        "n": 2
+        "data": "2026-09-14",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-13T10:44:20+00:00"
+      "ultimo_longo": "2026-09-14T01:29:09+00:00"
     },
     "en": {
       "publicados": [
@@ -3244,11 +3252,19 @@
           "video_id": "tohm0GED7FM",
           "titulo": "Salmos para Dormir — Salmo 50 Completo | Bíblia Falada",
           "em": "2026-09-13T11:05:06+00:00"
+        },
+        {
+          "pacote": "2026-09-14-salmo-52-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "_V5kRFOCBZo",
+          "titulo": "Salmo 52:1 — Davi veio à casa de Aimeleque | Bíblia",
+          "em": "2026-09-14T01:30:15+00:00"
         }
       ],
-      "ultimo_short": "2026-09-13T00:24:51+00:00",
+      "ultimo_short": "2026-09-14T01:30:15+00:00",
       "shorts_dia": {
-        "data": "2026-09-13",
+        "data": "2026-09-14",
         "n": 1
       },
       "longo_data": "2026-09-13",
@@ -3935,12 +3951,20 @@
           "video_id": "LqLOFSewgmg",
           "titulo": "Lo que temes de la muerte no puede pasarte",
           "em": "2026-09-13T18:17:34+00:00"
+        },
+        {
+          "pacote": "2026-09-14-lo-que-ganaste-al-no-ceder",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "LUcULjwiYJo",
+          "titulo": "No lo conseguiste, pero mira lo que no hiciste",
+          "em": "2026-09-14T01:31:34+00:00"
         }
       ],
-      "ultimo_short": "2026-09-13T18:17:34+00:00",
+      "ultimo_short": "2026-09-14T01:31:34+00:00",
       "shorts_dia": {
-        "data": "2026-09-13",
-        "n": 3
+        "data": "2026-09-14",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
