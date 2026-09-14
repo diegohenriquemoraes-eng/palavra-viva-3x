@@ -4374,3 +4374,27 @@
 - Item: longo — Salmo 52
 - Duração: 1115.9s
 - Publicado em: 2026-09-14T02:36:28+00:00
+
+## [es] yCrO-K-tyzc — Salmo 52:3 — Amaste el mal más que el bien | Biblia
+
+- URL: https://youtu.be/yCrO-K-tyzc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 52:3
+- Duração: 13.8s
+- Publicado em: 2026-09-14T14:19:02+00:00
+
+## [pt] clRGo26L9Gk — Salmos para Dormir — Salmo 53 Completo | Bíblia Falada
+
+- URL: https://youtu.be/clRGo26L9Gk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 53
+- Duração: 886.5s
+- Publicado em: 2026-09-14T14:27:58+00:00
+
+## [stoic] FORiAME4syU — Si te echas atrás, la burla se duplica
+
+- URL: https://youtu.be/FORiAME4syU
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 30:2
+- Duração: 25.7s
+- Publicado em: 2026-09-14T14:29:06+00:00
