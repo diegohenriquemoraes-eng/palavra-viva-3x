@@ -4398,3 +4398,11 @@
 - Item: short-2 — Enquiridión 30:2
 - Duração: 25.7s
 - Publicado em: 2026-09-14T14:29:06+00:00
+
+## [es] r96zwnsjBe8 — Salmos para Dormir — Salmo 53 Completo | Biblia Hablada
+
+- URL: https://youtu.be/r96zwnsjBe8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 53
+- Duração: 861.8s
+- Publicado em: 2026-09-14T15:33:22+00:00
