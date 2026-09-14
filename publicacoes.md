@@ -4358,3 +4358,19 @@
 - Item: short-1 — Enquiridión 32:4
 - Duração: 25.2s
 - Publicado em: 2026-09-14T01:31:34+00:00
+
+## [es] SvhwZPTuvOE — Salmo 52:1 — ¿Por qué te glorías de maldad, oh | Biblia
+
+- URL: https://youtu.be/SvhwZPTuvOE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 52:1
+- Duração: 15.6s
+- Publicado em: 2026-09-14T02:24:47+00:00
+
+## [pt] PjMxw4QgwGo — Salmos para Dormir — Salmo 52 Completo | Bíblia Falada
+
+- URL: https://youtu.be/PjMxw4QgwGo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 52
+- Duração: 1115.9s
+- Publicado em: 2026-09-14T02:36:28+00:00

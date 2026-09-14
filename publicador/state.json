@@ -1664,12 +1664,20 @@
           "video_id": "wxNhytL4yN8",
           "titulo": "Salmos para Dormir — Salmo 52 Completo | Biblia Hablada",
           "em": "2026-09-14T01:29:09+00:00"
+        },
+        {
+          "pacote": "2026-09-14-salmo-52-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "SvhwZPTuvOE",
+          "titulo": "Salmo 52:1 — ¿Por qué te glorías de maldad, oh | Biblia",
+          "em": "2026-09-14T02:24:47+00:00"
         }
       ],
-      "ultimo_short": "2026-09-13T12:57:53+00:00",
+      "ultimo_short": "2026-09-14T02:24:47+00:00",
       "shorts_dia": {
-        "data": "2026-09-13",
-        "n": 2
+        "data": "2026-09-14",
+        "n": 1
       },
       "longo_data": "2026-09-14",
       "longos_dia": {
@@ -3260,6 +3268,14 @@
           "video_id": "_V5kRFOCBZo",
           "titulo": "Salmo 52:1 — Davi veio à casa de Aimeleque | Bíblia",
           "em": "2026-09-14T01:30:15+00:00"
+        },
+        {
+          "pacote": "2026-09-14-salmo-52-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "PjMxw4QgwGo",
+          "titulo": "Salmos para Dormir — Salmo 52 Completo | Bíblia Falada",
+          "em": "2026-09-14T02:36:28+00:00"
         }
       ],
       "ultimo_short": "2026-09-14T01:30:15+00:00",
@@ -3267,12 +3283,12 @@
         "data": "2026-09-14",
         "n": 1
       },
-      "longo_data": "2026-09-13",
+      "longo_data": "2026-09-14",
       "longos_dia": {
-        "data": "2026-09-13",
-        "n": 2
+        "data": "2026-09-14",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-13T11:05:06+00:00"
+      "ultimo_longo": "2026-09-14T02:36:28+00:00"
     },
     "stoic": {
       "publicados": [
