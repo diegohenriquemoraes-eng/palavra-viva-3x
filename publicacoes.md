@@ -4446,3 +4446,11 @@
 - Item: longo — Salmo 54
 - Duração: 818.3s
 - Publicado em: 2026-09-15T02:40:27+00:00
+
+## [stoic] AUtXkH39J7A — Mira los astros como quien gira con ellos
+
+- URL: https://youtu.be/AUtXkH39J7A
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 7:46
+- Duração: 27.0s
+- Publicado em: 2026-09-15T07:56:47+00:00

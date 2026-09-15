@@ -4047,12 +4047,20 @@
           "video_id": "dMgXTKEWDFM",
           "titulo": "¿De qué le sirves a nadie si te tuerces?",
           "em": "2026-09-14T19:32:00+00:00"
+        },
+        {
+          "pacote": "2026-09-15-el-cielo-de-noche",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "AUtXkH39J7A",
+          "titulo": "Mira los astros como quien gira con ellos",
+          "em": "2026-09-15T07:56:47+00:00"
         }
       ],
-      "ultimo_short": "2026-09-14T19:32:00+00:00",
+      "ultimo_short": "2026-09-15T07:56:47+00:00",
       "shorts_dia": {
-        "data": "2026-09-14",
-        "n": 3
+        "data": "2026-09-15",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
