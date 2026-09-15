@@ -4430,3 +4430,19 @@
 - Item: short-1 — Salmo 54:2
 - Duração: 14.2s
 - Publicado em: 2026-09-15T01:44:45+00:00
+
+## [es] A5cPIJ1L_uc — Salmo 54:2 — Oh Dios, oye mi oración; escucha | Biblia
+
+- URL: https://youtu.be/A5cPIJ1L_uc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 54:2
+- Duração: 14.0s
+- Publicado em: 2026-09-15T02:30:05+00:00
+
+## [pt] M2Sv-7f2ToE — Salmos para Dormir — Salmo 54 Completo | Bíblia Falada
+
+- URL: https://youtu.be/M2Sv-7f2ToE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 54
+- Duração: 818.3s
+- Publicado em: 2026-09-15T02:40:27+00:00
