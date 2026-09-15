@@ -4478,3 +4478,11 @@
 - Item: short-2 — Meditaciones 7:26
 - Duração: 25.9s
 - Publicado em: 2026-09-15T14:09:06+00:00
+
+## [es] 5r13-U9LOCc — Salmo 54:3 — Porque extraños se han levantado contra mí | Biblia
+
+- URL: https://youtu.be/5r13-U9LOCc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 54:3
+- Duração: 16.6s
+- Publicado em: 2026-09-15T14:10:58+00:00

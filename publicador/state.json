@@ -1712,12 +1712,20 @@
           "video_id": "juu9xJt5VCo",
           "titulo": "Salmos para Dormir — Salmo 58 Completo | Biblia Hablada",
           "em": "2026-09-15T13:56:17+00:00"
+        },
+        {
+          "pacote": "2026-09-15-salmo-54-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "5r13-U9LOCc",
+          "titulo": "Salmo 54:3 — Porque extraños se han levantado contra mí | Biblia",
+          "em": "2026-09-15T14:10:58+00:00"
         }
       ],
-      "ultimo_short": "2026-09-15T02:30:05+00:00",
+      "ultimo_short": "2026-09-15T14:10:58+00:00",
       "shorts_dia": {
         "data": "2026-09-15",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-15",
       "longos_dia": {
