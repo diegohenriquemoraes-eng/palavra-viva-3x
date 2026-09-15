@@ -1,0 +1,179 @@
+{
+  "slug": "el-juicio-de-los-demas",
+  "formato": "tema",
+  "data": "2026-09-17",
+  "criado_em": "2026-09-15T04:58:07+00:00",
+  "aprovado_em": "2026-09-15T04:58:07+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 3:1-42",
+      "Meditaciones 2:1-37"
+    ],
+    "titulo": {
+      "stoic": "Deja de Vivir Pendiente de lo Que Dirán | Marco Aurelio"
+    },
+    "thumb_titulo": {
+      "stoic": "LO QUE\nDIRAN"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones II-III"
+    },
+    "abertura": {
+      "stoic": "El último libro de las Meditaciones lo escribió un hombre que sabía que se estaba muriendo. Por eso es el más directo sobre lo poco que importa la opinión ajena."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "que diran los demas",
+        "estoicismo practico"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "Los libros II y III de las Meditaciones de Marco Aurelio, narrados en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 12:13",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Piensa en cómo quieres que te encuentre el final"
+      },
+      "aplicacao": "No es morbo: es cómo se ordena hoy lo que quieres que quede.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 11:14",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "¿Y si esta vida ya sirve para lo que buscas?"
+      },
+      "aplicacao": "Esperas otras circunstancias para empezar. Comprueba si las de ahora no bastan ya.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 7:79",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Lo que no te hace más sabio ni más útil, sobra"
+      },
+      "aplicacao": "Pásale este filtro a tu semana. Lo que no pase, no necesita explicación: necesita salir.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Storm_clouds_formation1.jpg/1920px-Storm_clouds_formation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 9:27",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Ya has visto todo esto antes"
+      },
+      "aplicacao": "Ya le pasó a todos los que vinieron antes. Eso lo hace soportable.",
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Busan_fishing_harbor_at_night_10.jpg/1920px-Busan_fishing_harbor_at_night_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_10.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
