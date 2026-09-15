@@ -4414,3 +4414,19 @@
 - Item: short-3 — Enquiridión 31:5
 - Duração: 21.0s
 - Publicado em: 2026-09-14T19:32:00+00:00
+
+## [es] J4Xf1tq-cs4 — Salmos para Dormir — Salmo 54 Completo | Biblia Hablada
+
+- URL: https://youtu.be/J4Xf1tq-cs4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 54
+- Duração: 644.3s
+- Publicado em: 2026-09-15T01:43:47+00:00
+
+## [pt] IDszAtYtFJ4 — Salmo 54:2 — Deus, ouve minha oração; inclina teus ouvidos | Bíblia
+
+- URL: https://youtu.be/IDszAtYtFJ4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 54:2
+- Duração: 14.2s
+- Publicado em: 2026-09-15T01:44:45+00:00

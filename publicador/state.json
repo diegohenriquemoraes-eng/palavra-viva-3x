@@ -1688,6 +1688,14 @@
           "video_id": "r96zwnsjBe8",
           "titulo": "Salmos para Dormir — Salmo 53 Completo | Biblia Hablada",
           "em": "2026-09-14T15:33:22+00:00"
+        },
+        {
+          "pacote": "2026-09-15-salmo-54-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "J4Xf1tq-cs4",
+          "titulo": "Salmos para Dormir — Salmo 54 Completo | Biblia Hablada",
+          "em": "2026-09-15T01:43:47+00:00"
         }
       ],
       "ultimo_short": "2026-09-14T14:19:02+00:00",
@@ -1695,12 +1703,12 @@
         "data": "2026-09-14",
         "n": 2
       },
-      "longo_data": "2026-09-14",
+      "longo_data": "2026-09-15",
       "longos_dia": {
-        "data": "2026-09-14",
-        "n": 2
+        "data": "2026-09-15",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-14T15:33:22+00:00"
+      "ultimo_longo": "2026-09-15T01:43:47+00:00"
     },
     "en": {
       "publicados": [
@@ -3300,11 +3308,19 @@
           "video_id": "clRGo26L9Gk",
           "titulo": "Salmos para Dormir — Salmo 53 Completo | Bíblia Falada",
           "em": "2026-09-14T14:27:58+00:00"
+        },
+        {
+          "pacote": "2026-09-15-salmo-54-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "IDszAtYtFJ4",
+          "titulo": "Salmo 54:2 — Deus, ouve minha oração; inclina teus ouvidos | Bíblia",
+          "em": "2026-09-15T01:44:45+00:00"
         }
       ],
-      "ultimo_short": "2026-09-14T01:30:15+00:00",
+      "ultimo_short": "2026-09-15T01:44:45+00:00",
       "shorts_dia": {
-        "data": "2026-09-14",
+        "data": "2026-09-15",
         "n": 1
       },
       "longo_data": "2026-09-14",
