@@ -1704,6 +1704,14 @@
           "video_id": "A5cPIJ1L_uc",
           "titulo": "Salmo 54:2 — Oh Dios, oye mi oración; escucha | Biblia",
           "em": "2026-09-15T02:30:05+00:00"
+        },
+        {
+          "pacote": "2026-09-15-salmo-58-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "juu9xJt5VCo",
+          "titulo": "Salmos para Dormir — Salmo 58 Completo | Biblia Hablada",
+          "em": "2026-09-15T13:56:17+00:00"
         }
       ],
       "ultimo_short": "2026-09-15T02:30:05+00:00",
@@ -1714,9 +1722,9 @@
       "longo_data": "2026-09-15",
       "longos_dia": {
         "data": "2026-09-15",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-15T01:43:47+00:00"
+      "ultimo_longo": "2026-09-15T13:56:17+00:00"
     },
     "en": {
       "publicados": [
@@ -3332,6 +3340,14 @@
           "video_id": "M2Sv-7f2ToE",
           "titulo": "Salmos para Dormir — Salmo 54 Completo | Bíblia Falada",
           "em": "2026-09-15T02:40:27+00:00"
+        },
+        {
+          "pacote": "2026-09-15-salmo-58-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "uEkErlKPJy0",
+          "titulo": "Salmos para Dormir — Salmo 58 Completo | Bíblia Falada",
+          "em": "2026-09-15T14:07:54+00:00"
         }
       ],
       "ultimo_short": "2026-09-15T01:44:45+00:00",
@@ -3342,9 +3358,9 @@
       "longo_data": "2026-09-15",
       "longos_dia": {
         "data": "2026-09-15",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-15T02:40:27+00:00"
+      "ultimo_longo": "2026-09-15T14:07:54+00:00"
     },
     "stoic": {
       "publicados": [
@@ -4055,12 +4071,20 @@
           "video_id": "AUtXkH39J7A",
           "titulo": "Mira los astros como quien gira con ellos",
           "em": "2026-09-15T07:56:47+00:00"
+        },
+        {
+          "pacote": "2026-09-15-el-cielo-de-noche",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "0ray5lzPvZE",
+          "titulo": "El mundo se rehace mientras duermes",
+          "em": "2026-09-15T14:09:06+00:00"
         }
       ],
-      "ultimo_short": "2026-09-15T07:56:47+00:00",
+      "ultimo_short": "2026-09-15T14:09:06+00:00",
       "shorts_dia": {
         "data": "2026-09-15",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

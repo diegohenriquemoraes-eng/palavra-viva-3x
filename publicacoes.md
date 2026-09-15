@@ -4454,3 +4454,27 @@
 - Item: short-1 — Meditaciones 7:46
 - Duração: 27.0s
 - Publicado em: 2026-09-15T07:56:47+00:00
+
+## [es] juu9xJt5VCo — Salmos para Dormir — Salmo 58 Completo | Biblia Hablada
+
+- URL: https://youtu.be/juu9xJt5VCo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 58
+- Duração: 1293.5s
+- Publicado em: 2026-09-15T13:56:17+00:00
+
+## [pt] uEkErlKPJy0 — Salmos para Dormir — Salmo 58 Completo | Bíblia Falada
+
+- URL: https://youtu.be/uEkErlKPJy0
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 58
+- Duração: 1375.5s
+- Publicado em: 2026-09-15T14:07:54+00:00
+
+## [stoic] 0ray5lzPvZE — El mundo se rehace mientras duermes
+
+- URL: https://youtu.be/0ray5lzPvZE
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 7:26
+- Duração: 25.9s
+- Publicado em: 2026-09-15T14:09:06+00:00
