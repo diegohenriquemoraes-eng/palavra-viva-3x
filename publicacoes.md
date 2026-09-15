@@ -4486,3 +4486,11 @@
 - Item: short-2 — Salmo 54:3
 - Duração: 16.6s
 - Publicado em: 2026-09-15T14:10:58+00:00
+
+## [stoic] wLxSCd2CDjk — La memoria de todo acaba enterrada
+
+- URL: https://youtu.be/wLxSCd2CDjk
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 7:10
+- Duração: 27.9s
+- Publicado em: 2026-09-15T20:51:06+00:00
