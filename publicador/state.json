@@ -1736,6 +1736,14 @@
           "video_id": "E4YeCQUA2dU",
           "titulo": "Salmo 59:1 — Líbrame de mis enemigos, oh Dios mío | Biblia",
           "em": "2026-09-16T02:24:16+00:00"
+        },
+        {
+          "pacote": "2026-09-16-salmo-60-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "99v0K-6ULMc",
+          "titulo": "Salmos para Dormir — Salmo 60 Completo | Biblia Hablada",
+          "em": "2026-09-16T12:03:43+00:00"
         }
       ],
       "ultimo_short": "2026-09-16T02:24:16+00:00",
@@ -1746,9 +1754,9 @@
       "longo_data": "2026-09-16",
       "longos_dia": {
         "data": "2026-09-16",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-16T00:56:25+00:00"
+      "ultimo_longo": "2026-09-16T12:03:43+00:00"
     },
     "en": {
       "publicados": [
@@ -3388,6 +3396,14 @@
           "video_id": "5BRbZvJ2TWI",
           "titulo": "Salmos para Dormir — Salmo 59 Completo | Bíblia Falada",
           "em": "2026-09-16T02:37:58+00:00"
+        },
+        {
+          "pacote": "2026-09-16-salmo-60-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "cPtqf9tEENc",
+          "titulo": "Salmos para Dormir — Salmo 60 Completo | Bíblia Falada",
+          "em": "2026-09-16T12:14:07+00:00"
         }
       ],
       "ultimo_short": "2026-09-16T00:57:24+00:00",
@@ -3398,9 +3414,9 @@
       "longo_data": "2026-09-16",
       "longos_dia": {
         "data": "2026-09-16",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-16T02:37:58+00:00"
+      "ultimo_longo": "2026-09-16T12:14:07+00:00"
     },
     "stoic": {
       "publicados": [

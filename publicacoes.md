@@ -4534,3 +4534,19 @@
 - Item: short-1 — Meditaciones 10:27
 - Duração: 25.5s
 - Publicado em: 2026-09-16T06:17:40+00:00
+
+## [es] 99v0K-6ULMc — Salmos para Dormir — Salmo 60 Completo | Biblia Hablada
+
+- URL: https://youtu.be/99v0K-6ULMc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 60
+- Duração: 1312.1s
+- Publicado em: 2026-09-16T12:03:43+00:00
+
+## [pt] cPtqf9tEENc — Salmos para Dormir — Salmo 60 Completo | Bíblia Falada
+
+- URL: https://youtu.be/cPtqf9tEENc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 60
+- Duração: 1382.2s
+- Publicado em: 2026-09-16T12:14:07+00:00
