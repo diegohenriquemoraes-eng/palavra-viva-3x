@@ -4550,3 +4550,19 @@
 - Item: longo — Salmo 60
 - Duração: 1382.2s
 - Publicado em: 2026-09-16T12:14:07+00:00
+
+## [es] _nEGCSqk54c — Salmo 59:5 — Y tú, Jehová Dios de los ejércitos | Biblia
+
+- URL: https://youtu.be/_nEGCSqk54c
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 59:5
+- Duração: 21.5s
+- Publicado em: 2026-09-16T13:54:18+00:00
+
+## [stoic] IiRJgK4AOms — Date prisa, y no por lo que crees
+
+- URL: https://youtu.be/IiRJgK4AOms
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 3:3
+- Duração: 24.2s
+- Publicado em: 2026-09-16T13:55:24+00:00
