@@ -4510,3 +4510,19 @@
 - Item: short-1 — Salmo 59:1
 - Duração: 15.4s
 - Publicado em: 2026-09-16T00:57:24+00:00
+
+## [es] E4YeCQUA2dU — Salmo 59:1 — Líbrame de mis enemigos, oh Dios mío | Biblia
+
+- URL: https://youtu.be/E4YeCQUA2dU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 59:1
+- Duração: 15.7s
+- Publicado em: 2026-09-16T02:24:16+00:00
+
+## [pt] 5BRbZvJ2TWI — Salmos para Dormir — Salmo 59 Completo | Bíblia Falada
+
+- URL: https://youtu.be/5BRbZvJ2TWI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 59
+- Duração: 2126.7s
+- Publicado em: 2026-09-16T02:37:58+00:00
