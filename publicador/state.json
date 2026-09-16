@@ -1720,6 +1720,14 @@
           "video_id": "5r13-U9LOCc",
           "titulo": "Salmo 54:3 — Porque extraños se han levantado contra mí | Biblia",
           "em": "2026-09-15T14:10:58+00:00"
+        },
+        {
+          "pacote": "2026-09-16-salmo-59-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "lzEtFQzOBsk",
+          "titulo": "Salmos para Dormir — Salmo 59 Completo | Biblia Hablada",
+          "em": "2026-09-16T00:56:25+00:00"
         }
       ],
       "ultimo_short": "2026-09-15T14:10:58+00:00",
@@ -1727,12 +1735,12 @@
         "data": "2026-09-15",
         "n": 2
       },
-      "longo_data": "2026-09-15",
+      "longo_data": "2026-09-16",
       "longos_dia": {
-        "data": "2026-09-15",
-        "n": 2
+        "data": "2026-09-16",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-15T13:56:17+00:00"
+      "ultimo_longo": "2026-09-16T00:56:25+00:00"
     },
     "en": {
       "publicados": [
@@ -3356,11 +3364,19 @@
           "video_id": "uEkErlKPJy0",
           "titulo": "Salmos para Dormir — Salmo 58 Completo | Bíblia Falada",
           "em": "2026-09-15T14:07:54+00:00"
+        },
+        {
+          "pacote": "2026-09-16-salmo-59-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "wRq59vmEFH0",
+          "titulo": "Salmo 59:1 — Livra-me de meus inimigos, ó Deus | Bíblia",
+          "em": "2026-09-16T00:57:24+00:00"
         }
       ],
-      "ultimo_short": "2026-09-15T01:44:45+00:00",
+      "ultimo_short": "2026-09-16T00:57:24+00:00",
       "shorts_dia": {
-        "data": "2026-09-15",
+        "data": "2026-09-16",
         "n": 1
       },
       "longo_data": "2026-09-15",

@@ -4494,3 +4494,19 @@
 - Item: short-3 — Meditaciones 7:10
 - Duração: 27.9s
 - Publicado em: 2026-09-15T20:51:06+00:00
+
+## [es] lzEtFQzOBsk — Salmos para Dormir — Salmo 59 Completo | Biblia Hablada
+
+- URL: https://youtu.be/lzEtFQzOBsk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 59
+- Duração: 2009.5s
+- Publicado em: 2026-09-16T00:56:25+00:00
+
+## [pt] wRq59vmEFH0 — Salmo 59:1 — Livra-me de meus inimigos, ó Deus | Bíblia
+
+- URL: https://youtu.be/wRq59vmEFH0
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 59:1
+- Duração: 15.4s
+- Publicado em: 2026-09-16T00:57:24+00:00
