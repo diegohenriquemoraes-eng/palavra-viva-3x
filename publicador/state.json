@@ -4127,12 +4127,20 @@
           "video_id": "wLxSCd2CDjk",
           "titulo": "La memoria de todo acaba enterrada",
           "em": "2026-09-15T20:51:06+00:00"
+        },
+        {
+          "pacote": "2026-09-16-la-prisa-y-la-calma",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "IJ5Pc3gN-Pk",
+          "titulo": "Rápido en el obrar, tranquilo por dentro",
+          "em": "2026-09-16T06:17:40+00:00"
         }
       ],
-      "ultimo_short": "2026-09-15T20:51:06+00:00",
+      "ultimo_short": "2026-09-16T06:17:40+00:00",
       "shorts_dia": {
-        "data": "2026-09-15",
-        "n": 3
+        "data": "2026-09-16",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

@@ -4526,3 +4526,11 @@
 - Item: longo — Salmo 59
 - Duração: 2126.7s
 - Publicado em: 2026-09-16T02:37:58+00:00
+
+## [stoic] IJ5Pc3gN-Pk — Rápido en el obrar, tranquilo por dentro
+
+- URL: https://youtu.be/IJ5Pc3gN-Pk
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 10:27
+- Duração: 25.5s
+- Publicado em: 2026-09-16T06:17:40+00:00
