@@ -4167,12 +4167,20 @@
           "video_id": "IiRJgK4AOms",
           "titulo": "Date prisa, y no por lo que crees",
           "em": "2026-09-16T13:55:24+00:00"
+        },
+        {
+          "pacote": "2026-09-16-la-prisa-y-la-calma",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "elUlD5HA66o",
+          "titulo": "Ejercítate en ver cómo todo se transforma",
+          "em": "2026-09-16T20:19:26+00:00"
         }
       ],
-      "ultimo_short": "2026-09-16T13:55:24+00:00",
+      "ultimo_short": "2026-09-16T20:19:26+00:00",
       "shorts_dia": {
         "data": "2026-09-16",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

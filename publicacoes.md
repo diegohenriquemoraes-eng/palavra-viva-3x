@@ -4566,3 +4566,11 @@
 - Item: short-2 — Meditaciones 3:3
 - Duração: 24.2s
 - Publicado em: 2026-09-16T13:55:24+00:00
+
+## [stoic] elUlD5HA66o — Ejercítate en ver cómo todo se transforma
+
+- URL: https://youtu.be/elUlD5HA66o
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 10:23
+- Duração: 27.4s
+- Publicado em: 2026-09-16T20:19:26+00:00
