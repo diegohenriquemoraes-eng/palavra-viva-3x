@@ -1,5 +1,19 @@
 # Canais — painel único, estado em 16/09/2026
 
+## 16/09/2026 — @psicologiafria.br: viraliza e não cresce; ROTA 100K aplicado (2ª rodada)
+
+Insights da conta, 30 dias: **58 mil views, 31,9 mil alcançados (99,5 % não seguidores), 126
+visitas ao perfil, 148 seguidores ganhos (+5/dia), 173 no total**. 50 dos 90 Reels passam do
+número de seguidores — pela definição do Afonso o perfil "viraliza" todo dia e converte 0,46 %.
+Quem segue, segue de dentro do Reel (148 seguidores para 126 visitas), e a única chamada de seguir
+estava na legenda. Entrou, tudo pelo método: **CTA falado de SEGUIR** com a linha de transformação
+(voz igual), **botão "Seguir"** queimado na moldura, **136 títulos da fila reescritos como gancho
+modelado** dos nossos campeões (v4, narração intacta), **carrossel neutro 1/dia às 7h** do Reel
+campeão (2º formato), e o `seguidores.json` — que o runner media e jogava fora desde 02/09 —
+passou a ser commitado. Réguas: **01/10** (seguidor/dia ≥ 10 contra 5) e **≈20/09** (v4 x v3 em
+segundos). Detalhe em `psicologia-fria\ROTA100K-APLICADO.md`. Pendente do Diego: bio TAC + 3
+destaques (`marca/bio-instagram.md`), seguir ~80 perfis/dia no app, R$ 180 de tráfego.
+
 ## 16/09/2026 — o número que ninguém media: quem PULA nos 3 primeiros segundos
 
 Lido no Studio (a API não dá): "continuaram assistindo vs. pularam", 28 dias — **stoic 41 %,
@@ -142,7 +156,7 @@ agenda, orçamento de cota, coerência da config e integridade dos poços.
 | **La Noche Estoica** `@LaNocheEstoica` | YouTube ES | **3 Shorts/dia desde 22/08** (era 1), 01 UTC | `Palavra-Viva-3x` | Gmail pessoal |
 | **Sabiduría** (nome a definir) | YouTube ES | ⏳ **preparado, canal ainda não existe** | `Palavra-Viva-3x` | — |
 | **Astucia Fría** `@AstuciaFria` | YouTube ES | 1 Short/dia, 01 UTC | `psicologia-fria` ⚠ | Gmail pessoal |
-| **@psicologiafria.br** | Instagram | 7 Reels/dia | `psicologia-fria` | — |
+| **@psicologiafria.br** | Instagram | 7 Reels/dia **+ 1 carrossel (7h) desde 17/09** | `psicologia-fria` | — |
 | **@VendanaObra** | YouTube PT | manual | — | `diego@perffec.com.br` |
 
 ⚠ **Astucia Fría mudou de motor em 15/08**: deixou de publicar Gracián pelo `Palavra-Viva-3x`
