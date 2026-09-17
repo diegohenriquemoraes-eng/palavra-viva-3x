@@ -6,13 +6,26 @@ name: Aplicar capas
 #
 # Manual: 50 unidades de cota por vídeo, e não deve concorrer com a publicação
 # do dia (mesma trava de concorrência do publicador).
+#
+# 16/09/2026: também AGENDADO, 07:20 UTC, logo depois do Realinhar (07:10) e
+# antes do Short das ~07:30. `aplicar_capas.py` é idempotente: marca cada
+# vídeo com `capa: CAPA_VERSAO` no state e pula o que já está na versão. Em
+# dia sem arte nova custa zero (nenhuma chamada). Teto por canal: ES 8 (400
+# unidades — o ES já roda sem margem de reenvio, ver testes/test_cota.py) e
+# PT 15 (750). O acervo inteiro leva ~10 dias no ES e ~5 no PT.
 on:
+  schedule:
+    - cron: "20 7 * * *"
   workflow_dispatch:
     inputs:
       canal:
         description: "Canal (es/en/pt)"
         required: true
         default: "pt"
+      limite:
+        description: "Máx. de capas nesta rodada (0 = sem teto; 50 de cota cada)"
+        required: false
+        default: "0"
       teste:
         description: "Parar no primeiro sucesso, só para saber se liberou"
         type: boolean
@@ -26,6 +39,8 @@ jobs:
   capas:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -46,27 +61,49 @@ jobs:
           PT_SECRET: ${{ secrets.YT_CLIENT_SECRET_PT }}
           PT_TOKEN: ${{ secrets.YT_TOKEN_PT }}
         run: |
-          lang="${{ inputs.canal }}"
-          secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
-          token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
-          secret="${!secret_var}"
-          token="${!token_var}"
-          if [ -z "$secret" ] || [ -z "$token" ]; then
-            echo "canal $lang sem secrets"; exit 1
-          fi
-          mkdir -p "credenciais/$lang"
-          printf '%s' "$secret" > "credenciais/$lang/client_secret.json"
-          printf '%s' "$token" > "credenciais/$lang/token.json"
-          chmod 600 credenciais/$lang/*
+          alvos="${{ inputs.canal }}"
+          [ -z "$alvos" ] && alvos="es pt"
+          for lang in $alvos; do
+            secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
+            token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
+            secret="${!secret_var}"
+            token="${!token_var}"
+            if [ -z "$secret" ] || [ -z "$token" ]; then
+              echo "canal $lang sem secrets"; continue
+            fi
+            mkdir -p "credenciais/$lang"
+            printf '%s' "$secret" > "credenciais/$lang/client_secret.json"
+            printf '%s' "$token" > "credenciais/$lang/token.json"
+            chmod 600 credenciais/$lang/*
+          done
 
       - run: git pull --rebase --autostash origin main || true
 
       - name: Aplicar
         run: |
-          args=""
-          [ "${{ inputs.teste }}" = "true" ] && args="--teste"
-          python produzir/aplicar_capas.py $args
+          if [ -z "${{ inputs.canal }}" ]; then
+            echo "=== agendado: es (teto 8) ==="
+            python produzir/aplicar_capas.py --canal es --limite 8
+            echo "=== agendado: pt (teto 15) ==="
+            python produzir/aplicar_capas.py --canal pt --limite 15
+          else
+            args="--canal ${{ inputs.canal }} --limite ${{ inputs.limite }}"
+            [ "${{ inputs.teste }}" = "true" ] && args="$args --teste"
+            echo "args:$args"
+            python produzir/aplicar_capas.py $args
+          fi
 
-      - name: Limpar credenciais
+      - name: Guardar estado
         if: always()
-        run: rm -rf credenciais
+        run: |
+          rm -rf credenciais
+          if [ -n "$(git status --porcelain publicador/state.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add publicador/state.json
+            git commit -m "Aplica capas (auto)"
+            git pull --rebase --autostash origin main
+            git push
+          else
+            echo "Nada a guardar."
+          fi

@@ -41,6 +41,10 @@ LIMITE = 10_000
 # Workflow Realinhar, cron 07:10 UTC, `--limite 10` por canal ativo. Pior caso
 # do dia: 10 vídeos com algo a mudar, a 50 unidades cada.
 REALINHAR_DIARIO = 10 * UPDATE
+# Workflow Aplicar capas, cron 07:20 UTC (16/09/2026): teto 8 no ES e 15 no
+# PT, 50 unidades cada (thumbnails.set). Em dia sem arte nova custa zero;
+# o pior caso é o que entra na conta.
+CAPAS_DIARIO = {"es": 8 * THUMBNAIL, "pt": 15 * THUMBNAIL}
 
 # Canais em que o dia normal cabe, mas um reenvio de upload não. É uma dívida
 # conhecida, não um descuido: o ES roda 2 longos + 2 Shorts desde 25/08/2026
@@ -62,11 +66,11 @@ def custo_longo() -> int:
             + POLL_LONGO + CHANNELS_LIST)
 
 
-def custo_dia(cfg: dict) -> int:
+def custo_dia(cfg: dict, idioma: str = "") -> int:
     shorts = cfg.get("shorts_por_dia", 0) * custo_short()
     longos = (cfg.get("longos_por_dia", 1) * custo_longo()
               if cfg.get("hora_longo_utc") is not None else 0)
-    return shorts + longos + REALINHAR_DIARIO
+    return shorts + longos + REALINHAR_DIARIO + CAPAS_DIARIO.get(idioma, 0)
 
 
 class TestOrcamentoDeCota(unittest.TestCase):
@@ -82,7 +86,7 @@ class TestOrcamentoDeCota(unittest.TestCase):
     def test_o_dia_normal_cabe_na_cota(self):
         for idioma, cfg in self.canais_ativos():
             with self.subTest(canal=idioma):
-                gasto = custo_dia(cfg)
+                gasto = custo_dia(cfg, idioma)
                 self.assertLessEqual(
                     gasto, LIMITE,
                     f"{idioma}: {gasto} unidades num dia sem nenhuma falha — "
@@ -91,7 +95,7 @@ class TestOrcamentoDeCota(unittest.TestCase):
 
     def test_margem_para_um_reenvio(self):
         for idioma, cfg in self.canais_ativos():
-            pior = custo_dia(cfg) + max(custo_short(), custo_longo())
+            pior = custo_dia(cfg, idioma) + max(custo_short(), custo_longo())
             tem_margem = pior <= LIMITE
             with self.subTest(canal=idioma):
                 if idioma in SEM_MARGEM_DE_RETRY:
@@ -102,7 +106,7 @@ class TestOrcamentoDeCota(unittest.TestCase):
                     continue
                 self.assertTrue(
                     tem_margem,
-                    f"{idioma}: {custo_dia(cfg)} no dia normal e {pior} com "
+                    f"{idioma}: {custo_dia(cfg, idioma)} no dia normal e {pior} com "
                     f"um reenvio de upload — um vídeo que suba e falhe deixa "
                     f"o canal mudo. Reduza a agenda ou registre o motivo em "
                     f"SEM_MARGEM_DE_RETRY.")

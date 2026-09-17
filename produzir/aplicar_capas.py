@@ -7,8 +7,14 @@ script relata "ainda bloqueado" sem quebrar nada.
 
 Regenera a thumb a partir do tema do pacote (mesma arte do pipeline) e aplica.
 
-    python produzir/aplicar_capas.py            # aplica onde puder
-    python produzir/aplicar_capas.py --teste    # só testa se está liberado
+    python produzir/aplicar_capas.py --canal pt --limite 15   # rodada com teto
+    python produzir/aplicar_capas.py --dry-run                # só lista
+    python produzir/aplicar_capas.py --teste                  # só testa se liberou
+
+16/09/2026: idempotente e retomável — cada vídeo recebe `capa: CAPA_VERSAO`
+no state quando a arte é aplicada, e a rodada seguinte pula o que já está na
+versão. Mudar CAPA_VERSAO reaplica o acervo inteiro em rodadas de `--limite`
+(o workflow Aplicar capas roda de manhã com teto por canal, como o Realinhar).
 """
 
 from __future__ import annotations
@@ -71,52 +77,83 @@ def bloqueado(exc: Exception) -> bool:
     return "403" in m and "thumbnail" in m
 
 
+CAPA_VERSAO = "v2-noite-16-09"   # muda aqui = reaplica o acervo inteiro
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--teste", action="store_true",
                     help="Só verifica se a capa já está liberada, sem aplicar")
+    ap.add_argument("--canal", help="Só este canal (padrão: todos com token)")
+    ap.add_argument("--limite", type=int, default=0,
+                    help="Máx. de capas aplicadas por canal nesta rodada "
+                         "(0 = sem teto). 50 unidades de cota cada.")
+    ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     state = json.loads(STATE.read_text(encoding="utf-8"))
     temas = json.loads(TEMAS.read_text(encoding="utf-8"))
+    temas_estoicos = json.loads(
+        (RAIZ / "conteudo" / "temas_estoico.json").read_text(encoding="utf-8"))
+    temas_estoicos = (temas_estoicos["temas"] if isinstance(temas_estoicos, dict)
+                      else temas_estoicos)
+    config = json.loads(
+        (RAIZ / "publicador" / "config.json").read_text(encoding="utf-8"))
     tmp = RAIZ / "saida" / "capa_tmp.jpg"
     tmp.parent.mkdir(exist_ok=True)
 
     total = aplicadas = 0
-    liberado_em = []
     for idioma, ec in state.get("canais", {}).items():
-        cred = CREDS.get(idioma)
+        if args.canal and idioma != args.canal:
+            continue
+        cred = CREDS.get(idioma, RAIZ / "credenciais" / idioma)
         if not cred or not (cred / "token.json").exists():
             continue
-        longos = [p for p in ec.get("publicados", []) if p["item"] == "longo"]
+        # Idempotente: só o que ainda não está na versão atual da arte. Os
+        # mais recentes primeiro — são os que o "sugerido" mais mostra.
+        longos = [p for p in ec.get("publicados", []) if p["item"] == "longo"
+                  and p.get("capa") != CAPA_VERSAO]
+        longos.sort(key=lambda p: p.get("em", ""), reverse=True)
+        if args.limite:
+            longos = longos[:args.limite]
         if not longos:
+            print(f"[{idioma}] nada a aplicar (acervo em {CAPA_VERSAO}).")
             continue
         try:
-            yt = youtube_api.servico(cred)
+            yt = None if args.dry_run else youtube_api.servico(cred)
         except Exception as exc:
             # Token morto de um canal (ex.: EN em invalid_grant) não pode
             # impedir de testar/aplicar capa nos canais saudáveis.
             print(f"[{idioma}] token inválido ({str(exc)[:80]}); pulando.")
             continue
-        cfg = idiomas.CONFIG[idioma]
+        canal_cfg = config["canais"].get(idioma, {})
+        marca = canal_cfg.get("handle") or f"@{idiomas.CONFIG[idioma]['tags'][0]}"
+        poco = temas_estoicos if idioma == "stoic" else temas
         for p in longos:
             total += 1
             slug = p["pacote"][11:]
-            tema = tema_do(slug, temas)
+            tema = tema_do(slug, poco)
             if not tema:
+                print(f"[{idioma}] {slug}: tema não está mais no poço; pulando.")
                 continue
+            formato = p.get("formato") or tema.get("formato", "tema")
             thumbnail.gerar(tmp, fundo_do(slug, idioma),
                             tema["longo"]["thumb_titulo"][idioma],
                             tema["longo"]["thumb_sub"][idioma],
-                            f"@{cfg['tags'][0]}",
+                            marca,
                             seed=fabrica._seed({"slug": slug},
-                                               f"thumb-{idioma}"))
+                                               f"thumb-{idioma}"),
+                            rotulo_formato=thumbnail.rotulo(idioma, formato))
+            if args.dry_run:
+                print(f"[{idioma}] [dry-run] aplicaria: {p['video_id']} {slug}")
+                continue
             try:
                 youtube_api.definir_thumbnail(yt, p["video_id"], tmp)
+                p["capa"] = CAPA_VERSAO
                 aplicadas += 1
-                if idioma not in liberado_em:
-                    liberado_em.append(idioma)
-                print(f"[{idioma}] capa aplicada: {p['video_id']}")
+                STATE.write_text(json.dumps(state, ensure_ascii=False, indent=2)
+                                 + "\n", encoding="utf-8")
+                print(f"[{idioma}] capa aplicada: {p['video_id']} {slug}")
                 if args.teste:
                     print("LIBERADO — pare aqui (--teste).")
                     return
@@ -125,11 +162,14 @@ def main() -> None:
                     print(f"[{idioma}] AINDA BLOQUEADO (verificação de "
                           f"identidade pendente).")
                     return
-                print(f"[{idioma}] erro em {p['video_id']}: {str(exc)[:120]}")
+                msg = str(exc)
+                print(f"[{idioma}] erro em {p['video_id']}: {msg[:120]}")
+                if "quota" in msg.lower():
+                    print(f"[{idioma}] cota esgotada; o resto fica para a "
+                          f"próxima rodada.")
+                    break
 
     print(f"\n{aplicadas}/{total} capas aplicadas.")
-    if aplicadas:
-        print("Capa personalizada LIBERADA. 🎉")
 
 
 if __name__ == "__main__":

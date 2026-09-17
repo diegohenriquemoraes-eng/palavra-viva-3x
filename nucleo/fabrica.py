@@ -509,7 +509,9 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     thumbnail.gerar(thumb, baixadas[0] if baixadas else None,
                     longo["thumb_titulo"][idioma],
                     longo["thumb_sub"][idioma], marca,
-                    _seed(pacote, f"thumb-{idioma}"))
+                    _seed(pacote, f"thumb-{idioma}"),
+                    rotulo_formato=thumbnail.rotulo(
+                        idioma, pacote.get("formato", "tema")))
 
     # 6) descrição com capítulos (SEO + navegação). Capítulo repetido no ciclo
     # 2 do formato "dormir" ganha marcação, senão a lista fica confusa.
