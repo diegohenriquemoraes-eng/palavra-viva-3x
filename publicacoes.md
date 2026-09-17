@@ -4638,3 +4638,11 @@
 - Item: short-2 — Meditaciones 11:14
 - Duração: 23.2s
 - Publicado em: 2026-09-17T14:21:11+00:00
+
+## [es] OJwU5s5Cu_4 — Salmo 64:3 — Que amolaron su lengua como cuchillo | Biblia
+
+- URL: https://youtu.be/OJwU5s5Cu_4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 64:3
+- Duração: 14.6s
+- Publicado em: 2026-09-17T14:23:05+00:00

@@ -1784,12 +1784,20 @@
           "video_id": "0bMpgeWzjXQ",
           "titulo": "Salmos para Dormir — Salmo 66 Completo | Biblia Hablada",
           "em": "2026-09-17T14:01:24+00:00"
+        },
+        {
+          "pacote": "2026-09-17-salmo-64-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "OJwU5s5Cu_4",
+          "titulo": "Salmo 64:3 — Que amolaron su lengua como cuchillo | Biblia",
+          "em": "2026-09-17T14:23:05+00:00"
         }
       ],
-      "ultimo_short": "2026-09-17T02:28:05+00:00",
+      "ultimo_short": "2026-09-17T14:23:05+00:00",
       "shorts_dia": {
         "data": "2026-09-17",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-17",
       "longos_dia": {
