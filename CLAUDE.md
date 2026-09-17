@@ -27,6 +27,30 @@ canal está apto à monetização**, com os dois portões separados:
 O relatório tem de dizer, sem rodeio, **quais canais estão aptos e quais não têm
 caminho hoje**. Não estimar inscritos: canal sem medição entra como "não medido".
 
+## O gancho é o teste inteiro — medido no Studio em 16/09/2026
+
+A métrica que decide a entrega de um Short é **"continuaram assistindo vs. pularam"** (só no
+Studio: Analytics → Conteúdo → Shorts → Engajamento; `authuser=1` neste Chrome). Em 28 dias:
+stoic 41 %, es 24 %, pt 21 %, piso de impulso 70 %. A `averageViewPercentage` da API (>100 %)
+mede só quem ficou e **não responde "por que não entrega"** — foi o número errado de 22/08 a 16/09.
+No estoico, com gancho sorteado ao acaso, gancho de afirmação fez ~980 e gancho de sono ~450.
+
+O que existe desde 16/09 (`fabrica.montar_short`, `legendas.ass_short`, `idiomas.ganchos_para`):
+
+- `gancho` por Short no poço (str ou dict por idioma) → pacote → render. Escrever **depois** do
+  trecho, apontando para ele; ≤ 10 palavras; nunca prometer o que o texto não entrega.
+- Sem gancho no poço: sorteio da lista do idioma **+ ganchos da obra** (`GANCHOS_POR_OBRA`), para
+  "Marco Aurelio escribió" não cair em Epicteto.
+- O gancho vai inteiro no frame zero, estilo `Gancho` (100 px). Antes saía fatiado em 3 palavras.
+- **Ref por frase** no corpus: `Meditaciones 6:75/1`, `Enquiridión 32:3/4-6` (um parágrafo só;
+  exibição e descrição mostram o parágrafo). Foi o que reabriu o corpus estoico: 308 parágrafos
+  nunca usados estavam trancados pelo teto de 20 s.
+- Régua: 03/10/2026 — ≥ 55 % "continuaram" no Studio (7 d) e mediana 2-7 d > 600 no estoico.
+
+⚠ Canais bíblicos ainda usam os 12 ganchos genéricos: levar o gancho por Short para lá é decisão
+do Diego (diretriz nº 4). ⚠ Os temas de `gerar_temas_salmo.py` escolhem versículos por posição
+(1/4/7/10) e trazem imprecação/lamento para o Short — os Shorts do ES desde 09/09 fazem 7–100 views.
+
 ## Canais
 
 | Idioma | Canal | Conta Google | Secrets |

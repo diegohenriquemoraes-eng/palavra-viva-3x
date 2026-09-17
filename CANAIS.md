@@ -1,4 +1,32 @@
-# Canais — painel único, estado em 08/09/2026
+# Canais — painel único, estado em 16/09/2026
+
+## 16/09/2026 — o número que ninguém media: quem PULA nos 3 primeiros segundos
+
+Lido no Studio (a API não dá): "continuaram assistindo vs. pularam", 28 dias — **stoic 41 %,
+es 24 %, pt 21 %**, com o piso de impulso em 70 %. A retenção média (>100 %) só conta quem ficou;
+era o número errado para a pergunta "por que não entrega". Explica o teto de ~1.000 views do
+estoico (30 de 84 Shorts pararam entre 950 e 1.166; nenhum passou) e a queda do ES em todos os
+formatos desde 10/08. **Causa apontada por dado**: o gancho — 12 frases genéricas sorteadas por
+seed; no estoico, gancho de afirmação/autoridade faz ~980 de mediana e gancho de consolo/sono ~450,
+com o mesmo corpus e a mesma voz.
+
+Feito e no ar a partir do pacote de 19/09: **gancho por Short escrito do trecho** (campo `gancho`
+no poço), inteiro no frame zero em corpo maior; sorteio filtrado pela obra quando não há gancho;
+os 4 ganchos de sono saíram do estoico; **ref por frase no corpus** (`Meditaciones 6:75/1`) que
+destrava 308 parágrafos; **+10 temas / 40 Shorts** no poço estoico, que estava com **0 temas** (o
+canal parava em 19/09). Relatório completo em `Desktop\Analise-Canais-YouTube-16-09-2026.md`.
+
+Régua do gancho: **03/10/2026** — "continuaram assistindo" (7 dias, Studio) de 41 % para ≥ 55 % e
+mediana da coorte 2-7 d acima de 600. Longo estoico liga em **22/09** como decidido.
+
+Pendente do Diego: (1) gancho por Short nos canais bíblicos (roça a diretriz nº 4 — o gancho
+nomeia o FATO da passagem, não interpreta); (2) redesenho das capas dos longos (152 mil impressões
+em 28 d a 1,6–2,1 % de CTR — cada ponto de CTR ≈ +1.800 h/ano); (3) trocar a escolha de versículos
+dos 55 temas de salmo gerados (posição 1/4/7/10 traz imprecação e lamento; o feed retém promessa).
+
+⚠ `ESTRATEGIA`: a leitura do "pularam" é por canal, no Studio → Analytics → Conteúdo → Shorts →
+"Engajamento dos espectadores". Entrar com `authuser=1` neste perfil do Chrome (o 0 dá "Ops").
+
 
 > Ponto de partida de qualquer sessão sobre canais. Este arquivo diz **o que está no ar, onde
 > mora e o que está esperando decisão**. O detalhe técnico de cada motor está no `CLAUDE.md`
