@@ -219,9 +219,38 @@ def titulo_short(idioma: str, salmo: int, verso: int, texto: str) -> str:
     return titulo[:100].rstrip()
 
 
+# 16/09/2026 — o que o feed retém num Short bíblico é PROMESSA e consolo (o
+# melhor Short do ES em 28 dias foi "Salmo 91 — Bajo la sombra del Altísimo");
+# a escolha por posição (1/4/7/10) mandava imprecação e lamento para o feed
+# ("Caerán sobre ellos brasas", "Véngale el quebrantamiento") e os Shorts
+# saíram com 7 a 100 views. Pontuação simples por vocabulário, em espanhol
+# (a RV1909 é o texto-base do pacote): soma o que consola, desconta o que
+# amaldiçoa. Os 26 temas livres de 16/09 foram curados à MÃO, com gancho por
+# Short; isto aqui é a rede para o que ainda for gerado.
+_CONSOLO = ("misericordia", "refugio", "fortaleza", "salud", "salvación",
+            "paz", "confía", "confiaré", "confiar", "bendito", "bienaventurado",
+            "dichoso", "guarda", "guardará", "oye", "escucha", "alabad",
+            "alabaré", "para siempre", "no temeré", "luz", "esperanza",
+            "amparo", "roca", "pastor", "sombra", "reposo", "descanso",
+            "bueno", "me respondió", "librará", "libertador", "ayuda",
+            "cantaré", "gócense", "alégrense")
+_MALDICION = ("destruye", "destruirá", "destruidos", "maldito", "maldición",
+              "brasas", "perezcan", "perecerán", "quebranta", "quebrantamiento",
+              "sangre", "huérfanos", "viuda", "avergonzados", "confundidos",
+              "vergüenza", "hijos de ellos", "dientes", "fuego", "espada",
+              "impíos", "enemigos", "aborrecedores", "véngale", "venganza",
+              "furor", "ira", "sepulcro", "tinieblas", "muerte")
+
+
+def _pontuar(texto: str) -> int:
+    t = texto.lower()
+    return (sum(1 for w in _CONSOLO if w in t)
+            - 2 * sum(1 for w in _MALDICION if w in t))
+
+
 def escolher_versos(versos: dict) -> list:
-    """4 versículos espalhados pelo salmo, com tamanho de Short (8 a 30
-    palavras). Verso muito curto não enche 15 s; muito longo estoura o teto.
+    """4 versículos com tamanho de Short (8 a 30 palavras), preferindo os de
+    promessa/consolo (ver `_pontuar`) e, entre empates, espalhados pelo salmo.
 
     Só entram os que existem nos TRÊS idiomas: o pacote bíblico é um só para
     es/en/pt, e na KJV o versículo 1 de vários salmos é apenas a inscrição —
@@ -233,8 +262,9 @@ def escolher_versos(versos: dict) -> list:
     bons = [v for v in base if 8 <= len(v[1].split()) <= 30] or base
     if len(bons) <= 4:
         return bons
-    passo = len(bons) / 4
-    return [bons[min(len(bons) - 1, int(i * passo))] for i in range(4)]
+    ordenados = sorted(bons, key=lambda v: (-_pontuar(v[1]), v[0]))
+    escolhidos = sorted(ordenados[:4], key=lambda v: v[0])
+    return escolhidos
 
 
 def montar_tema(salmo: int, idx: int) -> dict:
@@ -261,13 +291,13 @@ def montar_tema(salmo: int, idx: int) -> dict:
                                 dict(versos[i]).get(num, versos[i][0][1]))
                 for i in IDIOMAS_TEMA
             },
-            # Contexto FACTUAL (não aplicação/pregação): onde o versículo está
-            # dentro do salmo. É o que a política de monetização pede como
-            # diferença em relação à fonte, sem atravessar a diretriz nº 4.
-            "aplicacao": {
-                "es": f"Versículo {num} de {n_versos}, del Salmo {salmo}.",
-                "pt": f"Versículo {num} de {n_versos}, do Salmo {salmo}.",
-            },
+            # SEM aplicação (16/09/2026). "Versículo N de M" não é diferença
+            # significativa para a política de monetização e, pior, ocupava o
+            # lugar da SEGUNDA narração da passagem (`REPETIR_ATE_PALAVRAS` em
+            # fabrica.montar_short) — o formato do nicho e o que dá o loop.
+            # O gancho por Short (`gancho`, es/pt) é escrito à mão na curadoria;
+            # vazio, o render sorteia da lista do idioma.
+            "gancho": {"es": "", "pt": ""},
         })
 
     return {

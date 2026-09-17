@@ -9919,58 +9919,58 @@
     "shorts": [
       {
         "ref": "Psalms 70:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night sea",
         "titulo": {
           "es": "Salmo 70:1 — Oh Dios, acude a librarme; apresúrate, oh | Biblia",
           "en": "Psalm 70:1 — Make haste, O God, to deliver me | Bible",
           "pt": "Salmo 70:1 — Memorial de Davi, para o regente: Livra-me | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 5, del Salmo 70.",
-          "pt": "Versículo 1 de 5, do Salmo 70."
-        }
-      },
-      {
-        "ref": "Psalms 70:2",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night clouds",
-        "titulo": {
-          "es": "Salmo 70:2 — Sean avergonzados y confusos los que buscan | Biblia",
-          "en": "Psalm 70:2 — Let them be ashamed and confounded that | Bible",
-          "pt": "Salmo 70:2 — Envergonhem-se, e sejam confundidos os que procuram | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 2 de 5, del Salmo 70.",
-          "pt": "Versículo 2 de 5, do Salmo 70."
-        }
-      },
-      {
-        "ref": "Psalms 70:3",
-        "tipo": "descriptivo",
-        "consulta_imagem": "starry sky",
-        "titulo": {
-          "es": "Salmo 70:3 — Sean vueltos, en pago de su afrenta | Biblia",
-          "en": "Psalm 70:3 — Let them be turned back | Bible",
-          "pt": "Salmo 70:3 — Virem-se para trás por causa | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 3 de 5, del Salmo 70.",
-          "pt": "Versículo 3 de 5, do Salmo 70."
+        "gancho": {
+          "es": "Cinco versículos. Una sola urgencia.",
+          "pt": "Cinco versículos. Uma só urgência."
         }
       },
       {
         "ref": "Psalms 70:4",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night sea",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
         "titulo": {
           "es": "Salmo 70:4 — Gócense y alégrense en ti todos | Biblia",
           "en": "Psalm 70:4 — Let all those that seek thee rejoice | Bible",
           "pt": "Salmo 70:4 — Alegrem-se e fiquem contentes em ti todos | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 4 de 5, del Salmo 70.",
-          "pt": "Versículo 4 de 5, do Salmo 70."
+        "gancho": {
+          "es": "Lo que pide David para los que buscan a Dios.",
+          "pt": "O que Davi pede para quem busca a Deus."
+        }
+      },
+      {
+        "ref": "Psalms 70:5",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 70:5 — Yo estoy afligido y menesteroso; apresúrate | Biblia",
+          "en": "Psalm 70:5 — But I am poor and needy: make | Bible",
+          "pt": "Salmo 70:5 — Eu, porém, estou miserável e necessitado; ó | Bíblia"
+        },
+        "gancho": {
+          "es": "David se llama a sí mismo pobre. Y pide prisa.",
+          "pt": "Davi se chama de pobre. E pede pressa."
+        }
+      },
+      {
+        "ref": "Psalms 70:4-5",
+        "tipo": "promesa",
+        "consulta_imagem": "night sea",
+        "titulo": {
+          "es": "Salmo 70:4-5 — Gócense y alégrense en ti todos | Biblia",
+          "en": "Psalm 70:4-5 — Let all those that seek thee rejoice | Bible",
+          "pt": "Salmo 70:4-5 — Alegrem-se e fiquem contentes em ti todos | Bíblia"
+        },
+        "gancho": {
+          "es": "El final del salmo más corto de David.",
+          "pt": "O fim do salmo mais curto de Davi."
         }
       }
     ]
@@ -10031,59 +10031,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 72:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 72:12",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 72:1 — Para Salomón. Oh Dios, da tus juicios | Biblia",
-          "en": "Psalm 72:1 — Give the king thy judgments, O God | Bible",
-          "pt": "Salmo 72:1 — Para Salomão Deus, dá teus juízos | Bíblia"
+          "es": "Salmo 72:12 — Porque él librará al menesteroso que clamare | Biblia",
+          "en": "Psalm 72:12 — For he shall deliver the needy when | Bible",
+          "pt": "Salmo 72:12 — Porque ele livrará ao necessitado que clamar | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 20, del Salmo 72.",
-          "pt": "Versículo 1 de 20, do Salmo 72."
+        "gancho": {
+          "es": "Un salmo escrito para un rey. Esta es su regla.",
+          "pt": "Um salmo escrito para um rei. Esta é a regra."
         }
       },
       {
-        "ref": "Psalms 72:5",
-        "tipo": "descriptivo",
+        "ref": "Psalms 72:13",
+        "tipo": "promesa",
         "consulta_imagem": "night clouds",
         "titulo": {
-          "es": "Salmo 72:5 — Temerte han mientras duren el sol | Biblia",
-          "en": "Psalm 72:5 — They shall fear thee as long | Bible",
-          "pt": "Salmo 72:5 — Temerão a ti enquanto durarem o sol | Bíblia"
+          "es": "Salmo 72:13 — Tendrá misericordia del pobre y del menesteroso | Biblia",
+          "en": "Psalm 72:13 — He shall spare the poor and needy | Bible",
+          "pt": "Salmo 72:13 — Ele será piedoso para o pobre | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 5 de 20, del Salmo 72.",
-          "pt": "Versículo 5 de 20, do Salmo 72."
+        "gancho": {
+          "es": "Lo que hace el rey de este salmo con los pobres.",
+          "pt": "O que o rei deste salmo faz com os pobres."
         }
       },
       {
-        "ref": "Psalms 72:10",
-        "tipo": "descriptivo",
+        "ref": "Psalms 72:18-19",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 72:10 — Los reyes de Tharsis | Biblia",
-          "en": "Psalm 72:10 — The kings of Tarshish | Bible",
-          "pt": "Salmo 72:10 — Os reis de Társis e das ilhas | Bíblia"
+          "es": "Salmo 72:18-19 — Bendito Jehová Dios, el Dios de Israel | Biblia",
+          "en": "Psalm 72:18-19 — Blessed be the Lord God, the God | Bible",
+          "pt": "Salmo 72:18-19 — Bendito seja o SENHOR Deus, o Deus | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 10 de 20, del Salmo 72.",
-          "pt": "Versículo 10 de 20, do Salmo 72."
+        "gancho": {
+          "es": "Así termina el segundo libro de los Salmos.",
+          "pt": "Assim termina o segundo livro dos Salmos."
         }
       },
       {
-        "ref": "Psalms 72:15",
-        "tipo": "descriptivo",
+        "ref": "Psalms 72:6",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 72:15 — Y vivirá, y darásele del oro | Biblia",
-          "en": "Psalm 72:15 — And he shall live, and to him | Bible",
-          "pt": "Salmo 72:15 — E ele viverá; e lhe darão ouro | Bíblia"
+          "es": "Salmo 72:6 — Descenderá como la lluvia sobre la hierba | Biblia",
+          "en": "Psalm 72:6 — He shall come down like rain upon | Bible",
+          "pt": "Salmo 72:6 — Ele descerá como chuva sobre a erva | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 15 de 20, del Salmo 72.",
-          "pt": "Versículo 15 de 20, do Salmo 72."
+        "gancho": {
+          "es": "El rey comparado con la lluvia.",
+          "pt": "O rei comparado com a chuva."
         }
       }
     ]
@@ -10144,59 +10144,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 73:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 73:26",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 73:1 — Ciertamente bueno es Dios a Israel | Biblia",
-          "en": "Psalm 73:1 — Truly God is good to Israel, even | Bible",
-          "pt": "Salmo 73:1 — Sim, certamente Deus é bom para Israel | Bíblia"
+          "es": "Salmo 73:26 — Mi carne y mi corazón desfallecen: mas | Biblia",
+          "en": "Psalm 73:26 — My flesh and my heart faileth: but | Bible",
+          "pt": "Salmo 73:26 — Minha carne e meu coração desfalecem; porém | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 28, del Salmo 73.",
-          "pt": "Versículo 1 de 28, do Salmo 73."
+        "gancho": {
+          "es": "La frase de un hombre que ya no podía más.",
+          "pt": "A frase de um homem que não aguentava mais."
         }
       },
       {
-        "ref": "Psalms 73:8",
-        "tipo": "descriptivo",
+        "ref": "Psalms 73:25",
+        "tipo": "promesa",
         "consulta_imagem": "desert night",
         "titulo": {
-          "es": "Salmo 73:8 — Soltáronse, y hablan con maldad de hacer | Biblia",
-          "en": "Psalm 73:8 — They are corrupt, and speak wickedly concerning | Bible",
-          "pt": "Salmo 73:8 — Eles são escarnecedores e oprimem falando mal | Bíblia"
+          "es": "Salmo 73:25 — ¿A quién tengo yo en los cielos? | Biblia",
+          "en": "Psalm 73:25 — Whom have I in heaven but thee? | Bible",
+          "pt": "Salmo 73:25 — A quem tenho no céu além | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 8 de 28, del Salmo 73.",
-          "pt": "Versículo 8 de 28, do Salmo 73."
+        "gancho": {
+          "es": "Asaf escribió esto después de envidiar a los malos.",
+          "pt": "Asafe escreveu isto depois de invejar os maus."
         }
       },
       {
-        "ref": "Psalms 73:15",
-        "tipo": "descriptivo",
+        "ref": "Psalms 73:28",
+        "tipo": "promesa",
         "consulta_imagem": "night sky",
         "titulo": {
-          "es": "Salmo 73:15 — Si dijera yo, Discurriré de esa suerte | Biblia",
-          "en": "Psalm 73:15 — If I say, I will speak thus | Bible",
-          "pt": "Salmo 73:15 — Se eu tivesse dito isto, eu falaria | Bíblia"
+          "es": "Salmo 73:28 — Y en cuanto a mí, el acercarme | Biblia",
+          "en": "Psalm 73:28 — But it is good for me | Bible",
+          "pt": "Salmo 73:28 — Mas quanto a mim, bom me é | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 15 de 28, del Salmo 73.",
-          "pt": "Versículo 15 de 28, do Salmo 73."
+        "gancho": {
+          "es": "La conclusión de un salmo que empieza con envidia.",
+          "pt": "A conclusão de um salmo que começa com inveja."
         }
       },
       {
-        "ref": "Psalms 73:22",
-        "tipo": "descriptivo",
+        "ref": "Psalms 73:23-24",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 73:22 — Mas yo era ignorante, y no entendía | Biblia",
-          "en": "Psalm 73:22 — So foolish was I, and ignorant: I | Bible",
-          "pt": "Salmo 73:22 — Então me comportei como tolo, e nada | Bíblia"
+          "es": "Salmo 73:23-24 — Con todo, yo siempre estuve contigo: trabaste | Biblia",
+          "en": "Psalm 73:23-24 — Nevertheless I am continually with thee: thou | Bible",
+          "pt": "Salmo 73:23-24 — Porém agora estarei continuamente contigo; tu tens | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 22 de 28, del Salmo 73.",
-          "pt": "Versículo 22 de 28, do Salmo 73."
+        "gancho": {
+          "es": "Lo que Asaf descubrió al entrar en el santuario.",
+          "pt": "O que Asafe descobriu ao entrar no santuário."
         }
       }
     ]
@@ -10257,59 +10257,59 @@
     },
     "shorts": [
       {
+        "ref": "Psalms 74:16-17",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 74:16-17 — Tuyo es el día, tuya también | Biblia",
+          "en": "Psalm 74:16-17 — The day is thine, the night also | Bible",
+          "pt": "Salmo 74:16-17 — A ti pertence o dia, a noite | Bíblia"
+        },
+        "gancho": {
+          "es": "El día y la noche tienen dueño.",
+          "pt": "O dia e a noite têm dono."
+        }
+      },
+      {
+        "ref": "Psalms 74:12",
+        "tipo": "promesa",
+        "consulta_imagem": "moon night",
+        "titulo": {
+          "es": "Salmo 74:12 — Empero Dios es mi rey ya | Biblia",
+          "en": "Psalm 74:12 — For God is my King of old | Bible",
+          "pt": "Salmo 74:12 — Deus é o meu Rei desde | Bíblia"
+        },
+        "gancho": {
+          "es": "En medio de un templo destruido, Asaf dice esto.",
+          "pt": "Diante de um templo destruído, Asafe diz isto."
+        }
+      },
+      {
+        "ref": "Psalms 74:21",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 74:21 — No vuelva avergonzado el abatido: el afligido | Biblia",
+          "en": "Psalm 74:21 — O let not the oppressed return ashamed | Bible",
+          "pt": "Salmo 74:21 — Não permitas que o oprimido volte humilhado | Bíblia"
+        },
+        "gancho": {
+          "es": "El pedido de Asaf por los que fueron humillados.",
+          "pt": "O pedido de Asafe pelos que foram humilhados."
+        }
+      },
+      {
         "ref": "Psalms 74:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night lake",
         "titulo": {
           "es": "Salmo 74:1 — ¿Por qué, oh Dios, nos has desechado | Biblia",
           "en": "Psalm 74:1 — O God, why hast thou cast us | Bible",
           "pt": "Salmo 74:1 — Deus, por que nos rejeitaste para sempre? | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 23, del Salmo 74.",
-          "pt": "Versículo 1 de 23, do Salmo 74."
-        }
-      },
-      {
-        "ref": "Psalms 74:6",
-        "tipo": "descriptivo",
-        "consulta_imagem": "moon night",
-        "titulo": {
-          "es": "Salmo 74:6 — Y ahora con hachas y martillos han | Biblia",
-          "en": "Psalm 74:6 — But now they break down the carved | Bible",
-          "pt": "Salmo 74:6 — E agora, com machados e martelos, quebraram | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 6 de 23, del Salmo 74.",
-          "pt": "Versículo 6 de 23, do Salmo 74."
-        }
-      },
-      {
-        "ref": "Psalms 74:12",
-        "tipo": "descriptivo",
-        "consulta_imagem": "starry sky",
-        "titulo": {
-          "es": "Salmo 74:12 — Empero Dios es mi rey ya | Biblia",
-          "en": "Psalm 74:12 — For God is my King of old | Bible",
-          "pt": "Salmo 74:12 — Deus é o meu Rei desde | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 12 de 23, del Salmo 74.",
-          "pt": "Versículo 12 de 23, do Salmo 74."
-        }
-      },
-      {
-        "ref": "Psalms 74:18",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night lake",
-        "titulo": {
-          "es": "Salmo 74:18 — Acuérdate de esto: que el enemigo ha | Biblia",
-          "en": "Psalm 74:18 — Remember this, that the enemy hath reproached | Bible",
-          "pt": "Salmo 74:18 — Lembra-te disto: que o inimigo insultou | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 18 de 23, del Salmo 74.",
-          "pt": "Versículo 18 de 23, do Salmo 74."
+        "gancho": {
+          "es": "Un salmo que empieza con una pregunta a Dios.",
+          "pt": "Um salmo que começa com uma pergunta a Deus."
         }
       }
     ]
@@ -10371,58 +10371,58 @@
     "shorts": [
       {
         "ref": "Psalms 75:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
           "es": "Salmo 75:1 — Alabarémoste, oh Dios, alabaremos; que cercano está | Biblia",
           "en": "Psalm 75:1 — Unto thee, O God, do we give | Bible",
           "pt": "Salmo 75:1 — Louvamos a ti, ó Deus; louvamos | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 10, del Salmo 75.",
-          "pt": "Versículo 1 de 10, do Salmo 75."
+        "gancho": {
+          "es": "El primer versículo del Salmo setenta y cinco.",
+          "pt": "O primeiro versículo do Salmo setenta e cinco."
         }
       },
       {
-        "ref": "Psalms 75:4",
-        "tipo": "descriptivo",
+        "ref": "Psalms 75:6-7",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 75:4 — Dije a los insensatos: No os infatuéis | Biblia",
-          "en": "Psalm 75:4 — I said unto the fools, Deal not | Bible",
-          "pt": "Salmo 75:4 — Eu disse aos orgulhosos: Não sejais orgulhosos!E | Bíblia"
+          "es": "Salmo 75:6-7 — Porque ni de oriente, ni de occidente | Biblia",
+          "en": "Psalm 75:6-7 — For promotion cometh neither from the east | Bible",
+          "pt": "Salmo 75:6-7 — Porque a exaltação não vem do oriente | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 4 de 10, del Salmo 75.",
-          "pt": "Versículo 4 de 10, do Salmo 75."
+        "gancho": {
+          "es": "De dónde no viene el ascenso, según Asaf.",
+          "pt": "De onde não vem a promoção, segundo Asafe."
         }
       },
       {
-        "ref": "Psalms 75:6",
-        "tipo": "descriptivo",
+        "ref": "Psalms 75:3",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 75:6 — Porque ni de oriente, ni de occidente | Biblia",
-          "en": "Psalm 75:6 — For promotion cometh neither from the east | Bible",
-          "pt": "Salmo 75:6 — Porque a exaltação não vem do oriente | Bíblia"
+          "es": "Salmo 75:3 — Arruinábase la tierra y sus moradores: yo | Biblia",
+          "en": "Psalm 75:3 — The earth and all the inhabitants thereof | Bible",
+          "pt": "Salmo 75:3 — A terra e todos os seus moradores | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 6 de 10, del Salmo 75.",
-          "pt": "Versículo 6 de 10, do Salmo 75."
+        "gancho": {
+          "es": "Quien sostiene las columnas de la tierra.",
+          "pt": "Quem sustenta as colunas da terra."
         }
       },
       {
         "ref": "Psalms 75:9",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
           "es": "Salmo 75:9 — Mas yo anunciaré siempre, cantaré alabanzas | Biblia",
           "en": "Psalm 75:9 — But I will declare for ever; I | Bible",
           "pt": "Salmo 75:9 — Mas eu o anunciarei para sempre; cantarei | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 9 de 10, del Salmo 75.",
-          "pt": "Versículo 9 de 10, do Salmo 75."
+        "gancho": {
+          "es": "Lo que Asaf promete hacer para siempre.",
+          "pt": "O que Asafe promete fazer para sempre."
         }
       }
     ]
@@ -10483,59 +10483,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 76:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 76:9",
+        "tipo": "promesa",
         "consulta_imagem": "night sea",
         "titulo": {
-          "es": "Salmo 76:1 — Dios es conocido en Judá: en Israel | Biblia",
-          "en": "Psalm 76:1 — In Judah is God known: his name | Bible",
-          "pt": "Salmo 76:1 — Deus é conhecido em Judá; grande é | Bíblia"
+          "es": "Salmo 76:9 — Cuando te levantaste, oh Dios, al juicio | Biblia",
+          "en": "Psalm 76:9 — When God arose to judgment, to save | Bible",
+          "pt": "Salmo 76:9 — Quando Deus se levantou para o julgamento | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 12, del Salmo 76.",
-          "pt": "Versículo 1 de 12, do Salmo 76."
-        }
-      },
-      {
-        "ref": "Psalms 76:4",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night clouds",
-        "titulo": {
-          "es": "Salmo 76:4 — Ilustre eres tú; fuerte, más | Biblia",
-          "en": "Psalm 76:4 — Thou art more glorious and excellent than | Bible",
-          "pt": "Salmo 76:4 — Tu és mais ilustre e glorioso | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 4 de 12, del Salmo 76.",
-          "pt": "Versículo 4 de 12, do Salmo 76."
-        }
-      },
-      {
-        "ref": "Psalms 76:7",
-        "tipo": "descriptivo",
-        "consulta_imagem": "starry sky",
-        "titulo": {
-          "es": "Salmo 76:7 — Tú, terrible eres tú: ¿y quién parará | Biblia",
-          "en": "Psalm 76:7 — Thou, even thou, art to be feared | Bible",
-          "pt": "Salmo 76:7 — Tu, terrível és tu; e quem subsistirá | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 7 de 12, del Salmo 76.",
-          "pt": "Versículo 7 de 12, do Salmo 76."
+        "gancho": {
+          "es": "Para quién se levanta Dios, según este salmo.",
+          "pt": "Por quem Deus se levanta, segundo este salmo."
         }
       },
       {
         "ref": "Psalms 76:10",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night sea",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
         "titulo": {
           "es": "Salmo 76:10 — Ciertamente la ira del hombre te acarreará | Biblia",
           "en": "Psalm 76:10 — Surely the wrath of man shall praise | Bible",
           "pt": "Salmo 76:10 — Porque a ira humana serve | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 10 de 12, del Salmo 76.",
-          "pt": "Versículo 10 de 12, do Salmo 76."
+        "gancho": {
+          "es": "Hasta la ira del hombre termina alabando.",
+          "pt": "Até a ira do homem acaba louvando."
+        }
+      },
+      {
+        "ref": "Psalms 76:11",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 76:11 — Prometed, y pagad a Jehová vuestro Dios | Biblia",
+          "en": "Psalm 76:11 — Vow, and pay unto the Lord your | Bible",
+          "pt": "Salmo 76:11 — Fazei votos, e os pagai ao SENHOR | Bíblia"
+        },
+        "gancho": {
+          "es": "Una orden en tres palabras: prometed, y pagad.",
+          "pt": "Uma ordem em três palavras: prometei, e pagai."
+        }
+      },
+      {
+        "ref": "Psalms 76:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "night sea",
+        "titulo": {
+          "es": "Salmo 76:1-2 — Dios es conocido en Judá: en Israel | Biblia",
+          "en": "Psalm 76:1-2 — In Judah is God known: his name | Bible",
+          "pt": "Salmo 76:1-2 — Deus é conhecido em Judá; grande é | Bíblia"
+        },
+        "gancho": {
+          "es": "Dónde puso Dios su casa, según Asaf.",
+          "pt": "Onde Deus pôs a sua casa, segundo Asafe."
         }
       }
     ]
@@ -10596,59 +10596,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 78:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 78:38",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 78:1 — Escucha, pueblo mío, mi ley: inclinad vuestro | Biblia",
-          "en": "Psalm 78:1 — Give ear, O my people | Bible",
-          "pt": "Salmo 78:1 — Povo meu, escuta minha doutrina; inclinai vossos | Bíblia"
+          "es": "Salmo 78:38 — Empero él misericordioso, perdonaba la maldad | Biblia",
+          "en": "Psalm 78:38 — But he, being full of compassion, forgave | Bible",
+          "pt": "Salmo 78:38 — Porém ele, sendo misericordioso, perdoava a maldade | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 72, del Salmo 78.",
-          "pt": "Versículo 1 de 72, do Salmo 78."
+        "gancho": {
+          "es": "Lo que Dios hizo cuando su pueblo falló. Otra vez.",
+          "pt": "O que Deus fez quando o povo falhou. De novo."
         }
       },
       {
-        "ref": "Psalms 78:19",
-        "tipo": "descriptivo",
+        "ref": "Psalms 78:39",
+        "tipo": "promesa",
         "consulta_imagem": "night clouds",
         "titulo": {
-          "es": "Salmo 78:19 — Y hablaron contra Dios, diciendo: ¿Podrá poner | Biblia",
-          "en": "Psalm 78:19 — Yea, they spake against God; they said | Bible",
-          "pt": "Salmo 78:19 — E falaram contra Deus, e disseram: Poderia | Bíblia"
+          "es": "Salmo 78:39 — Y acordóse que eran carne; soplo | Biblia",
+          "en": "Psalm 78:39 — For he remembered that they were but | Bible",
+          "pt": "Salmo 78:39 — Porque se lembrou de que eles eram | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 19 de 72, del Salmo 78.",
-          "pt": "Versículo 19 de 72, do Salmo 78."
+        "gancho": {
+          "es": "De qué se acordó Dios para tener paciencia.",
+          "pt": "Do que Deus se lembrou para ter paciência."
         }
       },
       {
-        "ref": "Psalms 78:37",
-        "tipo": "descriptivo",
+        "ref": "Psalms 78:4",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 78:37 — Pues sus corazones no eran rectos | Biblia",
-          "en": "Psalm 78:37 — For their heart was not right | Bible",
-          "pt": "Salmo 78:37 — Porque o coração deles não era comprometido | Bíblia"
+          "es": "Salmo 78:4 — No las encubriremos a sus hijos, contando | Biblia",
+          "en": "Psalm 78:4 — We will not hide them from their | Bible",
+          "pt": "Salmo 78:4 — Nós não os encobriremos a seus filhos | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 37 de 72, del Salmo 78.",
-          "pt": "Versículo 37 de 72, do Salmo 78."
+        "gancho": {
+          "es": "Por qué este salmo cuenta la historia entera.",
+          "pt": "Por que este salmo conta a história inteira."
         }
       },
       {
-        "ref": "Psalms 78:55",
-        "tipo": "descriptivo",
+        "ref": "Psalms 78:72",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 78:55 — Y echó las gentes de delante | Biblia",
-          "en": "Psalm 78:55 — He cast out the heathen also before | Bible",
-          "pt": "Salmo 78:55 — E expulsou as nações de diante deles | Bíblia"
+          "es": "Salmo 78:72 — Y apacentólos con entereza de su corazón | Biblia",
+          "en": "Psalm 78:72 — So he fed them according | Bible",
+          "pt": "Salmo 78:72 — E ele os apascentou com um coração | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 55 de 72, del Salmo 78.",
-          "pt": "Versículo 55 de 72, do Salmo 78."
+        "gancho": {
+          "es": "El último versículo: cómo pastoreó David.",
+          "pt": "O último versículo: como Davi pastoreou."
         }
       }
     ]
@@ -10709,59 +10709,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 79:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 79:8",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 79:1 — Oh Dios, vinieron las gentes a tu | Biblia",
-          "en": "Psalm 79:1 — O God, the heathen are come into | Bible",
-          "pt": "Salmo 79:1 — Ó Deus, as nações invadiram a tua | Bíblia"
+          "es": "Salmo 79:8 — No recuerdes contra nosotros las iniquidades antiguas | Biblia",
+          "en": "Psalm 79:8 — O remember not against us former iniquities | Bible",
+          "pt": "Salmo 79:8 — Não nos castigue pelas perversidades do passado | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 13, del Salmo 79.",
-          "pt": "Versículo 1 de 13, do Salmo 79."
+        "gancho": {
+          "es": "Un pueblo pidiendo que no le cobren el pasado.",
+          "pt": "Um povo pedindo que não lhe cobrem o passado."
         }
       },
       {
-        "ref": "Psalms 79:4",
-        "tipo": "descriptivo",
+        "ref": "Psalms 79:9",
+        "tipo": "promesa",
         "consulta_imagem": "desert night",
         "titulo": {
-          "es": "Salmo 79:4 — Somos afrentados de nuestros vecinos, escarnecidos | Biblia",
-          "en": "Psalm 79:4 — We are become a reproach to our | Bible",
-          "pt": "Salmo 79:4 — Somos humilhados pelos nossos vizinhos; zombados | Bíblia"
+          "es": "Salmo 79:9 — Ayúdanos, oh Dios, salud nuestra | Biblia",
+          "en": "Psalm 79:9 — Help us, O God of our salvation | Bible",
+          "pt": "Salmo 79:9 — Socorre-nos, ó Deus da nossa salvação | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 4 de 13, del Salmo 79.",
-          "pt": "Versículo 4 de 13, do Salmo 79."
+        "gancho": {
+          "es": "El pedido de ayuda más directo del salmo.",
+          "pt": "O pedido de ajuda mais direto do salmo."
         }
       },
       {
-        "ref": "Psalms 79:7",
-        "tipo": "descriptivo",
+        "ref": "Psalms 79:13",
+        "tipo": "promesa",
         "consulta_imagem": "night sky",
         "titulo": {
-          "es": "Salmo 79:7 — Porque han consumido a Jacob | Biblia",
-          "en": "Psalm 79:7 — For they have devoured Jacob, and laid | Bible",
-          "pt": "Salmo 79:7 — porque devoraram Jacó, e arruinaram suas habitações | Bíblia"
+          "es": "Salmo 79:13 — Y nosotros, pueblo tuyo, y ovejas | Biblia",
+          "en": "Psalm 79:13 — So we thy people and sheep | Bible",
+          "pt": "Salmo 79:13 — Assim nós, o teu povo | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 7 de 13, del Salmo 79.",
-          "pt": "Versículo 7 de 13, do Salmo 79."
+        "gancho": {
+          "es": "Así termina un salmo escrito entre ruinas.",
+          "pt": "Assim termina um salmo escrito entre ruínas."
         }
       },
       {
-        "ref": "Psalms 79:10",
-        "tipo": "descriptivo",
+        "ref": "Psalms 79:11",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 79:10 — Porque dirán las gentes: ¿Dónde está | Biblia",
-          "en": "Psalm 79:10 — Wherefore should the heathen say, Where is | Bible",
-          "pt": "Salmo 79:10 — Qual é a finalidade | Bíblia"
+          "es": "Salmo 79:11 — Entre ante tu acatamiento el gemido | Biblia",
+          "en": "Psalm 79:11 — Let the sighing of the prisoner come | Bible",
+          "pt": "Salmo 79:11 — Chegue diante de ti o gemido | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 10 de 13, del Salmo 79.",
-          "pt": "Versículo 10 de 13, do Salmo 79."
+        "gancho": {
+          "es": "Asaf pide por los presos.",
+          "pt": "Asafe pede pelos presos."
         }
       }
     ]
@@ -10822,59 +10822,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 80:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 80:3",
+        "tipo": "promesa",
         "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 80:3 — Oh Dios, haznos tornar; y haz resplandecer | Biblia",
+          "en": "Psalm 80:3 — Turn us again, O God, and cause | Bible",
+          "pt": "Salmo 80:3 — Restaura-nos, Deus, e faz brilhar o teu | Bíblia"
+        },
+        "gancho": {
+          "es": "El estribillo que se repite tres veces en este salmo.",
+          "pt": "O refrão que se repete três vezes neste salmo."
+        }
+      },
+      {
+        "ref": "Psalms 80:18",
+        "tipo": "promesa",
+        "consulta_imagem": "moon night",
+        "titulo": {
+          "es": "Salmo 80:18 — Así no nos volveremos de ti: vida | Biblia",
+          "en": "Psalm 80:18 — So will not we go back from | Bible",
+          "pt": "Salmo 80:18 — Assim não desviaremos de ti; guarda-nos | Bíblia"
+        },
+        "gancho": {
+          "es": "La promesa del pueblo al final del salmo.",
+          "pt": "A promessa do povo no fim do salmo."
+        }
+      },
+      {
+        "ref": "Psalms 80:1",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
         "titulo": {
           "es": "Salmo 80:1 — Oh Pastor de Israel, escucha: tú | Biblia",
           "en": "Psalm 80:1 — Give ear, O Shepherd of Israel, thou | Bible",
           "pt": "Salmo 80:1 — Samo de Asafe: Ó Pastor de Israel | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 19, del Salmo 80.",
-          "pt": "Versículo 1 de 19, do Salmo 80."
+        "gancho": {
+          "es": "Aquí Dios es llamado Pastor de Israel.",
+          "pt": "Aqui Deus é chamado de Pastor de Israel."
         }
       },
       {
-        "ref": "Psalms 80:5",
-        "tipo": "descriptivo",
-        "consulta_imagem": "moon night",
-        "titulo": {
-          "es": "Salmo 80:5 — Dísteles a comer pan de lágrimas | Biblia",
-          "en": "Psalm 80:5 — Thou feedest them with the bread | Bible",
-          "pt": "Salmo 80:5 — Tu os alimentas com pão de lágrimas | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 5 de 19, del Salmo 80.",
-          "pt": "Versículo 5 de 19, do Salmo 80."
-        }
-      },
-      {
-        "ref": "Psalms 80:10",
-        "tipo": "descriptivo",
-        "consulta_imagem": "starry sky",
-        "titulo": {
-          "es": "Salmo 80:10 — Los montes fueron cubiertos de su sombra | Biblia",
-          "en": "Psalm 80:10 — The hills were covered with the shadow | Bible",
-          "pt": "Salmo 80:10 — Os montes foram cobertos pela sombra dela | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 10 de 19, del Salmo 80.",
-          "pt": "Versículo 10 de 19, do Salmo 80."
-        }
-      },
-      {
-        "ref": "Psalms 80:15",
-        "tipo": "descriptivo",
+        "ref": "Psalms 80:14",
+        "tipo": "promesa",
         "consulta_imagem": "night lake",
         "titulo": {
-          "es": "Salmo 80:15 — Y la planta que plantó tu diestra | Biblia",
-          "en": "Psalm 80:15 — And the vineyard which thy right hand | Bible",
-          "pt": "Salmo 80:15 — E a videira que tua mão direita | Bíblia"
+          "es": "Salmo 80:14 — Oh Dios de los ejércitos, vuelve ahora | Biblia",
+          "en": "Psalm 80:14 — Return, we beseech thee, O God | Bible",
+          "pt": "Salmo 80:14 — Ó Deus dos exércitos, volta, te pedimos | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 15 de 19, del Salmo 80.",
-          "pt": "Versículo 15 de 19, do Salmo 80."
+        "gancho": {
+          "es": "Israel comparado con una viña.",
+          "pt": "Israel comparado com uma vinha."
         }
       }
     ]
@@ -10935,59 +10935,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 81:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 81:10",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
-          "es": "Salmo 81:1 — Cantad a Dios, fortaleza nuestra: al Dios | Biblia",
-          "en": "Psalm 81:1 — Sing aloud unto God our strength: make | Bible",
-          "pt": "Salmo 81:1 — Cantai de alegria a Deus, que é | Bíblia"
+          "es": "Salmo 81:10 — Yo soy Jehová tu Dios, que te | Biblia",
+          "en": "Psalm 81:10 — I am the Lord thy God, which | Bible",
+          "pt": "Salmo 81:10 — Eu sou o SENHOR teu Deus | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 16, del Salmo 81.",
-          "pt": "Versículo 1 de 16, do Salmo 81."
+        "gancho": {
+          "es": "Una promesa con una condición de cinco palabras.",
+          "pt": "Uma promessa com uma condição de cinco palavras."
         }
       },
       {
-        "ref": "Psalms 81:5",
-        "tipo": "descriptivo",
+        "ref": "Psalms 81:7",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 81:5 — Por testimonio en José lo ha constituído | Biblia",
-          "en": "Psalm 81:5 — This he ordained in Joseph | Bible",
-          "pt": "Salmo 81:5 — Ele o pôs como testemunho em José | Bíblia"
+          "es": "Salmo 81:7 — En la calamidad clamaste, y yo te | Biblia",
+          "en": "Psalm 81:7 — Thou calledst in trouble, and I delivered | Bible",
+          "pt": "Salmo 81:7 — Na angústia clamaste, e livrei-te dela; te | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 5 de 16, del Salmo 81.",
-          "pt": "Versículo 5 de 16, do Salmo 81."
+        "gancho": {
+          "es": "Dios recuerda el día en que su pueblo clamó.",
+          "pt": "Deus lembra o dia em que o povo clamou."
         }
       },
       {
-        "ref": "Psalms 81:9",
-        "tipo": "descriptivo",
+        "ref": "Psalms 81:16",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 81:9 — No habrá en ti dios ajeno, ni | Biblia",
-          "en": "Psalm 81:9 — There shall no strange god be | Bible",
-          "pt": "Salmo 81:9 — Não haverá entre ti deus estranho | Bíblia"
+          "es": "Salmo 81:16 — Y Dios lo hubiera mantenido de grosura | Biblia",
+          "en": "Psalm 81:16 — He should have fed them also | Bible",
+          "pt": "Salmo 81:16 — E ele sustentaria Israel com a abundância | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 9 de 16, del Salmo 81.",
-          "pt": "Versículo 9 de 16, do Salmo 81."
+        "gancho": {
+          "es": "Miel de la piedra: lo que Dios quería dar.",
+          "pt": "Mel da pedra: o que Deus queria dar."
         }
       },
       {
         "ref": "Psalms 81:13",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
           "es": "Salmo 81:13 — ¡Oh, si me hubiera oído mi pueblo | Biblia",
           "en": "Psalm 81:13 — Oh that my people had hearkened unto | Bible",
           "pt": "Salmo 81:13 — Ah, se meu povo me ouvisse | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 13 de 16, del Salmo 81.",
-          "pt": "Versículo 13 de 16, do Salmo 81."
+        "gancho": {
+          "es": "El lamento de Dios en este salmo.",
+          "pt": "O lamento de Deus neste salmo."
         }
       }
     ]
@@ -11048,59 +11048,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 82:1",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night sea",
-        "titulo": {
-          "es": "Salmo 82:1 — Dios está en la reunión | Biblia",
-          "en": "Psalm 82:1 — God standeth in the congregation | Bible",
-          "pt": "Salmo 82:1 — Deus está na congregação dos poderosos | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 1 de 8, del Salmo 82.",
-          "pt": "Versículo 1 de 8, do Salmo 82."
-        }
-      },
-      {
         "ref": "Psalms 82:3",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night clouds",
+        "tipo": "promesa",
+        "consulta_imagem": "night sea",
         "titulo": {
           "es": "Salmo 82:3 — Defended al pobre y al huérfano: haced | Biblia",
           "en": "Psalm 82:3 — Defend the poor and fatherless: do justice | Bible",
           "pt": "Salmo 82:3 — Fazei justiça ao pobre e ao órfão | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 3 de 8, del Salmo 82.",
-          "pt": "Versículo 3 de 8, do Salmo 82."
+        "gancho": {
+          "es": "Una orden de Dios a los jueces.",
+          "pt": "Uma ordem de Deus aos juízes."
         }
       },
       {
-        "ref": "Psalms 82:5",
-        "tipo": "descriptivo",
+        "ref": "Psalms 82:4",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 82:4 — Librad al afligido y al necesitado: libradlo | Biblia",
+          "en": "Psalm 82:4 — Deliver the poor and needy: rid them | Bible",
+          "pt": "Salmo 82:4 — Livrai ao pobre e necessitado, resgatai -o | Bíblia"
+        },
+        "gancho": {
+          "es": "A quién hay que librar, según el salmo.",
+          "pt": "Quem deve ser livrado, segundo o salmo."
+        }
+      },
+      {
+        "ref": "Psalms 82:8",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 82:5 — No saben, no entienden, andan en tinieblas | Biblia",
-          "en": "Psalm 82:5 — They know not, neither will they understand | Bible",
-          "pt": "Salmo 82:5 — Eles nada conhecem, nem entendem; continuamente andam | Bíblia"
+          "es": "Salmo 82:8 — Levántate, oh Dios, juzga la tierra: porque | Biblia",
+          "en": "Psalm 82:8 — Arise, O God, judge the earth | Bible",
+          "pt": "Salmo 82:8 — Levanta-te, ó Deus; julga a terra, pois | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 5 de 8, del Salmo 82.",
-          "pt": "Versículo 5 de 8, do Salmo 82."
+        "gancho": {
+          "es": "El último versículo del Salmo ochenta y dos.",
+          "pt": "O último versículo do Salmo oitenta e dois."
         }
       },
       {
-        "ref": "Psalms 82:7",
-        "tipo": "descriptivo",
+        "ref": "Psalms 82:6",
+        "tipo": "promesa",
         "consulta_imagem": "night sea",
         "titulo": {
-          "es": "Salmo 82:7 — Empero como hombres moriréis, y caeréis como | Biblia",
-          "en": "Psalm 82:7 — But ye shall die like men | Bible",
-          "pt": "Salmo 82:7 — Porém morrereis como homens, e caireis como | Bíblia"
+          "es": "Salmo 82:6 — Yo dije: Vosotros sois dioses, e hijos | Biblia",
+          "en": "Psalm 82:6 — I have said, Ye are gods | Bible",
+          "pt": "Salmo 82:6 — Eu disse: Sois deuses; e todos vós | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 7 de 8, del Salmo 82.",
-          "pt": "Versículo 7 de 8, do Salmo 82."
+        "gancho": {
+          "es": "El versículo que Jesús citó en Juan diez.",
+          "pt": "O versículo que Jesus citou em João dez."
         }
       }
     ]
@@ -11161,59 +11161,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 83:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 83:18",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 83:18 — Y conozcan que tu nombre es Jehová | Biblia",
+          "en": "Psalm 83:18 — That men may know that thou, whose | Bible",
+          "pt": "Salmo 83:18 — Para que saibam que tu, (e teu | Bíblia"
+        },
+        "gancho": {
+          "es": "El único versículo del salmo que dice el nombre.",
+          "pt": "O único versículo do salmo que diz o nome."
+        }
+      },
+      {
+        "ref": "Psalms 83:1",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
         "titulo": {
           "es": "Salmo 83:1 — Oh Dios, no tengas silencio: no calles | Biblia",
           "en": "Psalm 83:1 — Keep not thou silence, O God: hold | Bible",
           "pt": "Salmo 83:1 — Deus, não fiques em silêncio; não estejas | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 18, del Salmo 83.",
-          "pt": "Versículo 1 de 18, do Salmo 83."
+        "gancho": {
+          "es": "Asaf le pide a Dios que no se quede callado.",
+          "pt": "Asafe pede a Deus que não fique calado."
         }
       },
       {
-        "ref": "Psalms 83:5",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night clouds",
-        "titulo": {
-          "es": "Salmo 83:5 — Por esto han conspirado de corazón | Biblia",
-          "en": "Psalm 83:5 — For they have consulted together with one | Bible",
-          "pt": "Salmo 83:5 — Porque tomaram conselhos com uma só intenção | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 5 de 18, del Salmo 83.",
-          "pt": "Versículo 5 de 18, do Salmo 83."
-        }
-      },
-      {
-        "ref": "Psalms 83:10",
-        "tipo": "descriptivo",
+        "ref": "Psalms 83:16",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 83:10 — Que perecieron en Endor, fueron hechos muladar | Biblia",
-          "en": "Psalm 83:10 — Which perished at En–dor: they became | Bible",
-          "pt": "Salmo 83:10 — Que pereceram em Endor; vieram a ser | Bíblia"
+          "es": "Salmo 83:16 — Llena sus rostros de vergüenza; y busquen | Biblia",
+          "en": "Psalm 83:16 — Fill their faces with shame; that they | Bible",
+          "pt": "Salmo 83:16 — Enche os rostos deles de vergonha | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 10 de 18, del Salmo 83.",
-          "pt": "Versículo 10 de 18, do Salmo 83."
+        "gancho": {
+          "es": "Lo que Asaf pide para sus enemigos.",
+          "pt": "O que Asafe pede para os inimigos."
         }
       },
       {
-        "ref": "Psalms 83:14",
-        "tipo": "descriptivo",
+        "ref": "Psalms 83:2",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 83:14 — Como fuego que quema el monte, como | Biblia",
-          "en": "Psalm 83:14 — As the fire burneth a wood | Bible",
-          "pt": "Salmo 83:14 — Como o fogo, que queima uma floresta | Bíblia"
+          "es": "Salmo 83:2 — Porque he aquí que braman tus enemigos | Biblia",
+          "en": "Psalm 83:2 — For, lo, thine enemies make a tumult | Bible",
+          "pt": "Salmo 83:2 — Porque eis que teus inimigos fazem barulho | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 14 de 18, del Salmo 83.",
-          "pt": "Versículo 14 de 18, do Salmo 83."
+        "gancho": {
+          "es": "Así describe Asaf a los enemigos de su pueblo.",
+          "pt": "Assim Asafe descreve os inimigos do povo."
         }
       }
     ]
@@ -11274,59 +11274,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 87:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 87:7",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 87:1 — A los hijos de Coré: Salmo: Canción | Biblia",
-          "en": "Psalm 87:1 — His foundation is in the holy mountains | Bible",
-          "pt": "Salmo 87:1 — Seu fundamento está nos santos montes | Bíblia"
+          "es": "Salmo 87:7 — Y cantores y tañedores en ella dirán | Biblia",
+          "en": "Psalm 87:7 — As well the singers as the players | Bible",
+          "pt": "Salmo 87:7 — Assim como os cantores e instrumentistas; todas | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 7, del Salmo 87.",
-          "pt": "Versículo 1 de 7, do Salmo 87."
+        "gancho": {
+          "es": "El último versículo del salmo de Sión.",
+          "pt": "O último versículo do salmo de Sião."
+        }
+      },
+      {
+        "ref": "Psalms 87:3",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Salmo 87:3 — Cosas ilustres son dichas de ti, ciudad | Biblia",
+          "en": "Psalm 87:3 — Glorious things are spoken of thee | Bible",
+          "pt": "Salmo 87:3 — Gloriosas coisas são faladas de ti, ó | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que se dice de la ciudad de Dios.",
+          "pt": "O que se diz da cidade de Deus."
+        }
+      },
+      {
+        "ref": "Psalms 87:5",
+        "tipo": "promesa",
+        "consulta_imagem": "night sky",
+        "titulo": {
+          "es": "Salmo 87:5 — Y de Sión se dirá: Este | Biblia",
+          "en": "Psalm 87:5 — And of Zion it shall be said | Bible",
+          "pt": "Salmo 87:5 — E de Sião se dirá: Este | Bíblia"
+        },
+        "gancho": {
+          "es": "Nacer en Sión, según los hijos de Coré.",
+          "pt": "Nascer em Sião, segundo os filhos de Corá."
         }
       },
       {
         "ref": "Psalms 87:2",
-        "tipo": "descriptivo",
-        "consulta_imagem": "desert night",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
         "titulo": {
           "es": "Salmo 87:2 — Ama Jehová las puertas de Sión más | Biblia",
           "en": "Psalm 87:2 — The Lord loveth the gates of Zion | Bible",
           "pt": "Salmo 87:2 — O SENHOR ama os portões de Sião | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 2 de 7, del Salmo 87.",
-          "pt": "Versículo 2 de 7, do Salmo 87."
-        }
-      },
-      {
-        "ref": "Psalms 87:4",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night sky",
-        "titulo": {
-          "es": "Salmo 87:4 — Yo me acordaré de Rahab | Biblia",
-          "en": "Psalm 87:4 — I will make mention of Rahab | Bible",
-          "pt": "Salmo 87:4 — Farei menção de Raabe e Babilônia aos | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 4 de 7, del Salmo 87.",
-          "pt": "Versículo 4 de 7, do Salmo 87."
-        }
-      },
-      {
-        "ref": "Psalms 87:6",
-        "tipo": "descriptivo",
-        "consulta_imagem": "moon clouds",
-        "titulo": {
-          "es": "Salmo 87:6 — Jehová contará cuando se escribieren los pueblos | Biblia",
-          "en": "Psalm 87:6 — The Lord shall count, when he writeth | Bible",
-          "pt": "Salmo 87:6 — O SENHOR contará, quando escrever dos povos | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 6 de 7, del Salmo 87.",
-          "pt": "Versículo 6 de 7, do Salmo 87."
+        "gancho": {
+          "es": "Lo que Jehová ama más que todas las moradas.",
+          "pt": "O que o Senhor ama mais que todas as moradas."
         }
       }
     ]
@@ -11388,58 +11388,58 @@
     "shorts": [
       {
         "ref": "Psalms 88:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night lake",
         "titulo": {
           "es": "Salmo 88:1 — Oh Jehová, Dios de mi salud, día | Biblia",
           "en": "Psalm 88:1 — O Lord God of my salvation, I | Bible",
           "pt": "Salmo 88:1 — Ó SENHOR Deus de minha salvação, dia | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 18, del Salmo 88.",
-          "pt": "Versículo 1 de 18, do Salmo 88."
+        "gancho": {
+          "es": "El salmo más oscuro de la Biblia empieza así.",
+          "pt": "O salmo mais escuro da Bíblia começa assim."
         }
       },
       {
-        "ref": "Psalms 88:5",
-        "tipo": "descriptivo",
+        "ref": "Psalms 88:2",
+        "tipo": "promesa",
         "consulta_imagem": "moon night",
         "titulo": {
-          "es": "Salmo 88:5 — Libre entre los muertos, como los matados | Biblia",
-          "en": "Psalm 88:5 — Free among the dead, like the slain | Bible",
-          "pt": "Salmo 88:5 — Abandonado entre os mortos, como os feridos | Bíblia"
+          "es": "Salmo 88:2 — Entre mi oración en tu presencia: inclina | Biblia",
+          "en": "Psalm 88:2 — Let my prayer come before thee: incline | Bible",
+          "pt": "Salmo 88:2 — Que minha oração chegue à tua presença | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 5 de 18, del Salmo 88.",
-          "pt": "Versículo 5 de 18, do Salmo 88."
+        "gancho": {
+          "es": "Una oración de quien no recibe respuesta.",
+          "pt": "Uma oração de quem não recebe resposta."
         }
       },
       {
-        "ref": "Psalms 88:10",
-        "tipo": "descriptivo",
+        "ref": "Psalms 88:13",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 88:10 — ¿Harás tú milagro a los muertos? ¿levantaránse | Biblia",
-          "en": "Psalm 88:10 — Wilt thou shew wonders to the dead? | Bible",
-          "pt": "Salmo 88:10 — Farás tu milagres aos mortos? Ou mortos | Bíblia"
+          "es": "Salmo 88:13 — Mas yo a ti he clamado, oh | Biblia",
+          "en": "Psalm 88:13 — But unto thee have I cried | Bible",
+          "pt": "Salmo 88:13 — Porém eu, SENHOR, clamo a ti | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 10 de 18, del Salmo 88.",
-          "pt": "Versículo 10 de 18, do Salmo 88."
+        "gancho": {
+          "es": "Hemán oraba de mañana, sin respuesta. Y seguía.",
+          "pt": "Hemã orava de manhã, sem resposta. E seguia."
         }
       },
       {
-        "ref": "Psalms 88:14",
-        "tipo": "descriptivo",
+        "ref": "Psalms 88:9",
+        "tipo": "promesa",
         "consulta_imagem": "night lake",
         "titulo": {
-          "es": "Salmo 88:14 — ¿Por qué, oh Jehová, desechas mi alma? | Biblia",
-          "en": "Psalm 88:14 — Lord, why castest thou off my soul? | Bible",
-          "pt": "Salmo 88:14 — Por que tu, SENHOR, rejeitas minha alma | Bíblia"
+          "es": "Salmo 88:9 — Mis ojos enfermaron a causa | Biblia",
+          "en": "Psalm 88:9 — Mine eye mourneth by reason of affliction | Bible",
+          "pt": "Salmo 88:9 — Meus olhos estão fracos por causa | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 14 de 18, del Salmo 88.",
-          "pt": "Versículo 14 de 18, do Salmo 88."
+        "gancho": {
+          "es": "Lo que hace este hombre cada día, sin salida.",
+          "pt": "O que este homem faz cada dia, sem saída."
         }
       }
     ]
@@ -11501,58 +11501,58 @@
     "shorts": [
       {
         "ref": "Psalms 89:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
           "es": "Salmo 89:1 — Las misericordias de Jehová cantaré perpetuamente | Biblia",
           "en": "Psalm 89:1 — I will sing of the mercies | Bible",
           "pt": "Salmo 89:1 — Cantarei das bondades do SENHOR para sempre | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 52, del Salmo 89.",
-          "pt": "Versículo 1 de 52, do Salmo 89."
+        "gancho": {
+          "es": "El primer versículo del Salmo ochenta y nueve.",
+          "pt": "O primeiro versículo do Salmo oitenta e nove."
         }
       },
       {
-        "ref": "Psalms 89:13",
-        "tipo": "descriptivo",
+        "ref": "Psalms 89:15",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 89:13 — Tuyo el brazo con valentía; fuerte | Biblia",
-          "en": "Psalm 89:13 — Thou hast a mighty arm: strong is | Bible",
-          "pt": "Salmo 89:13 — Tu tens um braço poderoso; forte é | Bíblia"
+          "es": "Salmo 89:15 — Bienaventurado el pueblo que sabe aclamarte: andarán | Biblia",
+          "en": "Psalm 89:15 — Blessed is the people that know | Bible",
+          "pt": "Salmo 89:15 — Bem-aventurado é o povo que entende | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 13 de 52, del Salmo 89.",
-          "pt": "Versículo 13 de 52, do Salmo 89."
+        "gancho": {
+          "es": "A quién llama bienaventurado el Salmo ochenta y nueve.",
+          "pt": "Quem o Salmo oitenta e nove chama de bem-aventurado."
         }
       },
       {
         "ref": "Psalms 89:26",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
           "es": "Salmo 89:26 — El me llamará: Mi padre eres tú | Biblia",
           "en": "Psalm 89:26 — He shall cry unto me, Thou art | Bible",
           "pt": "Salmo 89:26 — Ele me chamará: Tu és meu Pai | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 26 de 52, del Salmo 89.",
-          "pt": "Versículo 26 de 52, do Salmo 89."
+        "gancho": {
+          "es": "Cómo llamará el rey a Dios, según la promesa.",
+          "pt": "Como o rei chamará a Deus, segundo a promessa."
         }
       },
       {
-        "ref": "Psalms 89:39",
-        "tipo": "descriptivo",
+        "ref": "Psalms 89:9",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
-          "es": "Salmo 89:39 — Rompiste el pacto de tu siervo; has | Biblia",
-          "en": "Psalm 89:39 — Thou hast made void the covenant | Bible",
-          "pt": "Salmo 89:39 — Anulaste o pacto do teu servo; desonraste | Bíblia"
+          "es": "Salmo 89:9 — Tú tienes dominio sobre la bravura | Biblia",
+          "en": "Psalm 89:9 — Thou rulest the raging of the sea | Bible",
+          "pt": "Salmo 89:9 — Tu dominas a arrogância do mar; quando | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 39 de 52, del Salmo 89.",
-          "pt": "Versículo 39 de 52, do Salmo 89."
+        "gancho": {
+          "es": "Quién manda en el mar, según Etán.",
+          "pt": "Quem manda no mar, segundo Etã."
         }
       }
     ]
@@ -11613,59 +11613,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 101:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 101:2",
+        "tipo": "promesa",
         "consulta_imagem": "night sea",
         "titulo": {
-          "es": "Salmo 101:1 — Misericordia y juicio cantaré: a ti cantaré | Biblia",
-          "en": "Psalm 101:1 — I will sing of mercy and judgment | Bible",
-          "pt": "Salmo 101:1 — Cantarei sobre a bondade e o juízo | Bíblia"
+          "es": "Salmo 101:2 — Entenderé en el camino de la perfección | Biblia",
+          "en": "Psalm 101:2 — I will behave myself wisely | Bible",
+          "pt": "Salmo 101:2 — No caminho correto eu meditarei; mas quando | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 8, del Salmo 101.",
-          "pt": "Versículo 1 de 8, do Salmo 101."
+        "gancho": {
+          "es": "El compromiso de David dentro de su propia casa.",
+          "pt": "O compromisso de Davi dentro da própria casa."
         }
       },
       {
         "ref": "Psalms 101:3",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night clouds",
         "titulo": {
           "es": "Salmo 101:3 — No pondré delante de mis ojos cosa | Biblia",
           "en": "Psalm 101:3 — I will set no wicked thing before | Bible",
           "pt": "Salmo 101:3 — Não porei perante meus olhos obra maligna | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 3 de 8, del Salmo 101.",
-          "pt": "Versículo 3 de 8, do Salmo 101."
+        "gancho": {
+          "es": "Lo que David no pondrá delante de sus ojos.",
+          "pt": "O que Davi não porá diante dos olhos."
         }
       },
       {
-        "ref": "Psalms 101:5",
-        "tipo": "descriptivo",
+        "ref": "Psalms 101:6",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 101:5 — Al que solapadamente infama a su prójimo | Biblia",
-          "en": "Psalm 101:5 — Whoso privily slandereth his neighbour, him will | Bible",
-          "pt": "Salmo 101:5 — Destruirei ao que fala mal | Bíblia"
+          "es": "Salmo 101:6 — Mis ojos pondré en los fieles | Biblia",
+          "en": "Psalm 101:6 — Mine eyes shall be upon the faithful | Bible",
+          "pt": "Salmo 101:6 — Meus olhos estarão sobre os fiéis | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 5 de 8, del Salmo 101.",
-          "pt": "Versículo 5 de 8, do Salmo 101."
+        "gancho": {
+          "es": "Con quién decide andar David.",
+          "pt": "Com quem Davi decide andar."
         }
       },
       {
-        "ref": "Psalms 101:7",
-        "tipo": "descriptivo",
+        "ref": "Psalms 101:1",
+        "tipo": "promesa",
         "consulta_imagem": "night sea",
         "titulo": {
-          "es": "Salmo 101:7 — No habitará dentro de mi casa | Biblia",
-          "en": "Psalm 101:7 — He that worketh deceit shall not dwell | Bible",
-          "pt": "Salmo 101:7 — Aquele que usa de engano não habitará | Bíblia"
+          "es": "Salmo 101:1 — Misericordia y juicio cantaré: a ti cantaré | Biblia",
+          "en": "Psalm 101:1 — I will sing of mercy and judgment | Bible",
+          "pt": "Salmo 101:1 — Cantarei sobre a bondade e o juízo | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 7 de 8, del Salmo 101.",
-          "pt": "Versículo 7 de 8, do Salmo 101."
+        "gancho": {
+          "es": "El Salmo ciento uno empieza con un canto.",
+          "pt": "O Salmo cento e um começa com um canto."
         }
       }
     ]
@@ -11726,59 +11726,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 102:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 102:1-2",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 102:1 — Jehová, oye mi oración, y venga | Biblia",
-          "en": "Psalm 102:1 — Hear my prayer, O Lord, and let | Bible",
-          "pt": "Salmo 102:1 — Ó SENHOR, ouve minha oração | Bíblia"
+          "es": "Salmo 102:1-2 — Jehová, oye mi oración, y venga | Biblia",
+          "en": "Psalm 102:1-2 — Hear my prayer, O Lord, and let | Bible",
+          "pt": "Salmo 102:1-2 — Ó SENHOR, ouve minha oração | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 28, del Salmo 102.",
-          "pt": "Versículo 1 de 28, do Salmo 102."
+        "gancho": {
+          "es": "La oración de un afligido, según la inscripción.",
+          "pt": "A oração de um aflito, segundo a inscrição."
         }
       },
       {
-        "ref": "Psalms 102:8",
-        "tipo": "descriptivo",
+        "ref": "Psalms 102:17",
+        "tipo": "promesa",
         "consulta_imagem": "night clouds",
         "titulo": {
-          "es": "Salmo 102:8 — Cada día me afrentan mis enemigos | Biblia",
-          "en": "Psalm 102:8 — Mine enemies reproach me all the day | Bible",
-          "pt": "Salmo 102:8 — Os meus inimigos me insultam o dia | Bíblia"
+          "es": "Salmo 102:17 — Habrá mirado a la oración | Biblia",
+          "en": "Psalm 102:17 — He will regard the prayer | Bible",
+          "pt": "Salmo 102:17 — E der atenção à oração do desamparado | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 8 de 28, del Salmo 102.",
-          "pt": "Versículo 8 de 28, do Salmo 102."
+        "gancho": {
+          "es": "A quién escucha Dios, según el Salmo ciento dos.",
+          "pt": "Quem Deus escuta, segundo o Salmo cento e dois."
         }
       },
       {
-        "ref": "Psalms 102:15",
-        "tipo": "descriptivo",
+        "ref": "Psalms 102:11-12",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 102:15 — Entonces temerán las gentes el nombre | Biblia",
-          "en": "Psalm 102:15 — So the heathen shall fear the name | Bible",
-          "pt": "Salmo 102:15 — Então as nações temerão o nome | Bíblia"
+          "es": "Salmo 102:11-12 — Mis días son como la sombra | Biblia",
+          "en": "Psalm 102:11-12 — My days are like a shadow that | Bible",
+          "pt": "Salmo 102:11-12 — Meus dias têm sido como a sombra | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 15 de 28, del Salmo 102.",
-          "pt": "Versículo 15 de 28, do Salmo 102."
+        "gancho": {
+          "es": "Mis días son como la sombra. Y tú permaneces.",
+          "pt": "Meus dias são como a sombra. E tu permaneces."
         }
       },
       {
-        "ref": "Psalms 102:22",
-        "tipo": "descriptivo",
+        "ref": "Psalms 102:27",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 102:22 — Cuando los pueblos se congregaren en uno | Biblia",
-          "en": "Psalm 102:22 — When the people are gathered together | Bible",
-          "pt": "Salmo 102:22 — Quando os povos se reunirem | Bíblia"
+          "es": "Salmo 102:27 — Mas tú eres el mismo, y tus | Biblia",
+          "en": "Psalm 102:27 — But thou art the same, and thy | Bible",
+          "pt": "Salmo 102:27 — Porém tu és o mesmo; e teus | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 22 de 28, del Salmo 102.",
-          "pt": "Versículo 22 de 28, do Salmo 102."
+        "gancho": {
+          "es": "El versículo que Hebreos cita sobre Dios.",
+          "pt": "O versículo que Hebreus cita sobre Deus."
         }
       }
     ]
@@ -11840,58 +11840,58 @@
     "shorts": [
       {
         "ref": "Psalms 106:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
           "es": "Salmo 106:1 — Aleluya. Alabad a Jehová, porque es bueno | Biblia",
           "en": "Psalm 106:1 — Praise ye the Lord. O give thanks | Bible",
           "pt": "Salmo 106:1 — Aleluia! Agradecei ao SENHOR, porque ele é | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 48, del Salmo 106.",
-          "pt": "Versículo 1 de 48, do Salmo 106."
+        "gancho": {
+          "es": "El primer versículo del Salmo ciento seis.",
+          "pt": "O primeiro versículo do Salmo cento e seis."
         }
       },
       {
-        "ref": "Psalms 106:13",
-        "tipo": "descriptivo",
+        "ref": "Psalms 106:3",
+        "tipo": "promesa",
         "consulta_imagem": "desert night",
         "titulo": {
-          "es": "Salmo 106:13 — Apresuráronse, olvidáronse de sus obras; no esperaron | Biblia",
-          "en": "Psalm 106:13 — They soon forgat his works; they waited | Bible",
-          "pt": "Salmo 106:13 — Porém logo se esqueceram das obras dele | Bíblia"
+          "es": "Salmo 106:3 — Dichosos los que guardan juicio | Biblia",
+          "en": "Psalm 106:3 — Blessed are they that keep judgment | Bible",
+          "pt": "Salmo 106:3 — Bem-aventurados são os que guardam o juízo | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 13 de 48, del Salmo 106.",
-          "pt": "Versículo 13 de 48, do Salmo 106."
+        "gancho": {
+          "es": "A quién llama dichoso el Salmo ciento seis.",
+          "pt": "Quem o Salmo cento e seis chama de feliz."
         }
       },
       {
-        "ref": "Psalms 106:25",
-        "tipo": "descriptivo",
+        "ref": "Psalms 106:4",
+        "tipo": "promesa",
         "consulta_imagem": "night sky",
         "titulo": {
-          "es": "Salmo 106:25 — Antes murmuraron en sus tiendas | Biblia",
-          "en": "Psalm 106:25 — But murmured in their tents, and hearkened | Bible",
-          "pt": "Salmo 106:25 — E ao invés disso murmuraram em suas | Bíblia"
+          "es": "Salmo 106:4 — Acuérdate de mí, oh Jehová, según tu | Biblia",
+          "en": "Psalm 106:4 — Remember me, O Lord, with the favour | Bible",
+          "pt": "Salmo 106:4 — Lembra-te de mim, SENHOR, conforme tua boa | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 25 de 48, del Salmo 106.",
-          "pt": "Versículo 25 de 48, do Salmo 106."
+        "gancho": {
+          "es": "Acuérdate de mí: la oración de este salmo.",
+          "pt": "Lembra-te de mim: a oração deste salmo."
         }
       },
       {
-        "ref": "Psalms 106:37",
-        "tipo": "descriptivo",
+        "ref": "Psalms 106:44-45",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 106:37 — Y sacrificaron sus hijos y sus hijas | Biblia",
-          "en": "Psalm 106:37 — Yea, they sacrificed their sons and their | Bible",
-          "pt": "Salmo 106:37 — Além disso, sacrificaram seus filhos e suas | Bíblia"
+          "es": "Salmo 106:44-45 — El con todo, miraba cuando estaban | Biblia",
+          "en": "Psalm 106:44-45 — Nevertheless he regarded their affliction, when he | Bible",
+          "pt": "Salmo 106:44-45 — Apesar disso, ele observou a angústia deles | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 37 de 48, del Salmo 106.",
-          "pt": "Versículo 37 de 48, do Salmo 106."
+        "gancho": {
+          "es": "Lo que Dios hizo después de todas las caídas.",
+          "pt": "O que Deus fez depois de todas as quedas."
         }
       }
     ]
@@ -11952,59 +11952,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 109:2",
-        "tipo": "descriptivo",
+        "ref": "Psalms 109:21",
+        "tipo": "promesa",
         "consulta_imagem": "night lake",
         "titulo": {
-          "es": "Salmo 109:2 — Porque boca de impío y boca | Biblia",
-          "en": "Psalm 109:2 — For the mouth of the wicked | Bible",
-          "pt": "Salmo 109:2 — Porque a boca do perverso | Bíblia"
+          "es": "Salmo 109:21 — Y tú, Jehová Señor, haz conmigo | Biblia",
+          "en": "Psalm 109:21 — But do thou for me, O God | Bible",
+          "pt": "Salmo 109:21 — Porém tu, Senhor DEUS, me trata bem | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 2 de 31, del Salmo 109.",
-          "pt": "Versículo 2 de 31, do Salmo 109."
+        "gancho": {
+          "es": "En medio de acusaciones, David pide esto.",
+          "pt": "No meio das acusações, Davi pede isto."
         }
       },
       {
-        "ref": "Psalms 109:9",
-        "tipo": "descriptivo",
+        "ref": "Psalms 109:22",
+        "tipo": "promesa",
         "consulta_imagem": "moon night",
         "titulo": {
-          "es": "Salmo 109:9 — Sean sus hijos huérfanos, y su mujer | Biblia",
-          "en": "Psalm 109:9 — Let his children be fatherless | Bible",
-          "pt": "Salmo 109:9 — Sejam seus filhos órfãos, e sua mulher | Bíblia"
+          "es": "Salmo 109:22 — Porque yo estoy afligido y necesitado | Biblia",
+          "en": "Psalm 109:22 — For I am poor and needy | Bible",
+          "pt": "Salmo 109:22 — Porque estou aflito e necessitado | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 9 de 31, del Salmo 109.",
-          "pt": "Versículo 9 de 31, do Salmo 109."
+        "gancho": {
+          "es": "David se describe a sí mismo con tres palabras.",
+          "pt": "Davi se descreve com três palavras."
         }
       },
       {
-        "ref": "Psalms 109:17",
-        "tipo": "descriptivo",
+        "ref": "Psalms 109:26",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 109:17 — Y amó la maldición, y vínole | Biblia",
-          "en": "Psalm 109:17 — As he loved cursing, so let it | Bible",
-          "pt": "Salmo 109:17 — Já que ele amou a maldição, então | Bíblia"
+          "es": "Salmo 109:26 — Ayúdame, Jehová Dios mío: sálvame conforme | Biblia",
+          "en": "Psalm 109:26 — Help me, O Lord my God | Bible",
+          "pt": "Salmo 109:26 — Socorre-me, SENHOR Deus meu; salva-me conforme | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 17 de 31, del Salmo 109.",
-          "pt": "Versículo 17 de 31, do Salmo 109."
+        "gancho": {
+          "es": "El pedido de auxilio del Salmo ciento nueve.",
+          "pt": "O pedido de socorro do Salmo cento e nove."
         }
       },
       {
-        "ref": "Psalms 109:24",
-        "tipo": "descriptivo",
+        "ref": "Psalms 109:31",
+        "tipo": "promesa",
         "consulta_imagem": "night lake",
         "titulo": {
-          "es": "Salmo 109:24 — Mis rodillas están debilitadas a causa | Biblia",
-          "en": "Psalm 109:24 — My knees are weak through fasting | Bible",
-          "pt": "Salmo 109:24 — Meus joelhos estão fracos de tanto jejuar | Bíblia"
+          "es": "Salmo 109:31 — Porque él se pondrá a la diestra | Biblia",
+          "en": "Psalm 109:31 — For he shall stand at the right | Bible",
+          "pt": "Salmo 109:31 — Porque ele se põe à direita | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 24 de 31, del Salmo 109.",
-          "pt": "Versículo 24 de 31, do Salmo 109."
+        "gancho": {
+          "es": "Dónde se pone Dios, según el último versículo.",
+          "pt": "Onde Deus se põe, segundo o último versículo."
         }
       }
     ]
@@ -12066,58 +12066,58 @@
     "shorts": [
       {
         "ref": "Psalms 110:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
           "es": "Salmo 110:1 — Jehová dijo a mi Señor: Siéntate | Biblia",
           "en": "Psalm 110:1 — The Lord said unto my Lord, Sit | Bible",
           "pt": "Salmo 110:1 — O SENHOR disse a meu Senhor: Senta-te | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 7, del Salmo 110.",
-          "pt": "Versículo 1 de 7, do Salmo 110."
+        "gancho": {
+          "es": "El versículo del Antiguo Testamento más citado en el Nuevo.",
+          "pt": "O versículo do Antigo Testamento mais citado no Novo."
         }
       },
       {
-        "ref": "Psalms 110:2",
-        "tipo": "descriptivo",
+        "ref": "Psalms 110:4",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 110:2 — La vara de tu fortaleza enviará Jehová | Biblia",
-          "en": "Psalm 110:2 — The Lord shall send the rod | Bible",
-          "pt": "Salmo 110:2 — O SENHOR enviará o cetro de tua | Bíblia"
+          "es": "Salmo 110:4 — Juró Jehová, y no se arrepentirá: Tú | Biblia",
+          "en": "Psalm 110:4 — The Lord hath sworn, and will not | Bible",
+          "pt": "Salmo 110:4 — O SENHOR jurou, e não se arrependerá | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 2 de 7, del Salmo 110.",
-          "pt": "Versículo 2 de 7, do Salmo 110."
+        "gancho": {
+          "es": "Un juramento de Dios que no cambia.",
+          "pt": "Um juramento de Deus que não muda."
         }
       },
       {
-        "ref": "Psalms 110:5",
-        "tipo": "descriptivo",
+        "ref": "Psalms 110:3",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 110:5 — El Señor a tu diestra herirá | Biblia",
-          "en": "Psalm 110:5 — The Lord at thy right hand shall | Bible",
-          "pt": "Salmo 110:5 — O Senhor está à tua direita; ele | Bíblia"
+          "es": "Salmo 110:3 — Tu pueblo serálo de buena voluntad | Biblia",
+          "en": "Psalm 110:3 — Thy people shall be willing | Bible",
+          "pt": "Salmo 110:3 — Teu povo será voluntário no dia | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 5 de 7, del Salmo 110.",
-          "pt": "Versículo 5 de 7, do Salmo 110."
+        "gancho": {
+          "es": "El pueblo del rey en el día de su poder.",
+          "pt": "O povo do rei no dia do seu poder."
         }
       },
       {
-        "ref": "Psalms 110:6",
-        "tipo": "descriptivo",
+        "ref": "Psalms 110:7",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
-          "es": "Salmo 110:6 — Juzgará en las gentes, llenará | Biblia",
-          "en": "Psalm 110:6 — He shall judge among the heathen, he | Bible",
-          "pt": "Salmo 110:6 — Julgará entre as nações; ele as encherá | Bíblia"
+          "es": "Salmo 110:7 — Del arroyo beberá en el camino | Biblia",
+          "en": "Psalm 110:7 — He shall drink of the brook | Bible",
+          "pt": "Salmo 110:7 — Ele beberá do ribeiro no caminho, então | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 6 de 7, del Salmo 110.",
-          "pt": "Versículo 6 de 7, do Salmo 110."
+        "gancho": {
+          "es": "El último versículo del Salmo ciento diez.",
+          "pt": "O último versículo do Salmo cento e dez."
         }
       }
     ]
@@ -12178,59 +12178,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 114:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 114:1-2",
+        "tipo": "promesa",
         "consulta_imagem": "night sea",
         "titulo": {
-          "es": "Salmo 114:1 — Cuando salió Israel de Egipto, la casa | Biblia",
-          "en": "Psalm 114:1 — When Israel went out of Egypt | Bible",
-          "pt": "Salmo 114:1 — Quando Israel saiu do Egito, quando | Bíblia"
+          "es": "Salmo 114:1-2 — Cuando salió Israel de Egipto, la casa | Biblia",
+          "en": "Psalm 114:1-2 — When Israel went out of Egypt | Bible",
+          "pt": "Salmo 114:1-2 — Quando Israel saiu do Egito, quando | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 8, del Salmo 114.",
-          "pt": "Versículo 1 de 8, do Salmo 114."
+        "gancho": {
+          "es": "Un salmo sobre el día en que Israel salió de Egipto.",
+          "pt": "Um salmo sobre o dia em que Israel saiu do Egito."
         }
       },
       {
-        "ref": "Psalms 114:3",
-        "tipo": "descriptivo",
+        "ref": "Psalms 114:3-4",
+        "tipo": "promesa",
         "consulta_imagem": "night clouds",
         "titulo": {
-          "es": "Salmo 114:3 — La mar vio, y huyó; el Jordán | Biblia",
-          "en": "Psalm 114:3 — The sea saw it, and fled: Jordan | Bible",
-          "pt": "Salmo 114:3 — O mar viu, e fugiu | Bíblia"
+          "es": "Salmo 114:3-4 — La mar vio, y huyó; el Jordán | Biblia",
+          "en": "Psalm 114:3-4 — The sea saw it, and fled: Jordan | Bible",
+          "pt": "Salmo 114:3-4 — O mar viu, e fugiu | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 3 de 8, del Salmo 114.",
-          "pt": "Versículo 3 de 8, do Salmo 114."
-        }
-      },
-      {
-        "ref": "Psalms 114:5",
-        "tipo": "descriptivo",
-        "consulta_imagem": "starry sky",
-        "titulo": {
-          "es": "Salmo 114:5 — ¿Qué tuviste, oh mar, que huiste? ¿y | Biblia",
-          "en": "Psalm 114:5 — What ailed thee, O thou sea, that | Bible",
-          "pt": "Salmo 114:5 — O que houve, ó mar, que fugiste? | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 5 de 8, del Salmo 114.",
-          "pt": "Versículo 5 de 8, do Salmo 114."
+        "gancho": {
+          "es": "El mar huyó. El Jordán volvió atrás.",
+          "pt": "O mar fugiu. O Jordão voltou atrás."
         }
       },
       {
         "ref": "Psalms 114:7",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night sea",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
         "titulo": {
           "es": "Salmo 114:7 — A la presencia del Señor tiembla | Biblia",
           "en": "Psalm 114:7 — Tremble, thou earth, at the presence | Bible",
           "pt": "Salmo 114:7 — Trema tu, ó terra, pela presença | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 7 de 8, del Salmo 114.",
-          "pt": "Versículo 7 de 8, do Salmo 114."
+        "gancho": {
+          "es": "Ante quién tiembla la tierra.",
+          "pt": "Diante de quem a terra treme."
+        }
+      },
+      {
+        "ref": "Psalms 114:8",
+        "tipo": "promesa",
+        "consulta_imagem": "night sea",
+        "titulo": {
+          "es": "Salmo 114:8 — El cual tornó la peña en estanque | Biblia",
+          "en": "Psalm 114:8 — Which turned the rock into a standing | Bible",
+          "pt": "Salmo 114:8 — Que tornou a rocha em lago | Bíblia"
+        },
+        "gancho": {
+          "es": "El último versículo: la roca convertida en fuente.",
+          "pt": "O último versículo: a rocha que virou fonte."
         }
       }
     ]
@@ -12292,58 +12292,58 @@
     "shorts": [
       {
         "ref": "Psalms 120:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
           "es": "Salmo 120:1 — A Jehová llamé estando en angustia | Biblia",
           "en": "Psalm 120:1 — In my distress I cried unto | Bible",
           "pt": "Salmo 120:1 — Em minha angústia clamei ao SENHOR | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 7, del Salmo 120.",
-          "pt": "Versículo 1 de 7, do Salmo 120."
+        "gancho": {
+          "es": "El primer cántico de las subidas empieza así.",
+          "pt": "O primeiro cântico das subidas começa assim."
         }
       },
       {
         "ref": "Psalms 120:2",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night clouds",
         "titulo": {
           "es": "Salmo 120:2 — Libra mi alma, oh Jehová, de labio | Biblia",
           "en": "Psalm 120:2 — Deliver my soul, O Lord, from lying | Bible",
           "pt": "Salmo 120:2 — Ó SENHOR, livra minha alma dos lábios | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 2 de 7, del Salmo 120.",
-          "pt": "Versículo 2 de 7, do Salmo 120."
+        "gancho": {
+          "es": "De qué pide ser librado el salmista.",
+          "pt": "De que o salmista pede para ser livrado."
         }
       },
       {
-        "ref": "Psalms 120:4",
-        "tipo": "descriptivo",
+        "ref": "Psalms 120:7",
+        "tipo": "promesa",
         "consulta_imagem": "starry sky",
         "titulo": {
-          "es": "Salmo 120:4 — Agudas saetas de valiente, con brasas | Biblia",
-          "en": "Psalm 120:4 — Sharp arrows of the mighty, with coals | Bible",
-          "pt": "Salmo 120:4 — Flechas afiadas de um guerreiro, com brasas | Bíblia"
+          "es": "Salmo 120:7 — Yo soy pacífico: mas ellos, así | Biblia",
+          "en": "Psalm 120:7 — I am for peace: but when I | Bible",
+          "pt": "Salmo 120:7 — Eu sou da paz; mas quando falo | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 4 de 7, del Salmo 120.",
-          "pt": "Versículo 4 de 7, do Salmo 120."
+        "gancho": {
+          "es": "Yo soy pacífico: la queja de este salmo.",
+          "pt": "Eu sou pacífico: a queixa deste salmo."
         }
       },
       {
         "ref": "Psalms 120:6",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
           "es": "Salmo 120:6 — Mucho se detiene mi alma | Biblia",
           "en": "Psalm 120:6 — My soul hath long dwelt with him | Bible",
           "pt": "Salmo 120:6 — Minha alma morou tempo demais | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 6 de 7, del Salmo 120.",
-          "pt": "Versículo 6 de 7, do Salmo 120."
+        "gancho": {
+          "es": "Vivir entre los que aborrecen la paz.",
+          "pt": "Viver entre os que odeiam a paz."
         }
       }
     ]
@@ -12404,59 +12404,59 @@
     },
     "shorts": [
       {
+        "ref": "Psalms 129:2",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 129:2 — Mucho me han angustiado desde mi juventud | Biblia",
+          "en": "Psalm 129:2 — Many a time have they afflicted me | Bible",
+          "pt": "Salmo 129:2 — Desde minha juventude, muitas vezes me afligiram | Bíblia"
+        },
+        "gancho": {
+          "es": "Israel cuenta su historia en una frase.",
+          "pt": "Israel conta sua história numa frase."
+        }
+      },
+      {
+        "ref": "Psalms 129:4",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Salmo 129:4 — Jehová es justo; cortó las coyundas | Biblia",
+          "en": "Psalm 129:4 — The Lord is righteous: he hath cut | Bible",
+          "pt": "Salmo 129:4 — O SENHOR é justo; ele cortou | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Jehová hizo con las cuerdas de los impíos.",
+          "pt": "O que o Senhor fez com as cordas dos ímpios."
+        }
+      },
+      {
+        "ref": "Psalms 129:3",
+        "tipo": "promesa",
+        "consulta_imagem": "night sky",
+        "titulo": {
+          "es": "Salmo 129:3 — Sobre mis espaldas araron los aradores: hicieron | Biblia",
+          "en": "Psalm 129:3 — The plowers plowed upon my back: they | Bible",
+          "pt": "Salmo 129:3 — Lavradores lavraram sobre minhas costas, fizeram compridos | Bíblia"
+        },
+        "gancho": {
+          "es": "Así describe Israel lo que le hicieron.",
+          "pt": "Assim Israel descreve o que lhe fizeram."
+        }
+      },
+      {
         "ref": "Psalms 129:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
           "es": "Salmo 129:1 — Mucho me han angustiado desde mi juventud | Biblia",
           "en": "Psalm 129:1 — Many a time have they afflicted me | Bible",
           "pt": "Salmo 129:1 — Diga Israel: Desde minha juventude muitas vezes | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 8, del Salmo 129.",
-          "pt": "Versículo 1 de 8, do Salmo 129."
-        }
-      },
-      {
-        "ref": "Psalms 129:3",
-        "tipo": "descriptivo",
-        "consulta_imagem": "desert night",
-        "titulo": {
-          "es": "Salmo 129:3 — Sobre mis espaldas araron los aradores: hicieron | Biblia",
-          "en": "Psalm 129:3 — The plowers plowed upon my back: they | Bible",
-          "pt": "Salmo 129:3 — Lavradores lavraram sobre minhas costas, fizeram compridos | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 3 de 8, del Salmo 129.",
-          "pt": "Versículo 3 de 8, do Salmo 129."
-        }
-      },
-      {
-        "ref": "Psalms 129:5",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night sky",
-        "titulo": {
-          "es": "Salmo 129:5 — Serán avergonzados y vueltos atrás todos | Biblia",
-          "en": "Psalm 129:5 — Let them all be confounded and turned | Bible",
-          "pt": "Salmo 129:5 — Sejam envergonhados, e voltem para trás todos | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 5 de 8, del Salmo 129.",
-          "pt": "Versículo 5 de 8, do Salmo 129."
-        }
-      },
-      {
-        "ref": "Psalms 129:7",
-        "tipo": "descriptivo",
-        "consulta_imagem": "moon clouds",
-        "titulo": {
-          "es": "Salmo 129:7 — De la cual no hinchió segador | Biblia",
-          "en": "Psalm 129:7 — Wherewith the mower filleth not his hand | Bible",
-          "pt": "Salmo 129:7 — Com que o ceifeiro não enche | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 7 de 8, del Salmo 129.",
-          "pt": "Versículo 7 de 8, do Salmo 129."
+        "gancho": {
+          "es": "Un cántico de las subidas sobre la juventud.",
+          "pt": "Um cântico das subidas sobre a juventude."
         }
       }
     ]
@@ -12517,59 +12517,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 132:1",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night lake",
-        "titulo": {
-          "es": "Salmo 132:1 — Acuérdate, oh Jehová, de David | Biblia",
-          "en": "Psalm 132:1 — Lord, remember David, and all his afflictions | Bible",
-          "pt": "Salmo 132:1 — Lembra-te, SENHOR, de Davi, e de todas | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 1 de 18, del Salmo 132.",
-          "pt": "Versículo 1 de 18, do Salmo 132."
-        }
-      },
-      {
-        "ref": "Psalms 132:5",
-        "tipo": "descriptivo",
-        "consulta_imagem": "moon night",
-        "titulo": {
-          "es": "Salmo 132:5 — Hasta que halle lugar para Jehová, moradas | Biblia",
-          "en": "Psalm 132:5 — Until I find out a place | Bible",
-          "pt": "Salmo 132:5 — Enquanto eu não achar um lugar | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 5 de 18, del Salmo 132.",
-          "pt": "Versículo 5 de 18, do Salmo 132."
-        }
-      },
-      {
-        "ref": "Psalms 132:10",
-        "tipo": "descriptivo",
-        "consulta_imagem": "starry sky",
-        "titulo": {
-          "es": "Salmo 132:10 — Por amor de David tu siervo | Biblia",
-          "en": "Psalm 132:10 — For thy servant David’s sake turn not | Bible",
-          "pt": "Salmo 132:10 — Por causa de Davi teu servo, não | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 10 de 18, del Salmo 132.",
-          "pt": "Versículo 10 de 18, do Salmo 132."
-        }
-      },
-      {
         "ref": "Psalms 132:14",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night lake",
         "titulo": {
           "es": "Salmo 132:14 — Este es mi reposo para siempre: aquí | Biblia",
           "en": "Psalm 132:14 — This is my rest for ever: here | Bible",
           "pt": "Salmo 132:14 — Dizendo: Este é o meu repouso | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 14 de 18, del Salmo 132.",
-          "pt": "Versículo 14 de 18, do Salmo 132."
+        "gancho": {
+          "es": "El lugar que Dios llama su reposo.",
+          "pt": "O lugar que Deus chama de seu repouso."
+        }
+      },
+      {
+        "ref": "Psalms 132:15",
+        "tipo": "promesa",
+        "consulta_imagem": "moon night",
+        "titulo": {
+          "es": "Salmo 132:15 — A su mantenimiento daré bendición: sus pobres | Biblia",
+          "en": "Psalm 132:15 — I will abundantly bless her provision: I | Bible",
+          "pt": "Salmo 132:15 — Abençoarei seu sustento abundantemente, e fartarei seus | Bíblia"
+        },
+        "gancho": {
+          "es": "La promesa de Dios para los pobres de Sión.",
+          "pt": "A promessa de Deus para os pobres de Sião."
+        }
+      },
+      {
+        "ref": "Psalms 132:4-5",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 132:4-5 — No daré sueño a mis ojos, ni | Biblia",
+          "en": "Psalm 132:4-5 — I will not give sleep to mine | Bible",
+          "pt": "Salmo 132:4-5 — Não darei sono aos meus olhos, nem | Bíblia"
+        },
+        "gancho": {
+          "es": "El voto de David: no dormir hasta hallar lugar.",
+          "pt": "O voto de Davi: não dormir até achar lugar."
+        }
+      },
+      {
+        "ref": "Psalms 132:11",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 132:11 — En verdad juró Jehová a David | Biblia",
+          "en": "Psalm 132:11 — The Lord hath sworn in truth unto | Bible",
+          "pt": "Salmo 132:11 — O SENHOR jurou a Davi com fidelidade | Bíblia"
+        },
+        "gancho": {
+          "es": "Un juramento de Dios a David.",
+          "pt": "Um juramento de Deus a Davi."
         }
       }
     ]
@@ -12631,58 +12631,58 @@
     "shorts": [
       {
         "ref": "Psalms 137:1",
-        "tipo": "descriptivo",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
           "es": "Salmo 137:1 — Junto a los ríos de Babilonia, allí | Biblia",
           "en": "Psalm 137:1 — By the rivers of Babylon, there we | Bible",
           "pt": "Salmo 137:1 — Junto aos rios da Babilônia nos sentamos | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 9, del Salmo 137.",
-          "pt": "Versículo 1 de 9, do Salmo 137."
+        "gancho": {
+          "es": "El salmo del exilio empieza junto a un río.",
+          "pt": "O salmo do exílio começa junto a um rio."
         }
       },
       {
-        "ref": "Psalms 137:3",
-        "tipo": "descriptivo",
+        "ref": "Psalms 137:4",
+        "tipo": "promesa",
         "consulta_imagem": "milky way",
         "titulo": {
-          "es": "Salmo 137:3 — Y los que allí nos habían llevado | Biblia",
-          "en": "Psalm 137:3 — For there they that carried us away | Bible",
-          "pt": "Salmo 137:3 — Porque ali os que tinham nos capturado | Bíblia"
+          "es": "Salmo 137:4 — Cantadnos algunos de los himnos de Sión | Biblia",
+          "en": "Psalm 137:4 — How shall we sing the Lord’s song | Bible",
+          "pt": "Salmo 137:4 — Como cantaríamos canções do SENHOR em terra | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 3 de 9, del Salmo 137.",
-          "pt": "Versículo 3 de 9, do Salmo 137."
+        "gancho": {
+          "es": "La pregunta de los que no podían cantar.",
+          "pt": "A pergunta dos que não conseguiam cantar."
         }
       },
       {
-        "ref": "Psalms 137:5",
-        "tipo": "descriptivo",
+        "ref": "Psalms 137:5-6",
+        "tipo": "promesa",
         "consulta_imagem": "moon clouds",
         "titulo": {
-          "es": "Salmo 137:5 — Si me olvidare de ti, oh Jerusalem | Biblia",
-          "en": "Psalm 137:5 — If I forget thee, O Jerusalem, let | Bible",
-          "pt": "Salmo 137:5 — Se eu me esquecer de ti, ó | Bíblia"
+          "es": "Salmo 137:5-6 — Si me olvidare de ti, oh Jerusalem | Biblia",
+          "en": "Psalm 137:5-6 — If I forget thee, O Jerusalem, let | Bible",
+          "pt": "Salmo 137:5-6 — Se eu me esquecer de ti, ó | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 5 de 9, del Salmo 137.",
-          "pt": "Versículo 5 de 9, do Salmo 137."
+        "gancho": {
+          "es": "Un juramento de no olvidar.",
+          "pt": "Um juramento de não esquecer."
         }
       },
       {
-        "ref": "Psalms 137:7",
-        "tipo": "descriptivo",
+        "ref": "Psalms 137:2",
+        "tipo": "promesa",
         "consulta_imagem": "night forest",
         "titulo": {
-          "es": "Salmo 137:7 — Acuérdate, oh Jehová, de los hijos | Biblia",
-          "en": "Psalm 137:7 — Remember, O Lord, the children of Edom | Bible",
-          "pt": "Salmo 137:7 — Lembra-te, SENHOR, dos filhos de Edom | Bíblia"
+          "es": "Salmo 137:2 — Sobre los sauces en medio de ella | Biblia",
+          "en": "Psalm 137:2 — We hanged our harps upon the willows | Bible",
+          "pt": "Salmo 137:2 — Sobre os salgueiros que há no meio | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 7 de 9, del Salmo 137.",
-          "pt": "Versículo 7 de 9, do Salmo 137."
+        "gancho": {
+          "es": "Dónde colgaron las arpas los cautivos.",
+          "pt": "Onde os cativos penduraram as harpas."
         }
       }
     ]
@@ -12743,59 +12743,59 @@
     },
     "shorts": [
       {
-        "ref": "Psalms 140:1",
-        "tipo": "descriptivo",
+        "ref": "Psalms 140:6",
+        "tipo": "promesa",
         "consulta_imagem": "night sea",
         "titulo": {
-          "es": "Salmo 140:1 — Líbrame, oh Jehová, de hombre malo: guárdame | Biblia",
-          "en": "Psalm 140:1 — Deliver me, O Lord, from the evil | Bible",
-          "pt": "Salmo 140:1 — Livra-me do homem mau, SENHOR; guarda-me | Bíblia"
+          "es": "Salmo 140:6 — He dicho a Jehová: Dios mío eres | Biblia",
+          "en": "Psalm 140:6 — I said unto the Lord, Thou art | Bible",
+          "pt": "Salmo 140:6 — Eu disse ao SENHOR: Tu és | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 1 de 13, del Salmo 140.",
-          "pt": "Versículo 1 de 13, do Salmo 140."
-        }
-      },
-      {
-        "ref": "Psalms 140:4",
-        "tipo": "descriptivo",
-        "consulta_imagem": "night clouds",
-        "titulo": {
-          "es": "Salmo 140:4 — Guárdame, oh Jehová, de manos del impío | Biblia",
-          "en": "Psalm 140:4 — Keep me, O Lord, from the hands | Bible",
-          "pt": "Salmo 140:4 — Guarda-me, SENHOR, das mãos do perverso; guarda-me | Bíblia"
-        },
-        "aplicacao": {
-          "es": "Versículo 4 de 13, del Salmo 140.",
-          "pt": "Versículo 4 de 13, do Salmo 140."
+        "gancho": {
+          "es": "Lo que David le dice a Dios antes de pedir.",
+          "pt": "O que Davi diz a Deus antes de pedir."
         }
       },
       {
         "ref": "Psalms 140:7",
-        "tipo": "descriptivo",
-        "consulta_imagem": "starry sky",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
         "titulo": {
           "es": "Salmo 140:7 — Jehová Señor, fortaleza de mi salud, tú | Biblia",
           "en": "Psalm 140:7 — O God the Lord, the strength | Bible",
           "pt": "Salmo 140:7 — Ó Senhor DEUS, força de minha salvação | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 7 de 13, del Salmo 140.",
-          "pt": "Versículo 7 de 13, do Salmo 140."
+        "gancho": {
+          "es": "Quién cubrió la cabeza de David en la batalla.",
+          "pt": "Quem cobriu a cabeça de Davi na batalha."
         }
       },
       {
-        "ref": "Psalms 140:10",
-        "tipo": "descriptivo",
+        "ref": "Psalms 140:12",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 140:12 — Yo sé que hará Jehová el juicio | Biblia",
+          "en": "Psalm 140:12 — I know that the Lord will maintain | Bible",
+          "pt": "Salmo 140:12 — Eu sei que o SENHOR cumprirá | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que David sabe sobre la causa del afligido.",
+          "pt": "O que Davi sabe sobre a causa do aflito."
+        }
+      },
+      {
+        "ref": "Psalms 140:13",
+        "tipo": "promesa",
         "consulta_imagem": "night sea",
         "titulo": {
-          "es": "Salmo 140:10 — Caerán sobre ellos brasas; Dios los hará | Biblia",
-          "en": "Psalm 140:10 — Let burning coals fall upon them: let | Bible",
-          "pt": "Salmo 140:10 — Caiam sobre eles brasas vivas; faça-os cair | Bíblia"
+          "es": "Salmo 140:13 — Ciertamente los justos alabarán tu nombre | Biblia",
+          "en": "Psalm 140:13 — Surely the righteous shall give thanks unto | Bible",
+          "pt": "Salmo 140:13 — Certamente os justos agradecerão ao teu nome | Bíblia"
         },
-        "aplicacao": {
-          "es": "Versículo 10 de 13, del Salmo 140.",
-          "pt": "Versículo 10 de 13, do Salmo 140."
+        "gancho": {
+          "es": "El último versículo del Salmo ciento cuarenta.",
+          "pt": "O último versículo do Salmo cento e quarenta."
         }
       }
     ]
