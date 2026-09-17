@@ -49,9 +49,12 @@ mediana da coorte 2-7 d acima de 600. Longo estoico liga em **22/09** como decid
    pt de 1,6 % para ≥ 2,5 %.
 3. Item 3 (versículos dos salmos) é o mesmo trabalho do item 1 — feito junto.
 
-⚠ **Poço bíblico: 26 temas = 13 dias** (2 pacotes/data). Todo salmo não-gigante já é tema; o
-próximo reabastecimento precisa de temas de outro desenho (combos de salmos, Provérbios,
-histórias). Régua do vigia avisa, mas escrever é humano.
+**Poço bíblico reposto (16/09, "resolva sozinho")**: +24 temas / 96 Shorts em
+`produzir/gerar_temas_16_09.py` — 16 combos "para dormir" (`salmos-noche-1..16`), 4 "tema"
+(Provérbios 3-4, Isaías 40-41, Romanos 8, João 14-16) e 4 "historia" (Abraão e Isaque, filho
+pródigo, Lázaro, Pedro sobre as águas). Todo Short com gancho es/pt e versículo de promessa; título
+único no acervo inteiro. **50 temas livres = 25 dias (até ~13/10).** Todo salmo não-gigante já é
+tema; o próximo lote é do mesmo desenho — o banco de versículos com gancho (`V`) está no script.
 
 ⚠ `ESTRATEGIA`: a leitura do "pularam" é por canal, no Studio → Analytics → Conteúdo → Shorts →
 "Engajamento dos espectadores". Entrar com `authuser=1` neste perfil do Chrome (o 0 dá "Ops").

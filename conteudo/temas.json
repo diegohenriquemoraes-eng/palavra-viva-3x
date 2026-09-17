@@ -12799,5 +12799,2748 @@
         }
       }
     ]
+  },
+  {
+    "slug": "salmos-noche-1",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 91",
+        "Psalms 23",
+        "Psalms 4"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Salmo 91, 23 y 4 | Biblia Hablada Voz Calmada",
+        "en": "Psalms for Sleep — Psalm 91, 23 and 4 | Calm Audio Bible",
+        "pt": "Salmos para Dormir — Salmo 91, 23 e 4 | Bíblia Narrada Voz Calma"
+      },
+      "thumb_titulo": {
+        "es": "SALMO 91\nY 23",
+        "en": "PSALM 91\nAND 23",
+        "pt": "SALMO 91\nE 23"
+      },
+      "thumb_sub": {
+        "es": "Salmos 91, 23 y 4",
+        "en": "Psalms 91, 23 and 4",
+        "pt": "Salmos 91, 23 e 4"
+      },
+      "consultas_imagens": [
+        "moon clouds",
+        "desert night",
+        "night sky"
+      ],
+      "abertura": {
+        "es": "Salmos noventa y uno, veintitres y cuatro, leídos despacio, para escuchar acostado. El noventa y uno es el salmo del amparo; el veintitrés, el del pastor; el cuatro termina con el versículo de acostarse en paz. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos noventa e um, vinte e três e quatro, lidos devagar, para ouvir deitado. O noventa e um é o salmo do amparo; o vinte e três, o do pastor; o quatro termina com o versículo de deitar-se em paz. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 91",
+          "salmo 23",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 91",
+          "salmo 23",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 91, 23 y 4 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 91, 23 e 4 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 91:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 91:1-2 — El que habita al abrigo del Altísimo | Biblia",
+          "en": "Psalm 91:1-2 — He that dwelleth in the secret place | Bible",
+          "pt": "Salmo 91:1-2 — Aquele que mora no esconderijo do Altíssimo | Bíblia"
+        },
+        "gancho": {
+          "es": "El salmo más leído de noche empieza así.",
+          "pt": "O salmo mais lido à noite começa assim."
+        }
+      },
+      {
+        "ref": "Psalms 23:4",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Salmo 23:4 — Aunque ande en valle de sombra | Biblia",
+          "en": "Psalm 23:4 — Yea, though I walk through the valley | Bible",
+          "pt": "Salmo 23:4 — Ainda que eu venha a andar pelo | Bíblia"
+        },
+        "gancho": {
+          "es": "El valle de sombra de muerte, según David.",
+          "pt": "O vale da sombra da morte, segundo Davi."
+        }
+      },
+      {
+        "ref": "Psalms 4:8",
+        "tipo": "promesa",
+        "consulta_imagem": "night sky",
+        "titulo": {
+          "es": "Salmo 4:8 — En paz me acostaré, y asimismo dormiré | Biblia",
+          "en": "Psalm 4:8 — I will both lay me down | Bible",
+          "pt": "Salmo 4:8 — Eu deitarei, e dormirei em paz; porque | Bíblia"
+        },
+        "gancho": {
+          "es": "Ocho palabras para antes de apagar la luz.",
+          "pt": "Oito palavras para antes de apagar a luz."
+        }
+      },
+      {
+        "ref": "Psalms 91:4",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 91:4 — Con sus plumas te cubrirá, y debajo | Biblia",
+          "en": "Psalm 91:4 — He shall cover thee with his feathers | Bible",
+          "pt": "Salmo 91:4 — Com suas penas ele te cobrirá | Bíblia"
+        },
+        "gancho": {
+          "es": "Bajo sus alas: el versículo del amparo.",
+          "pt": "Debaixo das suas asas: o versículo do amparo."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-2",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 121",
+        "Psalms 127",
+        "Psalms 131",
+        "Psalms 3"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — El Que Te Guarda No Duerme | Salmo 121, 127, 131 y 3",
+        "en": "Psalms for Sleep — He Who Keeps You Will Not Slumber | Psalm 121, 127, 131, 3",
+        "pt": "Salmos para Dormir — Quem Te Guarda Não Dorme | Salmo 121, 127, 131 e 3"
+      },
+      "thumb_titulo": {
+        "es": "EL QUE TE\nGUARDA",
+        "en": "HE WHO\nKEEPS YOU",
+        "pt": "QUEM TE\nGUARDA"
+      },
+      "thumb_sub": {
+        "es": "Salmos 121, 127, 131 y 3",
+        "en": "Psalms 121, 127, 131 and 3",
+        "pt": "Salmos 121, 127, 131 e 3"
+      },
+      "consultas_imagens": [
+        "night lake",
+        "moon night",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Salmos ciento veintiuno, ciento veintisiete, ciento treinta y uno y tres, leídos despacio, para escuchar acostado. Tres cánticos de las subidas y un salmo de David escrito de noche, huyendo: los cuatro hablan de dormir guardado. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos cento e vinte e um, cento e vinte e sete, cento e trinta e um e três, lidos devagar, para ouvir deitado. Três cânticos das subidas e um salmo de Davi escrito de noite, fugindo: os quatro falam de dormir guardado. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 121",
+          "salmo 127",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 121",
+          "salmo 127",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 121, 127, 131 y 3 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 121, 127, 131 e 3 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 121:3-4",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 121:3-4 — No dará tu pie al resbaladero; ni | Biblia",
+          "en": "Psalm 121:3-4 — He will not suffer thy foot | Bible",
+          "pt": "Salmo 121:3-4 — Ele não deixará o teu pé | Bíblia"
+        },
+        "gancho": {
+          "es": "El que te guarda no duerme.",
+          "pt": "O que te guarda não dorme."
+        }
+      },
+      {
+        "ref": "Psalms 127:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "moon night",
+        "titulo": {
+          "es": "Salmo 127:1-2 — Si Jehová no edificare la casa | Biblia",
+          "en": "Psalm 127:1-2 — Except the Lord build the house, they | Bible",
+          "pt": "Salmo 127:1-2 — Se o SENHOR não estiver edificando | Bíblia"
+        },
+        "gancho": {
+          "es": "Un salmo de Salomón sobre trabajar de más.",
+          "pt": "Um salmo de Salomão sobre trabalhar demais."
+        }
+      },
+      {
+        "ref": "Psalms 131:2",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 131:2 — En verdad que me he comportado | Biblia",
+          "en": "Psalm 131:2 — Surely I have behaved and quieted myself | Bible",
+          "pt": "Salmo 131:2 — Ao invés disso, eu me sosseguei | Bíblia"
+        },
+        "gancho": {
+          "es": "David se compara con un niño destetado.",
+          "pt": "Davi se compara com uma criança desmamada."
+        }
+      },
+      {
+        "ref": "Psalms 3:5",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 3:5 — Yo me acosté, y dormí, y desperté | Biblia",
+          "en": "Psalm 3:5 — I laid me down and slept; I | Bible",
+          "pt": "Salmo 3:5 — Eu me deitei, e dormi; acordei, porque | Bíblia"
+        },
+        "gancho": {
+          "es": "David escribió esto huyendo de su propio hijo.",
+          "pt": "Davi escreveu isto fugindo do próprio filho."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-3",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 27",
+        "Psalms 46",
+        "Psalms 62"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Jehová Es Mi Luz | Salmo 27, 46 y 62 Narrados",
+        "en": "Psalms for Sleep — The Lord Is My Light | Psalm 27, 46 and 62",
+        "pt": "Salmos para Dormir — O Senhor É Minha Luz | Salmo 27, 46 e 62 Narrados"
+      },
+      "thumb_titulo": {
+        "es": "MI LUZ Y\nMI SALUD",
+        "en": "MY LIGHT\nMY SALVATION",
+        "pt": "MINHA LUZ\nMINHA SALVAÇÃO"
+      },
+      "thumb_sub": {
+        "es": "Salmos 27, 46 y 62",
+        "en": "Psalms 27, 46 and 62",
+        "pt": "Salmos 27, 46 e 62"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "moon clouds",
+        "milky way"
+      ],
+      "abertura": {
+        "es": "Salmos veintisiete, cuarenta y seis y sesenta y dos, leídos despacio, para escuchar acostado. Tres salmos sobre no temer: el veintisiete empieza con una pregunta, el cuarenta y seis con un refugio, el sesenta y dos con un silencio. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos vinte e sete, quarenta e seis e sessenta e dois, lidos devagar, para ouvir deitado. Três salmos sobre não temer: o vinte e sete começa com uma pergunta, o quarenta e seis com um refúgio, o sessenta e dois com um silêncio. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 27",
+          "salmo 46",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 27",
+          "salmo 46",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 27, 46 y 62 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 27, 46 e 62 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 27:1",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 27:1 — Jehová es mi luz y mi salvación: ¿de | Biblia",
+          "en": "Psalm 27:1 — The Lord is my light | Bible",
+          "pt": "Salmo 27:1 — O SENHOR é minha luz | Bíblia"
+        },
+        "gancho": {
+          "es": "La pregunta de David que responde al miedo.",
+          "pt": "A pergunta de Davi que responde ao medo."
+        }
+      },
+      {
+        "ref": "Psalms 46:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 46:1-2 — Dios es nuestro amparo y fortaleza, nuestro | Biblia",
+          "en": "Psalm 46:1-2 — God is our refuge and strength | Bible",
+          "pt": "Salmo 46:1-2 — Deus é nosso refúgio e força; socorro | Bíblia"
+        },
+        "gancho": {
+          "es": "El salmo que Lutero convirtió en himno.",
+          "pt": "O salmo que Lutero transformou em hino."
+        }
+      },
+      {
+        "ref": "Psalms 62:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 62:1-2 — En Dios solamente está acallada mi alma | Biblia",
+          "en": "Psalm 62:1-2 — Truly my soul waiteth upon God: from | Bible",
+          "pt": "Salmo 62:1-2 — Certamente minha alma se aquieta por causa | Bíblia"
+        },
+        "gancho": {
+          "es": "Por qué David dice que no será movido.",
+          "pt": "Por que Davi diz que não será abalado."
+        }
+      },
+      {
+        "ref": "Psalms 27:14",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 27:14 — Aguarda a Jehová; esfuérzate, y aliéntese tu | Biblia",
+          "en": "Psalm 27:14 — Wait on the Lord: be of good | Bible",
+          "pt": "Salmo 27:14 — Espera no SENHOR, esforça-te, e ele fortalecerá | Bíblia"
+        },
+        "gancho": {
+          "es": "Dos veces la misma orden en un versículo.",
+          "pt": "Duas vezes a mesma ordem num versículo."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-4",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 34",
+        "Psalms 37",
+        "Psalms 40"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Cerca Está Jehová | Salmo 34, 37 y 40 Narrados",
+        "en": "Psalms for Sleep — The Lord Is Near | Psalm 34, 37 and 40",
+        "pt": "Salmos para Dormir — Perto Está o Senhor | Salmo 34, 37 e 40 Narrados"
+      },
+      "thumb_titulo": {
+        "es": "CERCA ESTÁ\nJEHOVÁ",
+        "en": "THE LORD\nIS NEAR",
+        "pt": "PERTO ESTÁ\nO SENHOR"
+      },
+      "thumb_sub": {
+        "es": "Salmos 34, 37 y 40",
+        "en": "Psalms 34, 37 and 40",
+        "pt": "Salmos 34, 37 e 40"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "night clouds",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Salmos treinta y cuatro, treinta y siete y cuarenta, leídos despacio, para escuchar acostado. Tres salmos de David sobre esperar: el treinta y cuatro lo escribió fingiéndose loco ante un rey; el cuarenta empieza en un pozo. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos trinta e quatro, trinta e sete e quarenta, lidos devagar, para ouvir deitado. Três salmos de Davi sobre esperar: o trinta e quatro ele escreveu fingindo-se de louco diante de um rei; o quarenta começa num poço. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 34",
+          "salmo 37",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 34",
+          "salmo 37",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 34, 37 y 40 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 34, 37 e 40 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 34:18",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 34:18 — Cercano está Jehová a los quebrantados | Biblia",
+          "en": "Psalm 34:18 — The Lord is nigh unto them that | Bible",
+          "pt": "Salmo 34:18 — O SENHOR está perto daqueles que estão | Bíblia"
+        },
+        "gancho": {
+          "es": "A quién está cerca Jehová, según David.",
+          "pt": "De quem o Senhor está perto, segundo Davi."
+        }
+      },
+      {
+        "ref": "Psalms 37:5",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 37:5 — Encomienda a Jehová tu camino, y espera | Biblia",
+          "en": "Psalm 37:5 — Commit thy way unto the Lord; trust | Bible",
+          "pt": "Salmo 37:5 — Conduz teu caminho ao SENHOR, e confia | Bíblia"
+        },
+        "gancho": {
+          "es": "Tres verbos: encomienda, confía, y él hará.",
+          "pt": "Três verbos: entrega, confia, e ele fará."
+        }
+      },
+      {
+        "ref": "Psalms 37:23-24",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 37:23-24 — Por Jehová son ordenados los pasos | Biblia",
+          "en": "Psalm 37:23-24 — The steps of a good man are | Bible",
+          "pt": "Salmo 37:23-24 — Os passos do homem justo são preparados | Bíblia"
+        },
+        "gancho": {
+          "es": "Por qué el que cae no queda tirado.",
+          "pt": "Por que quem cai não fica caído."
+        }
+      },
+      {
+        "ref": "Psalms 40:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 40:1-2 — Resignadamente esperé a Jehová, e inclinóse | Biblia",
+          "en": "Psalm 40:1-2 — I waited patiently for the Lord | Bible",
+          "pt": "Salmo 40:1-2 — Esperei com esperança no SENHOR, e ele | Bíblia"
+        },
+        "gancho": {
+          "es": "De dónde dice David que fue sacado.",
+          "pt": "De onde Davi diz que foi tirado."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-5",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 63",
+        "Psalms 143",
+        "Psalms 130"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — De Mañana Me Harás Oír | Salmo 63, 143 y 130",
+        "en": "Psalms for Sleep — In the Morning Let Me Hear | Psalm 63, 143 and 130",
+        "pt": "Salmos para Dormir — De Manhã Me Farás Ouvir | Salmo 63, 143 e 130"
+      },
+      "thumb_titulo": {
+        "es": "HASTA LA\nMAÑANA",
+        "en": "UNTIL\nMORNING",
+        "pt": "ATÉ A\nMANHÃ"
+      },
+      "thumb_sub": {
+        "es": "Salmos 63, 143 y 130",
+        "en": "Psalms 63, 143 and 130",
+        "pt": "Salmos 63, 143 e 130"
+      },
+      "consultas_imagens": [
+        "moon clouds",
+        "desert night",
+        "night sky"
+      ],
+      "abertura": {
+        "es": "Salmos sesenta y tres, ciento cuarenta y tres y ciento treinta, leídos despacio, para escuchar acostado. Tres salmos para la madrugada: el sesenta y tres habla de meditar en las vigilias de la noche; el ciento treinta, de esperar la mañana. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos sessenta e três, cento e quarenta e três e cento e trinta, lidos devagar, para ouvir deitado. Três salmos para a madrugada: o sessenta e três fala de meditar nas vigílias da noite; o cento e trinta, de esperar a manhã. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 63",
+          "salmo 143",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 63",
+          "salmo 143",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 63, 143 y 130 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 63, 143 e 130 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 63:6-7",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 63:6-7 — Cuando me acordaré de ti | Biblia",
+          "en": "Psalm 63:6-7 — When I remember thee upon my bed | Bible",
+          "pt": "Salmo 63:6-7 — Quando eu me lembrar de ti | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que David hacía cuando no podía dormir.",
+          "pt": "O que Davi fazia quando não conseguia dormir."
+        }
+      },
+      {
+        "ref": "Psalms 143:8",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Salmo 143:8 — Hazme oir por la mañana tu misericordia | Biblia",
+          "en": "Psalm 143:8 — Cause me to hear thy lovingkindness | Bible",
+          "pt": "Salmo 143:8 — De madrugada faze com que eu ouça | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que David quiere oír de mañana.",
+          "pt": "O que Davi quer ouvir de manhã."
+        }
+      },
+      {
+        "ref": "Psalms 130:5-6",
+        "tipo": "promesa",
+        "consulta_imagem": "night sky",
+        "titulo": {
+          "es": "Salmo 130:5-6 — Esperé yo a Jehová, esperó mi alma | Biblia",
+          "en": "Psalm 130:5-6 — I wait for the Lord, my soul | Bible",
+          "pt": "Salmo 130:5-6 — Mantenho esperança no SENHOR, a minha alma | Bíblia"
+        },
+        "gancho": {
+          "es": "Más que los que esperan la mañana.",
+          "pt": "Mais do que os que esperam a manhã."
+        }
+      },
+      {
+        "ref": "Psalms 116:7",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 116:7 — Vuelve, oh alma mía, a tu reposo | Biblia",
+          "en": "Psalm 116:7 — Return unto thy rest, O my soul | Bible",
+          "pt": "Salmo 116:7 — Minha alma, volta ao teu descanso, pois | Bíblia"
+        },
+        "gancho": {
+          "es": "Una orden del salmista a su propia alma.",
+          "pt": "Uma ordem do salmista à própria alma."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-6",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 103",
+        "Psalms 145",
+        "Psalms 146"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Bendice, Alma Mía | Salmo 103, 145 y 146 Narrados",
+        "en": "Psalms for Sleep — Bless the Lord, O My Soul | Psalm 103, 145 and 146",
+        "pt": "Salmos para Dormir — Bendize, Ó Minha Alma | Salmo 103, 145 e 146 Narrados"
+      },
+      "thumb_titulo": {
+        "es": "BENDICE\nALMA MÍA",
+        "en": "BLESS THE\nLORD",
+        "pt": "BENDIZE\nMINHA ALMA"
+      },
+      "thumb_sub": {
+        "es": "Salmos 103, 145 y 146",
+        "en": "Psalms 103, 145 and 146",
+        "pt": "Salmos 103, 145 e 146"
+      },
+      "consultas_imagens": [
+        "night lake",
+        "moon night",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Salmos ciento tres, ciento cuarenta y cinco y ciento cuarenta y seis, leídos despacio, para escuchar acostado. Tres salmos de alabanza para terminar el día: el ciento tres manda al alma no olvidar; el ciento cuarenta y cinco describe cómo es Dios. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos cento e três, cento e quarenta e cinco e cento e quarenta e seis, lidos devagar, para ouvir deitado. Três salmos de louvor para terminar o dia: o cento e três manda a alma não esquecer; o cento e quarenta e cinco descreve como Deus é. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 103",
+          "salmo 145",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 103",
+          "salmo 145",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 103, 145 y 146 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 103, 145 e 146 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 103:2-4",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 103:2-4 — Bendice, alma mía a Jehová | Biblia",
+          "en": "Psalm 103:2-4 — Bless the Lord, O my soul | Bible",
+          "pt": "Salmo 103:2-4 — Louva ao SENHOR, ó minha alma | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que David manda a su alma no olvidar.",
+          "pt": "O que Davi manda a alma não esquecer."
+        }
+      },
+      {
+        "ref": "Psalms 103:13",
+        "tipo": "promesa",
+        "consulta_imagem": "moon night",
+        "titulo": {
+          "es": "Salmo 103:13 — Como el padre se compadece | Biblia",
+          "en": "Psalm 103:13 — Like as a father pitieth his children | Bible",
+          "pt": "Salmo 103:13 — Assim como um pai se compadece | Bíblia"
+        },
+        "gancho": {
+          "es": "Dios comparado con un padre.",
+          "pt": "Deus comparado com um pai."
+        }
+      },
+      {
+        "ref": "Psalms 145:8-9",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 145:8-9 — Clemente y misericordioso es Jehová, lento | Biblia",
+          "en": "Psalm 145:8-9 — The Lord is gracious, and full | Bible",
+          "pt": "Salmo 145:8-9 — Piedoso e misericordioso é o SENHOR; ele | Bíblia"
+        },
+        "gancho": {
+          "es": "Cómo es Dios, según David, en dos versículos.",
+          "pt": "Como Deus é, segundo Davi, em dois versículos."
+        }
+      },
+      {
+        "ref": "Psalms 146:5",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 146:5 — Bienaventurado aquel en cuya ayuda | Biblia",
+          "en": "Psalm 146:5 — Happy is he that hath the God | Bible",
+          "pt": "Salmo 146:5 — Bem-aventurado aquele que tem o Deus | Bíblia"
+        },
+        "gancho": {
+          "es": "A quién llama bienaventurado el Salmo ciento cuarenta y seis.",
+          "pt": "Quem o Salmo cento e quarenta e seis chama de bem-aventurado."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-7",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 139",
+        "Psalms 16",
+        "Psalms 18"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Tú Me Conoces | Salmo 139, 16 y 18 Narrados",
+        "en": "Psalms for Sleep — You Know Me | Psalm 139, 16 and 18",
+        "pt": "Salmos para Dormir — Tu Me Conheces | Salmo 139, 16 e 18 Narrados"
+      },
+      "thumb_titulo": {
+        "es": "TÚ ME\nCONOCES",
+        "en": "YOU\nKNOW ME",
+        "pt": "TU ME\nCONHECES"
+      },
+      "thumb_sub": {
+        "es": "Salmos 139, 16 y 18",
+        "en": "Psalms 139, 16 and 18",
+        "pt": "Salmos 139, 16 e 18"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "moon clouds",
+        "milky way"
+      ],
+      "abertura": {
+        "es": "Salmos ciento treinta y nueve, dieciséis y dieciocho, leídos despacio, para escuchar acostado. El ciento treinta y nueve es el salmo del Dios que conoce; el dieciséis y el dieciocho son de David, sobre no ser movido. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos cento e trinta e nove, dezesseis e dezoito, lidos devagar, para ouvir deitado. O cento e trinta e nove é o salmo do Deus que conhece; o dezesseis e o dezoito são de Davi, sobre não ser abalado. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 139",
+          "salmo 16",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 139",
+          "salmo 16",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 139, 16 y 18 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 139, 16 e 18 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 139:9-10",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 139:9-10 — Si tomare las alas del alba | Biblia",
+          "en": "Psalm 139:9-10 — If I take the wings | Bible",
+          "pt": "Salmo 139:9-10 — Se eu tomasse as asas do amanhecer | Bíblia"
+        },
+        "gancho": {
+          "es": "Hasta dónde llega la mano de Dios, según David.",
+          "pt": "Até onde chega a mão de Deus, segundo Davi."
+        }
+      },
+      {
+        "ref": "Psalms 139:14",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 139:14 — Te alabaré; porque formidables, maravillosas son tus | Biblia",
+          "en": "Psalm 139:14 — I will praise thee; for I am | Bible",
+          "pt": "Salmo 139:14 — Eu te louvarei porque de um jeito | Bíblia"
+        },
+        "gancho": {
+          "es": "David habla de cómo fue hecho.",
+          "pt": "Davi fala de como foi feito."
+        }
+      },
+      {
+        "ref": "Psalms 16:8",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 16:8 — A Jehová he puesto siempre delante | Biblia",
+          "en": "Psalm 16:8 — I have set the Lord always before | Bible",
+          "pt": "Salmo 16:8 — Ponho ao SENHOR continuamente diante de mim | Bíblia"
+        },
+        "gancho": {
+          "es": "Por qué David dice que no será movido.",
+          "pt": "Por que Davi diz que não será abalado."
+        }
+      },
+      {
+        "ref": "Psalms 18:2",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 18:2 — Jehová, roca mía y castillo mío, y mi libertador | Biblia",
+          "en": "Psalm 18:2 — The Lord is my rock | Bible",
+          "pt": "Salmo 18:2 — O SENHOR é minha rocha, e minha fortaleza | Bíblia"
+        },
+        "gancho": {
+          "es": "Siete nombres que David le da a Dios en un versículo.",
+          "pt": "Sete nomes que Davi dá a Deus num versículo."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-8",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 86",
+        "Psalms 25",
+        "Psalms 31"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — En Tu Mano Están Mis Tiempos | Salmo 86, 25 y 31",
+        "en": "Psalms for Sleep — My Times Are in Your Hand | Psalm 86, 25 and 31",
+        "pt": "Salmos para Dormir — Nas Tuas Mãos Estão os Meus Tempos | Salmo 86, 25 e 31"
+      },
+      "thumb_titulo": {
+        "es": "EN TU MANO\nMIS TIEMPOS",
+        "en": "MY TIMES\nIN YOUR HAND",
+        "pt": "NAS TUAS MÃOS\nMEUS TEMPOS"
+      },
+      "thumb_sub": {
+        "es": "Salmos 86, 25 y 31",
+        "en": "Psalms 86, 25 and 31",
+        "pt": "Salmos 86, 25 e 31"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "night clouds",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Salmos ochenta y seis, veinticinco y treinta y uno, leídos despacio, para escuchar acostado. Tres oraciones de David: el ochenta y seis pide un corazón sin divisiones; el veinticinco, dirección; el treinta y uno entrega los tiempos. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos oitenta e seis, vinte e cinco e trinta e um, lidos devagar, para ouvir deitado. Três orações de Davi: o oitenta e seis pede um coração sem divisões; o vinte e cinco, direção; o trinta e um entrega os tempos. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 86",
+          "salmo 25",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 86",
+          "salmo 25",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 86, 25 y 31 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 86, 25 e 31 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 86:5",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 86:5 — Porque tú, Señor, eres bueno y perdonador | Biblia",
+          "en": "Psalm 86:5 — For thou, Lord, art good, and ready | Bible",
+          "pt": "Salmo 86:5 — Pois tu, Senhor, és bom, perdoador | Bíblia"
+        },
+        "gancho": {
+          "es": "Tres cosas que David dice de Dios en un versículo.",
+          "pt": "Três coisas que Davi diz de Deus num versículo."
+        }
+      },
+      {
+        "ref": "Psalms 86:11",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 86:11 — Enséñame, oh Jehová, tu camino; caminaré yo | Biblia",
+          "en": "Psalm 86:11 — Teach me thy way, O Lord; I | Bible",
+          "pt": "Salmo 86:11 — Ensina-me, SENHOR, o teu caminho, e eu | Bíblia"
+        },
+        "gancho": {
+          "es": "La oración de David por un corazón sin divisiones.",
+          "pt": "A oração de Davi por um coração sem divisões."
+        }
+      },
+      {
+        "ref": "Psalms 25:4-5",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 25:4-5 — Muéstrame, oh Jehová, tus caminos; enséñame tus | Biblia",
+          "en": "Psalm 25:4-5 — Shew me thy ways, O Lord; teach | Bible",
+          "pt": "Salmo 25:4-5 — Tu me fazes conhecer os teus caminhos | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que David pide antes de tomar una decisión.",
+          "pt": "O que Davi pede antes de tomar uma decisão."
+        }
+      },
+      {
+        "ref": "Psalms 31:15",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 31:15 — En tu mano están mis tiempos: líbrame | Biblia",
+          "en": "Psalm 31:15 — My times are in thy hand: deliver | Bible",
+          "pt": "Salmo 31:15 — Meus tempos estão em tuas mãos; livra-me | Bíblia"
+        },
+        "gancho": {
+          "es": "Dónde están tus tiempos, según David.",
+          "pt": "Onde estão os teus tempos, segundo Davi."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-9",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 90",
+        "Psalms 92",
+        "Psalms 100"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Enséñanos a Contar Nuestros Días | Salmo 90, 92 y 100",
+        "en": "Psalms for Sleep — Teach Us to Number Our Days | Psalm 90, 92 and 100",
+        "pt": "Salmos para Dormir — Ensina-nos a Contar os Nossos Dias | Salmo 90, 92 e 100"
+      },
+      "thumb_titulo": {
+        "es": "CONTAR\nLOS DÍAS",
+        "en": "NUMBER\nOUR DAYS",
+        "pt": "CONTAR\nOS DIAS"
+      },
+      "thumb_sub": {
+        "es": "Salmos 90, 92 y 100",
+        "en": "Psalms 90, 92 and 100",
+        "pt": "Salmos 90, 92 e 100"
+      },
+      "consultas_imagens": [
+        "moon clouds",
+        "desert night",
+        "night sky"
+      ],
+      "abertura": {
+        "es": "Salmos noventa, noventa y dos y cien, leídos despacio, para escuchar acostado. El noventa es la única oración de Moisés en los Salmos; el noventa y dos es para el día de reposo; el cien, para entrar con acción de gracias. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos noventa, noventa e dois e cem, lidos devagar, para ouvir deitado. O noventa é a única oração de Moisés nos Salmos; o noventa e dois é para o dia do descanso; o cem, para entrar com ação de graças. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 90",
+          "salmo 92",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 90",
+          "salmo 92",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 90, 92 y 100 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 90, 92 e 100 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 90:12",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 90:12 — Enséñanos de tal modo a contar nuestros | Biblia",
+          "en": "Psalm 90:12 — So teach us to number our days | Bible",
+          "pt": "Salmo 90:12 — Ensina -nos a contar nossos dias | Bíblia"
+        },
+        "gancho": {
+          "es": "La oración de Moisés sobre los días.",
+          "pt": "A oração de Moisés sobre os dias."
+        }
+      },
+      {
+        "ref": "Psalms 90:14",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Salmo 90:14 — Sácianos presto de tu misericordia: y cantaremos | Biblia",
+          "en": "Psalm 90:14 — O satisfy us early with thy mercy | Bible",
+          "pt": "Salmo 90:14 — Farta-nos de manhã com tua bondade | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Moisés pide para la mañana.",
+          "pt": "O que Moisés pede para a manhã."
+        }
+      },
+      {
+        "ref": "Psalms 92:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "night sky",
+        "titulo": {
+          "es": "Salmo 92:1-2 — Bueno es alabar a Jehová, y cantar | Biblia",
+          "en": "Psalm 92:1-2 — It is a good thing to give | Bible",
+          "pt": "Salmo 92:1-2 — Bom é louvar ao SENHOR, e cantar | Bíblia"
+        },
+        "gancho": {
+          "es": "Un salmo para el día de reposo, según la inscripción.",
+          "pt": "Um salmo para o dia do descanso, segundo a inscrição."
+        }
+      },
+      {
+        "ref": "Psalms 100:4-5",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 100:4-5 — Entrad por sus puertas con reconocimiento | Biblia",
+          "en": "Psalm 100:4-5 — Enter into his gates with thanksgiving | Bible",
+          "pt": "Salmo 100:4-5 — Entrai pelas portas dele com agradecimento | Bíblia"
+        },
+        "gancho": {
+          "es": "Cómo entrar, según el Salmo cien.",
+          "pt": "Como entrar, segundo o Salmo cem."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-10",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 107",
+        "Psalms 116",
+        "Psalms 118"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Para Siempre Es Su Misericordia | Salmo 107, 116 y 118",
+        "en": "Psalms for Sleep — His Mercy Endures Forever | Psalm 107, 116 and 118",
+        "pt": "Psalms para Dormir — Para Sempre É a Sua Misericórdia | Salmo 107, 116 e 118"
+      },
+      "thumb_titulo": {
+        "es": "PARA SIEMPRE\nSU MISERICORDIA",
+        "en": "HIS MERCY\nFOREVER",
+        "pt": "PARA SEMPRE\nA MISERICÓRDIA"
+      },
+      "thumb_sub": {
+        "es": "Salmos 107, 116 y 118",
+        "en": "Psalms 107, 116 and 118",
+        "pt": "Salmos 107, 116 e 118"
+      },
+      "consultas_imagens": [
+        "night lake",
+        "moon night",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Salmos ciento siete, ciento dieciséis y ciento dieciocho, leídos despacio, para escuchar acostado. Tres salmos de acción de gracias: el ciento siete cuenta cuatro rescates; el ciento dieciséis, uno solo; el ciento dieciocho es el que Jesús cantó en la última cena. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos cento e sete, cento e dezesseis e cento e dezoito, lidos devagar, para ouvir deitado. Três salmos de ação de graças: o cento e sete conta quatro resgates; o cento e dezesseis, um só; o cento e dezoito é o que Jesus cantou na última ceia. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 107",
+          "salmo 116",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 107",
+          "salmo 116",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 107, 116 y 118 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 107, 116 e 118 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 107:1",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 107:1 — Alabad a Jehová, porque es bueno; porque | Biblia",
+          "en": "Psalm 107:1 — O give thanks unto the Lord | Bible",
+          "pt": "Salmo 107:1 — Agradecei ao SENHOR, porque ele é bom | Bíblia"
+        },
+        "gancho": {
+          "es": "Un versículo repetido en toda la Biblia.",
+          "pt": "Um versículo repetido em toda a Bíblia."
+        }
+      },
+      {
+        "ref": "Psalms 107:29-30",
+        "tipo": "promesa",
+        "consulta_imagem": "moon night",
+        "titulo": {
+          "es": "Salmo 107:29-30 — Hace parar la tempestad en sosiego | Biblia",
+          "en": "Psalm 107:29-30 — He maketh the storm a calm, so | Bible",
+          "pt": "Salmo 107:29-30 — Ele fez cessar as tormentas | Bíblia"
+        },
+        "gancho": {
+          "es": "Cómo termina la tempestad en el Salmo ciento siete.",
+          "pt": "Como termina a tempestade no Salmo cento e sete."
+        }
+      },
+      {
+        "ref": "Psalms 116:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 116:1-2 — Amo a Jehová, pues ha oído | Biblia",
+          "en": "Psalm 116:1-2 — I love the Lord, because he hath | Bible",
+          "pt": "Salmo 116:1-2 — Amo o SENHOR, porque ele escuta | Bíblia"
+        },
+        "gancho": {
+          "es": "Por qué el salmista dice que ama a Jehová.",
+          "pt": "Por que o salmista diz que ama o Senhor."
+        }
+      },
+      {
+        "ref": "Psalms 118:6",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 118:6 — Jehová está por mí: no temeré | Biblia",
+          "en": "Psalm 118:6 — The Lord is on my side; I | Bible",
+          "pt": "Salmo 118:6 — O SENHOR está comigo, não temerei | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que el hombre no puede hacerte, según el salmo.",
+          "pt": "O que o homem não pode te fazer, segundo o salmo."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-11",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 121",
+        "Psalms 124",
+        "Psalms 125",
+        "Psalms 126",
+        "Psalms 128"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Cánticos de las Subidas | Salmo 121, 124, 125, 126 y 128",
+        "en": "Psalms for Sleep — Songs of Ascents | Psalm 121, 124, 125, 126 and 128",
+        "pt": "Salmos para Dormir — Cânticos das Subidas | Salmo 121, 124, 125, 126 e 128"
+      },
+      "thumb_titulo": {
+        "es": "CÁNTICOS DE\nLAS SUBIDAS",
+        "en": "SONGS OF\nASCENTS",
+        "pt": "CÂNTICOS\nDAS SUBIDAS"
+      },
+      "thumb_sub": {
+        "es": "Salmos 121, 124, 125, 126 y 128",
+        "en": "Psalms 121, 124, 125, 126 and 128",
+        "pt": "Salmos 121, 124, 125, 126 e 128"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "moon clouds",
+        "milky way"
+      ],
+      "abertura": {
+        "es": "Salmos ciento veintiuno, ciento veinticuatro, ciento veinticinco, ciento veintiseis y ciento veintiocho, leídos despacio, para escuchar acostado. Cinco cánticos de las subidas, los que se cantaban en el camino a Jerusalén: cortos, de memoria, uno detrás del otro. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos cento e vinte e um, cento e vinte e quatro, cento e vinte e cinco, cento e vinte e seis e cento e vinte e oito, lidos devagar, para ouvir deitado. Cinco cânticos das subidas, os que se cantavam a caminho de Jerusalém: curtos, de cor, um atrás do outro. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 121",
+          "salmo 124",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 121",
+          "salmo 124",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 121, 124, 125, 126 y 128 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 121, 124, 125, 126 e 128 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 121:7-8",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 121:7-8 — Jehová te guardará de todo mal: él | Biblia",
+          "en": "Psalm 121:7-8 — The Lord shall preserve thee from all | Bible",
+          "pt": "Salmo 121:7-8 — O SENHOR te guardará de todo mal | Bíblia"
+        },
+        "gancho": {
+          "es": "El final del salmo del viajero.",
+          "pt": "O fim do salmo do viajante."
+        }
+      },
+      {
+        "ref": "Psalms 124:8",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 124:8 — Nuestro socorro es en el nombre | Biblia",
+          "en": "Psalm 124:8 — Our help is in the name | Bible",
+          "pt": "Salmo 124:8 — Nosso socorro está no nome do SENHOR | Bíblia"
+        },
+        "gancho": {
+          "es": "El último versículo del Salmo ciento veinticuatro.",
+          "pt": "O último versículo do Salmo cento e vinte e quatro."
+        }
+      },
+      {
+        "ref": "Psalms 125:1-2",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 125:1-2 — Los que confían en Jehová son como | Biblia",
+          "en": "Psalm 125:1-2 — They that trust in the Lord shall | Bible",
+          "pt": "Salmo 125:1-2 — Os que confiam no SENHOR são como | Bíblia"
+        },
+        "gancho": {
+          "es": "Los que confían comparados con un monte.",
+          "pt": "Os que confiam comparados com um monte."
+        }
+      },
+      {
+        "ref": "Psalms 126:5-6",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 126:5-6 — Los que sembraron con lágrimas, con regocijo | Biblia",
+          "en": "Psalm 126:5-6 — They that sow in tears shall reap | Bible",
+          "pt": "Salmo 126:5-6 — Os que semeiam em lágrimas colherão | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que pasa con los que siembran llorando.",
+          "pt": "O que acontece com os que semeiam chorando."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-12",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 33",
+        "Psalms 65",
+        "Psalms 67",
+        "Psalms 85"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Nuestra Alma Esperó a Jehová | Salmo 33, 65, 67 y 85",
+        "en": "Psalms for Sleep — Our Soul Waits for the Lord | Psalm 33, 65, 67 and 85",
+        "pt": "Salmos para Dormir — A Nossa Alma Espera no Senhor | Salmo 33, 65, 67 e 85"
+      },
+      "thumb_titulo": {
+        "es": "NUESTRA ALMA\nESPERÓ",
+        "en": "OUR SOUL\nWAITS",
+        "pt": "A NOSSA\nALMA ESPERA"
+      },
+      "thumb_sub": {
+        "es": "Salmos 33, 65, 67 y 85",
+        "en": "Psalms 33, 65, 67 and 85",
+        "pt": "Salmos 33, 65, 67 e 85"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "night clouds",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Salmos treinta y tres, sesenta y cinco, sesenta y siete y ochenta y cinco, leídos despacio, para escuchar acostado. Cuatro salmos de espera y bendición: el sesenta y siete es la bendición sacerdotal vuelta canción; el ochenta y cinco pregunta qué hablará Dios. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos trinta e três, sessenta e cinco, sessenta e sete e oitenta e cinco, lidos devagar, para ouvir deitado. Quatro salmos de espera e bênção: o sessenta e sete é a bênção sacerdotal virada canção; o oitenta e cinco pergunta o que Deus falará. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 33",
+          "salmo 65",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 33",
+          "salmo 65",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 33, 65, 67 y 85 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 33, 65, 67 e 85 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 33:20-21",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 33:20-21 — Nuestra alma esperó a Jehová; nuestra ayuda | Biblia",
+          "en": "Psalm 33:20-21 — Our soul waiteth for the Lord: he | Bible",
+          "pt": "Salmo 33:20-21 — Nossa alma espera no SENHOR; ele é | Bíblia"
+        },
+        "gancho": {
+          "es": "Un salmo sin autor, con una espera.",
+          "pt": "Um salmo sem autor, com uma espera."
+        }
+      },
+      {
+        "ref": "Psalms 65:2",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 65:2 — Tú oyes la oración: a ti vendrá | Biblia",
+          "en": "Psalm 65:2 — O thou that hearest prayer, unto thee | Bible",
+          "pt": "Salmo 65:2 — Tu, que ouves as orações; toda carne | Bíblia"
+        },
+        "gancho": {
+          "es": "Un título de Dios: el que oye la oración.",
+          "pt": "Um título de Deus: o que ouve a oração."
+        }
+      },
+      {
+        "ref": "Psalms 67:1",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 67:1 — Dios tenga misericordia de nosotros, y nos | Biblia",
+          "en": "Psalm 67:1 — God be merciful unto us, and bless | Bible",
+          "pt": "Salmo 67:1 — Que Deus tenha misericórdia de nós | Bíblia"
+        },
+        "gancho": {
+          "es": "Una bendición de tres partes.",
+          "pt": "Uma bênção de três partes."
+        }
+      },
+      {
+        "ref": "Psalms 85:8",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 85:8 — Escucharé lo que hablará el Dios Jehová | Biblia",
+          "en": "Psalm 85:8 — I will hear what God the Lord | Bible",
+          "pt": "Salmo 85:8 — Escutarei o que o Deus, o SENHOR | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Dios habla a su pueblo, según este salmo.",
+          "pt": "O que Deus fala ao seu povo, segundo este salmo."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-13",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 42",
+        "Psalms 55",
+        "Psalms 56",
+        "Psalms 57"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — En el Día Que Temo | Salmo 42, 55, 56 y 57 Narrados",
+        "en": "Psalms for Sleep — When I Am Afraid | Psalm 42, 55, 56 and 57",
+        "pt": "Salmos para Dormir — No Dia em Que Temo | Salmo 42, 55, 56 e 57 Narrados"
+      },
+      "thumb_titulo": {
+        "es": "EL DÍA\nQUE TEMO",
+        "en": "WHEN I AM\nAFRAID",
+        "pt": "NO DIA\nEM QUE TEMO"
+      },
+      "thumb_sub": {
+        "es": "Salmos 42, 55, 56 y 57",
+        "en": "Psalms 42, 55, 56 and 57",
+        "pt": "Salmos 42, 55, 56 e 57"
+      },
+      "consultas_imagens": [
+        "moon clouds",
+        "desert night",
+        "night sky"
+      ],
+      "abertura": {
+        "es": "Salmos cuarenta y dos, cincuenta y cinco, cincuenta y seis y cincuenta y siete, leídos despacio, para escuchar acostado. Cuatro salmos escritos con miedo: el cincuenta y seis, preso por los filisteos; el cincuenta y siete, escondido en una cueva. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos quarenta e dois, cinquenta e cinco, cinquenta e seis e cinquenta e sete, lidos devagar, para ouvir deitado. Quatro salmos escritos com medo: o cinquenta e seis, preso pelos filisteus; o cinquenta e sete, escondido numa caverna. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 42",
+          "salmo 55",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 42",
+          "salmo 55",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 42, 55, 56 y 57 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 42, 55, 56 e 57 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 42:11",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 42:11 — ¿Por qué te abates, oh alma mía | Biblia",
+          "en": "Psalm 42:11 — Why art thou cast down | Bible",
+          "pt": "Salmo 42:11 — Por que estás abatida, minha alma? | Bíblia"
+        },
+        "gancho": {
+          "es": "David discute con su propia alma.",
+          "pt": "Davi discute com a própria alma."
+        }
+      },
+      {
+        "ref": "Psalms 55:22",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Salmo 55:22 — Echa sobre Jehová tu carga, y él | Biblia",
+          "en": "Psalm 55:22 — Cast thy burden upon the Lord | Bible",
+          "pt": "Salmo 55:22 — Entrega tuas preocupações ao SENHOR, e ele | Bíblia"
+        },
+        "gancho": {
+          "es": "Qué hacer con la carga, según David.",
+          "pt": "O que fazer com a carga, segundo Davi."
+        }
+      },
+      {
+        "ref": "Psalms 56:3",
+        "tipo": "promesa",
+        "consulta_imagem": "night sky",
+        "titulo": {
+          "es": "Salmo 56:3 — En el día que temo, yo | Biblia",
+          "en": "Psalm 56:3 — What time I am afraid, I will | Bible",
+          "pt": "Salmo 56:3 — No dia em que eu tiver medo | Bíblia"
+        },
+        "gancho": {
+          "es": "El día en que temo: la respuesta de David.",
+          "pt": "No dia em que temo: a resposta de Davi."
+        }
+      },
+      {
+        "ref": "Psalms 57:1",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 57:1 — Ten misericordia de mí, oh Dios, ten | Biblia",
+          "en": "Psalm 57:1 — Be merciful unto me, O God, be | Bible",
+          "pt": "Salmo 57:1 — Tem misericórdia de mim, ó Deus, tem | Bíblia"
+        },
+        "gancho": {
+          "es": "David escribió esto escondido en una cueva.",
+          "pt": "Davi escreveu isto escondido numa caverna."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-14",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 111",
+        "Psalms 112",
+        "Psalms 113",
+        "Psalms 115"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Bienaventurado el Hombre | Salmo 111, 112, 113 y 115",
+        "en": "Psalms for Sleep — Blessed Is the Man | Psalm 111, 112, 113 and 115",
+        "pt": "Salmos para Dormir — Bem-aventurado o Homem | Salmo 111, 112, 113 e 115"
+      },
+      "thumb_titulo": {
+        "es": "NO TEMERÁ\nMALAS NOTICIAS",
+        "en": "NO FEAR OF\nBAD NEWS",
+        "pt": "NÃO TEMERÁ\nMÁS NOTÍCIAS"
+      },
+      "thumb_sub": {
+        "es": "Salmos 111, 112, 113 y 115",
+        "en": "Psalms 111, 112, 113 and 115",
+        "pt": "Salmos 111, 112, 113 e 115"
+      },
+      "consultas_imagens": [
+        "night lake",
+        "moon night",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Salmos ciento once, ciento doce, ciento trece y ciento quince, leídos despacio, para escuchar acostado. Cuatro salmos de aleluya: el ciento doce describe al hombre que no teme malas noticias; el ciento trece levanta al pobre del polvo. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos cento e onze, cento e doze, cento e treze e cento e quinze, lidos devagar, para ouvir deitado. Quatro salmos de aleluia: o cento e doze descreve o homem que não teme más notícias; o cento e treze levanta o pobre do pó. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 111",
+          "salmo 112",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 111",
+          "salmo 112",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 111, 112, 113 y 115 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 111, 112, 113 e 115 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 111:10",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 111:10 — El principio de la sabiduría | Biblia",
+          "en": "Psalm 111:10 — The fear of the Lord is | Bible",
+          "pt": "Salmo 111:10 — O temor ao SENHOR é o princípio | Bíblia"
+        },
+        "gancho": {
+          "es": "Dónde empieza la sabiduría, según el salmo.",
+          "pt": "Onde começa a sabedoria, segundo o salmo."
+        }
+      },
+      {
+        "ref": "Psalms 112:7",
+        "tipo": "promesa",
+        "consulta_imagem": "moon night",
+        "titulo": {
+          "es": "Salmo 112:7 — De mala fama no tendrá temor | Biblia",
+          "en": "Psalm 112:7 — He shall not be afraid of evil | Bible",
+          "pt": "Salmo 112:7 — Ele não temerá o mau rumor | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que el justo no teme.",
+          "pt": "O que o justo não teme."
+        }
+      },
+      {
+        "ref": "Psalms 113:7-8",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 113:7-8 — El levanta del polvo al pobre | Biblia",
+          "en": "Psalm 113:7-8 — He raiseth up the poor out | Bible",
+          "pt": "Salmo 113:7-8 — Que do levanta o pobre do pó | Bíblia"
+        },
+        "gancho": {
+          "es": "Del polvo al trono: un salmo sobre el pobre.",
+          "pt": "Do pó ao trono: um salmo sobre o pobre."
+        }
+      },
+      {
+        "ref": "Psalms 115:1",
+        "tipo": "promesa",
+        "consulta_imagem": "night lake",
+        "titulo": {
+          "es": "Salmo 115:1 — No a nosotros, oh Jehová | Biblia",
+          "en": "Psalm 115:1 — Not unto us, O Lord, not unto | Bible",
+          "pt": "Salmo 115:1 — Não a nós, SENHOR; não a nós | Bíblia"
+        },
+        "gancho": {
+          "es": "Un salmo que empieza diciendo: no a nosotros.",
+          "pt": "Um salmo que começa dizendo: não a nós."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-15",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 138",
+        "Psalms 141",
+        "Psalms 142",
+        "Psalms 144"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Jehová Cumplirá Su Propósito en Mí | Salmo 138, 141, 142 y 144",
+        "en": "Psalms for Sleep — The Lord Will Fulfill His Purpose | Psalm 138, 141, 142, 144",
+        "pt": "Salmos para Dormir — O Senhor Cumprirá o Seu Propósito | Salmo 138, 141, 142 e 144"
+      },
+      "thumb_titulo": {
+        "es": "JEHOVÁ\nCUMPLIRÁ",
+        "en": "THE LORD\nWILL FULFILL",
+        "pt": "O SENHOR\nCUMPRIRÁ"
+      },
+      "thumb_sub": {
+        "es": "Salmos 138, 141, 142 y 144",
+        "en": "Psalms 138, 141, 142 and 144",
+        "pt": "Salmos 138, 141, 142 e 144"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "moon clouds",
+        "milky way"
+      ],
+      "abertura": {
+        "es": "Salmos ciento treinta y ocho, ciento cuarenta y uno, ciento cuarenta y dos y ciento cuarenta y cuatro, leídos despacio, para escuchar acostado. Cuatro salmos de David, todos del final del libro: el ciento cuarenta y dos lo escribió en la cueva, sin nadie que lo conociera. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos cento e trinta e oito, cento e quarenta e um, cento e quarenta e dois e cento e quarenta e quatro, lidos devagar, para ouvir deitado. Quatro salmos de Davi, todos do fim do livro: o cento e quarenta e dois ele escreveu na caverna, sem ninguém que o conhecesse. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 138",
+          "salmo 141",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 138",
+          "salmo 141",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 138, 141, 142 y 144 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 138, 141, 142 e 144 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 138:3",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 138:3 — En el día que clamé, me respondiste | Biblia",
+          "en": "Psalm 138:3 — In the day when I cried thou | Bible",
+          "pt": "Salmo 138:3 — No dia em que clamei, tu me | Bíblia"
+        },
+        "gancho": {
+          "es": "El día en que David clamó, y lo que pasó.",
+          "pt": "O dia em que Davi clamou, e o que aconteceu."
+        }
+      },
+      {
+        "ref": "Psalms 138:8",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Salmo 138:8 — Jehová cumplirá por mí: tu misericordia, oh | Biblia",
+          "en": "Psalm 138:8 — The Lord will perfect that which concerneth | Bible",
+          "pt": "Salmo 138:8 — O SENHOR fará por completo | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que David dice que Jehová cumplirá.",
+          "pt": "O que Davi diz que o Senhor cumprirá."
+        }
+      },
+      {
+        "ref": "Psalms 141:3",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 141:3 — Pon, oh Jehová, guarda a mi boca | Biblia",
+          "en": "Psalm 141:3 — Set a watch, O Lord, before | Bible",
+          "pt": "Salmo 141:3 — Põe, SENHOR, uma guarda em minha boca | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que David pide para su boca.",
+          "pt": "O que Davi pede para a sua boca."
+        }
+      },
+      {
+        "ref": "Psalms 142:5",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 142:5 — Clamé a ti, oh Jehová, dije: Tú | Biblia",
+          "en": "Psalm 142:5 — I cried unto thee, O Lord: I | Bible",
+          "pt": "Salmo 142:5 — Eu clamo a ti, SENHOR, dizendo: Tu | Bíblia"
+        },
+        "gancho": {
+          "es": "David escribió esto en una cueva, según la inscripción.",
+          "pt": "Davi escreveu isto numa caverna, segundo a inscrição."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "salmos-noche-16",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Psalms 147",
+        "Psalms 148",
+        "Psalms 149",
+        "Psalms 150",
+        "Psalms 136"
+      ],
+      "titulo": {
+        "es": "Salmos para Dormir — Alabad a Jehová | Salmo 147, 148, 149, 150 y 136",
+        "en": "Psalms for Sleep — Praise the Lord | Psalm 147, 148, 149, 150 and 136",
+        "pt": "Salmos para Dormir — Louvai ao Senhor | Salmo 147, 148, 149, 150 e 136"
+      },
+      "thumb_titulo": {
+        "es": "ALABAD A\nJEHOVÁ",
+        "en": "PRAISE\nTHE LORD",
+        "pt": "LOUVAI AO\nSENHOR"
+      },
+      "thumb_sub": {
+        "es": "Salmos 147, 148, 149, 150 y 136",
+        "en": "Psalms 147, 148, 149, 150 and 136",
+        "pt": "Salmos 147, 148, 149, 150 e 136"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "night clouds",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Salmos ciento cuarenta y siete, ciento cuarenta y ocho, ciento cuarenta y nueve, ciento cincuenta y ciento treinta y seis, leídos despacio, para escuchar acostado. Los cuatro últimos salmos del libro, que empiezan y terminan con aleluya, y el ciento treinta y seis, que repite la misma frase veintiséis veces. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+        "pt": "Salmos cento e quarenta e sete, cento e quarenta e oito, cento e quarenta e nove, cento e cinquenta e cento e trinta e seis, lidos devagar, para ouvir deitado. Os quatro últimos salmos do livro, que começam e terminam com aleluia, e o cento e trinta e seis, que repete a mesma frase vinte e seis vezes. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+      },
+      "tags_extra": {
+        "es": [
+          "salmos para dormir",
+          "salmo 147",
+          "salmo 148",
+          "biblia hablada para dormir",
+          "salmos de noche",
+          "salmos narrados"
+        ],
+        "pt": [
+          "salmos para dormir",
+          "salmo 147",
+          "salmo 148",
+          "biblia narrada para dormir",
+          "salmos da noite",
+          "salmos narrados"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Salmos 147, 148, 149, 150 y 136 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+        "pt": "Salmos 147, 148, 149, 150 e 136 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Psalms 147:3",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 147:3 — El sana a los quebrantados de corazón | Biblia",
+          "en": "Psalm 147:3 — He healeth the broken in heart | Bible",
+          "pt": "Salmo 147:3 — Ele sara aos de coração partido | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Dios hace con los quebrantados.",
+          "pt": "O que Deus faz com os quebrantados."
+        }
+      },
+      {
+        "ref": "Psalms 147:4-5",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Salmo 147:4-5 — El cuenta el número de las estrellas | Biblia",
+          "en": "Psalm 147:4-5 — He telleth the number of the stars | Bible",
+          "pt": "Salmo 147:4-5 — Ele conta o número das estrelas; chama | Bíblia"
+        },
+        "gancho": {
+          "es": "Dios cuenta las estrellas, según el salmo.",
+          "pt": "Deus conta as estrelas, segundo o salmo."
+        }
+      },
+      {
+        "ref": "Psalms 148:3",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Salmo 148:3 — Alabadle, sol y luna: alabadle, vosotras todas | Biblia",
+          "en": "Psalm 148:3 — Praise ye him, sun and moon: praise | Bible",
+          "pt": "Salmo 148:3 — Louvai-o, sol e lua; louvai-o, todas | Bíblia"
+        },
+        "gancho": {
+          "es": "Un salmo en que hasta las estrellas alaban.",
+          "pt": "Um salmo em que até as estrelas louvam."
+        }
+      },
+      {
+        "ref": "Psalms 150:6",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Salmo 150:6 — Todo lo que respira alabe a Jah | Biblia",
+          "en": "Psalm 150:6 — Let every thing that hath breath praise | Bible",
+          "pt": "Salmo 150:6 — Tudo quanto tem fôlego, louve ao SENHOR! | Bíblia"
+        },
+        "gancho": {
+          "es": "El último versículo del libro de los Salmos.",
+          "pt": "O último versículo do livro dos Salmos."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "proverbios-3-4",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Proverbs 3",
+        "Proverbs 4"
+      ],
+      "titulo": {
+        "es": "Proverbios 3 y 4 — Confía en Jehová con Todo Tu Corazón | Biblia Hablada",
+        "en": "Proverbs 3 and 4 — Trust in the Lord with All Your Heart | Audio Bible",
+        "pt": "Provérbios 3 e 4 — Confia no Senhor de Todo o Teu Coração | Bíblia Narrada"
+      },
+      "thumb_titulo": {
+        "es": "CONFÍA CON\nTODO EL CORAZÓN",
+        "en": "TRUST WITH\nALL YOUR HEART",
+        "pt": "CONFIA DE\nTODO O CORAÇÃO"
+      },
+      "thumb_sub": {
+        "es": "Proverbios 3 y 4 completos",
+        "en": "Proverbs 3 and 4 in full",
+        "pt": "Provérbios 3 e 4 completos"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "night clouds",
+        "burning candle"
+      ],
+      "abertura": {
+        "es": "Dos capítulos de Proverbios, completos: el tres, con el versículo más citado de Salomón, y el cuatro, con la orden de guardar el corazón sobre toda cosa. Sin comentario: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve.",
+        "pt": "Dois capítulos de Provérbios, completos: o três, com o versículo mais citado de Salomão, e o quatro, com a ordem de guardar o coração acima de tudo. Sem comentário: somente o texto da Bíblia Livre."
+      },
+      "tags_extra": {
+        "es": [
+          "proverbios 3",
+          "proverbios 4",
+          "confia en jehova",
+          "biblia hablada",
+          "sabiduria de salomon"
+        ],
+        "pt": [
+          "proverbios 3",
+          "proverbios 4",
+          "confia no senhor",
+          "biblia narrada",
+          "sabedoria de salomao"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Proverbios 3 y 4 completos, leídos despacio. Reina-Valera 1909.",
+        "pt": "Provérbios 3 e 4 completos, lidos devagar. Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Proverbs 3:5-6",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "es": "Proverbios 3:5-6 — Fíate de Jehová de todo tu corazón | Biblia",
+          "en": "Proverbs 3:5-6 — Trust in the Lord with all thine | Bible",
+          "pt": "Provérbios 3:5-6 — Confia no SENHOR com todo o teu | Bíblia"
+        },
+        "gancho": {
+          "es": "El proverbio más citado de Salomón.",
+          "pt": "O provérbio mais citado de Salomão."
+        }
+      },
+      {
+        "ref": "Proverbs 3:24",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Proverbios 3:24 — Cuando te acostares, no tendrás temor; antes | Biblia",
+          "en": "Proverbs 3:24 — When thou liest down, thou shalt not | Bible",
+          "pt": "Provérbios 3:24 — Quando te deitares, não terás medo; tu | Bíblia"
+        },
+        "gancho": {
+          "es": "Un proverbio sobre acostarse.",
+          "pt": "Um provérbio sobre deitar-se."
+        }
+      },
+      {
+        "ref": "Proverbs 4:23",
+        "tipo": "promesa",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "es": "Proverbios 4:23 — Sobre toda cosa guardada guarda tu corazón | Biblia",
+          "en": "Proverbs 4:23 — Keep thy heart with all diligence | Bible",
+          "pt": "Provérbios 4:23 — Acima de tudo o que se deve | Bíblia"
+        },
+        "gancho": {
+          "es": "Qué guardar por encima de todo, según Salomón.",
+          "pt": "O que guardar acima de tudo, segundo Salomão."
+        }
+      },
+      {
+        "ref": "Proverbs 4:18",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "es": "Proverbios 4:18 — Mas la senda de los justos | Biblia",
+          "en": "Proverbs 4:18 — But the path of the just is | Bible",
+          "pt": "Provérbios 4:18 — Mas o caminho dos justos é como | Bíblia"
+        },
+        "gancho": {
+          "es": "El camino de los justos comparado con la luz.",
+          "pt": "O caminho dos justos comparado com a luz."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "isaias-40-41",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Isaiah 40",
+        "Isaiah 41"
+      ],
+      "titulo": {
+        "es": "Isaías 40 y 41 — No Temas, Porque Yo Estoy Contigo | Biblia Hablada",
+        "en": "Isaiah 40 and 41 — Fear Not, for I Am with You | Audio Bible",
+        "pt": "Isaías 40 e 41 — Não Temas, Porque Eu Sou Contigo | Bíblia Narrada"
+      },
+      "thumb_titulo": {
+        "es": "NO TEMAS",
+        "en": "FEAR NOT",
+        "pt": "NÃO TEMAS"
+      },
+      "thumb_sub": {
+        "es": "Isaías 40 y 41 completos",
+        "en": "Isaiah 40 and 41 in full",
+        "pt": "Isaías 40 e 41 completos"
+      },
+      "consultas_imagens": [
+        "desert night",
+        "starry sky",
+        "moon clouds"
+      ],
+      "abertura": {
+        "es": "Dos capítulos de Isaías, completos: el cuarenta, que empieza con consolaos y termina con las alas de águila, y el cuarenta y uno, donde Dios dice no temas en primera persona.",
+        "pt": "Dois capítulos de Isaías, completos: o quarenta, que começa com consolai e termina com as asas de águia, e o quarenta e um, onde Deus diz não temas em primeira pessoa."
+      },
+      "tags_extra": {
+        "es": [
+          "isaias 40",
+          "isaias 41",
+          "no temas",
+          "biblia hablada",
+          "consolaos pueblo mio"
+        ],
+        "pt": [
+          "isaias 40",
+          "isaias 41",
+          "nao temas",
+          "biblia narrada",
+          "consolai o meu povo"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Isaías 40 y 41 completos, leídos despacio. Reina-Valera 1909.",
+        "pt": "Isaías 40 e 41 completos, lidos devagar. Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Isaiah 40:29",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Isaías 40:29 — El da esfuerzo al cansado, y multiplica | Biblia",
+          "en": "Isaiah 40:29 — He giveth power to the faint | Bible",
+          "pt": "Isaías 40:29 — Ele dá força ao cansado, e multiplica | Bíblia"
+        },
+        "gancho": {
+          "es": "A quién da Dios fuerzas, según Isaías.",
+          "pt": "A quem Deus dá forças, segundo Isaías."
+        }
+      },
+      {
+        "ref": "Isaiah 40:31",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Isaías 40:31 — Mas los que esperan a Jehová tendrán | Biblia",
+          "en": "Isaiah 40:31 — But they that wait upon the Lord | Bible",
+          "pt": "Isaías 40:31 — Mas os que confiam no SENHOR renovarão | Bíblia"
+        },
+        "gancho": {
+          "es": "El versículo de las alas de águila.",
+          "pt": "O versículo das asas de águia."
+        }
+      },
+      {
+        "ref": "Isaiah 41:10",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Isaías 41:10 — No temas, que yo soy contigo | Biblia",
+          "en": "Isaiah 41:10 — Fear thou not; for I am | Bible",
+          "pt": "Isaías 41:10 — Não temas, porque eu estou contigo; não | Bíblia"
+        },
+        "gancho": {
+          "es": "Dios habla en primera persona: no temas.",
+          "pt": "Deus fala em primeira pessoa: não temas."
+        }
+      },
+      {
+        "ref": "Isaiah 41:13",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Isaías 41:13 — Porque yo Jehová soy tu Dios | Biblia",
+          "en": "Isaiah 41:13 — For I the Lord thy God will | Bible",
+          "pt": "Isaías 41:13 — Porque eu, o SENHOR teu Deus, te | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Dios dice que hace con tu mano.",
+          "pt": "O que Deus diz que faz com a tua mão."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "romanos-8",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Romans 8"
+      ],
+      "titulo": {
+        "es": "Romanos 8 — Nada Nos Separará del Amor de Dios | Biblia Hablada",
+        "en": "Romans 8 — Nothing Can Separate Us from the Love of God | Audio Bible",
+        "pt": "Romanos 8 — Nada Nos Separará do Amor de Deus | Bíblia Narrada"
+      },
+      "thumb_titulo": {
+        "es": "NADA NOS\nSEPARARÁ",
+        "en": "NOTHING CAN\nSEPARATE US",
+        "pt": "NADA NOS\nSEPARARÁ"
+      },
+      "thumb_sub": {
+        "es": "Romanos 8 completo",
+        "en": "Romans 8 in full",
+        "pt": "Romanos 8 completo"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "milky way",
+        "moon night"
+      ],
+      "abertura": {
+        "es": "El capítulo ocho de la carta a los Romanos, completo: treinta y nueve versículos que empiezan sin condenación y terminan con la lista de lo que no puede separarnos.",
+        "pt": "O capítulo oito da carta aos Romanos, completo: trinta e nove versículos que começam sem condenação e terminam com a lista do que não pode nos separar."
+      },
+      "tags_extra": {
+        "es": [
+          "romanos 8",
+          "nada nos separara",
+          "biblia hablada",
+          "carta a los romanos",
+          "todas las cosas ayudan a bien"
+        ],
+        "pt": [
+          "romanos 8",
+          "nada nos separara",
+          "biblia narrada",
+          "carta aos romanos",
+          "todas as coisas cooperam"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Romanos 8 completo, leído despacio. Reina-Valera 1909.",
+        "pt": "Romanos 8 completo, lido devagar. Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Romans 8:28",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Romanos 8:28 — Y sabemos | Biblia",
+          "en": "Romans 8:28 — And we know that all things work | Bible",
+          "pt": "Romanos 8:28 — E sabemos que todas as coisas juntamente | Bíblia"
+        },
+        "gancho": {
+          "es": "El versículo de Pablo sobre todas las cosas.",
+          "pt": "O versículo de Paulo sobre todas as coisas."
+        }
+      },
+      {
+        "ref": "Romans 8:31",
+        "tipo": "promesa",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "es": "Romanos 8:31 — ¿Pues qué diremos a esto? Si Dios | Biblia",
+          "en": "Romans 8:31 — What shall we then say to these | Bible",
+          "pt": "Romanos 8:31 — Então, que diremos acerca dessas coisas? | Bíblia"
+        },
+        "gancho": {
+          "es": "La pregunta de Pablo que nadie puede responder.",
+          "pt": "A pergunta de Paulo que ninguém consegue responder."
+        }
+      },
+      {
+        "ref": "Romans 8:38-39",
+        "tipo": "promesa",
+        "consulta_imagem": "moon night",
+        "titulo": {
+          "es": "Romanos 8:38-39 — Por lo cual estoy cierto que ni | Biblia",
+          "en": "Romans 8:38-39 — For I am persuaded, that neither death | Bible",
+          "pt": "Romanos 8:38-39 — Pois tenho certeza que nem a morte | Bíblia"
+        },
+        "gancho": {
+          "es": "La lista de Pablo de lo que no puede separarnos.",
+          "pt": "A lista de Paulo do que não pode nos separar."
+        }
+      },
+      {
+        "ref": "Romans 8:18",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Romanos 8:18 — Porque tengo por cierto | Biblia",
+          "en": "Romans 8:18 — For I reckon that the sufferings | Bible",
+          "pt": "Romanos 8:18 — Pois considero que as aflições deste tempo | Bíblia"
+        },
+        "gancho": {
+          "es": "Cómo compara Pablo el sufrimiento de ahora.",
+          "pt": "Como Paulo compara o sofrimento de agora."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "juan-14-16",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "John 14",
+        "John 15",
+        "John 16"
+      ],
+      "titulo": {
+        "es": "Juan 14, 15 y 16 — No Se Turbe Vuestro Corazón | Biblia Hablada",
+        "en": "John 14, 15 and 16 — Let Not Your Heart Be Troubled | Audio Bible",
+        "pt": "João 14, 15 e 16 — Não Se Turbe o Vosso Coração | Bíblia Narrada"
+      },
+      "thumb_titulo": {
+        "es": "NO SE TURBE\nTU CORAZÓN",
+        "en": "LET NOT YOUR\nHEART BE TROUBLED",
+        "pt": "NÃO SE TURBE\nO CORAÇÃO"
+      },
+      "thumb_sub": {
+        "es": "Juan 14, 15 y 16 completos",
+        "en": "John 14, 15 and 16 in full",
+        "pt": "João 14, 15 e 16 completos"
+      },
+      "consultas_imagens": [
+        "burning candle",
+        "night clouds",
+        "clay lamp"
+      ],
+      "abertura": {
+        "es": "Tres capítulos de Juan, completos: lo que Jesús dijo a los suyos la noche antes de morir, desde no se turbe vuestro corazón hasta yo he vencido al mundo.",
+        "pt": "Três capítulos de João, completos: o que Jesus disse aos seus na noite antes de morrer, de não se turbe o vosso coração até eu venci o mundo."
+      },
+      "tags_extra": {
+        "es": [
+          "juan 14",
+          "juan 15",
+          "juan 16",
+          "no se turbe vuestro corazon",
+          "biblia hablada",
+          "palabras de jesus"
+        ],
+        "pt": [
+          "joao 14",
+          "joao 15",
+          "joao 16",
+          "nao se turbe o vosso coracao",
+          "biblia narrada",
+          "palavras de jesus"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Juan 14, 15 y 16 completos, leídos despacio. Reina-Valera 1909.",
+        "pt": "João 14, 15 e 16 completos, lidos devagar. Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "John 14:1",
+        "tipo": "promesa",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "es": "Juan 14:1 — No se turbe vuestro corazón: creéis | Biblia",
+          "en": "John 14:1 — Let not your heart be troubled: ye | Bible",
+          "pt": "João 14:1 — Não se perturbe vosso coração; credes | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Jesús dijo la noche antes de morir.",
+          "pt": "O que Jesus disse na noite antes de morrer."
+        }
+      },
+      {
+        "ref": "John 14:27",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Juan 14:27 — La paz os dejo, mi paz | Biblia",
+          "en": "John 14:27 — Peace I leave with you, my peace | Bible",
+          "pt": "João 14:27 — A paz vos deixo, minha paz vos | Bíblia"
+        },
+        "gancho": {
+          "es": "La paz que Jesús deja, con sus palabras.",
+          "pt": "A paz que Jesus deixa, com as palavras dele."
+        }
+      },
+      {
+        "ref": "John 15:5",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "es": "Juan 15:5 — Yo soy la vid, vosotros los pámpanos | Biblia",
+          "en": "John 15:5 — I am the vine, ye are | Bible",
+          "pt": "João 15:5 — Eu sou a videira, vós sois | Bíblia"
+        },
+        "gancho": {
+          "es": "Jesús se compara con una vid.",
+          "pt": "Jesus se compara com uma videira."
+        }
+      },
+      {
+        "ref": "John 16:33",
+        "tipo": "promesa",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "es": "Juan 16:33 — Estas cosas os he hablado | Biblia",
+          "en": "John 16:33 — These things I have spoken unto you | Bible",
+          "pt": "João 16:33 — Estas coisas tenho vos dito | Bíblia"
+        },
+        "gancho": {
+          "es": "La última frase de Jesús antes de orar.",
+          "pt": "A última frase de Jesus antes de orar."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "abraao-isaque",
+    "formato": "historia",
+    "longo": {
+      "refs": [
+        "Genesis 22:1-19"
+      ],
+      "titulo": {
+        "es": "Abraham e Isaac — Dios Proveerá | Génesis 22 Narrado Completo",
+        "en": "Abraham and Isaac — God Will Provide | Genesis 22 Narrated in Full",
+        "pt": "Abraão e Isaque — Deus Proverá | Gênesis 22 Narrado Completo"
+      },
+      "thumb_titulo": {
+        "es": "DIOS\nPROVEERÁ",
+        "en": "GOD WILL\nPROVIDE",
+        "pt": "DEUS\nPROVERÁ"
+      },
+      "thumb_sub": {
+        "es": "Génesis 22 — historia completa",
+        "en": "Genesis 22 — full story",
+        "pt": "Gênesis 22 — história completa"
+      },
+      "consultas_imagens": [
+        "desert night",
+        "bonfire night",
+        "starry sky"
+      ],
+      "abertura": {
+        "es": "Génesis veintidós, completo: la prueba de Abraham, la pregunta de Isaac subiendo el monte y el carnero trabado en el zarzal. Solamente el texto, sin comentario.",
+        "pt": "Gênesis vinte e dois, completo: a prova de Abraão, a pergunta de Isaque subindo o monte e o carneiro preso no mato. Somente o texto, sem comentário."
+      },
+      "tags_extra": {
+        "es": [
+          "abraham e isaac",
+          "genesis 22",
+          "historias biblicas",
+          "dios proveera",
+          "biblia narrada"
+        ],
+        "pt": [
+          "abraao e isaque",
+          "genesis 22",
+          "historias biblicas",
+          "deus provera",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Génesis 22 completo: Abraham e Isaac en el monte Moriah. Reina-Valera 1909.",
+        "pt": "Gênesis 22 completo: Abraão e Isaque no monte Moriá. Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Genesis 22:7-8",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Génesis 22:7-8 — Entonces habló Isaac a Abraham su padre | Biblia",
+          "en": "Genesis 22:7-8 — And Isaac spake unto Abraham his father | Bible",
+          "pt": "Gênesis 22:7-8 — Então falou Isaque a Abraão seu pai | Bíblia"
+        },
+        "gancho": {
+          "es": "La pregunta de Isaac subiendo el monte.",
+          "pt": "A pergunta de Isaque subindo o monte."
+        }
+      },
+      {
+        "ref": "Genesis 22:11-12",
+        "tipo": "promesa",
+        "consulta_imagem": "bonfire night",
+        "titulo": {
+          "es": "Génesis 22:11-12 — Entonces el ángel de Jehová le dio | Biblia",
+          "en": "Genesis 22:11-12 — And the angel of the Lord called | Bible",
+          "pt": "Gênesis 22:11-12 — Então o anjo do SENHOR lhe gritou | Bíblia"
+        },
+        "gancho": {
+          "es": "El momento en que la voz detiene el cuchillo.",
+          "pt": "O momento em que a voz detém a faca."
+        }
+      },
+      {
+        "ref": "Genesis 22:13-14",
+        "tipo": "promesa",
+        "consulta_imagem": "starry sky",
+        "titulo": {
+          "es": "Génesis 22:13-14 — Entonces alzó Abraham sus ojos, y miró | Biblia",
+          "en": "Genesis 22:13-14 — And Abraham lifted up his eyes | Bible",
+          "pt": "Gênesis 22:13-14 — Então levantou Abraão seus olhos, e olhou | Bíblia"
+        },
+        "gancho": {
+          "es": "El nombre que Abraham le dio a ese lugar.",
+          "pt": "O nome que Abraão deu àquele lugar."
+        }
+      },
+      {
+        "ref": "Genesis 22:16-17",
+        "tipo": "promesa",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "es": "Génesis 22:16-17 — Y dijo: Por mí mismo he jurado | Biblia",
+          "en": "Genesis 22:16-17 — And said, By myself have I sworn | Bible",
+          "pt": "Gênesis 22:16-17 — E disse: Por mim mesmo jurei, diz | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Dios juró después de la prueba.",
+          "pt": "O que Deus jurou depois da prova."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "filho-prodigo",
+    "formato": "historia",
+    "longo": {
+      "refs": [
+        "Luke 15:11-32"
+      ],
+      "titulo": {
+        "es": "El Hijo Pródigo — La Parábola Completa | Lucas 15 Narrado",
+        "en": "The Prodigal Son — The Complete Parable | Luke 15 Narrated",
+        "pt": "O Filho Pródigo — A Parábola Completa | Lucas 15 Narrado"
+      },
+      "thumb_titulo": {
+        "es": "EL HIJO\nPRÓDIGO",
+        "en": "THE PRODIGAL\nSON",
+        "pt": "O FILHO\nPRÓDIGO"
+      },
+      "thumb_sub": {
+        "es": "Lucas 15 — parábola completa",
+        "en": "Luke 15 — full parable",
+        "pt": "Lucas 15 — parábola completa"
+      },
+      "consultas_imagens": [
+        "dusk sky",
+        "night clouds",
+        "fireplace fire"
+      ],
+      "abertura": {
+        "es": "Lucas quince, del versículo once al treinta y dos: la parábola del hijo que pidió su herencia, la gastó y volvió. Solamente el texto, sin comentario.",
+        "pt": "Lucas quinze, do versículo onze ao trinta e dois: a parábola do filho que pediu a herança, gastou tudo e voltou. Somente o texto, sem comentário."
+      },
+      "tags_extra": {
+        "es": [
+          "hijo prodigo",
+          "lucas 15",
+          "parabolas de jesus",
+          "historias biblicas",
+          "biblia narrada"
+        ],
+        "pt": [
+          "filho prodigo",
+          "lucas 15",
+          "parabolas de jesus",
+          "historias biblicas",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Lucas 15:11-32 completo: la parábola del hijo pródigo. Reina-Valera 1909.",
+        "pt": "Lucas 15:11-32 completo: a parábola do filho pródigo. Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Luke 15:17-19",
+        "tipo": "promesa",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "es": "Lucas 15:17-19 — Y volviendo en sí, dijo: ¡Cuántos jornaleros | Biblia",
+          "en": "Luke 15:17-19 — And when he came to himself, he | Bible",
+          "pt": "Lucas 15:17-19 — E ele, pensando consigo mesmo, disse: Quantos | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que el hijo pródigo se dijo entre los cerdos.",
+          "pt": "O que o filho pródigo disse a si mesmo entre os porcos."
+        }
+      },
+      {
+        "ref": "Luke 15:20",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Lucas 15:20 — Y levantándose, vino a su padre | Biblia",
+          "en": "Luke 15:20 — And he arose, and came | Bible",
+          "pt": "Lucas 15:20 — E levantando-se, foi a seu pai | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que hizo el padre cuando lo vio de lejos.",
+          "pt": "O que o pai fez quando o viu de longe."
+        }
+      },
+      {
+        "ref": "Luke 15:22-24",
+        "tipo": "promesa",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "es": "Lucas 15:22-24 — Mas el padre dijo a sus siervos | Biblia",
+          "en": "Luke 15:22-24 — But the father said to his servants | Bible",
+          "pt": "Lucas 15:22-24 — Mas o pai disse a seus servos | Bíblia"
+        },
+        "gancho": {
+          "es": "La orden del padre a los siervos.",
+          "pt": "A ordem do pai aos servos."
+        }
+      },
+      {
+        "ref": "Luke 15:31-32",
+        "tipo": "promesa",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "es": "Lucas 15:31-32 — El entonces le dijo: Hijo, tú siempre | Biblia",
+          "en": "Luke 15:31-32 — And he said unto him, Son, thou | Bible",
+          "pt": "Lucas 15:31-32 — E ele lhe disse: Filho, tu sempre | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que el padre respondió al hijo mayor.",
+          "pt": "O que o pai respondeu ao filho mais velho."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "lazaro",
+    "formato": "historia",
+    "longo": {
+      "refs": [
+        "John 11:1-44"
+      ],
+      "titulo": {
+        "es": "Lázaro, Ven Fuera — La Resurrección de Lázaro | Juan 11 Narrado",
+        "en": "Lazarus, Come Forth — The Raising of Lazarus | John 11 Narrated",
+        "pt": "Lázaro, Vem Para Fora — A Ressurreição de Lázaro | João 11 Narrado"
+      },
+      "thumb_titulo": {
+        "es": "LÁZARO\nVEN FUERA",
+        "en": "LAZARUS\nCOME FORTH",
+        "pt": "LÁZARO\nVEM PARA FORA"
+      },
+      "thumb_sub": {
+        "es": "Juan 11 — historia completa",
+        "en": "John 11 — full story",
+        "pt": "João 11 — história completa"
+      },
+      "consultas_imagens": [
+        "torch fire",
+        "night clouds",
+        "clay lamp"
+      ],
+      "abertura": {
+        "es": "Juan once, del versículo uno al cuarenta y cuatro: la enfermedad, los cuatro días, el versículo más corto de la Biblia y la voz frente a la tumba. Solamente el texto.",
+        "pt": "João onze, do versículo um ao quarenta e quatro: a doença, os quatro dias, o versículo mais curto da Bíblia e a voz diante do túmulo. Somente o texto."
+      },
+      "tags_extra": {
+        "es": [
+          "lazaro",
+          "juan 11",
+          "resurreccion de lazaro",
+          "historias biblicas",
+          "biblia narrada"
+        ],
+        "pt": [
+          "lazaro",
+          "joao 11",
+          "ressurreicao de lazaro",
+          "historias biblicas",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Juan 11:1-44 completo: la resurrección de Lázaro. Reina-Valera 1909.",
+        "pt": "João 11:1-44 completo: a ressurreição de Lázaro. Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "John 11:25-26",
+        "tipo": "promesa",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "es": "Juan 11:25-26 — Dícele Jesús: Yo soy la resurrección | Biblia",
+          "en": "John 11:25-26 — Jesus said unto her, I am | Bible",
+          "pt": "João 11:25-26 — Disse-lhe Jesus: Eu sou a ressurreição | Bíblia"
+        },
+        "gancho": {
+          "es": "Jesús dijo esto antes de llegar a la tumba.",
+          "pt": "Jesus disse isto antes de chegar ao túmulo."
+        }
+      },
+      {
+        "ref": "John 11:35",
+        "tipo": "promesa",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "es": "Juan 11:35 — Y lloró Jesús | Biblia",
+          "en": "John 11:35 — Jesus wept | Bible",
+          "pt": "João 11:35 — Jesus chorou | Bíblia"
+        },
+        "gancho": {
+          "es": "El versículo más corto de la Biblia.",
+          "pt": "O versículo mais curto da Bíblia."
+        }
+      },
+      {
+        "ref": "John 11:40",
+        "tipo": "promesa",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "es": "Juan 11:40 — Jesús le dice: ¿No te he dicho | Biblia",
+          "en": "John 11:40 — Jesus saith unto her, Said I not | Bible",
+          "pt": "João 11:40 — Jesus disse-lhe: Não te disse | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Jesús le dijo a Marta frente a la piedra.",
+          "pt": "O que Jesus disse a Marta diante da pedra."
+        }
+      },
+      {
+        "ref": "John 11:43-44",
+        "tipo": "promesa",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "es": "Juan 11:43-44 — Y habiendo dicho estas cosas, clamó | Biblia",
+          "en": "John 11:43-44 — And when he thus had spoken, he | Bible",
+          "pt": "João 11:43-44 — E havendo dito isto, clamou com grande | Bíblia"
+        },
+        "gancho": {
+          "es": "Tres palabras, y el muerto salió.",
+          "pt": "Três palavras, e o morto saiu."
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pedro-sobre-as-aguas",
+    "formato": "historia",
+    "longo": {
+      "refs": [
+        "Matthew 14:22-33"
+      ],
+      "titulo": {
+        "es": "Pedro Camina Sobre el Mar — Hombre de Poca Fe | Mateo 14 Narrado",
+        "en": "Peter Walks on Water — O You of Little Faith | Matthew 14 Narrated",
+        "pt": "Pedro Anda Sobre o Mar — Homem de Pouca Fé | Mateus 14 Narrado"
+      },
+      "thumb_titulo": {
+        "es": "SOBRE\nEL MAR",
+        "en": "ON THE\nWATER",
+        "pt": "SOBRE\nO MAR"
+      },
+      "thumb_sub": {
+        "es": "Mateo 14 — historia completa",
+        "en": "Matthew 14 — full story",
+        "pt": "Mateus 14 — história completa"
+      },
+      "consultas_imagens": [
+        "night sea",
+        "storm clouds",
+        "moon clouds"
+      ],
+      "abertura": {
+        "es": "Mateo catorce, del versículo veintidós al treinta y tres: la barca de noche, la cuarta vigilia, Pedro sobre el agua y la mano que lo sostiene. Solamente el texto.",
+        "pt": "Mateus catorze, do versículo vinte e dois ao trinta e três: o barco de noite, a quarta vigília, Pedro sobre a água e a mão que o segura. Somente o texto."
+      },
+      "tags_extra": {
+        "es": [
+          "pedro camina sobre el agua",
+          "mateo 14",
+          "historias biblicas",
+          "hombre de poca fe",
+          "biblia narrada"
+        ],
+        "pt": [
+          "pedro anda sobre as aguas",
+          "mateus 14",
+          "historias biblicas",
+          "homem de pouca fe",
+          "biblia narrada"
+        ]
+      },
+      "descricao_busca": {
+        "es": "Mateo 14:22-33 completo: Pedro camina sobre el mar. Reina-Valera 1909.",
+        "pt": "Mateus 14:22-33 completo: Pedro anda sobre o mar. Bíblia Livre."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Matthew 14:27",
+        "tipo": "promesa",
+        "consulta_imagem": "night sea",
+        "titulo": {
+          "es": "Mateo 14:27 — Mas luego Jesús les habló, diciendo: Confiad | Biblia",
+          "en": "Matthew 14:27 — But straightway Jesus spake unto them, saying | Bible",
+          "pt": "Mateus 14:27 — Mas Jesus logo lhes falou, dizendo: Tende | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que Jesús dijo caminando sobre el mar.",
+          "pt": "O que Jesus disse andando sobre o mar."
+        }
+      },
+      {
+        "ref": "Matthew 14:29-30",
+        "tipo": "promesa",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "es": "Mateo 14:29-30 — Y él dijo: Ven. Y descendiendo Pedro | Biblia",
+          "en": "Matthew 14:29-30 — And he said, Come. And when Peter | Bible",
+          "pt": "Mateus 14:29-30 — E ele disse: Vem. Então Pedro desceu | Bíblia"
+        },
+        "gancho": {
+          "es": "Pedro caminó sobre el agua hasta que miró el viento.",
+          "pt": "Pedro andou sobre a água até olhar para o vento."
+        }
+      },
+      {
+        "ref": "Matthew 14:31",
+        "tipo": "promesa",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "es": "Mateo 14:31 — Y luego Jesús, extendiendo la mano, trabó | Biblia",
+          "en": "Matthew 14:31 — And immediately Jesus stretched forth his hand | Bible",
+          "pt": "Mateus 14:31 — Imediatamente Jesus estendeu a mão, segurou-o | Bíblia"
+        },
+        "gancho": {
+          "es": "La pregunta de Jesús a Pedro hundiéndose.",
+          "pt": "A pergunta de Jesus a Pedro afundando."
+        }
+      },
+      {
+        "ref": "Matthew 14:32-33",
+        "tipo": "promesa",
+        "consulta_imagem": "night sea",
+        "titulo": {
+          "es": "Mateo 14:32-33 — Y como ellos entraron en el barco | Biblia",
+          "en": "Matthew 14:32-33 — And when they were come into | Bible",
+          "pt": "Mateus 14:32-33 — E quando subiram no barco, o vento | Bíblia"
+        },
+        "gancho": {
+          "es": "Lo que pasó cuando subieron a la barca.",
+          "pt": "O que aconteceu quando subiram ao barco."
+        }
+      }
+    ]
   }
 ]
