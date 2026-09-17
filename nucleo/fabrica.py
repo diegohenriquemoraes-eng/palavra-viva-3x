@@ -203,8 +203,24 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
     # GANCHO nos 3 primeiros segundos — a peça que decide o view ratio, e com
     # ele a distribuição. Escolhido por seed do pacote+item: estável (rerender
     # dá o mesmo vídeo) e girando entre os 12 da lista do idioma.
-    ganchos = idiomas.GANCHOS[idioma]
-    gancho = ganchos[_seed(pacote, f"gancho{idx}") % len(ganchos)]
+    # 16/09/2026 — o Studio mostrou o número que a API não dá: "continuaram
+    # assistindo vs. pularam" em 28 dias = stoic 41%, es 24%, pt 21%, com o
+    # piso de impulso em 70%. A retenção média (>100%) só conta quem ficou; o
+    # que decide a entrega é quem NÃO pula nos 3 primeiros segundos, e nesses
+    # 3 segundos o espectador só vê o gancho. Doze frases genéricas girando por
+    # seed, sem relação com o trecho, eram o teste inteiro. Por isso:
+    #  1. o poço pode trazer `gancho` por Short (str ou dict por idioma),
+    #     escrito DEPOIS do trecho e apontando para ele (regra do manual:
+    #     gancho se escreve por último);
+    #  2. sem gancho no poço, o sorteio continua, mas filtrado pela obra do
+    #     trecho — "Marco Aurelio escribió esto" caía em passagens de Epicteto.
+    gancho = short.get("gancho") or ""
+    if isinstance(gancho, dict):
+        gancho = gancho.get(idioma, "") or ""
+    gancho = gancho.strip()
+    if not gancho:
+        ganchos = idiomas.ganchos_para(idioma, ref)
+        gancho = ganchos[_seed(pacote, f"gancho{idx}") % len(ganchos)]
 
     # Teto de duração por canal: o método de canal novo pede Short de 10-20s
     # (quanto mais curto, mais fácil segurar do início ao fim). O padrão da
@@ -250,9 +266,18 @@ def montar_short(pacote: dict, idx: int, idioma: str, marca: str,
         PAUSA_GANCHO, voz,
         outdir / "tts")
     blocos = []
-    for seg in segmentos:
+    for i, seg in enumerate(segmentos):
         legendas.alinhar_display(seg["texto"], seg["palavras"])
-        blocos += legendas.agrupar(seg["palavras"])
+        if i == 0:
+            # O gancho vai INTEIRO no frame zero, em corpo maior (estilo
+            # Gancho): fatiado em blocos de 3 palavras, o primeiro frame dizia
+            # "Marco Aurelio escribió" e a promessa só aparecia em 1,5 s —
+            # depois da decisão de pular. Uma frase, uma tela, do 0 ao fim da
+            # fala do gancho.
+            g = legendas.agrupar(seg["palavras"], largura=200, max_palavras=40)
+            blocos += [{**b, "estilo": "Gancho"} for b in g[:1]]
+        else:
+            blocos += legendas.agrupar(seg["palavras"])
     dur = dur_voz + CAUDA_SHORT
 
     cab = biblia.cabecalho(idioma, ref)

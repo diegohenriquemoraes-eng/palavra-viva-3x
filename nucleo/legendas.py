@@ -70,6 +70,7 @@ WrapStyle: 0
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Verso,Montserrat,86,&H00FFFFFF,&H00FFFFFF,&H00251505,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,5,60,60,0,1
+Style: Gancho,Montserrat,100,&H00FFFFFF,&H00FFFFFF,&H00251505,&HA0000000,-1,0,0,0,100,100,0,0,1,6,3,5,60,60,0,1
 Style: Ref,Bebas Neue,64,&H007AC9E8,&H007AC9E8,&H00251505,&H80000000,0,0,0,0,100,100,7,0,1,3,1,8,40,40,170,1
 Style: Marca,Montserrat,38,&H00C8C0B0,&H00C8C0B0,&H00251505,&H80000000,0,0,0,0,100,100,3,0,1,2,0,2,40,40,120,1
 Style: Cta,Bebas Neue,62,&H007AC9E8,&H007AC9E8,&H00251505,&H80000000,0,0,0,0,100,100,5,0,1,3,1,2,40,40,215,1
@@ -118,8 +119,9 @@ def ass_short(path: Path, blocos: list[dict], cabecalho: str, marca: str,
             # o gancho tem que estar ESCRITO no frame zero: o TTS começa a
             # falar por volta de 0,1s e o vídeo abria com 3 frames sem texto
             b = {**b, "ini": 0.0}
+        estilo = b.get("estilo", "Verso")
         linhas.append(
-            f"Dialogue: 0,{_ts(b['ini'])},{_ts(b['fim'])},Verso,,0,0,0,,{b['texto']}\n"
+            f"Dialogue: 0,{_ts(b['ini'])},{_ts(b['fim'])},{estilo},,0,0,0,,{b['texto']}\n"
         )
     path.write_text("".join(linhas), encoding="utf-8-sig")
 

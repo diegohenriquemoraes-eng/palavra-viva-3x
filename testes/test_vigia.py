@@ -27,9 +27,17 @@ HIST = json.loads(
     (RAIZ / "conteudo" / "desempenho_historico.json").read_text(encoding="utf-8"))
 
 
-def serie(canal):
+# A série é VIVA (o medir diário acrescenta um ponto) e estes casos descrevem
+# o que era verdade em 03/09/2026 — "o ES segue caindo", "o stoic cresce".
+# Sem congelar a data, o teste passava a reprovar quando a realidade mudava
+# (em 16/09 o stoic caiu de 966 para 318 e o alarme tocou, corretamente).
+CONGELADA_EM = "2026-09-03"
+
+
+def serie(canal, ate=CONGELADA_EM):
     return [(h["data"], h["canais"][canal]["views_medianas"]) for h in HIST
-            if h["canais"].get(canal, {}).get("views_medianas")]
+            if h["canais"].get(canal, {}).get("views_medianas")
+            and h["data"] <= ate]
 
 
 def primeira_data_de_alarme(canal):

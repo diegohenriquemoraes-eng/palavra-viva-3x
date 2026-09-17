@@ -14,7 +14,19 @@ from functools import lru_cache
 
 from . import idiomas
 
-REF_RE = re.compile(r"^(.+?)\s+(\d+)(?::(\d+)(?:-(\d+))?)?$")
+REF_RE = re.compile(r"^(.+?)\s+(\d+)(?::(\d+)(?:-(\d+))?)?(?:/(\d+)(?:-(\d+))?)?$")
+
+# Ref POR FRASE (16/09/2026): "Meditaciones 6:75/1" = só a 1ª frase do
+# parágrafo 75 do livro 6; "/2-3" = frases 2 a 3. Existe porque o corpus
+# estoico é fatiado por PARÁGRAFO (a "verse" do JSON), e a tradução Díaz de
+# Miranda (1785) tem parágrafos de 50 a 120 palavras: 308 parágrafos nunca
+# usados em Short estavam trancados pelo teto de 20 s, e dentro deles há mais
+# de 800 frases de 12 a 40 palavras. A frase é a unidade natural da máxima —
+# foi assim que os poços do Poder Crudo e do Astucia Fría já vinham fatiados.
+# Só vale para UM parágrafo (v1 == v2). A exibição ("Meditaciones 6:75") e a
+# descrição omitem a parte da frase: a fonte é o parágrafo, e é ele que o
+# espectador vai procurar.
+FRASE_RE = re.compile(r"(?<=[.;!?])\s+(?=[¿¡\"“'(A-ZÁÉÍÓÚÑÜ])")
 
 # Inscrições de Salmos que não fazem sentido narradas ("Al Músico principal...",
 # "To the chief Musician...", "Salmo de Davi:"). Removidas só do versículo 1.
@@ -108,6 +120,25 @@ def analisar_ref(ref: str) -> tuple[str, int, int | None, int | None]:
     return livro, cap, v1, v2
 
 
+def frases_da_ref(ref: str) -> tuple[int, int] | None:
+    """'Meditaciones 6:75/2-3' -> (2, 3); sem parte de frase -> None."""
+    m = REF_RE.match(ref.strip())
+    if not m or not m.group(5):
+        return None
+    f1 = int(m.group(5))
+    f2 = int(m.group(6)) if m.group(6) else f1
+    if f2 < f1 or f1 < 1:
+        raise SystemExit(f"Referência de frase inválida: {ref}")
+    if m.group(3) is None or (m.group(4) and m.group(4) != m.group(3)):
+        raise SystemExit(f"Ref por frase só vale para UM parágrafo: {ref}")
+    return f1, f2
+
+
+def frases(texto: str) -> list[str]:
+    """Fatia um parágrafo em frases (ponto, ponto e vírgula, ! e ?)."""
+    return [f.strip() for f in FRASE_RE.split(texto.strip()) if f.strip()]
+
+
 def carregar_versos(idioma: str, ref: str) -> list[tuple[int, str]]:
     """Devolve [(número, texto limpo)] da passagem no idioma pedido."""
     livro, cap, v1, v2 = analisar_ref(ref)
@@ -134,12 +165,22 @@ def carregar_versos(idioma: str, ref: str) -> list[tuple[int, str]]:
             out.append((v["verse"], texto))
     if not out:
         raise SystemExit(f"{ref} ({idioma}): passagem vazia após limpeza")
+    fr = frases_da_ref(ref)
+    if fr:
+        f1, f2 = fr
+        num, texto = out[0]
+        partes = frases(texto)
+        if f2 > len(partes):
+            raise SystemExit(
+                f"{ref} ({idioma}): o parágrafo tem {len(partes)} frase(s), "
+                f"pediu até a {f2}")
+        out = [(num, " ".join(partes[f1 - 1:f2]))]
     return out
 
 
 def ref_exibicao(idioma: str, ref: str) -> str:
     """'Psalms 91:1-4' -> 'Salmo 91:1-4' (pt/es) / 'Psalm 91:1-4' (en)."""
-    livro, cap, v1, v2 = analisar_ref(ref)
+    livro, cap, v1, v2 = analisar_ref(ref)   # a parte "/frase" não se exibe
     if livro == "Psalms":
         nome = idiomas.CONFIG[idioma]["palavra_salmo"]
     else:

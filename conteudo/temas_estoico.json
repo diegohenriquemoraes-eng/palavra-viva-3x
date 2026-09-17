@@ -3150,5 +3150,998 @@
         "aplicacao": "No necesitas leer más. Necesitas practicar tres frases hasta que sean tuyas."
       }
     ]
+  },
+  {
+    "slug": "lo-que-no-depende-de-ti",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Enquiridión 1:1",
+        "Enquiridión 2:1",
+        "Enquiridión 3:1-2",
+        "Enquiridión 4:1",
+        "Enquiridión 5:1",
+        "Enquiridión 6:1",
+        "Enquiridión 7:1",
+        "Enquiridión 8:1",
+        "Enquiridión 9:1-2",
+        "Enquiridión 10:1",
+        "Enquiridión 11:1",
+        "Enquiridión 12:1",
+        "Enquiridión 13:1-2",
+        "Enquiridión 14:1",
+        "Enquiridión 15:1",
+        "Enquiridión 16:1",
+        "Enquiridión 17:1-2",
+        "Enquiridión 18:1-2",
+        "Enquiridión 19:1",
+        "Enquiridión 20:1"
+      ],
+      "titulo": {
+        "stoic": "Lo Que Depende de Ti y Lo Que No | Epicteto"
+      },
+      "thumb_titulo": {
+        "stoic": "DEPENDE\nDE TI"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión I-XX"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "clay lamp",
+        "milky way"
+      ],
+      "abertura": {
+        "stoic": "El manual de Epicteto empieza con una sola división: lo que depende de ti y lo que no. Todo lo demás del libro es aprender a no confundirlas."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "lo que depende de ti",
+          "estoicismo practico"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Los primeros veinte capítulos del Enquiridión de Epicteto, narrados en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 1:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "La primera regla de Epicteto"
+        },
+        "gancho": {
+          "stoic": "La primera línea del manual de Epicteto."
+        },
+        "aplicacao": "Todo lo demás es clima. Y con el clima no se discute."
+      },
+      {
+        "ref": "Enquiridión 10:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "No son las cosas: son tus opiniones"
+        },
+        "gancho": {
+          "stoic": "Esto lo dijo un esclavo hace dos mil años."
+        },
+        "aplicacao": "El problema no es el jefe: es lo que te contaste del jefe."
+      },
+      {
+        "ref": "Enquiridión 28:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "Nadie te ofende sin tu permiso"
+        },
+        "gancho": {
+          "stoic": "Nadie puede ofenderte sin tu firma."
+        },
+        "aplicacao": "El insulto llega gratis; la herida la pones tú."
+      },
+      {
+        "ref": "Enquiridión 5:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "stoic": "Di esto antes de enfadarte"
+        },
+        "gancho": {
+          "stoic": "Di esto antes de enfadarte."
+        },
+        "aplicacao": "Primero nómbralo; luego decide si te toca."
+      }
+    ]
+  },
+  {
+    "slug": "restituir-no-perder",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Enquiridión 1:1",
+        "Enquiridión 2:1",
+        "Enquiridión 3:1-2",
+        "Enquiridión 4:1",
+        "Enquiridión 5:1",
+        "Enquiridión 6:1",
+        "Enquiridión 7:1",
+        "Enquiridión 8:1",
+        "Enquiridión 9:1-2",
+        "Enquiridión 10:1",
+        "Enquiridión 11:1",
+        "Enquiridión 12:1",
+        "Enquiridión 13:1-2",
+        "Enquiridión 14:1",
+        "Enquiridión 15:1",
+        "Enquiridión 16:1",
+        "Enquiridión 17:1-2",
+        "Enquiridión 18:1-2",
+        "Enquiridión 19:1",
+        "Enquiridión 20:1"
+      ],
+      "titulo": {
+        "stoic": "No Lo Perdiste: Lo Devolviste | Epicteto sobre la Pérdida"
+      },
+      "thumb_titulo": {
+        "stoic": "NO LO\nPERDISTE"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión I-XX"
+      },
+      "consultas_imagens": [
+        "harbor night",
+        "night clouds",
+        "burning candle"
+      ],
+      "abertura": {
+        "stoic": "Epicteto no consuela: corrige la palabra. Donde tú dices perder, él dice restituir. Estos capítulos son los que hablan de lo que amamos y se va."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "perdida",
+          "duelo estoico",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Capítulos del Enquiridión de Epicteto sobre la pérdida y lo que amamos, narrados en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 17:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "No lo perdiste: lo devolviste"
+        },
+        "gancho": {
+          "stoic": "Cambia una palabra y cambia el duelo."
+        },
+        "aplicacao": "Lo que tuviste fue préstamo. Devolverlo no es perder."
+      },
+      {
+        "ref": "Enquiridión 17:1/2",
+        "tipo": "maxim",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "La línea más dura de Epicteto"
+        },
+        "gancho": {
+          "stoic": "La línea más dura del Enquiridión."
+        },
+        "aplicacao": "Es brutal. Y es lo que sostiene a quien se queda."
+      },
+      {
+        "ref": "Enquiridión 8:1/5",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "Ama sabiendo que es mortal"
+        },
+        "gancho": {
+          "stoic": "Ámalo sabiendo que es mortal."
+        },
+        "aplicacao": "No es frialdad: es amar con los ojos abiertos."
+      },
+      {
+        "ref": "Enquiridión 20:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "Querer que vivan siempre"
+        },
+        "gancho": {
+          "stoic": "Epicteto no consuela. Corrige."
+        },
+        "aplicacao": "Pedir lo imposible es la forma más segura de sufrir."
+      }
+    ]
+  },
+  {
+    "slug": "el-precio-de-todo",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Enquiridión 21:1",
+        "Enquiridión 22:1-2",
+        "Enquiridión 23:1",
+        "Enquiridión 24:1",
+        "Enquiridión 25:1",
+        "Enquiridión 26:1",
+        "Enquiridión 27:1",
+        "Enquiridión 28:1",
+        "Enquiridión 29:1",
+        "Enquiridión 30:1-2",
+        "Enquiridión 31:1-5",
+        "Enquiridión 32:1-4",
+        "Enquiridión 33:1",
+        "Enquiridión 34:1",
+        "Enquiridión 35:1",
+        "Enquiridión 36:1-4",
+        "Enquiridión 37:1-3",
+        "Enquiridión 38:1-2",
+        "Enquiridión 39:1-4",
+        "Enquiridión 40:1-4"
+      ],
+      "titulo": {
+        "stoic": "Todo Tiene un Precio, y Tú Sabes Cuál | Epicteto"
+      },
+      "thumb_titulo": {
+        "stoic": "TODO TIENE\nUN PRECIO"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión XXI-XL"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "harbor night",
+        "night clouds"
+      ],
+      "abertura": {
+        "stoic": "Epicteto explica la envidia con lechugas y la libertad con un zapato. Es la parte más concreta del manual: cuánto cuesta cada cosa que quieres, y si estás dispuesto a pagarla."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "envidia",
+          "libertad",
+          "estoicismo practico"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Capítulos XXI a XL del Enquiridión de Epicteto, narrados en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 32:2/4",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "La envidia explicada con lechugas"
+        },
+        "gancho": {
+          "stoic": "Epicteto explicó la envidia con lechugas."
+        },
+        "aplicacao": "Lo que el otro tiene, lo pagó con algo que tú no quisiste dar."
+      },
+      {
+        "ref": "Enquiridión 32:3/4-6",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Por qué no te invitan"
+        },
+        "gancho": {
+          "stoic": "Por qué no te invitan, según Epicteto."
+        },
+        "aplicacao": "No es injusticia: es un precio que no quisiste pagar."
+      },
+      {
+        "ref": "Enquiridión 21:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Quién es dueño de verdad"
+        },
+        "gancho": {
+          "stoic": "La definición estoica de ser dueño."
+        },
+        "aplicacao": "Dueño no es quien tiene más: es quien puede soltar."
+      },
+      {
+        "ref": "Enquiridión 61:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "stoic": "La regla del zapato"
+        },
+        "gancho": {
+          "stoic": "La regla del zapato, de Epicteto."
+        },
+        "aplicacao": "Todo lo que sobra del pie ya no es zapato: es tropiezo."
+      }
+    ]
+  },
+  {
+    "slug": "las-dos-asas",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Enquiridión 61:1",
+        "Enquiridión 62:1",
+        "Enquiridión 63:1",
+        "Enquiridión 64:1",
+        "Enquiridión 65:1",
+        "Enquiridión 66:1",
+        "Enquiridión 67:1",
+        "Enquiridión 68:1-3",
+        "Enquiridión 69:1-2",
+        "Enquiridión 70:1",
+        "Enquiridión 71:1-2",
+        "Enquiridión 72:1-2",
+        "Enquiridión 73:1",
+        "Enquiridión 74:1-3",
+        "Enquiridión 75:1-2",
+        "Enquiridión 76:1",
+        "Enquiridión 77:1",
+        "Enquiridión 78:1"
+      ],
+      "titulo": {
+        "stoic": "Todo Tiene Dos Asas: Elige Una | Epicteto"
+      },
+      "thumb_titulo": {
+        "stoic": "DOS\nASAS"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión LXI-LXXVIII"
+      },
+      "consultas_imagens": [
+        "night clouds",
+        "moon clouds",
+        "dark forest"
+      ],
+      "abertura": {
+        "stoic": "El final del Enquiridión es el más práctico: cómo tomar lo que pasa por el lado que se puede cargar. Cada cosa tiene dos asas, dice Epicteto, y sólo una sirve para llevarla."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "dos asas",
+          "ofensa",
+          "estoicismo practico"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Los últimos capítulos del Enquiridión de Epicteto, narrados en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 65:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "stoic": "Todo tiene dos asas"
+        },
+        "gancho": {
+          "stoic": "Todo tiene dos asas. Elige una."
+        },
+        "aplicacao": "La misma ofensa pesa distinto según por dónde la agarres."
+      },
+      {
+        "ref": "Enquiridión 64:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "El que te ataca cree tener razón"
+        },
+        "gancho": {
+          "stoic": "El que te ataca cree tener razón."
+        },
+        "aplicacao": "Nadie se ve a sí mismo como el villano. Ni él."
+      },
+      {
+        "ref": "Enquiridión 67:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "Describe, no califiques"
+        },
+        "gancho": {
+          "stoic": "El ejercicio más simple del Enquiridión."
+        },
+        "aplicacao": "Describe. No califiques. Ahí empieza la calma."
+      },
+      {
+        "ref": "Enquiridión 33:1/4",
+        "tipo": "maxim",
+        "consulta_imagem": "rain window",
+        "titulo": {
+          "stoic": "Lo del vecino y lo tuyo"
+        },
+        "gancho": {
+          "stoic": "Lo que dices del vecino, dilo de ti."
+        },
+        "aplicacao": "La misma pérdida: allá es natural, aquí es tragedia. Elige un criterio."
+      }
+    ]
+  },
+  {
+    "slug": "el-papel-que-te-toco",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Enquiridión 21:1",
+        "Enquiridión 22:1-2",
+        "Enquiridión 23:1",
+        "Enquiridión 24:1",
+        "Enquiridión 25:1",
+        "Enquiridión 26:1",
+        "Enquiridión 27:1",
+        "Enquiridión 28:1",
+        "Enquiridión 29:1",
+        "Enquiridión 30:1-2",
+        "Enquiridión 31:1-5",
+        "Enquiridión 32:1-4",
+        "Enquiridión 33:1",
+        "Enquiridión 34:1",
+        "Enquiridión 35:1",
+        "Enquiridión 36:1-4",
+        "Enquiridión 37:1-3",
+        "Enquiridión 38:1-2",
+        "Enquiridión 39:1-4",
+        "Enquiridión 40:1-4"
+      ],
+      "titulo": {
+        "stoic": "El Papel Que Te Tocó, y Cómo Actuarlo | Epicteto"
+      },
+      "thumb_titulo": {
+        "stoic": "EL PAPEL\nQUE TE TOCÓ"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión XXI-XL"
+      },
+      "consultas_imagens": [
+        "torch fire",
+        "night clouds",
+        "desert night"
+      ],
+      "abertura": {
+        "stoic": "Epicteto compara la vida con una obra de teatro: el papel lo reparte otro; la actuación es tuya. Estos capítulos son sobre ascensos, burlas y lo que de verdad está en tu mano."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "el papel que te toco",
+          "estoicismo",
+          "filosofia estoica"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Capítulos XXI a XL del Enquiridión de Epicteto, narrados en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 24:1/1-3",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "El papel que te tocó"
+        },
+        "gancho": {
+          "stoic": "No eliges el papel. Eliges cómo lo actúas."
+        },
+        "aplicacao": "El guion no es tuyo. La interpretación, sí."
+      },
+      {
+        "ref": "Enquiridión 27:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Lo ascendieron: no lo envidies aún"
+        },
+        "gancho": {
+          "stoic": "Lo ascendieron. No lo llames feliz todavía."
+        },
+        "aplicacao": "El cargo se ve; el precio del cargo, no."
+      },
+      {
+        "ref": "Enquiridión 30:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "stoic": "Se van a burlar, está previsto"
+        },
+        "gancho": {
+          "stoic": "Si mejoras, se van a burlar. Está previsto."
+        },
+        "aplicacao": "La burla es el peaje. Quien no lo paga, no cruzó."
+      },
+      {
+        "ref": "Enquiridión 74:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "old clock",
+        "titulo": {
+          "stoic": "¿Hasta cuándo?"
+        },
+        "gancho": {
+          "stoic": "Epicteto te hace una sola pregunta."
+        },
+        "aplicacao": "Ya sabes qué hacer. Lo que falta no es información."
+      }
+    ]
+  },
+  {
+    "slug": "morir-cada-dia",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Meditaciones 3:1-42",
+        "Meditaciones 4:1-75"
+      ],
+      "titulo": {
+        "stoic": "Meditaciones para Dormir — Libros III y IV | Marco Aurelio"
+      },
+      "thumb_titulo": {
+        "stoic": "MEDITACIONES\nIII Y IV"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, para dormir"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "night clouds",
+        "moon clouds"
+      ],
+      "abertura": {
+        "stoic": "Los libros tercero y cuarto de las Meditaciones. Marco Aurelio los escribió en campaña, de noche, recordándose que Hipócrates, Alejandro y Sócrates murieron igual que cualquiera."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones",
+          "para dormir",
+          "estoicismo",
+          "muerte estoica"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Los libros III y IV de las Meditaciones de Marco Aurelio, narrados en español para dormir."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 3:8/1",
+        "tipo": "maxim",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "El médico también murió"
+        },
+        "gancho": {
+          "stoic": "El médico también se murió."
+        },
+        "aplicacao": "Saber mucho de la muerte no te exime de ella."
+      },
+      {
+        "ref": "Meditaciones 3:8/5",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Cómo murieron los sabios"
+        },
+        "gancho": {
+          "stoic": "Cómo murieron los sabios, según un emperador."
+        },
+        "aplicacao": "Ni la sabiduría elige su final. Elige cómo llegar a él."
+      },
+      {
+        "ref": "Meditaciones 4:15/2",
+        "tipo": "maxim",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "Tú y tu enemigo, la misma fecha"
+        },
+        "gancho": {
+          "stoic": "Tú y tu enemigo tienen la misma fecha."
+        },
+        "aplicacao": "La pelea dura menos que el olvido de los dos."
+      },
+      {
+        "ref": "Meditaciones 10:61/1",
+        "tipo": "maxim",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "Alguien se alegrará en tu funeral"
+        },
+        "gancho": {
+          "stoic": "En tu funeral alguien se va a alegrar."
+        },
+        "aplicacao": "Vive de modo que sean pocos, no de modo que no exista ninguno."
+      }
+    ]
+  },
+  {
+    "slug": "la-roca-y-la-ola",
+    "formato": "dormir",
+    "longo": {
+      "refs": [
+        "Meditaciones 8:1-72"
+      ],
+      "titulo": {
+        "stoic": "Meditaciones para Dormir — Libro VIII | Marco Aurelio"
+      },
+      "thumb_titulo": {
+        "stoic": "LA ROCA\nY LA OLA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VIII"
+      },
+      "consultas_imagens": [
+        "harbor night",
+        "storm clouds",
+        "night sea"
+      ],
+      "abertura": {
+        "stoic": "El libro octavo de las Meditaciones es el del promontorio: la roca contra la que rompe el mar y sigue en su sitio. Marco Aurelio se lo escribía a sí mismo en las noches malas."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones",
+          "para dormir",
+          "estoicismo",
+          "calma"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro VIII de las Meditaciones de Marco Aurelio, narrado en español para dormir."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 4:70/1",
+        "tipo": "maxim",
+        "consulta_imagem": "night sea",
+        "titulo": {
+          "stoic": "Sé la roca, no la ola"
+        },
+        "gancho": {
+          "stoic": "Sé la roca, no la ola."
+        },
+        "aplicacao": "La ola hace ruido. La roca sigue ahí mañana."
+      },
+      {
+        "ref": "Meditaciones 5:41/1",
+        "tipo": "maxim",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "Doce palabras para el peor día"
+        },
+        "gancho": {
+          "stoic": "Doce palabras para el peor día."
+        },
+        "aplicacao": "Lo que llegó, llegó a tu medida. Aunque hoy no lo parezca."
+      },
+      {
+        "ref": "Meditaciones 8:52/1",
+        "tipo": "maxim",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "El interruptor está de tu lado"
+        },
+        "gancho": {
+          "stoic": "El interruptor está de tu lado."
+        },
+        "aplicacao": "No puedes apagar el hecho. Sí el juicio. Y el juicio era el dolor."
+      },
+      {
+        "ref": "Meditaciones 8:60/2",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Pueden hacerte todo, menos esto"
+        },
+        "gancho": {
+          "stoic": "Pueden hacerte todo, menos esto."
+        },
+        "aplicacao": "Lo que no te pueden quitar es lo único que decide quién eres."
+      }
+    ]
+  },
+  {
+    "slug": "la-mente-que-se-asusta",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 7:1-82"
+      ],
+      "titulo": {
+        "stoic": "La Mente Que Se Asusta Sola | Marco Aurelio, Libro VII"
+      },
+      "thumb_titulo": {
+        "stoic": "SE ASUSTA\nSOLA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VII"
+      },
+      "consultas_imagens": [
+        "dark forest",
+        "night clouds",
+        "moon clouds"
+      ],
+      "abertura": {
+        "stoic": "En el libro séptimo Marco Aurelio se hace una pregunta que todavía no tiene mejor respuesta: ¿no es la mente la que se asusta a sí misma?"
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones",
+          "miedo",
+          "ansiedad estoica",
+          "estoicismo practico"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro VII de las Meditaciones de Marco Aurelio, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 7:16/1",
+        "tipo": "maxim",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "El que te asusta vive en tu cabeza"
+        },
+        "gancho": {
+          "stoic": "El que te asusta vive en tu cabeza."
+        },
+        "aplicacao": "El miedo no entra por la puerta: lo fabricas dentro."
+      },
+      {
+        "ref": "Meditaciones 6:75/1",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Cuando todo te sabe amargo"
+        },
+        "gancho": {
+          "stoic": "Al enfermo la miel le sabe amarga."
+        },
+        "aplicacao": "Cuando todo te sabe mal, revisa el paladar, no el menú."
+      },
+      {
+        "ref": "Meditaciones 9:62/1",
+        "tipo": "maxim",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "La pregunta para el día del descarado"
+        },
+        "gancho": {
+          "stoic": "La pregunta para el día del descarado."
+        },
+        "aplicacao": "Que existan no te sorprende; que te sorprendan, sí es tu problema."
+      },
+      {
+        "ref": "Meditaciones 12:22/1",
+        "tipo": "maxim",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "stoic": "La duda que apaga el enojo"
+        },
+        "gancho": {
+          "stoic": "La duda que apaga el enojo."
+        },
+        "aplicacao": "Antes de condenar, admite lo que no viste."
+      }
+    ]
+  },
+  {
+    "slug": "el-progreso-silencioso",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Enquiridión 41:1",
+        "Enquiridión 42:1",
+        "Enquiridión 43:1",
+        "Enquiridión 44:1",
+        "Enquiridión 45:1",
+        "Enquiridión 46:1",
+        "Enquiridión 47:1",
+        "Enquiridión 48:1",
+        "Enquiridión 49:1-2",
+        "Enquiridión 50:1",
+        "Enquiridión 51:1",
+        "Enquiridión 52:1",
+        "Enquiridión 53:1",
+        "Enquiridión 54:1",
+        "Enquiridión 55:1",
+        "Enquiridión 56:1-2",
+        "Enquiridión 57:1",
+        "Enquiridión 58:1-2",
+        "Enquiridión 59:1",
+        "Enquiridión 60:1"
+      ],
+      "titulo": {
+        "stoic": "El Progreso Que No Se Anuncia | Epicteto"
+      },
+      "thumb_titulo": {
+        "stoic": "PROGRESO\nSILENCIOSO"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión XLI-LX"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "night clouds",
+        "burning candle"
+      ],
+      "abertura": {
+        "stoic": "Para Epicteto el progreso no se cuenta: se nota en lo que ya no te altera. Estos capítulos son sobre hablar menos, presumir menos y desconfiar del aplauso."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "progreso",
+          "hablar menos",
+          "estoicismo practico"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Capítulos XLI a LX del Enquiridión de Epicteto, narrados en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 68:2/3",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "Te llamaron ignorante y no reaccionaste"
+        },
+        "gancho": {
+          "stoic": "Te llamaron ignorante. Buena señal, si no reaccionaste."
+        },
+        "aplicacao": "El progreso no se anuncia: se nota en lo que ya no te altera."
+      },
+      {
+        "ref": "Enquiridión 69:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Vivir con poco no se presume"
+        },
+        "gancho": {
+          "stoic": "Vivir con poco no es para presumir."
+        },
+        "aplicacao": "La disciplina que se exhibe ya se está cobrando en aplausos."
+      },
+      {
+        "ref": "Enquiridión 42:1/2",
+        "tipo": "maxim",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "Diecisiete palabras sobre hablar menos"
+        },
+        "gancho": {
+          "stoic": "La regla de Epicteto para hablar."
+        },
+        "aplicacao": "Cada palabra de más es un préstamo que tendrás que devolver."
+      },
+      {
+        "ref": "Enquiridión 19:1/2",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Cuando te aplaudan, desconfía"
+        },
+        "gancho": {
+          "stoic": "Cuando te aplaudan, desconfía."
+        },
+        "aplicacao": "El aplauso te dice lo que ellos quieren, no lo que tú vales."
+      }
+    ]
+  },
+  {
+    "slug": "la-obra-de-hoy",
+    "formato": "tema",
+    "longo": {
+      "refs": [
+        "Meditaciones 2:1-37",
+        "Meditaciones 12:1-50"
+      ],
+      "titulo": {
+        "stoic": "Deja de Dejarlo para Después | Marco Aurelio, Libros II y XII"
+      },
+      "thumb_titulo": {
+        "stoic": "PARA\nDESPUÉS"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones II y XII"
+      },
+      "consultas_imagens": [
+        "old clock",
+        "night clouds",
+        "milky way"
+      ],
+      "abertura": {
+        "stoic": "El segundo libro de las Meditaciones empieza con un reproche: cuánto tiempo llevas aplazando lo que sabes que debes hacer. El último cierra el círculo. Un emperador, también, lo dejaba para después."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones",
+          "procrastinacion",
+          "disciplina estoica",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Los libros II y XII de las Meditaciones de Marco Aurelio, narrados en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 2:8/1",
+        "tipo": "maxim",
+        "consulta_imagem": "old clock",
+        "titulo": {
+          "stoic": "El emperador también lo dejaba para después"
+        },
+        "gancho": {
+          "stoic": "El emperador también procrastinaba."
+        },
+        "aplicacao": "Te dieron el plazo que pediste. Y lo dejaste pasar. Otra vez."
+      },
+      {
+        "ref": "Meditaciones 12:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "El que te envidia eres tú"
+        },
+        "gancho": {
+          "stoic": "El único que te envidia eres tú."
+        },
+        "aplicacao": "Los rodeos son el permiso que te das para no llegar."
+      },
+      {
+        "ref": "Meditaciones 4:72/2",
+        "tipo": "maxim",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "La desgracia no es lo que pasó"
+        },
+        "gancho": {
+          "stoic": "La desgracia no es lo que pasó."
+        },
+        "aplicacao": "El golpe es igual para todos; la grandeza, no."
+      },
+      {
+        "ref": "Meditaciones 10:28/1",
+        "tipo": "maxim",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "La pregunta al despertar"
+        },
+        "gancho": {
+          "stoic": "La pregunta de Marco Aurelio al despertar."
+        },
+        "aplicacao": "Lo que el otro haga bien no te descuenta nada. Haz lo tuyo."
+      }
+    ]
   }
 ]

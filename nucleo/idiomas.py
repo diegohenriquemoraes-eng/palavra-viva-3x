@@ -79,6 +79,36 @@ PLAYLISTS = {
 #
 # Chamado de fé acelera canal novo mas cansa se repetido para sempre — é
 # alavanca de largada, não motor de cruzeiro. Revisar quando o canal crescer.
+# Ganchos que citam o AUTOR: só entram quando a passagem é dessa obra. Até
+# 16/09 "Marco Aurelio escribió esto solo para él" podia cair numa passagem do
+# Enquiridión — gancho que não casa com o conteúdo é o que o manual chama de
+# clickbait, e o algoritmo lê como insatisfação.
+GANCHOS_POR_OBRA = {
+    "stoic": {
+        "Meditaciones": [
+            "Marco Aurelio escribió esto solo para él.",
+            "Un emperador escribió esto de noche.",
+            "Lo que Marco Aurelio se decía a sí mismo.",
+        ],
+        "Enquiridión": [
+            "Epicteto lo dijo más claro que nadie.",
+            "Epicteto nació esclavo. Esto es lo que enseñaba.",
+            "Del manual de Epicteto. Una regla.",
+        ],
+    },
+}
+
+
+def ganchos_para(idioma: str, ref: str) -> list[str]:
+    """Lista de ganchos elegíveis para uma passagem: os genéricos do idioma mais
+    os da obra da passagem (se houver). Ordem estável — o sorteio por seed
+    depende dela."""
+    base = list(GANCHOS[idioma])
+    obra = ref.strip().rsplit(" ", 1)[0] if " " in ref.strip() else ""
+    base += GANCHOS_POR_OBRA.get(idioma, {}).get(obra, [])
+    return base
+
+
 CTA_VIDEO = {
     "es": "Escribe AMÉN si crees",
     "en": "Type AMEN if you believe",
@@ -151,19 +181,30 @@ GANCHOS = {
     # ordem de propósito (compara desempenho de gancho sem confundir com o
     # conteúdo) — exceto o 8º, que citava Sêneca: o corpus ES não tem Sêneca
     # (só existe tradução PD não transcrita — ver PROVENIENCIA.md §7).
+    # 16/09/2026 — medido em 84 Shorts com o gancho sorteado por seed (ou seja,
+    # ao acaso em relação ao conteúdo): os ganchos de AFIRMAÇÃO/autoridade
+    # ("Esto es lo único que de verdad controlas" 992, "Tiene dos mil años"
+    # 990, "Marco Aurelio escribió esto solo para él" 980, "La frase que
+    # termina la discusión" 972, "Epicteto lo dijo más claro" 982 desde 22/08)
+    # fazem o DOBRO dos ganchos de consolo/sono ("Para ti, que no puedes
+    # apagar la mente" 457, "Un solo pensamiento para una mente inquieta"
+    # 440, "Cuando vuelva la preocupación" 370, "Lee esto despacio, antes de
+    # dormir" 317). O feed não está na cama: está deslizando. Os quatro
+    # fracos saíram; entraram quatro no registro que ganha. Os que citam
+    # autor ficam em GANCHOS_POR_OBRA, para não cair na obra errada.
     "stoic": [
-        "Para ti, que no puedes apagar la mente esta noche.",
-        "Marco Aurelio escribió esto solo para él.",
-        "Lee esto despacio, antes de dormir.",
+        "Nadie te enseñó esto, y lo necesitabas.",
+        "Dos mil años y nadie lo ha refutado.",
+        "Esto incomoda porque es verdad.",
         "Tiene dos mil años. Sigue siendo verdad.",
         "Guárdalo donde puedas volver a leerlo.",
         "No sigas bajando sin leer esto.",
         "La frase que termina la discusión.",
-        "Un emperador escribió esto de noche.",
-        "Epicteto lo dijo más claro que nadie.",
+        "La regla que casi nadie cumple.",
+        "Lo que un estoico haría en tu lugar.",
         "Esto es lo único que de verdad controlas.",
-        "Un solo pensamiento para una mente inquieta.",
-        "Cuando vuelva la preocupación, recuerda esto.",
+        "Una idea, y se acabó el problema.",
+        "Léelo dos veces. La segunda duele.",
     ],
     # ---- El Poder Crudo (03/08/2026) ----
     # Registro: frio, sem promessa de resultado. O nicho medido responde a

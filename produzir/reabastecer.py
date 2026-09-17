@@ -152,6 +152,10 @@ def criar_pacote(tema: dict, data: str, dry: bool, linha: dict) -> None:
             # a fonte e o vídeo. Domínio público resolve copyright, não
             # monetização. Vazio nos canais bíblicos (diretriz editorial nº 4).
             "aplicacao": s.get("aplicacao", ""),
+            # GANCHO por Short (16/09/2026): escrito do trecho, para os 3
+            # primeiros segundos — o momento em que 59-79% do feed pulava
+            # (medido no Studio). Vazio = sorteio da lista do idioma, como antes.
+            "gancho": s.get("gancho", ""),
             "imagem": achadas[0] if achadas else None,
         })
 
