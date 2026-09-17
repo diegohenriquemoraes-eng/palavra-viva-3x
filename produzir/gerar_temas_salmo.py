@@ -180,27 +180,67 @@ def abertura(idioma: str, salmo: int, versos: list, insc: str) -> str:
     return " ".join(partes)
 
 
-MAX_SUB = 34   # cabe na área escurecida da capa (Montserrat-Bold 46 px)
+MAX_SUB = 40   # cabe na capa nova (Montserrat-Bold 52 px, autoajuste até 34)
 
 
-def subtitulo(idioma: str, versos: list, n_versos: int) -> str:
+# Salmos em que a pontuação não acha a linha certa (lamento do início ao fim,
+# ou a promessa vem colada a uma maldição e o desconto vence). Escolhidos à
+# mão em 16/09/2026, conferidos na RV1909.
+VERSO_DA_CAPA = {2: 12, 10: 17, 14: 7, 21: 13, 22: 26, 35: 10, 39: 7, 45: 6, 72: 18,
+                 49: 15, 53: 6, 58: 11, 74: 12, 80: 3, 87: 3, 129: 4}
+
+
+def melhor_verso(versos_es: list, salmo: int | None = None) -> int:
+    """Número do versículo de promessa/consolo mais forte (pontuação no texto
+    em espanhol, que é o texto-base do pacote) — usado para a capa nos três
+    idiomas mostrarem o MESMO versículo."""
+    if salmo in VERSO_DA_CAPA and VERSO_DA_CAPA[salmo] in dict(versos_es):
+        return VERSO_DA_CAPA[salmo]
+    cand = [v for v in versos_es if 6 <= len(v[1].split()) <= 40] or versos_es
+    return sorted(cand, key=lambda v: (-_pontuar(v[1]), v[0]))[0][0]
+
+
+def subtitulo(idioma: str, versos: list, n_versos: int,
+              verso_fixo: int | None = None) -> str:
     """Linha de baixo da capa: uma CITAÇÃO curta do próprio salmo.
 
     Antes era "Salmo N completo", que só repetia o título e deixava as 40 capas
     novas idênticas — mudando o número e mais nada. Isso é ruim duas vezes: não
     dá motivo nenhum para clicar e é a impressão digital de conteúdo produzido
     em massa, que é justamente o que a análise de monetização procura. A frase
-    de abertura varia em cada salmo e é o texto bíblico, não comentário nosso.
+    varia em cada salmo e é o texto bíblico, não comentário nosso.
+
+    16/09/2026: a citação vem do versículo de PROMESSA/consolo mais forte do
+    salmo (`_pontuar`), não do versículo 1 — a capa do Salmo 60 "para dormir"
+    saiu com "Deus, tu nos rejeitaste, e nos..." e a do 140 com "Líbrame, oh
+    Jehová, de hombre...". E corta em pontuação quando dá, sem reticências.
     """
-    palavras = _aparar(versos[0][1].split())
+    candidatos = [v for v in versos if 6 <= len(v[1].split()) <= 40]
+    ordem = sorted(candidatos or versos, key=lambda v: (-_pontuar(v[1]), v[0]))
+    if verso_fixo is not None:
+        texto = dict(versos).get(verso_fixo, ordem[0][1])
+    else:
+        texto = ordem[0][1]
+    # primeira oração inteira que caiba
+    import re as _re
+    oracoes = [o.strip() for o in _re.split(r"(?<=[.;:!?])\s+", texto) if o.strip()]
+    _CONJ = ("y ", "e ", "mas ", "pero ", "porque ", "que ", "ni ", "and ",
+             "but ", "for ", "o ", "or ")
+    for o in oracoes:
+        limpo = o.rstrip(",;:.").lstrip("¿¡")
+        if limpo.lower().startswith(_CONJ):
+            continue
+        if 12 <= len(limpo) <= MAX_SUB:
+            return f"“{limpo[0].upper() + limpo[1:]}”"
+    palavras = _aparar(texto.split())
     trecho = ""
-    for p in palavras:
-        cand = f"{trecho} {p}".strip()
+    for pal in palavras:
+        cand = f"{trecho} {pal}".strip()
         if len(cand) > MAX_SUB:
             break
         trecho = cand
     trecho = " ".join(_aparar(trecho.split())).rstrip(",;:.")
-    if len(trecho) < 12:   # verso de abertura curto demais para virar chamada
+    if len(trecho) < 12:
         rot = {"es": "versículos", "en": "verses", "pt": "versículos"}[idioma]
         return f"{n_versos} {rot}"
     return f"“{trecho}...”"
@@ -233,13 +273,20 @@ _CONSOLO = ("misericordia", "refugio", "fortaleza", "salud", "salvación",
             "alabaré", "para siempre", "no temeré", "luz", "esperanza",
             "amparo", "roca", "pastor", "sombra", "reposo", "descanso",
             "bueno", "me respondió", "librará", "libertador", "ayuda",
-            "cantaré", "gócense", "alégrense")
+            "cantaré", "gócense", "alégrense", "salva", "sálvame", "salvos",
+            "óyeme", "óyenos", "libra", "líbrame", "libren", "amados",
+            "bendición", "bendice", "gracia", "amor", "consuelo", "sanó",
+            "sana", "perdona", "perdón", "guía", "guiará", "sostiene",
+            "socorro", "socórreme", "diestra", "mi pastor", "me guiará",
+            "no temeré", "de mañana", "cantad", "alabanza", "gloria")
 _MALDICION = ("destruye", "destruirá", "destruidos", "maldito", "maldición",
               "brasas", "perezcan", "perecerán", "quebranta", "quebrantamiento",
               "sangre", "huérfanos", "viuda", "avergonzados", "confundidos",
               "vergüenza", "hijos de ellos", "dientes", "fuego", "espada",
               "impíos", "enemigos", "aborrecedores", "véngale", "venganza",
-              "furor", "ira", "sepulcro", "tinieblas", "muerte")
+              "furor", "ira", "sepulcro", "tinieblas", "muerte", "destruída",
+              "destruida", "asolar", "asolado", "cautiv", "desechado",
+              "rejeit", "vergonha", "malvado", "malo")
 
 
 def _pontuar(texto: str) -> int:
@@ -308,7 +355,8 @@ def montar_tema(salmo: int, idx: int) -> dict:
             "titulo": titulo,
             "thumb_titulo": {"es": f"SALMO {salmo}", "en": f"PSALM {salmo}",
                              "pt": f"SALMO {salmo}"},
-            "thumb_sub": {i: subtitulo(i, versos[i], n_versos)
+            "thumb_sub": {i: subtitulo(i, versos[i], n_versos,
+                                       melhor_verso(versos["es"], salmo))
                           for i in IDIOMAS_TEMA},
             "consultas_imagens": CONSULTAS[idx % len(CONSULTAS)],
             "abertura": {i: abertura(i, salmo, versos[i], insc[i])
