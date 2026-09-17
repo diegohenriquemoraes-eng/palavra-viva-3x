@@ -4235,12 +4235,20 @@
           "video_id": "elUlD5HA66o",
           "titulo": "Ejercítate en ver cómo todo se transforma",
           "em": "2026-09-16T20:19:26+00:00"
+        },
+        {
+          "pacote": "2026-09-17-el-juicio-de-los-demas",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "g0d_Y9UGUCY",
+          "titulo": "Piensa en cómo quieres que te encuentre el final",
+          "em": "2026-09-17T07:54:06+00:00"
         }
       ],
-      "ultimo_short": "2026-09-16T20:19:26+00:00",
+      "ultimo_short": "2026-09-17T07:54:06+00:00",
       "shorts_dia": {
-        "data": "2026-09-16",
-        "n": 3
+        "data": "2026-09-17",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

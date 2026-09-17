@@ -4606,3 +4606,11 @@
 - Item: longo — Salmo 64
 - Duração: 1214.7s
 - Publicado em: 2026-09-17T02:36:52+00:00
+
+## [stoic] g0d_Y9UGUCY — Piensa en cómo quieres que te encuentre el final
+
+- URL: https://youtu.be/g0d_Y9UGUCY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 12:13
+- Duração: 25.5s
+- Publicado em: 2026-09-17T07:54:06+00:00
