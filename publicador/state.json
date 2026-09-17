@@ -1776,6 +1776,14 @@
           "video_id": "vdrB9UNczmc",
           "titulo": "Salmo 64:1 — Escucha, oh Dios, mi voz | Biblia",
           "em": "2026-09-17T02:28:05+00:00"
+        },
+        {
+          "pacote": "2026-09-17-salmo-66-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "0bMpgeWzjXQ",
+          "titulo": "Salmos para Dormir — Salmo 66 Completo | Biblia Hablada",
+          "em": "2026-09-17T14:01:24+00:00"
         }
       ],
       "ultimo_short": "2026-09-17T02:28:05+00:00",
@@ -1786,9 +1794,9 @@
       "longo_data": "2026-09-17",
       "longos_dia": {
         "data": "2026-09-17",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-17T01:45:06+00:00"
+      "ultimo_longo": "2026-09-17T14:01:24+00:00"
     },
     "en": {
       "publicados": [
@@ -3495,6 +3503,14 @@
           "titulo": "Salmos para Dormir — Salmo 64 Completo | Bíblia Falada",
           "em": "2026-09-17T02:36:52+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-17-salmo-66-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "UuU6nb7iNQI",
+          "titulo": "Salmos para Dormir — Salmo 66 Completo | Bíblia Falada",
+          "em": "2026-09-17T14:19:59+00:00"
         }
       ],
       "ultimo_short": "2026-09-17T01:46:07+00:00",
@@ -3505,9 +3521,9 @@
       "longo_data": "2026-09-17",
       "longos_dia": {
         "data": "2026-09-17",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-17T02:36:52+00:00"
+      "ultimo_longo": "2026-09-17T14:19:59+00:00"
     },
     "stoic": {
       "publicados": [
@@ -4266,12 +4282,20 @@
           "video_id": "g0d_Y9UGUCY",
           "titulo": "Piensa en cómo quieres que te encuentre el final",
           "em": "2026-09-17T07:54:06+00:00"
+        },
+        {
+          "pacote": "2026-09-17-el-juicio-de-los-demas",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "8aodAxndjjQ",
+          "titulo": "¿Y si esta vida ya sirve para lo que buscas?",
+          "em": "2026-09-17T14:21:11+00:00"
         }
       ],
-      "ultimo_short": "2026-09-17T07:54:06+00:00",
+      "ultimo_short": "2026-09-17T14:21:11+00:00",
       "shorts_dia": {
         "data": "2026-09-17",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

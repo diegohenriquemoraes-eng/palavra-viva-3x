@@ -4614,3 +4614,27 @@
 - Item: short-1 — Meditaciones 12:13
 - Duração: 25.5s
 - Publicado em: 2026-09-17T07:54:06+00:00
+
+## [es] 0bMpgeWzjXQ — Salmos para Dormir — Salmo 66 Completo | Biblia Hablada
+
+- URL: https://youtu.be/0bMpgeWzjXQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 66
+- Duração: 2028.8s
+- Publicado em: 2026-09-17T14:01:24+00:00
+
+## [pt] UuU6nb7iNQI — Salmos para Dormir — Salmo 66 Completo | Bíblia Falada
+
+- URL: https://youtu.be/UuU6nb7iNQI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 66
+- Duração: 2097.8s
+- Publicado em: 2026-09-17T14:19:59+00:00
+
+## [stoic] 8aodAxndjjQ — ¿Y si esta vida ya sirve para lo que buscas?
+
+- URL: https://youtu.be/8aodAxndjjQ
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 11:14
+- Duração: 23.2s
+- Publicado em: 2026-09-17T14:21:11+00:00
