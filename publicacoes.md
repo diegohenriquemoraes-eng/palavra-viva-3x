@@ -4646,3 +4646,11 @@
 - Item: short-2 — Salmo 64:3
 - Duração: 14.6s
 - Publicado em: 2026-09-17T14:23:05+00:00
+
+## [stoic] SsW0jTbREU4 — Lo que no te hace más sabio ni más útil, sobra
+
+- URL: https://youtu.be/SsW0jTbREU4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 7:79
+- Duração: 24.0s
+- Publicado em: 2026-09-17T20:47:12+00:00

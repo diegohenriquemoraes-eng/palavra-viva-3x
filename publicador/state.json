@@ -4298,12 +4298,20 @@
           "video_id": "8aodAxndjjQ",
           "titulo": "¿Y si esta vida ya sirve para lo que buscas?",
           "em": "2026-09-17T14:21:11+00:00"
+        },
+        {
+          "pacote": "2026-09-17-el-juicio-de-los-demas",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "SsW0jTbREU4",
+          "titulo": "Lo que no te hace más sabio ni más útil, sobra",
+          "em": "2026-09-17T20:47:12+00:00"
         }
       ],
-      "ultimo_short": "2026-09-17T14:21:11+00:00",
+      "ultimo_short": "2026-09-17T20:47:12+00:00",
       "shorts_dia": {
         "data": "2026-09-17",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
