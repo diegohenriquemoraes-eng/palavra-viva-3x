@@ -4590,3 +4590,19 @@
 - Item: short-1 — Salmo 64:1
 - Duração: 15.9s
 - Publicado em: 2026-09-17T01:46:07+00:00
+
+## [es] vdrB9UNczmc — Salmo 64:1 — Escucha, oh Dios, mi voz | Biblia
+
+- URL: https://youtu.be/vdrB9UNczmc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 64:1
+- Duração: 15.3s
+- Publicado em: 2026-09-17T02:28:05+00:00
+
+## [pt] taA433jNPlM — Salmos para Dormir — Salmo 64 Completo | Bíblia Falada
+
+- URL: https://youtu.be/taA433jNPlM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 64
+- Duração: 1214.7s
+- Publicado em: 2026-09-17T02:36:52+00:00
