@@ -1752,6 +1752,14 @@
           "video_id": "_nEGCSqk54c",
           "titulo": "Salmo 59:5 — Y tú, Jehová Dios de los ejércitos | Biblia",
           "em": "2026-09-16T13:54:18+00:00"
+        },
+        {
+          "pacote": "2026-09-17-salmo-64-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "7lHZzaRhiH8",
+          "titulo": "Salmos para Dormir — Salmo 64 Completo | Biblia Hablada",
+          "em": "2026-09-17T01:45:06+00:00"
         }
       ],
       "ultimo_short": "2026-09-16T13:54:18+00:00",
@@ -1759,12 +1767,12 @@
         "data": "2026-09-16",
         "n": 2
       },
-      "longo_data": "2026-09-16",
+      "longo_data": "2026-09-17",
       "longos_dia": {
-        "data": "2026-09-16",
-        "n": 2
+        "data": "2026-09-17",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-16T12:03:43+00:00"
+      "ultimo_longo": "2026-09-17T01:45:06+00:00"
     },
     "en": {
       "publicados": [
@@ -3412,11 +3420,19 @@
           "video_id": "cPtqf9tEENc",
           "titulo": "Salmos para Dormir — Salmo 60 Completo | Bíblia Falada",
           "em": "2026-09-16T12:14:07+00:00"
+        },
+        {
+          "pacote": "2026-09-17-salmo-64-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "PqquC7nmGmw",
+          "titulo": "Salmo 64:1 — Ouve, Deus, minha voz, em minha meditação | Bíblia",
+          "em": "2026-09-17T01:46:07+00:00"
         }
       ],
-      "ultimo_short": "2026-09-16T00:57:24+00:00",
+      "ultimo_short": "2026-09-17T01:46:07+00:00",
       "shorts_dia": {
-        "data": "2026-09-16",
+        "data": "2026-09-17",
         "n": 1
       },
       "longo_data": "2026-09-16",

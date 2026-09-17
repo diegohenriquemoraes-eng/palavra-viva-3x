@@ -4574,3 +4574,19 @@
 - Item: short-3 — Meditaciones 10:23
 - Duração: 27.4s
 - Publicado em: 2026-09-16T20:19:26+00:00
+
+## [es] 7lHZzaRhiH8 — Salmos para Dormir — Salmo 64 Completo | Biblia Hablada
+
+- URL: https://youtu.be/7lHZzaRhiH8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 64
+- Duração: 1139.6s
+- Publicado em: 2026-09-17T01:45:06+00:00
+
+## [pt] PqquC7nmGmw — Salmo 64:1 — Ouve, Deus, minha voz, em minha meditação | Bíblia
+
+- URL: https://youtu.be/PqquC7nmGmw
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 64:1
+- Duração: 15.9s
+- Publicado em: 2026-09-17T01:46:07+00:00
