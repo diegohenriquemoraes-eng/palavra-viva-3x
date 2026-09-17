@@ -47,9 +47,18 @@ O que existe desde 16/09 (`fabrica.montar_short`, `legendas.ass_short`, `idiomas
   nunca usados estavam trancados pelo teto de 20 s.
 - Régua: 03/10/2026 — ≥ 55 % "continuaram" no Studio (7 d) e mediana 2-7 d > 600 no estoico.
 
-⚠ Canais bíblicos ainda usam os 12 ganchos genéricos: levar o gancho por Short para lá é decisão
-do Diego (diretriz nº 4). ⚠ Os temas de `gerar_temas_salmo.py` escolhem versículos por posição
-(1/4/7/10) e trazem imprecação/lamento para o Short — os Shorts do ES desde 09/09 fazem 7–100 views.
+Canais bíblicos (decisão do Diego, 16/09, "faça tudo"): os 26 temas de salmo livres têm gancho
+por Short em es/pt (factual — nomeia o que o texto diz ou de onde vem; não interpreta, diretriz
+nº 4 intacta), versículos de promessa escolhidos à mão e **sem** `aplicacao` — "Versículo N de M"
+tomava o lugar da 2ª narração (`REPETIR_ATE_PALAVRAS`). `gerar_temas_salmo.py` pontua consolo vs.
+maldição (`_pontuar`) para o que ainda for gerado.
+
+**Capa dos longos** (`nucleo/thumbnail.py`, 16/09): foto sempre em gradação de noite, lua (dormir)
+ou clarão (tema/historia), título até 210 px, selo do formato (`thumbnail.rotulo`). O subtítulo dos
+temas de salmo é o versículo de promessa (`gerar_temas_salmo.melhor_verso`, overrides em
+`VERSO_DA_CAPA`). `aplicar_capas.py` marca `capa: CAPA_VERSAO` no state e roda 07:20 UTC com teto
+(es 8 / pt 15 — custo já no `test_cota`); mudar `CAPA_VERSAO` reaplica o acervo em rodadas.
+Régua: CTR no Studio em 01/10 (es ≥ 3 %, pt ≥ 2,5 %).
 
 ## Canais
 

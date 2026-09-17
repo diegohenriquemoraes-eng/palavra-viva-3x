@@ -33,10 +33,25 @@ canal parava em 19/09). Relatório completo em `Desktop\Analise-Canais-YouTube-1
 Régua do gancho: **03/10/2026** — "continuaram assistindo" (7 dias, Studio) de 41 % para ≥ 55 % e
 mediana da coorte 2-7 d acima de 600. Longo estoico liga em **22/09** como decidido.
 
-Pendente do Diego: (1) gancho por Short nos canais bíblicos (roça a diretriz nº 4 — o gancho
-nomeia o FATO da passagem, não interpreta); (2) redesenho das capas dos longos (152 mil impressões
-em 28 d a 1,6–2,1 % de CTR — cada ponto de CTR ≈ +1.800 h/ano); (3) trocar a escolha de versículos
-dos 55 temas de salmo gerados (posição 1/4/7/10 traz imprecação e lamento; o feed retém promessa).
+**"Faça tudo" (Diego, 16/09) — os três itens que estavam pendentes, feitos na mesma noite:**
+
+1. **Gancho por Short nos canais bíblicos**: os 26 temas de salmo livres (104 Shorts) foram
+   recurados à mão — versículos de promessa/consolo no lugar da posição 1/4/7/10, gancho factual
+   em es e pt ("La frase de un hombre que ya no podía más" → Salmo 73:26), e **sem** a "aplicação"
+   "Versículo N de M", que ainda tomava o lugar da 2ª narração da passagem (o loop do nicho).
+   `gerar_temas_salmo.py` agora pontua consolo vs. maldição e não escreve aplicação.
+2. **Capa nova dos longos** (`nucleo/thumbnail.py`): toda foto vira noite, lua com halo nos "para
+   dormir" / clarão dourado nos demais, título até 210 px, selo do formato. O publicador já usa;
+   `aplicar_capas.py` é idempotente (`capa: CAPA_VERSAO` no state), roda **07:20 UTC** com teto
+   (es 8, pt 15). Aplicadas em 16/09: **35 no PT e 15 no ES**. O subtítulo dos temas de salmo sai
+   do versículo de promessa (a capa do Salmo 60 dizia "Deus, tu nos rejeitaste").
+   **Régua 01/10**: CTR dos longos no Studio (Conteúdo → Vídeos, 28 d) — es de 2,1 % para ≥ 3 %,
+   pt de 1,6 % para ≥ 2,5 %.
+3. Item 3 (versículos dos salmos) é o mesmo trabalho do item 1 — feito junto.
+
+⚠ **Poço bíblico: 26 temas = 13 dias** (2 pacotes/data). Todo salmo não-gigante já é tema; o
+próximo reabastecimento precisa de temas de outro desenho (combos de salmos, Provérbios,
+histórias). Régua do vigia avisa, mas escrever é humano.
 
 ⚠ `ESTRATEGIA`: a leitura do "pularam" é por canal, no Studio → Analytics → Conteúdo → Shorts →
 "Engajamento dos espectadores". Entrar com `authuser=1` neste perfil do Chrome (o 0 dá "Ops").
