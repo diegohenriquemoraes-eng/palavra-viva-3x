@@ -4338,12 +4338,20 @@
           "video_id": "SsW0jTbREU4",
           "titulo": "Lo que no te hace más sabio ni más útil, sobra",
           "em": "2026-09-17T20:47:12+00:00"
+        },
+        {
+          "pacote": "2026-09-18-callar-y-medir",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "t3scGxjP6u4",
+          "titulo": "No rías a carcajadas ni jures por nada",
+          "em": "2026-09-18T06:09:51+00:00"
         }
       ],
-      "ultimo_short": "2026-09-17T20:47:12+00:00",
+      "ultimo_short": "2026-09-18T06:09:51+00:00",
       "shorts_dia": {
-        "data": "2026-09-17",
-        "n": 3
+        "data": "2026-09-18",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

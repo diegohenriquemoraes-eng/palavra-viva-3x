@@ -4686,3 +4686,11 @@
 - Item: longo — Salmo 68
 - Duração: 4028.2s
 - Publicado em: 2026-09-18T02:40:39+00:00
+
+## [stoic] t3scGxjP6u4 — No rías a carcajadas ni jures por nada
+
+- URL: https://youtu.be/t3scGxjP6u4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 44:1
+- Duração: 22.9s
+- Publicado em: 2026-09-18T06:09:51+00:00
