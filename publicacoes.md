@@ -4670,3 +4670,19 @@
 - Item: short-1 — Salmo 68:1
 - Duração: 16.1s
 - Publicado em: 2026-09-18T01:02:54+00:00
+
+## [es] i4-bz6vAGhw — Salmo 68:1 — Levántese Dios, sean esparcidos sus enemigos | Biblia
+
+- URL: https://youtu.be/i4-bz6vAGhw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 68:1
+- Duração: 16.0s
+- Publicado em: 2026-09-18T02:13:50+00:00
+
+## [pt] QRMLs43aJh4 — Salmos para Dormir — Salmo 68 Completo | Bíblia Falada
+
+- URL: https://youtu.be/QRMLs43aJh4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 68
+- Duração: 4028.2s
+- Publicado em: 2026-09-18T02:40:39+00:00
