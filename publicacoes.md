@@ -4654,3 +4654,19 @@
 - Item: short-3 — Meditaciones 7:79
 - Duração: 24.0s
 - Publicado em: 2026-09-17T20:47:12+00:00
+
+## [es] 3ode7xGR2YA — Salmos para Dormir — Salmo 68 Completo | Biblia Hablada
+
+- URL: https://youtu.be/3ode7xGR2YA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 68
+- Duração: 3864.5s
+- Publicado em: 2026-09-18T01:01:41+00:00
+
+## [pt] pe0mV8XDvnU — Salmo 68:1 — Deus se levantará, e seus inimigos serão | Bíblia
+
+- URL: https://youtu.be/pe0mV8XDvnU
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 68:1
+- Duração: 16.1s
+- Publicado em: 2026-09-18T01:02:54+00:00

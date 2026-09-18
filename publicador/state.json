@@ -1792,6 +1792,14 @@
           "video_id": "OJwU5s5Cu_4",
           "titulo": "Salmo 64:3 — Que amolaron su lengua como cuchillo | Biblia",
           "em": "2026-09-17T14:23:05+00:00"
+        },
+        {
+          "pacote": "2026-09-18-salmo-68-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "3ode7xGR2YA",
+          "titulo": "Salmos para Dormir — Salmo 68 Completo | Biblia Hablada",
+          "em": "2026-09-18T01:01:41+00:00"
         }
       ],
       "ultimo_short": "2026-09-17T14:23:05+00:00",
@@ -1799,12 +1807,12 @@
         "data": "2026-09-17",
         "n": 2
       },
-      "longo_data": "2026-09-17",
+      "longo_data": "2026-09-18",
       "longos_dia": {
-        "data": "2026-09-17",
-        "n": 2
+        "data": "2026-09-18",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-17T14:01:24+00:00"
+      "ultimo_longo": "2026-09-18T01:01:41+00:00"
     },
     "en": {
       "publicados": [
@@ -3519,11 +3527,19 @@
           "video_id": "UuU6nb7iNQI",
           "titulo": "Salmos para Dormir — Salmo 66 Completo | Bíblia Falada",
           "em": "2026-09-17T14:19:59+00:00"
+        },
+        {
+          "pacote": "2026-09-18-salmo-68-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "pe0mV8XDvnU",
+          "titulo": "Salmo 68:1 — Deus se levantará, e seus inimigos serão | Bíblia",
+          "em": "2026-09-18T01:02:54+00:00"
         }
       ],
-      "ultimo_short": "2026-09-17T01:46:07+00:00",
+      "ultimo_short": "2026-09-18T01:02:54+00:00",
       "shorts_dia": {
-        "data": "2026-09-17",
+        "data": "2026-09-18",
         "n": 1
       },
       "longo_data": "2026-09-17",
