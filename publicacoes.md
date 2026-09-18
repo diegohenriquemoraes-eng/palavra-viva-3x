@@ -4726,3 +4726,11 @@
 - Item: short-2 — Enquiridión 77:1
 - Duração: 18.8s
 - Publicado em: 2026-09-18T12:41:18+00:00
+
+## [stoic] U2Ysy9ePuco — Sé justo; y si no, déjate corregir
+
+- URL: https://youtu.be/U2Ysy9ePuco
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 7:12
+- Duração: 15.6s
+- Publicado em: 2026-09-18T19:19:40+00:00

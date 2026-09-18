@@ -4378,12 +4378,20 @@
           "video_id": "bxcLM-_YZic",
           "titulo": "Ceder a lo necesario no es rendirse",
           "em": "2026-09-18T12:41:18+00:00"
+        },
+        {
+          "pacote": "2026-09-18-callar-y-medir",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "U2Ysy9ePuco",
+          "titulo": "Sé justo; y si no, déjate corregir",
+          "em": "2026-09-18T19:19:40+00:00"
         }
       ],
-      "ultimo_short": "2026-09-18T12:41:18+00:00",
+      "ultimo_short": "2026-09-18T19:19:40+00:00",
       "shorts_dia": {
         "data": "2026-09-18",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
