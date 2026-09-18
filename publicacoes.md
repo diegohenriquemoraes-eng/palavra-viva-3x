@@ -4710,3 +4710,19 @@
 - Item: longo — Salmo 69
 - Duração: 3919.9s
 - Publicado em: 2026-09-18T12:38:18+00:00
+
+## [es] 46MZ670eOQo — Salmo 68:9 — Abundante lluvia esparciste, oh Dios, a tu | Biblia
+
+- URL: https://youtu.be/46MZ670eOQo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 68:9
+- Duração: 16.2s
+- Publicado em: 2026-09-18T12:40:11+00:00
+
+## [stoic] bxcLM-_YZic — Ceder a lo necesario no es rendirse
+
+- URL: https://youtu.be/bxcLM-_YZic
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 77:1
+- Duração: 18.8s
+- Publicado em: 2026-09-18T12:41:18+00:00

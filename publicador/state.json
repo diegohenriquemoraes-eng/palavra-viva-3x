@@ -1816,12 +1816,20 @@
           "video_id": "fs8tDWoMFR8",
           "titulo": "Salmos para Dormir — Salmo 69 Completo | Biblia Hablada",
           "em": "2026-09-18T12:02:38+00:00"
+        },
+        {
+          "pacote": "2026-09-18-salmo-68-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "46MZ670eOQo",
+          "titulo": "Salmo 68:9 — Abundante lluvia esparciste, oh Dios, a tu | Biblia",
+          "em": "2026-09-18T12:40:11+00:00"
         }
       ],
-      "ultimo_short": "2026-09-18T02:13:50+00:00",
+      "ultimo_short": "2026-09-18T12:40:11+00:00",
       "shorts_dia": {
         "data": "2026-09-18",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-18",
       "longos_dia": {
@@ -4362,12 +4370,20 @@
           "video_id": "t3scGxjP6u4",
           "titulo": "No rías a carcajadas ni jures por nada",
           "em": "2026-09-18T06:09:51+00:00"
+        },
+        {
+          "pacote": "2026-09-18-callar-y-medir",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "bxcLM-_YZic",
+          "titulo": "Ceder a lo necesario no es rendirse",
+          "em": "2026-09-18T12:41:18+00:00"
         }
       ],
-      "ultimo_short": "2026-09-18T06:09:51+00:00",
+      "ultimo_short": "2026-09-18T12:41:18+00:00",
       "shorts_dia": {
         "data": "2026-09-18",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
