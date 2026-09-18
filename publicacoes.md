@@ -4694,3 +4694,19 @@
 - Item: short-1 — Enquiridión 44:1
 - Duração: 22.9s
 - Publicado em: 2026-09-18T06:09:51+00:00
+
+## [es] fs8tDWoMFR8 — Salmos para Dormir — Salmo 69 Completo | Biblia Hablada
+
+- URL: https://youtu.be/fs8tDWoMFR8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 69
+- Duração: 3674.1s
+- Publicado em: 2026-09-18T12:02:38+00:00
+
+## [pt] TnM7ZaEj3OM — Salmos para Dormir — Salmo 69 Completo | Bíblia Falada
+
+- URL: https://youtu.be/TnM7ZaEj3OM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 69
+- Duração: 3919.9s
+- Publicado em: 2026-09-18T12:38:18+00:00

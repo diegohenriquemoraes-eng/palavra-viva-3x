@@ -1808,6 +1808,14 @@
           "video_id": "i4-bz6vAGhw",
           "titulo": "Salmo 68:1 — Levántese Dios, sean esparcidos sus enemigos | Biblia",
           "em": "2026-09-18T02:13:50+00:00"
+        },
+        {
+          "pacote": "2026-09-18-salmo-69-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "fs8tDWoMFR8",
+          "titulo": "Salmos para Dormir — Salmo 69 Completo | Biblia Hablada",
+          "em": "2026-09-18T12:02:38+00:00"
         }
       ],
       "ultimo_short": "2026-09-18T02:13:50+00:00",
@@ -1818,9 +1826,9 @@
       "longo_data": "2026-09-18",
       "longos_dia": {
         "data": "2026-09-18",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-18T01:01:41+00:00"
+      "ultimo_longo": "2026-09-18T12:02:38+00:00"
     },
     "en": {
       "publicados": [
@@ -3551,6 +3559,14 @@
           "video_id": "QRMLs43aJh4",
           "titulo": "Salmos para Dormir — Salmo 68 Completo | Bíblia Falada",
           "em": "2026-09-18T02:40:39+00:00"
+        },
+        {
+          "pacote": "2026-09-18-salmo-69-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "TnM7ZaEj3OM",
+          "titulo": "Salmos para Dormir — Salmo 69 Completo | Bíblia Falada",
+          "em": "2026-09-18T12:38:18+00:00"
         }
       ],
       "ultimo_short": "2026-09-18T01:02:54+00:00",
@@ -3561,9 +3577,9 @@
       "longo_data": "2026-09-18",
       "longos_dia": {
         "data": "2026-09-18",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-18T02:40:39+00:00"
+      "ultimo_longo": "2026-09-18T12:38:18+00:00"
     },
     "stoic": {
       "publicados": [
