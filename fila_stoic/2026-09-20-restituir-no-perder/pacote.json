@@ -1,0 +1,211 @@
+{
+  "slug": "restituir-no-perder",
+  "formato": "tema",
+  "data": "2026-09-20",
+  "criado_em": "2026-09-18T04:47:51+00:00",
+  "aprovado_em": "2026-09-18T04:47:51+00:00",
+  "longo": {
+    "refs": [
+      "Enquiridión 1:1",
+      "Enquiridión 2:1",
+      "Enquiridión 3:1-2",
+      "Enquiridión 4:1",
+      "Enquiridión 5:1",
+      "Enquiridión 6:1",
+      "Enquiridión 7:1",
+      "Enquiridión 8:1",
+      "Enquiridión 9:1-2",
+      "Enquiridión 10:1",
+      "Enquiridión 11:1",
+      "Enquiridión 12:1",
+      "Enquiridión 13:1-2",
+      "Enquiridión 14:1",
+      "Enquiridión 15:1",
+      "Enquiridión 16:1",
+      "Enquiridión 17:1-2",
+      "Enquiridión 18:1-2",
+      "Enquiridión 19:1",
+      "Enquiridión 20:1"
+    ],
+    "titulo": {
+      "stoic": "No Lo Perdiste: Lo Devolviste | Epicteto sobre la Pérdida"
+    },
+    "thumb_titulo": {
+      "stoic": "NO LO\nPERDISTE"
+    },
+    "thumb_sub": {
+      "stoic": "Epicteto, Enquiridión I-XX"
+    },
+    "abertura": {
+      "stoic": "Epicteto no consuela: corrige la palabra. Donde tú dices perder, él dice restituir. Estos capítulos son los que hablan de lo que amamos y se va."
+    },
+    "tags_extra": {
+      "stoic": [
+        "epicteto",
+        "enquiridion",
+        "perdida",
+        "duelo estoico",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "Capítulos del Enquiridión de Epicteto sobre la pérdida y lo que amamos, narrados en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Busan_fishing_harbor_at_night_12.jpg/1920px-Busan_fishing_harbor_at_night_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_12.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Busan_fishing_harbor_at_night_2.jpg/1920px-Busan_fishing_harbor_at_night_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Norra_Grundsund_harbor_at_night.jpg/1920px-Norra_Grundsund_harbor_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Norra_Grundsund_harbor_at_night.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Honolulu_Harbor_at_Night_%2821185779400%29.jpg/1920px-Honolulu_Harbor_at_Night_%2821185779400%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel Ramirez from Honolulu, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Honolulu_Harbor_at_Night_(21185779400).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Busan_fishing_harbor_at_night_9.jpg/1920px-Busan_fishing_harbor_at_night_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_9.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Burning_candle_creation.jpg/1920px-Burning_candle_creation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Klare Mat",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_creation.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Candle_Burning.JPG/1920px-Candle_Burning.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Nanda93",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_Burning.JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Burning_candle_marco.jpg/1920px-Burning_candle_marco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Donald Olszewski",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_marco.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Burning_candle.jpg/1920px-Burning_candle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Photos public domain.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 17:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "No lo perdiste: lo devolviste"
+      },
+      "aplicacao": "Lo que tuviste fue préstamo. Devolverlo no es perder.",
+      "gancho": {
+        "stoic": "Cambia una palabra y cambia el duelo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Busan_fishing_harbor_at_night_17.jpg/1920px-Busan_fishing_harbor_at_night_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_17.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 17:1/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La línea más dura de Epicteto"
+      },
+      "aplicacao": "Es brutal. Y es lo que sostiene a quien se queda.",
+      "gancho": {
+        "stoic": "La línea más dura del Enquiridión."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Maid_with_burning_candle_%281839%29%2C_PA06579.jpg/1920px-Maid_with_burning_candle_%281839%29%2C_PA06579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pierre Louis Dubourcq",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maid_with_burning_candle_(1839),_PA06579.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 8:1/5",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Ama sabiendo que es mortal"
+      },
+      "aplicacao": "No es frialdad: es amar con los ojos abiertos.",
+      "gancho": {
+        "stoic": "Ámalo sabiendo que es mortal."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 20:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Querer que vivan siempre"
+      },
+      "aplicacao": "Pedir lo imposible es la forma más segura de sufrir.",
+      "gancho": {
+        "stoic": "Epicteto no consuela. Corrige."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Dusk_Sky.jpg/1920px-Dusk_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
