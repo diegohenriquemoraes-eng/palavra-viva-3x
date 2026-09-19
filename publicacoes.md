@@ -4790,3 +4790,19 @@
 - Item: short-2 — Salmo 70:4
 - Duração: 22.0s
 - Publicado em: 2026-09-19T11:17:38+00:00
+
+## [pt] SxDiVAeG3Jg — Salmos para Dormir — Salmo 72 Completo | Bíblia Falada
+
+- URL: https://youtu.be/SxDiVAeG3Jg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 72
+- Duração: 2245.9s
+- Publicado em: 2026-09-19T13:54:18+00:00
+
+## [stoic] lETwLeIpMUA — No son las cosas: son tus opiniones
+
+- URL: https://youtu.be/lETwLeIpMUA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 10:1
+- Duração: 17.2s
+- Publicado em: 2026-09-19T13:55:16+00:00

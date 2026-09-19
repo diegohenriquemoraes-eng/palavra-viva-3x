@@ -3646,6 +3646,14 @@
           "titulo": "Salmos para Dormir — Salmo 70 Completo | Bíblia Falada",
           "em": "2026-09-19T05:23:50+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-19-salmo-72-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "SxDiVAeG3Jg",
+          "titulo": "Salmos para Dormir — Salmo 72 Completo | Bíblia Falada",
+          "em": "2026-09-19T13:54:18+00:00"
         }
       ],
       "ultimo_short": "2026-09-19T00:56:01+00:00",
@@ -3656,9 +3664,9 @@
       "longo_data": "2026-09-19",
       "longos_dia": {
         "data": "2026-09-19",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-19T05:23:50+00:00"
+      "ultimo_longo": "2026-09-19T13:54:18+00:00"
     },
     "stoic": {
       "publicados": [
@@ -4465,12 +4473,20 @@
           "video_id": "xTx6Vy4RaJY",
           "titulo": "La primera regla de Epicteto",
           "em": "2026-09-19T05:25:01+00:00"
+        },
+        {
+          "pacote": "2026-09-19-lo-que-no-depende-de-ti",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "lETwLeIpMUA",
+          "titulo": "No son las cosas: son tus opiniones",
+          "em": "2026-09-19T13:55:16+00:00"
         }
       ],
-      "ultimo_short": "2026-09-19T05:25:01+00:00",
+      "ultimo_short": "2026-09-19T13:55:16+00:00",
       "shorts_dia": {
         "data": "2026-09-19",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
