@@ -1824,6 +1824,14 @@
           "video_id": "46MZ670eOQo",
           "titulo": "Salmo 68:9 — Abundante lluvia esparciste, oh Dios, a tu | Biblia",
           "em": "2026-09-18T12:40:11+00:00"
+        },
+        {
+          "pacote": "2026-09-19-salmo-70-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "qdG56w_-z2U",
+          "titulo": "Salmos para Dormir — Salmo 70 Completo | Biblia Hablada",
+          "em": "2026-09-19T00:54:59+00:00"
         }
       ],
       "ultimo_short": "2026-09-18T12:40:11+00:00",
@@ -1831,12 +1839,12 @@
         "data": "2026-09-18",
         "n": 2
       },
-      "longo_data": "2026-09-18",
+      "longo_data": "2026-09-19",
       "longos_dia": {
-        "data": "2026-09-18",
-        "n": 2
+        "data": "2026-09-19",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-18T12:02:38+00:00"
+      "ultimo_longo": "2026-09-19T00:54:59+00:00"
     },
     "en": {
       "publicados": [
@@ -3575,11 +3583,19 @@
           "video_id": "TnM7ZaEj3OM",
           "titulo": "Salmos para Dormir — Salmo 69 Completo | Bíblia Falada",
           "em": "2026-09-18T12:38:18+00:00"
+        },
+        {
+          "pacote": "2026-09-19-salmo-70-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "u3V4eekmU1k",
+          "titulo": "Salmo 70:1 — Memorial de Davi, para o regente: Livra-me | Bíblia",
+          "em": "2026-09-19T00:56:01+00:00"
         }
       ],
-      "ultimo_short": "2026-09-18T01:02:54+00:00",
+      "ultimo_short": "2026-09-19T00:56:01+00:00",
       "shorts_dia": {
-        "data": "2026-09-18",
+        "data": "2026-09-19",
         "n": 1
       },
       "longo_data": "2026-09-18",

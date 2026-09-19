@@ -4734,3 +4734,19 @@
 - Item: short-3 — Meditaciones 7:12
 - Duração: 15.6s
 - Publicado em: 2026-09-18T19:19:40+00:00
+
+## [es] qdG56w_-z2U — Salmos para Dormir — Salmo 70 Completo | Biblia Hablada
+
+- URL: https://youtu.be/qdG56w_-z2U
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 70
+- Duração: 644.2s
+- Publicado em: 2026-09-19T00:54:59+00:00
+
+## [pt] u3V4eekmU1k — Salmo 70:1 — Memorial de Davi, para o regente: Livra-me | Bíblia
+
+- URL: https://youtu.be/u3V4eekmU1k
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 70:1
+- Duração: 18.4s
+- Publicado em: 2026-09-19T00:56:01+00:00
