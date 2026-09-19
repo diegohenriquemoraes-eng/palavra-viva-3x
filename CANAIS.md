@@ -6,8 +6,9 @@ O Diego pediu o TikTok automático "igual ao Short do YouTube". A API oficial s�
 com app auditado (2–4 semanas, sem garantia; sem ela sai `SELF_ONLY`) — foi o muro de julho e de
 05/09. Saída: o **Zernio** (ex-Late) tem o app auditado, API e 2 contas grátis com posts
 ilimitados. Distribuidor pronto em `posts-vendanaobra/distribuir_tiktok.py` (5 janelas/dia, teto
-3/dia, sem URL e sem `@` na legenda, vídeo limpo da Graph API). **Pendente do Diego**: conta TikTok
-comercial + conta Zernio + chave (`posts-vendanaobra/SETUP-TIKTOK.md`). Se o Palavra Viva ou o
+3/dia, sem URL e sem `@` na legenda, vídeo limpo da Graph API). **Ligado em 19/09/2026**: TikTok conectado
+no Zernio, secret gravado, primeiro vídeo no ar (`tiktok.com/@vendanaobra/video/7687061267009244417`).
+Bio do TikTok alinhada à do Instagram (80 caracteres). Se o Palavra Viva ou o
 Psicologia Fria quiserem TikTok, é o mesmo caminho (3ª conta: US$ 6/mês).
 
 ## 16/09/2026 — @psicologiafria.br: viraliza e não cresce; ROTA 100K aplicado (2ª rodada)
