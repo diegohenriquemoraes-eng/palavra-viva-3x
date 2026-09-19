@@ -1840,6 +1840,14 @@
           "video_id": "RTuV_g_Py40",
           "titulo": "Salmo 70:1 — Oh Dios, acude a librarme; apresúrate, oh | Biblia",
           "em": "2026-09-19T01:21:40+00:00"
+        },
+        {
+          "pacote": "2026-09-19-salmo-72-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "Drx5q1557i0",
+          "titulo": "Salmos para Dormir — Salmo 72 Completo | Biblia Hablada",
+          "em": "2026-09-19T10:11:20+00:00"
         }
       ],
       "ultimo_short": "2026-09-19T01:21:40+00:00",
@@ -1850,9 +1858,9 @@
       "longo_data": "2026-09-19",
       "longos_dia": {
         "data": "2026-09-19",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-19T00:54:59+00:00"
+      "ultimo_longo": "2026-09-19T10:11:20+00:00"
     },
     "en": {
       "publicados": [

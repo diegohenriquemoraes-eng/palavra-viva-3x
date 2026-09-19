@@ -4774,3 +4774,11 @@
 - Item: short-1 — Enquiridión 1:1
 - Duração: 23.0s
 - Publicado em: 2026-09-19T05:25:01+00:00
+
+## [es] Drx5q1557i0 — Salmos para Dormir — Salmo 72 Completo | Biblia Hablada
+
+- URL: https://youtu.be/Drx5q1557i0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 72
+- Duração: 2217.3s
+- Publicado em: 2026-09-19T10:11:20+00:00
