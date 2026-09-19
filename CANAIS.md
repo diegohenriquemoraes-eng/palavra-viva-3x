@@ -1,5 +1,13 @@
 # Canais — painel único, estado em 18/09/2026
 
+## 19/09/2026 (noite) — a carga inicial travou os distribuidores; Reel do dia não espera mais o teto
+
+Os 15 Reels da carga inicial subiram entre 02h e 03h UTC de 19/09 e contaram como "enviados hoje":
+as cinco janelas do dia leram 15/3 e pararam, e os 2 Reels postados em 19/09 não foram para
+TikTok, Threads nem Pinterest. Corrigido em `posts-vendanaobra` (commit `784debc`): Reel com menos
+de 36 h no Instagram sai sempre; o teto de 3/dia vale só para o acervo. Detalhe no `CLAUDE.md`
+de lá, seção "Threads e Pinterest recebem o Reel".
+
 ## 18/09/2026 — TikTok destravado: Reel do @vendanaobra → TikTok pelo Zernio
 
 O Diego pediu o TikTok automático "igual ao Short do YouTube". A API oficial só publica público
