@@ -4750,3 +4750,11 @@
 - Item: short-1 — Salmo 70:1
 - Duração: 18.4s
 - Publicado em: 2026-09-19T00:56:01+00:00
+
+## [es] RTuV_g_Py40 — Salmo 70:1 — Oh Dios, acude a librarme; apresúrate, oh | Biblia
+
+- URL: https://youtu.be/RTuV_g_Py40
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 70:1
+- Duração: 17.9s
+- Publicado em: 2026-09-19T01:21:40+00:00
