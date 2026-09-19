@@ -1848,12 +1848,20 @@
           "video_id": "Drx5q1557i0",
           "titulo": "Salmos para Dormir — Salmo 72 Completo | Biblia Hablada",
           "em": "2026-09-19T10:11:20+00:00"
+        },
+        {
+          "pacote": "2026-09-19-salmo-70-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "RLV6JBY5VF0",
+          "titulo": "Salmo 70:4 — Gócense y alégrense en ti todos | Biblia",
+          "em": "2026-09-19T11:17:38+00:00"
         }
       ],
-      "ultimo_short": "2026-09-19T01:21:40+00:00",
+      "ultimo_short": "2026-09-19T11:17:38+00:00",
       "shorts_dia": {
         "data": "2026-09-19",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-19",
       "longos_dia": {

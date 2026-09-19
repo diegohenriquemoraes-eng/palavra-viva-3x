@@ -4782,3 +4782,11 @@
 - Item: longo — Salmo 72
 - Duração: 2217.3s
 - Publicado em: 2026-09-19T10:11:20+00:00
+
+## [es] RLV6JBY5VF0 — Salmo 70:4 — Gócense y alégrense en ti todos | Biblia
+
+- URL: https://youtu.be/RLV6JBY5VF0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 70:4
+- Duração: 22.0s
+- Publicado em: 2026-09-19T11:17:38+00:00
