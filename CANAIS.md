@@ -8,7 +8,9 @@ com app auditado (2–4 semanas, sem garantia; sem ela sai `SELF_ONLY`) — foi 
 ilimitados. Distribuidor pronto em `posts-vendanaobra/distribuir_tiktok.py` (5 janelas/dia, teto
 3/dia, sem URL e sem `@` na legenda, vídeo limpo da Graph API). **Ligado em 19/09/2026**: TikTok conectado
 no Zernio, secret gravado, primeiro vídeo no ar (`tiktok.com/@vendanaobra/video/7687061267009244417`).
-Bio do TikTok alinhada à do Instagram (80 caracteres). Se o Palavra Viva ou o
+Bio do TikTok alinhada à do Instagram (80 caracteres). **Na mesma noite entraram Threads (API
+própria, vídeo hospedado no Zernio; o espelho do app cobria 2 de 15) e Pinterest (conta business
+nova, 2ª vaga grátis do Zernio)** — o Reel vai para 4 redes sem intervenção. Kwai não tem API. Se o Palavra Viva ou o
 Psicologia Fria quiserem TikTok, é o mesmo caminho (3ª conta: US$ 6/mês).
 
 ## 16/09/2026 — @psicologiafria.br: viraliza e não cresce; ROTA 100K aplicado (2ª rodada)
