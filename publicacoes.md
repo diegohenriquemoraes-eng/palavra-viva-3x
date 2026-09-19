@@ -4758,3 +4758,19 @@
 - Item: short-1 — Salmo 70:1
 - Duração: 17.9s
 - Publicado em: 2026-09-19T01:21:40+00:00
+
+## [pt] z1HevHhOrDM — Salmos para Dormir — Salmo 70 Completo | Bíblia Falada
+
+- URL: https://youtu.be/z1HevHhOrDM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 70
+- Duração: 692.2s
+- Publicado em: 2026-09-19T05:23:50+00:00
+
+## [stoic] xTx6Vy4RaJY — La primera regla de Epicteto
+
+- URL: https://youtu.be/xTx6Vy4RaJY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 1:1
+- Duração: 23.0s
+- Publicado em: 2026-09-19T05:25:01+00:00
