@@ -4806,3 +4806,11 @@
 - Item: short-2 — Enquiridión 10:1
 - Duração: 17.2s
 - Publicado em: 2026-09-19T13:55:16+00:00
+
+## [stoic] UNQfe92mznc — Nadie te ofende sin tu permiso
+
+- URL: https://youtu.be/UNQfe92mznc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 28:1
+- Duração: 17.2s
+- Publicado em: 2026-09-19T19:06:00+00:00

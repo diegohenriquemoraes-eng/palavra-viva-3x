@@ -4481,12 +4481,20 @@
           "video_id": "lETwLeIpMUA",
           "titulo": "No son las cosas: son tus opiniones",
           "em": "2026-09-19T13:55:16+00:00"
+        },
+        {
+          "pacote": "2026-09-19-lo-que-no-depende-de-ti",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "UNQfe92mznc",
+          "titulo": "Nadie te ofende sin tu permiso",
+          "em": "2026-09-19T19:06:00+00:00"
         }
       ],
-      "ultimo_short": "2026-09-19T13:55:16+00:00",
+      "ultimo_short": "2026-09-19T19:06:00+00:00",
       "shorts_dia": {
         "data": "2026-09-19",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
