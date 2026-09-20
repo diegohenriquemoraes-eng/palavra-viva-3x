@@ -58,7 +58,7 @@ jobs:
           PT_ANALYTICS: ${{ secrets.YT_TOKEN_ANALYTICS_PT }}
           STOIC_ANALYTICS: ${{ secrets.YT_TOKEN_ANALYTICS_STOIC }}
         run: |
-          for lang in es en pt stoic poder astucia; do
+          for lang in es en pt stoic; do  # poder excluído 08/09, astucia desligado 19/09 (motor no psicologia-fria)
             secret_var="$(echo $lang | tr a-z A-Z)_SECRET"
             token_var="$(echo $lang | tr a-z A-Z)_TOKEN"
             analytics_var="$(echo $lang | tr a-z A-Z)_ANALYTICS"

@@ -1,4 +1,17 @@
-# Canais — painel único, estado em 18/09/2026
+# Canais — painel único, estado em 19/09/2026
+
+## 19/09/2026 — Astucia Fría DESLIGADO: "não vingou, não vou usar"
+
+Decisão do Diego. Foto final pela API em 19/09: **26 inscritos, 22.688 views, 20 Shorts** em 35
+dias de Protocolo Fantasma no motor do `psicologia-fria` (os 14 roteiros ES já tinham reciclado).
+A régua de views até passou (mediana 571 em 08/09) e os inscritos não vieram — view de Short que
+não vira inscrito não sustenta canal. O que foi feito: `ativo: false` em `config_es.json` do
+`psicologia-fria` (porteiro, publicador e vigia leem o campo; nem `--forcar` publica), workflow
+`youtube-es.yml` do `pf-runner` desligado por `gh workflow disable`, `astucia` fora do loop do
+`medir.yml` deste repo. **Nada excluído**: canal e vídeos ficam no ar, tokens e secrets ficam.
+Sobram na casa **3 canais de YouTube ativos** (es, pt, stoic) + o Instagram do Psicologia Fria.
+A conta `astucia` continua na Central de Comentários (como o `poder`, já excluído): aba vazia,
+sem custo — limpar os dois de lá é faxina, não pendência.
 
 ## 19/09/2026 (noite) — a carga inicial travou os distribuidores; Reel do dia não espera mais o teto
 
@@ -197,19 +210,19 @@ agenda, orçamento de cota, coerência da config e integridade dos poços.
 | **Palavra Viva Diária** `@PalavraVivaDiária-biblia` | YouTube PT | 1 Short + 1 longo/dia — **canal de LONGO desde 22/08** | `Palavra-Viva-3x` | Gmail pessoal |
 | **La Noche Estoica** `@LaNocheEstoica` | YouTube ES | **3 Shorts/dia desde 22/08** (era 1), 01 UTC | `Palavra-Viva-3x` | Gmail pessoal |
 | **Sabiduría** (nome a definir) | YouTube ES | ⏳ **preparado, canal ainda não existe** | `Palavra-Viva-3x` | — |
-| **Astucia Fría** `@AstuciaFria` | YouTube ES | 1 Short/dia, 01 UTC | `psicologia-fria` ⚠ | Gmail pessoal |
 | **@psicologiafria.br** | Instagram | 7 Reels/dia **+ 1 carrossel (7h) desde 17/09** | `psicologia-fria` | — |
 | **@VendanaObra** | YouTube PT | manual | — | `diego@perffec.com.br` |
 
-⚠ **Astucia Fría mudou de motor em 15/08**: deixou de publicar Gracián pelo `Palavra-Viva-3x`
-(`ativo: false` lá, para sempre) e virou o Psicologia Fria em espanhol, rodando no repo
-`psicologia-fria`. É o erro mais fácil de cometer aqui.
+⚠ **Astucia Fría não publica mais em lugar nenhum desde 19/09**: saiu deste repo em 15/08 (virou
+o Psicologia Fria em espanhol no `psicologia-fria`) e foi desligado lá em 19/09. `ativo: false`
+nos dois repos.
 
 ## Quem está desligado
 
 | Canal | Desde | Por quê |
 |---|---|---|
 | **Living Word Daily** `@LivingWordDailyKJV` (EN) | 27/07 | 33 vídeos em 9 dias, 12 inscritos, 1.016 views, **mediana de 1 view**; todos privados, `ativo: false`. ⚠⚠⚠ **NUNCA EXCLUIR**: é o canal principal da conta e a exclusão leva os outros QUATRO canais junto (confirmado na tela do Google em 08/09). |
+| **Astucia Fría** `@AstuciaFria` | **19/09** | "Não vingou, não vou usar" (Diego). 35 dias de Protocolo Fantasma pelo `psicologia-fria`: 26 inscritos, 22.688 views, 20 Shorts. Mediana de views passou a régua, inscritos não. Desligado nos dois repos e no `pf-runner`; nada excluído. |
 | **El Poder Crudo** `@ElPoderCrudo` | 15/08 | **EXCLUÍDO em 08/09** (decisão do Diego): 12 dias no ar, 4 inscritos, mediana 54. Backup dos metadados em `backup-canais/poder.json`. Falta limpar o repo. |
 | **Corte em Pauta** (cortes do Flow) | 18/07 | Encerrado. O canal virou o Living Word Daily; **a pasta foi excluída** (conferido em 08/09) e as credenciais seguem só como os secrets `YT_*_EN`. |
 | **Palabra-Viva** (repo antigo) | 19/07 | Aposentado. O canal é abastecido pelo 3x; a pasta guarda as credenciais `YT_*_ES`. |
@@ -422,7 +435,7 @@ Nenhum canal usa a voz de outro: duas vozes iguais na mesma conta é assinatura 
 | Palabra Viva (ES) | `es-MX-JorgeNeural` |
 | La Noche Estoica (ES) | `es-US-AlonsoNeural` |
 | El Poder Crudo (ES, desligado) | `es-CO-GonzaloNeural` |
-| Astucia Fría (ES, migrado) | `es-AR-TomasNeural` |
+| Astucia Fría (ES, desligado 19/09; no psicologia-fria usava `es-PE-Alex`) | `es-AR-TomasNeural` |
 | Palavra Viva Diária (PT) | `pt-BR-AntonioNeural` |
 | Living Word Daily (EN, desligado) | `en-US-ChristopherNeural` |
 | Sabiduría (ES, preparado) | **`es-MX-DaliaNeural` — feminina** |
