@@ -4584,12 +4584,20 @@
           "video_id": "3ki78mT8gAQ",
           "titulo": "La línea más dura de Epicteto",
           "em": "2026-09-20T13:16:08+00:00"
+        },
+        {
+          "pacote": "2026-09-20-restituir-no-perder",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "7GlB7YA3tp4",
+          "titulo": "Ama sabiendo que es mortal",
+          "em": "2026-09-20T19:36:21+00:00"
         }
       ],
-      "ultimo_short": "2026-09-20T13:16:08+00:00",
+      "ultimo_short": "2026-09-20T19:36:21+00:00",
       "shorts_dia": {
         "data": "2026-09-20",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

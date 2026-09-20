@@ -4886,3 +4886,11 @@
 - Item: short-2 — Salmo 73:25
 - Duração: 17.5s
 - Publicado em: 2026-09-20T13:20:21+00:00
+
+## [stoic] 7GlB7YA3tp4 — Ama sabiendo que es mortal
+
+- URL: https://youtu.be/7GlB7YA3tp4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 8:1
+- Duração: 21.1s
+- Publicado em: 2026-09-20T19:36:21+00:00
