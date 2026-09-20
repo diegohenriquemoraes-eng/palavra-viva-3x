@@ -4814,3 +4814,19 @@
 - Item: short-3 — Enquiridión 28:1
 - Duração: 17.2s
 - Publicado em: 2026-09-19T19:06:00+00:00
+
+## [es] qikg1THDL48 — Salmos para Dormir — Salmo 73 Completo | Biblia Hablada
+
+- URL: https://youtu.be/qikg1THDL48
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 73
+- Duração: 2885.5s
+- Publicado em: 2026-09-20T01:46:00+00:00
+
+## [pt] FilZgujpxCk — Salmo 73:26 — Minha carne e meu coração desfalecem; porém | Bíblia
+
+- URL: https://youtu.be/FilZgujpxCk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 73:26
+- Duração: 20.3s
+- Publicado em: 2026-09-20T01:47:01+00:00

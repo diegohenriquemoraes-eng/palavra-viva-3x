@@ -1864,6 +1864,14 @@
           "video_id": "RLV6JBY5VF0",
           "titulo": "Salmo 70:4 — Gócense y alégrense en ti todos | Biblia",
           "em": "2026-09-19T11:17:38+00:00"
+        },
+        {
+          "pacote": "2026-09-20-salmo-73-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "qikg1THDL48",
+          "titulo": "Salmos para Dormir — Salmo 73 Completo | Biblia Hablada",
+          "em": "2026-09-20T01:46:00+00:00"
         }
       ],
       "ultimo_short": "2026-09-19T11:17:38+00:00",
@@ -1871,12 +1879,12 @@
         "data": "2026-09-19",
         "n": 2
       },
-      "longo_data": "2026-09-19",
+      "longo_data": "2026-09-20",
       "longos_dia": {
-        "data": "2026-09-19",
-        "n": 2
+        "data": "2026-09-20",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-19T10:11:20+00:00"
+      "ultimo_longo": "2026-09-20T01:46:00+00:00"
     },
     "en": {
       "publicados": [
@@ -3654,11 +3662,19 @@
           "video_id": "SxDiVAeG3Jg",
           "titulo": "Salmos para Dormir — Salmo 72 Completo | Bíblia Falada",
           "em": "2026-09-19T13:54:18+00:00"
+        },
+        {
+          "pacote": "2026-09-20-salmo-73-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "FilZgujpxCk",
+          "titulo": "Salmo 73:26 — Minha carne e meu coração desfalecem; porém | Bíblia",
+          "em": "2026-09-20T01:47:01+00:00"
         }
       ],
-      "ultimo_short": "2026-09-19T00:56:01+00:00",
+      "ultimo_short": "2026-09-20T01:47:01+00:00",
       "shorts_dia": {
-        "data": "2026-09-19",
+        "data": "2026-09-20",
         "n": 1
       },
       "longo_data": "2026-09-19",
