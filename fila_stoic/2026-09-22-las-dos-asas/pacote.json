@@ -1,0 +1,209 @@
+{
+  "slug": "las-dos-asas",
+  "formato": "tema",
+  "data": "2026-09-22",
+  "criado_em": "2026-09-20T04:57:19+00:00",
+  "aprovado_em": "2026-09-20T04:57:19+00:00",
+  "longo": {
+    "refs": [
+      "Enquiridión 61:1",
+      "Enquiridión 62:1",
+      "Enquiridión 63:1",
+      "Enquiridión 64:1",
+      "Enquiridión 65:1",
+      "Enquiridión 66:1",
+      "Enquiridión 67:1",
+      "Enquiridión 68:1-3",
+      "Enquiridión 69:1-2",
+      "Enquiridión 70:1",
+      "Enquiridión 71:1-2",
+      "Enquiridión 72:1-2",
+      "Enquiridión 73:1",
+      "Enquiridión 74:1-3",
+      "Enquiridión 75:1-2",
+      "Enquiridión 76:1",
+      "Enquiridión 77:1",
+      "Enquiridión 78:1"
+    ],
+    "titulo": {
+      "stoic": "Todo Tiene Dos Asas: Elige Una | Epicteto"
+    },
+    "thumb_titulo": {
+      "stoic": "DOS\nASAS"
+    },
+    "thumb_sub": {
+      "stoic": "Epicteto, Enquiridión LXI-LXXVIII"
+    },
+    "abertura": {
+      "stoic": "El final del Enquiridión es el más práctico: cómo tomar lo que pasa por el lado que se puede cargar. Cada cosa tiene dos asas, dice Epicteto, y sólo una sirve para llevarla."
+    },
+    "tags_extra": {
+      "stoic": [
+        "epicteto",
+        "enquiridion",
+        "dos asas",
+        "ofensa",
+        "estoicismo practico"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "Los últimos capítulos del Enquiridión de Epicteto, narrados en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Full_moon_with_clouds_%2819791001528%29.jpg/1920px-Full_moon_with_clouds_%2819791001528%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "BLM Nevada",
+        "origem": "https://commons.wikimedia.org/wiki/File:Full_moon_with_clouds_(19791001528).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg/1920px-Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "John Phelan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Lake_Quannapowitt,_Wakefield_MA.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Moon_and_clouds_over_Brofjorden_7.jpg/1920px-Moon_and_clouds_over_Brofjorden_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_7.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Moon_Clouds_Treetops_Abstract.jpg/1920px-Moon_Clouds_Treetops_Abstract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Dark-forest-combo-12.jpg/1920px-Dark-forest-combo-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-12.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Dark-forest-combo-3.jpg/1920px-Dark-forest-combo-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Dark_forest_%2852747086562%29.jpg/1920px-Dark_forest_%2852747086562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Anton Atanasov from Plovdiv, Bulgaria",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_(52747086562).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Dark-forest-combo-1.JPG/1920px-Dark-forest-combo-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-1.JPG",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 65:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Todo tiene dos asas"
+      },
+      "aplicacao": "La misma ofensa pesa distinto según por dónde la agarres.",
+      "gancho": {
+        "stoic": "Todo tiene dos asas. Elige una."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Moon_in_clouds_over_Koller%C3%B6d.jpg/1920px-Moon_in_clouds_over_Koller%C3%B6d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_in_clouds_over_Koller%C3%B6d.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 64:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El que te ataca cree tener razón"
+      },
+      "aplicacao": "Nadie se ve a sí mismo como el villano. Ni él.",
+      "gancho": {
+        "stoic": "El que te ataca cree tener razón."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "John Bauer",
+        "origem": "https://commons.wikimedia.org/wiki/File:John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 67:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Describe, no califiques"
+      },
+      "aplicacao": "Describe. No califiques. Ahí empieza la calma.",
+      "gancho": {
+        "stoic": "El ejercicio más simple del Enquiridión."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 33:1/4",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Lo del vecino y lo tuyo"
+      },
+      "aplicacao": "La misma pérdida: allá es natural, aquí es tragedia. Elige un criterio.",
+      "gancho": {
+        "stoic": "Lo que dices del vecino, dilo de ti."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rain_-_window_%2850542058767%29.jpg/1920px-Rain_-_window_%2850542058767%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Amanda Coutinho from São Paulo, Brasil",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rain_-_window_(50542058767).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
