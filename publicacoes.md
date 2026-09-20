@@ -4878,3 +4878,11 @@
 - Item: short-2 — Enquiridión 17:1
 - Duração: 19.4s
 - Publicado em: 2026-09-20T13:16:08+00:00
+
+## [es] ggNdwA2IZdU — Salmo 73:25 — ¿A quién tengo yo en los cielos? | Biblia
+
+- URL: https://youtu.be/ggNdwA2IZdU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 73:25
+- Duração: 17.5s
+- Publicado em: 2026-09-20T13:20:21+00:00
