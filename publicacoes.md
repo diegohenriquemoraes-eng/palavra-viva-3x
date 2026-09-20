@@ -4830,3 +4830,27 @@
 - Item: short-1 — Salmo 73:26
 - Duração: 20.3s
 - Publicado em: 2026-09-20T01:47:01+00:00
+
+## [es] JpJsCtyA4zw — Salmo 73:26 — Mi carne y mi corazón desfallecen: mas | Biblia
+
+- URL: https://youtu.be/JpJsCtyA4zw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 73:26
+- Duração: 19.1s
+- Publicado em: 2026-09-20T02:25:19+00:00
+
+## [pt] 9WWDYARG0vg — Salmos para Dormir — Salmo 73 Completo | Bíblia Falada
+
+- URL: https://youtu.be/9WWDYARG0vg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 73
+- Duração: 2991.3s
+- Publicado em: 2026-09-20T02:53:06+00:00
+
+## [stoic] syMTzer7mqo — No lo perdiste: lo devolviste
+
+- URL: https://youtu.be/syMTzer7mqo
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 17:1
+- Duração: 16.5s
+- Publicado em: 2026-09-20T02:54:10+00:00
