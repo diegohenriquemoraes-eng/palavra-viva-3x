@@ -6,7 +6,10 @@ Os 15 Reels da carga inicial subiram entre 02h e 03h UTC de 19/09 e contaram com
 as cinco janelas do dia leram 15/3 e pararam, e os 2 Reels postados em 19/09 não foram para
 TikTok, Threads nem Pinterest. Corrigido em `posts-vendanaobra` (commit `784debc`): Reel com menos
 de 36 h no Instagram sai sempre; o teto de 3/dia vale só para o acervo. Detalhe no `CLAUDE.md`
-de lá, seção "Threads e Pinterest recebem o Reel".
+de lá, seção "Threads e Pinterest recebem o Reel". Segundo achado da mesma noite: o teto de 15 do
+TikTok é janela móvel de 24 h; o Zernio enfileira o excedente e publica sozinho — o distribuidor
+agora grava `pendente` em vez de falhar (commit `3465136`). Os 2 Reels de 19/09 saem no TikTok a
+partir de 02:05 UTC de 20/09; Pinterest já recebeu os dois; Threads já os tinha pelo app.
 
 ## 18/09/2026 — TikTok destravado: Reel do @vendanaobra → TikTok pelo Zernio
 
