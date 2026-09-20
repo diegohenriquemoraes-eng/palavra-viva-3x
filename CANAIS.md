@@ -1,5 +1,16 @@
 # Canais — painel único, estado em 19/09/2026
 
+## 19/09/2026 (noite) — @vendanaobra: os 2 Reels turbinados encerraram; régua do Afonso lida
+
+R$ 119,32 em 3 dias (13/09 "alto padrão" e 16/09 "arquiteto/feira", R$ 20/dia cada, público
+"BR 35-54 setor esquadrias"). A conta foi de 9.326 para **9.499 seguidores (+173; ritmo anterior
+~13/dia)** → **R$ 0,69 por seguidor pela fórmula do curso** (gasto ÷ ganho da conta), ~R$ 0,92
+descontando o ritmo; a atribuição do próprio anúncio dá 24 + 11 = 35 (R$ 3,41). O Reel que passava
+no 1 % converteu 26 % das visitas em seguidor, o reprovado 7 % — o critério do Afonso está certo.
+**Raio-X no período: zero** (521 visitas ao perfil, 10 cliques no link). Recomendação: turbinar de
+novo só o 13/09 a R$ 30/dia (clique é do Diego), 16/09 não volta, fila vazia (Reels de 17-18/09 em
+0,6 %). Recálculo segunda 22/09. Detalhe: `Perffec\Claude\Trafego-resultado-vendanaobra-2026-09-19.md`.
+
 ## 19/09/2026 — Astucia Fría DESLIGADO: "não vingou, não vou usar"
 
 Decisão do Diego. Foto final pela API em 19/09: **26 inscritos, 22.688 views, 20 Shorts** em 35
