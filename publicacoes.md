@@ -4854,3 +4854,27 @@
 - Item: short-1 — Enquiridión 17:1
 - Duração: 16.5s
 - Publicado em: 2026-09-20T02:54:10+00:00
+
+## [es] PAlCKpGJNxk — Salmos para Dormir — Salmo 74 Completo | Biblia Hablada
+
+- URL: https://youtu.be/PAlCKpGJNxk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 74
+- Duração: 2603.8s
+- Publicado em: 2026-09-20T12:53:30+00:00
+
+## [pt] t9XM4sjwem4 — Salmos para Dormir — Salmo 74 Completo | Bíblia Falada
+
+- URL: https://youtu.be/t9XM4sjwem4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 74
+- Duração: 2611.0s
+- Publicado em: 2026-09-20T13:15:00+00:00
+
+## [stoic] 3ki78mT8gAQ — La línea más dura de Epicteto
+
+- URL: https://youtu.be/3ki78mT8gAQ
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 17:1
+- Duração: 19.4s
+- Publicado em: 2026-09-20T13:16:08+00:00

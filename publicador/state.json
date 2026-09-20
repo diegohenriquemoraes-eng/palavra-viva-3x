@@ -1888,6 +1888,14 @@
           "video_id": "JpJsCtyA4zw",
           "titulo": "Salmo 73:26 — Mi carne y mi corazón desfallecen: mas | Biblia",
           "em": "2026-09-20T02:25:19+00:00"
+        },
+        {
+          "pacote": "2026-09-20-salmo-74-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "PAlCKpGJNxk",
+          "titulo": "Salmos para Dormir — Salmo 74 Completo | Biblia Hablada",
+          "em": "2026-09-20T12:53:30+00:00"
         }
       ],
       "ultimo_short": "2026-09-20T02:25:19+00:00",
@@ -1898,9 +1906,9 @@
       "longo_data": "2026-09-20",
       "longos_dia": {
         "data": "2026-09-20",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-20T01:46:00+00:00"
+      "ultimo_longo": "2026-09-20T12:53:30+00:00"
     },
     "en": {
       "publicados": [
@@ -3709,6 +3717,14 @@
           "titulo": "Salmos para Dormir — Salmo 73 Completo | Bíblia Falada",
           "em": "2026-09-20T02:53:06+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-20-salmo-74-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "t9XM4sjwem4",
+          "titulo": "Salmos para Dormir — Salmo 74 Completo | Bíblia Falada",
+          "em": "2026-09-20T13:15:00+00:00"
         }
       ],
       "ultimo_short": "2026-09-20T01:47:01+00:00",
@@ -3719,9 +3735,9 @@
       "longo_data": "2026-09-20",
       "longos_dia": {
         "data": "2026-09-20",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-20T02:53:06+00:00"
+      "ultimo_longo": "2026-09-20T13:15:00+00:00"
     },
     "stoic": {
       "publicados": [
@@ -4552,12 +4568,20 @@
           "video_id": "syMTzer7mqo",
           "titulo": "No lo perdiste: lo devolviste",
           "em": "2026-09-20T02:54:10+00:00"
+        },
+        {
+          "pacote": "2026-09-20-restituir-no-perder",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "3ki78mT8gAQ",
+          "titulo": "La línea más dura de Epicteto",
+          "em": "2026-09-20T13:16:08+00:00"
         }
       ],
-      "ultimo_short": "2026-09-20T02:54:10+00:00",
+      "ultimo_short": "2026-09-20T13:16:08+00:00",
       "shorts_dia": {
         "data": "2026-09-20",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
