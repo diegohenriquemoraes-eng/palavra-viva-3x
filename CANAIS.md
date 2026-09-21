@@ -1,5 +1,16 @@
 # Canais — painel único, estado em 19/09/2026
 
+## 21/09/2026 — @vendanaobra: nenhum Reel novo passa no 1 % ainda; o 13/09 segue sem o 2º turbinar
+
+Medição pela Graph API + insights no Chrome (9.509 seguidores → régua = 96 curtidas). Os quatro
+Reels "bons" de 17-20/09 ficaram em 55-72 curtidas (0,58-0,76 %): nenhum elegível. O mais perto é
+o de **20/09 "Vou ver mais um orçamento"** (72 curtidas em 24 h, 96 % não seguidores, 18 salvos,
+24,8 s assistidos, botão Turbinar disponível = sem música): se cruzar 96 até quinta 25/09, entra na
+fila. O de 18/09 "A medida qualquer um tira" (63) foi o que mais converteu seguidor orgânico (28).
+O **13/09 continua o único elegível** (220 curtidas no total, 2,3 %) e o botão "Turbinar este reel"
+ainda está lá: o 2º turbinar a R$ 30/dia recomendado em 19/09 **não foi feito** — clique do Diego.
+Conta sem anúncio desde 19/09: +10 seguidores em 2 dias (~5/dia).
+
 ## 19/09/2026 (noite) — @vendanaobra: os 2 Reels turbinados encerraram; régua do Afonso lida
 
 R$ 119,32 em 3 dias (13/09 "alto padrão" e 16/09 "arquiteto/feira", R$ 20/dia cada, público
