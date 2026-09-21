@@ -1,4 +1,11 @@
-# Canais — painel único, estado em 19/09/2026
+# Canais — painel único, estado em 21/09/2026
+
+> **Acervo completo de todos os canais, mensal, sem PC (desde 21/09/2026)**: dia 1 o Actions do
+> repo do cérebro (`cerebro-diego`, `.github/workflows/inventario-canais.yml`) puxa por API todo o
+> conteúdo dos 6 canais do YouTube e das 2 contas do Instagram e gera as notas `Acervo - <canal>`
+> no Obsidian (top/piores/padrões/lista completa com link e métricas por item); dia 2 a rotina do
+> Claude na nuvem escreve `O que funciona - <território> (síntese mensal)`. Antes de qualquer
+> sessão de conteúdo: ler a síntese no cérebro. Detalhe: nota `Inventário mensal dos canais`.
 
 ## 21/09/2026 — @vendanaobra: nenhum Reel novo passa no 1 % ainda; o 13/09 segue sem o 2º turbinar
 
