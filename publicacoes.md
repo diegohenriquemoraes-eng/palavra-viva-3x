@@ -4910,3 +4910,11 @@
 - Item: short-1 — Salmo 75:1
 - Duração: 20.2s
 - Publicado em: 2026-09-21T00:49:12+00:00
+
+## [es] qZJmOzsk-74 — Salmo 75:1 — Alabarémoste, oh Dios, alabaremos; que cercano está | Biblia
+
+- URL: https://youtu.be/qZJmOzsk-74
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 75:1
+- Duração: 20.1s
+- Publicado em: 2026-09-21T01:19:34+00:00
