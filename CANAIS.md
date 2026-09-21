@@ -15,8 +15,8 @@ ainda está lá: o 2º turbinar a R$ 30/dia recomendado em 19/09 **não foi feit
 Conta sem anúncio desde 19/09: +10 seguidores em 2 dias (~5/dia).
 
 **Decisão do Diego (21/09): 2º turbinar do 13/09 a R$ 30/dia × 3 dias** (R$ 90 + impostos = R$ 102,45),
-público salvo "BR 35-54 setor esquadrias", visitas ao perfil. Formulário deixado pronto no Chrome
-(aba do Turbinar), clique final é dele. Dia 0 = **9.509 seguidores**. Recálculo pela fórmula da conta em
+público salvo "BR 35-54 setor esquadrias", visitas ao perfil. **Turbinado pelo Diego em 21/09 às 13:55 BRT**
+(anúncio "Em análise" na aba Anúncio dos insights do Reel; o de 16/09 consta como Concluído). Dia 0 = **9.509 seguidores**. Recálculo pela fórmula da conta em
 **quarta 23/09 e sexta 25/09**: gasto ÷ (seguidores − 9.509); > R$ 0,80 pausa. Ele descartou R$ 6/dia
 × 30 dias (abaixo do degrau de escala, ilegível no ruído da conta, passa da saturação de ~01/10).
 
