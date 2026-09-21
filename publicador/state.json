@@ -1920,6 +1920,14 @@
           "video_id": "qZJmOzsk-74",
           "titulo": "Salmo 75:1 — Alabarémoste, oh Dios, alabaremos; que cercano está | Biblia",
           "em": "2026-09-21T01:19:34+00:00"
+        },
+        {
+          "pacote": "2026-09-21-salmo-76-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "2a_PjlKWO1o",
+          "titulo": "Salmos para Dormir — Salmo 76 Completo | Biblia Hablada",
+          "em": "2026-09-21T11:39:35+00:00"
         }
       ],
       "ultimo_short": "2026-09-21T01:19:34+00:00",
@@ -1930,9 +1938,9 @@
       "longo_data": "2026-09-21",
       "longos_dia": {
         "data": "2026-09-21",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-21T00:48:13+00:00"
+      "ultimo_longo": "2026-09-21T11:39:35+00:00"
     },
     "en": {
       "publicados": [

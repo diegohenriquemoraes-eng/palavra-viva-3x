@@ -4934,3 +4934,11 @@
 - Item: short-1 — Enquiridión 32:2
 - Duração: 22.8s
 - Publicado em: 2026-09-21T05:51:50+00:00
+
+## [es] 2a_PjlKWO1o — Salmos para Dormir — Salmo 76 Completo | Biblia Hablada
+
+- URL: https://youtu.be/2a_PjlKWO1o
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 76
+- Duração: 1285.9s
+- Publicado em: 2026-09-21T11:39:35+00:00
