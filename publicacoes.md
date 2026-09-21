@@ -4942,3 +4942,27 @@
 - Item: longo — Salmo 76
 - Duração: 1285.9s
 - Publicado em: 2026-09-21T11:39:35+00:00
+
+## [es] W9I_xAEMc4k — Salmo 75:6-7 — Porque ni de oriente, ni de occidente | Biblia
+
+- URL: https://youtu.be/W9I_xAEMc4k
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 75:6-7
+- Duração: 26.9s
+- Publicado em: 2026-09-21T14:25:57+00:00
+
+## [pt] EJUM8wMvKcY — Salmos para Dormir — Salmo 76 Completo | Bíblia Falada
+
+- URL: https://youtu.be/EJUM8wMvKcY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 76
+- Duração: 1250.6s
+- Publicado em: 2026-09-21T14:36:36+00:00
+
+## [stoic] E83O2s6MldU — Por qué no te invitan
+
+- URL: https://youtu.be/E83O2s6MldU
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 32:3
+- Duração: 27.9s
+- Publicado em: 2026-09-21T14:37:57+00:00
