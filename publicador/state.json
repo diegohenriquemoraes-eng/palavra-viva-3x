@@ -1904,6 +1904,14 @@
           "video_id": "ggNdwA2IZdU",
           "titulo": "Salmo 73:25 — ¿A quién tengo yo en los cielos? | Biblia",
           "em": "2026-09-20T13:20:21+00:00"
+        },
+        {
+          "pacote": "2026-09-21-salmo-75-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "gsUsktjEt_g",
+          "titulo": "Salmos para Dormir — Salmo 75 Completo | Biblia Hablada",
+          "em": "2026-09-21T00:48:13+00:00"
         }
       ],
       "ultimo_short": "2026-09-20T13:20:21+00:00",
@@ -1911,12 +1919,12 @@
         "data": "2026-09-20",
         "n": 2
       },
-      "longo_data": "2026-09-20",
+      "longo_data": "2026-09-21",
       "longos_dia": {
-        "data": "2026-09-20",
-        "n": 2
+        "data": "2026-09-21",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-20T12:53:30+00:00"
+      "ultimo_longo": "2026-09-21T00:48:13+00:00"
     },
     "en": {
       "publicados": [
@@ -3733,11 +3741,19 @@
           "video_id": "t9XM4sjwem4",
           "titulo": "Salmos para Dormir — Salmo 74 Completo | Bíblia Falada",
           "em": "2026-09-20T13:15:00+00:00"
+        },
+        {
+          "pacote": "2026-09-21-salmo-75-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "ptDbYczA9Hc",
+          "titulo": "Salmo 75:1 — Louvamos a ti, ó Deus; louvamos | Bíblia",
+          "em": "2026-09-21T00:49:12+00:00"
         }
       ],
-      "ultimo_short": "2026-09-20T01:47:01+00:00",
+      "ultimo_short": "2026-09-21T00:49:12+00:00",
       "shorts_dia": {
-        "data": "2026-09-20",
+        "data": "2026-09-21",
         "n": 1
       },
       "longo_data": "2026-09-20",

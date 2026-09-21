@@ -4894,3 +4894,19 @@
 - Item: short-3 — Enquiridión 8:1
 - Duração: 21.1s
 - Publicado em: 2026-09-20T19:36:21+00:00
+
+## [es] gsUsktjEt_g — Salmos para Dormir — Salmo 75 Completo | Biblia Hablada
+
+- URL: https://youtu.be/gsUsktjEt_g
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 75
+- Duração: 1089.8s
+- Publicado em: 2026-09-21T00:48:13+00:00
+
+## [pt] ptDbYczA9Hc — Salmo 75:1 — Louvamos a ti, ó Deus; louvamos | Bíblia
+
+- URL: https://youtu.be/ptDbYczA9Hc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 75:1
+- Duração: 20.2s
+- Publicado em: 2026-09-21T00:49:12+00:00
