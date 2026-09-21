@@ -4918,3 +4918,19 @@
 - Item: short-1 — Salmo 75:1
 - Duração: 20.1s
 - Publicado em: 2026-09-21T01:19:34+00:00
+
+## [pt] GtsCMM1PrmA — Salmos para Dormir — Salmo 75 Completo | Bíblia Falada
+
+- URL: https://youtu.be/GtsCMM1PrmA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 75
+- Duração: 1146.1s
+- Publicado em: 2026-09-21T05:50:39+00:00
+
+## [stoic] d4mQ-1Y3HRY — La envidia explicada con lechugas
+
+- URL: https://youtu.be/d4mQ-1Y3HRY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 32:2
+- Duração: 22.8s
+- Publicado em: 2026-09-21T05:51:50+00:00

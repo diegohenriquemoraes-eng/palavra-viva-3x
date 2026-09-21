@@ -3757,6 +3757,14 @@
           "video_id": "ptDbYczA9Hc",
           "titulo": "Salmo 75:1 — Louvamos a ti, ó Deus; louvamos | Bíblia",
           "em": "2026-09-21T00:49:12+00:00"
+        },
+        {
+          "pacote": "2026-09-21-salmo-75-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "GtsCMM1PrmA",
+          "titulo": "Salmos para Dormir — Salmo 75 Completo | Bíblia Falada",
+          "em": "2026-09-21T05:50:39+00:00"
         }
       ],
       "ultimo_short": "2026-09-21T00:49:12+00:00",
@@ -3764,12 +3772,12 @@
         "data": "2026-09-21",
         "n": 1
       },
-      "longo_data": "2026-09-20",
+      "longo_data": "2026-09-21",
       "longos_dia": {
-        "data": "2026-09-20",
-        "n": 2
+        "data": "2026-09-21",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-20T13:15:00+00:00"
+      "ultimo_longo": "2026-09-21T05:50:39+00:00"
     },
     "stoic": {
       "publicados": [
@@ -4616,12 +4624,20 @@
           "video_id": "7GlB7YA3tp4",
           "titulo": "Ama sabiendo que es mortal",
           "em": "2026-09-20T19:36:21+00:00"
+        },
+        {
+          "pacote": "2026-09-21-el-precio-de-todo",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "d4mQ-1Y3HRY",
+          "titulo": "La envidia explicada con lechugas",
+          "em": "2026-09-21T05:51:50+00:00"
         }
       ],
-      "ultimo_short": "2026-09-20T19:36:21+00:00",
+      "ultimo_short": "2026-09-21T05:51:50+00:00",
       "shorts_dia": {
-        "data": "2026-09-20",
-        "n": 3
+        "data": "2026-09-21",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
