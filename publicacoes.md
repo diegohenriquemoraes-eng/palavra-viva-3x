@@ -4966,3 +4966,11 @@
 - Item: short-2 — Enquiridión 32:3
 - Duração: 27.9s
 - Publicado em: 2026-09-21T14:37:57+00:00
+
+## [stoic] iFsyCLtJGzI — Quién es dueño de verdad
+
+- URL: https://youtu.be/iFsyCLtJGzI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 21:1
+- Duração: 17.9s
+- Publicado em: 2026-09-21T19:38:52+00:00
