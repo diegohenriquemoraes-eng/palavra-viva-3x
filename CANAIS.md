@@ -6,7 +6,10 @@ Medição pela Graph API + insights no Chrome (9.509 seguidores → régua = 96 
 Reels "bons" de 17-20/09 ficaram em 55-72 curtidas (0,58-0,76 %): nenhum elegível. O mais perto é
 o de **20/09 "Vou ver mais um orçamento"** (72 curtidas em 24 h, 96 % não seguidores, 18 salvos,
 24,8 s assistidos, botão Turbinar disponível = sem música): se cruzar 96 até quinta 25/09, entra na
-fila. O de 18/09 "A medida qualquer um tira" (63) foi o que mais converteu seguidor orgânico (28).
+fila. O de 18/09 "A medida qualquer um tira" (63) foi o que mais converteu seguidor orgânico (28 em 1.345
+visualizadores, 2,1 %; o de 20/09 fez 6 em 2.007, 0,3 %): **se os dois cruzarem 96, o 18/09 vai na
+frente** — o filtro do 1 % é proxy de conversão, e aqui a conversão já está medida. Reler os dois na
+quinta 25/09. Pauta: visita técnica com história de obra é o assunto que converte seguidor.
 O **13/09 continua o único elegível** (220 curtidas no total, 2,3 %) e o botão "Turbinar este reel"
 ainda está lá: o 2º turbinar a R$ 30/dia recomendado em 19/09 **não foi feito** — clique do Diego.
 Conta sem anúncio desde 19/09: +10 seguidores em 2 dias (~5/dia).
