@@ -14,6 +14,12 @@ O **13/09 continua o único elegível** (220 curtidas no total, 2,3 %) e o botã
 ainda está lá: o 2º turbinar a R$ 30/dia recomendado em 19/09 **não foi feito** — clique do Diego.
 Conta sem anúncio desde 19/09: +10 seguidores em 2 dias (~5/dia).
 
+**Decisão do Diego (21/09): 2º turbinar do 13/09 a R$ 30/dia × 3 dias** (R$ 90 + impostos = R$ 102,45),
+público salvo "BR 35-54 setor esquadrias", visitas ao perfil. Formulário deixado pronto no Chrome
+(aba do Turbinar), clique final é dele. Dia 0 = **9.509 seguidores**. Recálculo pela fórmula da conta em
+**quarta 23/09 e sexta 25/09**: gasto ÷ (seguidores − 9.509); > R$ 0,80 pausa. Ele descartou R$ 6/dia
+× 30 dias (abaixo do degrau de escala, ilegível no ruído da conta, passa da saturação de ~01/10).
+
 ## 19/09/2026 (noite) — @vendanaobra: os 2 Reels turbinados encerraram; régua do Afonso lida
 
 R$ 119,32 em 3 dias (13/09 "alto padrão" e 16/09 "arquiteto/feira", R$ 20/dia cada, público
