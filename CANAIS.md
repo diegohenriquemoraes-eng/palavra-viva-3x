@@ -23,7 +23,21 @@ Conta sem anúncio desde 19/09: +10 seguidores em 2 dias (~5/dia).
 
 **Decisão do Diego (21/09): 2º turbinar do 13/09 a R$ 30/dia × 3 dias** (R$ 90 + impostos = R$ 102,45),
 público salvo "BR 35-54 setor esquadrias", visitas ao perfil. **Turbinado pelo Diego em 21/09 às 13:55 BRT**
-(anúncio "Em análise" na aba Anúncio dos insights do Reel; o de 16/09 consta como Concluído). Dia 0 = **9.509 seguidores**. Recálculo pela fórmula da conta em
+(anúncio "Em análise" na aba Anúncio dos insights do Reel; o de 16/09 consta como Concluído).
+**PAUSADO pelo Diego no celular ~1 h depois, com R$ 0 gastos** — ele quer os 3 dias no Reel de 20/09
+"Ele não quer preço, quer permissão" (`DdhunBYJ5n0`, media 18121125805911799). Instagram web não tem
+botão de pausar (só insights + Turbinar); o Gerenciador de Anúncios dá `(#1) Invalid request` e lista
+zero anúncios para `act_616093490791966` — pausar/retomar é pelo app do celular.
+
+**Análise do 20/09 (21/09 14:30 BRT, 18 h no ar)**: 82 curtidas (0,86 % de 9.517 → faltam 14 para o
+1 %), 3.069 views, 95 % não seguidores, 23 salvos, 16 shares, **11 seguidores**, 24,8 s assistidos em
+**59,8 s de vídeo** (41 %: acima dos 29 % que a conta faz nos de 30 s — 1 dado contra o teto de 30 s,
+não muda a regra ainda). Sem música (Turbinar disponível). **Sem CTA de seguir**: nem falado nem na
+legenda (fecha com pergunta + @, sem a linha de transformação) → 2 de 4 no crivo. Estratégia entregue:
+esperar cruzar 96 (ritmo: 72→82 em 4 h), editar a legenda no app com a linha da bio, e só então
+R$ 30/dia × 3 (dia 0 = seguidores na hora do clique). Transcrição em scratchpad; a ideia do vídeo
+("orçamento a mais = pedido de permissão; pergunta o que precisa estar lá pra te deixar tranquilo")
+é a pauta com maior salvamento do mês. Dia 0 = **9.509 seguidores**. Recálculo pela fórmula da conta em
 **quarta 23/09 e sexta 25/09**: gasto ÷ (seguidores − 9.509); > R$ 0,80 pausa. Ele descartou R$ 6/dia
 × 30 dias (abaixo do degrau de escala, ilegível no ruído da conta, passa da saturação de ~01/10).
 
