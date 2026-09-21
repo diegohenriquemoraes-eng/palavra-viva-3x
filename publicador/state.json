@@ -1407,7 +1407,8 @@
           "formato": "historia",
           "video_id": "A7LEjb9z38I",
           "titulo": "Gedeón y el Miedo — Jueces 6 y 7 | Historia bíblica narrada",
-          "em": "2026-09-06T01:11:37+00:00"
+          "em": "2026-09-06T01:11:37+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-06-gedeao-medo",
@@ -1423,7 +1424,8 @@
           "formato": "dormir",
           "video_id": "QTaY5k2XRqs",
           "titulo": "Salmos para Dormir — Salmo 14 Completo | Biblia Hablada",
-          "em": "2026-09-06T11:16:04+00:00"
+          "em": "2026-09-06T11:16:04+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-06-gedeao-medo",
@@ -1439,7 +1441,8 @@
           "formato": "historia",
           "video_id": "yNdW1vEIXqM",
           "titulo": "Los Diez Leprosos — Lucas 17 | Historia bíblica narrada",
-          "em": "2026-09-07T01:12:00+00:00"
+          "em": "2026-09-07T01:12:00+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-07-dez-leprosos",
@@ -1455,7 +1458,8 @@
           "formato": "dormir",
           "video_id": "afTOgmT2iPM",
           "titulo": "Salmos para Dormir — Salmo 18 Completo | Biblia Hablada",
-          "em": "2026-09-07T13:34:33+00:00"
+          "em": "2026-09-07T13:34:33+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-07-dez-leprosos",
@@ -1471,7 +1475,8 @@
           "formato": "tema",
           "video_id": "CHm7d3wqHJM",
           "titulo": "Setenta Veces Siete — Mateo 18 | Palabra de Dios sobre el Perdón",
-          "em": "2026-09-08T00:53:24+00:00"
+          "em": "2026-09-08T00:53:24+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-08-perdoar-setenta-vezes",
@@ -1895,7 +1900,8 @@
           "formato": "dormir",
           "video_id": "PAlCKpGJNxk",
           "titulo": "Salmos para Dormir — Salmo 74 Completo | Biblia Hablada",
-          "em": "2026-09-20T12:53:30+00:00"
+          "em": "2026-09-20T12:53:30+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-20-salmo-73-completo",
@@ -1911,7 +1917,8 @@
           "formato": "dormir",
           "video_id": "gsUsktjEt_g",
           "titulo": "Salmos para Dormir — Salmo 75 Completo | Biblia Hablada",
-          "em": "2026-09-21T00:48:13+00:00"
+          "em": "2026-09-21T00:48:13+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-21-salmo-75-completo",
@@ -1927,7 +1934,8 @@
           "formato": "dormir",
           "video_id": "2a_PjlKWO1o",
           "titulo": "Salmos para Dormir — Salmo 76 Completo | Biblia Hablada",
-          "em": "2026-09-21T11:39:35+00:00"
+          "em": "2026-09-21T11:39:35+00:00",
+          "capa": "v2-noite-16-09"
         }
       ],
       "ultimo_short": "2026-09-21T01:19:34+00:00",
@@ -2200,7 +2208,8 @@
           "video_id": "DjPNVP89TWc",
           "titulo": "Esforça-te e Tem Bom Ânimo — Josué 1 e Isaías 41 | Palavra Poderosa",
           "em": "2026-07-21T05:13:03+00:00",
-          "formato": "tema"
+          "formato": "tema",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-21-forca-coragem",
@@ -2229,7 +2238,8 @@
           "video_id": "UPtWyywV4OQ",
           "titulo": "Davi e Golias — A História Completa | 1 Samuel 17 Narrado",
           "em": "2026-07-22T05:13:21+00:00",
-          "formato": "historia"
+          "formato": "historia",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-22-davi-golias",
@@ -2251,7 +2261,8 @@
           "video_id": "NdUMX0MS5dY",
           "titulo": "O Amor de Deus — João 3, Romanos 8 e 1 Coríntios 13 | Bíblia Narrada",
           "em": "2026-07-23T04:34:02+00:00",
-          "formato": "tema"
+          "formato": "tema",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-23-amor-de-deus",
@@ -2280,7 +2291,8 @@
           "video_id": "_UxJ3g4ocDE",
           "titulo": "Não Andeis Ansiosos — Mateus 6 e Filipenses 4 | Paz para a Alma",
           "em": "2026-07-24T05:30:05+00:00",
-          "formato": "tema"
+          "formato": "tema",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-24-ansiedade-descanso",
@@ -2302,7 +2314,8 @@
           "video_id": "q0Ic3f6p31s",
           "titulo": "A Criação do Mundo — Gênesis 1 Completo | Bíblia Narrada",
           "em": "2026-07-25T02:36:57+00:00",
-          "formato": "historia"
+          "formato": "historia",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-25-genesis-criacao",
@@ -2331,7 +2344,8 @@
           "video_id": "chOevaKnC1o",
           "titulo": "Salmos para Descansar em Deus — Salmo 46, 62 e 63 | Bíblia para Dormir",
           "em": "2026-07-26T05:58:33+00:00",
-          "formato": "dormir"
+          "formato": "dormir",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-26-salmos-dormir-2",
@@ -2360,7 +2374,8 @@
           "video_id": "5aT0o986DIs",
           "titulo": "Deus Provê — Salmo 34 e Filipenses 4 | Promessas de Provisão",
           "em": "2026-07-27T06:08:24+00:00",
-          "formato": "tema"
+          "formato": "tema",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-27-provisao-gratidao",
@@ -2389,7 +2404,8 @@
           "video_id": "nYynmLfORZg",
           "titulo": "O Perdão de Deus — Salmo 51, 32 e o Filho Pródigo | Bíblia Narrada",
           "em": "2026-07-28T05:23:05+00:00",
-          "formato": "tema"
+          "formato": "tema",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-28-perdao-restauracao",
@@ -2411,7 +2427,8 @@
           "video_id": "KGW8XfQYN_4",
           "titulo": "Salmos de Paz para a Noite — Salmo 139, 84 e 61 | Bíblia para Dormir",
           "em": "2026-07-29T05:42:32+00:00",
-          "formato": "dormir"
+          "formato": "dormir",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-29-salmos-dormir-3",
@@ -2440,7 +2457,8 @@
           "video_id": "SCzvCcuvH-k",
           "titulo": "Noé e a Arca — A História Completa | Gênesis 6 a 9 Narrado",
           "em": "2026-07-30T05:01:00+00:00",
-          "formato": "historia"
+          "formato": "historia",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-30-noe-arca",
@@ -2469,7 +2487,8 @@
           "video_id": "ICt5RIaX8Sk",
           "titulo": "O Sermão da Montanha — Mateus 5, 6 e 7 | As Palavras de Jesus",
           "em": "2026-07-31T05:57:38+00:00",
-          "formato": "tema"
+          "formato": "tema",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-07-31-sermao-montanha",
@@ -2498,7 +2517,8 @@
           "video_id": "HBEGm2dDK30",
           "titulo": "Consolo na Dor — Salmo 42 e Lamentações 3 | Palavra de Paz",
           "em": "2026-08-01T05:35:26+00:00",
-          "formato": "tema"
+          "formato": "tema",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-01-esperanca-luto",
@@ -2527,7 +2547,8 @@
           "video_id": "qx--V3FMrhI",
           "titulo": "Daniel na Cova dos Leões — Daniel 6 e a Fornalha de Fogo",
           "em": "2026-08-02T05:27:05+00:00",
-          "formato": "historia"
+          "formato": "historia",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-02-daniel-leoes",
@@ -3756,7 +3777,8 @@
           "formato": "dormir",
           "video_id": "t9XM4sjwem4",
           "titulo": "Salmos para Dormir — Salmo 74 Completo | Bíblia Falada",
-          "em": "2026-09-20T13:15:00+00:00"
+          "em": "2026-09-20T13:15:00+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-21-salmo-75-completo",
@@ -3772,7 +3794,8 @@
           "formato": "dormir",
           "video_id": "GtsCMM1PrmA",
           "titulo": "Salmos para Dormir — Salmo 75 Completo | Bíblia Falada",
-          "em": "2026-09-21T05:50:39+00:00"
+          "em": "2026-09-21T05:50:39+00:00",
+          "capa": "v2-noite-16-09"
         }
       ],
       "ultimo_short": "2026-09-21T00:49:12+00:00",
