@@ -5046,3 +5046,11 @@
 - Item: longo — Salmo 79
 - Duração: 1733.4s
 - Publicado em: 2026-09-22T15:34:39+00:00
+
+## [stoic] HUMD8VDs-qs — Describe, no califiques
+
+- URL: https://youtu.be/HUMD8VDs-qs
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 67:1
+- Duração: 19.6s
+- Publicado em: 2026-09-22T19:24:39+00:00
