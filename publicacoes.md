@@ -4990,3 +4990,11 @@
 - Item: short-1 — Salmo 78:38
 - Duração: 16.5s
 - Publicado em: 2026-09-22T00:51:23+00:00
+
+## [es] PY8C9dvBu_s — Salmo 78:38 — Empero él misericordioso, perdonaba la maldad | Biblia
+
+- URL: https://youtu.be/PY8C9dvBu_s
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 78:38
+- Duração: 26.0s
+- Publicado em: 2026-09-22T01:42:56+00:00
