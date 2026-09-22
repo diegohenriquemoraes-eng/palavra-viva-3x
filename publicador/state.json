@@ -3836,6 +3836,14 @@
           "video_id": "64M7Z-sGQao",
           "titulo": "Salmo 78:38 — Porém ele, sendo misericordioso, perdoava a maldade | Bíblia",
           "em": "2026-09-22T00:51:23+00:00"
+        },
+        {
+          "pacote": "2026-09-22-salmo-78-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "STaCivLh6nI",
+          "titulo": "Salmos para Dormir — Salmo 78 Completo | Bíblia Falada",
+          "em": "2026-09-22T06:13:35+00:00"
         }
       ],
       "ultimo_short": "2026-09-22T00:51:23+00:00",
@@ -3843,12 +3851,12 @@
         "data": "2026-09-22",
         "n": 1
       },
-      "longo_data": "2026-09-21",
+      "longo_data": "2026-09-22",
       "longos_dia": {
-        "data": "2026-09-21",
-        "n": 2
+        "data": "2026-09-22",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-21T14:36:36+00:00"
+      "ultimo_longo": "2026-09-22T06:13:35+00:00"
     },
     "stoic": {
       "publicados": [
@@ -4719,12 +4727,20 @@
           "video_id": "iFsyCLtJGzI",
           "titulo": "Quién es dueño de verdad",
           "em": "2026-09-21T19:38:52+00:00"
+        },
+        {
+          "pacote": "2026-09-22-las-dos-asas",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "t5kYBVFAyOc",
+          "titulo": "Todo tiene dos asas",
+          "em": "2026-09-22T06:14:45+00:00"
         }
       ],
-      "ultimo_short": "2026-09-21T19:38:52+00:00",
+      "ultimo_short": "2026-09-22T06:14:45+00:00",
       "shorts_dia": {
-        "data": "2026-09-21",
-        "n": 3
+        "data": "2026-09-22",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

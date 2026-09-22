@@ -4998,3 +4998,19 @@
 - Item: short-1 — Salmo 78:38
 - Duração: 26.0s
 - Publicado em: 2026-09-22T01:42:56+00:00
+
+## [pt] STaCivLh6nI — Salmos para Dormir — Salmo 78 Completo | Bíblia Falada
+
+- URL: https://youtu.be/STaCivLh6nI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 78
+- Duração: 3994.0s
+- Publicado em: 2026-09-22T06:13:35+00:00
+
+## [stoic] t5kYBVFAyOc — Todo tiene dos asas
+
+- URL: https://youtu.be/t5kYBVFAyOc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 65:1
+- Duração: 26.2s
+- Publicado em: 2026-09-22T06:14:45+00:00
