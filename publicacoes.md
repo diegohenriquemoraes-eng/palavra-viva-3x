@@ -4974,3 +4974,19 @@
 - Item: short-3 — Enquiridión 21:1
 - Duração: 17.9s
 - Publicado em: 2026-09-21T19:38:52+00:00
+
+## [es] 70W6x094Nhw — Salmos para Dormir — Salmo 78 Completo | Biblia Hablada
+
+- URL: https://youtu.be/70W6x094Nhw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 78
+- Duração: 3757.1s
+- Publicado em: 2026-09-22T00:50:46+00:00
+
+## [pt] 64M7Z-sGQao — Salmo 78:38 — Porém ele, sendo misericordioso, perdoava a maldade | Bíblia
+
+- URL: https://youtu.be/64M7Z-sGQao
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 78:38
+- Duração: 16.5s
+- Publicado em: 2026-09-22T00:51:23+00:00
