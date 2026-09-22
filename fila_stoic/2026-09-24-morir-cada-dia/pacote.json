@@ -1,0 +1,193 @@
+{
+  "slug": "morir-cada-dia",
+  "formato": "dormir",
+  "data": "2026-09-24",
+  "criado_em": "2026-09-22T05:00:33+00:00",
+  "aprovado_em": "2026-09-22T05:00:33+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 3:1-42",
+      "Meditaciones 4:1-75"
+    ],
+    "titulo": {
+      "stoic": "Meditaciones para Dormir — Libros III y IV | Marco Aurelio"
+    },
+    "thumb_titulo": {
+      "stoic": "MEDITACIONES\nIII Y IV"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, para dormir"
+    },
+    "abertura": {
+      "stoic": "Los libros tercero y cuarto de las Meditaciones. Marco Aurelio los escribió en campaña, de noche, recordándose que Hipócrates, Alejandro y Sócrates murieron igual que cualquiera."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones",
+        "para dormir",
+        "estoicismo",
+        "muerte estoica"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "Los libros III y IV de las Meditaciones de Marco Aurelio, narrados en español para dormir."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Joshua_Tree_Milky_Way.jpg/1920px-Joshua_Tree_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Benjamin Inouye",
+        "origem": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg/1920px-5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Brainandforce",
+        "origem": "https://commons.wikimedia.org/wiki/File:5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/1920px-Milky_Way_IR_Spitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Moon_and_clouds_over_Brofjorden_6.jpg/1920px-Moon_and_clouds_over_Brofjorden_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_6.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pink_clouds_and_moon%2C_Ehrenbach.jpg/1920px-Pink_clouds_and_moon%2C_Ehrenbach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Gerda Arendt",
+        "origem": "https://commons.wikimedia.org/wiki/File:Pink_clouds_and_moon,_Ehrenbach.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Moon_and_clouds_over_Brofjorden_7.jpg/1920px-Moon_and_clouds_over_Brofjorden_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_7.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 3:8/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El médico también murió"
+      },
+      "aplicacao": "Saber mucho de la muerte no te exime de ella.",
+      "gancho": {
+        "stoic": "El médico también se murió."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Maid_with_burning_candle_%281839%29%2C_PA06579.jpg/1920px-Maid_with_burning_candle_%281839%29%2C_PA06579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pierre Louis Dubourcq",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maid_with_burning_candle_(1839),_PA06579.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 3:8/5",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Cómo murieron los sabios"
+      },
+      "aplicacao": "Ni la sabiduría elige su final. Elige cómo llegar a él.",
+      "gancho": {
+        "stoic": "Cómo murieron los sabios, según un emperador."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/F%C3%ADt%C3%ADl%C3%A0_%28clay_lamp%29.jpg/1920px-F%C3%ADt%C3%ADl%C3%A0_%28clay_lamp%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MubarakahSidiq",
+        "origem": "https://commons.wikimedia.org/wiki/File:F%C3%ADt%C3%ADl%C3%A0_(clay_lamp).jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:15/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Tú y tu enemigo, la misma fecha"
+      },
+      "aplicacao": "La pelea dura menos que el olvido de los dos.",
+      "gancho": {
+        "stoic": "Tú y tu enemigo tienen la misma fecha."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 10:61/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Alguien se alegrará en tu funeral"
+      },
+      "aplicacao": "Vive de modo que sean pocos, no de modo que no exista ninguno.",
+      "gancho": {
+        "stoic": "En tu funeral alguien se va a alegrar."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "John Bauer",
+        "origem": "https://commons.wikimedia.org/wiki/File:John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
