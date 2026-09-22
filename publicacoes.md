@@ -5022,3 +5022,19 @@
 - Item: longo — Salmo 79
 - Duração: 1710.1s
 - Publicado em: 2026-09-22T10:50:22+00:00
+
+## [es] z4zjfBba0dY — Salmo 78:39 — Y acordóse que eran carne; soplo | Biblia
+
+- URL: https://youtu.be/z4zjfBba0dY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 78:39
+- Duração: 14.0s
+- Publicado em: 2026-09-22T13:32:50+00:00
+
+## [stoic] fIv6dJLWVC8 — El que te ataca cree tener razón
+
+- URL: https://youtu.be/fIv6dJLWVC8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 64:1
+- Duração: 16.1s
+- Publicado em: 2026-09-22T13:33:52+00:00

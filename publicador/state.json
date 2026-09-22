@@ -1976,12 +1976,20 @@
           "titulo": "Salmos para Dormir — Salmo 79 Completo | Biblia Hablada",
           "em": "2026-09-22T10:50:22+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-22-salmo-78-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "z4zjfBba0dY",
+          "titulo": "Salmo 78:39 — Y acordóse que eran carne; soplo | Biblia",
+          "em": "2026-09-22T13:32:50+00:00"
         }
       ],
-      "ultimo_short": "2026-09-22T01:42:56+00:00",
+      "ultimo_short": "2026-09-22T13:32:50+00:00",
       "shorts_dia": {
         "data": "2026-09-22",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-22",
       "longos_dia": {
@@ -4753,12 +4761,20 @@
           "video_id": "t5kYBVFAyOc",
           "titulo": "Todo tiene dos asas",
           "em": "2026-09-22T06:14:45+00:00"
+        },
+        {
+          "pacote": "2026-09-22-las-dos-asas",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "fIv6dJLWVC8",
+          "titulo": "El que te ataca cree tener razón",
+          "em": "2026-09-22T13:33:52+00:00"
         }
       ],
-      "ultimo_short": "2026-09-22T06:14:45+00:00",
+      "ultimo_short": "2026-09-22T13:33:52+00:00",
       "shorts_dia": {
         "data": "2026-09-22",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
