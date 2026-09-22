@@ -7,6 +7,26 @@
 > Claude na nuvem escreve `O que funciona - <território> (síntese mensal)`. Antes de qualquer
 > sessão de conteúdo: ler a síntese no cérebro. Detalhe: nota `Inventário mensal dos canais`.
 
+## 22/09/2026 — GTA 6: o motor está CONSTRUÍDO, faltam as contas do Diego
+
+Canal novo da casa (o 7º), em `Projetos\gta6-canais`: YouTube (3 Shorts + 1 longo/dia),
+Instagram (5 cartões + 1 story/dia) e TikTok (espelho), sobre o lançamento de GTA 6 em
+**19/11/2026**, monetizando por afiliado da Shopee na bio. Motor clonado do Palavra-Viva-3x e
+podado; o cartão do Instagram é a réplica da mecânica do ViceScale (a ferramenta de R$ 97,90 que
+**não** foi assinada), com a fonte do material trocada pelo que a Rockstar libera.
+
+- **81 testes verdes**, sem rede. Renderizados e conferidos: Short de contagem regressiva (19,9 s),
+  cartão nos 3 layouts e cartão de foto da galeria oficial com zoom lento + trilha procedural.
+- **Nada está no ar**: falta o Diego criar conta Google nova, canal, projeto Cloud, token,
+  Instagram + Página do Facebook, Zernio e os links da Shopee (~2 h, `PENDENCIAS-DIEGO.md`),
+  e **tornar o repo público antes de ligar o cron** (repo privado dá 2.000 min/mês de Actions).
+- Três aprendizados que valem para os outros canais: longo de compilação **não pode consumir o
+  poço** (vira compilação temática rotativa); **material de divulgação oficial resolve acervo**
+  (a galeria da Rockstar, 306 imagens, virou fonte de cartão e levou o acervo de 28 para 190
+  cenas); e a trava de repetição certa é do **arquivo**, não da legenda.
+- Estado vivo em `Projetos\gta6-canais\RETOMAR.md`; cérebro em
+  `50 Canais e Automações\GTA 6 - canais automáticos`.
+
 ## 22/09/2026 — o conteúdo do Canteiro virou CONSTRUÇÃO INTEIRA (30 dias novos)
 
 Decisão do Diego, fechando a pendência aberta desde 14/08 ("nicho estreito de esquadria ou
