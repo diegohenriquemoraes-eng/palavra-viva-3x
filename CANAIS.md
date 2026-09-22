@@ -7,6 +7,28 @@
 > Claude na nuvem escreve `O que funciona - <território> (síntese mensal)`. Antes de qualquer
 > sessão de conteúdo: ler a síntese no cérebro. Detalhe: nota `Inventário mensal dos canais`.
 
+## 22/09/2026 — o conteúdo do Canteiro virou CONSTRUÇÃO INTEIRA (30 dias novos)
+
+Decisão do Diego, fechando a pendência aberta desde 14/08 ("nicho estreito de esquadria ou
+construção inteira?"): **construção inteira**. Os 4 dias que restavam (22 a 25/09) foram
+refeitos e o ciclo do Canteiro vai até **21/10** — 30 dias.
+
+- Pauta: **marketing, vendas e posicionamento**. Instalação saiu. Vocabulário técnico de
+  esquadria (perfil, espessura de vidro, nome de linha) fora do texto.
+- O Reel da manhã deixou de ser "história da Fesqua" e virou **história com número** — caso
+  real da operação, contado pelo Diego. É o formato que a síntese mensal do cérebro mediu como
+  o que mais entrega (mediana 485 contra 125 dos demais Reels maduros). Número redondo, sem
+  nome de cliente.
+- Quantidade e formato inalterados: 1 carrossel 12h30 (8 slides, capa ≤ 8 palavras), 2 Reels
+  (07h30 e 19h30, ≤ 30 s, sem música) e 4 stories. Reset quarta e sexta; terça a oferta do
+  último story é o Venda 10x.
+- Dois ajustes no app: saiu o botão **"Copiar gancho + CTA (teleprompter)"** (o CTA passou para
+  dentro do "Roteiro completo", senão sumiria) e **"Copiar a frase da tela"** nos cartões com
+  enquete passou a copiar só a frase base — antes vinha a frase, a pergunta e as opções juntas.
+- `.ics` do calendário regerado e carrosséis exportados. Detalhe da rodada em
+  `Projetos\canteiro-stories\CLAUDE.md`; decisão refletida no Cérebro
+  (`Instagram @vendanaobra`, `O que funciona - Venda na Obra`).
+
 ## 21/09/2026 — @vendanaobra: nenhum Reel novo passa no 1 % ainda; o 13/09 segue sem o 2º turbinar
 
 Medição pela Graph API + insights no Chrome (9.509 seguidores → régua = 96 curtidas). Os quatro
