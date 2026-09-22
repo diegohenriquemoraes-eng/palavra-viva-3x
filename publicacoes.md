@@ -5038,3 +5038,11 @@
 - Item: short-2 — Enquiridión 64:1
 - Duração: 16.1s
 - Publicado em: 2026-09-22T13:33:52+00:00
+
+## [pt] bnSNGRww980 — Salmos para Dormir — Salmo 79 Completo | Bíblia Falada
+
+- URL: https://youtu.be/bnSNGRww980
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 79
+- Duração: 1733.4s
+- Publicado em: 2026-09-22T15:34:39+00:00

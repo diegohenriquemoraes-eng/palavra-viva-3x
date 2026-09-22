@@ -3870,6 +3870,14 @@
           "titulo": "Salmos para Dormir — Salmo 78 Completo | Bíblia Falada",
           "em": "2026-09-22T06:13:35+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-22-salmo-79-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "bnSNGRww980",
+          "titulo": "Salmos para Dormir — Salmo 79 Completo | Bíblia Falada",
+          "em": "2026-09-22T15:34:39+00:00"
         }
       ],
       "ultimo_short": "2026-09-22T00:51:23+00:00",
@@ -3880,9 +3888,9 @@
       "longo_data": "2026-09-22",
       "longos_dia": {
         "data": "2026-09-22",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-22T06:13:35+00:00"
+      "ultimo_longo": "2026-09-22T15:34:39+00:00"
     },
     "stoic": {
       "publicados": [
