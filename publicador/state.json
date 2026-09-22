@@ -1960,6 +1960,14 @@
           "video_id": "PY8C9dvBu_s",
           "titulo": "Salmo 78:38 — Empero él misericordioso, perdonaba la maldad | Biblia",
           "em": "2026-09-22T01:42:56+00:00"
+        },
+        {
+          "pacote": "2026-09-22-salmo-79-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "iCmQH7DvbO4",
+          "titulo": "Salmos para Dormir — Salmo 79 Completo | Biblia Hablada",
+          "em": "2026-09-22T10:50:22+00:00"
         }
       ],
       "ultimo_short": "2026-09-22T01:42:56+00:00",
@@ -1970,9 +1978,9 @@
       "longo_data": "2026-09-22",
       "longos_dia": {
         "data": "2026-09-22",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-22T00:50:46+00:00"
+      "ultimo_longo": "2026-09-22T10:50:22+00:00"
     },
     "en": {
       "publicados": [

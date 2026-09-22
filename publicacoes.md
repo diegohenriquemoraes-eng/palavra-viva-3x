@@ -5014,3 +5014,11 @@
 - Item: short-1 — Enquiridión 65:1
 - Duração: 26.2s
 - Publicado em: 2026-09-22T06:14:45+00:00
+
+## [es] iCmQH7DvbO4 — Salmos para Dormir — Salmo 79 Completo | Biblia Hablada
+
+- URL: https://youtu.be/iCmQH7DvbO4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 79
+- Duração: 1710.1s
+- Publicado em: 2026-09-22T10:50:22+00:00
