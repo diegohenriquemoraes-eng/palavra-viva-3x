@@ -7,7 +7,7 @@
 > Claude na nuvem escreve `O que funciona - <território> (síntese mensal)`. Antes de qualquer
 > sessão de conteúdo: ler a síntese no cérebro. Detalhe: nota `Inventário mensal dos canais`.
 
-## 22/09/2026 — GTA 6: o motor está CONSTRUÍDO, faltam as contas do Diego
+## 23/09/2026 — GTA 6: NO AR nas duas redes, publicando sozinho
 
 Canal novo da casa (o 7º), em `Projetos\gta6-canais`: YouTube (3 Shorts + 1 longo/dia),
 Instagram (5 cartões + 1 story/dia) e TikTok (espelho), sobre o lançamento de GTA 6 em
@@ -15,15 +15,25 @@ Instagram (5 cartões + 1 story/dia) e TikTok (espelho), sobre o lançamento de 
 podado; o cartão do Instagram é a réplica da mecânica do ViceScale (a ferramenta de R$ 97,90 que
 **não** foi assinada), com a fonte do material trocada pelo que a Rockstar libera.
 
-- **81 testes verdes**, sem rede. Renderizados e conferidos: Short de contagem regressiva (19,9 s),
-  cartão nos 3 layouts e cartão de foto da galeria oficial com zoom lento + trilha procedural.
-- **Nada está no ar**: falta o Diego criar conta Google nova, canal, projeto Cloud, token,
-  Instagram + Página do Facebook, Zernio e os links da Shopee (~2 h, `PENDENCIAS-DIEGO.md`),
-  e **tornar o repo público antes de ligar o cron** (repo privado dá 2.000 min/mês de Actions).
-- Três aprendizados que valem para os outros canais: longo de compilação **não pode consumir o
-  poço** (vira compilação temática rotativa); **material de divulgação oficial resolve acervo**
-  (a galeria da Rockstar, 306 imagens, virou fonte de cartão e levou o acervo de 28 para 190
-  cenas); e a trava de repetição certa é do **arquivo**, não da legenda.
+- **NO AR desde a madrugada de 23/09**, do render ao upload, sem PC ligado:
+  YouTube https://youtu.be/evMAZGzD5fY · Instagram https://www.instagram.com/reel/18209930776368705/
+- **84 testes verdes**, sem rede. Falta só o TikTok (conta business + Zernio) e dois campos do
+  Instagram que só o app do celular edita: nome de exibição e link da bio.
+- Aprendizados que valem para os outros canais da casa:
+  - longo de compilação **não pode consumir o poço** (vira compilação temática rotativa);
+  - **material de divulgação oficial resolve acervo** (a galeria da Rockstar, 308 imagens, virou
+    fonte de cartão e levou o acervo de 28 para 190 cenas);
+  - a trava de repetição certa é do **arquivo**, não da legenda;
+  - **app OAuth em "Testando" mata o canal em 7 dias**, e para publicá-lo o console exige
+    política e termos num domínio pré-registrado — **GitHub Pages do próprio repo** resolve,
+    sem servidor nem DNS;
+  - **se o CI não pode baixar a mídia, hospede a mídia onde o CI alcança**: o yt-dlp leva
+    "Sign in to confirm you're not a bot" em IP de datacenter, e a saída foi empacotar trailers
+    + galeria reduzida a 1080 px (110 MB) num asset de Release público;
+  - **o `GITHUB_TOKEN` do Actions escreve só no repo que o executa** — ler de outro repo público
+    é livre, escrever devolve exit 1 sem explicação;
+  - **poço de conteúdo tem data de validade e ela precisa passar do evento**: 150 fatos secavam
+    em 08/11 com o jogo saindo em 19/11. Ampliado para **218**, cobre até ~01/12.
 - Estado vivo em `Projetos\gta6-canais\RETOMAR.md`; cérebro em
   `50 Canais e Automações\GTA 6 - canais automáticos`.
 
