@@ -5054,3 +5054,19 @@
 - Item: short-3 — Enquiridión 67:1
 - Duração: 19.6s
 - Publicado em: 2026-09-22T19:24:39+00:00
+
+## [es] zu0spCCS0p0 — Salmos para Dormir — Salmo 80 Completo | Biblia Hablada
+
+- URL: https://youtu.be/zu0spCCS0p0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 80
+- Duração: 2045.0s
+- Publicado em: 2026-09-23T01:07:25+00:00
+
+## [pt] L7UewEQzdxM — Salmo 80:3 — Restaura-nos, Deus, e faz brilhar o teu | Bíblia
+
+- URL: https://youtu.be/L7UewEQzdxM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 80:3
+- Duração: 17.0s
+- Publicado em: 2026-09-23T01:08:26+00:00
