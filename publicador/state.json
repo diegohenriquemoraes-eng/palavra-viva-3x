@@ -1231,7 +1231,8 @@
           "formato": "historia",
           "video_id": "ONCva7EOmfQ",
           "titulo": "Pablo y Silas en la Cárcel — Hechos 16 | Historia bíblica",
-          "em": "2026-08-31T00:04:37+00:00"
+          "em": "2026-08-31T00:04:37+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-31-salmo-6-completo",
@@ -1239,7 +1240,8 @@
           "formato": "dormir",
           "video_id": "VJnf6d6-vho",
           "titulo": "Salmos para Dormir — Salmo 6 Completo | Biblia Hablada",
-          "em": "2026-08-31T14:47:36+00:00"
+          "em": "2026-08-31T14:47:36+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-31-paulo-silas-prisao",
@@ -1255,7 +1257,8 @@
           "formato": "historia",
           "video_id": "k-2eix8A43c",
           "titulo": "Rut y Noemí — Rut 1 | Historia bíblica narrada",
-          "em": "2026-09-01T00:15:41+00:00"
+          "em": "2026-09-01T00:15:41+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-01-salmo-7-completo",
@@ -1263,7 +1266,8 @@
           "formato": "dormir",
           "video_id": "3X3jISf4uWc",
           "titulo": "Salmos para Dormir — Salmo 7 Completo | Biblia Hablada",
-          "em": "2026-09-01T11:06:11+00:00"
+          "em": "2026-09-01T11:06:11+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-01-rute-noemi",
@@ -1287,7 +1291,8 @@
           "formato": "dormir",
           "video_id": "iHDG9AM6sVc",
           "titulo": "Salmos para Dormir — Salmo 9 Completo | Biblia Hablada",
-          "em": "2026-09-02T02:22:41+00:00"
+          "em": "2026-09-02T02:22:41+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-02-zaqueu",
@@ -1295,7 +1300,8 @@
           "formato": "historia",
           "video_id": "-eL2qgeSzW4",
           "titulo": "Zaqueo y el Sicómoro — Lucas 19 | Historia bíblica narrada",
-          "em": "2026-09-02T11:53:52+00:00"
+          "em": "2026-09-02T11:53:52+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-02-salmo-9-completo",
@@ -1991,7 +1997,8 @@
           "formato": "dormir",
           "video_id": "zu0spCCS0p0",
           "titulo": "Salmos para Dormir — Salmo 80 Completo | Biblia Hablada",
-          "em": "2026-09-23T01:07:25+00:00"
+          "em": "2026-09-23T01:07:25+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-23-salmo-80-completo",
@@ -2007,7 +2014,8 @@
           "formato": "dormir",
           "video_id": "LBcC7FDys7c",
           "titulo": "Salmos para Dormir — Salmo 81 Completo | Biblia Hablada",
-          "em": "2026-09-23T12:07:51+00:00"
+          "em": "2026-09-23T12:07:51+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-23-salmo-80-completo",
@@ -3909,7 +3917,8 @@
           "formato": "dormir",
           "video_id": "bnSNGRww980",
           "titulo": "Salmos para Dormir — Salmo 79 Completo | Bíblia Falada",
-          "em": "2026-09-22T15:34:39+00:00"
+          "em": "2026-09-22T15:34:39+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-23-salmo-80-completo",
@@ -3925,7 +3934,8 @@
           "formato": "dormir",
           "video_id": "Zod_CyUugM4",
           "titulo": "Salmos para Dormir — Salmo 80 Completo | Bíblia Falada",
-          "em": "2026-09-23T06:34:08+00:00"
+          "em": "2026-09-23T06:34:08+00:00",
+          "capa": "v2-noite-16-09"
         }
       ],
       "ultimo_short": "2026-09-23T01:08:26+00:00",
