@@ -5126,3 +5126,11 @@
 - Item: longo — Salmo 81
 - Duração: 1773.1s
 - Publicado em: 2026-09-23T17:36:20+00:00
+
+## [stoic] CmFJNnFtjAA — Se van a burlar, está previsto
+
+- URL: https://youtu.be/CmFJNnFtjAA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 30:1
+- Duração: 23.8s
+- Publicado em: 2026-09-23T20:35:48+00:00
