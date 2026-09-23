@@ -5078,3 +5078,19 @@
 - Item: short-1 — Salmo 80:3
 - Duração: 18.2s
 - Publicado em: 2026-09-23T01:10:14+00:00
+
+## [pt] Zod_CyUugM4 — Salmos para Dormir — Salmo 80 Completo | Bíblia Falada
+
+- URL: https://youtu.be/Zod_CyUugM4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 80
+- Duração: 2129.8s
+- Publicado em: 2026-09-23T06:34:08+00:00
+
+## [stoic] UqmhVamnPlI — El papel que te tocó
+
+- URL: https://youtu.be/UqmhVamnPlI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 24:1
+- Duração: 31.4s
+- Publicado em: 2026-09-23T06:35:31+00:00
