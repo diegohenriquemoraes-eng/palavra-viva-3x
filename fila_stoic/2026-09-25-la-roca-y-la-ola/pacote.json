@@ -1,0 +1,192 @@
+{
+  "slug": "la-roca-y-la-ola",
+  "formato": "dormir",
+  "data": "2026-09-25",
+  "criado_em": "2026-09-23T04:48:38+00:00",
+  "aprovado_em": "2026-09-23T04:48:38+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 8:1-72"
+    ],
+    "titulo": {
+      "stoic": "Meditaciones para Dormir — Libro VIII | Marco Aurelio"
+    },
+    "thumb_titulo": {
+      "stoic": "LA ROCA\nY LA OLA"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VIII"
+    },
+    "abertura": {
+      "stoic": "El libro octavo de las Meditaciones es el del promontorio: la roca contra la que rompe el mar y sigue en su sitio. Marco Aurelio se lo escribía a sí mismo en las noches malas."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones",
+        "para dormir",
+        "estoicismo",
+        "calma"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro VIII de las Meditaciones de Marco Aurelio, narrado en español para dormir."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Busan_fishing_harbor_at_night_18.jpg/1920px-Busan_fishing_harbor_at_night_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_18.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Busan_fishing_harbor_at_night_5.jpg/1920px-Busan_fishing_harbor_at_night_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_5.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Norra_Grundsund_harbor_at_night.jpg/1920px-Norra_Grundsund_harbor_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Norra_Grundsund_harbor_at_night.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Honolulu_Harbor_at_Night_%2821185779400%29.jpg/1920px-Honolulu_Harbor_at_Night_%2821185779400%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daniel Ramirez from Honolulu, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Honolulu_Harbor_at_Night_(21185779400).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Busan_fishing_harbor_at_night_7.jpg/1920px-Busan_fishing_harbor_at_night_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_7.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Ivan_Konstantinovich_Aivazovsky_-_A_Moonlit_Night_at_Sea%2C_1885.jpg/1920px-Ivan_Konstantinovich_Aivazovsky_-_A_Moonlit_Night_at_Sea%2C_1885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ivan Aivazovsky",
+        "origem": "https://commons.wikimedia.org/wiki/File:Ivan_Konstantinovich_Aivazovsky_-_A_Moonlit_Night_at_Sea,_1885.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Andaman_Islands%2C_Full_moon_night%2C_Forest_by_the_sea_at_night.jpg/1920px-Andaman_Islands%2C_Full_moon_night%2C_Forest_by_the_sea_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Andaman_Islands,_Full_moon_night,_Forest_by_the_sea_at_night.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/The_Black_Sea_at_night_-_panoramio.jpg/1920px-The_Black_Sea_at_night_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexey Komarov",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Black_Sea_at_night_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Aivazovsky_-_Sea_coast_at_night._Near_the_beacon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Ivan Aivazovsky",
+        "origem": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Sea_coast_at_night._Near_the_beacon.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 4:70/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Sé la roca, no la ola"
+      },
+      "aplicacao": "La ola hace ruido. La roca sigue ahí mañana.",
+      "gancho": {
+        "stoic": "Sé la roca, no la ola."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Black_Sea_at_night_-_panoramio_%282%29.jpg/1920px-The_Black_Sea_at_night_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexey Komarov",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Black_Sea_at_night_-_panoramio_(2).jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 5:41/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Doce palabras para el peor día"
+      },
+      "aplicacao": "Lo que llegó, llegó a tu medida. Aunque hoy no lo parezca.",
+      "gancho": {
+        "stoic": "Doce palabras para el peor día."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:52/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El interruptor está de tu lado"
+      },
+      "aplicacao": "No puedes apagar el hecho. Sí el juicio. Y el juicio era el dolor.",
+      "gancho": {
+        "stoic": "El interruptor está de tu lado."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/A_Woman_with_a_Burning_Candle_%28Alexander_Laur%C3%A9us%29_-_Nationalmuseum_-_18220.tif/lossy-page1-1920px-A_Woman_with_a_Burning_Candle_%28Alexander_Laur%C3%A9us%29_-_Nationalmuseum_-_18220.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Aleksander Lauréus",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_Woman_with_a_Burning_Candle_(Alexander_Laur%C3%A9us)_-_Nationalmuseum_-_18220.tif",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:60/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Pueden hacerte todo, menos esto"
+      },
+      "aplicacao": "Lo que no te pueden quitar es lo único que decide quién eres.",
+      "gancho": {
+        "stoic": "Pueden hacerte todo, menos esto."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
