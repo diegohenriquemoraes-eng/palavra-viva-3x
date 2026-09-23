@@ -7,7 +7,7 @@
 > Claude na nuvem escreve `O que funciona - <território> (síntese mensal)`. Antes de qualquer
 > sessão de conteúdo: ler a síntese no cérebro. Detalhe: nota `Inventário mensal dos canais`.
 
-## 23/09/2026 — GTA 6: NO AR nas duas redes, publicando sozinho
+## 23/09/2026 — GTA 6: NO AR nas três redes, publicando sozinho
 
 Canal novo da casa (o 7º), em `Projetos\gta6-canais`: YouTube (3 Shorts + 1 longo/dia),
 Instagram (5 cartões + 1 story/dia) e TikTok (espelho), sobre o lançamento de GTA 6 em
@@ -15,10 +15,11 @@ Instagram (5 cartões + 1 story/dia) e TikTok (espelho), sobre o lançamento de 
 podado; o cartão do Instagram é a réplica da mecânica do ViceScale (a ferramenta de R$ 97,90 que
 **não** foi assinada), com a fonte do material trocada pelo que a Rockstar libera.
 
-- **NO AR desde a madrugada de 23/09**, do render ao upload, sem PC ligado:
+- **NO AR desde 23/09**, do render ao upload, sem PC ligado:
   YouTube https://youtu.be/evMAZGzD5fY · Instagram https://www.instagram.com/reel/18209930776368705/
-- **84 testes verdes**, sem rede. Falta só o TikTok (conta business + Zernio) e dois campos do
-  Instagram que só o app do celular edita: nome de exibição e link da bio.
+  · TikTok https://www.tiktok.com/@rumoavicecity/video/7688738476300258566
+  (espelho do cartão do IG pelo Zernio — mesmo MP4, 3/dia, 30 min depois)
+- **98 testes verdes**, sem rede. Nada mais depende do Diego para o canal rodar.
 - Aprendizados que valem para os outros canais da casa:
   - longo de compilação **não pode consumir o poço** (vira compilação temática rotativa);
   - **material de divulgação oficial resolve acervo** (a galeria da Rockstar, 308 imagens, virou
@@ -33,7 +34,10 @@ podado; o cartão do Instagram é a réplica da mecânica do ViceScale (a ferram
   - **o `GITHUB_TOKEN` do Actions escreve só no repo que o executa** — ler de outro repo público
     é livre, escrever devolve exit 1 sem explicação;
   - **poço de conteúdo tem data de validade e ela precisa passar do evento**: 150 fatos secavam
-    em 08/11 com o jogo saindo em 19/11. Ampliado para **218**, cobre até ~01/12.
+    em 08/11 com o jogo saindo em 19/11. Ampliado para **218**, cobre até ~01/12;
+  - **o teto grátis do Zernio é de 2 contas POR CONTA do Zernio**, não por perfil — as duas de
+    `diegohenriquemoraes@` já eram do @vendanaobra, e a saída de custo zero foi conta nova com o
+    e-mail do projeto (publicação segue ilimitada).
 - Estado vivo em `Projetos\gta6-canais\RETOMAR.md`; cérebro em
   `50 Canais e Automações\GTA 6 - canais automáticos`.
 
