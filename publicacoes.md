@@ -5118,3 +5118,11 @@
 - Item: short-2 — Enquiridión 27:1
 - Duração: 20.2s
 - Publicado em: 2026-09-23T12:37:37+00:00
+
+## [pt] QNbWO9zYhaM — Salmos para Dormir — Salmo 81 Completo | Bíblia Falada
+
+- URL: https://youtu.be/QNbWO9zYhaM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 81
+- Duração: 1773.1s
+- Publicado em: 2026-09-23T17:36:20+00:00
