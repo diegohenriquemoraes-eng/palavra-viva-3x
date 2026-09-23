@@ -2008,12 +2008,20 @@
           "video_id": "LBcC7FDys7c",
           "titulo": "Salmos para Dormir — Salmo 81 Completo | Biblia Hablada",
           "em": "2026-09-23T12:07:51+00:00"
+        },
+        {
+          "pacote": "2026-09-23-salmo-80-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "3QfL8dLFxMU",
+          "titulo": "Salmo 80:18 — Así no nos volveremos de ti: vida | Biblia",
+          "em": "2026-09-23T12:36:22+00:00"
         }
       ],
-      "ultimo_short": "2026-09-23T01:10:14+00:00",
+      "ultimo_short": "2026-09-23T12:36:22+00:00",
       "shorts_dia": {
         "data": "2026-09-23",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-23",
       "longos_dia": {
@@ -4833,12 +4841,20 @@
           "video_id": "UqmhVamnPlI",
           "titulo": "El papel que te tocó",
           "em": "2026-09-23T06:35:31+00:00"
+        },
+        {
+          "pacote": "2026-09-23-el-papel-que-te-toco",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "DG1lqY0f-Z8",
+          "titulo": "Lo ascendieron: no lo envidies aún",
+          "em": "2026-09-23T12:37:37+00:00"
         }
       ],
-      "ultimo_short": "2026-09-23T06:35:31+00:00",
+      "ultimo_short": "2026-09-23T12:37:37+00:00",
       "shorts_dia": {
         "data": "2026-09-23",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

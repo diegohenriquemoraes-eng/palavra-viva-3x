@@ -5102,3 +5102,19 @@
 - Item: longo — Salmo 81
 - Duração: 1714.3s
 - Publicado em: 2026-09-23T12:07:51+00:00
+
+## [es] 3QfL8dLFxMU — Salmo 80:18 — Así no nos volveremos de ti: vida | Biblia
+
+- URL: https://youtu.be/3QfL8dLFxMU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 80:18
+- Duração: 16.3s
+- Publicado em: 2026-09-23T12:36:22+00:00
+
+## [stoic] DG1lqY0f-Z8 — Lo ascendieron: no lo envidies aún
+
+- URL: https://youtu.be/DG1lqY0f-Z8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 27:1
+- Duração: 20.2s
+- Publicado em: 2026-09-23T12:37:37+00:00
