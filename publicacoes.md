@@ -5070,3 +5070,11 @@
 - Item: short-1 — Salmo 80:3
 - Duração: 17.0s
 - Publicado em: 2026-09-23T01:08:26+00:00
+
+## [es] gwUPIb22Bc8 — Salmo 80:3 — Oh Dios, haznos tornar; y haz resplandecer | Biblia
+
+- URL: https://youtu.be/gwUPIb22Bc8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 80:3
+- Duração: 18.2s
+- Publicado em: 2026-09-23T01:10:14+00:00
