@@ -5198,3 +5198,11 @@
 - Item: short-2 — Meditaciones 3:8
 - Duração: 19.7s
 - Publicado em: 2026-09-24T13:44:40+00:00
+
+## [es] g8u0ld0FexA — Salmo 82:4 — Librad al afligido y al necesitado: libradlo | Biblia
+
+- URL: https://youtu.be/g8u0ld0FexA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 82:4
+- Duração: 16.3s
+- Publicado em: 2026-09-24T15:20:23+00:00
