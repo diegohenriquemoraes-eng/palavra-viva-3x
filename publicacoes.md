@@ -5134,3 +5134,19 @@
 - Item: short-3 — Enquiridión 30:1
 - Duração: 23.8s
 - Publicado em: 2026-09-23T20:35:48+00:00
+
+## [es] fEGVK00IC7w — Salmos para Dormir — Salmo 82 Completo | Biblia Hablada
+
+- URL: https://youtu.be/fEGVK00IC7w
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 82
+- Duração: 834.5s
+- Publicado em: 2026-09-24T02:22:26+00:00
+
+## [pt] GnF81gm4X5E — Salmos para Dormir — Salmo 82 Completo | Bíblia Falada
+
+- URL: https://youtu.be/GnF81gm4X5E
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 82
+- Duração: 844.7s
+- Publicado em: 2026-09-24T02:31:39+00:00
