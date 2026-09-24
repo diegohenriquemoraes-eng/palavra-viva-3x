@@ -4957,12 +4957,20 @@
           "video_id": "DDSwC7ogbbA",
           "titulo": "Cómo murieron los sabios",
           "em": "2026-09-24T13:44:40+00:00"
+        },
+        {
+          "pacote": "2026-09-24-morir-cada-dia",
+          "item": "short-3",
+          "formato": "dormir",
+          "video_id": "hYn7wCYo8Ts",
+          "titulo": "Tú y tu enemigo, la misma fecha",
+          "em": "2026-09-24T19:22:23+00:00"
         }
       ],
-      "ultimo_short": "2026-09-24T13:44:40+00:00",
+      "ultimo_short": "2026-09-24T19:22:23+00:00",
       "shorts_dia": {
         "data": "2026-09-24",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

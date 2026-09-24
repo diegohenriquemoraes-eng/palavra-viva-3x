@@ -5206,3 +5206,11 @@
 - Item: short-2 — Salmo 82:4
 - Duração: 16.3s
 - Publicado em: 2026-09-24T15:20:23+00:00
+
+## [stoic] hYn7wCYo8Ts — Tú y tu enemigo, la misma fecha
+
+- URL: https://youtu.be/hYn7wCYo8Ts
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 4:15
+- Duração: 20.9s
+- Publicado em: 2026-09-24T19:22:23+00:00
