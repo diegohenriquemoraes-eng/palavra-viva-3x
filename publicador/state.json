@@ -2032,12 +2032,20 @@
           "video_id": "fEGVK00IC7w",
           "titulo": "Salmos para Dormir — Salmo 82 Completo | Biblia Hablada",
           "em": "2026-09-24T02:22:26+00:00"
+        },
+        {
+          "pacote": "2026-09-24-salmo-82-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "ESiQl-i44hw",
+          "titulo": "Salmo 82:3 — Defended al pobre y al huérfano: haced | Biblia",
+          "em": "2026-09-24T05:08:05+00:00"
         }
       ],
-      "ultimo_short": "2026-09-23T12:36:22+00:00",
+      "ultimo_short": "2026-09-24T05:08:05+00:00",
       "shorts_dia": {
-        "data": "2026-09-23",
-        "n": 2
+        "data": "2026-09-24",
+        "n": 1
       },
       "longo_data": "2026-09-24",
       "longos_dia": {
@@ -3960,11 +3968,19 @@
           "video_id": "GnF81gm4X5E",
           "titulo": "Salmos para Dormir — Salmo 82 Completo | Bíblia Falada",
           "em": "2026-09-24T02:31:39+00:00"
+        },
+        {
+          "pacote": "2026-09-24-salmo-82-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "z7lqvYHaYWs",
+          "titulo": "Salmo 82:3 — Fazei justiça ao pobre e ao órfão | Bíblia",
+          "em": "2026-09-24T05:08:54+00:00"
         }
       ],
-      "ultimo_short": "2026-09-23T01:08:26+00:00",
+      "ultimo_short": "2026-09-24T05:08:54+00:00",
       "shorts_dia": {
-        "data": "2026-09-23",
+        "data": "2026-09-24",
         "n": 1
       },
       "longo_data": "2026-09-24",
@@ -4891,12 +4907,20 @@
           "video_id": "CmFJNnFtjAA",
           "titulo": "Se van a burlar, está previsto",
           "em": "2026-09-23T20:35:48+00:00"
+        },
+        {
+          "pacote": "2026-09-24-morir-cada-dia",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "MvPb13UgP2I",
+          "titulo": "El médico también murió",
+          "em": "2026-09-24T05:09:59+00:00"
         }
       ],
-      "ultimo_short": "2026-09-23T20:35:48+00:00",
+      "ultimo_short": "2026-09-24T05:09:59+00:00",
       "shorts_dia": {
-        "data": "2026-09-23",
-        "n": 3
+        "data": "2026-09-24",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

@@ -5150,3 +5150,27 @@
 - Item: longo — Salmo 82
 - Duração: 844.7s
 - Publicado em: 2026-09-24T02:31:39+00:00
+
+## [es] ESiQl-i44hw — Salmo 82:3 — Defended al pobre y al huérfano: haced | Biblia
+
+- URL: https://youtu.be/ESiQl-i44hw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 82:3
+- Duração: 16.7s
+- Publicado em: 2026-09-24T05:08:05+00:00
+
+## [pt] z7lqvYHaYWs — Salmo 82:3 — Fazei justiça ao pobre e ao órfão | Bíblia
+
+- URL: https://youtu.be/z7lqvYHaYWs
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 82:3
+- Duração: 15.5s
+- Publicado em: 2026-09-24T05:08:54+00:00
+
+## [stoic] MvPb13UgP2I — El médico también murió
+
+- URL: https://youtu.be/MvPb13UgP2I
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 3:8
+- Duração: 16.3s
+- Publicado em: 2026-09-24T05:09:59+00:00
