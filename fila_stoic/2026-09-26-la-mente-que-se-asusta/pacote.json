@@ -1,0 +1,192 @@
+{
+  "slug": "la-mente-que-se-asusta",
+  "formato": "tema",
+  "data": "2026-09-26",
+  "criado_em": "2026-09-24T04:56:28+00:00",
+  "aprovado_em": "2026-09-24T04:56:28+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 7:1-82"
+    ],
+    "titulo": {
+      "stoic": "La Mente Que Se Asusta Sola | Marco Aurelio, Libro VII"
+    },
+    "thumb_titulo": {
+      "stoic": "SE ASUSTA\nSOLA"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VII"
+    },
+    "abertura": {
+      "stoic": "En el libro séptimo Marco Aurelio se hace una pregunta que todavía no tiene mejor respuesta: ¿no es la mente la que se asusta a sí misma?"
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones",
+        "miedo",
+        "ansiedad estoica",
+        "estoicismo practico"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro VII de las Meditaciones de Marco Aurelio, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Alton_Towers_Dark_Forest_entrance_closeup.jpg/1920px-Alton_Towers_Dark_Forest_entrance_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Jeremy Thompson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Alton_Towers_Dark_Forest_entrance_closeup.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Forest_dark_road.jpg/1920px-Forest_dark_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Paolo Neo",
+        "origem": "https://commons.wikimedia.org/wiki/File:Forest_dark_road.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alton_Towers_Dark_Forest_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Jeremy Thompson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Alton_Towers_Dark_Forest_entrance.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Dark-forest-combo-12.jpg/1920px-Dark-forest-combo-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-12.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Dark-forest-combo-5.jpg/1920px-Dark-forest-combo-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "dreamypixel.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark-forest-combo-5.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Night_moon_with_clouds.jpg/1920px-Night_moon_with_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MD Rohan Sheikh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_moon_with_clouds.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Moon_and_clouds_over_Brofjorden_1.jpg/1920px-Moon_and_clouds_over_Brofjorden_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Moon_and_clouds_over_Brofjorden_4.jpg/1920px-Moon_and_clouds_over_Brofjorden_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Moon_Clouds_Treetops_Abstract_2.jpg/1920px-Moon_Clouds_Treetops_Abstract_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract_2.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 7:16/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El que te asusta vive en tu cabeza"
+      },
+      "aplicacao": "El miedo no entra por la puerta: lo fabricas dentro.",
+      "gancho": {
+        "stoic": "El que te asusta vive en tu cabeza."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Dark_forest_scenic.jpg/1920px-Dark_forest_scenic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Sallie, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_scenic.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 6:75/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Cuando todo te sabe amargo"
+      },
+      "aplicacao": "Cuando todo te sabe mal, revisa el paladar, no el menú.",
+      "gancho": {
+        "stoic": "Al enfermo la miel le sabe amarga."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p03.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p03.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 9:62/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La pregunta para el día del descarado"
+      },
+      "aplicacao": "Que existan no te sorprende; que te sorprendan, sí es tu problema.",
+      "gancho": {
+        "stoic": "La pregunta para el día del descarado."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:22/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La duda que apaga el enojo"
+      },
+      "aplicacao": "Antes de condenar, admite lo que no viste.",
+      "gancho": {
+        "stoic": "La duda que apaga el enojo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Night_moon_with_clouds.jpg/1920px-Night_moon_with_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MD Rohan Sheikh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_moon_with_clouds.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
