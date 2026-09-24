@@ -5174,3 +5174,27 @@
 - Item: short-1 — Meditaciones 3:8
 - Duração: 16.3s
 - Publicado em: 2026-09-24T05:09:59+00:00
+
+## [es] 9yTUAOkqsKU — Salmos para Dormir — Salmo 83 Completo | Biblia Hablada
+
+- URL: https://youtu.be/9yTUAOkqsKU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 83
+- Duração: 1811.0s
+- Publicado em: 2026-09-24T13:28:55+00:00
+
+## [pt] B7T0nrRvyug — Salmos para Dormir — Salmo 83 Completo | Bíblia Falada
+
+- URL: https://youtu.be/B7T0nrRvyug
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 83
+- Duração: 1936.6s
+- Publicado em: 2026-09-24T13:43:29+00:00
+
+## [stoic] DDSwC7ogbbA — Cómo murieron los sabios
+
+- URL: https://youtu.be/DDSwC7ogbbA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 3:8
+- Duração: 19.7s
+- Publicado em: 2026-09-24T13:44:40+00:00
