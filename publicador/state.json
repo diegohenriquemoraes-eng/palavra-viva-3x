@@ -1074,7 +1074,8 @@
           "video_id": "Kn0ukm28EIA",
           "titulo": "Jonás y el Gran Pez — Jonás 1 y 2 | Historia bíblica narrada",
           "em": "2026-08-25T00:45:04+00:00",
-          "formato": "historia"
+          "formato": "historia",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-25-jonas-peixe",
@@ -1103,7 +1104,8 @@
           "formato": "dormir",
           "video_id": "xfAkWCRCyhM",
           "titulo": "Salmos para Dormir — Ocho Salmos para la Noche | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-25T21:35:06+00:00"
+          "em": "2026-08-25T21:35:06+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-26-salmos-dormir-15",
@@ -1111,7 +1113,8 @@
           "formato": "dormir",
           "video_id": "bGN7NOz_Z4Y",
           "titulo": "Salmos para Dormir — El Llanto Dura una Noche | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-26T01:30:06+00:00"
+          "em": "2026-08-26T01:30:06+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-26-salmos-dormir-17",
@@ -1119,7 +1122,8 @@
           "formato": "dormir",
           "video_id": "pDhvhIFk5io",
           "titulo": "Salmos para Dormir — En Paz Me Acostaré y Dormiré | Biblia Hablada con Voz Calmada",
-          "em": "2026-08-26T10:08:34+00:00"
+          "em": "2026-08-26T10:08:34+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-26-salmos-dormir-15",
@@ -1143,7 +1147,8 @@
           "formato": "historia",
           "video_id": "4saK1qB54G8",
           "titulo": "El Buen Samaritano — Lucas 10 | Historia bíblica narrada",
-          "em": "2026-08-27T02:27:13+00:00"
+          "em": "2026-08-27T02:27:13+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-08-27-salmos-dormir-18",
@@ -2055,7 +2060,8 @@
           "formato": "dormir",
           "video_id": "9yTUAOkqsKU",
           "titulo": "Salmos para Dormir — Salmo 83 Completo | Biblia Hablada",
-          "em": "2026-09-24T13:28:55+00:00"
+          "em": "2026-09-24T13:28:55+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-24-salmo-82-completo",
@@ -2071,7 +2077,8 @@
           "formato": "dormir",
           "video_id": "2exJAmSi1U8",
           "titulo": "Salmos para Dormir — Salmo 87 Completo | Biblia Hablada",
-          "em": "2026-09-25T00:17:15+00:00"
+          "em": "2026-09-25T00:17:15+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-25-salmo-87-completo",
@@ -2087,7 +2094,8 @@
           "formato": "dormir",
           "video_id": "GihV0VqMogQ",
           "titulo": "Salmos para Dormir — Salmo 88 Completo | Biblia Hablada",
-          "em": "2026-09-25T11:11:01+00:00"
+          "em": "2026-09-25T11:11:01+00:00",
+          "capa": "v2-noite-16-09"
         }
       ],
       "ultimo_short": "2026-09-25T01:41:29+00:00",
@@ -4033,7 +4041,8 @@
           "formato": "dormir",
           "video_id": "B7T0nrRvyug",
           "titulo": "Salmos para Dormir — Salmo 83 Completo | Bíblia Falada",
-          "em": "2026-09-24T13:43:29+00:00"
+          "em": "2026-09-24T13:43:29+00:00",
+          "capa": "v2-noite-16-09"
         },
         {
           "pacote": "2026-09-25-salmo-87-completo",
@@ -4049,7 +4058,8 @@
           "formato": "dormir",
           "video_id": "c6BAqj5JEE8",
           "titulo": "Salmos para Dormir — Salmo 87 Completo | Bíblia Falada",
-          "em": "2026-09-25T05:45:16+00:00"
+          "em": "2026-09-25T05:45:16+00:00",
+          "capa": "v2-noite-16-09"
         }
       ],
       "ultimo_short": "2026-09-25T00:18:16+00:00",
