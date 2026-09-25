@@ -5286,3 +5286,11 @@
 - Item: short-2 — Meditaciones 5:41
 - Duração: 16.3s
 - Publicado em: 2026-09-25T14:20:52+00:00
+
+## [stoic] 8owUW-z-pr0 — El interruptor está de tu lado
+
+- URL: https://youtu.be/8owUW-z-pr0
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 8:52
+- Duração: 24.3s
+- Publicado em: 2026-09-25T19:44:07+00:00
