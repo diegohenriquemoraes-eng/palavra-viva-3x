@@ -5254,3 +5254,11 @@
 - Item: short-1 — Meditaciones 4:70
 - Duração: 22.1s
 - Publicado em: 2026-09-25T05:46:31+00:00
+
+## [es] GihV0VqMogQ — Salmos para Dormir — Salmo 88 Completo | Biblia Hablada
+
+- URL: https://youtu.be/GihV0VqMogQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 88
+- Duração: 1894.9s
+- Publicado em: 2026-09-25T11:11:01+00:00

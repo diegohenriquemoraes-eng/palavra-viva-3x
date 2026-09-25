@@ -2080,6 +2080,14 @@
           "video_id": "9kLIpUVm7do",
           "titulo": "Salmo 87:7 — Y cantores y tañedores en ella dirán | Biblia",
           "em": "2026-09-25T01:41:29+00:00"
+        },
+        {
+          "pacote": "2026-09-25-salmo-88-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "GihV0VqMogQ",
+          "titulo": "Salmos para Dormir — Salmo 88 Completo | Biblia Hablada",
+          "em": "2026-09-25T11:11:01+00:00"
         }
       ],
       "ultimo_short": "2026-09-25T01:41:29+00:00",
@@ -2090,9 +2098,9 @@
       "longo_data": "2026-09-25",
       "longos_dia": {
         "data": "2026-09-25",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-25T00:17:15+00:00"
+      "ultimo_longo": "2026-09-25T11:11:01+00:00"
     },
     "en": {
       "publicados": [
