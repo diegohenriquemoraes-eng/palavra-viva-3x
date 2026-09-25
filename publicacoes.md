@@ -5214,3 +5214,19 @@
 - Item: short-3 — Meditaciones 4:15
 - Duração: 20.9s
 - Publicado em: 2026-09-24T19:22:23+00:00
+
+## [es] 2exJAmSi1U8 — Salmos para Dormir — Salmo 87 Completo | Biblia Hablada
+
+- URL: https://youtu.be/2exJAmSi1U8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 87
+- Duração: 744.3s
+- Publicado em: 2026-09-25T00:17:15+00:00
+
+## [pt] VXKO4XchUjc — Salmo 87:7 — Assim como os cantores e instrumentistas; todas | Bíblia
+
+- URL: https://youtu.be/VXKO4XchUjc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 87:7
+- Duração: 16.3s
+- Publicado em: 2026-09-25T00:18:16+00:00
