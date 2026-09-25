@@ -5262,3 +5262,27 @@
 - Item: longo — Salmo 88
 - Duração: 1894.9s
 - Publicado em: 2026-09-25T11:11:01+00:00
+
+## [es] w972VL0iM-M — Salmo 87:3 — Cosas ilustres son dichas de ti, ciudad | Biblia
+
+- URL: https://youtu.be/w972VL0iM-M
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 87:3
+- Duração: 13.1s
+- Publicado em: 2026-09-25T14:00:51+00:00
+
+## [pt] bBNjwTd2hUE — Salmos para Dormir — Salmo 88 Completo | Bíblia Falada
+
+- URL: https://youtu.be/bBNjwTd2hUE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 88
+- Duração: 1999.2s
+- Publicado em: 2026-09-25T14:19:45+00:00
+
+## [stoic] TF2ZKQAeu3g — Doce palabras para el peor día
+
+- URL: https://youtu.be/TF2ZKQAeu3g
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 5:41
+- Duração: 16.3s
+- Publicado em: 2026-09-25T14:20:52+00:00
