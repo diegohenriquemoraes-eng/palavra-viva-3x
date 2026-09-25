@@ -4034,6 +4034,14 @@
           "video_id": "VXKO4XchUjc",
           "titulo": "Salmo 87:7 — Assim como os cantores e instrumentistas; todas | Bíblia",
           "em": "2026-09-25T00:18:16+00:00"
+        },
+        {
+          "pacote": "2026-09-25-salmo-87-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "c6BAqj5JEE8",
+          "titulo": "Salmos para Dormir — Salmo 87 Completo | Bíblia Falada",
+          "em": "2026-09-25T05:45:16+00:00"
         }
       ],
       "ultimo_short": "2026-09-25T00:18:16+00:00",
@@ -4041,12 +4049,12 @@
         "data": "2026-09-25",
         "n": 1
       },
-      "longo_data": "2026-09-24",
+      "longo_data": "2026-09-25",
       "longos_dia": {
-        "data": "2026-09-24",
-        "n": 2
+        "data": "2026-09-25",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-24T13:43:29+00:00"
+      "ultimo_longo": "2026-09-25T05:45:16+00:00"
     },
     "stoic": {
       "publicados": [
@@ -4989,12 +4997,20 @@
           "video_id": "hYn7wCYo8Ts",
           "titulo": "Tú y tu enemigo, la misma fecha",
           "em": "2026-09-24T19:22:23+00:00"
+        },
+        {
+          "pacote": "2026-09-25-la-roca-y-la-ola",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "1UxqqevXshU",
+          "titulo": "Sé la roca, no la ola",
+          "em": "2026-09-25T05:46:31+00:00"
         }
       ],
-      "ultimo_short": "2026-09-24T19:22:23+00:00",
+      "ultimo_short": "2026-09-25T05:46:31+00:00",
       "shorts_dia": {
-        "data": "2026-09-24",
-        "n": 3
+        "data": "2026-09-25",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

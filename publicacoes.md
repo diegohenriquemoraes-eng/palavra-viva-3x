@@ -5238,3 +5238,19 @@
 - Item: short-1 — Salmo 87:7
 - Duração: 16.2s
 - Publicado em: 2026-09-25T01:41:29+00:00
+
+## [pt] c6BAqj5JEE8 — Salmos para Dormir — Salmo 87 Completo | Bíblia Falada
+
+- URL: https://youtu.be/c6BAqj5JEE8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 87
+- Duração: 738.7s
+- Publicado em: 2026-09-25T05:45:16+00:00
+
+## [stoic] 1UxqqevXshU — Sé la roca, no la ola
+
+- URL: https://youtu.be/1UxqqevXshU
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 4:70
+- Duração: 22.1s
+- Publicado em: 2026-09-25T05:46:31+00:00
