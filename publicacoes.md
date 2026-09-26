@@ -5334,3 +5334,11 @@
 - Item: short-1 — Meditaciones 7:16
 - Duração: 17.3s
 - Publicado em: 2026-09-26T07:02:35+00:00
+
+## [es] U3IaVazb6tI — Salmos para Dormir — Salmo 89 Completo | Biblia Hablada
+
+- URL: https://youtu.be/U3IaVazb6tI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 89
+- Duração: 4061.6s
+- Publicado em: 2026-09-26T12:26:51+00:00
