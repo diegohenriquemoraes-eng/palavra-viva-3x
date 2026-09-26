@@ -5137,12 +5137,20 @@
           "video_id": "_JfdP6Zq5t8",
           "titulo": "Cuando todo te sabe amargo",
           "em": "2026-09-26T13:19:52+00:00"
+        },
+        {
+          "pacote": "2026-09-26-la-mente-que-se-asusta",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "Q59YDAsGuK0",
+          "titulo": "La pregunta para el día del descarado",
+          "em": "2026-09-26T18:52:27+00:00"
         }
       ],
-      "ultimo_short": "2026-09-26T13:19:52+00:00",
+      "ultimo_short": "2026-09-26T18:52:27+00:00",
       "shorts_dia": {
         "data": "2026-09-26",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
