@@ -1,0 +1,193 @@
+{
+  "slug": "la-obra-de-hoy",
+  "formato": "tema",
+  "data": "2026-09-28",
+  "criado_em": "2026-09-26T05:02:29+00:00",
+  "aprovado_em": "2026-09-26T05:02:29+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 2:1-37",
+      "Meditaciones 12:1-50"
+    ],
+    "titulo": {
+      "stoic": "Deja de Dejarlo para Después | Marco Aurelio, Libros II y XII"
+    },
+    "thumb_titulo": {
+      "stoic": "PARA\nDESPUÉS"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones II y XII"
+    },
+    "abertura": {
+      "stoic": "El segundo libro de las Meditaciones empieza con un reproche: cuánto tiempo llevas aplazando lo que sabes que debes hacer. El último cierra el círculo. Un emperador, también, lo dejaba para después."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones",
+        "procrastinacion",
+        "disciplina estoica",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "Los libros II y XII de las Meditaciones de Marco Aurelio, narrados en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_reverse%2C_printing_1932C-12.jpg/1920px-The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_reverse%2C_printing_1932C-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Grosset & Dunlap",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_reverse,_printing_1932C-12.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_1953_printing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Cover art by Bill Gillies",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_1953_printing.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_printing_1932C-12.jpg/1920px-The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_printing_1932C-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Grosset & Dunlap",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_obverse,_printing_1932C-12.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/The_old_clock_tower_in_Oslo%27s_Eastern_Cemetery.jpg/1920px-The_old_clock_tower_in_Oslo%27s_Eastern_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Iwan Aucamp",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_old_clock_tower_in_Oslo%27s_Eastern_Cemetery.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_1933B-14_printing.jpg/1920px-The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_1933B-14_printing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cover art by Russell H. Tandy (1891–1963)",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_obverse,_1933B-14_printing.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg/1920px-A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "EHT Collaboration",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A*_in_polarised_light_(eso2406a).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Joshua_Tree_Milky_Way.jpg/1920px-Joshua_Tree_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Benjamin Inouye",
+        "origem": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Milky_way1.jpg/1920px-Milky_way1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/UCLA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way1.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 2:8/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El emperador también lo dejaba para después"
+      },
+      "aplicacao": "Te dieron el plazo que pediste. Y lo dejaste pasar. Otra vez.",
+      "gancho": {
+        "stoic": "El emperador también procrastinaba."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Clock_-_Old_South_Meeting_House_-_Boston%2C_MA_-_DSC05856.jpg/1920px-Clock_-_Old_South_Meeting_House_-_Boston%2C_MA_-_DSC05856.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daderot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clock_-_Old_South_Meeting_House_-_Boston,_MA_-_DSC05856.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 12:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El que te envidia eres tú"
+      },
+      "aplicacao": "Los rodeos son el permiso que te das para no llegar.",
+      "gancho": {
+        "stoic": "El único que te envidia eres tú."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/ALMA_and_the_centre_of_the_Milky_Way.jpg/1920px-ALMA_and_the_centre_of_the_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/B. Tafreshi (twanight.org)",
+        "origem": "https://commons.wikimedia.org/wiki/File:ALMA_and_the_centre_of_the_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:72/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La desgracia no es lo que pasó"
+      },
+      "aplicacao": "El golpe es igual para todos; la grandeza, no.",
+      "gancho": {
+        "stoic": "La desgracia no es lo que pasó."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Storm_clouds_formation1.jpg/1920px-Storm_clouds_formation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 10:28/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "La pregunta al despertar"
+      },
+      "aplicacao": "Lo que el otro haga bien no te descuenta nada. Haz lo tuyo.",
+      "gancho": {
+        "stoic": "La pregunta de Marco Aurelio al despertar."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
