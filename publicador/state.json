@@ -2112,12 +2112,20 @@
           "video_id": "6KqiAjRb8-4",
           "titulo": "Salmos para Dormir — Salmo 101 Completo | Biblia Hablada",
           "em": "2026-09-26T01:18:06+00:00"
+        },
+        {
+          "pacote": "2026-09-26-salmo-101-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "vGyXT6-9bX0",
+          "titulo": "Salmo 101:2 — Entenderé en el camino de la perfección | Biblia",
+          "em": "2026-09-26T01:46:50+00:00"
         }
       ],
-      "ultimo_short": "2026-09-25T14:00:51+00:00",
+      "ultimo_short": "2026-09-26T01:46:50+00:00",
       "shorts_dia": {
-        "data": "2026-09-25",
-        "n": 2
+        "data": "2026-09-26",
+        "n": 1
       },
       "longo_data": "2026-09-26",
       "longos_dia": {

@@ -5310,3 +5310,11 @@
 - Item: short-1 — Salmo 101:2
 - Duração: 22.1s
 - Publicado em: 2026-09-26T01:19:20+00:00
+
+## [es] vGyXT6-9bX0 — Salmo 101:2 — Entenderé en el camino de la perfección | Biblia
+
+- URL: https://youtu.be/vGyXT6-9bX0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 101:2
+- Duração: 21.4s
+- Publicado em: 2026-09-26T01:46:50+00:00
