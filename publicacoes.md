@@ -5342,3 +5342,19 @@
 - Item: longo — Salmo 89
 - Duração: 4061.6s
 - Publicado em: 2026-09-26T12:26:51+00:00
+
+## [es] 1MBZaMk-ihE — Salmo 101:3 — No pondré delante de mis ojos cosa | Biblia
+
+- URL: https://youtu.be/1MBZaMk-ihE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 101:3
+- Duração: 22.2s
+- Publicado em: 2026-09-26T13:18:40+00:00
+
+## [stoic] _JfdP6Zq5t8 — Cuando todo te sabe amargo
+
+- URL: https://youtu.be/_JfdP6Zq5t8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 6:75
+- Duração: 23.4s
+- Publicado em: 2026-09-26T13:19:52+00:00

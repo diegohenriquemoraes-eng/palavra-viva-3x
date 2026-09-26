@@ -2136,12 +2136,20 @@
           "titulo": "Salmos para Dormir — Salmo 89 Completo | Biblia Hablada",
           "em": "2026-09-26T12:26:51+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-26-salmo-101-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "1MBZaMk-ihE",
+          "titulo": "Salmo 101:3 — No pondré delante de mis ojos cosa | Biblia",
+          "em": "2026-09-26T13:18:40+00:00"
         }
       ],
-      "ultimo_short": "2026-09-26T01:46:50+00:00",
+      "ultimo_short": "2026-09-26T13:18:40+00:00",
       "shorts_dia": {
         "data": "2026-09-26",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-26",
       "longos_dia": {
@@ -5113,12 +5121,20 @@
           "video_id": "ersM_8b_SYw",
           "titulo": "El que te asusta vive en tu cabeza",
           "em": "2026-09-26T07:02:35+00:00"
+        },
+        {
+          "pacote": "2026-09-26-la-mente-que-se-asusta",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "_JfdP6Zq5t8",
+          "titulo": "Cuando todo te sabe amargo",
+          "em": "2026-09-26T13:19:52+00:00"
         }
       ],
-      "ultimo_short": "2026-09-26T07:02:35+00:00",
+      "ultimo_short": "2026-09-26T13:19:52+00:00",
       "shorts_dia": {
         "data": "2026-09-26",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
