@@ -5318,3 +5318,19 @@
 - Item: short-1 — Salmo 101:2
 - Duração: 21.4s
 - Publicado em: 2026-09-26T01:46:50+00:00
+
+## [pt] sgMxylcbwRc — Salmos para Dormir — Salmo 101 Completo | Bíblia Falada
+
+- URL: https://youtu.be/sgMxylcbwRc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 101
+- Duração: 1011.8s
+- Publicado em: 2026-09-26T07:01:28+00:00
+
+## [stoic] ersM_8b_SYw — El que te asusta vive en tu cabeza
+
+- URL: https://youtu.be/ersM_8b_SYw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 7:16
+- Duração: 17.3s
+- Publicado em: 2026-09-26T07:02:35+00:00
