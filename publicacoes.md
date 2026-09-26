@@ -5358,3 +5358,11 @@
 - Item: short-2 — Meditaciones 6:75
 - Duração: 23.4s
 - Publicado em: 2026-09-26T13:19:52+00:00
+
+## [pt] IVjWMWiOWRY — Salmos para Dormir — Salmo 89 Completo | Bíblia Falada
+
+- URL: https://youtu.be/IVjWMWiOWRY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 89
+- Duração: 4171.8s
+- Publicado em: 2026-09-26T16:08:59+00:00
