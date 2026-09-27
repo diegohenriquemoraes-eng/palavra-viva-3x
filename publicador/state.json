@@ -2160,6 +2160,14 @@
           "video_id": "KTHKZFAfrMs",
           "titulo": "Salmo 102:1-2 — Jehová, oye mi oración, y venga | Biblia",
           "em": "2026-09-27T01:37:49+00:00"
+        },
+        {
+          "pacote": "2026-09-27-salmo-106-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "03JtQC5YyEo",
+          "titulo": "Salmos para Dormir — Salmo 106 Completo | Biblia Hablada",
+          "em": "2026-09-27T12:05:06+00:00"
         }
       ],
       "ultimo_short": "2026-09-27T01:37:49+00:00",
@@ -2170,9 +2178,9 @@
       "longo_data": "2026-09-27",
       "longos_dia": {
         "data": "2026-09-27",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-27T00:30:39+00:00"
+      "ultimo_longo": "2026-09-27T12:05:06+00:00"
     },
     "en": {
       "publicados": [
