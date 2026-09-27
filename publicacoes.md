@@ -5438,3 +5438,11 @@
 - Item: short-2 — Enquiridión 69:1
 - Duração: 16.4s
 - Publicado em: 2026-09-27T14:11:27+00:00
+
+## [pt] _QWE85Z7jr4 — Salmos para Dormir — Salmo 106 Completo | Bíblia Falada
+
+- URL: https://youtu.be/_QWE85Z7jr4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 106
+- Duração: 3972.4s
+- Publicado em: 2026-09-27T17:00:40+00:00

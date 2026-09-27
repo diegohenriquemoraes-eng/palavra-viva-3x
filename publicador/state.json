@@ -4200,6 +4200,14 @@
           "titulo": "Salmos para Dormir — Salmo 102 Completo | Bíblia Falada",
           "em": "2026-09-27T06:26:52+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-27-salmo-106-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "_QWE85Z7jr4",
+          "titulo": "Salmos para Dormir — Salmo 106 Completo | Bíblia Falada",
+          "em": "2026-09-27T17:00:40+00:00"
         }
       ],
       "ultimo_short": "2026-09-27T00:31:41+00:00",
@@ -4210,9 +4218,9 @@
       "longo_data": "2026-09-27",
       "longos_dia": {
         "data": "2026-09-27",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-27T06:26:52+00:00"
+      "ultimo_longo": "2026-09-27T17:00:40+00:00"
     },
     "stoic": {
       "publicados": [
