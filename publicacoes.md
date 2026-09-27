@@ -5446,3 +5446,11 @@
 - Item: longo — Salmo 106
 - Duração: 3972.4s
 - Publicado em: 2026-09-27T17:00:40+00:00
+
+## [stoic] jeN8o2nYgkw — Diecisiete palabras sobre hablar menos
+
+- URL: https://youtu.be/jeN8o2nYgkw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 42:1
+- Duração: 16.9s
+- Publicado em: 2026-09-27T19:56:46+00:00

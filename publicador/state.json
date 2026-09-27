@@ -5227,12 +5227,20 @@
           "video_id": "DFFpDiHr2g4",
           "titulo": "Vivir con poco no se presume",
           "em": "2026-09-27T14:11:27+00:00"
+        },
+        {
+          "pacote": "2026-09-27-el-progreso-silencioso",
+          "item": "short-3",
+          "formato": "tema",
+          "video_id": "jeN8o2nYgkw",
+          "titulo": "Diecisiete palabras sobre hablar menos",
+          "em": "2026-09-27T19:56:46+00:00"
         }
       ],
-      "ultimo_short": "2026-09-27T14:11:27+00:00",
+      "ultimo_short": "2026-09-27T19:56:46+00:00",
       "shorts_dia": {
         "data": "2026-09-27",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
