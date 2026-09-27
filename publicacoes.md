@@ -5374,3 +5374,19 @@
 - Item: short-3 — Meditaciones 9:62
 - Duração: 21.0s
 - Publicado em: 2026-09-26T18:52:27+00:00
+
+## [es] vQwd8IesMAA — Salmos para Dormir — Salmo 102 Completo | Biblia Hablada
+
+- URL: https://youtu.be/vQwd8IesMAA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 102
+- Duração: 2895.2s
+- Publicado em: 2026-09-27T00:30:39+00:00
+
+## [pt] uMMlwz-M_TE — Salmo 102:1-2 — Ó SENHOR, ouve minha oração | Bíblia
+
+- URL: https://youtu.be/uMMlwz-M_TE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 102:1-2
+- Duração: 18.1s
+- Publicado em: 2026-09-27T00:31:41+00:00
