@@ -2176,12 +2176,20 @@
           "titulo": "Salmos para Dormir — Salmo 106 Completo | Biblia Hablada",
           "em": "2026-09-27T12:05:06+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-27-salmo-102-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "PbWzA90uxfo",
+          "titulo": "Salmo 102:17 — Habrá mirado a la oración | Biblia",
+          "em": "2026-09-27T14:10:25+00:00"
         }
       ],
-      "ultimo_short": "2026-09-27T01:37:49+00:00",
+      "ultimo_short": "2026-09-27T14:10:25+00:00",
       "shorts_dia": {
         "data": "2026-09-27",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-27",
       "longos_dia": {
@@ -5203,12 +5211,20 @@
           "video_id": "enF5aKADDpI",
           "titulo": "Te llamaron ignorante y no reaccionaste",
           "em": "2026-09-27T06:27:57+00:00"
+        },
+        {
+          "pacote": "2026-09-27-el-progreso-silencioso",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "DFFpDiHr2g4",
+          "titulo": "Vivir con poco no se presume",
+          "em": "2026-09-27T14:11:27+00:00"
         }
       ],
-      "ultimo_short": "2026-09-27T06:27:57+00:00",
+      "ultimo_short": "2026-09-27T14:11:27+00:00",
       "shorts_dia": {
         "data": "2026-09-27",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

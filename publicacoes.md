@@ -5422,3 +5422,19 @@
 - Item: longo — Salmo 106
 - Duração: 4121.0s
 - Publicado em: 2026-09-27T12:05:06+00:00
+
+## [es] PbWzA90uxfo — Salmo 102:17 — Habrá mirado a la oración | Biblia
+
+- URL: https://youtu.be/PbWzA90uxfo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 102:17
+- Duração: 17.9s
+- Publicado em: 2026-09-27T14:10:25+00:00
+
+## [stoic] DFFpDiHr2g4 — Vivir con poco no se presume
+
+- URL: https://youtu.be/DFFpDiHr2g4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 69:1
+- Duração: 16.4s
+- Publicado em: 2026-09-27T14:11:27+00:00
