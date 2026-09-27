@@ -5398,3 +5398,19 @@
 - Item: short-1 — Salmo 102:1-2
 - Duração: 18.5s
 - Publicado em: 2026-09-27T01:37:49+00:00
+
+## [pt] Jj4i1lc_Pkc — Salmos para Dormir — Salmo 102 Completo | Bíblia Falada
+
+- URL: https://youtu.be/Jj4i1lc_Pkc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 102
+- Duração: 2990.6s
+- Publicado em: 2026-09-27T06:26:52+00:00
+
+## [stoic] enF5aKADDpI — Te llamaron ignorante y no reaccionaste
+
+- URL: https://youtu.be/enF5aKADDpI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 68:2
+- Duração: 21.3s
+- Publicado em: 2026-09-27T06:27:57+00:00

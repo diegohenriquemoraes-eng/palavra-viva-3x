@@ -4166,6 +4166,14 @@
           "video_id": "uMMlwz-M_TE",
           "titulo": "Salmo 102:1-2 — Ó SENHOR, ouve minha oração | Bíblia",
           "em": "2026-09-27T00:31:41+00:00"
+        },
+        {
+          "pacote": "2026-09-27-salmo-102-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "Jj4i1lc_Pkc",
+          "titulo": "Salmos para Dormir — Salmo 102 Completo | Bíblia Falada",
+          "em": "2026-09-27T06:26:52+00:00"
         }
       ],
       "ultimo_short": "2026-09-27T00:31:41+00:00",
@@ -4173,12 +4181,12 @@
         "data": "2026-09-27",
         "n": 1
       },
-      "longo_data": "2026-09-26",
+      "longo_data": "2026-09-27",
       "longos_dia": {
-        "data": "2026-09-26",
-        "n": 2
+        "data": "2026-09-27",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-26T16:08:59+00:00"
+      "ultimo_longo": "2026-09-27T06:26:52+00:00"
     },
     "stoic": {
       "publicados": [
@@ -5169,12 +5177,20 @@
           "video_id": "Q59YDAsGuK0",
           "titulo": "La pregunta para el día del descarado",
           "em": "2026-09-26T18:52:27+00:00"
+        },
+        {
+          "pacote": "2026-09-27-el-progreso-silencioso",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "enF5aKADDpI",
+          "titulo": "Te llamaron ignorante y no reaccionaste",
+          "em": "2026-09-27T06:27:57+00:00"
         }
       ],
-      "ultimo_short": "2026-09-26T18:52:27+00:00",
+      "ultimo_short": "2026-09-27T06:27:57+00:00",
       "shorts_dia": {
-        "data": "2026-09-26",
-        "n": 3
+        "data": "2026-09-27",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
