@@ -5390,3 +5390,11 @@
 - Item: short-1 — Salmo 102:1-2
 - Duração: 18.1s
 - Publicado em: 2026-09-27T00:31:41+00:00
+
+## [es] KTHKZFAfrMs — Salmo 102:1-2 — Jehová, oye mi oración, y venga | Biblia
+
+- URL: https://youtu.be/KTHKZFAfrMs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 102:1-2
+- Duração: 18.5s
+- Publicado em: 2026-09-27T01:37:49+00:00
