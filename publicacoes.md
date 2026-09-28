@@ -5518,3 +5518,11 @@
 - Item: short-2 — Meditaciones 12:1
 - Duração: 16.6s
 - Publicado em: 2026-09-28T16:00:16+00:00
+
+## [es] G91HBE4c-7s — Salmo 109:22 — Porque yo estoy afligido y necesitado | Biblia
+
+- URL: https://youtu.be/G91HBE4c-7s
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 109:22
+- Duração: 17.0s
+- Publicado em: 2026-09-28T16:28:12+00:00

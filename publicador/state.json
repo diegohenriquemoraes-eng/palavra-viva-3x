@@ -2216,12 +2216,20 @@
           "video_id": "Nphn2ukDSCY",
           "titulo": "Salmos para Dormir — Salmo 110 Completo | Biblia Hablada",
           "em": "2026-09-28T15:50:25+00:00"
+        },
+        {
+          "pacote": "2026-09-28-salmo-109-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "G91HBE4c-7s",
+          "titulo": "Salmo 109:22 — Porque yo estoy afligido y necesitado | Biblia",
+          "em": "2026-09-28T16:28:12+00:00"
         }
       ],
-      "ultimo_short": "2026-09-28T01:39:35+00:00",
+      "ultimo_short": "2026-09-28T16:28:12+00:00",
       "shorts_dia": {
         "data": "2026-09-28",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-28",
       "longos_dia": {
