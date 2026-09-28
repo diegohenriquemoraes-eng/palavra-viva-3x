@@ -2184,6 +2184,14 @@
           "video_id": "PbWzA90uxfo",
           "titulo": "Salmo 102:17 — Habrá mirado a la oración | Biblia",
           "em": "2026-09-27T14:10:25+00:00"
+        },
+        {
+          "pacote": "2026-09-28-salmo-109-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "3Ce6PlZJlVI",
+          "titulo": "Salmos para Dormir — Salmo 109 Completo | Biblia Hablada",
+          "em": "2026-09-28T01:36:32+00:00"
         }
       ],
       "ultimo_short": "2026-09-27T14:10:25+00:00",
@@ -2191,12 +2199,12 @@
         "data": "2026-09-27",
         "n": 2
       },
-      "longo_data": "2026-09-27",
+      "longo_data": "2026-09-28",
       "longos_dia": {
-        "data": "2026-09-27",
-        "n": 2
+        "data": "2026-09-28",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-27T12:05:06+00:00"
+      "ultimo_longo": "2026-09-28T01:36:32+00:00"
     },
     "en": {
       "publicados": [
@@ -4208,11 +4216,19 @@
           "video_id": "_QWE85Z7jr4",
           "titulo": "Salmos para Dormir — Salmo 106 Completo | Bíblia Falada",
           "em": "2026-09-27T17:00:40+00:00"
+        },
+        {
+          "pacote": "2026-09-28-salmo-109-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "Qv1_oChAD7Q",
+          "titulo": "Salmo 109:21 — Porém tu, Senhor DEUS, me trata bem | Bíblia",
+          "em": "2026-09-28T01:37:38+00:00"
         }
       ],
-      "ultimo_short": "2026-09-27T00:31:41+00:00",
+      "ultimo_short": "2026-09-28T01:37:38+00:00",
       "shorts_dia": {
-        "data": "2026-09-27",
+        "data": "2026-09-28",
         "n": 1
       },
       "longo_data": "2026-09-27",

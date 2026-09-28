@@ -5454,3 +5454,19 @@
 - Item: short-3 — Enquiridión 42:1
 - Duração: 16.9s
 - Publicado em: 2026-09-27T19:56:46+00:00
+
+## [es] 3Ce6PlZJlVI — Salmos para Dormir — Salmo 109 Completo | Biblia Hablada
+
+- URL: https://youtu.be/3Ce6PlZJlVI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 109
+- Duração: 3172.3s
+- Publicado em: 2026-09-28T01:36:32+00:00
+
+## [pt] Qv1_oChAD7Q — Salmo 109:21 — Porém tu, Senhor DEUS, me trata bem | Bíblia
+
+- URL: https://youtu.be/Qv1_oChAD7Q
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 109:21
+- Duração: 19.8s
+- Publicado em: 2026-09-28T01:37:38+00:00
