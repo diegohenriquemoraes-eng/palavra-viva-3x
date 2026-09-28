@@ -4232,6 +4232,14 @@
           "video_id": "Qv1_oChAD7Q",
           "titulo": "Salmo 109:21 — Porém tu, Senhor DEUS, me trata bem | Bíblia",
           "em": "2026-09-28T01:37:38+00:00"
+        },
+        {
+          "pacote": "2026-09-28-salmo-109-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "8agRn9B8K8s",
+          "titulo": "Salmos para Dormir — Salmo 109 Completo | Bíblia Falada",
+          "em": "2026-09-28T07:36:24+00:00"
         }
       ],
       "ultimo_short": "2026-09-28T01:37:38+00:00",
@@ -4239,12 +4247,12 @@
         "data": "2026-09-28",
         "n": 1
       },
-      "longo_data": "2026-09-27",
+      "longo_data": "2026-09-28",
       "longos_dia": {
-        "data": "2026-09-27",
-        "n": 2
+        "data": "2026-09-28",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-27T17:00:40+00:00"
+      "ultimo_longo": "2026-09-28T07:36:24+00:00"
     },
     "stoic": {
       "publicados": [
@@ -5259,12 +5267,20 @@
           "video_id": "jeN8o2nYgkw",
           "titulo": "Diecisiete palabras sobre hablar menos",
           "em": "2026-09-27T19:56:46+00:00"
+        },
+        {
+          "pacote": "2026-09-28-la-obra-de-hoy",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "ydVJWM6wnlU",
+          "titulo": "El emperador también lo dejaba para después",
+          "em": "2026-09-28T07:37:41+00:00"
         }
       ],
-      "ultimo_short": "2026-09-27T19:56:46+00:00",
+      "ultimo_short": "2026-09-28T07:37:41+00:00",
       "shorts_dia": {
-        "data": "2026-09-27",
-        "n": 3
+        "data": "2026-09-28",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

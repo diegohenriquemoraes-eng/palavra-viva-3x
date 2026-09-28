@@ -5478,3 +5478,19 @@
 - Item: short-1 — Salmo 109:21
 - Duração: 21.2s
 - Publicado em: 2026-09-28T01:39:35+00:00
+
+## [pt] 8agRn9B8K8s — Salmos para Dormir — Salmo 109 Completo | Bíblia Falada
+
+- URL: https://youtu.be/8agRn9B8K8s
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 109
+- Duração: 3370.6s
+- Publicado em: 2026-09-28T07:36:24+00:00
+
+## [stoic] ydVJWM6wnlU — El emperador también lo dejaba para después
+
+- URL: https://youtu.be/ydVJWM6wnlU
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 2:8
+- Duração: 25.2s
+- Publicado em: 2026-09-28T07:37:41+00:00
