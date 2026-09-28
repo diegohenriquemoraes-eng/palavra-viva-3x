@@ -5470,3 +5470,11 @@
 - Item: short-1 — Salmo 109:21
 - Duração: 19.8s
 - Publicado em: 2026-09-28T01:37:38+00:00
+
+## [es] ZKwH1yKf47E — Salmo 109:21 — Y tú, Jehová Señor, haz conmigo | Biblia
+
+- URL: https://youtu.be/ZKwH1yKf47E
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 109:21
+- Duração: 21.2s
+- Publicado em: 2026-09-28T01:39:35+00:00

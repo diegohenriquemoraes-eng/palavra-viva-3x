@@ -2192,12 +2192,20 @@
           "video_id": "3Ce6PlZJlVI",
           "titulo": "Salmos para Dormir — Salmo 109 Completo | Biblia Hablada",
           "em": "2026-09-28T01:36:32+00:00"
+        },
+        {
+          "pacote": "2026-09-28-salmo-109-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "ZKwH1yKf47E",
+          "titulo": "Salmo 109:21 — Y tú, Jehová Señor, haz conmigo | Biblia",
+          "em": "2026-09-28T01:39:35+00:00"
         }
       ],
-      "ultimo_short": "2026-09-27T14:10:25+00:00",
+      "ultimo_short": "2026-09-28T01:39:35+00:00",
       "shorts_dia": {
-        "data": "2026-09-27",
-        "n": 2
+        "data": "2026-09-28",
+        "n": 1
       },
       "longo_data": "2026-09-28",
       "longos_dia": {
