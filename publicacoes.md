@@ -5526,3 +5526,11 @@
 - Item: short-2 — Salmo 109:22
 - Duração: 17.0s
 - Publicado em: 2026-09-28T16:28:12+00:00
+
+## [stoic] 2akDQdK36L4 — La desgracia no es lo que pasó
+
+- URL: https://youtu.be/2akDQdK36L4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 4:72
+- Duração: 24.8s
+- Publicado em: 2026-09-28T22:13:25+00:00
