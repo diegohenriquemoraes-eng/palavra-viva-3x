@@ -2208,6 +2208,14 @@
           "video_id": "ZKwH1yKf47E",
           "titulo": "Salmo 109:21 — Y tú, Jehová Señor, haz conmigo | Biblia",
           "em": "2026-09-28T01:39:35+00:00"
+        },
+        {
+          "pacote": "2026-09-28-salmo-110-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "Nphn2ukDSCY",
+          "titulo": "Salmos para Dormir — Salmo 110 Completo | Biblia Hablada",
+          "em": "2026-09-28T15:50:25+00:00"
         }
       ],
       "ultimo_short": "2026-09-28T01:39:35+00:00",
@@ -2218,9 +2226,9 @@
       "longo_data": "2026-09-28",
       "longos_dia": {
         "data": "2026-09-28",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-28T01:36:32+00:00"
+      "ultimo_longo": "2026-09-28T15:50:25+00:00"
     },
     "en": {
       "publicados": [
@@ -4250,6 +4258,14 @@
           "titulo": "Salmos para Dormir — Salmo 109 Completo | Bíblia Falada",
           "em": "2026-09-28T07:36:24+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-28-salmo-110-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "We3bAm-g7Po",
+          "titulo": "Salmos para Dormir — Salmo 110 Completo | Bíblia Falada",
+          "em": "2026-09-28T15:59:06+00:00"
         }
       ],
       "ultimo_short": "2026-09-28T01:37:38+00:00",
@@ -4260,9 +4276,9 @@
       "longo_data": "2026-09-28",
       "longos_dia": {
         "data": "2026-09-28",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-28T07:36:24+00:00"
+      "ultimo_longo": "2026-09-28T15:59:06+00:00"
     },
     "stoic": {
       "publicados": [
@@ -5285,12 +5301,20 @@
           "video_id": "ydVJWM6wnlU",
           "titulo": "El emperador también lo dejaba para después",
           "em": "2026-09-28T07:37:41+00:00"
+        },
+        {
+          "pacote": "2026-09-28-la-obra-de-hoy",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "NYRk4x_TDWQ",
+          "titulo": "El que te envidia eres tú",
+          "em": "2026-09-28T16:00:16+00:00"
         }
       ],
-      "ultimo_short": "2026-09-28T07:37:41+00:00",
+      "ultimo_short": "2026-09-28T16:00:16+00:00",
       "shorts_dia": {
         "data": "2026-09-28",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

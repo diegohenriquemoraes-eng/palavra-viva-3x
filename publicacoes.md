@@ -5494,3 +5494,27 @@
 - Item: short-1 — Meditaciones 2:8
 - Duração: 25.2s
 - Publicado em: 2026-09-28T07:37:41+00:00
+
+## [es] Nphn2ukDSCY — Salmos para Dormir — Salmo 110 Completo | Biblia Hablada
+
+- URL: https://youtu.be/Nphn2ukDSCY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 110
+- Duração: 807.9s
+- Publicado em: 2026-09-28T15:50:25+00:00
+
+## [pt] We3bAm-g7Po — Salmos para Dormir — Salmo 110 Completo | Bíblia Falada
+
+- URL: https://youtu.be/We3bAm-g7Po
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 110
+- Duração: 834.4s
+- Publicado em: 2026-09-28T15:59:06+00:00
+
+## [stoic] NYRk4x_TDWQ — El que te envidia eres tú
+
+- URL: https://youtu.be/NYRk4x_TDWQ
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 12:1
+- Duração: 16.6s
+- Publicado em: 2026-09-28T16:00:16+00:00
