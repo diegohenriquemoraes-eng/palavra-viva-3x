@@ -5566,3 +5566,19 @@
 - Item: short-1 — Salmo 114:1-2
 - Duração: 24.9s
 - Publicado em: 2026-09-29T02:27:04+00:00
+
+## [es] YPlfiA3mclY — Salmos para Dormir — Salmo 120 Completo | Biblia Hablada
+
+- URL: https://youtu.be/YPlfiA3mclY
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 120
+- Duração: 638.8s
+- Publicado em: 2026-09-29T16:06:57+00:00
+
+## [pt] n8QLpzspErc — Salmos para Dormir — Salmo 120 Completo | Bíblia Falada
+
+- URL: https://youtu.be/n8QLpzspErc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 120
+- Duração: 636.1s
+- Publicado em: 2026-09-29T16:12:52+00:00
