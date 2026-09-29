@@ -5550,3 +5550,19 @@
 - Item: longo — Salmo 114
 - Duração: 804.1s
 - Publicado em: 2026-09-29T02:22:17+00:00
+
+## [es] PArFREL35Ms — Salmo 114:1-2 — Cuando salió Israel de Egipto, la casa | Biblia
+
+- URL: https://youtu.be/PArFREL35Ms
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 114:1-2
+- Duração: 23.3s
+- Publicado em: 2026-09-29T02:25:53+00:00
+
+## [pt] Dt_7r3lMRvA — Salmo 114:1-2 — Quando Israel saiu do Egito, quando | Bíblia
+
+- URL: https://youtu.be/Dt_7r3lMRvA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 114:1-2
+- Duração: 24.9s
+- Publicado em: 2026-09-29T02:27:04+00:00

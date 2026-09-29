@@ -2232,12 +2232,20 @@
           "video_id": "6-XgwGS7jYo",
           "titulo": "Salmos para Dormir — Salmo 114 Completo | Biblia Hablada",
           "em": "2026-09-29T02:14:46+00:00"
+        },
+        {
+          "pacote": "2026-09-29-salmo-114-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "PArFREL35Ms",
+          "titulo": "Salmo 114:1-2 — Cuando salió Israel de Egipto, la casa | Biblia",
+          "em": "2026-09-29T02:25:53+00:00"
         }
       ],
-      "ultimo_short": "2026-09-28T16:28:12+00:00",
+      "ultimo_short": "2026-09-29T02:25:53+00:00",
       "shorts_dia": {
-        "data": "2026-09-28",
-        "n": 2
+        "data": "2026-09-29",
+        "n": 1
       },
       "longo_data": "2026-09-29",
       "longos_dia": {
@@ -4290,11 +4298,19 @@
           "video_id": "9Dtr-5VHcI4",
           "titulo": "Salmos para Dormir — Salmo 114 Completo | Bíblia Falada",
           "em": "2026-09-29T02:22:17+00:00"
+        },
+        {
+          "pacote": "2026-09-29-salmo-114-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "Dt_7r3lMRvA",
+          "titulo": "Salmo 114:1-2 — Quando Israel saiu do Egito, quando | Bíblia",
+          "em": "2026-09-29T02:27:04+00:00"
         }
       ],
-      "ultimo_short": "2026-09-28T01:37:38+00:00",
+      "ultimo_short": "2026-09-29T02:27:04+00:00",
       "shorts_dia": {
-        "data": "2026-09-28",
+        "data": "2026-09-29",
         "n": 1
       },
       "longo_data": "2026-09-29",
