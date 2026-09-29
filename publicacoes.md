@@ -5534,3 +5534,19 @@
 - Item: short-3 — Meditaciones 4:72
 - Duração: 24.8s
 - Publicado em: 2026-09-28T22:13:25+00:00
+
+## [es] 6-XgwGS7jYo — Salmos para Dormir — Salmo 114 Completo | Biblia Hablada
+
+- URL: https://youtu.be/6-XgwGS7jYo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 114
+- Duração: 803.3s
+- Publicado em: 2026-09-29T02:14:46+00:00
+
+## [pt] 9Dtr-5VHcI4 — Salmos para Dormir — Salmo 114 Completo | Bíblia Falada
+
+- URL: https://youtu.be/9Dtr-5VHcI4
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 114
+- Duração: 804.1s
+- Publicado em: 2026-09-29T02:22:17+00:00

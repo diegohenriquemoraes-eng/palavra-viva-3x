@@ -2224,6 +2224,14 @@
           "video_id": "G91HBE4c-7s",
           "titulo": "Salmo 109:22 — Porque yo estoy afligido y necesitado | Biblia",
           "em": "2026-09-28T16:28:12+00:00"
+        },
+        {
+          "pacote": "2026-09-29-salmo-114-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "6-XgwGS7jYo",
+          "titulo": "Salmos para Dormir — Salmo 114 Completo | Biblia Hablada",
+          "em": "2026-09-29T02:14:46+00:00"
         }
       ],
       "ultimo_short": "2026-09-28T16:28:12+00:00",
@@ -2231,12 +2239,12 @@
         "data": "2026-09-28",
         "n": 2
       },
-      "longo_data": "2026-09-28",
+      "longo_data": "2026-09-29",
       "longos_dia": {
-        "data": "2026-09-28",
-        "n": 2
+        "data": "2026-09-29",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-28T15:50:25+00:00"
+      "ultimo_longo": "2026-09-29T02:14:46+00:00"
     },
     "en": {
       "publicados": [
@@ -4274,6 +4282,14 @@
           "video_id": "We3bAm-g7Po",
           "titulo": "Salmos para Dormir — Salmo 110 Completo | Bíblia Falada",
           "em": "2026-09-28T15:59:06+00:00"
+        },
+        {
+          "pacote": "2026-09-29-salmo-114-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "9Dtr-5VHcI4",
+          "titulo": "Salmos para Dormir — Salmo 114 Completo | Bíblia Falada",
+          "em": "2026-09-29T02:22:17+00:00"
         }
       ],
       "ultimo_short": "2026-09-28T01:37:38+00:00",
@@ -4281,12 +4297,12 @@
         "data": "2026-09-28",
         "n": 1
       },
-      "longo_data": "2026-09-28",
+      "longo_data": "2026-09-29",
       "longos_dia": {
-        "data": "2026-09-28",
-        "n": 2
+        "data": "2026-09-29",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-28T15:59:06+00:00"
+      "ultimo_longo": "2026-09-29T02:22:17+00:00"
     },
     "stoic": {
       "publicados": [
