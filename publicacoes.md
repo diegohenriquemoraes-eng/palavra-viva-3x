@@ -5582,3 +5582,11 @@
 - Item: longo — Salmo 120
 - Duração: 636.1s
 - Publicado em: 2026-09-29T16:12:52+00:00
+
+## [es] sUv8vvmI9wc — Salmo 114:3-4 — La mar vio, y huyó; el Jordán | Biblia
+
+- URL: https://youtu.be/sUv8vvmI9wc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 114:3-4
+- Duração: 25.6s
+- Publicado em: 2026-09-29T16:16:36+00:00
