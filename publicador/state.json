@@ -4398,6 +4398,14 @@
           "titulo": "Salmos para Dormir — Salmo 129 Completo | Bíblia Falada",
           "em": "2026-09-30T06:18:25+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-30-salmo-132-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "wM1uIRI3is8",
+          "titulo": "Salmos para Dormir — Salmo 132 Completo | Bíblia Falada",
+          "em": "2026-09-30T18:57:01+00:00"
         }
       ],
       "ultimo_short": "2026-09-30T00:46:51+00:00",
@@ -4408,9 +4416,9 @@
       "longo_data": "2026-09-30",
       "longos_dia": {
         "data": "2026-09-30",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-09-30T06:18:25+00:00"
+      "ultimo_longo": "2026-09-30T18:57:01+00:00"
     },
     "stoic": {
       "publicados": [

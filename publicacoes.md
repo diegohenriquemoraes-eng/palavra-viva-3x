@@ -5638,3 +5638,11 @@
 - Item: short-2 — Salmo 129:4
 - Duração: 14.4s
 - Publicado em: 2026-09-30T14:01:31+00:00
+
+## [pt] wM1uIRI3is8 — Salmos para Dormir — Salmo 132 Completo | Bíblia Falada
+
+- URL: https://youtu.be/wM1uIRI3is8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 132
+- Duração: 1869.4s
+- Publicado em: 2026-09-30T18:57:01+00:00
