@@ -1,0 +1,205 @@
+{
+  "slug": "salmos-noche-1",
+  "formato": "dormir",
+  "data": "2026-10-02",
+  "criado_em": "2026-09-30T05:35:53+00:00",
+  "aprovado_em": "2026-09-30T05:35:53+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 91",
+      "Psalms 23",
+      "Psalms 4"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — Salmo 91, 23 y 4 | Biblia Hablada Voz Calmada",
+      "en": "Psalms for Sleep — Psalm 91, 23 and 4 | Calm Audio Bible",
+      "pt": "Salmos para Dormir — Salmo 91, 23 e 4 | Bíblia Narrada Voz Calma"
+    },
+    "thumb_titulo": {
+      "es": "SALMO 91\nY 23",
+      "en": "PSALM 91\nAND 23",
+      "pt": "SALMO 91\nE 23"
+    },
+    "thumb_sub": {
+      "es": "Salmos 91, 23 y 4",
+      "en": "Psalms 91, 23 and 4",
+      "pt": "Salmos 91, 23 e 4"
+    },
+    "abertura": {
+      "es": "Salmos noventa y uno, veintitres y cuatro, leídos despacio, para escuchar acostado. El noventa y uno es el salmo del amparo; el veintitrés, el del pastor; el cuatro termina con el versículo de acostarse en paz. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+      "pt": "Salmos noventa e um, vinte e três e quatro, lidos devagar, para ouvir deitado. O noventa e um é o salmo do amparo; o vinte e três, o do pastor; o quatro termina com o versículo de deitar-se em paz. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+    },
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 91",
+        "salmo 23",
+        "biblia hablada para dormir",
+        "salmos de noche",
+        "salmos narrados"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 91",
+        "salmo 23",
+        "biblia narrada para dormir",
+        "salmos da noite",
+        "salmos narrados"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos 91, 23 y 4 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+      "pt": "Salmos 91, 23 e 4 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Crescent_Moon_Clouds_%28201245183%29.jpeg/1920px-Crescent_Moon_Clouds_%28201245183%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Todd Williams",
+        "origem": "https://commons.wikimedia.org/wiki/File:Crescent_Moon_Clouds_(201245183).jpeg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg/1920px-Moon_and_clouds_over_Lake_Quannapowitt%2C_Wakefield_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "John Phelan",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Lake_Quannapowitt,_Wakefield_MA.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Moon_and_clouds%2C_2021-11-18%2C_02.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Moon_and_clouds_over_Brofjorden_4.jpg/1920px-Moon_and_clouds_over_Brofjorden_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Desert_Flag_Night_Flights_%288384159%29.jpg/1920px-Desert_Flag_Night_Flights_%288384159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384159).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Starry_night_at_the_Atacama_Desert_coast_%28gerd_huedepohl_9%29.jpg/1920px-Starry_night_at_the_Atacama_Desert_coast_%28gerd_huedepohl_9%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "G. Hüdepohl ( atacamaphoto.com )/ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_night_at_the_Atacama_Desert_coast_(gerd_huedepohl_9).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Starry_night_at_the_Atacama_Desert_coast_%28gerd_huedepohl_9%29.tiff/lossy-page1-1920px-Starry_night_at_the_Atacama_Desert_coast_%28gerd_huedepohl_9%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "G. Hüdepohl ( atacamaphoto.com )/ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_night_at_the_Atacama_Desert_coast_(gerd_huedepohl_9).tiff",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Desert_Flag_Night_Flights_%288384166%29.jpg/1920px-Desert_Flag_Night_Flights_%288384166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384166).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Desert_Flag_Night_Flights_%288384165%29.jpg/1920px-Desert_Flag_Night_Flights_%288384165%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384165).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 91:1-2",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 91:1-2 — El que habita al abrigo del Altísimo | Biblia",
+        "en": "Psalm 91:1-2 — He that dwelleth in the secret place | Bible",
+        "pt": "Salmo 91:1-2 — Aquele que mora no esconderijo do Altíssimo | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "El salmo más leído de noche empieza así.",
+        "pt": "O salmo mais lido à noite começa assim."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Moon_and_clouds%2C_2021-11-18%2C_03.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_03.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 23:4",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 23:4 — Aunque ande en valle de sombra | Biblia",
+        "en": "Psalm 23:4 — Yea, though I walk through the valley | Bible",
+        "pt": "Salmo 23:4 — Ainda que eu venha a andar pelo | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "El valle de sombra de muerte, según David.",
+        "pt": "O vale da sombra da morte, segundo Davi."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier%2C_full_height_demo%2C_3-4_front%2C_1978.jpg/1920px-U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier%2C_full_height_demo%2C_3-4_front%2C_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "A. J. M.",
+        "origem": "https://commons.wikimedia.org/wiki/File:U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier,_full_height_demo,_3-4_front,_1978.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 4:8",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 4:8 — En paz me acostaré, y asimismo dormiré | Biblia",
+        "en": "Psalm 4:8 — I will both lay me down | Bible",
+        "pt": "Salmo 4:8 — Eu deitarei, e dormirei em paz; porque | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Ocho palabras para antes de apagar la luz.",
+        "pt": "Oito palavras para antes de apagar a luz."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 91:4",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 91:4 — Con sus plumas te cubrirá, y debajo | Biblia",
+        "en": "Psalm 91:4 — He shall cover thee with his feathers | Bible",
+        "pt": "Salmo 91:4 — Com suas penas ele te cobrirá | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Bajo sus alas: el versículo del amparo.",
+        "pt": "Debaixo das suas asas: o versículo do amparo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Moon_Clouds_Treetops_Abstract_2.jpg/1920px-Moon_Clouds_Treetops_Abstract_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract_2.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
