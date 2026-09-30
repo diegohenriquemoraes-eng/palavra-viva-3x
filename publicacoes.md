@@ -5606,3 +5606,11 @@
 - Item: short-1 — Salmo 129:2
 - Duração: 17.1s
 - Publicado em: 2026-09-30T00:46:51+00:00
+
+## [es] 1ShnwLDEgJ0 — Salmo 129:2 — Mucho me han angustiado desde mi juventud | Biblia
+
+- URL: https://youtu.be/1ShnwLDEgJ0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 129:2
+- Duração: 15.9s
+- Publicado em: 2026-09-30T00:55:00+00:00

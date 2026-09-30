@@ -2272,12 +2272,20 @@
           "video_id": "yByQ625eYwI",
           "titulo": "Salmos para Dormir — Salmo 129 Completo | Biblia Hablada",
           "em": "2026-09-30T00:45:48+00:00"
+        },
+        {
+          "pacote": "2026-09-30-salmo-129-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "1ShnwLDEgJ0",
+          "titulo": "Salmo 129:2 — Mucho me han angustiado desde mi juventud | Biblia",
+          "em": "2026-09-30T00:55:00+00:00"
         }
       ],
-      "ultimo_short": "2026-09-29T16:16:36+00:00",
+      "ultimo_short": "2026-09-30T00:55:00+00:00",
       "shorts_dia": {
-        "data": "2026-09-29",
-        "n": 2
+        "data": "2026-09-30",
+        "n": 1
       },
       "longo_data": "2026-09-30",
       "longos_dia": {
