@@ -4364,6 +4364,14 @@
           "video_id": "9MZvo_MYeUA",
           "titulo": "Salmo 129:2 — Desde minha juventude, muitas vezes me afligiram | Bíblia",
           "em": "2026-09-30T00:46:51+00:00"
+        },
+        {
+          "pacote": "2026-09-30-salmo-129-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "mhRNbgr0wFc",
+          "titulo": "Salmos para Dormir — Salmo 129 Completo | Bíblia Falada",
+          "em": "2026-09-30T06:18:25+00:00"
         }
       ],
       "ultimo_short": "2026-09-30T00:46:51+00:00",
@@ -4371,12 +4379,12 @@
         "data": "2026-09-30",
         "n": 1
       },
-      "longo_data": "2026-09-29",
+      "longo_data": "2026-09-30",
       "longos_dia": {
-        "data": "2026-09-29",
-        "n": 2
+        "data": "2026-09-30",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-29T16:12:52+00:00"
+      "ultimo_longo": "2026-09-30T06:18:25+00:00"
     },
     "stoic": {
       "publicados": [

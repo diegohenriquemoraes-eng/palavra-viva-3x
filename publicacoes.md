@@ -5614,3 +5614,11 @@
 - Item: short-1 — Salmo 129:2
 - Duração: 15.9s
 - Publicado em: 2026-09-30T00:55:00+00:00
+
+## [pt] mhRNbgr0wFc — Salmos para Dormir — Salmo 129 Completo | Bíblia Falada
+
+- URL: https://youtu.be/mhRNbgr0wFc
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 129
+- Duração: 824.0s
+- Publicado em: 2026-09-30T06:18:25+00:00
