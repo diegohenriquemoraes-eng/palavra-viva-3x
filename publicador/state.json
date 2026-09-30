@@ -2296,12 +2296,20 @@
           "titulo": "Salmos para Dormir — Salmo 132 Completo | Biblia Hablada",
           "em": "2026-09-30T13:31:02+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-09-30-salmo-129-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "o3w_AfK7Ryk",
+          "titulo": "Salmo 129:4 — Jehová es justo; cortó las coyundas | Biblia",
+          "em": "2026-09-30T14:01:31+00:00"
         }
       ],
-      "ultimo_short": "2026-09-30T00:55:00+00:00",
+      "ultimo_short": "2026-09-30T14:01:31+00:00",
       "shorts_dia": {
         "data": "2026-09-30",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-09-30",
       "longos_dia": {

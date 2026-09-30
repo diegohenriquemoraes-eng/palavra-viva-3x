@@ -5630,3 +5630,11 @@
 - Item: longo — Salmo 132
 - Duração: 1765.0s
 - Publicado em: 2026-09-30T13:31:02+00:00
+
+## [es] o3w_AfK7Ryk — Salmo 129:4 — Jehová es justo; cortó las coyundas | Biblia
+
+- URL: https://youtu.be/o3w_AfK7Ryk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 129:4
+- Duração: 14.4s
+- Publicado em: 2026-09-30T14:01:31+00:00
