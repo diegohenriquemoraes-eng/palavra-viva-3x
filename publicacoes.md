@@ -5622,3 +5622,11 @@
 - Item: longo — Salmo 129
 - Duração: 824.0s
 - Publicado em: 2026-09-30T06:18:25+00:00
+
+## [es] 1ztQZxdvwNM — Salmos para Dormir — Salmo 132 Completo | Biblia Hablada
+
+- URL: https://youtu.be/1ztQZxdvwNM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 132
+- Duração: 1765.0s
+- Publicado em: 2026-09-30T13:31:02+00:00
