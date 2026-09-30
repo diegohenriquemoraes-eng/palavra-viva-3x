@@ -5590,3 +5590,19 @@
 - Item: short-2 — Salmo 114:3-4
 - Duração: 25.6s
 - Publicado em: 2026-09-29T16:16:36+00:00
+
+## [es] yByQ625eYwI — Salmos para Dormir — Salmo 129 Completo | Biblia Hablada
+
+- URL: https://youtu.be/yByQ625eYwI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 129
+- Duração: 791.3s
+- Publicado em: 2026-09-30T00:45:48+00:00
+
+## [pt] 9MZvo_MYeUA — Salmo 129:2 — Desde minha juventude, muitas vezes me afligiram | Bíblia
+
+- URL: https://youtu.be/9MZvo_MYeUA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 129:2
+- Duração: 17.1s
+- Publicado em: 2026-09-30T00:46:51+00:00
