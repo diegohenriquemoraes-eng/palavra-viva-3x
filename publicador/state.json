@@ -2312,12 +2312,20 @@
           "video_id": "Z0nr8REbFgw",
           "titulo": "Salmos para Dormir — Salmo 137 Completo | Biblia Hablada",
           "em": "2026-10-01T00:10:18+00:00"
+        },
+        {
+          "pacote": "2026-10-01-salmo-137-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "_Ffq1NyMVN8",
+          "titulo": "Salmo 137:1 — Junto a los ríos de Babilonia, allí | Biblia",
+          "em": "2026-10-01T01:42:54+00:00"
         }
       ],
-      "ultimo_short": "2026-09-30T14:01:31+00:00",
+      "ultimo_short": "2026-10-01T01:42:54+00:00",
       "shorts_dia": {
-        "data": "2026-09-30",
-        "n": 2
+        "data": "2026-10-01",
+        "n": 1
       },
       "longo_data": "2026-10-01",
       "longos_dia": {

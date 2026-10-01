@@ -5670,3 +5670,11 @@
 - Item: short-1 — Enquiridión 1:1
 - Duração: 22.6s
 - Publicado em: 2026-10-01T01:28:16+00:00
+
+## [es] _Ffq1NyMVN8 — Salmo 137:1 — Junto a los ríos de Babilonia, allí | Biblia
+
+- URL: https://youtu.be/_Ffq1NyMVN8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 137:1
+- Duração: 19.9s
+- Publicado em: 2026-10-01T01:42:54+00:00
