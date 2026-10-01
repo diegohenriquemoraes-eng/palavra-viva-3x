@@ -459,6 +459,36 @@ longos. **O ES não tem margem para reenviar um longo que falhe.** Está
 registrado em `SEM_MARGEM_DE_RETRY` no teste, para ser decisão e não surpresa —
 abrir margem custa um Short/dia, e isso é decisão do Diego.
 
+## La Noche Estoica relida no PROTOCOLO FANTASMA (30/09/2026) — poço de volta e longo ligado
+
+O canal **parou de publicar em 28/09**: o poço estoico zerou (alarme do vigia desde 17/09, ninguém
+agiu). Pedido do Diego: "segue o protocolo fantasma, pesquise de novo e aplique". O manual (PDF de
+144 p. em `Desktop\Venda na Obra`) foi relido inteiro. O que ele diz e o que virou ação:
+
+| Manual | Estado em 30/09 | Ação |
+|---|---|---|
+| Constância diária, reserva de vídeos prontos (p.37, 108) | 2 dias mudo, poço 0 | **+15 temas / 60 Shorts** (`produzir/gerar_temas_estoico_30_09.py`): fila até ~15/10 |
+| Short de 10-20 s (p.82) / 15-25 s (p.24) | 22-28 s | citação ≤ 30 palavras na maioria; render local deu 17-23 s |
+| View ratio ≥ 70 % (p.24) — é o teto de ~1.000 views | 41 % "continuaram" | gancho de afirmação por Short (o que faz ~2x); **sem mexer no visual até a régua de 03/10** |
+| Título < 55 car., 5-8 palavras, abre a pergunta (p.68) | ok | todos ≤ 45 car., 2ª pessoa, nenhum repete título publicado (o gerador confere `desempenho.json`) |
+| 3/dia só em "canal rodando", testar canibalização (p.114) | 3/dia desde 22/08, mediana 981 → 1.056 | **mantém 3/dia**: não houve canibalização |
+| Trilha de Shorts do YPP: 10 mi válidas ≈ 20 mi brutas em 90 d (p.79) | ~3 mil views/dia | inalcançável (~220 mil/dia); a porta é a das 4.000 h |
+| Vídeo longo | **o manual não tem estratégia de longo** (só Shorts) | longo **ligado** (decisão do Diego de 08/09, régua de 22/09 passou) |
+
+**O longo estoico (formato `libro`)**: um livro inteiro das Meditaciones ou um terço do Enquiridión
+(I-XXVI, XXVII-LII, LIII-LXXVIII), **sem repetição** (`ALVO_MIN["libro"] = 0`), 20-40 min. Os 15
+longos do lote usam 15 fontes diferentes. Camada autoral do longo: `abertura` + **`cierre`** (novo,
+30/09) — fechamento falado por nós que liga o livro aos Shorts do dia; vira o capítulo "Reflexión
+final". Longo de dormir não ganha `cierre` (acordaria quem dormiu). Playlist própria
+"Libros estoicos completos 📜", selo de capa "LIBRO COMPLETO". `hora_longo_utc: 22` (17h CDMX):
+às 02 UTC já sai o longo do PT, e dois renders de longo no mesmo job arriscam o teto de 110 min.
+
+⚠ **O corpus acaba com este lote, e o longo trava antes do Short.** São 15 fontes de longo sem
+repetir (12 livros + 3 terços do Enquiridión) e ~620 frases livres para Short. Antes de ~15/10 é
+preciso escrever o próximo lote; para longo sem repetir trecho, falta **corpus novo em domínio
+público verificado** (Disertaciones de Epicteto numa tradução PD; Séneca segue barrado, ver
+abaixo) — ou aceitar repetir livros já publicados com outro recorte.
+
 ## O poço estoico quase secou (03/09/2026) — e o que ficou pronto para o longo
 
 O alarme novo pegou de imediato: **1 tema livre**. La Noche Estoica é o único
@@ -752,7 +782,7 @@ O que muda SÓ neste canal (os bíblicos seguem como estavam):
 | Regra do método | Como está implementado |
 |---|---|
 | 1 vídeo/dia, mesmo horário | `shorts_por_dia: 1` + `hora_short_utc: 1` (01 UTC = 19h CDMX / 20h Bogotá / 22h Buenos Aires) |
-| Sem vídeo longo | `hora_longo_utc: null` (suportado em `decidir`) |
+| ~~Sem vídeo longo~~ **longo ligado em 30/09** | `hora_longo_utc: 22`, `longos_por_dia: 1`, formato `libro` |
 | Short de 10-20s | `max_short_s: 20.0` no CONFIG do idioma |
 | 2-3 hashtags, não 5 | `hashtags` com 3 |
 | Descrição enxuta | `descricao_curta: True` (pula o texto citado e o CTA escrito) |

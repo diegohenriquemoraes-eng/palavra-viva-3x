@@ -43,7 +43,8 @@ ROTULO_FORMATO = {
            "historia": "BIBLE STORY"},
     "pt": {"dormir": "PARA DORMIR", "tema": "BÍBLIA NARRADA",
            "historia": "HISTÓRIA BÍBLICA"},
-    "stoic": {"dormir": "PARA DORMIR", "tema": "ESTOICISMO"},
+    "stoic": {"dormir": "PARA DORMIR", "tema": "ESTOICISMO",
+              "libro": "LIBRO COMPLETO"},
     "sabiduria": {"dormir": "PARA DORMIR", "tema": "SABIDURÍA"},
 }
 

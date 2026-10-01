@@ -7,6 +7,23 @@
 > Claude na nuvem escreve `O que funciona - <território> (síntese mensal)`. Antes de qualquer
 > sessão de conteúdo: ler a síntese no cérebro. Detalhe: nota `Inventário mensal dos canais`.
 
+## 30/09/2026 — La Noche Estoica: estava MUDA desde 28/09; poço reposto e longo ligado
+
+O poço estoico zerou e o canal parou em 28/09 (o vigia avisava desde 17/09). Pedido do Diego:
+reler o Protocolo Fantasma e aplicar. Feito: **+15 temas / 60 Shorts** (fila até ~15/10), Shorts
+mais curtos (17-23 s no render), gancho de afirmação e frase própria em todos, títulos ≤ 45
+caracteres. **Vídeo longo ligado** (1/dia, 22 UTC = 17h CDMX), como decidido em 08/09: o manual só
+cobre Shorts, e a trilha de Shorts do YPP (~20 mi de views brutas em 90 dias) é inalcançável — a
+porta do canal é a das 4.000 h. Longo novo no formato `libro` (um livro inteiro, sem repetição,
+com abertura e **fechamento falados por nós**, que é a camada autoral do longo). Cadência de
+Shorts mantida em 3/dia (sem canibalização medida). Detalhe no `CLAUDE.md`, seção de 30/09.
+
+Réguas: **03/10** — gancho (≥ 55 % "continuaram", mediana 2-7 d > 600; não mexer no visual antes).
+**~31/10** — primeiras horas contáveis do longo estoico (`medir_horas.py --canal stoic`).
+⚠ O corpus acaba neste lote: o próximo (antes de ~15/10) precisa de corpus novo em domínio
+público para o longo não repetir livro. ⚠ O poço **bíblico** também está curto: 22 temas livres
+a 2 pacotes/dia = até ~11/10.
+
 ## 23/09/2026 — GTA 6: NO AR nas três redes, publicando sozinho
 
 Canal novo da casa (o 7º), em `Projetos\gta6-canais`: YouTube (3 Shorts + 1 longo/dia),

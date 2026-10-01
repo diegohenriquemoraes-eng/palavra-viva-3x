@@ -4143,5 +4143,1445 @@
         "aplicacao": "Lo que el otro haga bien no te descuenta nada. Haz lo tuyo."
       }
     ]
+  },
+  {
+    "slug": "solo-esto-es-tuyo",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Enquiridión 1",
+        "Enquiridión 2",
+        "Enquiridión 3",
+        "Enquiridión 4",
+        "Enquiridión 5",
+        "Enquiridión 6",
+        "Enquiridión 7",
+        "Enquiridión 8",
+        "Enquiridión 9",
+        "Enquiridión 10",
+        "Enquiridión 11",
+        "Enquiridión 12",
+        "Enquiridión 13",
+        "Enquiridión 14",
+        "Enquiridión 15",
+        "Enquiridión 16",
+        "Enquiridión 17",
+        "Enquiridión 18",
+        "Enquiridión 19",
+        "Enquiridión 20",
+        "Enquiridión 21",
+        "Enquiridión 22",
+        "Enquiridión 23",
+        "Enquiridión 24",
+        "Enquiridión 25",
+        "Enquiridión 26"
+      ],
+      "titulo": {
+        "stoic": "Solo Esto Es Tuyo | Epicteto, Enquiridión I-XXVI"
+      },
+      "thumb_titulo": {
+        "stoic": "SOLO ESTO\nES TUYO"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión I-XXVI"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "night clouds",
+        "harbor night"
+      ],
+      "abertura": {
+        "stoic": "Epicteto nació esclavo. Lo primero que enseñaba a sus alumnos era una división: lo que depende de ti y lo que no. Estos son los primeros veintiséis capítulos de su manual, tal como los tradujo Antonio Brum."
+      },
+      "cierre": {
+        "stoic": "Eso fue Epicteto. Si te quedas con una sola idea, que sea esta: antes de preocuparte, pregunta de quién es el problema. Lo tuyo es tu juicio, tu esfuerzo y tu palabra. Lo demás llega y se va, y no te pide permiso."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "dicotomia del control",
+          "lo que depende de ti",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Epicteto, Enquiridión, capítulos I a XXVI, narrados en español (trad. Antonio Brum)."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 1:1/2",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Tu reputación no es tuya"
+        },
+        "gancho": {
+          "stoic": "Epicteto puso tu reputación fuera de tu control."
+        },
+        "aplicacao": "Cuida lo que haces; lo que dicen de ti lo administra otro."
+      },
+      {
+        "ref": "Enquiridión 5:1/3",
+        "tipo": "reframe",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "La pregunta que corta la ansiedad"
+        },
+        "gancho": {
+          "stoic": "Una pregunta de Epicteto para cualquier problema."
+        },
+        "aplicacao": "Antes de angustiarte, pregunta de quién es el problema."
+      },
+      {
+        "ref": "Enquiridión 6:1/3",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "El único miedo que nunca se cumple"
+        },
+        "gancho": {
+          "stoic": "Hay un miedo que nunca se cumple."
+        },
+        "aplicacao": "Teme mentir, no perder: lo primero lo evitas tú."
+      },
+      {
+        "ref": "Enquiridión 27:1/3",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Ni senador ni emperador: libre"
+        },
+        "gancho": {
+          "stoic": "Un exesclavo le dijo esto a la Roma ambiciosa."
+        },
+        "aplicacao": "El cargo te lo pueden quitar; la libertad interior, no."
+      }
+    ]
+  },
+  {
+    "slug": "la-olla-de-barro",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 10"
+      ],
+      "titulo": {
+        "stoic": "Todo Lo Que Amas Se Puede Romper | Marco Aurelio, Libro X"
+      },
+      "thumb_titulo": {
+        "stoic": "SE PUEDE\nROMPER"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones X"
+      },
+      "consultas_imagens": [
+        "clay lamp",
+        "moon clouds",
+        "dusk sky"
+      ],
+      "abertura": {
+        "stoic": "El décimo libro de las Meditaciones lo escribió un emperador viejo, en campaña, lejos de Roma. Habla de recibir y de devolver: de tener las cosas sin creer que son para siempre. Este es el libro completo."
+      },
+      "cierre": {
+        "stoic": "Marco Aurelio no pedía querer menos, sino querer sabiendo. La olla es de barro, el tiempo es prestado, la gente que amas no es tuya. Saberlo no enfría el cariño: lo prepara para el día en que algo se rompa."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 10",
+          "aceptar la perdida",
+          "desapego estoico",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro X de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 8:1/3",
+        "tipo": "reframe",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Piensa que se puede romper"
+        },
+        "gancho": {
+          "stoic": "El truco de Epicteto con una olla de barro."
+        },
+        "aplicacao": "Lo que amas es frágil; saberlo no te enfría, te prepara."
+      },
+      {
+        "ref": "Enquiridión 33:1/2",
+        "tipo": "reframe",
+        "consulta_imagem": "rain window",
+        "titulo": {
+          "stoic": "Cuando el vaso roto es el tuyo"
+        },
+        "gancho": {
+          "stoic": "Lo que dices cuando el vaso roto es ajeno."
+        },
+        "aplicacao": "Repítete el consuelo que regalas a los demás."
+      },
+      {
+        "ref": "Meditaciones 8:49/1",
+        "tipo": "maxim",
+        "consulta_imagem": "old clock",
+        "titulo": {
+          "stoic": "Todo tu tiempo fue un regalo"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio sobre el tiempo que nadie te debía."
+        },
+        "aplicacao": "Lo regalado no se reclama: se agradece mientras dura."
+      },
+      {
+        "ref": "Meditaciones 10:29/1",
+        "tipo": "maxim",
+        "consulta_imagem": "moon clouds",
+        "titulo": {
+          "stoic": "Dame lo que quieras, quítame lo que quieras"
+        },
+        "gancho": {
+          "stoic": "La oración de un emperador a la Naturaleza."
+        },
+        "aplicacao": "Recibir sin aferrarse: así se pierde sin romperse."
+      }
+    ]
+  },
+  {
+    "slug": "nadie-te-ofende",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 8"
+      ],
+      "titulo": {
+        "stoic": "La Ofensa Necesita Tu Firma | Marco Aurelio, Libro VIII"
+      },
+      "thumb_titulo": {
+        "stoic": "SIN TU\nPERMISO"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VIII"
+      },
+      "consultas_imagens": [
+        "storm clouds",
+        "night clouds",
+        "bonfire night"
+      ],
+      "abertura": {
+        "stoic": "El octavo libro de las Meditaciones vuelve una y otra vez a la misma pregunta: qué parte del daño viene de fuera y qué parte pone uno mismo. Lo escuchas completo, en la traducción de Díaz de Miranda."
+      },
+      "cierre": {
+        "stoic": "La idea que atraviesa este libro es incómoda: el insulto llega, pero la herida la ponemos nosotros. No significa aguantarlo todo. Significa que quien puede enojarte cuando quiere tiene el mando de tu día, y ese mando se puede recuperar."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 8",
+          "como no ofenderse",
+          "insultos estoicismo",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro VIII de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 38:2/1",
+        "tipo": "maxim",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "La ofensa necesita tu firma"
+        },
+        "gancho": {
+          "stoic": "Epicteto explicó quién decide si te ofenden."
+        },
+        "aplicacao": "El insulto llega; la herida la pones tú."
+      },
+      {
+        "ref": "Meditaciones 8:56/2-3",
+        "tipo": "reframe",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "Te contaron que hablan mal de ti"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio separa el chisme del daño."
+        },
+        "aplicacao": "Te dieron una noticia, no una herida. No la conviertas."
+      },
+      {
+        "ref": "Meditaciones 8:63/1",
+        "tipo": "reframe",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "¿Quieres el aplauso de quien se odia?"
+        },
+        "gancho": {
+          "stoic": "Antes de buscar su aprobación, oye esto."
+        },
+        "aplicacao": "Mira cómo se trata él antes de pedirle que te juzgue."
+      },
+      {
+        "ref": "Enquiridión 18:2/3",
+        "tipo": "maxim",
+        "consulta_imagem": "bonfire night",
+        "titulo": {
+          "stoic": "Quien te enoja cuando quiere, te manda"
+        },
+        "gancho": {
+          "stoic": "Si cualquiera te enciende, tu calma tiene dueño."
+        },
+        "aplicacao": "Recupera el mando: que tu humor no dependa del ajeno."
+      }
+    ]
+  },
+  {
+    "slug": "la-fama-se-olvida",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 4"
+      ],
+      "titulo": {
+        "stoic": "Todo Nombre Acaba en el Olvido | Marco Aurelio, Libro IV"
+      },
+      "thumb_titulo": {
+        "stoic": "EL\nOLVIDO"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones IV"
+      },
+      "consultas_imagens": [
+        "milky way",
+        "desert night",
+        "night clouds"
+      ],
+      "abertura": {
+        "stoic": "El cuarto libro de las Meditaciones es el más largo sobre la fama. Marco Aurelio era el hombre más famoso de su mundo y escribió, para sí mismo, que todo nombre acaba olvidado. Este es el libro entero."
+      },
+      "cierre": {
+        "stoic": "Lo curioso es que lo escribió alguien a quien todavía recordamos. Y aun así tenía razón: trabajar para que te recuerden es construir sobre arena. Trabajar para hacer el bien deja algo aunque nadie sepa tu nombre."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 4",
+          "la fama",
+          "vanidad estoicismo",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro IV de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 6:27/2",
+        "tipo": "maxim",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "stoic": "Quieren el aplauso de quien no verán"
+        },
+        "gancho": {
+          "stoic": "El desatino que Marco Aurelio veía en todos."
+        },
+        "aplicacao": "Elogia hoy a quien tienes al lado; el futuro no te aplaude."
+      },
+      {
+        "ref": "Meditaciones 4:30/5",
+        "tipo": "reframe",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "La esmeralda no necesita aplausos"
+        },
+        "gancho": {
+          "stoic": "Una piedra preciosa contra tu ansia de elogios."
+        },
+        "aplicacao": "Si vales, vales en silencio. El elogio no te añade nada."
+      },
+      {
+        "ref": "Meditaciones 4:50/2",
+        "tipo": "maxim",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "Todo acaba siendo leyenda, y luego nada"
+        },
+        "gancho": {
+          "stoic": "Lo que el olvido hace con todos los nombres."
+        },
+        "aplicacao": "Trabaja por lo que es bueno, no por lo que se recuerda."
+      },
+      {
+        "ref": "Meditaciones 8:28/4-5",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "El que enterró también fue enterrado"
+        },
+        "gancho": {
+          "stoic": "La lista de entierros que escribió un emperador."
+        },
+        "aplicacao": "Nadie queda para contar el final. Vive el tuyo con sentido."
+      }
+    ]
+  },
+  {
+    "slug": "manos-a-la-obra",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 5"
+      ],
+      "titulo": {
+        "stoic": "Levántate y Haz Tu Trabajo | Marco Aurelio, Libro V"
+      },
+      "thumb_titulo": {
+        "stoic": "MANOS A\nLA OBRA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones V"
+      },
+      "consultas_imagens": [
+        "dusk sky",
+        "old clock",
+        "torch fire"
+      ],
+      "abertura": {
+        "stoic": "El quinto libro de las Meditaciones empieza en la cama: un emperador que no quiere levantarse y se discute a sí mismo. Es el libro de la pereza y del deber, completo."
+      },
+      "cierre": {
+        "stoic": "Si a un emperador le costaba levantarse, a ti también te va a costar. La diferencia no está en las ganas, que casi nunca llegan, sino en empezar sin ellas. Elige una tarea pequeña y hazla antes de que la duda tenga tiempo de hablar."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 5",
+          "pereza",
+          "disciplina estoica",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro V de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 9:44/4",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Hazlo aunque nadie lo vea"
+        },
+        "gancho": {
+          "stoic": "Una orden de Marco Aurelio para hoy."
+        },
+        "aplicacao": "La obra buena no espera testigos ni el momento perfecto."
+      },
+      {
+        "ref": "Meditaciones 5:1/4",
+        "tipo": "reframe",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "¿Naciste para quedarte en la cama?"
+        },
+        "gancho": {
+          "stoic": "Lo que se reprochaba el emperador al despertar."
+        },
+        "aplicacao": "La pereza promete descanso y te cobra en culpa."
+      },
+      {
+        "ref": "Meditaciones 5:1/5",
+        "tipo": "reframe",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "Hasta la hormiga termina su trabajo"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio se comparó con una hormiga."
+        },
+        "aplicacao": "Todo en la naturaleza cumple su tarea. Cumple la tuya."
+      },
+      {
+        "ref": "Meditaciones 2:4/2",
+        "tipo": "maxim",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "Deja los libros y vive"
+        },
+        "gancho": {
+          "stoic": "Un emperador filósofo se ordenó dejar de leer."
+        },
+        "aplicacao": "Leer sobre el cambio también es una forma de no cambiar."
+      }
+    ]
+  },
+  {
+    "slug": "el-banquete",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Enquiridión 27",
+        "Enquiridión 28",
+        "Enquiridión 29",
+        "Enquiridión 30",
+        "Enquiridión 31",
+        "Enquiridión 32",
+        "Enquiridión 33",
+        "Enquiridión 34",
+        "Enquiridión 35",
+        "Enquiridión 36",
+        "Enquiridión 37",
+        "Enquiridión 38",
+        "Enquiridión 39",
+        "Enquiridión 40",
+        "Enquiridión 41",
+        "Enquiridión 42",
+        "Enquiridión 43",
+        "Enquiridión 44",
+        "Enquiridión 45",
+        "Enquiridión 46",
+        "Enquiridión 47",
+        "Enquiridión 48",
+        "Enquiridión 49",
+        "Enquiridión 50",
+        "Enquiridión 51",
+        "Enquiridión 52"
+      ],
+      "titulo": {
+        "stoic": "Vive Como en un Banquete | Epicteto, Enquiridión XXVII-LII"
+      },
+      "thumb_titulo": {
+        "stoic": "EL\nBANQUETE"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión XXVII-LII"
+      },
+      "consultas_imagens": [
+        "bonfire night",
+        "clay lamp",
+        "harbor night"
+      ],
+      "abertura": {
+        "stoic": "La parte central del manual de Epicteto trata del deseo: del placer, del dinero, de lo que otros tienen. Su imagen favorita es un banquete. Escuchas los capítulos veintisiete a cincuenta y dos."
+      },
+      "cierre": {
+        "stoic": "La regla del banquete es sencilla: toma tu parte cuando el plato llegue a ti, no lo arrebates, no lo persigas cuando se va. Casi toda la ansiedad por tener más es querer comer antes de que te sirvan."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "el deseo",
+          "templanza estoica",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Epicteto, Enquiridión, capítulos XXVII a LII, narrados en español (trad. Antonio Brum)."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 22:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "bonfire night",
+        "titulo": {
+          "stoic": "Vive como en un banquete"
+        },
+        "gancho": {
+          "stoic": "La regla del banquete de Epicteto."
+        },
+        "aplicacao": "Toma tu parte cuando llegue; no arrebates el plato ajeno."
+      },
+      {
+        "ref": "Enquiridión 56:1/4",
+        "tipo": "reframe",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "El gusto de haber dicho que no"
+        },
+        "gancho": {
+          "stoic": "El placer que Epicteto ponía sobre el placer."
+        },
+        "aplicacao": "Decir no también se disfruta, y ese gusto no deja resaca."
+      },
+      {
+        "ref": "Enquiridión 56:1/3",
+        "tipo": "reframe",
+        "consulta_imagem": "rain window",
+        "titulo": {
+          "stoic": "El placer dura menos que la culpa"
+        },
+        "gancho": {
+          "stoic": "La cuenta de Epicteto antes de cada tentación."
+        },
+        "aplicacao": "Cuenta los minutos de gusto y las horas de culpa."
+      },
+      {
+        "ref": "Enquiridión 61:1/4",
+        "tipo": "maxim",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "stoic": "Pasado el límite, ya no hay límite"
+        },
+        "gancho": {
+          "stoic": "Por qué el primer exceso nunca es el último."
+        },
+        "aplicacao": "El «solo esta vez» es la puerta, no la excepción."
+      }
+    ]
+  },
+  {
+    "slug": "el-filosofo-callado",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Enquiridión 53",
+        "Enquiridión 54",
+        "Enquiridión 55",
+        "Enquiridión 56",
+        "Enquiridión 57",
+        "Enquiridión 58",
+        "Enquiridión 59",
+        "Enquiridión 60",
+        "Enquiridión 61",
+        "Enquiridión 62",
+        "Enquiridión 63",
+        "Enquiridión 64",
+        "Enquiridión 65",
+        "Enquiridión 66",
+        "Enquiridión 67",
+        "Enquiridión 68",
+        "Enquiridión 69",
+        "Enquiridión 70",
+        "Enquiridión 71",
+        "Enquiridión 72",
+        "Enquiridión 73",
+        "Enquiridión 74",
+        "Enquiridión 75",
+        "Enquiridión 76",
+        "Enquiridión 77",
+        "Enquiridión 78"
+      ],
+      "titulo": {
+        "stoic": "No Digas Que Eres Filósofo | Epicteto, Enquiridión LIII-LXXVIII"
+      },
+      "thumb_titulo": {
+        "stoic": "NO LO\nDIGAS"
+      },
+      "thumb_sub": {
+        "stoic": "Epicteto, Enquiridión LIII-LXXVIII"
+      },
+      "consultas_imagens": [
+        "smoke incense",
+        "clay lamp",
+        "night clouds"
+      ],
+      "abertura": {
+        "stoic": "El final del manual de Epicteto es una advertencia a sus propios alumnos: saber filosofía no es lo mismo que vivirla. Escuchas los últimos capítulos, del cincuenta y tres al setenta y ocho."
+      },
+      "cierre": {
+        "stoic": "Epicteto termina donde empieza la vida real: en lo que haces cuando nadie te pide que expliques. No hace falta citar a los estoicos. Basta con que, mañana, alguien note que ya no reaccionas igual."
+      },
+      "tags_extra": {
+        "stoic": [
+          "epicteto",
+          "enquiridion",
+          "practicar la filosofia",
+          "humildad estoica",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "Epicteto, Enquiridión, capítulos LIII a LXXVIII, narrados en español (trad. Antonio Brum)."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 68:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "smoke incense",
+        "titulo": {
+          "stoic": "No digas que eres filósofo"
+        },
+        "gancho": {
+          "stoic": "Epicteto prohibía presumir de lo que lees."
+        },
+        "aplicacao": "Que te noten por cómo vives, no por lo que citas."
+      },
+      {
+        "ref": "Enquiridión 68:2/4",
+        "tipo": "reframe",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "La oveja no devuelve la hierba"
+        },
+        "gancho": {
+          "stoic": "La lección de las ovejas de Epicteto."
+        },
+        "aplicacao": "Digiere lo que aprendes; que se vea en lo que das."
+      },
+      {
+        "ref": "Enquiridión 75:2/3",
+        "tipo": "maxim",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "Sabemos que mentir es malo, y mentimos"
+        },
+        "gancho": {
+          "stoic": "La acusación de Epicteto contra los que saben mucho."
+        },
+        "aplicacao": "Saber la regla no es cumplirla. La prueba es hoy."
+      },
+      {
+        "ref": "Meditaciones 3:17/4",
+        "tipo": "maxim",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Que tu palabra baste"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio y la palabra que no necesita juramento."
+        },
+        "aplicacao": "Quien siempre cumple no tiene que jurar nada."
+      }
+    ]
+  },
+  {
+    "slug": "la-burbuja",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 7"
+      ],
+      "titulo": {
+        "stoic": "La Burbuja No Pierde Nada al Romperse | Marco Aurelio, Libro VII"
+      },
+      "thumb_titulo": {
+        "stoic": "LA\nBURBUJA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VII"
+      },
+      "consultas_imagens": [
+        "night sea",
+        "milky way",
+        "moon clouds"
+      ],
+      "abertura": {
+        "stoic": "El séptimo libro de las Meditaciones mira el tiempo desde muy lejos: los sabios que ya no están, las ciudades que desaparecieron, la vida como algo breve. No es un libro triste. Es el libro completo."
+      },
+      "cierre": {
+        "stoic": "Pensar en lo breve no es para deprimirse, es para dejar de aplazar. Si el tiempo se llevó a Sócrates, se va a llevar también tu excusa de hoy. Lo único que queda en tu mano es qué haces con el día que tienes delante."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 7",
+          "memento mori",
+          "la brevedad de la vida",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro VII de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 8:23/2",
+        "tipo": "reframe",
+        "consulta_imagem": "night sea",
+        "titulo": {
+          "stoic": "La burbuja no pierde nada al romperse"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio comparó tu vida con una burbuja."
+        },
+        "aplicacao": "No es tristeza: es aprender a no temer el final."
+      },
+      {
+        "ref": "Meditaciones 4:66/2",
+        "tipo": "maxim",
+        "consulta_imagem": "old clock",
+        "titulo": {
+          "stoic": "Mañana o en cien años, casi igual"
+        },
+        "gancho": {
+          "stoic": "La cuenta del tiempo que hacía el emperador."
+        },
+        "aplicacao": "No te prometieron más días. Usa bien el que tienes."
+      },
+      {
+        "ref": "Meditaciones 7:20/2",
+        "tipo": "maxim",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "El tiempo se tragó hasta a Sócrates"
+        },
+        "gancho": {
+          "stoic": "Ni los sabios escaparon de esto."
+        },
+        "aplicacao": "Si el tiempo no perdonó a los grandes, deja de aplazar."
+      },
+      {
+        "ref": "Meditaciones 4:67/2",
+        "tipo": "reframe",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "stoic": "Hasta Pompeya murió"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio nombró ciudades enteras que desaparecieron."
+        },
+        "aplicacao": "Si mueren las ciudades, tu problema de hoy también pasará."
+      }
+    ]
+  },
+  {
+    "slug": "deja-de-culpar",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 6"
+      ],
+      "titulo": {
+        "stoic": "Deja de Culpar a los Demás | Marco Aurelio, Libro VI"
+      },
+      "thumb_titulo": {
+        "stoic": "DEJA DE\nCULPAR"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones VI"
+      },
+      "consultas_imagens": [
+        "storm clouds",
+        "fireplace fire",
+        "dusk sky"
+      ],
+      "abertura": {
+        "stoic": "El sexto libro de las Meditaciones es el de la responsabilidad: un emperador que podía culpar a cualquiera y se exigía no hacerlo. Lo escuchas entero, en la traducción de Díaz de Miranda."
+      },
+      "cierre": {
+        "stoic": "Culpar a otro alivia un minuto y te deja sin poder el resto del día, porque si la causa está fuera, la solución también. Marco Aurelio y Epicteto proponían el camino inverso: buscar primero en el propio juicio, que es lo único que puedes cambiar hoy."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 6",
+          "responsabilidad",
+          "dejar de quejarse",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro VI de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 11:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "Culpar a otros es de ignorantes"
+        },
+        "gancho": {
+          "stoic": "Epicteto no tenía paciencia con esto."
+        },
+        "aplicacao": "Mientras el culpable sea otro, tú no puedes cambiar nada."
+      },
+      {
+        "ref": "Enquiridión 11:1/2",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Los tres pasos de la sabiduría"
+        },
+        "gancho": {
+          "stoic": "Epicteto midió la sabiduría en tres pasos."
+        },
+        "aplicacao": "Primero culpas a otros, luego a ti; al final, solo actúas."
+      },
+      {
+        "ref": "Enquiridión 10:1/4",
+        "tipo": "reframe",
+        "consulta_imagem": "rain window",
+        "titulo": {
+          "stoic": "La culpa es de tu opinión"
+        },
+        "gancho": {
+          "stoic": "Dónde buscar la causa cuando todo te molesta."
+        },
+        "aplicacao": "Cambia el juicio y cambia el día."
+      },
+      {
+        "ref": "Meditaciones 8:52/3",
+        "tipo": "reframe",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "stoic": "En vez de lamentarlo, hazlo"
+        },
+        "gancho": {
+          "stoic": "La pregunta de Marco Aurelio a los que se quejan."
+        },
+        "aplicacao": "La queja gasta la misma energía que la acción."
+      }
+    ]
+  },
+  {
+    "slug": "pedir-ayuda-no-es-rendirse",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 11"
+      ],
+      "titulo": {
+        "stoic": "Pedir Ayuda No Es Rendirse | Marco Aurelio, Libro XI"
+      },
+      "thumb_titulo": {
+        "stoic": "PEDIR\nAYUDA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones XI"
+      },
+      "consultas_imagens": [
+        "harbor night",
+        "torch fire",
+        "night clouds"
+      ],
+      "abertura": {
+        "stoic": "El undécimo libro de las Meditaciones habla del alma que no se deja doblar: de la enfermedad, del límite del cuerpo y de la ayuda de otros. Este es el libro completo."
+      },
+      "cierre": {
+        "stoic": "Epicteto era cojo y Marco Aurelio estuvo enfermo buena parte de su reinado. Ninguno de los dos confundió el límite del cuerpo con el límite de la voluntad. Y ninguno pensó que llegar con ayuda valiera menos que llegar solo."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 11",
+          "resiliencia",
+          "fortaleza estoica",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro XI de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 15:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "La enfermedad no toca tu voluntad"
+        },
+        "gancho": {
+          "stoic": "Epicteto era cojo y escribió esto."
+        },
+        "aplicacao": "El cuerpo puede caer; la decisión sigue siendo tuya."
+      },
+      {
+        "ref": "Enquiridión 16:1/1",
+        "tipo": "reframe",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Para cada golpe tienes una defensa"
+        },
+        "gancho": {
+          "stoic": "Epicteto: no hay ataque sin respuesta interior."
+        },
+        "aplicacao": "Busca la virtud que te toca usar hoy; ya la tienes."
+      },
+      {
+        "ref": "Enquiridión 16:1/4",
+        "tipo": "maxim",
+        "consulta_imagem": "lightning storm",
+        "titulo": {
+          "stoic": "Que las cosas no te gobiernen"
+        },
+        "gancho": {
+          "stoic": "El entrenamiento diario que proponía Epicteto."
+        },
+        "aplicacao": "Cada molestia pequeña es una repetición en el gimnasio interior."
+      },
+      {
+        "ref": "Meditaciones 7:7/2",
+        "tipo": "reframe",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "Pedir ayuda no es rendirse"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio sobre subir la muralla con ayuda."
+        },
+        "aplicacao": "Lo importante es llegar. Nadie te pidió llegar solo."
+      }
+    ]
+  },
+  {
+    "slug": "la-fortaleza-interior",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 3"
+      ],
+      "titulo": {
+        "stoic": "Tienes una Fortaleza y No Entras | Marco Aurelio, Libro III"
+      },
+      "thumb_titulo": {
+        "stoic": "LA\nFORTALEZA"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones III"
+      },
+      "consultas_imagens": [
+        "fireplace fire",
+        "milky way",
+        "clay lamp"
+      ],
+      "abertura": {
+        "stoic": "El tercer libro de las Meditaciones fue escrito en la frontera del Danubio, en plena guerra. Habla de la calma que no depende de las circunstancias. Lo escuchas completo."
+      },
+      "cierre": {
+        "stoic": "Marco Aurelio no buscaba la calma en un lugar tranquilo; la buscaba en el orden de sus propios pensamientos, en medio de una guerra. Esa fortaleza la tienes también. Entrar en ella es, muchas veces, solo decidir no reaccionar todavía."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 3",
+          "paz interior",
+          "tranquilidad estoica",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro III de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 4:4/2",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "La calma es orden, no silencio"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio definió la calma en una línea."
+        },
+        "aplicacao": "Ordena lo que piensas y el ruido de fuera baja."
+      },
+      {
+        "ref": "Meditaciones 8:55/4",
+        "tipo": "reframe",
+        "consulta_imagem": "fireplace fire",
+        "titulo": {
+          "stoic": "Tienes una fortaleza y no entras"
+        },
+        "gancho": {
+          "stoic": "El refugio que Marco Aurelio llamaba inexpugnable."
+        },
+        "aplicacao": "Entrar en él es decidir no reaccionar todavía."
+      },
+      {
+        "ref": "Meditaciones 7:18/1",
+        "tipo": "maxim",
+        "consulta_imagem": "milky way",
+        "titulo": {
+          "stoic": "La felicidad es una conciencia limpia"
+        },
+        "gancho": {
+          "stoic": "La definición de felicidad de un emperador."
+        },
+        "aplicacao": "Nada que compres pesa más que una conciencia tranquila."
+      },
+      {
+        "ref": "Meditaciones 4:56/1",
+        "tipo": "reframe",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "Tu mal no viene de fuera"
+        },
+        "gancho": {
+          "stoic": "De dónde viene tu sufrimiento, según Marco Aurelio."
+        },
+        "aplicacao": "Lo de fuera golpea; lo que duele es lo que concluyes."
+      }
+    ]
+  },
+  {
+    "slug": "la-higuera-y-la-leche",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 9"
+      ],
+      "titulo": {
+        "stoic": "Cómo Tratar a la Gente Difícil | Marco Aurelio, Libro IX"
+      },
+      "thumb_titulo": {
+        "stoic": "GENTE\nDIFÍCIL"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones IX"
+      },
+      "consultas_imagens": [
+        "bonfire night",
+        "dusk sky",
+        "storm clouds"
+      ],
+      "abertura": {
+        "stoic": "El noveno libro de las Meditaciones está lleno de gente difícil: necios, ingratos, envidiosos. Marco Aurelio los conocía de cerca, porque gobernaba con ellos. Este es el libro completo."
+      },
+      "cierre": {
+        "stoic": "La enseñanza aquí no es aguantar en silencio. Es esperar de cada uno lo que es, decir la verdad sin rabia, y no convertir cada necedad ajena en una sorpresa propia. Quien deja de sorprenderse deja también de enojarse."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 9",
+          "gente toxica",
+          "paciencia estoica",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro IX de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Meditaciones 5:53/1-2",
+        "tipo": "reframe",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "¿Te enfadas con el que huele mal?"
+        },
+        "gancho": {
+          "stoic": "La comparación más incómoda de Marco Aurelio."
+        },
+        "aplicacao": "Cada uno da lo que tiene. Enfadarte no cambia el olor."
+      },
+      {
+        "ref": "Meditaciones 4:15/1",
+        "tipo": "maxim",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "No le pidas leche a la higuera"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio y la higuera que da leche."
+        },
+        "aplicacao": "Espera de cada uno lo que es; así no te decepciona."
+      },
+      {
+        "ref": "Meditaciones 9:64/1",
+        "tipo": "reframe",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "¿Te sorprende que el necio haga necedades?"
+        },
+        "gancho": {
+          "stoic": "La pregunta que desarma cualquier enojo."
+        },
+        "aplicacao": "La sorpresa es tuya; él solo hizo lo de siempre."
+      },
+      {
+        "ref": "Meditaciones 6:36/3",
+        "tipo": "maxim",
+        "consulta_imagem": "bonfire night",
+        "titulo": {
+          "stoic": "Díselo, pero sin enojarte"
+        },
+        "gancho": {
+          "stoic": "Marco Aurelio sobre cómo corregir a otro."
+        },
+        "aplicacao": "La verdad dicha con rabia se oye como ataque."
+      }
+    ]
+  },
+  {
+    "slug": "ya-no-eres-joven",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 2"
+      ],
+      "titulo": {
+        "stoic": "Ya No Eres un Muchacho | Marco Aurelio, Libro II"
+      },
+      "thumb_titulo": {
+        "stoic": "YA NO ERES\nJOVEN"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones II"
+      },
+      "consultas_imagens": [
+        "old clock",
+        "night clouds",
+        "desert night"
+      ],
+      "abertura": {
+        "stoic": "El segundo libro de las Meditaciones es corto y urgente: el tiempo pasa, y cada día que aplazas es un día que no vuelve. Lo escuchas completo, sin cortes."
+      },
+      "cierre": {
+        "stoic": "Epicteto y Marco Aurelio coinciden en algo duro: nadie va a venir a darte permiso para cambiar. No hay maestro que esperar ni lunes perfecto. Hay un día, este, y una versión de ti un poco mejor que la de ayer."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 2",
+          "procrastinacion",
+          "el tiempo",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro II de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 74:1/5",
+        "tipo": "maxim",
+        "consulta_imagem": "old clock",
+        "titulo": {
+          "stoic": "Ya no eres un muchacho"
+        },
+        "gancho": {
+          "stoic": "Epicteto a los que siguen aplazando su cambio."
+        },
+        "aplicacao": "La edad no acepta excusas. Empieza mientras puedes."
+      },
+      {
+        "ref": "Enquiridión 74:2/1",
+        "tipo": "maxim",
+        "consulta_imagem": "storm clouds",
+        "titulo": {
+          "stoic": "Vivirás y morirás como uno más"
+        },
+        "gancho": {
+          "stoic": "La advertencia más dura de Epicteto."
+        },
+        "aplicacao": "No es destino: es lo que pasa si no decides hoy."
+      },
+      {
+        "ref": "Enquiridión 74:2/2",
+        "tipo": "reframe",
+        "consulta_imagem": "dusk sky",
+        "titulo": {
+          "stoic": "Elige la vida del que mejora"
+        },
+        "gancho": {
+          "stoic": "La salida que Epicteto daba al que se rinde."
+        },
+        "aplicacao": "Un poco mejor que ayer ya es otra vida."
+      },
+      {
+        "ref": "Enquiridión 74:1/4",
+        "tipo": "reframe",
+        "consulta_imagem": "desert night",
+        "titulo": {
+          "stoic": "¿A qué maestro estás esperando?"
+        },
+        "gancho": {
+          "stoic": "Epicteto a los que siempre empiezan el lunes."
+        },
+        "aplicacao": "Ya sabes lo que tienes que cambiar. Faltas tú."
+      }
+    ]
+  },
+  {
+    "slug": "antes-de-empezar",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 12"
+      ],
+      "titulo": {
+        "stoic": "Por Qué Abandonas Todo Lo Que Empiezas | Marco Aurelio, Libro XII"
+      },
+      "thumb_titulo": {
+        "stoic": "LO DEJAS\nA MEDIAS"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones XII"
+      },
+      "consultas_imagens": [
+        "torch fire",
+        "harbor night",
+        "night clouds"
+      ],
+      "abertura": {
+        "stoic": "El último libro de las Meditaciones es un balance: qué hacer con lo que queda de vida. Junto a él, Epicteto explica por qué abandonamos lo que empezamos. Escuchas el libro doce completo."
+      },
+      "cierre": {
+        "stoic": "El entusiasmo sirve para empezar y casi nunca para terminar. Epicteto pedía mirar antes el precio entero, lo que precede y lo que sigue. Si después de mirarlo todavía lo quieres, entonces sí: ya no es capricho, es decisión."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 12",
+          "constancia",
+          "terminar lo que empiezas",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro XII de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 36:3/4",
+        "tipo": "reframe",
+        "consulta_imagem": "torch fire",
+        "titulo": {
+          "stoic": "Por qué lo dejas todo a medias"
+        },
+        "gancho": {
+          "stoic": "Epicteto explicó por qué abandonas."
+        },
+        "aplicacao": "El entusiasmo empieza; solo el plan termina."
+      },
+      {
+        "ref": "Enquiridión 36:3/2",
+        "tipo": "maxim",
+        "consulta_imagem": "dark forest",
+        "titulo": {
+          "stoic": "Imitas a todos y no acabas nada"
+        },
+        "gancho": {
+          "stoic": "La comparación de Epicteto que nadie quiere oír."
+        },
+        "aplicacao": "Copiar el sueño de otro es la forma más rápida de abandonarlo."
+      },
+      {
+        "ref": "Enquiridión 9:1/1",
+        "tipo": "maxim",
+        "consulta_imagem": "clay lamp",
+        "titulo": {
+          "stoic": "Antes de empezar, examina"
+        },
+        "gancho": {
+          "stoic": "La regla de Epicteto antes de cualquier proyecto."
+        },
+        "aplicacao": "Cinco minutos de pensar ahorran meses de arrepentirse."
+      },
+      {
+        "ref": "Enquiridión 4:1/1",
+        "tipo": "reframe",
+        "consulta_imagem": "harbor night",
+        "titulo": {
+          "stoic": "Desearlo a medias no basta"
+        },
+        "gancho": {
+          "stoic": "Epicteto sobre el precio de lo que quieres."
+        },
+        "aplicacao": "Todo gran sí exige varios no. ¿Cuáles vas a decir?"
+      }
+    ]
+  },
+  {
+    "slug": "socrates-en-la-carcel",
+    "formato": "libro",
+    "longo": {
+      "refs": [
+        "Meditaciones 1"
+      ],
+      "titulo": {
+        "stoic": "Lo Que Sócrates Dijo en la Cárcel | Marco Aurelio, Libro I"
+      },
+      "thumb_titulo": {
+        "stoic": "EN LA\nCÁRCEL"
+      },
+      "thumb_sub": {
+        "stoic": "Marco Aurelio, Meditaciones I"
+      },
+      "consultas_imagens": [
+        "iron chain",
+        "burning candle",
+        "night clouds"
+      ],
+      "abertura": {
+        "stoic": "El primer libro de las Meditaciones es una lista de gratitud: lo que Marco Aurelio aprendió de cada persona que lo formó. Los estoicos tenían otro maestro común, Sócrates, de quien Epicteto habla en sus Shorts de hoy. Este es el libro primero completo."
+      },
+      "cierre": {
+        "stoic": "Marco Aurelio empezó su diario dando las gracias, y Sócrates terminó su vida sin rencor contra quienes lo condenaron. Entre las dos cosas hay una idea: lo que te pueden quitar no es lo que eres. Lo que eres se construye con lo que agradeces y con lo que no traicionas."
+      },
+      "tags_extra": {
+        "stoic": [
+          "marco aurelio",
+          "meditaciones libro 1",
+          "socrates",
+          "gratitud estoica",
+          "estoicismo"
+        ]
+      },
+      "descricao_busca": {
+        "stoic": "El libro I de las Meditaciones de Marco Aurelio, completo, narrado en español."
+      }
+    },
+    "shorts": [
+      {
+        "ref": "Enquiridión 78:1/4",
+        "tipo": "maxim",
+        "consulta_imagem": "iron chain",
+        "titulo": {
+          "stoic": "Pueden quitarme la vida, no esto"
+        },
+        "gancho": {
+          "stoic": "Sócrates nombró a los que lo iban a matar."
+        },
+        "aplicacao": "Lo que te pueden quitar no es lo que eres."
+      },
+      {
+        "ref": "Enquiridión 78:1/5",
+        "tipo": "maxim",
+        "consulta_imagem": "burning candle",
+        "titulo": {
+          "stoic": "Mi cuerpo obedece, mi espíritu no"
+        },
+        "gancho": {
+          "stoic": "Lo que Sócrates le dijo a Critón en la cárcel."
+        },
+        "aplicacao": "Encadenado por fuera, libre por dentro: la única libertad segura."
+      },
+      {
+        "ref": "Enquiridión 74:2/6",
+        "tipo": "reframe",
+        "consulta_imagem": "smoke incense",
+        "titulo": {
+          "stoic": "Cómo llegó Sócrates a ser Sócrates"
+        },
+        "gancho": {
+          "stoic": "El método de Sócrates en una sola línea."
+        },
+        "aplicacao": "No es genio: es enfrentar cada cosa con la razón."
+      },
+      {
+        "ref": "Enquiridión 68:1/4",
+        "tipo": "maxim",
+        "consulta_imagem": "night clouds",
+        "titulo": {
+          "stoic": "Nadie aguantó a los demás como él"
+        },
+        "gancho": {
+          "stoic": "Así describió Epicteto la paciencia de Sócrates."
+        },
+        "aplicacao": "La paciencia no es debilidad: es fuerza que no se exhibe."
+      }
+    ]
   }
 ]

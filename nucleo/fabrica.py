@@ -50,7 +50,10 @@ CICLOS_DORMIR = 2       # repetições NARRADAS (dão variação de legenda/imag
 # campeão tem 228). "tema" cresce moderado. "historia" fica na duração natural
 # (alvo 0 = sem repetição): repetir uma narrativa como Davi e Golias soa
 # estranho, ao contrário de repetir salmos para dormir.
-ALVO_MIN = {"dormir": 60, "tema": 30, "historia": 0}
+# "libro" (30/09/2026, estoico): um livro inteiro já dá 20-40 min; repetir
+# filosofia é a cara de produção em massa (o render de 03/09 saiu com o mesmo
+# trecho 6x), então o alvo é 0 — o livro tem a duração que tem.
+ALVO_MIN = {"dormir": 60, "tema": 30, "historia": 0, "libro": 0}
 TETO_REPETICOES = 12    # guarda contra runaway; quem manda é ALVO_MIN
                         # (nicho chega a 91 repetições — 12 é folga sã)
 SEG_POR_IMAGEM = 28.0   # troca de imagem no longo a cada ~28 s (modo antigo)
@@ -66,6 +69,22 @@ FUNDO_ESTATICO_LONGO = True
 # nunca chega ao YouTube — vira o rótulo abaixo no capítulo 0:00 e na legenda.
 REF_INTRO = "__intro__"
 ROTULO_INTRO = {"es": "Introducción", "en": "Introduction", "pt": "Introdução"}
+# Fechamento falado (30/09/2026): o par da abertura, depois do último trecho.
+# Abertura de 30 s diante de 30 min de leitura ainda é "leitura com um
+# prefácio"; abertura + fechamento nosso, que liga o livro aos Shorts do dia,
+# é o mínimo de comentário próprio que o longo leva ao YPP. Só se o poço trouxer
+# `cierre` — os longos de dormir não ganham voz no fim, que acordaria quem dormiu.
+REF_CIERRE = "__cierre__"
+ROTULO_CIERRE = {"es": "Reflexión final", "en": "Closing reflection",
+                 "pt": "Reflexão final"}
+
+
+def _rotulo_secao(idioma: str, ref: str) -> str | None:
+    if ref == REF_INTRO:
+        return ROTULO_INTRO.get(idioma, ROTULO_INTRO["es"])
+    if ref == REF_CIERRE:
+        return ROTULO_CIERRE.get(idioma, ROTULO_CIERRE["es"])
+    return None
 
 
 def _seed(pacote: dict, extra: str) -> int:
@@ -420,6 +439,13 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     if abertura:
         todos_versos = [(0, abertura)] + todos_versos
         limites = [(REF_INTRO, 1)] + limites
+    cierre = longo.get("cierre") or {}
+    if isinstance(cierre, dict):
+        cierre = cierre.get(idioma, "") or ""
+    cierre = cierre.strip()
+    if cierre:
+        todos_versos = todos_versos + [(0, cierre)]
+        limites = limites + [(REF_CIERRE, 1)]
 
     voz = outdir / "voz.wav"
     segmentos, dur_voz = tts.narrar_versos(
@@ -439,9 +465,8 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
             blocos += legendas.agrupar(seg["palavras"], largura=34,
                                        max_palavras=7)
         secoes.append({
-            "cabecalho": (ROTULO_INTRO.get(idioma, ROTULO_INTRO["es"])
-                          if ref == REF_INTRO
-                          else biblia.cabecalho(idioma, ref)),
+            "cabecalho": (_rotulo_secao(idioma, ref)
+                          or biblia.cabecalho(idioma, ref)),
             "ini": parte[0]["ini"],
             "fim": parte[-1]["fim"] + PAUSA_VERSO,
             "blocos": blocos,
@@ -519,8 +544,8 @@ def montar_longo(pacote: dict, idioma: str, marca: str, outdir: Path,
     vistos = set()
 
     def _rotulo(ref: str) -> str:
-        return (ROTULO_INTRO.get(idioma, ROTULO_INTRO["es"])
-                if ref == REF_INTRO else biblia.ref_exibicao(idioma, ref))
+        return (_rotulo_secao(idioma, ref)
+                or biblia.ref_exibicao(idioma, ref))
 
     for s in secoes:
         rot = _rotulo(s["ref"])

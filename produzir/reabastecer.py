@@ -178,6 +178,8 @@ def criar_pacote(tema: dict, data: str, dry: bool, linha: dict) -> None:
             # tira o vídeo de "leitura crua") e SEO por tema (tags/descrição
             # de busca), tudo por idioma. Vazio = comportamento antigo.
             "abertura": tema["longo"].get("abertura", {}),
+            # Fechamento falado (30/09/2026), o par da abertura no fim do longo.
+            "cierre": tema["longo"].get("cierre", {}),
             "tags_extra": tema["longo"].get("tags_extra", {}),
             "descricao_busca": tema["longo"].get("descricao_busca", {}),
             "imagens": imgs_longo,

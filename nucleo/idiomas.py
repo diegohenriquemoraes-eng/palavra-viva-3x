@@ -43,6 +43,11 @@ PLAYLISTS = {
         "astucia": "Aforismos para leer a la gente ❄",
         "sabiduria": "Proverbios por tema 🕯",
     },
+    # "libro" (30/09/2026, La Noche Estoica): um livro das Meditaciones ou um
+    # terço do Enquiridión, inteiro e sem repetição.
+    "libro": {
+        "stoic": "Libros estoicos completos 📜",
+    },
     "historia": {
         "es": "Historias de la Biblia narradas 📖",
         "en": "Bible stories narrated 📖",
