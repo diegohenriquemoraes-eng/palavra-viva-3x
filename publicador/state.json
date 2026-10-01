@@ -2320,6 +2320,14 @@
           "video_id": "_Ffq1NyMVN8",
           "titulo": "Salmo 137:1 — Junto a los ríos de Babilonia, allí | Biblia",
           "em": "2026-10-01T01:42:54+00:00"
+        },
+        {
+          "pacote": "2026-10-01-salmo-140-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "F-RBUKrOjY8",
+          "titulo": "Salmos para Dormir — Salmo 140 Completo | Biblia Hablada",
+          "em": "2026-10-01T13:53:04+00:00"
         }
       ],
       "ultimo_short": "2026-10-01T01:42:54+00:00",
@@ -2330,9 +2338,9 @@
       "longo_data": "2026-10-01",
       "longos_dia": {
         "data": "2026-10-01",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-01T00:10:18+00:00"
+      "ultimo_longo": "2026-10-01T13:53:04+00:00"
     },
     "en": {
       "publicados": [
@@ -5497,12 +5505,20 @@
           "video_id": "wJOIlLYxWAI",
           "titulo": "Tu reputación no es tuya",
           "em": "2026-10-01T01:28:16+00:00"
+        },
+        {
+          "pacote": "2026-10-01-solo-esto-es-tuyo",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "ZwgiCMft0gs",
+          "titulo": "La pregunta que corta la ansiedad",
+          "em": "2026-10-01T13:54:08+00:00"
         }
       ],
-      "ultimo_short": "2026-10-01T01:28:16+00:00",
+      "ultimo_short": "2026-10-01T13:54:08+00:00",
       "shorts_dia": {
         "data": "2026-10-01",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

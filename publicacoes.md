@@ -5686,3 +5686,19 @@
 - Item: longo — Salmo 137
 - Duração: 1084.5s
 - Publicado em: 2026-10-01T06:26:02+00:00
+
+## [es] F-RBUKrOjY8 — Salmos para Dormir — Salmo 140 Completo | Biblia Hablada
+
+- URL: https://youtu.be/F-RBUKrOjY8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 140
+- Duração: 1477.1s
+- Publicado em: 2026-10-01T13:53:04+00:00
+
+## [stoic] ZwgiCMft0gs — La pregunta que corta la ansiedad
+
+- URL: https://youtu.be/ZwgiCMft0gs
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 5:1
+- Duração: 17.0s
+- Publicado em: 2026-10-01T13:54:08+00:00
