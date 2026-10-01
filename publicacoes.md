@@ -5646,3 +5646,19 @@
 - Item: longo — Salmo 132
 - Duração: 1869.4s
 - Publicado em: 2026-09-30T18:57:01+00:00
+
+## [es] Z0nr8REbFgw — Salmos para Dormir — Salmo 137 Completo | Biblia Hablada
+
+- URL: https://youtu.be/Z0nr8REbFgw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 137
+- Duração: 1058.3s
+- Publicado em: 2026-10-01T00:10:18+00:00
+
+## [pt] btGiK-7qhVo — Salmo 137:1 — Junto aos rios da Babilônia nos sentamos | Bíblia
+
+- URL: https://youtu.be/btGiK-7qhVo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 137:1
+- Duração: 17.4s
+- Publicado em: 2026-10-01T00:11:16+00:00

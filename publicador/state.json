@@ -2304,6 +2304,14 @@
           "video_id": "o3w_AfK7Ryk",
           "titulo": "Salmo 129:4 — Jehová es justo; cortó las coyundas | Biblia",
           "em": "2026-09-30T14:01:31+00:00"
+        },
+        {
+          "pacote": "2026-10-01-salmo-137-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "Z0nr8REbFgw",
+          "titulo": "Salmos para Dormir — Salmo 137 Completo | Biblia Hablada",
+          "em": "2026-10-01T00:10:18+00:00"
         }
       ],
       "ultimo_short": "2026-09-30T14:01:31+00:00",
@@ -2311,12 +2319,12 @@
         "data": "2026-09-30",
         "n": 2
       },
-      "longo_data": "2026-09-30",
+      "longo_data": "2026-10-01",
       "longos_dia": {
-        "data": "2026-09-30",
-        "n": 2
+        "data": "2026-10-01",
+        "n": 1
       },
-      "ultimo_longo": "2026-09-30T13:31:02+00:00"
+      "ultimo_longo": "2026-10-01T00:10:18+00:00"
     },
     "en": {
       "publicados": [
@@ -4406,11 +4414,19 @@
           "video_id": "wM1uIRI3is8",
           "titulo": "Salmos para Dormir — Salmo 132 Completo | Bíblia Falada",
           "em": "2026-09-30T18:57:01+00:00"
+        },
+        {
+          "pacote": "2026-10-01-salmo-137-completo",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "btGiK-7qhVo",
+          "titulo": "Salmo 137:1 — Junto aos rios da Babilônia nos sentamos | Bíblia",
+          "em": "2026-10-01T00:11:16+00:00"
         }
       ],
-      "ultimo_short": "2026-09-30T00:46:51+00:00",
+      "ultimo_short": "2026-10-01T00:11:16+00:00",
       "shorts_dia": {
-        "data": "2026-09-30",
+        "data": "2026-10-01",
         "n": 1
       },
       "longo_data": "2026-09-30",
