@@ -1,0 +1,220 @@
+{
+  "slug": "solo-esto-es-tuyo",
+  "formato": "libro",
+  "data": "2026-10-01",
+  "criado_em": "2026-10-01T01:25:23+00:00",
+  "aprovado_em": "2026-10-01T01:25:23+00:00",
+  "longo": {
+    "refs": [
+      "Enquiridión 1",
+      "Enquiridión 2",
+      "Enquiridión 3",
+      "Enquiridión 4",
+      "Enquiridión 5",
+      "Enquiridión 6",
+      "Enquiridión 7",
+      "Enquiridión 8",
+      "Enquiridión 9",
+      "Enquiridión 10",
+      "Enquiridión 11",
+      "Enquiridión 12",
+      "Enquiridión 13",
+      "Enquiridión 14",
+      "Enquiridión 15",
+      "Enquiridión 16",
+      "Enquiridión 17",
+      "Enquiridión 18",
+      "Enquiridión 19",
+      "Enquiridión 20",
+      "Enquiridión 21",
+      "Enquiridión 22",
+      "Enquiridión 23",
+      "Enquiridión 24",
+      "Enquiridión 25",
+      "Enquiridión 26"
+    ],
+    "titulo": {
+      "stoic": "Solo Esto Es Tuyo | Epicteto, Enquiridión I-XXVI"
+    },
+    "thumb_titulo": {
+      "stoic": "SOLO ESTO\nES TUYO"
+    },
+    "thumb_sub": {
+      "stoic": "Epicteto, Enquiridión I-XXVI"
+    },
+    "abertura": {
+      "stoic": "Epicteto nació esclavo. Lo primero que enseñaba a sus alumnos era una división: lo que depende de ti y lo que no. Estos son los primeros veintiséis capítulos de su manual, tal como los tradujo Antonio Brum."
+    },
+    "cierre": {
+      "stoic": "Eso fue Epicteto. Si te quedas con una sola idea, que sea esta: antes de preocuparte, pregunta de quién es el problema. Lo tuyo es tu juicio, tu esfuerzo y tu palabra. Lo demás llega y se va, y no te pide permiso."
+    },
+    "tags_extra": {
+      "stoic": [
+        "epicteto",
+        "enquiridion",
+        "dicotomia del control",
+        "lo que depende de ti",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "Epicteto, Enquiridión, capítulos I a XXVI, narrados en español (trad. Antonio Brum)."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p02.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p01.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2119_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2119_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Busan_fishing_harbor_at_night_7.jpg/1920px-Busan_fishing_harbor_at_night_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_7.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Busan_fishing_harbor_at_night_18.jpg/1920px-Busan_fishing_harbor_at_night_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_18.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Busan_fishing_harbor_at_night_5.jpg/1920px-Busan_fishing_harbor_at_night_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_5.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Harbor_Theatre_at_night%2C_Stone_Harbor%2C_N._J._%288532211706%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Boston Public Library",
+        "origem": "https://commons.wikimedia.org/wiki/File:Harbor_Theatre_at_night,_Stone_Harbor,_N._J._(8532211706).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 1:1/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Tu reputación no es tuya"
+      },
+      "aplicacao": "Cuida lo que haces; lo que dicen de ti lo administra otro.",
+      "gancho": {
+        "stoic": "Epicteto puso tu reputación fuera de tu control."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Busan_fishing_harbor_at_night_13.jpg/1920px-Busan_fishing_harbor_at_night_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_13.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 5:1/3",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La pregunta que corta la ansiedad"
+      },
+      "aplicacao": "Antes de angustiarte, pregunta de quién es el problema.",
+      "gancho": {
+        "stoic": "Una pregunta de Epicteto para cualquier problema."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/F%C3%ADt%C3%ADl%C3%A0_%28clay_lamp%29.jpg/1920px-F%C3%ADt%C3%ADl%C3%A0_%28clay_lamp%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MubarakahSidiq",
+        "origem": "https://commons.wikimedia.org/wiki/File:F%C3%ADt%C3%ADl%C3%A0_(clay_lamp).jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 6:1/3",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El único miedo que nunca se cumple"
+      },
+      "aplicacao": "Teme mentir, no perder: lo primero lo evitas tú.",
+      "gancho": {
+        "stoic": "Hay un miedo que nunca se cumple."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 27:1/3",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Ni senador ni emperador: libre"
+      },
+      "aplicacao": "El cargo te lo pueden quitar; la libertad interior, no.",
+      "gancho": {
+        "stoic": "Un exesclavo le dijo esto a la Roma ambiciosa."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
