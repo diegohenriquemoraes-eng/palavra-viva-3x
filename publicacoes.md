@@ -5702,3 +5702,19 @@
 - Item: short-2 — Enquiridión 5:1
 - Duração: 17.0s
 - Publicado em: 2026-10-01T13:54:08+00:00
+
+## [es] E-heZbF1t4c — Salmo 137:4 — Cantadnos algunos de los himnos de Sión | Biblia
+
+- URL: https://youtu.be/E-heZbF1t4c
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 137:4
+- Duração: 19.9s
+- Publicado em: 2026-10-01T15:51:33+00:00
+
+## [pt] emNP5wUY91o — Salmos para Dormir — Salmo 140 Completo | Bíblia Falada
+
+- URL: https://youtu.be/emNP5wUY91o
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 140
+- Duração: 1523.5s
+- Publicado em: 2026-10-01T16:07:24+00:00

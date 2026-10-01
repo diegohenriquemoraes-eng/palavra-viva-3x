@@ -2336,12 +2336,20 @@
           "titulo": "Salmos para Dormir — Salmo 140 Completo | Biblia Hablada",
           "em": "2026-10-01T13:53:04+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-01-salmo-137-completo",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "E-heZbF1t4c",
+          "titulo": "Salmo 137:4 — Cantadnos algunos de los himnos de Sión | Biblia",
+          "em": "2026-10-01T15:51:33+00:00"
         }
       ],
-      "ultimo_short": "2026-10-01T01:42:54+00:00",
+      "ultimo_short": "2026-10-01T15:51:33+00:00",
       "shorts_dia": {
         "data": "2026-10-01",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-01",
       "longos_dia": {
@@ -4456,6 +4464,14 @@
           "titulo": "Salmos para Dormir — Salmo 137 Completo | Bíblia Falada",
           "em": "2026-10-01T06:26:02+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-01-salmo-140-completo",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "emNP5wUY91o",
+          "titulo": "Salmos para Dormir — Salmo 140 Completo | Bíblia Falada",
+          "em": "2026-10-01T16:07:24+00:00"
         }
       ],
       "ultimo_short": "2026-10-01T00:11:16+00:00",
@@ -4466,9 +4482,9 @@
       "longo_data": "2026-10-01",
       "longos_dia": {
         "data": "2026-10-01",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-01T06:26:02+00:00"
+      "ultimo_longo": "2026-10-01T16:07:24+00:00"
     },
     "stoic": {
       "publicados": [
