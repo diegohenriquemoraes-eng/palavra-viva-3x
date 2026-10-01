@@ -5662,3 +5662,11 @@
 - Item: short-1 — Salmo 137:1
 - Duração: 17.4s
 - Publicado em: 2026-10-01T00:11:16+00:00
+
+## [stoic] wJOIlLYxWAI — Tu reputación no es tuya
+
+- URL: https://youtu.be/wJOIlLYxWAI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 1:1
+- Duração: 22.6s
+- Publicado em: 2026-10-01T01:28:16+00:00

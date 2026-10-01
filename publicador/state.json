@@ -5473,12 +5473,20 @@
           "video_id": "2akDQdK36L4",
           "titulo": "La desgracia no es lo que pasó",
           "em": "2026-09-28T22:13:25+00:00"
+        },
+        {
+          "pacote": "2026-10-01-solo-esto-es-tuyo",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "wJOIlLYxWAI",
+          "titulo": "Tu reputación no es tuya",
+          "em": "2026-10-01T01:28:16+00:00"
         }
       ],
-      "ultimo_short": "2026-09-28T22:13:25+00:00",
+      "ultimo_short": "2026-10-01T01:28:16+00:00",
       "shorts_dia": {
-        "data": "2026-09-28",
-        "n": 3
+        "data": "2026-10-01",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
