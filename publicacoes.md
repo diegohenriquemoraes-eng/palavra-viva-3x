@@ -5718,3 +5718,11 @@
 - Item: longo — Salmo 140
 - Duração: 1523.5s
 - Publicado em: 2026-10-01T16:07:24+00:00
+
+## [stoic] Daf37KK6B44 — El único miedo que nunca se cumple
+
+- URL: https://youtu.be/Daf37KK6B44
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 6:1
+- Duração: 20.1s
+- Publicado em: 2026-10-01T19:40:20+00:00

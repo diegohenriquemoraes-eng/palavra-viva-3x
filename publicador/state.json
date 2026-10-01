@@ -5539,12 +5539,20 @@
           "video_id": "ZwgiCMft0gs",
           "titulo": "La pregunta que corta la ansiedad",
           "em": "2026-10-01T13:54:08+00:00"
+        },
+        {
+          "pacote": "2026-10-01-solo-esto-es-tuyo",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "Daf37KK6B44",
+          "titulo": "El único miedo que nunca se cumple",
+          "em": "2026-10-01T19:40:20+00:00"
         }
       ],
-      "ultimo_short": "2026-10-01T13:54:08+00:00",
+      "ultimo_short": "2026-10-01T19:40:20+00:00",
       "shorts_dia": {
         "data": "2026-10-01",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
