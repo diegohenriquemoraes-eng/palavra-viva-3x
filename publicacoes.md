@@ -5678,3 +5678,11 @@
 - Item: short-1 — Salmo 137:1
 - Duração: 19.9s
 - Publicado em: 2026-10-01T01:42:54+00:00
+
+## [pt] LehqHexk1DM — Salmos para Dormir — Salmo 137 Completo | Bíblia Falada
+
+- URL: https://youtu.be/LehqHexk1DM
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 137
+- Duração: 1084.5s
+- Publicado em: 2026-10-01T06:26:02+00:00
