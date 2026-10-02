@@ -5750,3 +5750,19 @@
 - Item: short-1 — Salmo 91:1-2
 - Duração: 16.9s
 - Publicado em: 2026-10-02T00:40:34+00:00
+
+## [pt] 2BUIeXMHBU8 — Salmos para Dormir — Salmo 91, 23 e 4 | Bíblia Narrada Voz Calma
+
+- URL: https://youtu.be/2BUIeXMHBU8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 91, Salmo 23, Salmo 4
+- Duração: 3359.0s
+- Publicado em: 2026-10-02T06:23:28+00:00
+
+## [stoic] nMg-4rqb8Ng — Piensa que se puede romper
+
+- URL: https://youtu.be/nMg-4rqb8Ng
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 8:1
+- Duração: 20.0s
+- Publicado em: 2026-10-02T06:24:34+00:00
