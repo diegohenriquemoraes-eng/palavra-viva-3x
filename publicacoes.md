@@ -5782,3 +5782,11 @@
 - Item: short-2 — Enquiridión 33:1
 - Duração: 24.0s
 - Publicado em: 2026-10-02T13:22:15+00:00
+
+## [es] aSG6Qc_wW7E — Salmo 23:4 — Aunque ande en valle de sombra | Biblia
+
+- URL: https://youtu.be/aSG6Qc_wW7E
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 23:4
+- Duração: 23.7s
+- Publicado em: 2026-10-02T13:24:12+00:00

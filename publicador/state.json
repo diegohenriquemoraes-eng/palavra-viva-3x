@@ -2368,12 +2368,20 @@
           "video_id": "2ceTi9Sk9YE",
           "titulo": "Salmos para Dormir — El Que Te Guarda No Duerme | Salmo 121, 127, 131 y 3",
           "em": "2026-10-02T13:20:55+00:00"
+        },
+        {
+          "pacote": "2026-10-02-salmos-noche-1",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "aSG6Qc_wW7E",
+          "titulo": "Salmo 23:4 — Aunque ande en valle de sombra | Biblia",
+          "em": "2026-10-02T13:24:12+00:00"
         }
       ],
-      "ultimo_short": "2026-10-02T00:40:34+00:00",
+      "ultimo_short": "2026-10-02T13:24:12+00:00",
       "shorts_dia": {
         "data": "2026-10-02",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-02",
       "longos_dia": {
