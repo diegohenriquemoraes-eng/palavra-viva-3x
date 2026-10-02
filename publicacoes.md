@@ -5806,3 +5806,11 @@
 - Item: short-3 — Meditaciones 8:49
 - Duração: 15.4s
 - Publicado em: 2026-10-02T18:56:38+00:00
+
+## [stoic] d7QMA-9UmB4 — Dame lo que quieras, quítame lo que quieras
+
+- URL: https://youtu.be/d7QMA-9UmB4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Meditaciones 10:29
+- Duração: 21.0s
+- Publicado em: 2026-10-02T23:06:17+00:00

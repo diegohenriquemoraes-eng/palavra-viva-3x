@@ -5632,12 +5632,20 @@
           "video_id": "qx6-NjGHbLI",
           "titulo": "Todo tu tiempo fue un regalo",
           "em": "2026-10-02T18:56:38+00:00"
+        },
+        {
+          "pacote": "2026-10-02-la-olla-de-barro",
+          "item": "short-4",
+          "formato": "libro",
+          "video_id": "d7QMA-9UmB4",
+          "titulo": "Dame lo que quieras, quítame lo que quieras",
+          "em": "2026-10-02T23:06:17+00:00"
         }
       ],
-      "ultimo_short": "2026-10-02T18:56:38+00:00",
+      "ultimo_short": "2026-10-02T23:06:17+00:00",
       "shorts_dia": {
         "data": "2026-10-02",
-        "n": 3
+        "n": 4
       },
       "longo_data": "",
       "longos_dia": {
