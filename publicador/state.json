@@ -2352,12 +2352,20 @@
           "video_id": "2vDMl8XQZcc",
           "titulo": "Salmos para Dormir — Salmo 91, 23 y 4 | Biblia Hablada Voz Calmada",
           "em": "2026-10-02T00:37:31+00:00"
+        },
+        {
+          "pacote": "2026-10-02-salmos-noche-1",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "YaHbsJyufB0",
+          "titulo": "Salmo 91:1-2 — El que habita al abrigo del Altísimo | Biblia",
+          "em": "2026-10-02T00:40:34+00:00"
         }
       ],
-      "ultimo_short": "2026-10-01T15:51:33+00:00",
+      "ultimo_short": "2026-10-02T00:40:34+00:00",
       "shorts_dia": {
-        "data": "2026-10-01",
-        "n": 2
+        "data": "2026-10-02",
+        "n": 1
       },
       "longo_data": "2026-10-02",
       "longos_dia": {

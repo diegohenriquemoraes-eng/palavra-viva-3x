@@ -5742,3 +5742,11 @@
 - Item: short-1 — Salmo 91:1-2
 - Duração: 15.9s
 - Publicado em: 2026-10-02T00:38:34+00:00
+
+## [es] YaHbsJyufB0 — Salmo 91:1-2 — El que habita al abrigo del Altísimo | Biblia
+
+- URL: https://youtu.be/YaHbsJyufB0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 91:1-2
+- Duração: 16.9s
+- Publicado em: 2026-10-02T00:40:34+00:00
