@@ -5726,3 +5726,19 @@
 - Item: short-3 — Enquiridión 6:1
 - Duração: 20.1s
 - Publicado em: 2026-10-01T19:40:20+00:00
+
+## [es] 2vDMl8XQZcc — Salmos para Dormir — Salmo 91, 23 y 4 | Biblia Hablada Voz Calmada
+
+- URL: https://youtu.be/2vDMl8XQZcc
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 91, Salmo 23, Salmo 4
+- Duração: 3291.1s
+- Publicado em: 2026-10-02T00:37:31+00:00
+
+## [pt] dcooImzg_iQ — Salmo 91:1-2 — Aquele que mora no esconderijo do Altíssimo | Bíblia
+
+- URL: https://youtu.be/dcooImzg_iQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 91:1-2
+- Duração: 15.9s
+- Publicado em: 2026-10-02T00:38:34+00:00

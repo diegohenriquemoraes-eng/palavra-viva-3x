@@ -2344,6 +2344,14 @@
           "video_id": "E-heZbF1t4c",
           "titulo": "Salmo 137:4 — Cantadnos algunos de los himnos de Sión | Biblia",
           "em": "2026-10-01T15:51:33+00:00"
+        },
+        {
+          "pacote": "2026-10-02-salmos-noche-1",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "2vDMl8XQZcc",
+          "titulo": "Salmos para Dormir — Salmo 91, 23 y 4 | Biblia Hablada Voz Calmada",
+          "em": "2026-10-02T00:37:31+00:00"
         }
       ],
       "ultimo_short": "2026-10-01T15:51:33+00:00",
@@ -2351,12 +2359,12 @@
         "data": "2026-10-01",
         "n": 2
       },
-      "longo_data": "2026-10-01",
+      "longo_data": "2026-10-02",
       "longos_dia": {
-        "data": "2026-10-01",
-        "n": 2
+        "data": "2026-10-02",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-01T13:53:04+00:00"
+      "ultimo_longo": "2026-10-02T00:37:31+00:00"
     },
     "en": {
       "publicados": [
@@ -4472,11 +4480,19 @@
           "video_id": "emNP5wUY91o",
           "titulo": "Salmos para Dormir — Salmo 140 Completo | Bíblia Falada",
           "em": "2026-10-01T16:07:24+00:00"
+        },
+        {
+          "pacote": "2026-10-02-salmos-noche-1",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "dcooImzg_iQ",
+          "titulo": "Salmo 91:1-2 — Aquele que mora no esconderijo do Altíssimo | Bíblia",
+          "em": "2026-10-02T00:38:34+00:00"
         }
       ],
-      "ultimo_short": "2026-10-01T00:11:16+00:00",
+      "ultimo_short": "2026-10-02T00:38:34+00:00",
       "shorts_dia": {
-        "data": "2026-10-01",
+        "data": "2026-10-02",
         "n": 1
       },
       "longo_data": "2026-10-01",
