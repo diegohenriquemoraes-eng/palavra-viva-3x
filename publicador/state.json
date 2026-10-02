@@ -5624,12 +5624,20 @@
           "video_id": "NTb_RAiAb8I",
           "titulo": "Cuando el vaso roto es el tuyo",
           "em": "2026-10-02T13:22:15+00:00"
+        },
+        {
+          "pacote": "2026-10-02-la-olla-de-barro",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "qx6-NjGHbLI",
+          "titulo": "Todo tu tiempo fue un regalo",
+          "em": "2026-10-02T18:56:38+00:00"
         }
       ],
-      "ultimo_short": "2026-10-02T13:22:15+00:00",
+      "ultimo_short": "2026-10-02T18:56:38+00:00",
       "shorts_dia": {
         "data": "2026-10-02",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
