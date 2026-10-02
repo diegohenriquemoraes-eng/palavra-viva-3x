@@ -1,0 +1,195 @@
+{
+  "slug": "la-fama-se-olvida",
+  "formato": "libro",
+  "data": "2026-10-04",
+  "criado_em": "2026-10-02T05:42:13+00:00",
+  "aprovado_em": "2026-10-02T05:42:13+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 4"
+    ],
+    "titulo": {
+      "stoic": "Todo Nombre Acaba en el Olvido | Marco Aurelio, Libro IV"
+    },
+    "thumb_titulo": {
+      "stoic": "EL\nOLVIDO"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones IV"
+    },
+    "abertura": {
+      "stoic": "El cuarto libro de las Meditaciones es el más largo sobre la fama. Marco Aurelio era el hombre más famoso de su mundo y escribió, para sí mismo, que todo nombre acaba olvidado. Este es el libro entero."
+    },
+    "cierre": {
+      "stoic": "Lo curioso es que lo escribió alguien a quien todavía recordamos. Y aun así tenía razón: trabajar para que te recuerden es construir sobre arena. Trabajar para hacer el bien deja algo aunque nadie sepa tu nombre."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones libro 4",
+        "la fama",
+        "vanidad estoicismo",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro IV de las Meditaciones de Marco Aurelio, completo, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/ESO_-_Milky_Way.jpg/1920px-ESO_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ S. Brunier",
+        "origem": "https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Guisard_-_Milky_Way.jpg/1920px-Guisard_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/S. Guisard ( www.eso.org/~sguisard )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/1920px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Peter Paul Rubens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way,_1636-1637.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Milky_way1.jpg/1920px-Milky_way1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/UCLA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way1.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Desert_Flag_Night_Flights_%288384166%29.jpg/1920px-Desert_Flag_Night_Flights_%288384166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384166).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Desert_Flag_Night_Flights_%288384164%29.jpg/1920px-Desert_Flag_Night_Flights_%288384164%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384164).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Desert_Flag_Night_Flights_%288384167%29.jpg/1920px-Desert_Flag_Night_Flights_%288384167%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384167).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Desert_Flag_Night_Flights_%288384158%29.jpg/1920px-Desert_Flag_Night_Flights_%288384158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384158).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Yeehaw_Junction_Florida_-_Desert_Inn_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Orthoboric",
+        "origem": "https://commons.wikimedia.org/wiki/File:Yeehaw_Junction_Florida_-_Desert_Inn_at_Night.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 6:27/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Quieren el aplauso de quien no verán"
+      },
+      "aplicacao": "Elogia hoy a quien tienes al lado; el futuro no te aplaude.",
+      "gancho": {
+        "stoic": "El desatino que Marco Aurelio veía en todos."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier%2C_full_height_demo%2C_3-4_front%2C_1978.jpg/1920px-U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier%2C_full_height_demo%2C_3-4_front%2C_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "A. J. M.",
+        "origem": "https://commons.wikimedia.org/wiki/File:U.S._Army_Desert_Night_camouflaged_uniform_set_worn_by_a_soldier,_full_height_demo,_3-4_front,_1978.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:30/5",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La esmeralda no necesita aplausos"
+      },
+      "aplicacao": "Si vales, vales en silencio. El elogio no te añade nada.",
+      "gancho": {
+        "stoic": "Una piedra preciosa contra tu ansia de elogios."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:50/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Todo acaba siendo leyenda, y luego nada"
+      },
+      "aplicacao": "Trabaja por lo que es bueno, no por lo que se recuerda.",
+      "gancho": {
+        "stoic": "Lo que el olvido hace con todos los nombres."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:28/4-5",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El que enterró también fue enterrado"
+      },
+      "aplicacao": "Nadie queda para contar el final. Vive el tuyo con sentido.",
+      "gancho": {
+        "stoic": "La lista de entierros que escribió un emperador."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
