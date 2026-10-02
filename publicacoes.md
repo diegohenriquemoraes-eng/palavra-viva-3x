@@ -5790,3 +5790,11 @@
 - Item: short-2 — Salmo 23:4
 - Duração: 23.7s
 - Publicado em: 2026-10-02T13:24:12+00:00
+
+## [pt] iY9ExxD2_9c — Salmos para Dormir — Quem Te Guarda Não Dorme | Salmo 121, 127, 131 e 3
+
+- URL: https://youtu.be/iY9ExxD2_9c
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 121, Salmo 127, Salmo 131, Salmo 3
+- Duração: 2583.4s
+- Publicado em: 2026-10-02T18:54:39+00:00
