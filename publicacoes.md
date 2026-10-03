@@ -5886,3 +5886,11 @@
 - Item: short-2 — Meditaciones 8:56
 - Duração: 20.3s
 - Publicado em: 2026-10-03T14:33:24+00:00
+
+## [stoic] kmQfDWXMx6w — ¿Quieres el aplauso de quien se odia?
+
+- URL: https://youtu.be/kmQfDWXMx6w
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 8:63
+- Duração: 15.8s
+- Publicado em: 2026-10-03T19:37:38+00:00
