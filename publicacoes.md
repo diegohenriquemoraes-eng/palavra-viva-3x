@@ -5846,3 +5846,11 @@
 - Item: longo — Salmo 27, Salmo 46, Salmo 62
 - Duração: 3796.9s
 - Publicado em: 2026-10-03T02:43:13+00:00
+
+## [stoic] OTAHVeVPq9Q — La ofensa necesita tu firma
+
+- URL: https://youtu.be/OTAHVeVPq9Q
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 38:2
+- Duração: 21.5s
+- Publicado em: 2026-10-03T07:20:00+00:00

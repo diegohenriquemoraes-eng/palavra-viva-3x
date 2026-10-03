@@ -5672,12 +5672,20 @@
           "video_id": "d7QMA-9UmB4",
           "titulo": "Dame lo que quieras, quítame lo que quieras",
           "em": "2026-10-02T23:06:17+00:00"
+        },
+        {
+          "pacote": "2026-10-03-nadie-te-ofende",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "OTAHVeVPq9Q",
+          "titulo": "La ofensa necesita tu firma",
+          "em": "2026-10-03T07:20:00+00:00"
         }
       ],
-      "ultimo_short": "2026-10-02T23:06:17+00:00",
+      "ultimo_short": "2026-10-03T07:20:00+00:00",
       "shorts_dia": {
-        "data": "2026-10-02",
-        "n": 4
+        "data": "2026-10-03",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
