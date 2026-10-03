@@ -5723,12 +5723,20 @@
           "video_id": "kmQfDWXMx6w",
           "titulo": "¿Quieres el aplauso de quien se odia?",
           "em": "2026-10-03T19:37:38+00:00"
+        },
+        {
+          "pacote": "2026-10-03-nadie-te-ofende",
+          "item": "short-4",
+          "formato": "libro",
+          "video_id": "lD1AH1n2LNA",
+          "titulo": "Quien te enoja cuando quiere, te manda",
+          "em": "2026-10-03T23:04:01+00:00"
         }
       ],
-      "ultimo_short": "2026-10-03T19:37:38+00:00",
+      "ultimo_short": "2026-10-03T23:04:01+00:00",
       "shorts_dia": {
         "data": "2026-10-03",
-        "n": 3
+        "n": 4
       },
       "longo_data": "",
       "longos_dia": {

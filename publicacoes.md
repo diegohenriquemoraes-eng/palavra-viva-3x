@@ -5894,3 +5894,11 @@
 - Item: short-3 — Meditaciones 8:63
 - Duração: 15.8s
 - Publicado em: 2026-10-03T19:37:38+00:00
+
+## [stoic] lD1AH1n2LNA — Quien te enoja cuando quiere, te manda
+
+- URL: https://youtu.be/lD1AH1n2LNA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Enquiridión 18:2
+- Duração: 18.2s
+- Publicado em: 2026-10-03T23:04:01+00:00
