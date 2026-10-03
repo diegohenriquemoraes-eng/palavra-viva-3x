@@ -5854,3 +5854,19 @@
 - Item: short-1 — Enquiridión 38:2
 - Duração: 21.5s
 - Publicado em: 2026-10-03T07:20:00+00:00
+
+## [es] Ktoq5VYByFo — Salmos para Dormir — Cerca Está Jehová | Salmo 34, 37 y 40 Narrados
+
+- URL: https://youtu.be/Ktoq5VYByFo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 34, Salmo 37, Salmo 40
+- Duração: 4324.3s
+- Publicado em: 2026-10-03T13:47:37+00:00
+
+## [pt] VqAOD_6K990 — Salmos para Dormir — Perto Está o Senhor | Salmo 34, 37 e 40 Narrados
+
+- URL: https://youtu.be/VqAOD_6K990
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 34, Salmo 37, Salmo 40
+- Duração: 3751.3s
+- Publicado em: 2026-10-03T14:30:27+00:00

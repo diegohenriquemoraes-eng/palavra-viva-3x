@@ -2396,6 +2396,14 @@
           "video_id": "QR4M838_4lM",
           "titulo": "Salmo 27:1 — Jehová es mi luz y mi salvación: ¿de | Biblia",
           "em": "2026-10-03T02:15:59+00:00"
+        },
+        {
+          "pacote": "2026-10-03-salmos-noche-4",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "Ktoq5VYByFo",
+          "titulo": "Salmos para Dormir — Cerca Está Jehová | Salmo 34, 37 y 40 Narrados",
+          "em": "2026-10-03T13:47:37+00:00"
         }
       ],
       "ultimo_short": "2026-10-03T02:15:59+00:00",
@@ -2406,9 +2414,9 @@
       "longo_data": "2026-10-03",
       "longos_dia": {
         "data": "2026-10-03",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-03T02:12:58+00:00"
+      "ultimo_longo": "2026-10-03T13:47:37+00:00"
     },
     "en": {
       "publicados": [
@@ -4568,6 +4576,14 @@
           "titulo": "Salmos para Dormir — O Senhor É Minha Luz | Salmo 27, 46 e 62 Narrados",
           "em": "2026-10-03T02:43:13+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-03-salmos-noche-4",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "VqAOD_6K990",
+          "titulo": "Salmos para Dormir — Perto Está o Senhor | Salmo 34, 37 e 40 Narrados",
+          "em": "2026-10-03T14:30:27+00:00"
         }
       ],
       "ultimo_short": "2026-10-03T02:14:06+00:00",
@@ -4578,9 +4594,9 @@
       "longo_data": "2026-10-03",
       "longos_dia": {
         "data": "2026-10-03",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-03T02:43:13+00:00"
+      "ultimo_longo": "2026-10-03T14:30:27+00:00"
     },
     "stoic": {
       "publicados": [
