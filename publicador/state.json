@@ -2404,12 +2404,20 @@
           "video_id": "Ktoq5VYByFo",
           "titulo": "Salmos para Dormir — Cerca Está Jehová | Salmo 34, 37 y 40 Narrados",
           "em": "2026-10-03T13:47:37+00:00"
+        },
+        {
+          "pacote": "2026-10-03-salmos-noche-3",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "yk6iV-n_B04",
+          "titulo": "Salmo 46:1-2 — Dios es nuestro amparo y fortaleza, nuestro | Biblia",
+          "em": "2026-10-03T14:32:21+00:00"
         }
       ],
-      "ultimo_short": "2026-10-03T02:15:59+00:00",
+      "ultimo_short": "2026-10-03T14:32:21+00:00",
       "shorts_dia": {
         "data": "2026-10-03",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-03",
       "longos_dia": {
@@ -5699,12 +5707,20 @@
           "video_id": "OTAHVeVPq9Q",
           "titulo": "La ofensa necesita tu firma",
           "em": "2026-10-03T07:20:00+00:00"
+        },
+        {
+          "pacote": "2026-10-03-nadie-te-ofende",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "QW8Dc-akdCk",
+          "titulo": "Te contaron que hablan mal de ti",
+          "em": "2026-10-03T14:33:24+00:00"
         }
       ],
-      "ultimo_short": "2026-10-03T07:20:00+00:00",
+      "ultimo_short": "2026-10-03T14:33:24+00:00",
       "shorts_dia": {
         "data": "2026-10-03",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

@@ -5870,3 +5870,19 @@
 - Item: longo — Salmo 34, Salmo 37, Salmo 40
 - Duração: 3751.3s
 - Publicado em: 2026-10-03T14:30:27+00:00
+
+## [es] yk6iV-n_B04 — Salmo 46:1-2 — Dios es nuestro amparo y fortaleza, nuestro | Biblia
+
+- URL: https://youtu.be/yk6iV-n_B04
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 46:1-2
+- Duração: 17.2s
+- Publicado em: 2026-10-03T14:32:21+00:00
+
+## [stoic] QW8Dc-akdCk — Te contaron que hablan mal de ti
+
+- URL: https://youtu.be/QW8Dc-akdCk
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 8:56
+- Duração: 20.3s
+- Publicado em: 2026-10-03T14:33:24+00:00
