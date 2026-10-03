@@ -5814,3 +5814,19 @@
 - Item: short-4 — Meditaciones 10:29
 - Duração: 21.0s
 - Publicado em: 2026-10-02T23:06:17+00:00
+
+## [es] AebMswduZHI — Salmos para Dormir — Jehová Es Mi Luz | Salmo 27, 46 y 62 Narrados
+
+- URL: https://youtu.be/AebMswduZHI
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 27, Salmo 46, Salmo 62
+- Duração: 3780.4s
+- Publicado em: 2026-10-03T02:12:58+00:00
+
+## [pt] f5db9tke_9M — Salmo 27:1 — O SENHOR é minha luz | Bíblia
+
+- URL: https://youtu.be/f5db9tke_9M
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 27:1
+- Duração: 20.8s
+- Publicado em: 2026-10-03T02:14:06+00:00
