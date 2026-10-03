@@ -1,0 +1,195 @@
+{
+  "slug": "manos-a-la-obra",
+  "formato": "libro",
+  "data": "2026-10-05",
+  "criado_em": "2026-10-03T05:22:15+00:00",
+  "aprovado_em": "2026-10-03T05:22:15+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 5"
+    ],
+    "titulo": {
+      "stoic": "Levántate y Haz Tu Trabajo | Marco Aurelio, Libro V"
+    },
+    "thumb_titulo": {
+      "stoic": "MANOS A\nLA OBRA"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones V"
+    },
+    "abertura": {
+      "stoic": "El quinto libro de las Meditaciones empieza en la cama: un emperador que no quiere levantarse y se discute a sí mismo. Es el libro de la pereza y del deber, completo."
+    },
+    "cierre": {
+      "stoic": "Si a un emperador le costaba levantarse, a ti también te va a costar. La diferencia no está en las ganas, que casi nunca llegan, sino en empezar sin ellas. Elige una tarea pequeña y hazla antes de que la duda tenga tiempo de hablar."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones libro 5",
+        "pereza",
+        "disciplina estoica",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro V de las Meditaciones de Marco Aurelio, completo, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dusk_Sky_%289825349336%29.jpg/1920px-Dusk_Sky_%289825349336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky_(9825349336).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Dusk_Sky.jpg/1920px-Dusk_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_reverse%2C_printing_1932C-12.jpg/1920px-The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_reverse%2C_printing_1932C-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Grosset & Dunlap",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_reverse,_printing_1932C-12.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Old-fashioned_clock_on_a_laptop_closeup.jpg/1920px-Old-fashioned_clock_on_a_laptop_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Shixart1985",
+        "origem": "https://commons.wikimedia.org/wiki/File:Old-fashioned_clock_on_a_laptop_closeup.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/The_old_clock_tower_in_Oslo%27s_Eastern_Cemetery.jpg/1920px-The_old_clock_tower_in_Oslo%27s_Eastern_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Iwan Aucamp",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_old_clock_tower_in_Oslo%27s_Eastern_Cemetery.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_1933B-14_printing.jpg/1920px-The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_1933B-14_printing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cover art by Russell H. Tandy (1891–1963)",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_obverse,_1933B-14_printing.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_1953_printing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Cover art by Bill Gillies",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_1953_printing.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg/1920px-Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Airman 1st Class John Nieves Camacho",
+        "origem": "https://commons.wikimedia.org/wiki/File:Firefighters_pass_the_torch_during_Fire_Prevention_Week_131009-F-YG094-005.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg/1920px-Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/Milan Loiacono",
+        "origem": "https://commons.wikimedia.org/wiki/File:Terra_Torch_(milanloiacono-firesensefortstewart-04-2025-0677).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/A_drip_torch_is_used_to_catalyze_the_spread_of_a_prescribed_fire_near_Republic%2C_Washington%2C_March_20%2C_2024_%2853632106868%29.jpg/1920px-A_drip_torch_is_used_to_catalyze_the_spread_of_a_prescribed_fire_near_Republic%2C_Washington%2C_March_20%2C_2024_%2853632106868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "BLM Oregon & Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_drip_torch_is_used_to_catalyze_the_spread_of_a_prescribed_fire_near_Republic,_Washington,_March_20,_2024_(53632106868).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg/1920px-Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author or not provided",
+        "origem": "https://commons.wikimedia.org/wiki/File:Near_Algiers,_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 9:44/4",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Hazlo aunque nadie lo vea"
+      },
+      "aplicacao": "La obra buena no espera testigos ni el momento perfecto.",
+      "gancho": {
+        "stoic": "Una orden de Marco Aurelio para hoy."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/A_drip_torch_is_used_to_catalyze_the_spread_of_a_prescribed_fire_near_Republic%2C_Washington%2C_March_20%2C_2024_%2853632106868%29.jpg/1920px-A_drip_torch_is_used_to_catalyze_the_spread_of_a_prescribed_fire_near_Republic%2C_Washington%2C_March_20%2C_2024_%2853632106868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "BLM Oregon & Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_drip_torch_is_used_to_catalyze_the_spread_of_a_prescribed_fire_near_Republic,_Washington,_March_20,_2024_(53632106868).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 5:1/4",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "¿Naciste para quedarte en la cama?"
+      },
+      "aplicacao": "La pereza promete descanso y te cobra en culpa.",
+      "gancho": {
+        "stoic": "Lo que se reprochaba el emperador al despertar."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Dusk_Sky.jpg/1920px-Dusk_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 5:1/5",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Hasta la hormiga termina su trabajo"
+      },
+      "aplicacao": "Todo en la naturaleza cumple su tarea. Cumple la tuya.",
+      "gancho": {
+        "stoic": "Marco Aurelio se comparó con una hormiga."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Dark_forest_scenic.jpg/1920px-Dark_forest_scenic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Sallie, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_scenic.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 2:4/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Deja los libros y vive"
+      },
+      "aplicacao": "Leer sobre el cambio también es una forma de no cambiar.",
+      "gancho": {
+        "stoic": "Un emperador filósofo se ordenó dejar de leer."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Burning_candle_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Daniil Ryzhkov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_black.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    }
+  ]
+}

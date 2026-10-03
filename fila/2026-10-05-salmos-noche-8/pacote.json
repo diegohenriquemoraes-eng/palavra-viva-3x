@@ -1,0 +1,224 @@
+{
+  "slug": "salmos-noche-8",
+  "formato": "dormir",
+  "data": "2026-10-05",
+  "criado_em": "2026-10-03T05:21:52+00:00",
+  "aprovado_em": "2026-10-03T05:21:52+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 86",
+      "Psalms 25",
+      "Psalms 31"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — En Tu Mano Están Mis Tiempos | Salmo 86, 25 y 31",
+      "en": "Psalms for Sleep — My Times Are in Your Hand | Psalm 86, 25 and 31",
+      "pt": "Salmos para Dormir — Nas Tuas Mãos Estão os Meus Tempos | Salmo 86, 25 e 31"
+    },
+    "thumb_titulo": {
+      "es": "EN TU MANO\nMIS TIEMPOS",
+      "en": "MY TIMES\nIN YOUR HAND",
+      "pt": "NAS TUAS MÃOS\nMEUS TEMPOS"
+    },
+    "thumb_sub": {
+      "es": "Salmos 86, 25 y 31",
+      "en": "Psalms 86, 25 and 31",
+      "pt": "Salmos 86, 25 e 31"
+    },
+    "abertura": {
+      "es": "Salmos ochenta y seis, veinticinco y treinta y uno, leídos despacio, para escuchar acostado. Tres oraciones de David: el ochenta y seis pide un corazón sin divisiones; el veinticinco, dirección; el treinta y uno entrega los tiempos. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+      "pt": "Salmos oitenta e seis, vinte e cinco e trinta e um, lidos devagar, para ouvir deitado. Três orações de Davi: o oitenta e seis pede um coração sem divisões; o vinte e cinco, direção; o trinta e um entrega os tempos. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+    },
+    "cierre": {},
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 86",
+        "salmo 25",
+        "biblia hablada para dormir",
+        "salmos de noche",
+        "salmos narrados"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 86",
+        "salmo 25",
+        "biblia narrada para dormir",
+        "salmos da noite",
+        "salmos narrados"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos 86, 25 y 31 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+      "pt": "Salmos 86, 25 e 31 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Guisard_-_Milky_Way.jpg/1920px-Guisard_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/S. Guisard ( www.eso.org/~sguisard )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/1920px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/ESA/CXC/STScI",
+        "origem": "https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/1920px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Peter Paul Rubens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way,_1636-1637.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Night_starry_sky_above_Vinnytsia.jpg/1920px-Night_starry_sky_above_Vinnytsia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kulish Kateryna",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_starry_sky_above_Vinnytsia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png/1920px-Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Tahazu",
+        "origem": "https://commons.wikimedia.org/wiki/File:Xingkong_Starry_Sky_Jungle_Type_19_compared_to_Type_21_blouse.png",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Starry_Sky_off_Westport%2C_WA_04.jpg/1920px-Starry_Sky_off_Westport%2C_WA_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joe Mabel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_Sky_off_Westport,_WA_04.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Westport%2C_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg/1920px-Westport%2C_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joe Mabel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Westport,_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 86:5",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 86:5 — Porque tú, Señor, eres bueno y perdonador | Biblia",
+        "en": "Psalm 86:5 — For thou, Lord, art good, and ready | Bible",
+        "pt": "Salmo 86:5 — Pois tu, Senhor, és bom, perdoador | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Tres cosas que David dice de Dios en un versículo.",
+        "pt": "Três coisas que Davi diz de Deus num versículo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 86:11",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 86:11 — Enséñame, oh Jehová, tu camino; caminaré yo | Biblia",
+        "en": "Psalm 86:11 — Teach me thy way, O Lord; I | Bible",
+        "pt": "Salmo 86:11 — Ensina-me, SENHOR, o teu caminho, e eu | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "La oración de David por un corazón sin divisiones.",
+        "pt": "A oração de Davi por um coração sem divisões."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 25:4-5",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 25:4-5 — Muéstrame, oh Jehová, tus caminos; enséñame tus | Biblia",
+        "en": "Psalm 25:4-5 — Shew me thy ways, O Lord; teach | Bible",
+        "pt": "Salmo 25:4-5 — Tu me fazes conhecer os teus caminhos | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que David pide antes de tomar una decisión.",
+        "pt": "O que Davi pede antes de tomar uma decisão."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Starry_sky_from_Tekapo.jpg/1920px-Starry_sky_from_Tekapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Butterflyyyyyyyy y y y",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_sky_from_Tekapo.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 31:15",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 31:15 — En tu mano están mis tiempos: líbrame | Biblia",
+        "en": "Psalm 31:15 — My times are in thy hand: deliver | Bible",
+        "pt": "Salmo 31:15 — Meus tempos estão em tuas mãos; livra-me | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Dónde están tus tiempos, según David.",
+        "pt": "Onde estão os teus tempos, segundo Davi."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
