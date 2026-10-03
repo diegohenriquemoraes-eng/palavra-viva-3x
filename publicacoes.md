@@ -5830,3 +5830,19 @@
 - Item: short-1 — Salmo 27:1
 - Duração: 20.8s
 - Publicado em: 2026-10-03T02:14:06+00:00
+
+## [es] QR4M838_4lM — Salmo 27:1 — Jehová es mi luz y mi salvación: ¿de | Biblia
+
+- URL: https://youtu.be/QR4M838_4lM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 27:1
+- Duração: 22.6s
+- Publicado em: 2026-10-03T02:15:59+00:00
+
+## [pt] 4jYj1ofJBqg — Salmos para Dormir — O Senhor É Minha Luz | Salmo 27, 46 e 62 Narrados
+
+- URL: https://youtu.be/4jYj1ofJBqg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 27, Salmo 46, Salmo 62
+- Duração: 3796.9s
+- Publicado em: 2026-10-03T02:43:13+00:00

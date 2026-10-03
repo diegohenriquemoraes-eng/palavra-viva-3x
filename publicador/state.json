@@ -2387,12 +2387,20 @@
           "video_id": "AebMswduZHI",
           "titulo": "Salmos para Dormir — Jehová Es Mi Luz | Salmo 27, 46 y 62 Narrados",
           "em": "2026-10-03T02:12:58+00:00"
+        },
+        {
+          "pacote": "2026-10-03-salmos-noche-3",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "QR4M838_4lM",
+          "titulo": "Salmo 27:1 — Jehová es mi luz y mi salvación: ¿de | Biblia",
+          "em": "2026-10-03T02:15:59+00:00"
         }
       ],
-      "ultimo_short": "2026-10-02T13:24:12+00:00",
+      "ultimo_short": "2026-10-03T02:15:59+00:00",
       "shorts_dia": {
-        "data": "2026-10-02",
-        "n": 2
+        "data": "2026-10-03",
+        "n": 1
       },
       "longo_data": "2026-10-03",
       "longos_dia": {
@@ -4549,6 +4557,14 @@
           "video_id": "f5db9tke_9M",
           "titulo": "Salmo 27:1 — O SENHOR é minha luz | Bíblia",
           "em": "2026-10-03T02:14:06+00:00"
+        },
+        {
+          "pacote": "2026-10-03-salmos-noche-3",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "4jYj1ofJBqg",
+          "titulo": "Salmos para Dormir — O Senhor É Minha Luz | Salmo 27, 46 e 62 Narrados",
+          "em": "2026-10-03T02:43:13+00:00"
         }
       ],
       "ultimo_short": "2026-10-03T02:14:06+00:00",
@@ -4556,12 +4572,12 @@
         "data": "2026-10-03",
         "n": 1
       },
-      "longo_data": "2026-10-02",
+      "longo_data": "2026-10-03",
       "longos_dia": {
-        "data": "2026-10-02",
-        "n": 2
+        "data": "2026-10-03",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-02T18:54:39+00:00"
+      "ultimo_longo": "2026-10-03T02:43:13+00:00"
     },
     "stoic": {
       "publicados": [
