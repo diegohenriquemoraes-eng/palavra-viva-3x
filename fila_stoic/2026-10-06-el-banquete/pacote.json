@@ -1,0 +1,220 @@
+{
+  "slug": "el-banquete",
+  "formato": "libro",
+  "data": "2026-10-06",
+  "criado_em": "2026-10-04T05:58:01+00:00",
+  "aprovado_em": "2026-10-04T05:58:01+00:00",
+  "longo": {
+    "refs": [
+      "Enquiridión 27",
+      "Enquiridión 28",
+      "Enquiridión 29",
+      "Enquiridión 30",
+      "Enquiridión 31",
+      "Enquiridión 32",
+      "Enquiridión 33",
+      "Enquiridión 34",
+      "Enquiridión 35",
+      "Enquiridión 36",
+      "Enquiridión 37",
+      "Enquiridión 38",
+      "Enquiridión 39",
+      "Enquiridión 40",
+      "Enquiridión 41",
+      "Enquiridión 42",
+      "Enquiridión 43",
+      "Enquiridión 44",
+      "Enquiridión 45",
+      "Enquiridión 46",
+      "Enquiridión 47",
+      "Enquiridión 48",
+      "Enquiridión 49",
+      "Enquiridión 50",
+      "Enquiridión 51",
+      "Enquiridión 52"
+    ],
+    "titulo": {
+      "stoic": "Vive Como en un Banquete | Epicteto, Enquiridión XXVII-LII"
+    },
+    "thumb_titulo": {
+      "stoic": "EL\nBANQUETE"
+    },
+    "thumb_sub": {
+      "stoic": "Epicteto, Enquiridión XXVII-LII"
+    },
+    "abertura": {
+      "stoic": "La parte central del manual de Epicteto trata del deseo: del placer, del dinero, de lo que otros tienen. Su imagen favorita es un banquete. Escuchas los capítulos veintisiete a cincuenta y dos."
+    },
+    "cierre": {
+      "stoic": "La regla del banquete es sencilla: toma tu parte cuando el plato llegue a ti, no lo arrebates, no lo persigas cuando se va. Casi toda la ansiedad por tener más es querer comer antes de que te sirvan."
+    },
+    "tags_extra": {
+      "stoic": [
+        "epicteto",
+        "enquiridion",
+        "el deseo",
+        "templanza estoica",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "Epicteto, Enquiridión, capítulos XXVII a LII, narrados en español (trad. Antonio Brum)."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_3.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Trump_Effigy_by_Southover_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p02.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Lamp_with_theatre_scene%2C_clay_-_Museo_Egizio_%28Turin%29_C_7267_p02.jpg/1920px-Lamp_with_theatre_scene%2C_clay_-_Museo_Egizio_%28Turin%29_C_7267_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_with_theatre_scene,_clay_-_Museo_Egizio_(Turin)_C_7267_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2117_p01.jpg/1920px-Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2117_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2117_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p03.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p03.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Busan_fishing_harbor_at_night_9.jpg/1920px-Busan_fishing_harbor_at_night_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_9.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Busan_fishing_harbor_at_night_18.jpg/1920px-Busan_fishing_harbor_at_night_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_18.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/National_Harbor_night_view.jpg/1920px-National_Harbor_night_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Nathan Jones",
+        "origem": "https://commons.wikimedia.org/wiki/File:National_Harbor_night_view.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Busan_fishing_harbor_at_night_12.jpg/1920px-Busan_fishing_harbor_at_night_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_12.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 22:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Vive como en un banquete"
+      },
+      "aplicacao": "Toma tu parte cuando llegue; no arrebates el plato ajeno.",
+      "gancho": {
+        "stoic": "La regla del banquete de Epicteto."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Enquiridión 56:1/4",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "El gusto de haber dicho que no"
+      },
+      "aplicacao": "Decir no también se disfruta, y ese gusto no deja resaca.",
+      "gancho": {
+        "stoic": "El placer que Epicteto ponía sobre el placer."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Burning_candle_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Daniil Ryzhkov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_black.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Enquiridión 56:1/3",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "El placer dura menos que la culpa"
+      },
+      "aplicacao": "Cuenta los minutos de gusto y las horas de culpa.",
+      "gancho": {
+        "stoic": "La cuenta de Epicteto antes de cada tentación."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rain_-_window_%2850542058767%29.jpg/1920px-Rain_-_window_%2850542058767%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Amanda Coutinho from São Paulo, Brasil",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rain_-_window_(50542058767).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Enquiridión 61:1/4",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Pasado el límite, ya no hay límite"
+      },
+      "aplicacao": "El «solo esta vez» es la puerta, no la excepción.",
+      "gancho": {
+        "stoic": "Por qué el primer exceso nunca es el último."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Fire_burning_in_a_fireplace.jpg/1920px-Fire_burning_in_a_fireplace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Pöllö",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_burning_in_a_fireplace.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    }
+  ]
+}
