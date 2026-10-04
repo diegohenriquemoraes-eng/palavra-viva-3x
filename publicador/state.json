@@ -5807,12 +5807,20 @@
           "video_id": "kzo037k76TA",
           "titulo": "La esmeralda no necesita aplausos",
           "em": "2026-10-04T15:50:35+00:00"
+        },
+        {
+          "pacote": "2026-10-04-la-fama-se-olvida",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "JHkxef9HdQc",
+          "titulo": "Todo acaba siendo leyenda, y luego nada",
+          "em": "2026-10-04T22:31:00+00:00"
         }
       ],
-      "ultimo_short": "2026-10-04T15:50:35+00:00",
+      "ultimo_short": "2026-10-04T22:31:00+00:00",
       "shorts_dia": {
         "data": "2026-10-04",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

@@ -5974,3 +5974,11 @@
 - Item: short-2 — Salmo 143:8
 - Duração: 13.6s
 - Publicado em: 2026-10-04T15:52:13+00:00
+
+## [stoic] JHkxef9HdQc — Todo acaba siendo leyenda, y luego nada
+
+- URL: https://youtu.be/JHkxef9HdQc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 4:50
+- Duração: 19.0s
+- Publicado em: 2026-10-04T22:31:00+00:00
