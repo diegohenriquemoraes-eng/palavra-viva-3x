@@ -5942,3 +5942,27 @@
 - Item: short-1 — Meditaciones 6:27
 - Duração: 22.5s
 - Publicado em: 2026-10-04T08:38:32+00:00
+
+## [es] AxjqVKdTr9c — Salmos para Dormir — Bendice, Alma Mía | Salmo 103, 145 y 146 Narrados
+
+- URL: https://youtu.be/AxjqVKdTr9c
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 103, Salmo 145, Salmo 146
+- Duração: 4226.6s
+- Publicado em: 2026-10-04T15:19:09+00:00
+
+## [pt] E9LRges-7zg — Salmos para Dormir — Bendize, Ó Minha Alma | Salmo 103, 145 e 146 Narrados
+
+- URL: https://youtu.be/E9LRges-7zg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 103, Salmo 145, Salmo 146
+- Duração: 3858.1s
+- Publicado em: 2026-10-04T15:49:34+00:00
+
+## [stoic] kzo037k76TA — La esmeralda no necesita aplausos
+
+- URL: https://youtu.be/kzo037k76TA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 4:30
+- Duração: 16.5s
+- Publicado em: 2026-10-04T15:50:35+00:00
