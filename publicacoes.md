@@ -5966,3 +5966,11 @@
 - Item: short-2 — Meditaciones 4:30
 - Duração: 16.5s
 - Publicado em: 2026-10-04T15:50:35+00:00
+
+## [es] HaaPnqi22yA — Salmo 143:8 — Hazme oir por la mañana tu misericordia | Biblia
+
+- URL: https://youtu.be/HaaPnqi22yA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 143:8
+- Duração: 13.6s
+- Publicado em: 2026-10-04T15:52:13+00:00

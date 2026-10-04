@@ -2438,12 +2438,20 @@
           "video_id": "AxjqVKdTr9c",
           "titulo": "Salmos para Dormir — Bendice, Alma Mía | Salmo 103, 145 y 146 Narrados",
           "em": "2026-10-04T15:19:09+00:00"
+        },
+        {
+          "pacote": "2026-10-04-salmos-noche-5",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "HaaPnqi22yA",
+          "titulo": "Salmo 143:8 — Hazme oir por la mañana tu misericordia | Biblia",
+          "em": "2026-10-04T15:52:13+00:00"
         }
       ],
-      "ultimo_short": "2026-10-04T02:16:23+00:00",
+      "ultimo_short": "2026-10-04T15:52:13+00:00",
       "shorts_dia": {
         "data": "2026-10-04",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-04",
       "longos_dia": {
