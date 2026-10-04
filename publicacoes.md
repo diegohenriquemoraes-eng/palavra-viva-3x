@@ -5902,3 +5902,19 @@
 - Item: short-4 — Enquiridión 18:2
 - Duração: 18.2s
 - Publicado em: 2026-10-03T23:04:01+00:00
+
+## [es] qZSqjX9ZmNo — Salmos para Dormir — De Mañana Me Harás Oír | Salmo 63, 143 y 130
+
+- URL: https://youtu.be/qZSqjX9ZmNo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 63, Salmo 143, Salmo 130
+- Duração: 3363.8s
+- Publicado em: 2026-10-04T02:12:17+00:00
+
+## [pt] 5nD9wrUYC_k — Salmo 63:6-7 — Quando eu me lembrar de ti | Bíblia
+
+- URL: https://youtu.be/5nD9wrUYC_k
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 63:6-7
+- Duração: 16.2s
+- Publicado em: 2026-10-04T02:13:15+00:00
