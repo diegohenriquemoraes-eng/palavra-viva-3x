@@ -2420,12 +2420,20 @@
           "video_id": "qZSqjX9ZmNo",
           "titulo": "Salmos para Dormir — De Mañana Me Harás Oír | Salmo 63, 143 y 130",
           "em": "2026-10-04T02:12:17+00:00"
+        },
+        {
+          "pacote": "2026-10-04-salmos-noche-5",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "fDtt_c5FOgM",
+          "titulo": "Salmo 63:6-7 — Cuando me acordaré de ti | Biblia",
+          "em": "2026-10-04T02:16:23+00:00"
         }
       ],
-      "ultimo_short": "2026-10-03T14:32:21+00:00",
+      "ultimo_short": "2026-10-04T02:16:23+00:00",
       "shorts_dia": {
-        "data": "2026-10-03",
-        "n": 2
+        "data": "2026-10-04",
+        "n": 1
       },
       "longo_data": "2026-10-04",
       "longos_dia": {
@@ -4608,6 +4616,14 @@
           "video_id": "5nD9wrUYC_k",
           "titulo": "Salmo 63:6-7 — Quando eu me lembrar de ti | Bíblia",
           "em": "2026-10-04T02:13:15+00:00"
+        },
+        {
+          "pacote": "2026-10-04-salmos-noche-5",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "gYCxUnaeQuU",
+          "titulo": "Salmos para Dormir — De Manhã Me Farás Ouvir | Salmo 63, 143 e 130",
+          "em": "2026-10-04T02:42:35+00:00"
         }
       ],
       "ultimo_short": "2026-10-04T02:13:15+00:00",
@@ -4615,12 +4631,12 @@
         "data": "2026-10-04",
         "n": 1
       },
-      "longo_data": "2026-10-03",
+      "longo_data": "2026-10-04",
       "longos_dia": {
-        "data": "2026-10-03",
-        "n": 2
+        "data": "2026-10-04",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-03T14:30:27+00:00"
+      "ultimo_longo": "2026-10-04T02:42:35+00:00"
     },
     "stoic": {
       "publicados": [

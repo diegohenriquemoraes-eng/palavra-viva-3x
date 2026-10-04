@@ -5918,3 +5918,19 @@
 - Item: short-1 — Salmo 63:6-7
 - Duração: 16.2s
 - Publicado em: 2026-10-04T02:13:15+00:00
+
+## [es] fDtt_c5FOgM — Salmo 63:6-7 — Cuando me acordaré de ti | Biblia
+
+- URL: https://youtu.be/fDtt_c5FOgM
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 63:6-7
+- Duração: 15.7s
+- Publicado em: 2026-10-04T02:16:23+00:00
+
+## [pt] gYCxUnaeQuU — Salmos para Dormir — De Manhã Me Farás Ouvir | Salmo 63, 143 e 130
+
+- URL: https://youtu.be/gYCxUnaeQuU
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 63, Salmo 143, Salmo 130
+- Duração: 3517.6s
+- Publicado em: 2026-10-04T02:42:35+00:00
