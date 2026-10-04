@@ -5763,12 +5763,20 @@
           "video_id": "lD1AH1n2LNA",
           "titulo": "Quien te enoja cuando quiere, te manda",
           "em": "2026-10-03T23:04:01+00:00"
+        },
+        {
+          "pacote": "2026-10-04-la-fama-se-olvida",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "6i4Z2e5hYPY",
+          "titulo": "Quieren el aplauso de quien no verán",
+          "em": "2026-10-04T08:38:32+00:00"
         }
       ],
-      "ultimo_short": "2026-10-03T23:04:01+00:00",
+      "ultimo_short": "2026-10-04T08:38:32+00:00",
       "shorts_dia": {
-        "data": "2026-10-03",
-        "n": 4
+        "data": "2026-10-04",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

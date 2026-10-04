@@ -5934,3 +5934,11 @@
 - Item: longo — Salmo 63, Salmo 143, Salmo 130
 - Duração: 3517.6s
 - Publicado em: 2026-10-04T02:42:35+00:00
+
+## [stoic] 6i4Z2e5hYPY — Quieren el aplauso de quien no verán
+
+- URL: https://youtu.be/6i4Z2e5hYPY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 6:27
+- Duração: 22.5s
+- Publicado em: 2026-10-04T08:38:32+00:00
