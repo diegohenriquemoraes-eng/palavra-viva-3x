@@ -5815,12 +5815,20 @@
           "video_id": "JHkxef9HdQc",
           "titulo": "Todo acaba siendo leyenda, y luego nada",
           "em": "2026-10-04T22:31:00+00:00"
+        },
+        {
+          "pacote": "2026-10-04-la-fama-se-olvida",
+          "item": "short-4",
+          "formato": "libro",
+          "video_id": "Q4CFpBvqbgc",
+          "titulo": "El que enterró también fue enterrado",
+          "em": "2026-10-04T22:58:03+00:00"
         }
       ],
-      "ultimo_short": "2026-10-04T22:31:00+00:00",
+      "ultimo_short": "2026-10-04T22:58:03+00:00",
       "shorts_dia": {
         "data": "2026-10-04",
-        "n": 3
+        "n": 4
       },
       "longo_data": "",
       "longos_dia": {

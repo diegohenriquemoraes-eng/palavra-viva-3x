@@ -5982,3 +5982,11 @@
 - Item: short-3 — Meditaciones 4:50
 - Duração: 19.0s
 - Publicado em: 2026-10-04T22:31:00+00:00
+
+## [stoic] Q4CFpBvqbgc — El que enterró también fue enterrado
+
+- URL: https://youtu.be/Q4CFpBvqbgc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Meditaciones 8:28
+- Duração: 23.8s
+- Publicado em: 2026-10-04T22:58:03+00:00
