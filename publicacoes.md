@@ -6054,3 +6054,11 @@
 - Item: short-2 — Meditaciones 5:1
 - Duração: 15.4s
 - Publicado em: 2026-10-05T17:45:23+00:00
+
+## [es] GQF3e-QNLk0 — Salmo 139:14 — Te alabaré; porque formidables, maravillosas son tus | Biblia
+
+- URL: https://youtu.be/GQF3e-QNLk0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 139:14
+- Duração: 21.0s
+- Publicado em: 2026-10-05T17:47:20+00:00
