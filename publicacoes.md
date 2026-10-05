@@ -6006,3 +6006,11 @@
 - Item: short-1 — Salmo 139:9-10
 - Duração: 23.6s
 - Publicado em: 2026-10-05T01:40:01+00:00
+
+## [es] vgthZNjyftA — Salmo 139:9-10 — Si tomare las alas del alba | Biblia
+
+- URL: https://youtu.be/vgthZNjyftA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 139:9-10
+- Duração: 22.6s
+- Publicado em: 2026-10-05T01:42:40+00:00
