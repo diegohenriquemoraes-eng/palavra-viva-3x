@@ -4676,6 +4676,14 @@
           "video_id": "-uPjTBUyY08",
           "titulo": "Salmo 139:9-10 — Se eu tomasse as asas do amanhecer | Bíblia",
           "em": "2026-10-05T01:40:01+00:00"
+        },
+        {
+          "pacote": "2026-10-05-salmos-noche-7",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "pYxzBxCwoBQ",
+          "titulo": "Salmos para Dormir — Tu Me Conheces | Salmo 139, 16 e 18 Narrados",
+          "em": "2026-10-05T07:43:14+00:00"
         }
       ],
       "ultimo_short": "2026-10-05T01:40:01+00:00",
@@ -4683,12 +4691,12 @@
         "data": "2026-10-05",
         "n": 1
       },
-      "longo_data": "2026-10-04",
+      "longo_data": "2026-10-05",
       "longos_dia": {
-        "data": "2026-10-04",
-        "n": 2
+        "data": "2026-10-05",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-04T15:49:34+00:00"
+      "ultimo_longo": "2026-10-05T07:43:14+00:00"
     },
     "stoic": {
       "publicados": [
@@ -5847,12 +5855,20 @@
           "video_id": "Q4CFpBvqbgc",
           "titulo": "El que enterró también fue enterrado",
           "em": "2026-10-04T22:58:03+00:00"
+        },
+        {
+          "pacote": "2026-10-05-manos-a-la-obra",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "uKzpjfzKZxg",
+          "titulo": "Hazlo aunque nadie lo vea",
+          "em": "2026-10-05T07:44:12+00:00"
         }
       ],
-      "ultimo_short": "2026-10-04T22:58:03+00:00",
+      "ultimo_short": "2026-10-05T07:44:12+00:00",
       "shorts_dia": {
-        "data": "2026-10-04",
-        "n": 4
+        "data": "2026-10-05",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

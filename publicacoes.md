@@ -6014,3 +6014,19 @@
 - Item: short-1 — Salmo 139:9-10
 - Duração: 22.6s
 - Publicado em: 2026-10-05T01:42:40+00:00
+
+## [pt] pYxzBxCwoBQ — Salmos para Dormir — Tu Me Conheces | Salmo 139, 16 e 18 Narrados
+
+- URL: https://youtu.be/pYxzBxCwoBQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 139, Salmo 16, Salmo 18
+- Duração: 4110.4s
+- Publicado em: 2026-10-05T07:43:14+00:00
+
+## [stoic] uKzpjfzKZxg — Hazlo aunque nadie lo vea
+
+- URL: https://youtu.be/uKzpjfzKZxg
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 9:44
+- Duração: 16.8s
+- Publicado em: 2026-10-05T07:44:13+00:00
