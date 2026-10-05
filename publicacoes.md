@@ -5990,3 +5990,19 @@
 - Item: short-4 — Meditaciones 8:28
 - Duração: 23.8s
 - Publicado em: 2026-10-04T22:58:03+00:00
+
+## [es] 2PKZ79CJkow — Salmos para Dormir — Tú Me Conoces | Salmo 139, 16 y 18 Narrados
+
+- URL: https://youtu.be/2PKZ79CJkow
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 139, Salmo 16, Salmo 18
+- Duração: 3830.1s
+- Publicado em: 2026-10-05T01:38:40+00:00
+
+## [pt] -uPjTBUyY08 — Salmo 139:9-10 — Se eu tomasse as asas do amanhecer | Bíblia
+
+- URL: https://youtu.be/-uPjTBUyY08
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 139:9-10
+- Duração: 23.6s
+- Publicado em: 2026-10-05T01:40:01+00:00
