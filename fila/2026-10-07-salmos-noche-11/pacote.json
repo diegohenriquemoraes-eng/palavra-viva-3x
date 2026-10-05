@@ -1,0 +1,226 @@
+{
+  "slug": "salmos-noche-11",
+  "formato": "dormir",
+  "data": "2026-10-07",
+  "criado_em": "2026-10-05T05:44:50+00:00",
+  "aprovado_em": "2026-10-05T05:44:50+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 121",
+      "Psalms 124",
+      "Psalms 125",
+      "Psalms 126",
+      "Psalms 128"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — Cánticos de las Subidas | Salmo 121, 124, 125, 126 y 128",
+      "en": "Psalms for Sleep — Songs of Ascents | Psalm 121, 124, 125, 126 and 128",
+      "pt": "Salmos para Dormir — Cânticos das Subidas | Salmo 121, 124, 125, 126 e 128"
+    },
+    "thumb_titulo": {
+      "es": "CÁNTICOS DE\nLAS SUBIDAS",
+      "en": "SONGS OF\nASCENTS",
+      "pt": "CÂNTICOS\nDAS SUBIDAS"
+    },
+    "thumb_sub": {
+      "es": "Salmos 121, 124, 125, 126 y 128",
+      "en": "Psalms 121, 124, 125, 126 and 128",
+      "pt": "Salmos 121, 124, 125, 126 e 128"
+    },
+    "abertura": {
+      "es": "Salmos ciento veintiuno, ciento veinticuatro, ciento veinticinco, ciento veintiseis y ciento veintiocho, leídos despacio, para escuchar acostado. Cinco cánticos de las subidas, los que se cantaban en el camino a Jerusalén: cortos, de memoria, uno detrás del otro. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+      "pt": "Salmos cento e vinte e um, cento e vinte e quatro, cento e vinte e cinco, cento e vinte e seis e cento e vinte e oito, lidos devagar, para ouvir deitado. Cinco cânticos das subidas, os que se cantavam a caminho de Jerusalém: curtos, de cor, um atrás do outro. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+    },
+    "cierre": {},
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 121",
+        "salmo 124",
+        "biblia hablada para dormir",
+        "salmos de noche",
+        "salmos narrados"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 121",
+        "salmo 124",
+        "biblia narrada para dormir",
+        "salmos da noite",
+        "salmos narrados"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos 121, 124, 125, 126 y 128 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+      "pt": "Salmos 121, 124, 125, 126 e 128 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Moon_Clouds_Treetops_Abstract_2.jpg/1920px-Moon_Clouds_Treetops_Abstract_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract_2.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Night_moon_with_clouds.jpg/1920px-Night_moon_with_clouds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MD Rohan Sheikh",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_moon_with_clouds.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Moon_and_clouds_over_Brofjorden_7.jpg/1920px-Moon_and_clouds_over_Brofjorden_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_7.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Moon_and_clouds%2C_2021-11-18%2C_01.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Moon_Clouds_Treetops_Abstract.jpg/1920px-Moon_Clouds_Treetops_Abstract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg/1920px-5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Brainandforce",
+        "origem": "https://commons.wikimedia.org/wiki/File:5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg/1920px-A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "EHT Collaboration",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A*_in_polarised_light_(eso2406a).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 121:7-8",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 121:7-8 — Jehová te guardará de todo mal: él | Biblia",
+        "en": "Psalm 121:7-8 — The Lord shall preserve thee from all | Bible",
+        "pt": "Salmo 121:7-8 — O SENHOR te guardará de todo mal | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "El final del salmo del viajero.",
+        "pt": "O fim do salmo do viajante."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 124:8",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 124:8 — Nuestro socorro es en el nombre | Biblia",
+        "en": "Psalm 124:8 — Our help is in the name | Bible",
+        "pt": "Salmo 124:8 — Nosso socorro está no nome do SENHOR | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "El último versículo del Salmo ciento veinticuatro.",
+        "pt": "O último versículo do Salmo cento e vinte e quatro."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pink_clouds_and_moon%2C_Ehrenbach.jpg/1920px-Pink_clouds_and_moon%2C_Ehrenbach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Gerda Arendt",
+        "origem": "https://commons.wikimedia.org/wiki/File:Pink_clouds_and_moon,_Ehrenbach.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 125:1-2",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 125:1-2 — Los que confían en Jehová son como | Biblia",
+        "en": "Psalm 125:1-2 — They that trust in the Lord shall | Bible",
+        "pt": "Salmo 125:1-2 — Os que confiam no SENHOR são como | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Los que confían comparados con un monte.",
+        "pt": "Os que confiam comparados com um monte."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/ALMA_and_the_centre_of_the_Milky_Way.jpg/1920px-ALMA_and_the_centre_of_the_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/B. Tafreshi (twanight.org)",
+        "origem": "https://commons.wikimedia.org/wiki/File:ALMA_and_the_centre_of_the_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 126:5-6",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 126:5-6 — Los que sembraron con lágrimas, con regocijo | Biblia",
+        "en": "Psalm 126:5-6 — They that sow in tears shall reap | Bible",
+        "pt": "Salmo 126:5-6 — Os que semeiam em lágrimas colherão | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que pasa con los que siembran llorando.",
+        "pt": "O que acontece com os que semeiam chorando."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

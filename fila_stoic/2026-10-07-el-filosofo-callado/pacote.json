@@ -1,0 +1,214 @@
+{
+  "slug": "el-filosofo-callado",
+  "formato": "libro",
+  "data": "2026-10-07",
+  "criado_em": "2026-10-05T05:45:41+00:00",
+  "aprovado_em": "2026-10-05T05:45:41+00:00",
+  "longo": {
+    "refs": [
+      "Enquiridión 53",
+      "Enquiridión 54",
+      "Enquiridión 55",
+      "Enquiridión 56",
+      "Enquiridión 57",
+      "Enquiridión 58",
+      "Enquiridión 59",
+      "Enquiridión 60",
+      "Enquiridión 61",
+      "Enquiridión 62",
+      "Enquiridión 63",
+      "Enquiridión 64",
+      "Enquiridión 65",
+      "Enquiridión 66",
+      "Enquiridión 67",
+      "Enquiridión 68",
+      "Enquiridión 69",
+      "Enquiridión 70",
+      "Enquiridión 71",
+      "Enquiridión 72",
+      "Enquiridión 73",
+      "Enquiridión 74",
+      "Enquiridión 75",
+      "Enquiridión 76",
+      "Enquiridión 77",
+      "Enquiridión 78"
+    ],
+    "titulo": {
+      "stoic": "No Digas Que Eres Filósofo | Epicteto, Enquiridión LIII-LXXVIII"
+    },
+    "thumb_titulo": {
+      "stoic": "NO LO\nDIGAS"
+    },
+    "thumb_sub": {
+      "stoic": "Epicteto, Enquiridión LIII-LXXVIII"
+    },
+    "abertura": {
+      "stoic": "El final del manual de Epicteto es una advertencia a sus propios alumnos: saber filosofía no es lo mismo que vivirla. Escuchas los últimos capítulos, del cincuenta y tres al setenta y ocho."
+    },
+    "cierre": {
+      "stoic": "Epicteto termina donde empieza la vida real: en lo que haces cuando nadie te pide que expliques. No hace falta citar a los estoicos. Basta con que, mañana, alguien note que ya no reaccionas igual."
+    },
+    "tags_extra": {
+      "stoic": [
+        "epicteto",
+        "enquiridion",
+        "practicar la filosofia",
+        "humildad estoica",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "Epicteto, Enquiridión, capítulos LIII a LXXVIII, narrados en español (trad. Antonio Brum)."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Incense_Smoke%2C_Monday_in_Holy_Week%2C_Church_of_the_Holy_Cross%2C_Episcopal%2C_Shreveport%2C_LA.jpg/1920px-Incense_Smoke%2C_Monday_in_Holy_Week%2C_Church_of_the_Holy_Cross%2C_Episcopal%2C_Shreveport%2C_LA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Steve Snodgrass",
+        "origem": "https://commons.wikimedia.org/wiki/File:Incense_Smoke,_Monday_in_Holy_Week,_Church_of_the_Holy_Cross,_Episcopal,_Shreveport,_LA.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Smoke_of_incenses_Sri_Dalada_Maligawa.jpg/1920px-Smoke_of_incenses_Sri_Dalada_Maligawa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bergentroll",
+        "origem": "https://commons.wikimedia.org/wiki/File:Smoke_of_incenses_Sri_Dalada_Maligawa.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Incense_smoke_against_a_black_sky_-_Flickr_-_Vanessa_Pike-Russell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Vanessa Pike-Russell from Cleveland, QLD, Australia",
+        "origem": "https://commons.wikimedia.org/wiki/File:Incense_smoke_against_a_black_sky_-_Flickr_-_Vanessa_Pike-Russell.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p02.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2110_ND_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2110_ND_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2110_ND_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p03.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_clay_-_Museo_Egizio_%28Turin%29_P_2096_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_clay_-_Museo_Egizio_(Turin)_P_2096_p03.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg/1920px-Lamp_shaped_as_a_satyr_mask%2C_clay_-_Museo_Egizio_%28Turin%29_C_7289_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_shaped_as_a_satyr_mask,_clay_-_Museo_Egizio_(Turin)_C_7289_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p01.jpg/1920px-Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Two-spouted_lamp_with_palmette_handle,_clay_-_Museo_Egizio_(Turin)_C_7278_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 68:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "No digas que eres filósofo"
+      },
+      "aplicacao": "Que te noten por cómo vives, no por lo que citas.",
+      "gancho": {
+        "stoic": "Epicteto prohibía presumir de lo que lees."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Incense_Smoke%2C_Monday_in_Holy_Week%2C_Church_of_the_Holy_Cross%2C_Episcopal%2C_Shreveport%2C_LA.jpg/1920px-Incense_Smoke%2C_Monday_in_Holy_Week%2C_Church_of_the_Holy_Cross%2C_Episcopal%2C_Shreveport%2C_LA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Steve Snodgrass",
+        "origem": "https://commons.wikimedia.org/wiki/File:Incense_Smoke,_Monday_in_Holy_Week,_Church_of_the_Holy_Cross,_Episcopal,_Shreveport,_LA.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Enquiridión 68:2/4",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La oveja no devuelve la hierba"
+      },
+      "aplicacao": "Digiere lo que aprendes; que se vea en lo que das.",
+      "gancho": {
+        "stoic": "La lección de las ovejas de Epicteto."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "John Bauer",
+        "origem": "https://commons.wikimedia.org/wiki/File:John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 75:2/3",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Sabemos que mentir es malo, y mentimos"
+      },
+      "aplicacao": "Saber la regla no es cumplirla. La prueba es hoy.",
+      "gancho": {
+        "stoic": "La acusación de Epicteto contra los que saben mucho."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Storm_clouds_formation1.jpg/1920px-Storm_clouds_formation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 3:17/4",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Que tu palabra baste"
+      },
+      "aplicacao": "Quien siempre cumple no tiene que jurar nada.",
+      "gancho": {
+        "stoic": "Marco Aurelio y la palabra que no necesita juramento."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

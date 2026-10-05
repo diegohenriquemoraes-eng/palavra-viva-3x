@@ -1,0 +1,225 @@
+{
+  "slug": "salmos-noche-12",
+  "formato": "dormir",
+  "data": "2026-10-07",
+  "criado_em": "2026-10-05T05:45:12+00:00",
+  "aprovado_em": "2026-10-05T05:45:12+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 33",
+      "Psalms 65",
+      "Psalms 67",
+      "Psalms 85"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — Nuestra Alma Esperó a Jehová | Salmo 33, 65, 67 y 85",
+      "en": "Psalms for Sleep — Our Soul Waits for the Lord | Psalm 33, 65, 67 and 85",
+      "pt": "Salmos para Dormir — A Nossa Alma Espera no Senhor | Salmo 33, 65, 67 e 85"
+    },
+    "thumb_titulo": {
+      "es": "NUESTRA ALMA\nESPERÓ",
+      "en": "OUR SOUL\nWAITS",
+      "pt": "A NOSSA\nALMA ESPERA"
+    },
+    "thumb_sub": {
+      "es": "Salmos 33, 65, 67 y 85",
+      "en": "Psalms 33, 65, 67 and 85",
+      "pt": "Salmos 33, 65, 67 e 85"
+    },
+    "abertura": {
+      "es": "Salmos treinta y tres, sesenta y cinco, sesenta y siete y ochenta y cinco, leídos despacio, para escuchar acostado. Cuatro salmos de espera y bendición: el sesenta y siete es la bendición sacerdotal vuelta canción; el ochenta y cinco pregunta qué hablará Dios. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+      "pt": "Salmos trinta e três, sessenta e cinco, sessenta e sete e oitenta e cinco, lidos devagar, para ouvir deitado. Quatro salmos de espera e bênção: o sessenta e sete é a bênção sacerdotal virada canção; o oitenta e cinco pergunta o que Deus falará. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+    },
+    "cierre": {},
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 33",
+        "salmo 65",
+        "biblia hablada para dormir",
+        "salmos de noche",
+        "salmos narrados"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 33",
+        "salmo 65",
+        "biblia narrada para dormir",
+        "salmos da noite",
+        "salmos narrados"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos 33, 65, 67 y 85 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+      "pt": "Salmos 33, 65, 67 e 85 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/ESO_-_Milky_Way.jpg/1920px-ESO_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ S. Brunier",
+        "origem": "https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Milky_way1.jpg/1920px-Milky_way1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/UCLA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way1.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Guisard_-_Milky_Way.jpg/1920px-Guisard_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/S. Guisard ( www.eso.org/~sguisard )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/1920px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Peter Paul Rubens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way,_1636-1637.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Calibrating_under_a_Starry_Sky_%28rubin-DSC03463%29.jpg/1920px-Calibrating_under_a_Starry_Sky_%28rubin-DSC03463%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "RubinObs/NOIRLab/SLAC/DOE/NSF/AURA/H. Stockebrand",
+        "origem": "https://commons.wikimedia.org/wiki/File:Calibrating_under_a_Starry_Sky_(rubin-DSC03463).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VLT_Unit_Telescopes_under_a_starry_sky_%28img_7327%29.jpg/1920px-VLT_Unit_Telescopes_under_a_starry_sky_%28img_7327%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:VLT_Unit_Telescopes_under_a_starry_sky_(img_7327).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Starry_sky_%28IMG_7970-CC%29.tiff/lossy-page1-1920px-Starry_sky_%28IMG_7970-CC%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sangku Kim/ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_sky_(IMG_7970-CC).tiff",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Westport%2C_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg/1920px-Westport%2C_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joe Mabel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Westport,_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 33:20-21",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 33:20-21 — Nuestra alma esperó a Jehová; nuestra ayuda | Biblia",
+        "en": "Psalm 33:20-21 — Our soul waiteth for the Lord: he | Bible",
+        "pt": "Salmo 33:20-21 — Nossa alma espera no SENHOR; ele é | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Un salmo sin autor, con una espera.",
+        "pt": "Um salmo sem autor, com uma espera."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 65:2",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 65:2 — Tú oyes la oración: a ti vendrá | Biblia",
+        "en": "Psalm 65:2 — O thou that hearest prayer, unto thee | Bible",
+        "pt": "Salmo 65:2 — Tu, que ouves as orações; toda carne | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Un título de Dios: el que oye la oración.",
+        "pt": "Um título de Deus: o que ouve a oração."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 67:1",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 67:1 — Dios tenga misericordia de nosotros, y nos | Biblia",
+        "en": "Psalm 67:1 — God be merciful unto us, and bless | Bible",
+        "pt": "Salmo 67:1 — Que Deus tenha misericórdia de nós | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Una bendición de tres partes.",
+        "pt": "Uma bênção de três partes."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Starry_sky_from_Tekapo.jpg/1920px-Starry_sky_from_Tekapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Butterflyyyyyyyy y y y",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_sky_from_Tekapo.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 85:8",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 85:8 — Escucharé lo que hablará el Dios Jehová | Biblia",
+        "en": "Psalm 85:8 — I will hear what God the Lord | Bible",
+        "pt": "Salmo 85:8 — Escutarei o que o Deus, o SENHOR | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que Dios habla a su pueblo, según este salmo.",
+        "pt": "O que Deus fala ao seu povo, segundo este salmo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
