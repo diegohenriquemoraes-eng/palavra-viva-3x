@@ -6030,3 +6030,27 @@
 - Item: short-1 — Meditaciones 9:44
 - Duração: 16.8s
 - Publicado em: 2026-10-05T07:44:13+00:00
+
+## [es] Zb8fwCf-q5Q — Salmos para Dormir — En Tu Mano Están Mis Tiempos | Salmo 86, 25 y 31
+
+- URL: https://youtu.be/Zb8fwCf-q5Q
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 86, Salmo 25, Salmo 31
+- Duração: 4198.4s
+- Publicado em: 2026-10-05T16:58:14+00:00
+
+## [pt] qVyZRIRSH4I — Salmos para Dormir — Nas Tuas Mãos Estão os Meus Tempos | Salmo 86, 25 e 31
+
+- URL: https://youtu.be/qVyZRIRSH4I
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 86, Salmo 25, Salmo 31
+- Duração: 4368.6s
+- Publicado em: 2026-10-05T17:44:23+00:00
+
+## [stoic] YLMsIGs7bZc — ¿Naciste para quedarte en la cama?
+
+- URL: https://youtu.be/YLMsIGs7bZc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 5:1
+- Duração: 15.4s
+- Publicado em: 2026-10-05T17:45:23+00:00

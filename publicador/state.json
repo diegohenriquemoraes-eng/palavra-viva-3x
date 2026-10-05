@@ -2464,6 +2464,14 @@
           "video_id": "vgthZNjyftA",
           "titulo": "Salmo 139:9-10 — Si tomare las alas del alba | Biblia",
           "em": "2026-10-05T01:42:40+00:00"
+        },
+        {
+          "pacote": "2026-10-05-salmos-noche-8",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "Zb8fwCf-q5Q",
+          "titulo": "Salmos para Dormir — En Tu Mano Están Mis Tiempos | Salmo 86, 25 y 31",
+          "em": "2026-10-05T16:58:14+00:00"
         }
       ],
       "ultimo_short": "2026-10-05T01:42:40+00:00",
@@ -2474,9 +2482,9 @@
       "longo_data": "2026-10-05",
       "longos_dia": {
         "data": "2026-10-05",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-05T01:38:40+00:00"
+      "ultimo_longo": "2026-10-05T16:58:14+00:00"
     },
     "en": {
       "publicados": [
@@ -4688,6 +4696,14 @@
           "titulo": "Salmos para Dormir — Tu Me Conheces | Salmo 139, 16 e 18 Narrados",
           "em": "2026-10-05T07:43:14+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-05-salmos-noche-8",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "qVyZRIRSH4I",
+          "titulo": "Salmos para Dormir — Nas Tuas Mãos Estão os Meus Tempos | Salmo 86, 25 e 31",
+          "em": "2026-10-05T17:44:23+00:00"
         }
       ],
       "ultimo_short": "2026-10-05T01:40:01+00:00",
@@ -4698,9 +4714,9 @@
       "longo_data": "2026-10-05",
       "longos_dia": {
         "data": "2026-10-05",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-05T07:43:14+00:00"
+      "ultimo_longo": "2026-10-05T17:44:23+00:00"
     },
     "stoic": {
       "publicados": [
@@ -5867,12 +5883,20 @@
           "video_id": "uKzpjfzKZxg",
           "titulo": "Hazlo aunque nadie lo vea",
           "em": "2026-10-05T07:44:12+00:00"
+        },
+        {
+          "pacote": "2026-10-05-manos-a-la-obra",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "YLMsIGs7bZc",
+          "titulo": "¿Naciste para quedarte en la cama?",
+          "em": "2026-10-05T17:45:23+00:00"
         }
       ],
-      "ultimo_short": "2026-10-05T07:44:12+00:00",
+      "ultimo_short": "2026-10-05T17:45:23+00:00",
       "shorts_dia": {
         "data": "2026-10-05",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
