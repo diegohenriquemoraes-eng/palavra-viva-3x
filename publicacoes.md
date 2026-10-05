@@ -6070,3 +6070,11 @@
 - Item: short-3 — Meditaciones 5:1
 - Duração: 22.3s
 - Publicado em: 2026-10-05T23:12:37+00:00
+
+## [stoic] 1znjeLAlN6w — Deja los libros y vive
+
+- URL: https://youtu.be/1znjeLAlN6w
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Meditaciones 2:4
+- Duração: 16.1s
+- Publicado em: 2026-10-05T23:34:35+00:00
