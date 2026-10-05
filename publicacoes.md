@@ -6062,3 +6062,11 @@
 - Item: short-2 — Salmo 139:14
 - Duração: 21.0s
 - Publicado em: 2026-10-05T17:47:20+00:00
+
+## [stoic] ZvgG4H5fI-E — Hasta la hormiga termina su trabajo
+
+- URL: https://youtu.be/ZvgG4H5fI-E
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 5:1
+- Duração: 22.3s
+- Publicado em: 2026-10-05T23:12:37+00:00

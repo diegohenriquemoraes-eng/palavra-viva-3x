@@ -5899,12 +5899,20 @@
           "video_id": "YLMsIGs7bZc",
           "titulo": "¿Naciste para quedarte en la cama?",
           "em": "2026-10-05T17:45:23+00:00"
+        },
+        {
+          "pacote": "2026-10-05-manos-a-la-obra",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "ZvgG4H5fI-E",
+          "titulo": "Hasta la hormiga termina su trabajo",
+          "em": "2026-10-05T23:12:37+00:00"
         }
       ],
-      "ultimo_short": "2026-10-05T17:45:23+00:00",
+      "ultimo_short": "2026-10-05T23:12:37+00:00",
       "shorts_dia": {
         "data": "2026-10-05",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
