@@ -6142,3 +6142,11 @@
 - Item: short-2 — Enquiridión 56:1
 - Duração: 16.6s
 - Publicado em: 2026-10-06T18:17:19+00:00
+
+## [es] wGs2EImJotk — Salmo 107:29-30 — Hace parar la tempestad en sosiego | Biblia
+
+- URL: https://youtu.be/wGs2EImJotk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 107:29-30
+- Duração: 26.7s
+- Publicado em: 2026-10-06T18:19:29+00:00

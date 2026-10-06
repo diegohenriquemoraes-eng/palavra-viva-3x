@@ -2506,12 +2506,20 @@
           "video_id": "Ze_gs-vojfs",
           "titulo": "Salmos para Dormir — Enséñanos a Contar Nuestros Días | Salmo 90, 92 y 100",
           "em": "2026-10-06T17:42:50+00:00"
+        },
+        {
+          "pacote": "2026-10-06-salmos-noche-10",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "wGs2EImJotk",
+          "titulo": "Salmo 107:29-30 — Hace parar la tempestad en sosiego | Biblia",
+          "em": "2026-10-06T18:19:29+00:00"
         }
       ],
-      "ultimo_short": "2026-10-06T10:37:05+00:00",
+      "ultimo_short": "2026-10-06T18:19:29+00:00",
       "shorts_dia": {
         "data": "2026-10-06",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-06",
       "longos_dia": {
