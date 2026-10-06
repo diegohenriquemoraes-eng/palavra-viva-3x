@@ -6078,3 +6078,19 @@
 - Item: short-4 — Meditaciones 2:4
 - Duração: 16.1s
 - Publicado em: 2026-10-05T23:34:35+00:00
+
+## [es] qMFczpkwSD0 — Salmos para Dormir — Para Siempre Es Su Misericordia | Salmo 107, 116 y 118
+
+- URL: https://youtu.be/qMFczpkwSD0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 107, Salmo 116, Salmo 118
+- Duração: 4432.8s
+- Publicado em: 2026-10-06T05:14:32+00:00
+
+## [pt] A30TwVXkD9s — Psalms para Dormir — Para Sempre É a Sua Misericórdia | Salmo 107, 116 e 118
+
+- URL: https://youtu.be/A30TwVXkD9s
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 107, Salmo 116, Salmo 118
+- Duração: 3845.1s
+- Publicado em: 2026-10-06T05:46:36+00:00
