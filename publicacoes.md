@@ -6150,3 +6150,11 @@
 - Item: short-2 — Salmo 107:29-30
 - Duração: 26.7s
 - Publicado em: 2026-10-06T18:19:29+00:00
+
+## [stoic] uGYfvZA0WQk — El placer dura menos que la culpa
+
+- URL: https://youtu.be/uGYfvZA0WQk
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 56:1
+- Duração: 20.9s
+- Publicado em: 2026-10-06T21:29:12+00:00
