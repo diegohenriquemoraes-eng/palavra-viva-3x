@@ -6094,3 +6094,27 @@
 - Item: longo — Salmo 107, Salmo 116, Salmo 118
 - Duração: 3845.1s
 - Publicado em: 2026-10-06T05:46:36+00:00
+
+## [es] NpW5zVga9a0 — Salmo 107:1 — Alabad a Jehová, porque es bueno; porque | Biblia
+
+- URL: https://youtu.be/NpW5zVga9a0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 107:1
+- Duração: 16.5s
+- Publicado em: 2026-10-06T10:37:05+00:00
+
+## [pt] 9vG8lacsnt0 — Salmo 107:1 — Agradecei ao SENHOR, porque ele é bom | Bíblia
+
+- URL: https://youtu.be/9vG8lacsnt0
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 107:1
+- Duração: 16.1s
+- Publicado em: 2026-10-06T10:38:03+00:00
+
+## [stoic] OqOg6yqwmyI — Vive como en un banquete
+
+- URL: https://youtu.be/OqOg6yqwmyI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 22:1
+- Duração: 14.6s
+- Publicado em: 2026-10-06T10:39:00+00:00

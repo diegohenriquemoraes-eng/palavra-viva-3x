@@ -2488,12 +2488,20 @@
           "video_id": "qMFczpkwSD0",
           "titulo": "Salmos para Dormir — Para Siempre Es Su Misericordia | Salmo 107, 116 y 118",
           "em": "2026-10-06T05:14:32+00:00"
+        },
+        {
+          "pacote": "2026-10-06-salmos-noche-10",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "NpW5zVga9a0",
+          "titulo": "Salmo 107:1 — Alabad a Jehová, porque es bueno; porque | Biblia",
+          "em": "2026-10-06T10:37:05+00:00"
         }
       ],
-      "ultimo_short": "2026-10-05T17:47:20+00:00",
+      "ultimo_short": "2026-10-06T10:37:05+00:00",
       "shorts_dia": {
-        "data": "2026-10-05",
-        "n": 2
+        "data": "2026-10-06",
+        "n": 1
       },
       "longo_data": "2026-10-06",
       "longos_dia": {
@@ -4728,11 +4736,19 @@
           "video_id": "A30TwVXkD9s",
           "titulo": "Psalms para Dormir — Para Sempre É a Sua Misericórdia | Salmo 107, 116 e 118",
           "em": "2026-10-06T05:46:36+00:00"
+        },
+        {
+          "pacote": "2026-10-06-salmos-noche-10",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "9vG8lacsnt0",
+          "titulo": "Salmo 107:1 — Agradecei ao SENHOR, porque ele é bom | Bíblia",
+          "em": "2026-10-06T10:38:03+00:00"
         }
       ],
-      "ultimo_short": "2026-10-05T01:40:01+00:00",
+      "ultimo_short": "2026-10-06T10:38:03+00:00",
       "shorts_dia": {
-        "data": "2026-10-05",
+        "data": "2026-10-06",
         "n": 1
       },
       "longo_data": "2026-10-06",
@@ -5931,12 +5947,20 @@
           "video_id": "1znjeLAlN6w",
           "titulo": "Deja los libros y vive",
           "em": "2026-10-05T23:34:35+00:00"
+        },
+        {
+          "pacote": "2026-10-06-el-banquete",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "OqOg6yqwmyI",
+          "titulo": "Vive como en un banquete",
+          "em": "2026-10-06T10:39:00+00:00"
         }
       ],
-      "ultimo_short": "2026-10-05T23:34:35+00:00",
+      "ultimo_short": "2026-10-06T10:39:00+00:00",
       "shorts_dia": {
-        "data": "2026-10-05",
-        "n": 4
+        "data": "2026-10-06",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
