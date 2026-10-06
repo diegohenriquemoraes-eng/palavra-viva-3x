@@ -1,0 +1,195 @@
+{
+  "slug": "la-burbuja",
+  "formato": "libro",
+  "data": "2026-10-08",
+  "criado_em": "2026-10-06T00:06:03+00:00",
+  "aprovado_em": "2026-10-06T00:06:03+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 7"
+    ],
+    "titulo": {
+      "stoic": "La Burbuja No Pierde Nada al Romperse | Marco Aurelio, Libro VII"
+    },
+    "thumb_titulo": {
+      "stoic": "LA\nBURBUJA"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VII"
+    },
+    "abertura": {
+      "stoic": "El séptimo libro de las Meditaciones mira el tiempo desde muy lejos: los sabios que ya no están, las ciudades que desaparecieron, la vida como algo breve. No es un libro triste. Es el libro completo."
+    },
+    "cierre": {
+      "stoic": "Pensar en lo breve no es para deprimirse, es para dejar de aplazar. Si el tiempo se llevó a Sócrates, se va a llevar también tu excusa de hoy. Lo único que queda en tu mano es qué haces con el día que tienes delante."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones libro 7",
+        "memento mori",
+        "la brevedad de la vida",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro VII de las Meditaciones de Marco Aurelio, completo, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_McDonald%27s_Restaurant_night_April_2025_R12S_01.jpg/1920px-SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_McDonald%27s_Restaurant_night_April_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Hoai Chonag Fornai",
+        "origem": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Shekou_Sea_World_shop_McDonald%27s_Restaurant_night_April_2025_R12S_01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Taytay%2C_Night_by_the_sea%2C_Palawan%2C_Philippines.jpg/1920px-Taytay%2C_Night_by_the_sea%2C_Palawan%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Taytay,_Night_by_the_sea,_Palawan,_Philippines.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Sea_Containers_House_and_OXO_Tower_at_night_2024-11-06.jpg/1920px-Sea_Containers_House_and_OXO_Tower_at_night_2024-11-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Matt Brown",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sea_Containers_House_and_OXO_Tower_at_night_2024-11-06.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_07.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MKaalei SZEO",
+        "origem": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_07.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_03.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "MKaalei SZEO",
+        "origem": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E8%9B%87%E5%8F%A3_Shekou_%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C_Sea_World_%E5%A4%9C%E5%B8%82_night_tourism_July_2024_R12S_03.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg/1920px-A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A%2A_in_polarised_light_%28eso2406a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "EHT Collaboration",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_view_of_the_Milky_Way_supermassive_black_hole_Sagittarius_A*_in_polarised_light_(eso2406a).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/1920px-Milky_Way_IR_Spitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg/1920px-Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way%2C_1636-1637.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Peter Paul Rubens",
+        "origem": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Birth_of_the_Milky_Way,_1636-1637.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Guisard_-_Milky_Way.jpg/1920px-Guisard_-_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/S. Guisard ( www.eso.org/~sguisard )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Guisard_-_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg/1920px-5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Brainandforce",
+        "origem": "https://commons.wikimedia.org/wiki/File:5_panel_mosaic_of_the_northern_summer_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Moon_Clouds_Treetops_Abstract.jpg/1920px-Moon_Clouds_Treetops_Abstract.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "CopyrightFreePhotos CopyrightFreePhotos.HQ101.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_Clouds_Treetops_Abstract.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Moon_and_clouds%2C_2021-11-18%2C_02.jpg/1920px-Moon_and_clouds%2C_2021-11-18%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cbaile19",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds,_2021-11-18,_02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_3.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 8:23/2",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La burbuja no pierde nada al romperse"
+      },
+      "aplicacao": "No es tristeza: es aprender a no temer el final.",
+      "gancho": {
+        "stoic": "Marco Aurelio comparó tu vida con una burbuja."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Black_Sea_at_night_-_panoramio_%281%29.jpg/1920px-The_Black_Sea_at_night_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexey Komarov",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Black_Sea_at_night_-_panoramio_(1).jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:66/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Mañana o en cien años, casi igual"
+      },
+      "aplicacao": "No te prometieron más días. Usa bien el que tienes.",
+      "gancho": {
+        "stoic": "La cuenta del tiempo que hacía el emperador."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Old_French_Clock_Tower_with_Roman_Numerals.jpg/1920px-Old_French_Clock_Tower_with_Roman_Numerals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kojax496",
+        "origem": "https://commons.wikimedia.org/wiki/File:Old_French_Clock_Tower_with_Roman_Numerals.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 7:20/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "El tiempo se tragó hasta a Sócrates"
+      },
+      "aplicacao": "Si el tiempo no perdonó a los grandes, deja de aplazar.",
+      "gancho": {
+        "stoic": "Ni los sabios escaparon de esto."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg/1920px-View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vasily Iakovlev",
+        "origem": "https://commons.wikimedia.org/wiki/File:View_of_the_Milky_Way_from_the_Taganay_National_Park.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:67/2",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Hasta Pompeya murió"
+      },
+      "aplicacao": "Si mueren las ciudades, tu problema de hoy también pasará.",
+      "gancho": {
+        "stoic": "Marco Aurelio nombró ciudades enteras que desaparecieron."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Night_sky_in_Jordan_desert%2C_Oct_2023.jpeg/1920px-Night_sky_in_Jordan_desert%2C_Oct_2023.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "adspedia",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_sky_in_Jordan_desert,_Oct_2023.jpeg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

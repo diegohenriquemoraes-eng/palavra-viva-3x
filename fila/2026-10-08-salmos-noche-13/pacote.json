@@ -1,0 +1,207 @@
+{
+  "slug": "salmos-noche-13",
+  "formato": "dormir",
+  "data": "2026-10-08",
+  "criado_em": "2026-10-06T00:05:20+00:00",
+  "aprovado_em": "2026-10-06T00:05:20+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 42",
+      "Psalms 55",
+      "Psalms 56",
+      "Psalms 57"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — En el Día Que Temo | Salmo 42, 55, 56 y 57 Narrados",
+      "en": "Psalms for Sleep — When I Am Afraid | Psalm 42, 55, 56 and 57",
+      "pt": "Salmos para Dormir — No Dia em Que Temo | Salmo 42, 55, 56 e 57 Narrados"
+    },
+    "thumb_titulo": {
+      "es": "EL DÍA\nQUE TEMO",
+      "en": "WHEN I AM\nAFRAID",
+      "pt": "NO DIA\nEM QUE TEMO"
+    },
+    "thumb_sub": {
+      "es": "Salmos 42, 55, 56 y 57",
+      "en": "Psalms 42, 55, 56 and 57",
+      "pt": "Salmos 42, 55, 56 e 57"
+    },
+    "abertura": {
+      "es": "Salmos cuarenta y dos, cincuenta y cinco, cincuenta y seis y cincuenta y siete, leídos despacio, para escuchar acostado. Cuatro salmos escritos con miedo: el cincuenta y seis, preso por los filisteos; el cincuenta y siete, escondido en una cueva. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+      "pt": "Salmos quarenta e dois, cinquenta e cinco, cinquenta e seis e cinquenta e sete, lidos devagar, para ouvir deitado. Quatro salmos escritos com medo: o cinquenta e seis, preso pelos filisteus; o cinquenta e sete, escondido numa caverna. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+    },
+    "cierre": {},
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 42",
+        "salmo 55",
+        "biblia hablada para dormir",
+        "salmos de noche",
+        "salmos narrados"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 42",
+        "salmo 55",
+        "biblia narrada para dormir",
+        "salmos da noite",
+        "salmos narrados"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos 42, 55, 56 y 57 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+      "pt": "Salmos 42, 55, 56 e 57 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Moon_and_clouds_over_Brofjorden_4.jpg/1920px-Moon_and_clouds_over_Brofjorden_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_4.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Moon_and_clouds_over_Brofjorden_5.jpg/1920px-Moon_and_clouds_over_Brofjorden_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_5.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Moon_and_clouds_over_Brofjorden_1.jpg/1920px-Moon_and_clouds_over_Brofjorden_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Brofjorden_1.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Desert_Night_Resort.JPG/1920px-Desert_Night_Resort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alkamri",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Night_Resort.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Desert_Flag_Night_Flights_%288384159%29.jpg/1920px-Desert_Flag_Night_Flights_%288384159%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384159).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Starry_night_at_the_Atacama_Desert_coast_%28gerd_huedepohl_9%29.tiff/lossy-page1-1920px-Starry_night_at_the_Atacama_Desert_coast_%28gerd_huedepohl_9%29.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "G. Hüdepohl ( atacamaphoto.com )/ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_night_at_the_Atacama_Desert_coast_(gerd_huedepohl_9).tiff",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Desert_Flag_Night_Flights_%288384158%29.jpg/1920px-Desert_Flag_Night_Flights_%288384158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384158).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Desert_Flag_Night_Flights_%288384155%29.jpg/1920px-Desert_Flag_Night_Flights_%288384155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384155).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 42:11",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 42:11 — ¿Por qué te abates, oh alma mía | Biblia",
+        "en": "Psalm 42:11 — Why art thou cast down | Bible",
+        "pt": "Salmo 42:11 — Por que estás abatida, minha alma? | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "David discute con su propia alma.",
+        "pt": "Davi discute com a própria alma."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pink_clouds_and_moon%2C_Ehrenbach.jpg/1920px-Pink_clouds_and_moon%2C_Ehrenbach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Gerda Arendt",
+        "origem": "https://commons.wikimedia.org/wiki/File:Pink_clouds_and_moon,_Ehrenbach.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 55:22",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 55:22 — Echa sobre Jehová tu carga, y él | Biblia",
+        "en": "Psalm 55:22 — Cast thy burden upon the Lord | Bible",
+        "pt": "Salmo 55:22 — Entrega tuas preocupações ao SENHOR, e ele | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Qué hacer con la carga, según David.",
+        "pt": "O que fazer com a carga, segundo Davi."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Night_sky_in_Jordan_desert%2C_Oct_2023.jpeg/1920px-Night_sky_in_Jordan_desert%2C_Oct_2023.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "adspedia",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_sky_in_Jordan_desert,_Oct_2023.jpeg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 56:3",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 56:3 — En el día que temo, yo | Biblia",
+        "en": "Psalm 56:3 — What time I am afraid, I will | Bible",
+        "pt": "Salmo 56:3 — No dia em que eu tiver medo | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "El día en que temo: la respuesta de David.",
+        "pt": "No dia em que temo: a resposta de Davi."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg/1920px-Night_Sky_from_Hawai%E2%80%98i_and_Chile_%28iotw2225c%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NOIRLab/NSF/AURA/ P. Horálek (Institute of Physics in Opava), T. Slovi",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Sky_from_Hawai%E2%80%98i_and_Chile_(iotw2225c).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 57:1",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 57:1 — Ten misericordia de mí, oh Dios, ten | Biblia",
+        "en": "Psalm 57:1 — Be merciful unto me, O God, be | Bible",
+        "pt": "Salmo 57:1 — Tem misericórdia de mim, ó Deus, tem | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "David escribió esto escondido en una cueva.",
+        "pt": "Davi escreveu isto escondido numa caverna."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg/1920px-Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "W.carter",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Koller%C3%B6d_beach_4.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}

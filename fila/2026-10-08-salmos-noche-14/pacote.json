@@ -1,0 +1,225 @@
+{
+  "slug": "salmos-noche-14",
+  "formato": "dormir",
+  "data": "2026-10-08",
+  "criado_em": "2026-10-06T00:05:42+00:00",
+  "aprovado_em": "2026-10-06T00:05:42+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 111",
+      "Psalms 112",
+      "Psalms 113",
+      "Psalms 115"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — Bienaventurado el Hombre | Salmo 111, 112, 113 y 115",
+      "en": "Psalms for Sleep — Blessed Is the Man | Psalm 111, 112, 113 and 115",
+      "pt": "Salmos para Dormir — Bem-aventurado o Homem | Salmo 111, 112, 113 e 115"
+    },
+    "thumb_titulo": {
+      "es": "NO TEMERÁ\nMALAS NOTICIAS",
+      "en": "NO FEAR OF\nBAD NEWS",
+      "pt": "NÃO TEMERÁ\nMÁS NOTÍCIAS"
+    },
+    "thumb_sub": {
+      "es": "Salmos 111, 112, 113 y 115",
+      "en": "Psalms 111, 112, 113 and 115",
+      "pt": "Salmos 111, 112, 113 e 115"
+    },
+    "abertura": {
+      "es": "Salmos ciento once, ciento doce, ciento trece y ciento quince, leídos despacio, para escuchar acostado. Cuatro salmos de aleluya: el ciento doce describe al hombre que no teme malas noticias; el ciento trece levanta al pobre del polvo. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+      "pt": "Salmos cento e onze, cento e doze, cento e treze e cento e quinze, lidos devagar, para ouvir deitado. Quatro salmos de aleluia: o cento e doze descreve o homem que não teme más notícias; o cento e treze levanta o pobre do pó. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+    },
+    "cierre": {},
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 111",
+        "salmo 112",
+        "biblia hablada para dormir",
+        "salmos de noche",
+        "salmos narrados"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 111",
+        "salmo 112",
+        "biblia narrada para dormir",
+        "salmos da noite",
+        "salmos narrados"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos 111, 112, 113 y 115 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+      "pt": "Salmos 111, 112, 113 e 115 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Main_Street_at_night%2C_Salt_Lake_City%2C_Utah_%2869162%29.jpg/1920px-Main_Street_at_night%2C_Salt_Lake_City%2C_Utah_%2869162%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Intermountain Tourist Supply Inc., Salt Lake, Utah",
+        "origem": "https://commons.wikimedia.org/wiki/File:Main_Street_at_night,_Salt_Lake_City,_Utah_(69162).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Utah_State_Capitol_at_night%2C_Salt_Lake_City%2C_Utah_%2867929%29.jpg/1920px-Utah_State_Capitol_at_night%2C_Salt_Lake_City%2C_Utah_%2867929%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "\"Tichnor Quality Views,\" Reg. U. S. Pat. Off. Made Only by Tichnor Bro",
+        "origem": "https://commons.wikimedia.org/wiki/File:Utah_State_Capitol_at_night,_Salt_Lake_City,_Utah_(67929).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Campsite_38_in_Bowron_Lake_Provincial_Park_at_night_%28DSCF3026%29.jpg/1920px-Campsite_38_in_Bowron_Lake_Provincial_Park_at_night_%28DSCF3026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Trougnouf",
+        "origem": "https://commons.wikimedia.org/wiki/File:Campsite_38_in_Bowron_Lake_Provincial_Park_at_night_(DSCF3026).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lake_Tenreuken_at_night_in_December%2C_picture_taken_from_the_North_end.jpg/1920px-Lake_Tenreuken_at_night_in_December%2C_picture_taken_from_the_North_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Trougnouf",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Tenreuken_at_night_in_December,_picture_taken_from_the_North_end.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lake_Zurich_at_night_%2835030982783%29.jpg/1920px-Lake_Zurich_at_night_%2835030982783%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Miguel Mendez",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lake_Zurich_at_night_(35030982783).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Andaman_Islands%2C_Full_moon_night%2C_Forest_by_the_sea_at_night.jpg/1920px-Andaman_Islands%2C_Full_moon_night%2C_Forest_by_the_sea_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Andaman_Islands,_Full_moon_night,_Forest_by_the_sea_at_night.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Crescent_Moon_in_the_Night_Sky.jpg/1920px-Crescent_Moon_in_the_Night_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Shivanianbukumar",
+        "origem": "https://commons.wikimedia.org/wiki/File:Crescent_Moon_in_the_Night_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Moon_small_size_in_night_sky.jpg/1920px-Moon_small_size_in_night_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Nathularog",
+        "origem": "https://commons.wikimedia.org/wiki/File:Moon_small_size_in_night_sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sun_and_moon_2_-_Full_moon_in_the_night_sky.jpg/1920px-Sun_and_moon_2_-_Full_moon_in_the_night_sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Annatsach",
+        "origem": "https://commons.wikimedia.org/wiki/File:Sun_and_moon_2_-_Full_moon_in_the_night_sky.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Night_capture_of_moon.jpg/1920px-Night_capture_of_moon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Anonymous0006",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_capture_of_moon.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Starry_sky_%28IMG_7970-CC%29.jpg/1920px-Starry_sky_%28IMG_7970-CC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sangku Kim/ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_sky_(IMG_7970-CC).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Starry_Sky_off_Westport%2C_WA_04.jpg/1920px-Starry_Sky_off_Westport%2C_WA_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joe Mabel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_Sky_off_Westport,_WA_04.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Starry_Sky_off_Westport%2C_WA_03.jpg/1920px-Starry_Sky_off_Westport%2C_WA_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joe Mabel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_Sky_off_Westport,_WA_03.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Westport%2C_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg/1920px-Westport%2C_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joe Mabel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Westport,_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 111:10",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 111:10 — El principio de la sabiduría | Biblia",
+        "en": "Psalm 111:10 — The fear of the Lord is | Bible",
+        "pt": "Salmo 111:10 — O temor ao SENHOR é o princípio | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Dónde empieza la sabiduría, según el salmo.",
+        "pt": "Onde começa a sabedoria, segundo o salmo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Portage_Lake_Lift_Bridge%28Night%29.JPG/1920px-Portage_Lake_Lift_Bridge%28Night%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Seow Chung Goh a.k.a. Calvin gsc",
+        "origem": "https://commons.wikimedia.org/wiki/File:Portage_Lake_Lift_Bridge(Night).JPG",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 112:7",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 112:7 — De mala fama no tendrá temor | Biblia",
+        "en": "Psalm 112:7 — He shall not be afraid of evil | Bible",
+        "pt": "Salmo 112:7 — Ele não temerá o mau rumor | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que el justo no teme.",
+        "pt": "O que o justo não teme."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/17th_Night_Moon.jpg/1920px-17th_Night_Moon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Sahilrazvii999",
+        "origem": "https://commons.wikimedia.org/wiki/File:17th_Night_Moon.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 113:7-8",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 113:7-8 — El levanta del polvo al pobre | Biblia",
+        "en": "Psalm 113:7-8 — He raiseth up the poor out | Bible",
+        "pt": "Salmo 113:7-8 — Que do levanta o pobre do pó | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Del polvo al trono: un salmo sobre el pobre.",
+        "pt": "Do pó ao trono: um salmo sobre o pobre."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Watching_Starry_Sky_at_Lake_Kasumigaura_at_Tsuchiura%2C_Japan_%2856536614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Chibi Medako",
+        "origem": "https://commons.wikimedia.org/wiki/File:Watching_Starry_Sky_at_Lake_Kasumigaura_at_Tsuchiura,_Japan_(56536614).jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Psalms 115:1",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 115:1 — No a nosotros, oh Jehová | Biblia",
+        "en": "Psalm 115:1 — Not unto us, O Lord, not unto | Bible",
+        "pt": "Salmo 115:1 — Não a nós, SENHOR; não a nós | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Un salmo que empieza diciendo: no a nosotros.",
+        "pt": "Um salmo que começa dizendo: não a nós."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Campsite_38_in_Bowron_Lake_Provincial_Park_at_night_%28DSCF3026%29.jpg/1920px-Campsite_38_in_Bowron_Lake_Provincial_Park_at_night_%28DSCF3026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Trougnouf",
+        "origem": "https://commons.wikimedia.org/wiki/File:Campsite_38_in_Bowron_Lake_Provincial_Park_at_night_(DSCF3026).jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}
