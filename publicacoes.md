@@ -6118,3 +6118,27 @@
 - Item: short-1 — Enquiridión 22:1
 - Duração: 14.6s
 - Publicado em: 2026-10-06T10:39:00+00:00
+
+## [es] Ze_gs-vojfs — Salmos para Dormir — Enséñanos a Contar Nuestros Días | Salmo 90, 92 y 100
+
+- URL: https://youtu.be/Ze_gs-vojfs
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 90, Salmo 92, Salmo 100
+- Duração: 4040.7s
+- Publicado em: 2026-10-06T17:42:50+00:00
+
+## [pt] eZydYwa_XpI — Salmos para Dormir — Ensina-nos a Contar os Nossos Dias | Salmo 90, 92 e 100
+
+- URL: https://youtu.be/eZydYwa_XpI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 90, Salmo 92, Salmo 100
+- Duração: 3872.6s
+- Publicado em: 2026-10-06T18:16:18+00:00
+
+## [stoic] IW9KkonysRk — El gusto de haber dicho que no
+
+- URL: https://youtu.be/IW9KkonysRk
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 56:1
+- Duração: 16.6s
+- Publicado em: 2026-10-06T18:17:19+00:00

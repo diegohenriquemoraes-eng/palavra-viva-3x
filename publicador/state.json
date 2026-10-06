@@ -2498,6 +2498,14 @@
           "video_id": "NpW5zVga9a0",
           "titulo": "Salmo 107:1 — Alabad a Jehová, porque es bueno; porque | Biblia",
           "em": "2026-10-06T10:37:05+00:00"
+        },
+        {
+          "pacote": "2026-10-06-salmos-noche-9",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "Ze_gs-vojfs",
+          "titulo": "Salmos para Dormir — Enséñanos a Contar Nuestros Días | Salmo 90, 92 y 100",
+          "em": "2026-10-06T17:42:50+00:00"
         }
       ],
       "ultimo_short": "2026-10-06T10:37:05+00:00",
@@ -2508,9 +2516,9 @@
       "longo_data": "2026-10-06",
       "longos_dia": {
         "data": "2026-10-06",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-06T05:14:32+00:00"
+      "ultimo_longo": "2026-10-06T17:42:50+00:00"
     },
     "en": {
       "publicados": [
@@ -4748,6 +4756,14 @@
           "video_id": "9vG8lacsnt0",
           "titulo": "Salmo 107:1 — Agradecei ao SENHOR, porque ele é bom | Bíblia",
           "em": "2026-10-06T10:38:03+00:00"
+        },
+        {
+          "pacote": "2026-10-06-salmos-noche-9",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "eZydYwa_XpI",
+          "titulo": "Salmos para Dormir — Ensina-nos a Contar os Nossos Dias | Salmo 90, 92 e 100",
+          "em": "2026-10-06T18:16:18+00:00"
         }
       ],
       "ultimo_short": "2026-10-06T10:38:03+00:00",
@@ -4758,9 +4774,9 @@
       "longo_data": "2026-10-06",
       "longos_dia": {
         "data": "2026-10-06",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-06T05:46:36+00:00"
+      "ultimo_longo": "2026-10-06T18:16:18+00:00"
     },
     "stoic": {
       "publicados": [
@@ -5959,12 +5975,20 @@
           "video_id": "OqOg6yqwmyI",
           "titulo": "Vive como en un banquete",
           "em": "2026-10-06T10:39:00+00:00"
+        },
+        {
+          "pacote": "2026-10-06-el-banquete",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "IW9KkonysRk",
+          "titulo": "El gusto de haber dicho que no",
+          "em": "2026-10-06T18:17:19+00:00"
         }
       ],
-      "ultimo_short": "2026-10-06T10:39:00+00:00",
+      "ultimo_short": "2026-10-06T18:17:19+00:00",
       "shorts_dia": {
         "data": "2026-10-06",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
