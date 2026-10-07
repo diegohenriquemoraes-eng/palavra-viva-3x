@@ -2514,6 +2514,14 @@
           "video_id": "wGs2EImJotk",
           "titulo": "Salmo 107:29-30 — Hace parar la tempestad en sosiego | Biblia",
           "em": "2026-10-06T18:19:29+00:00"
+        },
+        {
+          "pacote": "2026-10-07-salmos-noche-11",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "YmxN-zErodk",
+          "titulo": "Salmos para Dormir — Cánticos de las Subidas | Salmo 121, 124, 125, 126 y 128",
+          "em": "2026-10-07T01:42:32+00:00"
         }
       ],
       "ultimo_short": "2026-10-06T18:19:29+00:00",
@@ -2521,12 +2529,12 @@
         "data": "2026-10-06",
         "n": 2
       },
-      "longo_data": "2026-10-06",
+      "longo_data": "2026-10-07",
       "longos_dia": {
-        "data": "2026-10-06",
-        "n": 2
+        "data": "2026-10-07",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-06T17:42:50+00:00"
+      "ultimo_longo": "2026-10-07T01:42:32+00:00"
     },
     "en": {
       "publicados": [
@@ -4772,11 +4780,19 @@
           "video_id": "eZydYwa_XpI",
           "titulo": "Salmos para Dormir — Ensina-nos a Contar os Nossos Dias | Salmo 90, 92 e 100",
           "em": "2026-10-06T18:16:18+00:00"
+        },
+        {
+          "pacote": "2026-10-07-salmos-noche-11",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "DL-xYzc8RAo",
+          "titulo": "Salmo 121:7-8 — O SENHOR te guardará de todo mal | Bíblia",
+          "em": "2026-10-07T01:43:40+00:00"
         }
       ],
-      "ultimo_short": "2026-10-06T10:38:03+00:00",
+      "ultimo_short": "2026-10-07T01:43:40+00:00",
       "shorts_dia": {
-        "data": "2026-10-06",
+        "data": "2026-10-07",
         "n": 1
       },
       "longo_data": "2026-10-06",

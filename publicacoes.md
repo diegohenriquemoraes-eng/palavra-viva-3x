@@ -6158,3 +6158,19 @@
 - Item: short-3 — Enquiridión 56:1
 - Duração: 20.9s
 - Publicado em: 2026-10-06T21:29:12+00:00
+
+## [es] YmxN-zErodk — Salmos para Dormir — Cánticos de las Subidas | Salmo 121, 124, 125, 126 y 128
+
+- URL: https://youtu.be/YmxN-zErodk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 121, Salmo 124, Salmo 125, Salmo 126, Salmo 128
+- Duração: 3353.7s
+- Publicado em: 2026-10-07T01:42:32+00:00
+
+## [pt] DL-xYzc8RAo — Salmo 121:7-8 — O SENHOR te guardará de todo mal | Bíblia
+
+- URL: https://youtu.be/DL-xYzc8RAo
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 121:7-8
+- Duração: 23.3s
+- Publicado em: 2026-10-07T01:43:40+00:00
