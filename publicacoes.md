@@ -6182,3 +6182,19 @@
 - Item: short-1 — Salmo 121:7-8
 - Duração: 23.3s
 - Publicado em: 2026-10-07T01:45:32+00:00
+
+## [pt] SEjakL5AJzY — Salmos para Dormir — Cânticos das Subidas | Salmo 121, 124, 125, 126 e 128
+
+- URL: https://youtu.be/SEjakL5AJzY
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 121, Salmo 124, Salmo 125, Salmo 126, Salmo 128
+- Duração: 3398.8s
+- Publicado em: 2026-10-07T08:27:05+00:00
+
+## [stoic] DheQ0DW8d4o — No digas que eres filósofo
+
+- URL: https://youtu.be/DheQ0DW8d4o
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 68:1
+- Duração: 21.3s
+- Publicado em: 2026-10-07T08:28:12+00:00
