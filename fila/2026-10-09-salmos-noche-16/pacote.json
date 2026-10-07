@@ -1,0 +1,226 @@
+{
+  "slug": "salmos-noche-16",
+  "formato": "dormir",
+  "data": "2026-10-09",
+  "criado_em": "2026-10-07T06:03:57+00:00",
+  "aprovado_em": "2026-10-07T06:03:57+00:00",
+  "longo": {
+    "refs": [
+      "Psalms 147",
+      "Psalms 148",
+      "Psalms 149",
+      "Psalms 150",
+      "Psalms 136"
+    ],
+    "titulo": {
+      "es": "Salmos para Dormir — Alabad a Jehová | Salmo 147, 148, 149, 150 y 136",
+      "en": "Psalms for Sleep — Praise the Lord | Psalm 147, 148, 149, 150 and 136",
+      "pt": "Salmos para Dormir — Louvai ao Senhor | Salmo 147, 148, 149, 150 e 136"
+    },
+    "thumb_titulo": {
+      "es": "ALABAD A\nJEHOVÁ",
+      "en": "PRAISE\nTHE LORD",
+      "pt": "LOUVAI AO\nSENHOR"
+    },
+    "thumb_sub": {
+      "es": "Salmos 147, 148, 149, 150 y 136",
+      "en": "Psalms 147, 148, 149, 150 and 136",
+      "pt": "Salmos 147, 148, 149, 150 e 136"
+    },
+    "abertura": {
+      "es": "Salmos ciento cuarenta y siete, ciento cuarenta y ocho, ciento cuarenta y nueve, ciento cincuenta y ciento treinta y seis, leídos despacio, para escuchar acostado. Los cuatro últimos salmos del libro, que empiezan y terminan con aleluya, y el ciento treinta y seis, que repite la misma frase veintiséis veces. Sin música alta y sin cortes: solamente el texto de la Reina-Valera de mil ochocientos noventa y nueve, de principio a fin.",
+      "pt": "Salmos cento e quarenta e sete, cento e quarenta e oito, cento e quarenta e nove, cento e cinquenta e cento e trinta e seis, lidos devagar, para ouvir deitado. Os quatro últimos salmos do livro, que começam e terminam com aleluia, e o cento e trinta e seis, que repete a mesma frase vinte e seis vezes. Sem música alta e sem cortes: somente o texto da Bíblia Livre, do começo ao fim."
+    },
+    "cierre": {},
+    "tags_extra": {
+      "es": [
+        "salmos para dormir",
+        "salmo 147",
+        "salmo 148",
+        "biblia hablada para dormir",
+        "salmos de noche",
+        "salmos narrados"
+      ],
+      "pt": [
+        "salmos para dormir",
+        "salmo 147",
+        "salmo 148",
+        "biblia narrada para dormir",
+        "salmos da noite",
+        "salmos narrados"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Salmos 147, 148, 149, 150 y 136 seguidos para dormir. Lectura pausada, sin música alta, Reina-Valera 1909.",
+      "pt": "Salmos 147, 148, 149, 150 e 136 seguidos para dormir. Leitura pausada, sem música alta, Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Milky_Way_IR_Spitzer.jpg/1920px-Milky_Way_IR_Spitzer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Credit: NASA/JPL-Caltech/S. Stolovy (Spitzer Science Center/Caltech)",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_IR_Spitzer.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Milky_way1.jpg/1920px-Milky_way1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/JPL-Caltech/UCLA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way1.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg/1920px-Milky_Way_over_the_valley_of_Marukha_River%2C_Arkhyz%2C_Russi%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Alexander Kurilov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_over_the_valley_of_Marukha_River,_Arkhyz,_Russi%D0%B0.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Laser_Towards_Milky_Ways_Centre.jpg/1920px-Laser_Towards_Milky_Ways_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/ Yuri Beletsky ( ybialets at eso.org )",
+        "origem": "https://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Milky-Way-Simply-Caramel-Split.jpg/1920px-Milky-Way-Simply-Caramel-Split.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Evan-Amos",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky-Way-Simply-Caramel-Split.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Starry_Sky_above_Tre_Cime_di_Lavaredo.jpg/1920px-Starry_Sky_above_Tre_Cime_di_Lavaredo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "_大面",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_Sky_above_Tre_Cime_di_Lavaredo.jpg",
+        "licenca": "CC BY 2.5"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Starry_Sky_off_Westport%2C_WA_04.jpg/1920px-Starry_Sky_off_Westport%2C_WA_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joe Mabel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_Sky_off_Westport,_WA_04.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/VLT_Unit_Telescopes_under_a_starry_sky_%28img_7327%29.jpg/1920px-VLT_Unit_Telescopes_under_a_starry_sky_%28img_7327%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO",
+        "origem": "https://commons.wikimedia.org/wiki/File:VLT_Unit_Telescopes_under_a_starry_sky_(img_7327).jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Westport%2C_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg/1920px-Westport%2C_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Joe Mabel",
+        "origem": "https://commons.wikimedia.org/wiki/File:Westport,_WA_-_viewing_tower_and_Starry_Sky_from_trail.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Psalms 147:3",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 147:3 — El sana a los quebrantados de corazón | Biblia",
+        "en": "Psalm 147:3 — He healeth the broken in heart | Bible",
+        "pt": "Salmo 147:3 — Ele sara aos de coração partido | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que Dios hace con los quebrantados.",
+        "pt": "O que Deus faz com os quebrantados."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Milky_way_in_Elbrus.jpg/1920px-Milky_way_in_Elbrus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "oliwok",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    },
+    {
+      "ref": "Psalms 147:4-5",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 147:4-5 — El cuenta el número de las estrellas | Biblia",
+        "en": "Psalm 147:4-5 — He telleth the number of the stars | Bible",
+        "pt": "Salmo 147:4-5 — Ele conta o número das estrelas; chama | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Dios cuenta las estrellas, según el salmo.",
+        "pt": "Deus conta as estrelas, segundo o salmo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Psalms 148:3",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 148:3 — Alabadle, sol y luna: alabadle, vosotras todas | Biblia",
+        "en": "Psalm 148:3 — Praise ye him, sun and moon: praise | Bible",
+        "pt": "Salmo 148:3 — Louvai-o, sol e lua; louvai-o, todas | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Un salmo en que hasta las estrellas alaban.",
+        "pt": "Um salmo em que até as estrelas louvam."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Starry_sky_from_Tekapo.jpg/1920px-Starry_sky_from_Tekapo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Butterflyyyyyyyy y y y",
+        "origem": "https://commons.wikimedia.org/wiki/File:Starry_sky_from_Tekapo.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Psalms 150:6",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Salmo 150:6 — Todo lo que respira alabe a Jah | Biblia",
+        "en": "Psalm 150:6 — Let every thing that hath breath praise | Bible",
+        "pt": "Salmo 150:6 — Tudo quanto tem fôlego, louve ao SENHOR! | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "El último versículo del libro de los Salmos.",
+        "pt": "O último versículo do livro dos Salmos."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/ALMA_and_the_centre_of_the_Milky_Way.jpg/1920px-ALMA_and_the_centre_of_the_Milky_Way.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ESO/B. Tafreshi (twanight.org)",
+        "origem": "https://commons.wikimedia.org/wiki/File:ALMA_and_the_centre_of_the_Milky_Way.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "slug": "deja-de-culpar",
+  "formato": "libro",
+  "data": "2026-10-09",
+  "criado_em": "2026-10-07T06:04:18+00:00",
+  "aprovado_em": "2026-10-07T06:04:18+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 6"
+    ],
+    "titulo": {
+      "stoic": "Deja de Culpar a los Demás | Marco Aurelio, Libro VI"
+    },
+    "thumb_titulo": {
+      "stoic": "DEJA DE\nCULPAR"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones VI"
+    },
+    "abertura": {
+      "stoic": "El sexto libro de las Meditaciones es el de la responsabilidad: un emperador que podía culpar a cualquiera y se exigía no hacerlo. Lo escuchas entero, en la traducción de Díaz de Miranda."
+    },
+    "cierre": {
+      "stoic": "Culpar a otro alivia un minuto y te deja sin poder el resto del día, porque si la causa está fuera, la solución también. Marco Aurelio y Epicteto proponían el camino inverso: buscar primero en el propio juicio, que es lo único que puedes cambiar hoy."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones libro 6",
+        "responsabilidad",
+        "dejar de quejarse",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro VI de las Meditaciones de Marco Aurelio, completo, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Storm_clouds_formation4.jpg/1920px-Storm_clouds_formation4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation4.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Fireplace_%2871379943%29.jpeg/1920px-Fireplace_%2871379943%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Mohandoss Sampath",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace_(71379943).jpeg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Fireplace-RM.jpg/1920px-Fireplace-RM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ryan Mahle from Sherman Oaks, CA, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace-RM.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Fireplace_coalfire.jpg/1920px-Fireplace_coalfire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kmtextor",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace_coalfire.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Fire_in_a_brick_fireplace_2.jpg/1920px-Fire_in_a_brick_fireplace_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kurt Kaiser",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_in_a_brick_fireplace_2.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fire%2C_Fireplace%2C_Rostov-on-Don%2C_Russia.jpg/1920px-Fire%2C_Fireplace%2C_Rostov-on-Don%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire,_Fireplace,_Rostov-on-Don,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dusk_Sky_%289825349336%29.jpg/1920px-Dusk_Sky_%289825349336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky_(9825349336).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 11:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Culpar a otros es de ignorantes"
+      },
+      "aplicacao": "Mientras el culpable sea otro, tú no puedes cambiar nada.",
+      "gancho": {
+        "stoic": "Epicteto no tenía paciencia con esto."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Storm_clouds_formation1.jpg/1920px-Storm_clouds_formation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Enquiridión 11:1/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Los tres pasos de la sabiduría"
+      },
+      "aplicacao": "Primero culpas a otros, luego a ti; al final, solo actúas.",
+      "gancho": {
+        "stoic": "Epicteto midió la sabiduría en tres pasos."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lamp_handle_with_figures_of_Isis_and_Demeter%2C_kaolinitic_clay_-_Museo_Egizio_%28Turin%29_P_191_p01.jpg/1920px-Lamp_handle_with_figures_of_Isis_and_Demeter%2C_kaolinitic_clay_-_Museo_Egizio_%28Turin%29_P_191_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_handle_with_figures_of_Isis_and_Demeter,_kaolinitic_clay_-_Museo_Egizio_(Turin)_P_191_p01.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 10:1/4",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "La culpa es de tu opinión"
+      },
+      "aplicacao": "Cambia el juicio y cambia el día.",
+      "gancho": {
+        "stoic": "Dónde buscar la causa cuando todo te molesta."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rain_-_window_%2850542058767%29.jpg/1920px-Rain_-_window_%2850542058767%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Amanda Coutinho from São Paulo, Brasil",
+        "origem": "https://commons.wikimedia.org/wiki/File:Rain_-_window_(50542058767).jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 8:52/3",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "En vez de lamentarlo, hazlo"
+      },
+      "aplicacao": "La queja gasta la misma energía que la acción.",
+      "gancho": {
+        "stoic": "La pregunta de Marco Aurelio a los que se quejan."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg/1920px-Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Infrogmation of New Orleans",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
