@@ -6222,3 +6222,11 @@
 - Item: short-2 — Enquiridión 68:2
 - Duração: 18.1s
 - Publicado em: 2026-10-07T15:29:32+00:00
+
+## [pt] 6R82k73EDWQ — Salmos para Dormir — A Nossa Alma Espera no Senhor | Salmo 33, 65, 67 e 85
+
+- URL: https://youtu.be/6R82k73EDWQ
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 33, Salmo 65, Salmo 67, Salmo 85
+- Duração: 4005.3s
+- Publicado em: 2026-10-07T17:09:17+00:00
