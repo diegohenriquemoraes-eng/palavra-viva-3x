@@ -2530,12 +2530,20 @@
           "video_id": "OnPoyeZTtdo",
           "titulo": "Salmo 121:7-8 — Jehová te guardará de todo mal: él | Biblia",
           "em": "2026-10-07T01:45:32+00:00"
+        },
+        {
+          "pacote": "2026-10-07-salmos-noche-11",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "nRY2F2cNfrk",
+          "titulo": "Salmo 124:8 — Nuestro socorro es en el nombre | Biblia",
+          "em": "2026-10-07T09:00:05+00:00"
         }
       ],
-      "ultimo_short": "2026-10-07T01:45:32+00:00",
+      "ultimo_short": "2026-10-07T09:00:05+00:00",
       "shorts_dia": {
         "data": "2026-10-07",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-07",
       "longos_dia": {

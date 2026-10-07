@@ -6198,3 +6198,11 @@
 - Item: short-1 — Enquiridión 68:1
 - Duração: 21.3s
 - Publicado em: 2026-10-07T08:28:12+00:00
+
+## [es] nRY2F2cNfrk — Salmo 124:8 — Nuestro socorro es en el nombre | Biblia
+
+- URL: https://youtu.be/nRY2F2cNfrk
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 124:8
+- Duração: 16.1s
+- Publicado em: 2026-10-07T09:00:05+00:00
