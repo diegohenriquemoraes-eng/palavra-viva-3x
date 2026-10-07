@@ -3503,5 +3503,60 @@
         "longos_publicados": 0
       }
     }
+  },
+  {
+    "data": "2026-10-07",
+    "janela_idade_d": [
+      2,
+      7
+    ],
+    "canais": {
+      "en": {
+        "shorts_na_janela": 0,
+        "views_medianas": null,
+        "eng_mediano": null,
+        "formatos_na_janela": [],
+        "videos_totais": 32,
+        "views_totais": 1014,
+        "inscritos": 0,
+        "longos_publicados": 9
+      },
+      "es": {
+        "shorts_na_janela": 9,
+        "views_medianas": 117,
+        "eng_mediano": 3.36,
+        "formatos_na_janela": [
+          "novo"
+        ],
+        "videos_totais": 317,
+        "views_totais": 110856,
+        "inscritos": 400,
+        "longos_publicados": 125
+      },
+      "pt": {
+        "shorts_na_janela": 5,
+        "views_medianas": 50,
+        "eng_mediano": 3.45,
+        "formatos_na_janela": [
+          "novo"
+        ],
+        "videos_totais": 248,
+        "views_totais": 15934,
+        "inscritos": 131,
+        "longos_publicados": 120
+      },
+      "stoic": {
+        "shorts_na_janela": 16,
+        "views_medianas": 990,
+        "eng_mediano": 3.91,
+        "formatos_na_janela": [
+          "novo"
+        ],
+        "videos_totais": 158,
+        "views_totais": 109853,
+        "inscritos": 242,
+        "longos_publicados": 0
+      }
+    }
   }
 ]
