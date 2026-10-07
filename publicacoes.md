@@ -6174,3 +6174,11 @@
 - Item: short-1 — Salmo 121:7-8
 - Duração: 23.3s
 - Publicado em: 2026-10-07T01:43:40+00:00
+
+## [es] OnPoyeZTtdo — Salmo 121:7-8 — Jehová te guardará de todo mal: él | Biblia
+
+- URL: https://youtu.be/OnPoyeZTtdo
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 121:7-8
+- Duração: 23.3s
+- Publicado em: 2026-10-07T01:45:32+00:00

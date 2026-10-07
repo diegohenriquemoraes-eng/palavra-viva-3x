@@ -2522,12 +2522,20 @@
           "video_id": "YmxN-zErodk",
           "titulo": "Salmos para Dormir — Cánticos de las Subidas | Salmo 121, 124, 125, 126 y 128",
           "em": "2026-10-07T01:42:32+00:00"
+        },
+        {
+          "pacote": "2026-10-07-salmos-noche-11",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "OnPoyeZTtdo",
+          "titulo": "Salmo 121:7-8 — Jehová te guardará de todo mal: él | Biblia",
+          "em": "2026-10-07T01:45:32+00:00"
         }
       ],
-      "ultimo_short": "2026-10-06T18:19:29+00:00",
+      "ultimo_short": "2026-10-07T01:45:32+00:00",
       "shorts_dia": {
-        "data": "2026-10-06",
-        "n": 2
+        "data": "2026-10-07",
+        "n": 1
       },
       "longo_data": "2026-10-07",
       "longos_dia": {
