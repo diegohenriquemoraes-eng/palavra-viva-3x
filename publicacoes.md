@@ -6230,3 +6230,11 @@
 - Item: longo — Salmo 33, Salmo 65, Salmo 67, Salmo 85
 - Duração: 4005.3s
 - Publicado em: 2026-10-07T17:09:17+00:00
+
+## [stoic] S1NETTBR4Q4 — Sabemos que mentir es malo, y mentimos
+
+- URL: https://youtu.be/S1NETTBR4Q4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 75:2
+- Duração: 22.6s
+- Publicado em: 2026-10-07T22:34:06+00:00
