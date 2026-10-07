@@ -6206,3 +6206,19 @@
 - Item: short-2 — Salmo 124:8
 - Duração: 16.1s
 - Publicado em: 2026-10-07T09:00:05+00:00
+
+## [es] ZZzOtQT2AYA — Salmos para Dormir — Nuestra Alma Esperó a Jehová | Salmo 33, 65, 67 y 85
+
+- URL: https://youtu.be/ZZzOtQT2AYA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 33, Salmo 65, Salmo 67, Salmo 85
+- Duração: 3881.2s
+- Publicado em: 2026-10-07T15:28:27+00:00
+
+## [stoic] O1RvLYkasw4 — La oveja no devuelve la hierba
+
+- URL: https://youtu.be/O1RvLYkasw4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 68:2
+- Duração: 18.1s
+- Publicado em: 2026-10-07T15:29:32+00:00
