@@ -6107,12 +6107,20 @@
           "video_id": "S1NETTBR4Q4",
           "titulo": "Sabemos que mentir es malo, y mentimos",
           "em": "2026-10-07T22:34:06+00:00"
+        },
+        {
+          "pacote": "2026-10-08-la-burbuja",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "y0iBnFyO-NE",
+          "titulo": "La burbuja no pierde nada al romperse",
+          "em": "2026-10-08T06:53:32+00:00"
         }
       ],
-      "ultimo_short": "2026-10-07T22:34:06+00:00",
+      "ultimo_short": "2026-10-08T06:53:32+00:00",
       "shorts_dia": {
-        "data": "2026-10-07",
-        "n": 3
+        "data": "2026-10-08",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

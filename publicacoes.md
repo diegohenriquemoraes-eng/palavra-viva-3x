@@ -6262,3 +6262,11 @@
 - Item: longo — Salmo 42, Salmo 55, Salmo 56, Salmo 57
 - Duração: 4252.5s
 - Publicado em: 2026-10-08T02:45:16+00:00
+
+## [stoic] y0iBnFyO-NE — La burbuja no pierde nada al romperse
+
+- URL: https://youtu.be/y0iBnFyO-NE
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 8:23
+- Duração: 17.7s
+- Publicado em: 2026-10-08T06:53:32+00:00
