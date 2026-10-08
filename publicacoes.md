@@ -6310,3 +6310,11 @@
 - Item: short-2 — Meditaciones 4:66
 - Duração: 19.0s
 - Publicado em: 2026-10-08T15:34:53+00:00
+
+## [stoic] 7LxqTBkmhnY — El tiempo se tragó hasta a Sócrates
+
+- URL: https://youtu.be/7LxqTBkmhnY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 7:20
+- Duração: 16.9s
+- Publicado em: 2026-10-08T22:41:10+00:00

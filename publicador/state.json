@@ -6161,12 +6161,20 @@
           "video_id": "n9N4fchQfYA",
           "titulo": "Mañana o en cien años, casi igual",
           "em": "2026-10-08T15:34:53+00:00"
+        },
+        {
+          "pacote": "2026-10-08-la-burbuja",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "7LxqTBkmhnY",
+          "titulo": "El tiempo se tragó hasta a Sócrates",
+          "em": "2026-10-08T22:41:10+00:00"
         }
       ],
-      "ultimo_short": "2026-10-08T15:34:53+00:00",
+      "ultimo_short": "2026-10-08T22:41:10+00:00",
       "shorts_dia": {
         "data": "2026-10-08",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
