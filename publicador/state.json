@@ -2548,6 +2548,14 @@
           "video_id": "ZZzOtQT2AYA",
           "titulo": "Salmos para Dormir — Nuestra Alma Esperó a Jehová | Salmo 33, 65, 67 y 85",
           "em": "2026-10-07T15:28:27+00:00"
+        },
+        {
+          "pacote": "2026-10-08-salmos-noche-13",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "XaN6C4Zp0uc",
+          "titulo": "Salmos para Dormir — En el Día Que Temo | Salmo 42, 55, 56 y 57 Narrados",
+          "em": "2026-10-08T01:13:37+00:00"
         }
       ],
       "ultimo_short": "2026-10-07T09:00:05+00:00",
@@ -2555,12 +2563,12 @@
         "data": "2026-10-07",
         "n": 2
       },
-      "longo_data": "2026-10-07",
+      "longo_data": "2026-10-08",
       "longos_dia": {
-        "data": "2026-10-07",
-        "n": 2
+        "data": "2026-10-08",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-07T15:28:27+00:00"
+      "ultimo_longo": "2026-10-08T01:13:37+00:00"
     },
     "en": {
       "publicados": [
