@@ -2572,6 +2572,14 @@
           "video_id": "Oa2LLHpB2sg",
           "titulo": "Salmo 55:22 — Echa sobre Jehová tu carga, y él | Biblia",
           "em": "2026-10-08T09:14:10+00:00"
+        },
+        {
+          "pacote": "2026-10-08-salmos-noche-14",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "MBXwcPbYCyw",
+          "titulo": "Salmos para Dormir — Bienaventurado el Hombre | Salmo 111, 112, 113 y 115",
+          "em": "2026-10-08T14:45:31+00:00"
         }
       ],
       "ultimo_short": "2026-10-08T09:14:10+00:00",
@@ -2582,9 +2590,9 @@
       "longo_data": "2026-10-08",
       "longos_dia": {
         "data": "2026-10-08",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-08T01:13:37+00:00"
+      "ultimo_longo": "2026-10-08T14:45:31+00:00"
     },
     "en": {
       "publicados": [
@@ -4872,6 +4880,14 @@
           "video_id": "XqmHHTjeocA",
           "titulo": "Salmo 42:11 — Por que estás abatida, minha alma? | Bíblia",
           "em": "2026-10-08T09:14:26+00:00"
+        },
+        {
+          "pacote": "2026-10-08-salmos-noche-14",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "d0gnKzmJ_bI",
+          "titulo": "Salmos para Dormir — Bem-aventurado o Homem | Salmo 111, 112, 113 e 115",
+          "em": "2026-10-08T15:32:56+00:00"
         }
       ],
       "ultimo_short": "2026-10-08T09:14:26+00:00",
@@ -4882,9 +4898,9 @@
       "longo_data": "2026-10-08",
       "longos_dia": {
         "data": "2026-10-08",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-08T02:45:16+00:00"
+      "ultimo_longo": "2026-10-08T15:32:56+00:00"
     },
     "stoic": {
       "publicados": [
@@ -6131,12 +6147,20 @@
           "video_id": "y0iBnFyO-NE",
           "titulo": "La burbuja no pierde nada al romperse",
           "em": "2026-10-08T06:53:32+00:00"
+        },
+        {
+          "pacote": "2026-10-08-la-burbuja",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "n9N4fchQfYA",
+          "titulo": "Mañana o en cien años, casi igual",
+          "em": "2026-10-08T15:34:53+00:00"
         }
       ],
-      "ultimo_short": "2026-10-08T06:53:32+00:00",
+      "ultimo_short": "2026-10-08T15:34:53+00:00",
       "shorts_dia": {
         "data": "2026-10-08",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

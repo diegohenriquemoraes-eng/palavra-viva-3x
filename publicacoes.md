@@ -6286,3 +6286,27 @@
 - Item: short-1 — Salmo 42:11
 - Duração: 14.4s
 - Publicado em: 2026-10-08T09:14:26+00:00
+
+## [es] MBXwcPbYCyw — Salmos para Dormir — Bienaventurado el Hombre | Salmo 111, 112, 113 y 115
+
+- URL: https://youtu.be/MBXwcPbYCyw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 111, Salmo 112, Salmo 113, Salmo 115
+- Duração: 4000.5s
+- Publicado em: 2026-10-08T14:45:31+00:00
+
+## [pt] d0gnKzmJ_bI — Salmos para Dormir — Bem-aventurado o Homem | Salmo 111, 112, 113 e 115
+
+- URL: https://youtu.be/d0gnKzmJ_bI
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 111, Salmo 112, Salmo 113, Salmo 115
+- Duração: 4112.2s
+- Publicado em: 2026-10-08T15:32:56+00:00
+
+## [stoic] n9N4fchQfYA — Mañana o en cien años, casi igual
+
+- URL: https://youtu.be/n9N4fchQfYA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 4:66
+- Duração: 19.0s
+- Publicado em: 2026-10-08T15:34:53+00:00
