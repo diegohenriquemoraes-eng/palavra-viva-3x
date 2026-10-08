@@ -6270,3 +6270,19 @@
 - Item: short-1 — Meditaciones 8:23
 - Duração: 17.7s
 - Publicado em: 2026-10-08T06:53:32+00:00
+
+## [es] Oa2LLHpB2sg — Salmo 55:22 — Echa sobre Jehová tu carga, y él | Biblia
+
+- URL: https://youtu.be/Oa2LLHpB2sg
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 55:22
+- Duração: 18.2s
+- Publicado em: 2026-10-08T09:14:10+00:00
+
+## [pt] XqmHHTjeocA — Salmo 42:11 — Por que estás abatida, minha alma? | Bíblia
+
+- URL: https://youtu.be/XqmHHTjeocA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 42:11
+- Duração: 14.4s
+- Publicado em: 2026-10-08T09:14:26+00:00

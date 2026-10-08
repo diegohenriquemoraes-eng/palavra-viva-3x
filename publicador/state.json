@@ -2564,12 +2564,20 @@
           "video_id": "l_LFlfdlMig",
           "titulo": "Salmo 42:11 — ¿Por qué te abates, oh alma mía | Biblia",
           "em": "2026-10-08T02:09:13+00:00"
+        },
+        {
+          "pacote": "2026-10-08-salmos-noche-13",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "Oa2LLHpB2sg",
+          "titulo": "Salmo 55:22 — Echa sobre Jehová tu carga, y él | Biblia",
+          "em": "2026-10-08T09:14:10+00:00"
         }
       ],
-      "ultimo_short": "2026-10-08T02:09:13+00:00",
+      "ultimo_short": "2026-10-08T09:14:10+00:00",
       "shorts_dia": {
         "data": "2026-10-08",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-08",
       "longos_dia": {
@@ -4856,11 +4864,19 @@
           "video_id": "UB79Ue1FnzE",
           "titulo": "Salmos para Dormir — No Dia em Que Temo | Salmo 42, 55, 56 e 57 Narrados",
           "em": "2026-10-08T02:45:16+00:00"
+        },
+        {
+          "pacote": "2026-10-08-salmos-noche-13",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "XqmHHTjeocA",
+          "titulo": "Salmo 42:11 — Por que estás abatida, minha alma? | Bíblia",
+          "em": "2026-10-08T09:14:26+00:00"
         }
       ],
-      "ultimo_short": "2026-10-07T01:43:40+00:00",
+      "ultimo_short": "2026-10-08T09:14:26+00:00",
       "shorts_dia": {
-        "data": "2026-10-07",
+        "data": "2026-10-08",
         "n": 1
       },
       "longo_data": "2026-10-08",
