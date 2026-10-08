@@ -6246,3 +6246,19 @@
 - Item: longo — Salmo 42, Salmo 55, Salmo 56, Salmo 57
 - Duração: 3934.9s
 - Publicado em: 2026-10-08T01:13:37+00:00
+
+## [es] l_LFlfdlMig — Salmo 42:11 — ¿Por qué te abates, oh alma mía | Biblia
+
+- URL: https://youtu.be/l_LFlfdlMig
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 42:11
+- Duração: 16.2s
+- Publicado em: 2026-10-08T02:09:13+00:00
+
+## [pt] UB79Ue1FnzE — Salmos para Dormir — No Dia em Que Temo | Salmo 42, 55, 56 e 57 Narrados
+
+- URL: https://youtu.be/UB79Ue1FnzE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 42, Salmo 55, Salmo 56, Salmo 57
+- Duração: 4252.5s
+- Publicado em: 2026-10-08T02:45:16+00:00

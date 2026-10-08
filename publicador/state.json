@@ -2556,12 +2556,20 @@
           "video_id": "XaN6C4Zp0uc",
           "titulo": "Salmos para Dormir — En el Día Que Temo | Salmo 42, 55, 56 y 57 Narrados",
           "em": "2026-10-08T01:13:37+00:00"
+        },
+        {
+          "pacote": "2026-10-08-salmos-noche-13",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "l_LFlfdlMig",
+          "titulo": "Salmo 42:11 — ¿Por qué te abates, oh alma mía | Biblia",
+          "em": "2026-10-08T02:09:13+00:00"
         }
       ],
-      "ultimo_short": "2026-10-07T09:00:05+00:00",
+      "ultimo_short": "2026-10-08T02:09:13+00:00",
       "shorts_dia": {
-        "data": "2026-10-07",
-        "n": 2
+        "data": "2026-10-08",
+        "n": 1
       },
       "longo_data": "2026-10-08",
       "longos_dia": {
@@ -4840,6 +4848,14 @@
           "video_id": "6R82k73EDWQ",
           "titulo": "Salmos para Dormir — A Nossa Alma Espera no Senhor | Salmo 33, 65, 67 e 85",
           "em": "2026-10-07T17:09:17+00:00"
+        },
+        {
+          "pacote": "2026-10-08-salmos-noche-13",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "UB79Ue1FnzE",
+          "titulo": "Salmos para Dormir — No Dia em Que Temo | Salmo 42, 55, 56 e 57 Narrados",
+          "em": "2026-10-08T02:45:16+00:00"
         }
       ],
       "ultimo_short": "2026-10-07T01:43:40+00:00",
@@ -4847,12 +4863,12 @@
         "data": "2026-10-07",
         "n": 1
       },
-      "longo_data": "2026-10-07",
+      "longo_data": "2026-10-08",
       "longos_dia": {
-        "data": "2026-10-07",
-        "n": 2
+        "data": "2026-10-08",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-07T17:09:17+00:00"
+      "ultimo_longo": "2026-10-08T02:45:16+00:00"
     },
     "stoic": {
       "publicados": [
