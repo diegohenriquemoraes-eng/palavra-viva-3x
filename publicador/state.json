@@ -6201,12 +6201,20 @@
           "video_id": "7LxqTBkmhnY",
           "titulo": "El tiempo se tragó hasta a Sócrates",
           "em": "2026-10-08T22:41:10+00:00"
+        },
+        {
+          "pacote": "2026-10-09-deja-de-culpar",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "oOVNgYDg7EQ",
+          "titulo": "Culpar a otros es de ignorantes",
+          "em": "2026-10-09T06:59:38+00:00"
         }
       ],
-      "ultimo_short": "2026-10-08T22:41:10+00:00",
+      "ultimo_short": "2026-10-09T06:59:38+00:00",
       "shorts_dia": {
-        "data": "2026-10-08",
-        "n": 3
+        "data": "2026-10-09",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {

@@ -6350,3 +6350,11 @@
 - Item: longo — Salmo 138, Salmo 141, Salmo 142, Salmo 144
 - Duração: 3745.2s
 - Publicado em: 2026-10-09T02:59:04+00:00
+
+## [stoic] oOVNgYDg7EQ — Culpar a otros es de ignorantes
+
+- URL: https://youtu.be/oOVNgYDg7EQ
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 11:1
+- Duração: 15.4s
+- Publicado em: 2026-10-09T06:59:38+00:00
