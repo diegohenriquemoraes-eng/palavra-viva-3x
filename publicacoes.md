@@ -6334,3 +6334,19 @@
 - Item: short-1 — Salmo 138:3
 - Duração: 17.2s
 - Publicado em: 2026-10-09T01:30:50+00:00
+
+## [es] iG7fTKPt3AE — Salmo 138:3 — En el día que clamé, me respondiste | Biblia
+
+- URL: https://youtu.be/iG7fTKPt3AE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Salmo 138:3
+- Duração: 17.6s
+- Publicado em: 2026-10-09T02:22:00+00:00
+
+## [pt] HbIWcQQUs9s — Salmos para Dormir — O Senhor Cumprirá o Seu Propósito | Salmo 138, 141, 142 e 144
+
+- URL: https://youtu.be/HbIWcQQUs9s
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 138, Salmo 141, Salmo 142, Salmo 144
+- Duração: 3745.2s
+- Publicado em: 2026-10-09T02:59:04+00:00
