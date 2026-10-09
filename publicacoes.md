@@ -6366,3 +6366,27 @@
 - Item: short-2 — Salmo 138:8
 - Duração: 21.1s
 - Publicado em: 2026-10-09T09:23:55+00:00
+
+## [es] esZ5BW73Ns0 — Salmos para Dormir — Alabad a Jehová | Salmo 147, 148, 149, 150 y 136
+
+- URL: https://youtu.be/esZ5BW73Ns0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 147, Salmo 148, Salmo 149, Salmo 150, Salmo 136
+- Duração: 4380.4s
+- Publicado em: 2026-10-09T14:48:48+00:00
+
+## [pt] IQR9LhA55sA — Salmos para Dormir — Louvai ao Senhor | Salmo 147, 148, 149, 150 e 136
+
+- URL: https://youtu.be/IQR9LhA55sA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Salmo 147, Salmo 148, Salmo 149, Salmo 150, Salmo 136
+- Duração: 4522.4s
+- Publicado em: 2026-10-09T15:52:38+00:00
+
+## [stoic] C0vO5cionxY — Los tres pasos de la sabiduría
+
+- URL: https://youtu.be/C0vO5cionxY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 11:1
+- Duração: 23.5s
+- Publicado em: 2026-10-09T15:53:55+00:00
