@@ -2599,12 +2599,20 @@
           "video_id": "iG7fTKPt3AE",
           "titulo": "Salmo 138:3 — En el día que clamé, me respondiste | Biblia",
           "em": "2026-10-09T02:22:00+00:00"
+        },
+        {
+          "pacote": "2026-10-09-salmos-noche-15",
+          "item": "short-2",
+          "formato": "dormir",
+          "video_id": "bnx1i2pnmps",
+          "titulo": "Salmo 138:8 — Jehová cumplirá por mí: tu misericordia, oh | Biblia",
+          "em": "2026-10-09T09:23:55+00:00"
         }
       ],
-      "ultimo_short": "2026-10-09T02:22:00+00:00",
+      "ultimo_short": "2026-10-09T09:23:55+00:00",
       "shorts_dia": {
         "data": "2026-10-09",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-09",
       "longos_dia": {

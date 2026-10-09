@@ -6358,3 +6358,11 @@
 - Item: short-1 — Enquiridión 11:1
 - Duração: 15.4s
 - Publicado em: 2026-10-09T06:59:38+00:00
+
+## [es] bnx1i2pnmps — Salmo 138:8 — Jehová cumplirá por mí: tu misericordia, oh | Biblia
+
+- URL: https://youtu.be/bnx1i2pnmps
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Salmo 138:8
+- Duração: 21.1s
+- Publicado em: 2026-10-09T09:23:55+00:00
