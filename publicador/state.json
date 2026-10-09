@@ -2583,6 +2583,14 @@
           "titulo": "Salmos para Dormir — Bienaventurado el Hombre | Salmo 111, 112, 113 y 115",
           "em": "2026-10-08T14:45:31+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-09-salmos-noche-15",
+          "item": "longo",
+          "formato": "dormir",
+          "video_id": "OTy84rBjJLA",
+          "titulo": "Salmos para Dormir — Jehová Cumplirá Su Propósito en Mí | Salmo 138, 141, 142 y 144",
+          "em": "2026-10-09T01:29:48+00:00"
         }
       ],
       "ultimo_short": "2026-10-08T09:14:10+00:00",
@@ -2590,12 +2598,12 @@
         "data": "2026-10-08",
         "n": 2
       },
-      "longo_data": "2026-10-08",
+      "longo_data": "2026-10-09",
       "longos_dia": {
-        "data": "2026-10-08",
-        "n": 2
+        "data": "2026-10-09",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-08T14:45:31+00:00"
+      "ultimo_longo": "2026-10-09T01:29:48+00:00"
     },
     "en": {
       "publicados": [
@@ -4894,11 +4902,19 @@
           "titulo": "Salmos para Dormir — Bem-aventurado o Homem | Salmo 111, 112, 113 e 115",
           "em": "2026-10-08T15:32:56+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-09-salmos-noche-15",
+          "item": "short-1",
+          "formato": "dormir",
+          "video_id": "BPrs5B5bvcE",
+          "titulo": "Salmo 138:3 — No dia em que clamei, tu me | Bíblia",
+          "em": "2026-10-09T01:30:50+00:00"
         }
       ],
-      "ultimo_short": "2026-10-08T09:14:26+00:00",
+      "ultimo_short": "2026-10-09T01:30:50+00:00",
       "shorts_dia": {
-        "data": "2026-10-08",
+        "data": "2026-10-09",
         "n": 1
       },
       "longo_data": "2026-10-08",

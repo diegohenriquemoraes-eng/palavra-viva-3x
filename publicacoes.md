@@ -6318,3 +6318,19 @@
 - Item: short-3 — Meditaciones 7:20
 - Duração: 16.9s
 - Publicado em: 2026-10-08T22:41:10+00:00
+
+## [es] OTy84rBjJLA — Salmos para Dormir — Jehová Cumplirá Su Propósito en Mí | Salmo 138, 141, 142 y 144
+
+- URL: https://youtu.be/OTy84rBjJLA
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Salmo 138, Salmo 141, Salmo 142, Salmo 144
+- Duração: 4003.9s
+- Publicado em: 2026-10-09T01:29:48+00:00
+
+## [pt] BPrs5B5bvcE — Salmo 138:3 — No dia em que clamei, tu me | Bíblia
+
+- URL: https://youtu.be/BPrs5B5bvcE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Salmo 138:3
+- Duração: 17.2s
+- Publicado em: 2026-10-09T01:30:50+00:00
