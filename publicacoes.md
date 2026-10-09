@@ -6390,3 +6390,11 @@
 - Item: short-2 — Enquiridión 11:1
 - Duração: 23.5s
 - Publicado em: 2026-10-09T15:53:55+00:00
+
+## [stoic] af0DJ3k_Gxw — La culpa es de tu opinión
+
+- URL: https://youtu.be/af0DJ3k_Gxw
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 10:1
+- Duração: 17.3s
+- Publicado em: 2026-10-09T21:05:44+00:00
