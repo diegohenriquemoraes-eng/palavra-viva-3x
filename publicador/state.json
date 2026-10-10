@@ -6293,12 +6293,20 @@
           "video_id": "uNw-yrZjp2E",
           "titulo": "En vez de lamentarlo, hazlo",
           "em": "2026-10-10T00:01:55+00:00"
+        },
+        {
+          "pacote": "2026-10-10-pedir-ayuda-no-es-rendirse",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "9udglUlXWZc",
+          "titulo": "Para cada golpe tienes una defensa",
+          "em": "2026-10-10T07:23:39+00:00"
         }
       ],
-      "ultimo_short": "2026-10-10T00:01:55+00:00",
+      "ultimo_short": "2026-10-10T07:23:39+00:00",
       "shorts_dia": {
         "data": "2026-10-10",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

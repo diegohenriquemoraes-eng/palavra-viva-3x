@@ -6438,3 +6438,11 @@
 - Item: longo — Isaías 40, Isaías 41
 - Duração: 2284.8s
 - Publicado em: 2026-10-10T03:40:48+00:00
+
+## [stoic] 9udglUlXWZc — Para cada golpe tienes una defensa
+
+- URL: https://youtu.be/9udglUlXWZc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 16:1
+- Duração: 17.1s
+- Publicado em: 2026-10-10T07:23:39+00:00
