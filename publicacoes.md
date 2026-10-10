@@ -6406,3 +6406,19 @@
 - Item: short-4 — Meditaciones 8:52
 - Duração: 19.8s
 - Publicado em: 2026-10-10T00:01:55+00:00
+
+## [es] 0KaeHYQxkgQ — Isaías 40 y 41 — No Temas, Porque Yo Estoy Contigo | Biblia Hablada
+
+- URL: https://youtu.be/0KaeHYQxkgQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Isaías 40, Isaías 41
+- Duração: 2198.1s
+- Publicado em: 2026-10-10T01:19:56+00:00
+
+## [pt] Rdm7P9Rn1I8 — Isaías 40:29 — Ele dá força ao cansado, e multiplica | Bíblia
+
+- URL: https://youtu.be/Rdm7P9Rn1I8
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Isaías 40:29
+- Duração: 16.5s
+- Publicado em: 2026-10-10T01:20:54+00:00
