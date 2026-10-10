@@ -2625,12 +2625,20 @@
           "video_id": "0KaeHYQxkgQ",
           "titulo": "Isaías 40 y 41 — No Temas, Porque Yo Estoy Contigo | Biblia Hablada",
           "em": "2026-10-10T01:19:56+00:00"
+        },
+        {
+          "pacote": "2026-10-10-isaias-40-41",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "zdr5bLp4pb0",
+          "titulo": "Isaías 40:29 — El da esfuerzo al cansado, y multiplica | Biblia",
+          "em": "2026-10-10T03:23:45+00:00"
         }
       ],
-      "ultimo_short": "2026-10-09T09:23:55+00:00",
+      "ultimo_short": "2026-10-10T03:23:45+00:00",
       "shorts_dia": {
-        "data": "2026-10-09",
-        "n": 2
+        "data": "2026-10-10",
+        "n": 1
       },
       "longo_data": "2026-10-10",
       "longos_dia": {
@@ -4970,6 +4978,14 @@
           "video_id": "Rdm7P9Rn1I8",
           "titulo": "Isaías 40:29 — Ele dá força ao cansado, e multiplica | Bíblia",
           "em": "2026-10-10T01:20:54+00:00"
+        },
+        {
+          "pacote": "2026-10-10-isaias-40-41",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "XS7ymvyZrlk",
+          "titulo": "Isaías 40 e 41 — Não Temas, Porque Eu Sou Contigo | Bíblia Narrada",
+          "em": "2026-10-10T03:40:48+00:00"
         }
       ],
       "ultimo_short": "2026-10-10T01:20:54+00:00",
@@ -4977,12 +4993,12 @@
         "data": "2026-10-10",
         "n": 1
       },
-      "longo_data": "2026-10-09",
+      "longo_data": "2026-10-10",
       "longos_dia": {
-        "data": "2026-10-09",
-        "n": 2
+        "data": "2026-10-10",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-09T15:52:38+00:00"
+      "ultimo_longo": "2026-10-10T03:40:48+00:00"
     },
     "stoic": {
       "publicados": [

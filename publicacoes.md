@@ -6422,3 +6422,19 @@
 - Item: short-1 — Isaías 40:29
 - Duração: 16.5s
 - Publicado em: 2026-10-10T01:20:54+00:00
+
+## [es] zdr5bLp4pb0 — Isaías 40:29 — El da esfuerzo al cansado, y multiplica | Biblia
+
+- URL: https://youtu.be/zdr5bLp4pb0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Isaías 40:29
+- Duração: 17.5s
+- Publicado em: 2026-10-10T03:23:45+00:00
+
+## [pt] XS7ymvyZrlk — Isaías 40 e 41 — Não Temas, Porque Eu Sou Contigo | Bíblia Narrada
+
+- URL: https://youtu.be/XS7ymvyZrlk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Isaías 40, Isaías 41
+- Duração: 2284.8s
+- Publicado em: 2026-10-10T03:40:48+00:00
