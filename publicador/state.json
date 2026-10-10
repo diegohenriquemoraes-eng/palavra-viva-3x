@@ -6336,12 +6336,20 @@
           "video_id": "Vl8ausEvlrE",
           "titulo": "Que las cosas no te gobiernen",
           "em": "2026-10-10T16:02:18+00:00"
+        },
+        {
+          "pacote": "2026-10-10-pedir-ayuda-no-es-rendirse",
+          "item": "short-4",
+          "formato": "libro",
+          "video_id": "NLX4PHMnyA4",
+          "titulo": "Pedir ayuda no es rendirse",
+          "em": "2026-10-10T23:07:23+00:00"
         }
       ],
-      "ultimo_short": "2026-10-10T16:02:18+00:00",
+      "ultimo_short": "2026-10-10T23:07:23+00:00",
       "shorts_dia": {
         "data": "2026-10-10",
-        "n": 3
+        "n": 4
       },
       "longo_data": "",
       "longos_dia": {

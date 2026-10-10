@@ -6478,3 +6478,11 @@
 - Item: short-3 — Enquiridión 16:1
 - Duração: 21.9s
 - Publicado em: 2026-10-10T16:02:18+00:00
+
+## [stoic] NLX4PHMnyA4 — Pedir ayuda no es rendirse
+
+- URL: https://youtu.be/NLX4PHMnyA4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Meditaciones 7:7
+- Duração: 20.2s
+- Publicado em: 2026-10-10T23:07:23+00:00
