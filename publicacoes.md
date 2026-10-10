@@ -6454,3 +6454,19 @@
 - Item: longo — Proverbios 3, Proverbios 4
 - Duração: 2063.5s
 - Publicado em: 2026-10-10T10:42:22+00:00
+
+## [es] rev7LH1c4Gw — Isaías 40:31 — Mas los que esperan a Jehová tendrán | Biblia
+
+- URL: https://youtu.be/rev7LH1c4Gw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Isaías 40:31
+- Duração: 26.7s
+- Publicado em: 2026-10-10T13:55:26+00:00
+
+## [pt] Djr-zZmaIfg — Provérbios 3 e 4 — Confia no Senhor de Todo o Teu Coração | Bíblia Narrada
+
+- URL: https://youtu.be/Djr-zZmaIfg
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Provérbios 3, Provérbios 4
+- Duração: 2193.1s
+- Publicado em: 2026-10-10T14:15:58+00:00

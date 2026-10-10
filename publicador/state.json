@@ -2643,12 +2643,20 @@
           "titulo": "Proverbios 3 y 4 — Confía en Jehová con Todo Tu Corazón | Biblia Hablada",
           "em": "2026-10-10T10:42:22+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-10-isaias-40-41",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "rev7LH1c4Gw",
+          "titulo": "Isaías 40:31 — Mas los que esperan a Jehová tendrán | Biblia",
+          "em": "2026-10-10T13:55:26+00:00"
         }
       ],
-      "ultimo_short": "2026-10-10T03:23:45+00:00",
+      "ultimo_short": "2026-10-10T13:55:26+00:00",
       "shorts_dia": {
         "data": "2026-10-10",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-10",
       "longos_dia": {
@@ -4997,6 +5005,14 @@
           "titulo": "Isaías 40 e 41 — Não Temas, Porque Eu Sou Contigo | Bíblia Narrada",
           "em": "2026-10-10T03:40:48+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-10-proverbios-3-4",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "Djr-zZmaIfg",
+          "titulo": "Provérbios 3 e 4 — Confia no Senhor de Todo o Teu Coração | Bíblia Narrada",
+          "em": "2026-10-10T14:15:58+00:00"
         }
       ],
       "ultimo_short": "2026-10-10T01:20:54+00:00",
@@ -5007,9 +5023,9 @@
       "longo_data": "2026-10-10",
       "longos_dia": {
         "data": "2026-10-10",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-10T03:40:48+00:00"
+      "ultimo_longo": "2026-10-10T14:15:58+00:00"
     },
     "stoic": {
       "publicados": [
