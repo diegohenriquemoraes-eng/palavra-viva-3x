@@ -6446,3 +6446,11 @@
 - Item: short-2 — Enquiridión 16:1
 - Duração: 17.1s
 - Publicado em: 2026-10-10T07:23:39+00:00
+
+## [es] kgjlU-B2YEQ — Proverbios 3 y 4 — Confía en Jehová con Todo Tu Corazón | Biblia Hablada
+
+- URL: https://youtu.be/kgjlU-B2YEQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Proverbios 3, Proverbios 4
+- Duração: 2063.5s
+- Publicado em: 2026-10-10T10:42:22+00:00

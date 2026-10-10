@@ -2633,6 +2633,14 @@
           "video_id": "zdr5bLp4pb0",
           "titulo": "Isaías 40:29 — El da esfuerzo al cansado, y multiplica | Biblia",
           "em": "2026-10-10T03:23:45+00:00"
+        },
+        {
+          "pacote": "2026-10-10-proverbios-3-4",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "kgjlU-B2YEQ",
+          "titulo": "Proverbios 3 y 4 — Confía en Jehová con Todo Tu Corazón | Biblia Hablada",
+          "em": "2026-10-10T10:42:22+00:00"
         }
       ],
       "ultimo_short": "2026-10-10T03:23:45+00:00",
@@ -2643,9 +2651,9 @@
       "longo_data": "2026-10-10",
       "longos_dia": {
         "data": "2026-10-10",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-10T01:19:56+00:00"
+      "ultimo_longo": "2026-10-10T10:42:22+00:00"
     },
     "en": {
       "publicados": [
