@@ -6398,3 +6398,11 @@
 - Item: short-3 — Enquiridión 10:1
 - Duração: 17.3s
 - Publicado em: 2026-10-09T21:05:44+00:00
+
+## [stoic] uNw-yrZjp2E — En vez de lamentarlo, hazlo
+
+- URL: https://youtu.be/uNw-yrZjp2E
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Meditaciones 8:52
+- Duração: 19.8s
+- Publicado em: 2026-10-10T00:01:55+00:00

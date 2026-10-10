@@ -6253,12 +6253,20 @@
           "video_id": "af0DJ3k_Gxw",
           "titulo": "La culpa es de tu opinión",
           "em": "2026-10-09T21:05:44+00:00"
+        },
+        {
+          "pacote": "2026-10-09-deja-de-culpar",
+          "item": "short-4",
+          "formato": "libro",
+          "video_id": "uNw-yrZjp2E",
+          "titulo": "En vez de lamentarlo, hazlo",
+          "em": "2026-10-10T00:01:55+00:00"
         }
       ],
-      "ultimo_short": "2026-10-09T21:05:44+00:00",
+      "ultimo_short": "2026-10-10T00:01:55+00:00",
       "shorts_dia": {
-        "data": "2026-10-09",
-        "n": 3
+        "data": "2026-10-10",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
