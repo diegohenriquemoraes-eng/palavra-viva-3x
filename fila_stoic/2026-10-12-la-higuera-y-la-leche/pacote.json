@@ -1,0 +1,195 @@
+{
+  "slug": "la-higuera-y-la-leche",
+  "formato": "libro",
+  "data": "2026-10-12",
+  "criado_em": "2026-10-10T05:56:48+00:00",
+  "aprovado_em": "2026-10-10T05:56:48+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 9"
+    ],
+    "titulo": {
+      "stoic": "Cómo Tratar a la Gente Difícil | Marco Aurelio, Libro IX"
+    },
+    "thumb_titulo": {
+      "stoic": "GENTE\nDIFÍCIL"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones IX"
+    },
+    "abertura": {
+      "stoic": "El noveno libro de las Meditaciones está lleno de gente difícil: necios, ingratos, envidiosos. Marco Aurelio los conocía de cerca, porque gobernaba con ellos. Este es el libro completo."
+    },
+    "cierre": {
+      "stoic": "La enseñanza aquí no es aguantar en silencio. Es esperar de cada uno lo que es, decir la verdad sin rabia, y no convertir cada necedad ajena en una sorpresa propia. Quien deja de sorprenderse deja también de enojarse."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones libro 9",
+        "gente toxica",
+        "paciencia estoica",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro IX de las Meditaciones de Marco Aurelio, completo, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg/1920px-Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:Southover_Bonfire_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_4.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_fireworks_display_36.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG/1920px-Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Editor5807",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lewes_Bonfire_Night_2013_South_Street_bonfire_2.JPG",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dusk_Sky_%289825349336%29.jpg/1920px-Dusk_Sky_%289825349336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky_(9825349336).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Dusk_Sky.jpg/1920px-Dusk_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Cumulonimbus_Storm_Clouds_-_panoramio.jpg/1920px-Cumulonimbus_Storm_Clouds_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Corey Coyle",
+        "origem": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_Storm_Clouds_-_panoramio.jpg",
+        "licenca": "CC BY 3.0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Thomas Lindsay",
+        "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Lindsay_-_Storm_Clouds_-_B1975.4.59_-_Yale_Center_for_British_Art.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Storm_clouds_formation3.jpg/1920px-Storm_clouds_formation3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation3.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Storm_clouds_formation2.jpg/1920px-Storm_clouds_formation2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation2.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Meditaciones 5:53/1-2",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "¿Te enfadas con el que huele mal?"
+      },
+      "aplicacao": "Cada uno da lo que tiene. Enfadarte no cambia el olor.",
+      "gancho": {
+        "stoic": "La comparación más incómoda de Marco Aurelio."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Meditaciones 4:15/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "No le pidas leche a la higuera"
+      },
+      "aplicacao": "Espera de cada uno lo que es; así no te decepciona.",
+      "gancho": {
+        "stoic": "Marco Aurelio y la higuera que da leche."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "John Bauer",
+        "origem": "https://commons.wikimedia.org/wiki/File:John_Bauer_-_Princess_Tuvstarr_gazing_down_into_the_dark_waters_of_the_forest_tarn._-_Google_Art_Project.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Meditaciones 9:64/1",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "¿Te sorprende que el necio haga necedades?"
+      },
+      "aplicacao": "La sorpresa es tuya; él solo hizo lo de siempre.",
+      "gancho": {
+        "stoic": "La pregunta que desarma cualquier enojo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Storm_clouds_formation1.jpg/1920px-Storm_clouds_formation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Meditaciones 6:36/3",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Díselo, pero sin enojarte"
+      },
+      "aplicacao": "La verdad dicha con rabia se oye como ataque.",
+      "gancho": {
+        "stoic": "Marco Aurelio sobre cómo corregir a otro."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg/1920px-South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "ragespinloss",
+        "origem": "https://commons.wikimedia.org/wiki/File:South_Heighton_Bonfire_Society_at_Lewes_Bonfire_Night_2017.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}

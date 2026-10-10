@@ -1,0 +1,220 @@
+{
+  "slug": "filho-prodigo",
+  "formato": "historia",
+  "data": "2026-10-12",
+  "criado_em": "2026-10-10T05:56:26+00:00",
+  "aprovado_em": "2026-10-10T05:56:26+00:00",
+  "longo": {
+    "refs": [
+      "Luke 15:11-32"
+    ],
+    "titulo": {
+      "es": "El Hijo Pródigo — La Parábola Completa | Lucas 15 Narrado",
+      "en": "The Prodigal Son — The Complete Parable | Luke 15 Narrated",
+      "pt": "O Filho Pródigo — A Parábola Completa | Lucas 15 Narrado"
+    },
+    "thumb_titulo": {
+      "es": "EL HIJO\nPRÓDIGO",
+      "en": "THE PRODIGAL\nSON",
+      "pt": "O FILHO\nPRÓDIGO"
+    },
+    "thumb_sub": {
+      "es": "Lucas 15 — parábola completa",
+      "en": "Luke 15 — full parable",
+      "pt": "Lucas 15 — parábola completa"
+    },
+    "abertura": {
+      "es": "Lucas quince, del versículo once al treinta y dos: la parábola del hijo que pidió su herencia, la gastó y volvió. Solamente el texto, sin comentario.",
+      "pt": "Lucas quinze, do versículo onze ao trinta e dois: a parábola do filho que pediu a herança, gastou tudo e voltou. Somente o texto, sem comentário."
+    },
+    "cierre": {},
+    "tags_extra": {
+      "es": [
+        "hijo prodigo",
+        "lucas 15",
+        "parabolas de jesus",
+        "historias biblicas",
+        "biblia narrada"
+      ],
+      "pt": [
+        "filho prodigo",
+        "lucas 15",
+        "parabolas de jesus",
+        "historias biblicas",
+        "biblia narrada"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Lucas 15:11-32 completo: la parábola del hijo pródigo. Reina-Valera 1909.",
+      "pt": "Lucas 15:11-32 completo: a parábola do filho pródigo. Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Dusk_Sky_%289825349336%29.jpg/1920px-Dusk_Sky_%289825349336%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky_(9825349336).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Dusk_Sky.jpg/1920px-Dusk_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "FotoSleuth",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sky.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/A_nightime_sky_view_of_dusk..jpg/1920px-A_nightime_sky_view_of_dusk..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bruce Emmerling",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_nightime_sky_view_of_dusk..jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Fireplace_coalfire.jpg/1920px-Fireplace_coalfire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Kmtextor",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace_coalfire.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Fireplace%2C_Wood_fire%2C_Rostov-on-Don%2C_Russia.jpg/1920px-Fireplace%2C_Wood_fire%2C_Rostov-on-Don%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace,_Wood_fire,_Rostov-on-Don,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Fireplace-RM.jpg/1920px-Fireplace-RM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Ryan Mahle from Sherman Oaks, CA, USA",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fireplace-RM.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Fire%2C_Fireplace%2C_Rostov-on-Don%2C_Russia.jpg/1920px-Fire%2C_Fireplace%2C_Rostov-on-Don%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Vyacheslav Argenberg",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire,_Fireplace,_Rostov-on-Don,_Russia.jpg",
+        "licenca": "CC BY 4.0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Luke 15:17-19",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Lucas 15:17-19 — Y volviendo en sí, dijo: ¡Cuántos jornaleros | Biblia",
+        "en": "Luke 15:17-19 — And when he came to himself, he | Bible",
+        "pt": "Lucas 15:17-19 — E ele, pensando consigo mesmo, disse: Quantos | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que el hijo pródigo se dijo entre los cerdos.",
+        "pt": "O que o filho pródigo disse a si mesmo entre os porcos."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dusk_Sunset_Sky.jpg/1920px-Dusk_Sunset_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Luke 15:20",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Lucas 15:20 — Y levantándose, vino a su padre | Biblia",
+        "en": "Luke 15:20 — And he arose, and came | Bible",
+        "pt": "Lucas 15:20 — E levantando-se, foi a seu pai | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que hizo el padre cuando lo vio de lejos.",
+        "pt": "O que o pai fez quando o viu de longe."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Luke 15:22-24",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Lucas 15:22-24 — Mas el padre dijo a sus siervos | Biblia",
+        "en": "Luke 15:22-24 — But the father said to his servants | Bible",
+        "pt": "Lucas 15:22-24 — Mas o pai disse a seus servos | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "La orden del padre a los siervos.",
+        "pt": "A ordem do pai aos servos."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg/1920px-Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Infrogmation of New Orleans",
+        "origem": "https://commons.wikimedia.org/wiki/File:Maple_St_LR_Fireplace_1_Carrollton_New_Orleans.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Luke 15:31-32",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Lucas 15:31-32 — El entonces le dijo: Hijo, tú siempre | Biblia",
+        "en": "Luke 15:31-32 — And he said unto him, Son, thou | Bible",
+        "pt": "Lucas 15:31-32 — E ele lhe disse: Filho, tu sempre | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que el padre respondió al hijo mayor.",
+        "pt": "O que o pai respondeu ao filho mais velho."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
