@@ -6470,3 +6470,11 @@
 - Item: longo — Provérbios 3, Provérbios 4
 - Duração: 2193.1s
 - Publicado em: 2026-10-10T14:15:58+00:00
+
+## [stoic] Vl8ausEvlrE — Que las cosas no te gobiernen
+
+- URL: https://youtu.be/Vl8ausEvlrE
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 16:1
+- Duração: 21.9s
+- Publicado em: 2026-10-10T16:02:18+00:00
