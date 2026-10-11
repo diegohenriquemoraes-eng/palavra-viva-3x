@@ -6502,3 +6502,19 @@
 - Item: longo — João 14, João 15, João 16
 - Duração: 1939.1s
 - Publicado em: 2026-10-11T02:53:32+00:00
+
+## [es] 9Plh4oTC0YE — Juan 14:1 — No se turbe vuestro corazón: creéis | Biblia
+
+- URL: https://youtu.be/9Plh4oTC0YE
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Juan 14:1
+- Duração: 16.2s
+- Publicado em: 2026-10-11T04:09:41+00:00
+
+## [pt] hn0MwLh4Rqw — João 14:1 — Não se perturbe vosso coração; credes | Bíblia
+
+- URL: https://youtu.be/hn0MwLh4Rqw
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — João 14:1
+- Duração: 16.3s
+- Publicado em: 2026-10-11T04:10:39+00:00

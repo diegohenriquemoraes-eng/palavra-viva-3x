@@ -2659,12 +2659,20 @@
           "video_id": "Z59W1pmfoD8",
           "titulo": "Juan 14, 15 y 16 — No Se Turbe Vuestro Corazón | Biblia Hablada",
           "em": "2026-10-11T02:26:14+00:00"
+        },
+        {
+          "pacote": "2026-10-11-juan-14-16",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "9Plh4oTC0YE",
+          "titulo": "Juan 14:1 — No se turbe vuestro corazón: creéis | Biblia",
+          "em": "2026-10-11T04:09:41+00:00"
         }
       ],
-      "ultimo_short": "2026-10-10T13:55:26+00:00",
+      "ultimo_short": "2026-10-11T04:09:41+00:00",
       "shorts_dia": {
-        "data": "2026-10-10",
-        "n": 2
+        "data": "2026-10-11",
+        "n": 1
       },
       "longo_data": "2026-10-11",
       "longos_dia": {
@@ -5029,11 +5037,19 @@
           "video_id": "MBtwl4MGoOA",
           "titulo": "João 14, 15 e 16 — Não Se Turbe o Vosso Coração | Bíblia Narrada",
           "em": "2026-10-11T02:53:32+00:00"
+        },
+        {
+          "pacote": "2026-10-11-juan-14-16",
+          "item": "short-1",
+          "formato": "tema",
+          "video_id": "hn0MwLh4Rqw",
+          "titulo": "João 14:1 — Não se perturbe vosso coração; credes | Bíblia",
+          "em": "2026-10-11T04:10:39+00:00"
         }
       ],
-      "ultimo_short": "2026-10-10T01:20:54+00:00",
+      "ultimo_short": "2026-10-11T04:10:39+00:00",
       "shorts_dia": {
-        "data": "2026-10-10",
+        "data": "2026-10-11",
         "n": 1
       },
       "longo_data": "2026-10-11",
