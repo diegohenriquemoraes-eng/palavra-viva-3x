@@ -6518,3 +6518,11 @@
 - Item: short-1 — João 14:1
 - Duração: 16.3s
 - Publicado em: 2026-10-11T04:10:39+00:00
+
+## [stoic] YMxeqQzKyJA — La calma es orden, no silencio
+
+- URL: https://youtu.be/YMxeqQzKyJA
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Meditaciones 4:4
+- Duração: 16.1s
+- Publicado em: 2026-10-11T09:08:00+00:00

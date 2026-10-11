@@ -6376,12 +6376,20 @@
           "video_id": "NLX4PHMnyA4",
           "titulo": "Pedir ayuda no es rendirse",
           "em": "2026-10-10T23:07:23+00:00"
+        },
+        {
+          "pacote": "2026-10-11-la-fortaleza-interior",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "YMxeqQzKyJA",
+          "titulo": "La calma es orden, no silencio",
+          "em": "2026-10-11T09:08:00+00:00"
         }
       ],
-      "ultimo_short": "2026-10-10T23:07:23+00:00",
+      "ultimo_short": "2026-10-11T09:08:00+00:00",
       "shorts_dia": {
-        "data": "2026-10-10",
-        "n": 4
+        "data": "2026-10-11",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
