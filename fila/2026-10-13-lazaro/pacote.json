@@ -1,0 +1,220 @@
+{
+  "slug": "lazaro",
+  "formato": "historia",
+  "data": "2026-10-13",
+  "criado_em": "2026-10-11T05:50:38+00:00",
+  "aprovado_em": "2026-10-11T05:50:38+00:00",
+  "longo": {
+    "refs": [
+      "John 11:1-44"
+    ],
+    "titulo": {
+      "es": "Lázaro, Ven Fuera — La Resurrección de Lázaro | Juan 11 Narrado",
+      "en": "Lazarus, Come Forth — The Raising of Lazarus | John 11 Narrated",
+      "pt": "Lázaro, Vem Para Fora — A Ressurreição de Lázaro | João 11 Narrado"
+    },
+    "thumb_titulo": {
+      "es": "LÁZARO\nVEN FUERA",
+      "en": "LAZARUS\nCOME FORTH",
+      "pt": "LÁZARO\nVEM PARA FORA"
+    },
+    "thumb_sub": {
+      "es": "Juan 11 — historia completa",
+      "en": "John 11 — full story",
+      "pt": "João 11 — história completa"
+    },
+    "abertura": {
+      "es": "Juan once, del versículo uno al cuarenta y cuatro: la enfermedad, los cuatro días, el versículo más corto de la Biblia y la voz frente a la tumba. Solamente el texto.",
+      "pt": "João onze, do versículo um ao quarenta e quatro: a doença, os quatro dias, o versículo mais curto da Bíblia e a voz diante do túmulo. Somente o texto."
+    },
+    "cierre": {},
+    "tags_extra": {
+      "es": [
+        "lazaro",
+        "juan 11",
+        "resurreccion de lazaro",
+        "historias biblicas",
+        "biblia narrada"
+      ],
+      "pt": [
+        "lazaro",
+        "joao 11",
+        "ressurreicao de lazaro",
+        "historias biblicas",
+        "biblia narrada"
+      ]
+    },
+    "descricao_busca": {
+      "es": "Juan 11:1-44 completo: la resurrección de Lázaro. Reina-Valera 1909.",
+      "pt": "João 11:1-44 completo: a ressurreição de Lázaro. Bíblia Livre."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg/1920px-Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author or not provided",
+        "origem": "https://commons.wikimedia.org/wiki/File:Near_Algiers,_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg/1920px-Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Forest Service - Northern Region",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_(53150816968).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg/1920px-Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/Milan Loiacono",
+        "origem": "https://commons.wikimedia.org/wiki/File:Terra_Torch_(milanloiacono-firesensefortstewart-04-2025-0677).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Oil_lamp%2C_clay_-_Museo_Egizio_%28Turin%29_S_2110_ND_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_clay_-_Museo_Egizio_(Turin)_S_2110_ND_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p01.jpg/1920px-Two-spouted_lamp_with_palmette_handle%2C_clay_-_Museo_Egizio_%28Turin%29_C_7278_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Two-spouted_lamp_with_palmette_handle,_clay_-_Museo_Egizio_(Turin)_C_7278_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg/1920px-Lamp_decorated_with_radiating_motifs_and_volutes%2C_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_decorated_with_radiating_motifs_and_volutes,_baked_clay_-_Museo_Egizio_Turin_P_2096_p02.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2110_ND_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2110_ND_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2110_ND_p01.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p01.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p01.jpg",
+        "licenca": "CC0"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "John 11:25-26",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 11:25-26 — Dícele Jesús: Yo soy la resurrección | Biblia",
+        "en": "John 11:25-26 — Jesus said unto her, I am | Bible",
+        "pt": "João 11:25-26 — Disse-lhe Jesus: Eu sou a ressurreição | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Jesús dijo esto antes de llegar a la tumba.",
+        "pt": "Jesus disse isto antes de chegar ao túmulo."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "John 11:35",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 11:35 — Y lloró Jesús | Biblia",
+        "en": "John 11:35 — Jesus wept | Bible",
+        "pt": "João 11:35 — Jesus chorou | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "El versículo más corto de la Biblia.",
+        "pt": "O versículo mais curto da Bíblia."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "John 11:40",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 11:40 — Jesús le dice: ¿No te he dicho | Biblia",
+        "en": "John 11:40 — Jesus saith unto her, Said I not | Bible",
+        "pt": "João 11:40 — Jesus disse-lhe: Não te disse | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Lo que Jesús le dijo a Marta frente a la piedra.",
+        "pt": "O que Jesus disse a Marta diante da pedra."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p03.jpg/1920px-Oil_lamp%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_2119_p03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Oil_lamp,_baked_clay_-_Museo_Egizio,_Turin_S_2119_p03.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "John 11:43-44",
+      "tipo": "promesa",
+      "titulo": {
+        "es": "Juan 11:43-44 — Y habiendo dicho estas cosas, clamó | Biblia",
+        "en": "John 11:43-44 — And when he thus had spoken, he | Bible",
+        "pt": "João 11:43-44 — E havendo dito isto, clamou com grande | Bíblia"
+      },
+      "aplicacao": "",
+      "gancho": {
+        "es": "Tres palabras, y el muerto salió.",
+        "pt": "Três palavras, e o morto saiu."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}

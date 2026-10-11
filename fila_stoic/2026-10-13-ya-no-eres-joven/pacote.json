@@ -1,0 +1,195 @@
+{
+  "slug": "ya-no-eres-joven",
+  "formato": "libro",
+  "data": "2026-10-13",
+  "criado_em": "2026-10-11T05:51:20+00:00",
+  "aprovado_em": "2026-10-11T05:51:20+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 2"
+    ],
+    "titulo": {
+      "stoic": "Ya No Eres un Muchacho | Marco Aurelio, Libro II"
+    },
+    "thumb_titulo": {
+      "stoic": "YA NO ERES\nJOVEN"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones II"
+    },
+    "abertura": {
+      "stoic": "El segundo libro de las Meditaciones es corto y urgente: el tiempo pasa, y cada día que aplazas es un día que no vuelve. Lo escuchas completo, sin cortes."
+    },
+    "cierre": {
+      "stoic": "Epicteto y Marco Aurelio coinciden en algo duro: nadie va a venir a darte permiso para cambiar. No hay maestro que esperar ni lunes perfecto. Hay un día, este, y una versión de ti un poco mejor que la de ayer."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones libro 2",
+        "procrastinacion",
+        "el tiempo",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro II de las Meditaciones de Marco Aurelio, completo, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Old-fashioned_clock_on_a_laptop_closeup.jpg/1920px-Old-fashioned_clock_on_a_laptop_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Shixart1985",
+        "origem": "https://commons.wikimedia.org/wiki/File:Old-fashioned_clock_on_a_laptop_closeup.jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_reverse%2C_printing_1932C-12.jpg/1920px-The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_reverse%2C_printing_1932C-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Grosset & Dunlap",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_reverse,_printing_1932C-12.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_1933B-14_printing.jpg/1920px-The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_1933B-14_printing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Cover art by Russell H. Tandy (1891–1963)",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_obverse,_1933B-14_printing.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_1953_printing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Cover art by Bill Gillies",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_1953_printing.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_printing_1932C-12.jpg/1920px-The_Secret_of_the_Old_Clock_%281930%29_dust_jacket%2C_obverse%2C_printing_1932C-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Grosset & Dunlap",
+        "origem": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930)_dust_jacket,_obverse,_printing_1932C-12.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Night_Clouds_%2811424731603%29.jpg/1920px-Night_Clouds_%2811424731603%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424731603).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Desert_Flag_Night_Flights_%288384155%29.jpg/1920px-Desert_Flag_Night_Flights_%288384155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384155).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Desert_Flag_Night_Flights_%288384158%29.jpg/1920px-Desert_Flag_Night_Flights_%288384158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384158).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Desert_Flag_Night_Flights_%288384166%29.jpg/1920px-Desert_Flag_Night_Flights_%288384166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384166).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Desert_Flag_Night_Flights_%288384157%29.jpg/1920px-Desert_Flag_Night_Flights_%288384157%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "U.S. Air Force AFCENT by Tech. Sgt. Kregg York",
+        "origem": "https://commons.wikimedia.org/wiki/File:Desert_Flag_Night_Flights_(8384157).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 74:1/5",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Ya no eres un muchacho"
+      },
+      "aplicacao": "La edad no acepta excusas. Empieza mientras puedes.",
+      "gancho": {
+        "stoic": "Epicteto a los que siguen aplazando su cambio."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Clock_-_Old_South_Meeting_House_-_Boston%2C_MA_-_DSC05856.jpg/1920px-Clock_-_Old_South_Meeting_House_-_Boston%2C_MA_-_DSC05856.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Daderot",
+        "origem": "https://commons.wikimedia.org/wiki/File:Clock_-_Old_South_Meeting_House_-_Boston,_MA_-_DSC05856.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 74:2/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Vivirás y morirás como uno más"
+      },
+      "aplicacao": "No es destino: es lo que pasa si no decides hoy.",
+      "gancho": {
+        "stoic": "La advertencia más dura de Epicteto."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Storm_clouds_formation1.jpg/1920px-Storm_clouds_formation1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Greg Wilson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Storm_clouds_formation1.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Enquiridión 74:2/2",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Elige la vida del que mejora"
+      },
+      "aplicacao": "Un poco mejor que ayer ya es otra vida.",
+      "gancho": {
+        "stoic": "La salida que Epicteto daba al que se rinde."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg/1920px-A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Rohitmahali01",
+        "origem": "https://commons.wikimedia.org/wiki/File:A_calm_sky_at_dusk_with_a_silhouetted_plant.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 74:1/4",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "¿A qué maestro estás esperando?"
+      },
+      "aplicacao": "Ya sabes lo que tienes que cambiar. Faltas tú.",
+      "gancho": {
+        "stoic": "Epicteto a los que siempre empiezan el lunes."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg/1920px-Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Steve Jurvetson",
+        "origem": "https://commons.wikimedia.org/wiki/File:Milky_Way_Night_Sky_Black_Rock_Desert_Nevada.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    }
+  ]
+}
