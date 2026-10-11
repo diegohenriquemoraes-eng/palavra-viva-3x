@@ -6486,3 +6486,19 @@
 - Item: short-4 — Meditaciones 7:7
 - Duração: 20.2s
 - Publicado em: 2026-10-10T23:07:23+00:00
+
+## [es] Z59W1pmfoD8 — Juan 14, 15 y 16 — No Se Turbe Vuestro Corazón | Biblia Hablada
+
+- URL: https://youtu.be/Z59W1pmfoD8
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Juan 14, Juan 15, Juan 16
+- Duração: 1961.5s
+- Publicado em: 2026-10-11T02:26:14+00:00
+
+## [pt] MBtwl4MGoOA — João 14, 15 e 16 — Não Se Turbe o Vosso Coração | Bíblia Narrada
+
+- URL: https://youtu.be/MBtwl4MGoOA
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — João 14, João 15, João 16
+- Duração: 1939.1s
+- Publicado em: 2026-10-11T02:53:32+00:00
