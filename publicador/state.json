@@ -2667,6 +2667,14 @@
           "video_id": "9Plh4oTC0YE",
           "titulo": "Juan 14:1 — No se turbe vuestro corazón: creéis | Biblia",
           "em": "2026-10-11T04:09:41+00:00"
+        },
+        {
+          "pacote": "2026-10-11-romanos-8",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "kKXVA1xuqq0",
+          "titulo": "Romanos 8 — Nada Nos Separará del Amor de Dios | Biblia Hablada",
+          "em": "2026-10-11T11:23:02+00:00"
         }
       ],
       "ultimo_short": "2026-10-11T04:09:41+00:00",
@@ -2677,9 +2685,9 @@
       "longo_data": "2026-10-11",
       "longos_dia": {
         "data": "2026-10-11",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-11T02:26:14+00:00"
+      "ultimo_longo": "2026-10-11T11:23:02+00:00"
     },
     "en": {
       "publicados": [
@@ -5045,6 +5053,14 @@
           "video_id": "hn0MwLh4Rqw",
           "titulo": "João 14:1 — Não se perturbe vosso coração; credes | Bíblia",
           "em": "2026-10-11T04:10:39+00:00"
+        },
+        {
+          "pacote": "2026-10-11-romanos-8",
+          "item": "longo",
+          "formato": "tema",
+          "video_id": "xDrMrhqmNVE",
+          "titulo": "Romanos 8 — Nada Nos Separará do Amor de Deus | Bíblia Narrada",
+          "em": "2026-10-11T11:41:47+00:00"
         }
       ],
       "ultimo_short": "2026-10-11T04:10:39+00:00",
@@ -5055,9 +5071,9 @@
       "longo_data": "2026-10-11",
       "longos_dia": {
         "data": "2026-10-11",
-        "n": 1
+        "n": 2
       },
-      "ultimo_longo": "2026-10-11T02:53:32+00:00"
+      "ultimo_longo": "2026-10-11T11:41:47+00:00"
     },
     "stoic": {
       "publicados": [

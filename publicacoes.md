@@ -6526,3 +6526,19 @@
 - Item: short-1 — Meditaciones 4:4
 - Duração: 16.1s
 - Publicado em: 2026-10-11T09:08:00+00:00
+
+## [es] kKXVA1xuqq0 — Romanos 8 — Nada Nos Separará del Amor de Dios | Biblia Hablada
+
+- URL: https://youtu.be/kKXVA1xuqq0
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Romanos 8
+- Duração: 1816.7s
+- Publicado em: 2026-10-11T11:23:02+00:00
+
+## [pt] xDrMrhqmNVE — Romanos 8 — Nada Nos Separará do Amor de Deus | Bíblia Narrada
+
+- URL: https://youtu.be/xDrMrhqmNVE
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — Romanos 8
+- Duração: 2223.2s
+- Publicado em: 2026-10-11T11:41:47+00:00
