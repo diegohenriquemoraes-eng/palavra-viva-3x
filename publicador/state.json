@@ -2677,12 +2677,20 @@
           "titulo": "Romanos 8 — Nada Nos Separará del Amor de Dios | Biblia Hablada",
           "em": "2026-10-11T11:23:02+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-11-juan-14-16",
+          "item": "short-2",
+          "formato": "tema",
+          "video_id": "9D-ArqimICQ",
+          "titulo": "Juan 14:27 — La paz os dejo, mi paz | Biblia",
+          "em": "2026-10-11T15:51:55+00:00"
         }
       ],
-      "ultimo_short": "2026-10-11T04:09:41+00:00",
+      "ultimo_short": "2026-10-11T15:51:55+00:00",
       "shorts_dia": {
         "data": "2026-10-11",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-11",
       "longos_dia": {
@@ -6405,12 +6413,20 @@
           "video_id": "YMxeqQzKyJA",
           "titulo": "La calma es orden, no silencio",
           "em": "2026-10-11T09:08:00+00:00"
+        },
+        {
+          "pacote": "2026-10-11-la-fortaleza-interior",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "1mgaropzj50",
+          "titulo": "Tienes una fortaleza y no entras",
+          "em": "2026-10-11T15:52:57+00:00"
         }
       ],
-      "ultimo_short": "2026-10-11T09:08:00+00:00",
+      "ultimo_short": "2026-10-11T15:52:57+00:00",
       "shorts_dia": {
         "data": "2026-10-11",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {

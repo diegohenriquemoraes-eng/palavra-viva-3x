@@ -6542,3 +6542,19 @@
 - Item: longo — Romanos 8
 - Duração: 2223.2s
 - Publicado em: 2026-10-11T11:41:47+00:00
+
+## [es] 9D-ArqimICQ — Juan 14:27 — La paz os dejo, mi paz | Biblia
+
+- URL: https://youtu.be/9D-ArqimICQ
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Juan 14:27
+- Duração: 14.6s
+- Publicado em: 2026-10-11T15:51:55+00:00
+
+## [stoic] 1mgaropzj50 — Tienes una fortaleza y no entras
+
+- URL: https://youtu.be/1mgaropzj50
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Meditaciones 8:55
+- Duração: 19.7s
+- Publicado em: 2026-10-11T15:52:57+00:00
