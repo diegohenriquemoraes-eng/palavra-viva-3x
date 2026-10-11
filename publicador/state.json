@@ -6421,12 +6421,20 @@
           "video_id": "1mgaropzj50",
           "titulo": "Tienes una fortaleza y no entras",
           "em": "2026-10-11T15:52:57+00:00"
+        },
+        {
+          "pacote": "2026-10-11-la-fortaleza-interior",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "eldOk9_nBgY",
+          "titulo": "La felicidad es una conciencia limpia",
+          "em": "2026-10-11T20:28:20+00:00"
         }
       ],
-      "ultimo_short": "2026-10-11T15:52:57+00:00",
+      "ultimo_short": "2026-10-11T20:28:20+00:00",
       "shorts_dia": {
         "data": "2026-10-11",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

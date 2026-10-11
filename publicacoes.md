@@ -6558,3 +6558,11 @@
 - Item: short-2 — Meditaciones 8:55
 - Duração: 19.7s
 - Publicado em: 2026-10-11T15:52:57+00:00
+
+## [stoic] eldOk9_nBgY — La felicidad es una conciencia limpia
+
+- URL: https://youtu.be/eldOk9_nBgY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Meditaciones 7:18
+- Duração: 13.5s
+- Publicado em: 2026-10-11T20:28:20+00:00
