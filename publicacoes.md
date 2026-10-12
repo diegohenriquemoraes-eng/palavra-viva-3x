@@ -6566,3 +6566,11 @@
 - Item: short-3 — Meditaciones 7:18
 - Duração: 13.5s
 - Publicado em: 2026-10-11T20:28:20+00:00
+
+## [stoic] Rgj-i7Q4A84 — Tu mal no viene de fuera
+
+- URL: https://youtu.be/Rgj-i7Q4A84
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Meditaciones 4:56
+- Duração: 19.7s
+- Publicado em: 2026-10-12T00:02:31+00:00

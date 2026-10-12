@@ -6429,12 +6429,20 @@
           "video_id": "eldOk9_nBgY",
           "titulo": "La felicidad es una conciencia limpia",
           "em": "2026-10-11T20:28:20+00:00"
+        },
+        {
+          "pacote": "2026-10-11-la-fortaleza-interior",
+          "item": "short-4",
+          "formato": "libro",
+          "video_id": "Rgj-i7Q4A84",
+          "titulo": "Tu mal no viene de fuera",
+          "em": "2026-10-12T00:02:31+00:00"
         }
       ],
-      "ultimo_short": "2026-10-11T20:28:20+00:00",
+      "ultimo_short": "2026-10-12T00:02:31+00:00",
       "shorts_dia": {
-        "data": "2026-10-11",
-        "n": 3
+        "data": "2026-10-12",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
