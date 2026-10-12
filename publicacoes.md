@@ -6574,3 +6574,19 @@
 - Item: short-4 — Meditaciones 4:56
 - Duração: 19.7s
 - Publicado em: 2026-10-12T00:02:31+00:00
+
+## [es] jXhFN7ct-LU — Abraham e Isaac — Dios Proveerá | Génesis 22 Narrado Completo
+
+- URL: https://youtu.be/jXhFN7ct-LU
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Génesis 22:1-19
+- Duração: 249.1s
+- Publicado em: 2026-10-12T00:53:12+00:00
+
+## [pt] ret9kFDwc84 — Gênesis 22:7-8 — Então falou Isaque a Abraão seu pai | Bíblia
+
+- URL: https://youtu.be/ret9kFDwc84
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — Gênesis 22:7
+- Duração: 17.5s
+- Publicado em: 2026-10-12T00:54:18+00:00

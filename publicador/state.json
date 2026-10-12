@@ -2685,6 +2685,14 @@
           "video_id": "9D-ArqimICQ",
           "titulo": "Juan 14:27 — La paz os dejo, mi paz | Biblia",
           "em": "2026-10-11T15:51:55+00:00"
+        },
+        {
+          "pacote": "2026-10-12-abraao-isaque",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "jXhFN7ct-LU",
+          "titulo": "Abraham e Isaac — Dios Proveerá | Génesis 22 Narrado Completo",
+          "em": "2026-10-12T00:53:12+00:00"
         }
       ],
       "ultimo_short": "2026-10-11T15:51:55+00:00",
@@ -2692,12 +2700,12 @@
         "data": "2026-10-11",
         "n": 2
       },
-      "longo_data": "2026-10-11",
+      "longo_data": "2026-10-12",
       "longos_dia": {
-        "data": "2026-10-11",
-        "n": 2
+        "data": "2026-10-12",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-11T11:23:02+00:00"
+      "ultimo_longo": "2026-10-12T00:53:12+00:00"
     },
     "en": {
       "publicados": [
@@ -5074,11 +5082,19 @@
           "titulo": "Romanos 8 — Nada Nos Separará do Amor de Deus | Bíblia Narrada",
           "em": "2026-10-11T11:41:47+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-12-abraao-isaque",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "ret9kFDwc84",
+          "titulo": "Gênesis 22:7-8 — Então falou Isaque a Abraão seu pai | Bíblia",
+          "em": "2026-10-12T00:54:18+00:00"
         }
       ],
-      "ultimo_short": "2026-10-11T04:10:39+00:00",
+      "ultimo_short": "2026-10-12T00:54:18+00:00",
       "shorts_dia": {
-        "data": "2026-10-11",
+        "data": "2026-10-12",
         "n": 1
       },
       "longo_data": "2026-10-11",
