@@ -1,0 +1,195 @@
+{
+  "slug": "antes-de-empezar",
+  "formato": "libro",
+  "data": "2026-10-14",
+  "criado_em": "2026-10-12T06:02:06+00:00",
+  "aprovado_em": "2026-10-12T06:02:06+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 12"
+    ],
+    "titulo": {
+      "stoic": "Por Qué Abandonas Todo Lo Que Empiezas | Marco Aurelio, Libro XII"
+    },
+    "thumb_titulo": {
+      "stoic": "LO DEJAS\nA MEDIAS"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones XII"
+    },
+    "abertura": {
+      "stoic": "El último libro de las Meditaciones es un balance: qué hacer con lo que queda de vida. Junto a él, Epicteto explica por qué abandonamos lo que empezamos. Escuchas el libro doce completo."
+    },
+    "cierre": {
+      "stoic": "El entusiasmo sirve para empezar y casi nunca para terminar. Epicteto pedía mirar antes el precio entero, lo que precede y lo que sigue. Si después de mirarlo todavía lo quieres, entonces sí: ya no es capricho, es decisión."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones libro 12",
+        "constancia",
+        "terminar lo que empiezas",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro XII de las Meditaciones de Marco Aurelio, completo, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg/1920px-Near_Algiers%2C_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Unknown author Unknown author or not provided",
+        "origem": "https://commons.wikimedia.org/wiki/File:Near_Algiers,_%22Torch%22_troops_hit_the_beaches_behind_a_large_American_flag_%22Left%22_hoping_for_the_French_Army_not_fire..._-_NARA_-_195516.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg/1920px-Terra_Torch_%28milanloiacono-firesensefortstewart-04-2025-0677%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "NASA/Milan Loiacono",
+        "origem": "https://commons.wikimedia.org/wiki/File:Terra_Torch_(milanloiacono-firesensefortstewart-04-2025-0677).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg/1920px-Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_%2853150816968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Forest Service - Northern Region",
+        "origem": "https://commons.wikimedia.org/wiki/File:Fire_Engine_Crew_using_drip_torch_to_back_burn_Dakota_Prairie_Grasslands_671andCrew_(53150816968).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Busan_fishing_harbor_at_night_5.jpg/1920px-Busan_fishing_harbor_at_night_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_5.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Busan_fishing_harbor_at_night_14.jpg/1920px-Busan_fishing_harbor_at_night_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_14.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Busan_fishing_harbor_at_night_8.jpg/1920px-Busan_fishing_harbor_at_night_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_8.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Busan_fishing_harbor_at_night_15.jpg/1920px-Busan_fishing_harbor_at_night_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_15.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Busan_fishing_harbor_at_night_7.jpg/1920px-Busan_fishing_harbor_at_night_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_7.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Red_clouds_at_night_kinross.jpg/1920px-Red_clouds_at_night_kinross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Leon Brooks",
+        "origem": "https://commons.wikimedia.org/wiki/File:Red_clouds_at_night_kinross.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Night_Clouds_%2811424616894%29.jpg/1920px-Night_Clouds_%2811424616894%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424616894).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 36:3/4",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Por qué lo dejas todo a medias"
+      },
+      "aplicacao": "El entusiasmo empieza; solo el plan termina.",
+      "gancho": {
+        "stoic": "Epicteto explicó por qué abandonas."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg/1920px-Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Godfried Schalcken",
+        "origem": "https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_-_Man_with_a_fire_torch_-_M.Ob.853_MNW_-_National_Museum_in_Warsaw.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 36:3/2",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Imitas a todos y no acabas nada"
+      },
+      "aplicacao": "Copiar el sueño de otro es la forma más rápida de abandonarlo.",
+      "gancho": {
+        "stoic": "La comparación de Epicteto que nadie quiere oír."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Dark_forest_scenic.jpg/1920px-Dark_forest_scenic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George Sallie, U.S. Fish and Wildlife Service",
+        "origem": "https://commons.wikimedia.org/wiki/File:Dark_forest_scenic.jpg",
+        "licenca": "Public domain"
+      }
+    },
+    {
+      "ref": "Enquiridión 9:1/1",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Antes de empezar, examina"
+      },
+      "aplicacao": "Cinco minutos de pensar ahorran meses de arrepentirse.",
+      "gancho": {
+        "stoic": "La regla de Epicteto antes de cualquier proyecto."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Lamp_handle_with_figures_of_Isis_and_Demeter%2C_kaolinitic_clay_-_Museo_Egizio_%28Turin%29_P_191_p01.jpg/1920px-Lamp_handle_with_figures_of_Isis_and_Demeter%2C_kaolinitic_clay_-_Museo_Egizio_%28Turin%29_P_191_p01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "desconhecido",
+        "origem": "https://commons.wikimedia.org/wiki/File:Lamp_handle_with_figures_of_Isis_and_Demeter,_kaolinitic_clay_-_Museo_Egizio_(Turin)_P_191_p01.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 4:1/1",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Desearlo a medias no basta"
+      },
+      "aplicacao": "Todo gran sí exige varios no. ¿Cuáles vas a decir?",
+      "gancho": {
+        "stoic": "Epicteto sobre el precio de lo que quieres."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Busan_fishing_harbor_at_night_17.jpg/1920px-Busan_fishing_harbor_at_night_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Syced",
+        "origem": "https://commons.wikimedia.org/wiki/File:Busan_fishing_harbor_at_night_17.jpg",
+        "licenca": "CC0"
+      }
+    }
+  ]
+}
