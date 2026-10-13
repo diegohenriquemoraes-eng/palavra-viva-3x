@@ -6630,3 +6630,19 @@
 - Item: short-1 — João 11:25-26
 - Duração: 17.5s
 - Publicado em: 2026-10-13T19:41:10+00:00
+
+## [es] TW7tR21XEp4 — Juan 11:35 — Y lloró Jesús | Biblia
+
+- URL: https://youtu.be/TW7tR21XEp4
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-2 — Juan 11:35
+- Duração: 9.3s
+- Publicado em: 2026-10-13T23:22:12+00:00
+
+## [stoic] pILGT6ahwIM — Vivirás y morirás como uno más
+
+- URL: https://youtu.be/pILGT6ahwIM
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 74:2
+- Duração: 14.6s
+- Publicado em: 2026-10-13T23:37:21+00:00

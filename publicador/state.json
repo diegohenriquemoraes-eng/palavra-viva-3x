@@ -2710,12 +2710,20 @@
           "video_id": "g-LD2yk2GFw",
           "titulo": "Juan 11:25-26 — Dícele Jesús: Yo soy la resurrección | Biblia",
           "em": "2026-10-13T19:40:18+00:00"
+        },
+        {
+          "pacote": "2026-10-13-lazaro",
+          "item": "short-2",
+          "formato": "historia",
+          "video_id": "TW7tR21XEp4",
+          "titulo": "Juan 11:35 — Y lloró Jesús | Biblia",
+          "em": "2026-10-13T23:22:12+00:00"
         }
       ],
-      "ultimo_short": "2026-10-13T19:40:18+00:00",
+      "ultimo_short": "2026-10-13T23:22:12+00:00",
       "shorts_dia": {
         "data": "2026-10-13",
-        "n": 1
+        "n": 2
       },
       "longo_data": "2026-10-13",
       "longos_dia": {
@@ -6494,12 +6502,20 @@
           "video_id": "ltEpPXRUB3M",
           "titulo": "Ya no eres un muchacho",
           "em": "2026-10-13T19:32:40+00:00"
+        },
+        {
+          "pacote": "2026-10-13-ya-no-eres-joven",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "pILGT6ahwIM",
+          "titulo": "Vivirás y morirás como uno más",
+          "em": "2026-10-13T23:37:21+00:00"
         }
       ],
-      "ultimo_short": "2026-10-13T19:32:40+00:00",
+      "ultimo_short": "2026-10-13T23:37:21+00:00",
       "shorts_dia": {
         "data": "2026-10-13",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
