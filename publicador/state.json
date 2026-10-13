@@ -6510,12 +6510,20 @@
           "video_id": "pILGT6ahwIM",
           "titulo": "Vivirás y morirás como uno más",
           "em": "2026-10-13T23:37:21+00:00"
+        },
+        {
+          "pacote": "2026-10-13-ya-no-eres-joven",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "qnJnb7EFsl4",
+          "titulo": "Elige la vida del que mejora",
+          "em": "2026-10-13T23:51:41+00:00"
         }
       ],
-      "ultimo_short": "2026-10-13T23:37:21+00:00",
+      "ultimo_short": "2026-10-13T23:51:41+00:00",
       "shorts_dia": {
         "data": "2026-10-13",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

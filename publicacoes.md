@@ -6646,3 +6646,11 @@
 - Item: short-2 — Enquiridión 74:2
 - Duração: 14.6s
 - Publicado em: 2026-10-13T23:37:21+00:00
+
+## [stoic] qnJnb7EFsl4 — Elige la vida del que mejora
+
+- URL: https://youtu.be/qnJnb7EFsl4
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 74:2
+- Duração: 15.3s
+- Publicado em: 2026-10-13T23:51:41+00:00
