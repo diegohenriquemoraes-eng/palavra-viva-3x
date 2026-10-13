@@ -6614,3 +6614,19 @@
 - Item: short-1 — Enquiridión 74:1
 - Duração: 16.3s
 - Publicado em: 2026-10-13T19:32:40+00:00
+
+## [es] g-LD2yk2GFw — Juan 11:25-26 — Dícele Jesús: Yo soy la resurrección | Biblia
+
+- URL: https://youtu.be/g-LD2yk2GFw
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: short-1 — Juan 11:25-26
+- Duração: 18.6s
+- Publicado em: 2026-10-13T19:40:18+00:00
+
+## [pt] q4G5rfTwxOw — João 11:25-26 — Disse-lhe Jesus: Eu sou a ressurreição | Bíblia
+
+- URL: https://youtu.be/q4G5rfTwxOw
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: short-1 — João 11:25-26
+- Duração: 17.5s
+- Publicado em: 2026-10-13T19:41:10+00:00

@@ -2702,12 +2702,20 @@
           "video_id": "mC9GMOw5X6M",
           "titulo": "Lázaro, Ven Fuera — La Resurrección de Lázaro | Juan 11 Narrado",
           "em": "2026-10-13T19:28:27+00:00"
+        },
+        {
+          "pacote": "2026-10-13-lazaro",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "g-LD2yk2GFw",
+          "titulo": "Juan 11:25-26 — Dícele Jesús: Yo soy la resurrección | Biblia",
+          "em": "2026-10-13T19:40:18+00:00"
         }
       ],
-      "ultimo_short": "2026-10-11T15:51:55+00:00",
+      "ultimo_short": "2026-10-13T19:40:18+00:00",
       "shorts_dia": {
-        "data": "2026-10-11",
-        "n": 2
+        "data": "2026-10-13",
+        "n": 1
       },
       "longo_data": "2026-10-13",
       "longos_dia": {
@@ -5107,11 +5115,19 @@
           "video_id": "dsAJKfjBmTk",
           "titulo": "Lázaro, Vem Para Fora — A Ressurreição de Lázaro | João 11 Narrado",
           "em": "2026-10-13T19:31:42+00:00"
+        },
+        {
+          "pacote": "2026-10-13-lazaro",
+          "item": "short-1",
+          "formato": "historia",
+          "video_id": "q4G5rfTwxOw",
+          "titulo": "João 11:25-26 — Disse-lhe Jesus: Eu sou a ressurreição | Bíblia",
+          "em": "2026-10-13T19:41:10+00:00"
         }
       ],
-      "ultimo_short": "2026-10-12T00:54:18+00:00",
+      "ultimo_short": "2026-10-13T19:41:10+00:00",
       "shorts_dia": {
-        "data": "2026-10-12",
+        "data": "2026-10-13",
         "n": 1
       },
       "longo_data": "2026-10-13",
