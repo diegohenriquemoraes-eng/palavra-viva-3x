@@ -1,0 +1,195 @@
+{
+  "slug": "socrates-en-la-carcel",
+  "formato": "libro",
+  "data": "2026-10-15",
+  "criado_em": "2026-10-13T00:43:35+00:00",
+  "aprovado_em": "2026-10-13T00:43:35+00:00",
+  "longo": {
+    "refs": [
+      "Meditaciones 1"
+    ],
+    "titulo": {
+      "stoic": "Lo Que Sócrates Dijo en la Cárcel | Marco Aurelio, Libro I"
+    },
+    "thumb_titulo": {
+      "stoic": "EN LA\nCÁRCEL"
+    },
+    "thumb_sub": {
+      "stoic": "Marco Aurelio, Meditaciones I"
+    },
+    "abertura": {
+      "stoic": "El primer libro de las Meditaciones es una lista de gratitud: lo que Marco Aurelio aprendió de cada persona que lo formó. Los estoicos tenían otro maestro común, Sócrates, de quien Epicteto habla en sus Shorts de hoy. Este es el libro primero completo."
+    },
+    "cierre": {
+      "stoic": "Marco Aurelio empezó su diario dando las gracias, y Sócrates terminó su vida sin rencor contra quienes lo condenaron. Entre las dos cosas hay una idea: lo que te pueden quitar no es lo que eres. Lo que eres se construye con lo que agradeces y con lo que no traicionas."
+    },
+    "tags_extra": {
+      "stoic": [
+        "marco aurelio",
+        "meditaciones libro 1",
+        "socrates",
+        "gratitud estoica",
+        "estoicismo"
+      ]
+    },
+    "descricao_busca": {
+      "stoic": "El libro I de las Meditaciones de Marco Aurelio, completo, narrado en español."
+    },
+    "imagens": [
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Post-Medieval_Iron_Chain_Link_%28FindID_974070%29.jpg/1920px-Post-Medieval_Iron_Chain_Link_%28FindID_974070%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "North Lincolnshire Museum, Martin Foreman, 2019-10-07 15:32:58",
+        "origem": "https://commons.wikimedia.org/wiki/File:Post-Medieval_Iron_Chain_Link_(FindID_974070).jpg",
+        "licenca": "CC BY 2.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/060_Iron_Chain_from_Luding_Bridge_when_Red_Army_Captured_it_During_Long_March.jpg/1920px-060_Iron_Chain_from_Luding_Bridge_when_Red_Army_Captured_it_During_Long_March.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Gary Lee Todd, Ph.D.",
+        "origem": "https://commons.wikimedia.org/wiki/File:060_Iron_Chain_from_Luding_Bridge_when_Red_Army_Captured_it_During_Long_March.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Industries_of_War_-_Metals_-_Iron_-_Producing_Iron_for_Government_use._The_Burden_Iron_Company_Foundry%2C_Troy%2C_New_York._First_step_in_punching_test_of_chain_iron_-_DPLA_-_4f0d0307fa88e9837bff0b468563969f.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "War Department. 1789-9/18/1947",
+        "origem": "https://commons.wikimedia.org/wiki/File:Industries_of_War_-_Metals_-_Iron_-_Producing_Iron_for_Government_use._The_Burden_Iron_Company_Foundry,_Troy,_New_York._First_step_in_punching_test_of_chain_iron_-_DPLA_-_4f0d0307fa88e9837bff0b468563969f.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flickr_-_Official_U.S._Navy_Imagery_-_A_sailor_fires_a_Mk_38_25mm_chain_gun%2C_using_its_iron_sights_-_aboard_USS_Chung-Hoon.jpg/1920px-Flickr_-_Official_U.S._Navy_Imagery_-_A_sailor_fires_a_Mk_38_25mm_chain_gun%2C_using_its_iron_sights_-_aboard_USS_Chung-Hoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Official Navy Page from United States of America Ensign Lily Daniels/U",
+        "origem": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_A_sailor_fires_a_Mk_38_25mm_chain_gun,_using_its_iron_sights_-_aboard_USS_Chung-Hoon.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Iron_chain_male_and_bronze_helmet_%2813th-15th_cent.%29_at_the_Byzantine_and_Christian_Museum_of_Athens_on_12_April_2019.jpg/1920px-Iron_chain_male_and_bronze_helmet_%2813th-15th_cent.%29_at_the_Byzantine_and_Christian_Museum_of_Athens_on_12_April_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "George E. Koronaios",
+        "origem": "https://commons.wikimedia.org/wiki/File:Iron_chain_male_and_bronze_helmet_(13th-15th_cent.)_at_the_Byzantine_and_Christian_Museum_of_Athens_on_12_April_2019.jpg",
+        "licenca": "CC0"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Burning_candle_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Paolo Neo",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_(1).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Burning_candle.jpg/1920px-Burning_candle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Photos public domain.com",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle.jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Burning_candle_creation.jpg/1920px-Burning_candle_creation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Klare Mat",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_creation.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Candle_Burning.JPG/1920px-Candle_Burning.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Nanda93",
+        "origem": "https://commons.wikimedia.org/wiki/File:Candle_Burning.JPG",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Burning_candle_marco.jpg/1920px-Burning_candle_marco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Donald Olszewski",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_marco.jpg",
+        "licenca": "CC BY 4.0"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Night_Clouds_%2811424694453%29.jpg/1920px-Night_Clouds_%2811424694453%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424694453).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Night_Clouds_%2811424563144%29.jpg/1920px-Night_Clouds_%2811424563144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424563144).jpg",
+        "licenca": "Public domain"
+      },
+      {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Night_Clouds_%2811424718863%29.jpg/1920px-Night_Clouds_%2811424718863%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424718863).jpg",
+        "licenca": "Public domain"
+      }
+    ]
+  },
+  "shorts": [
+    {
+      "ref": "Enquiridión 78:1/4",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Pueden quitarme la vida, no esto"
+      },
+      "aplicacao": "Lo que te pueden quitar no es lo que eres.",
+      "gancho": {
+        "stoic": "Sócrates nombró a los que lo iban a matar."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/SHM_05.2022_Chain_and_badge_of_the_Order_of_Iron_Crown_%28Austria%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Retired electrician",
+        "origem": "https://commons.wikimedia.org/wiki/File:SHM_05.2022_Chain_and_badge_of_the_Order_of_Iron_Crown_(Austria)_03.jpg",
+        "licenca": "CC0"
+      }
+    },
+    {
+      "ref": "Enquiridión 78:1/5",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Mi cuerpo obedece, mi espíritu no"
+      },
+      "aplicacao": "Encadenado por fuera, libre por dentro: la única libertad segura.",
+      "gancho": {
+        "stoic": "Lo que Sócrates le dijo a Critón en la cárcel."
+      },
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Burning_candle_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "autor": "Daniil Ryzhkov",
+        "origem": "https://commons.wikimedia.org/wiki/File:Burning_candle_black.jpg",
+        "licenca": "CC BY 3.0"
+      }
+    },
+    {
+      "ref": "Enquiridión 74:2/6",
+      "tipo": "reframe",
+      "titulo": {
+        "stoic": "Cómo llegó Sócrates a ser Sócrates"
+      },
+      "aplicacao": "No es genio: es enfrentar cada cosa con la razón.",
+      "gancho": {
+        "stoic": "El método de Sócrates en una sola línea."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Incense_Smoke%2C_Monday_in_Holy_Week%2C_Church_of_the_Holy_Cross%2C_Episcopal%2C_Shreveport%2C_LA.jpg/1920px-Incense_Smoke%2C_Monday_in_Holy_Week%2C_Church_of_the_Holy_Cross%2C_Episcopal%2C_Shreveport%2C_LA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Steve Snodgrass",
+        "origem": "https://commons.wikimedia.org/wiki/File:Incense_Smoke,_Monday_in_Holy_Week,_Church_of_the_Holy_Cross,_Episcopal,_Shreveport,_LA.jpg",
+        "licenca": "CC BY 2.0"
+      }
+    },
+    {
+      "ref": "Enquiridión 68:1/4",
+      "tipo": "maxim",
+      "titulo": {
+        "stoic": "Nadie aguantó a los demás como él"
+      },
+      "aplicacao": "La paciencia no es debilidad: es fuerza que no se exhibe.",
+      "gancho": {
+        "stoic": "Así describió Epicteto la paciencia de Sócrates."
+      },
+      "imagem": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Night_Clouds_%2811424601594%29.jpg/1920px-Night_Clouds_%2811424601594%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "autor": "Bureau of Land Management Oregon and Washington",
+        "origem": "https://commons.wikimedia.org/wiki/File:Night_Clouds_(11424601594).jpg",
+        "licenca": "Public domain"
+      }
+    }
+  ]
+}
