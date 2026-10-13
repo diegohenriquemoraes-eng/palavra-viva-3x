@@ -2694,6 +2694,14 @@
           "titulo": "Abraham e Isaac — Dios Proveerá | Génesis 22 Narrado Completo",
           "em": "2026-10-12T00:53:12+00:00",
           "capa": "v2-noite-16-09"
+        },
+        {
+          "pacote": "2026-10-13-lazaro",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "mC9GMOw5X6M",
+          "titulo": "Lázaro, Ven Fuera — La Resurrección de Lázaro | Juan 11 Narrado",
+          "em": "2026-10-13T19:28:27+00:00"
         }
       ],
       "ultimo_short": "2026-10-11T15:51:55+00:00",
@@ -2701,12 +2709,12 @@
         "data": "2026-10-11",
         "n": 2
       },
-      "longo_data": "2026-10-12",
+      "longo_data": "2026-10-13",
       "longos_dia": {
-        "data": "2026-10-12",
+        "data": "2026-10-13",
         "n": 1
       },
-      "ultimo_longo": "2026-10-12T00:53:12+00:00"
+      "ultimo_longo": "2026-10-13T19:28:27+00:00"
     },
     "en": {
       "publicados": [
@@ -5091,6 +5099,14 @@
           "video_id": "ret9kFDwc84",
           "titulo": "Gênesis 22:7-8 — Então falou Isaque a Abraão seu pai | Bíblia",
           "em": "2026-10-12T00:54:18+00:00"
+        },
+        {
+          "pacote": "2026-10-13-lazaro",
+          "item": "longo",
+          "formato": "historia",
+          "video_id": "dsAJKfjBmTk",
+          "titulo": "Lázaro, Vem Para Fora — A Ressurreição de Lázaro | João 11 Narrado",
+          "em": "2026-10-13T19:31:42+00:00"
         }
       ],
       "ultimo_short": "2026-10-12T00:54:18+00:00",
@@ -5098,12 +5114,12 @@
         "data": "2026-10-12",
         "n": 1
       },
-      "longo_data": "2026-10-11",
+      "longo_data": "2026-10-13",
       "longos_dia": {
-        "data": "2026-10-11",
-        "n": 2
+        "data": "2026-10-13",
+        "n": 1
       },
-      "ultimo_longo": "2026-10-11T11:41:47+00:00"
+      "ultimo_longo": "2026-10-13T19:31:42+00:00"
     },
     "stoic": {
       "publicados": [
@@ -6454,11 +6470,19 @@
           "video_id": "Rgj-i7Q4A84",
           "titulo": "Tu mal no viene de fuera",
           "em": "2026-10-12T00:02:31+00:00"
+        },
+        {
+          "pacote": "2026-10-13-ya-no-eres-joven",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "ltEpPXRUB3M",
+          "titulo": "Ya no eres un muchacho",
+          "em": "2026-10-13T19:32:40+00:00"
         }
       ],
-      "ultimo_short": "2026-10-12T00:02:31+00:00",
+      "ultimo_short": "2026-10-13T19:32:40+00:00",
       "shorts_dia": {
-        "data": "2026-10-12",
+        "data": "2026-10-13",
         "n": 1
       },
       "longo_data": "",

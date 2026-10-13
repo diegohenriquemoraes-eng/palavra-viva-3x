@@ -6590,3 +6590,27 @@
 - Item: short-1 — Gênesis 22:7
 - Duração: 17.5s
 - Publicado em: 2026-10-12T00:54:18+00:00
+
+## [es] mC9GMOw5X6M — Lázaro, Ven Fuera — La Resurrección de Lázaro | Juan 11 Narrado
+
+- URL: https://youtu.be/mC9GMOw5X6M
+- Canal: Palabra Viva Cortes (`UCIh5XGRGc2t4rLmlukHZOgw`)
+- Item: longo — Juan 11:1-44
+- Duração: 457.3s
+- Publicado em: 2026-10-13T19:28:27+00:00
+
+## [pt] dsAJKfjBmTk — Lázaro, Vem Para Fora — A Ressurreição de Lázaro | João 11 Narrado
+
+- URL: https://youtu.be/dsAJKfjBmTk
+- Canal: Palavra Viva Diária (`UCrUaTRxoF4aTm9BrqeZLwLQ`)
+- Item: longo — João 11:1-44
+- Duração: 457.0s
+- Publicado em: 2026-10-13T19:31:42+00:00
+
+## [stoic] ltEpPXRUB3M — Ya no eres un muchacho
+
+- URL: https://youtu.be/ltEpPXRUB3M
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 74:1
+- Duração: 16.3s
+- Publicado em: 2026-10-13T19:32:40+00:00
