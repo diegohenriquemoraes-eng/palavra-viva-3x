@@ -6670,3 +6670,11 @@
 - Item: short-2 — Enquiridión 36:3
 - Duração: 19.3s
 - Publicado em: 2026-10-14T13:55:09+00:00
+
+## [stoic] nzQaFLdlK3M — Antes de empezar, examina
+
+- URL: https://youtu.be/nzQaFLdlK3M
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 9:1
+- Duração: 14.7s
+- Publicado em: 2026-10-14T19:04:47+00:00

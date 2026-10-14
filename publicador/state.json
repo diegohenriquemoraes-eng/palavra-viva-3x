@@ -6536,12 +6536,20 @@
           "video_id": "DhiQiPyHabY",
           "titulo": "Imitas a todos y no acabas nada",
           "em": "2026-10-14T13:55:09+00:00"
+        },
+        {
+          "pacote": "2026-10-14-antes-de-empezar",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "nzQaFLdlK3M",
+          "titulo": "Antes de empezar, examina",
+          "em": "2026-10-14T19:04:47+00:00"
         }
       ],
-      "ultimo_short": "2026-10-14T13:55:09+00:00",
+      "ultimo_short": "2026-10-14T19:04:47+00:00",
       "shorts_dia": {
         "data": "2026-10-14",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {
