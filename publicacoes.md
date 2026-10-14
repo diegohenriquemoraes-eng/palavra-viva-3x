@@ -6654,3 +6654,11 @@
 - Item: short-3 — Enquiridión 74:2
 - Duração: 15.3s
 - Publicado em: 2026-10-13T23:51:41+00:00
+
+## [stoic] Op1oYKqxyQM — Por qué lo dejas todo a medias
+
+- URL: https://youtu.be/Op1oYKqxyQM
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 36:3
+- Duração: 17.9s
+- Publicado em: 2026-10-14T07:51:47+00:00
