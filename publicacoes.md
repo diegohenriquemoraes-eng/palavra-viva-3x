@@ -6662,3 +6662,11 @@
 - Item: short-1 — Enquiridión 36:3
 - Duração: 17.9s
 - Publicado em: 2026-10-14T07:51:47+00:00
+
+## [stoic] DhiQiPyHabY — Imitas a todos y no acabas nada
+
+- URL: https://youtu.be/DhiQiPyHabY
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 36:3
+- Duração: 19.3s
+- Publicado em: 2026-10-14T13:55:09+00:00
