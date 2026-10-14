@@ -6544,12 +6544,20 @@
           "video_id": "nzQaFLdlK3M",
           "titulo": "Antes de empezar, examina",
           "em": "2026-10-14T19:04:47+00:00"
+        },
+        {
+          "pacote": "2026-10-14-antes-de-empezar",
+          "item": "short-4",
+          "formato": "libro",
+          "video_id": "cvzmxEAVQj8",
+          "titulo": "Desearlo a medias no basta",
+          "em": "2026-10-14T22:43:58+00:00"
         }
       ],
-      "ultimo_short": "2026-10-14T19:04:47+00:00",
+      "ultimo_short": "2026-10-14T22:43:58+00:00",
       "shorts_dia": {
         "data": "2026-10-14",
-        "n": 3
+        "n": 4
       },
       "longo_data": "",
       "longos_dia": {

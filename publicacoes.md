@@ -6678,3 +6678,11 @@
 - Item: short-3 — Enquiridión 9:1
 - Duração: 14.7s
 - Publicado em: 2026-10-14T19:04:47+00:00
+
+## [stoic] cvzmxEAVQj8 — Desearlo a medias no basta
+
+- URL: https://youtu.be/cvzmxEAVQj8
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Enquiridión 4:1
+- Duração: 24.2s
+- Publicado em: 2026-10-14T22:43:58+00:00
