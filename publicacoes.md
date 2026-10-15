@@ -6694,3 +6694,11 @@
 - Item: short-1 — Enquiridión 78:1
 - Duração: 15.9s
 - Publicado em: 2026-10-15T06:04:42+00:00
+
+## [stoic] aTrN1FToZaI — Mi cuerpo obedece, mi espíritu no
+
+- URL: https://youtu.be/aTrN1FToZaI
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-2 — Enquiridión 78:1
+- Duração: 25.0s
+- Publicado em: 2026-10-15T12:19:01+00:00

@@ -6560,12 +6560,20 @@
           "video_id": "vmHY5Rri_JE",
           "titulo": "Pueden quitarme la vida, no esto",
           "em": "2026-10-15T06:04:42+00:00"
+        },
+        {
+          "pacote": "2026-10-15-socrates-en-la-carcel",
+          "item": "short-2",
+          "formato": "libro",
+          "video_id": "aTrN1FToZaI",
+          "titulo": "Mi cuerpo obedece, mi espíritu no",
+          "em": "2026-10-15T12:19:01+00:00"
         }
       ],
-      "ultimo_short": "2026-10-15T06:04:42+00:00",
+      "ultimo_short": "2026-10-15T12:19:01+00:00",
       "shorts_dia": {
         "data": "2026-10-15",
-        "n": 1
+        "n": 2
       },
       "longo_data": "",
       "longos_dia": {
