@@ -6568,12 +6568,20 @@
           "video_id": "aTrN1FToZaI",
           "titulo": "Mi cuerpo obedece, mi espíritu no",
           "em": "2026-10-15T12:19:01+00:00"
+        },
+        {
+          "pacote": "2026-10-15-socrates-en-la-carcel",
+          "item": "short-3",
+          "formato": "libro",
+          "video_id": "ChDQGSUo1BM",
+          "titulo": "Cómo llegó Sócrates a ser Sócrates",
+          "em": "2026-10-15T20:27:34+00:00"
         }
       ],
-      "ultimo_short": "2026-10-15T12:19:01+00:00",
+      "ultimo_short": "2026-10-15T20:27:34+00:00",
       "shorts_dia": {
         "data": "2026-10-15",
-        "n": 2
+        "n": 3
       },
       "longo_data": "",
       "longos_dia": {

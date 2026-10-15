@@ -6702,3 +6702,11 @@
 - Item: short-2 — Enquiridión 78:1
 - Duração: 25.0s
 - Publicado em: 2026-10-15T12:19:01+00:00
+
+## [stoic] ChDQGSUo1BM — Cómo llegó Sócrates a ser Sócrates
+
+- URL: https://youtu.be/ChDQGSUo1BM
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-3 — Enquiridión 74:2
+- Duração: 20.5s
+- Publicado em: 2026-10-15T20:27:34+00:00
