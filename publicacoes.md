@@ -6710,3 +6710,11 @@
 - Item: short-3 — Enquiridión 74:2
 - Duração: 20.5s
 - Publicado em: 2026-10-15T20:27:34+00:00
+
+## [stoic] 2lABFhEKCkc — Nadie aguantó a los demás como él
+
+- URL: https://youtu.be/2lABFhEKCkc
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-4 — Enquiridión 68:1
+- Duração: 15.8s
+- Publicado em: 2026-10-15T23:26:47+00:00
