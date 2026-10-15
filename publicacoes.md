@@ -6686,3 +6686,11 @@
 - Item: short-4 — Enquiridión 4:1
 - Duração: 24.2s
 - Publicado em: 2026-10-14T22:43:58+00:00
+
+## [stoic] vmHY5Rri_JE — Pueden quitarme la vida, no esto
+
+- URL: https://youtu.be/vmHY5Rri_JE
+- Canal: La Noche Estoica (`UCA7Jv8o9i9HB2OScOcxUCvg`)
+- Item: short-1 — Enquiridión 78:1
+- Duração: 15.9s
+- Publicado em: 2026-10-15T06:04:42+00:00

@@ -6552,12 +6552,20 @@
           "video_id": "cvzmxEAVQj8",
           "titulo": "Desearlo a medias no basta",
           "em": "2026-10-14T22:43:58+00:00"
+        },
+        {
+          "pacote": "2026-10-15-socrates-en-la-carcel",
+          "item": "short-1",
+          "formato": "libro",
+          "video_id": "vmHY5Rri_JE",
+          "titulo": "Pueden quitarme la vida, no esto",
+          "em": "2026-10-15T06:04:42+00:00"
         }
       ],
-      "ultimo_short": "2026-10-14T22:43:58+00:00",
+      "ultimo_short": "2026-10-15T06:04:42+00:00",
       "shorts_dia": {
-        "data": "2026-10-14",
-        "n": 4
+        "data": "2026-10-15",
+        "n": 1
       },
       "longo_data": "",
       "longos_dia": {
