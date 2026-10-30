@@ -24,7 +24,7 @@ tem caminho confiável para o AdSense.**
   (`Encerramento-canais-YouTube-30-10-2026.pdf`).
 - **EXCLUÍDOS pelo Diego em 30/10/2026** (youtube.com/account_advanced → Excluir canal, conta
   diegohenriquemoraes@gmail.com). Os workflows ficam desligados para sempre; o repo fica como acervo
-  do motor (reaproveitado pelo gta6-canais). Sobra na conta só o Astucia Fría (desligado desde 19/09).
+  do motor (reaproveitado pelo gta6-canais). O **Astucia Fría** também foi excluído no mesmo dia (pedido do Diego). A conta pessoal ficou sem nenhum canal; o único canal oficial é o @VendanaObra (conta diego@perffec.com.br).
 
 ## 30/09/2026 — La Noche Estoica: estava MUDA desde 28/09; poço reposto e longo ligado
 
