@@ -3,7 +3,7 @@
   "espera_longo_s": 2400,
   "canais": {
     "es": {
-      "ativo": true,
+      "ativo": false,
       "channel_id": "UCIh5XGRGc2t4rLmlukHZOgw",
       "titulo_canal": "Palabra Viva Cortes",
       "handle": "@PalabraVivaEnAudio",
@@ -41,7 +41,7 @@
       "gap_shorts_min": 420
     },
     "pt": {
-      "ativo": true,
+      "ativo": false,
       "channel_id": "UCrUaTRxoF4aTm9BrqeZLwLQ",
       "titulo_canal": "Palavra Viva Diária",
       "handle": "@PalavraVivaDiária-biblia",
@@ -60,7 +60,7 @@
     },
     "stoic": {
       "channel_id": "UCA7Jv8o9i9HB2OScOcxUCvg",
-      "ativo": true,
+      "ativo": false,
       "_transformado_02_08": "02/08/2026: Diego decidiu transformar o canal (pausado em 31/07) para o publico hispanohablante — Noche Estoica. Mesmo canal, token e projeto Cloud; corpus/config/poço viraram espanhol. Plano em ESTRATEGIA-STOIC-ES.md.",
       "titulo_canal": "La Noche Estoica",
       "handle": "@LaNocheEstoica",

@@ -7,6 +7,25 @@
 > Claude na nuvem escreve `O que funciona - <território> (síntese mensal)`. Antes de qualquer
 > sessão de conteúdo: ler a síntese no cérebro. Detalhe: nota `Inventário mensal dos canais`.
 
+## 30/10/2026 — ES, PT e La Noche Estoica ENCERRADOS (decisão do Diego); exclusão pendente dele
+
+Critério do Diego: "se crescem mas o conteúdo não vai monetizar quando bater os requisitos, encerra
+e exclui; o @VendanaObra fica como canal oficial, intacto". Veredito da análise: **nenhum dos três
+tem caminho confiável para o AdSense.**
+- Os três estavam **parados desde 15/10** (poços de temas secos; `Publicar` rodava e saía com "SEM
+  PACOTE"), com inscritos congelados: ES 415, PT 136, stoic 291.
+- ES: 4.003 h/ano projetadas (perto), mas faltam 585 inscritos e as horas vêm de longo bíblico sem
+  interpretação (metade cru): o formato que `answer/1311392` recusa. PT: faltam 864 inscritos
+  (~2,5 anos), 2.014 h/ano, mesmo formato. Stoic: **0 longos publicados** (o longo ligado em 30/09
+  nunca subiu), 94 h/ano; Shorts têm camada autoral, mas sem trilha de volume.
+- **Feito**: `ativo: false` nos três em `publicador/config.json`; workflows Publicar, Reabastecer,
+  Aplicar capas, Realinhar, Preencher playlists, Vigia, Medir e Limpar desligados no GitHub
+  (`gh workflow enable` religa). Relatório em PDF na Área de Trabalho
+  (`Encerramento-canais-YouTube-30-10-2026.pdf`).
+- **Pendente do Diego**: excluir os três no Studio (Configurações → Canal → Configurações
+  avançadas → Remover conteúdo do YouTube), conta diegohenriquemoraes@gmail.com. Exclusão é
+  definitiva e corta os links de afiliado da bio do ES (devocional + piano); alternativa é só parar.
+
 ## 30/09/2026 — La Noche Estoica: estava MUDA desde 28/09; poço reposto e longo ligado
 
 O poço estoico zerou e o canal parou em 28/09 (o vigia avisava desde 17/09). Pedido do Diego:
