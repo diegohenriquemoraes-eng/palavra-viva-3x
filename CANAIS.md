@@ -22,9 +22,9 @@ tem caminho confiável para o AdSense.**
   Aplicar capas, Realinhar, Preencher playlists, Vigia, Medir e Limpar desligados no GitHub
   (`gh workflow enable` religa). Relatório em PDF na Área de Trabalho
   (`Encerramento-canais-YouTube-30-10-2026.pdf`).
-- **Pendente do Diego**: excluir os três no Studio (Configurações → Canal → Configurações
-  avançadas → Remover conteúdo do YouTube), conta diegohenriquemoraes@gmail.com. Exclusão é
-  definitiva e corta os links de afiliado da bio do ES (devocional + piano); alternativa é só parar.
+- **EXCLUÍDOS pelo Diego em 30/10/2026** (youtube.com/account_advanced → Excluir canal, conta
+  diegohenriquemoraes@gmail.com). Os workflows ficam desligados para sempre; o repo fica como acervo
+  do motor (reaproveitado pelo gta6-canais). Sobra na conta só o Astucia Fría (desligado desde 19/09).
 
 ## 30/09/2026 — La Noche Estoica: estava MUDA desde 28/09; poço reposto e longo ligado
 
